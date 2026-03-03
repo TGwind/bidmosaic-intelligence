@@ -1,0 +1,53 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "A股大盘行情速览",
+  "raw_content": "A股大盘行情：上证指数 4122.68 ↓1.43%；沪深300 4655.90 ↓1.54%；深证成指 14022.39 ↓3.07%；创业板指 3209.48 ↓2.57%",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh000001/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-03T09:44:03.737647+00:00",
+  "id": "8e46281a-1da2-4e73-9275-c5cd46af7d75",
+  "generated_title": "A股大盘行情速览",
+  "generated_summary": "A股大盘行情：上证指数 4122.68 ↓1.43%；沪深300 4655.90 ↓1.54%；深证成指 14022.39 ↓3.07%；创业板指 3209.48 ↓2.57%",
+  "generated_analysis": "今日A股市场大幅回调，三大指数集体下挫。沪指失守4150点，创业板指跌幅超2.5%，深成指调整幅度最大。盘面上，权重板块相对抗跌，沪指跌幅较浅，而成长赛道集体走弱，创业板明显弱于主板。资金观望情绪升温，量能有所萎缩。短期市场或进入震荡整固阶段，建议关注权重股动向及量能变化，防御为主。",
+  "tags": [
+    "A股",
+    "大盘",
+    "行情"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-03T09:48:38.241240+00:00",
+  "market_data": {
+    "symbols": [
+      "000001",
+      "000300",
+      "399001",
+      "399006"
+    ],
+    "price_change": {},
+    "indicators": {
+      "000001": {
+        "name": "上证指数",
+        "price": 4122.68,
+        "change_pct": -1.43
+      },
+      "000300": {
+        "name": "沪深300",
+        "price": 4655.9,
+        "change_pct": -1.54
+      },
+      "399001": {
+        "name": "深证成指",
+        "price": 14022.39,
+        "change_pct": -3.07
+      },
+      "399006": {
+        "name": "创业板指",
+        "price": 3209.48,
+        "change_pct": -2.57
+      }
+    }
+  },
+  "metadata": {}
+}

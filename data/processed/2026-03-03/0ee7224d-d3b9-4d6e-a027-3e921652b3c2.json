@@ -1,0 +1,44 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "亨通光电(600487) 今日跌4.19% 报47.52元",
+  "raw_content": "亨通光电(600487) 最新价 47.52元，跌4.19%，涨跌额 -2.08元，今开 50.07元，最高 50.96元，最低 47.30元，昨收 49.60元，成交额 79.47亿元，振幅 7.38%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh600487/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-03T09:44:05.020693+00:00",
+  "id": "0ee7224d-d3b9-4d6e-a027-3e921652b3c2",
+  "generated_title": "亨通光电(600487) 今日跌4.19% 报47.52元 | 减持",
+  "generated_summary": "趋势: 偏弱 · 信号: 减持",
+  "generated_analysis": "今日亨通光电下跌4.19%收于47.52元，股价跌破5日均线，呈现放量下跌走势。成交额79.47亿元，振幅达7.38%，显示市场分歧较大，资金出逃明显。从技术面看，股价虽跌破短期均线但仍站在20日均线上方，整体处于高位震荡格局。量价关系显示卖压较重，短线走势偏弱。作为光通信行业龙头，公司基本面仍有一定支撑，但近期涨幅较大叠加市场调整，建议谨慎对待。\n\n风险提示: 光通信行业竞争加剧导致产品毛利率下降风险，以及5G建设进度不及预期的风险。",
+  "tags": [
+    "A股",
+    "偏弱",
+    "减持"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-03T09:47:24.528570+00:00",
+  "market_data": {
+    "symbols": [
+      "600487"
+    ],
+    "price_change": {
+      "price": 47.52,
+      "change_pct": -4.19,
+      "change_amt": -2.08
+    },
+    "indicators": {
+      "volume": 162607416.0,
+      "turnover": 7946660106.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 7.38,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "trend": "偏弱",
+    "signal": "减持",
+    "risk": "光通信行业竞争加剧导致产品毛利率下降风险，以及5G建设进度不及预期的风险。"
+  }
+}

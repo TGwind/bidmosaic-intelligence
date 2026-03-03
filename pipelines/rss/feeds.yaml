@@ -1,0 +1,30 @@
+feeds:
+  tech:
+    - name: 36kr
+      url: https://36kr.com/feed
+      domain: tech
+    - name: InfoQ CN
+      url: https://www.infoq.cn/feed
+      domain: tech
+    - name: Hacker News (Best)
+      url: https://hnrss.org/best
+      domain: tech
+    - name: TechCrunch
+      url: https://techcrunch.com/feed/
+      domain: tech
+
+  ai:
+    - name: The Verge - AI
+      url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+      domain: ai
+    - name: MIT Technology Review
+      url: https://www.technologyreview.com/feed/
+      domain: ai
+
+  finance:
+    - name: Wall Street Journal Markets
+      url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+      domain: finance
+    - name: Reuters Business
+      url: https://www.reutersagency.com/feed/?best-topics=business-finance
+      domain: finance

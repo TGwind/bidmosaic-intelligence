@@ -1,0 +1,44 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "易点天下(301171) 今日跌6.58% 报50.83元",
+  "raw_content": "易点天下(301171) 最新价 50.83元，跌6.58%，涨跌额 -3.58元，今开 54.84元，最高 55.00元，最低 50.50元，昨收 54.41元，成交额 19.14亿元，振幅 8.27%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz301171/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-03T09:44:05.020653+00:00",
+  "id": "6c2fb08f-a6e5-4102-8aa2-08b68f7f54bd",
+  "generated_title": "易点天下(301171) 今日跌6.58% 报50.83元 | 持有",
+  "generated_summary": "趋势: 偏弱 · 信号: 持有",
+  "generated_analysis": "今日易点天下大幅下跌6.58%，收盘价50.83元，振幅达8.27%，显示市场波动剧烈。从量价关系看，成交额19.14亿元属于较高水平，但呈现放量下跌态势，表明短期卖压较大且资金出逃明显。技术上，今日股价跌破60日均线支撑，短期走势偏弱，但盘中最低50.50元附近存在一定买盘承接。考虑到前期累计涨幅较大，此次回调属于正常调整范围，当前价位可能接近短期支撑位。操作上建议持有观望，若能在50-51元区间企稳，可考虑适度加仓摊低成本；若有效跌破50元支撑，则需考虑减仓应对。\n\n风险提示: 短期走势偏弱，若放量跌破50元支撑位，可能引发进一步回调风险。",
+  "tags": [
+    "A股",
+    "偏弱",
+    "持有"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-03T09:47:58.547741+00:00",
+  "market_data": {
+    "symbols": [
+      "301171"
+    ],
+    "price_change": {
+      "price": 50.83,
+      "change_pct": -6.58,
+      "change_amt": -3.58
+    },
+    "indicators": {
+      "volume": 36626821.0,
+      "turnover": 1914248986.03,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 8.27,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "trend": "偏弱",
+    "signal": "持有",
+    "risk": "短期走势偏弱，若放量跌破50元支撑位，可能引发进一步回调风险。"
+  }
+}

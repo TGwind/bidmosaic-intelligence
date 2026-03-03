@@ -1,0 +1,44 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "工业富联(601138) 今日跌1.17% 报54.88元",
+  "raw_content": "工业富联(601138) 最新价 54.88元，跌1.17%，涨跌额 -0.65元，今开 55.84元，最高 57.80元，最低 54.88元，昨收 55.53元，成交额 109.00亿元，振幅 5.26%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh601138/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-03T09:44:05.020684+00:00",
+  "id": "8bdfc530-e5f9-4603-ab48-155f050a11da",
+  "generated_title": "工业富联(601138) 今日跌1.17% 报54.88元 | 观望",
+  "generated_summary": "趋势: 震荡 · 信号: 观望",
+  "generated_analysis": "",
+  "tags": [
+    "A股",
+    "震荡",
+    "观望"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-03T09:48:31.443604+00:00",
+  "market_data": {
+    "symbols": [
+      "601138"
+    ],
+    "price_change": {
+      "price": 54.88,
+      "change_pct": -1.17,
+      "change_amt": -0.65
+    },
+    "indicators": {
+      "volume": 193218849.0,
+      "turnover": 10900358312.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 5.26,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "trend": "震荡",
+    "signal": "观望",
+    "risk": ""
+  }
+}

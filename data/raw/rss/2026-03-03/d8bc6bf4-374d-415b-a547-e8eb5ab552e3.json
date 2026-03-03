@@ -1,0 +1,23 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+  "raw_content": "<p>I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no precomputed responses.<p>What moved the needle:<p>Voice is a turn-taking problem, not a transcription problem. VAD alone fails; you need semantic end-of-turn detection.<p>The system reduces to one loop: speaking vs listening. The two transitions - cancel instantly on barge-in, respond instantly on end-of-turn - define the experience.<p>STT → LLM → TTS must stream. Sequential pipelines are dead on arrival for natural conversation.<p>TTFT dominates everything. In voice, the first token is the critical path. Groq’s ~80ms TTFT was the single biggest win.<p>Geography matters more than prompts. Colocate everything or you lose before you start.<p>GitHub Repo: \n<a href=\"https://github.com/NickTikhonov/shuo\" rel=\"nofollow\">https://github.com/NickTikhonov/shuo</a><p>Follow whatever I next tinker with: <a href=\"https://x.com/nick_tikhonov\" rel=\"nofollow\">https://x.com/nick_tikhonov</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=47224295\">https://news.ycombinator.com/item?id=47224295</a></p>\n<p>Points: 364</p>\n<p># Comments: 104</p>",
+  "source_url": "https://www.ntik.me/posts/voice-agent",
+  "source_name": "Hacker News (Best)",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T21:23:40+00:00",
+  "id": "d8bc6bf4-374d-415b-a547-e8eb5ab552e3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {}
+}

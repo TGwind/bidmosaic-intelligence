@@ -1,0 +1,76 @@
+name: ai-process
+
+on:
+  workflow_run:
+    workflows: ["collect-rss", "collect-stock"]
+    types: [completed]
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Pull latest changes
+        run: git pull --rebase
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run RSS AI processor when RSS data exists
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_GROUP_ID: ${{ secrets.MINIMAX_GROUP_ID }}
+        run: |
+          TRIGGER="${{ github.event_name == 'workflow_dispatch' && 'manual' || github.event.workflow_run.name }}"
+          TODAY="$(date -u +%Y-%m-%d)"
+          if [ "$TRIGGER" = "manual" ] || [ "$TRIGGER" = "collect-rss" ]; then
+            if [ -d "data/raw/rss/$TODAY" ]; then
+              python -m ai_processor.processor
+            else
+              echo "No RSS raw data for $TODAY"
+            fi
+          else
+            echo "Skipping RSS processor for trigger: $TRIGGER"
+          fi
+
+      - name: Run stock AI processor when stock data exists
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_GROUP_ID: ${{ secrets.MINIMAX_GROUP_ID }}
+        run: |
+          TRIGGER="${{ github.event_name == 'workflow_dispatch' && 'manual' || github.event.workflow_run.name }}"
+          TODAY="$(date -u +%Y-%m-%d)"
+          if [ "$TRIGGER" = "manual" ] || [ "$TRIGGER" = "collect-stock" ]; then
+            if [ -d "data/raw/stock/$TODAY" ]; then
+              python -m ai_processor.stock_processor
+            else
+              echo "No stock raw data for $TODAY"
+            fi
+          else
+            echo "Skipping stock processor for trigger: $TRIGGER"
+          fi
+
+      - name: Commit processed data
+        run: |
+          git config user.name "BidMosaic Bot"
+          git config user.email "bot@bidmosaic.com"
+          git add data/processed/
+          if git diff --staged --quiet; then
+            echo "No processed data to commit"
+          else
+            git commit -m "chore: AI process data $(date -u +%Y-%m-%d_%H:%M)"
+            git push
+          fi

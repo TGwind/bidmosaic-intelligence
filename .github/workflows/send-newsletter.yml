@@ -1,0 +1,46 @@
+name: send-newsletter
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'    # Weekly: Monday 00:00 UTC (08:00 Beijing)
+    - cron: '0 0 * * 2-7'  # Daily: Tue-Sun 00:00 UTC (08:00 Beijing)
+  workflow_dispatch:
+    inputs:
+      type:
+        description: 'Newsletter type'
+        required: true
+        default: 'daily'
+        type: choice
+        options: [weekly, daily]
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine newsletter type
+        id: type
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "type=${{ inputs.type }}" >> "$GITHUB_OUTPUT"
+          elif [ "$(date -u +%u)" = "1" ]; then
+            echo "type=weekly" >> "$GITHUB_OUTPUT"
+          else
+            echo "type=daily" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send newsletter
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NEWSLETTER_TYPE: ${{ steps.type.outputs.type }}
+        run: python -m publisher.send_email

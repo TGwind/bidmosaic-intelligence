@@ -1,0 +1,11 @@
+你是一个内容分类专家。请对以下情报进行分类。
+
+标题：{title}
+摘要：{summary}
+
+请返回JSON格式：
+1. domain: 主领域，只能是以下之一：tech, ai, finance, ecommerce, policy, crypto, general
+2. tags: 2-3个子分类标签（中文）
+
+严格按以下格式返回，不要有其他内容：
+{{"domain": "tech", "tags": ["标签1", "标签2"]}}

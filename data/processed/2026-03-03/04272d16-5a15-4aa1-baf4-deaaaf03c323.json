@@ -1,0 +1,44 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "汇川技术(300124) 今日跌3.32% 报69.01元",
+  "raw_content": "汇川技术(300124) 最新价 69.01元，跌3.32%，涨跌额 -2.37元，今开 71.30元，最高 71.83元，最低 69.01元，昨收 71.38元，成交额 23.38亿元，振幅 3.95%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz300124/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-03T09:44:05.020664+00:00",
+  "id": "04272d16-5a15-4aa1-baf4-deaaaf03c323",
+  "generated_title": "汇川技术(300124) 今日跌3.32% 报69.01元 | 持有",
+  "generated_summary": "趋势: 偏弱 · 信号: 持有",
+  "generated_analysis": "今日汇川技术低开低走，股价下跌3.32%跌破70元关口，振幅达3.95%，显示短期抛压较大。从量价关系看，今日成交额23.38亿元保持较高水平，说明市场分歧较大但资金承接意愿仍在。汇川技术作为工业自动化龙头企业，业绩稳定增长，估值在行业中处于合理水平。短期来看，股价今日跌破5日均线，短期趋势转弱，但考虑到公司基本面良好且有业绩支撑，69元附近可能获得一定支撑，建议持有观察等待企稳。\n\n风险提示: 注意短期技术面转弱风险，若股价进一步跌破68元支撑位，可能引发短线资金止损出逃。",
+  "tags": [
+    "A股",
+    "偏弱",
+    "持有"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-03T09:47:14.999980+00:00",
+  "market_data": {
+    "symbols": [
+      "300124"
+    ],
+    "price_change": {
+      "price": 69.01,
+      "change_pct": -3.32,
+      "change_amt": -2.37
+    },
+    "indicators": {
+      "volume": 33314652.0,
+      "turnover": 2338029560.08,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 3.95,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "trend": "偏弱",
+    "signal": "持有",
+    "risk": "注意短期技术面转弱风险，若股价进一步跌破68元支撑位，可能引发短线资金止损出逃。"
+  }
+}

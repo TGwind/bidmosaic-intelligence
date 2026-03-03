@@ -1,0 +1,23 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
+  "raw_content": "Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceivers, circuit switches, and lasers, which are used to move data at high speeds over long distances. Their tech could improve energy efficiency, data transfer speeds, and bandwidth in future [&#8230;]",
+  "source_url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+  "source_name": "The Verge - AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-02T16:56:49+00:00",
+  "id": "850c837d-d2a4-4325-9eb3-30109555e2a7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {}
+}

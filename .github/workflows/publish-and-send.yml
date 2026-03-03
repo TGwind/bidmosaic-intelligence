@@ -1,0 +1,122 @@
+name: publish-and-send
+
+on:
+  workflow_run:
+    workflows: ["ai-process"]
+    types: [completed]
+  workflow_dispatch:
+    inputs:
+      send_newsletter:
+        description: 'Also send newsletter?'
+        required: false
+        default: 'false'
+        type: choice
+        options: ['true', 'false']
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Checkout Astro site repo
+        if: ${{ vars.ASTRO_REPO != '' }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ vars.ASTRO_REPO }}
+          path: astro-site
+          token: ${{ secrets.ASTRO_REPO_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Pull latest changes
+        run: git pull --rebase
+
+      - name: Pull latest Astro site changes
+        if: ${{ vars.ASTRO_REPO != '' }}
+        run: git -C astro-site pull --rebase
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Publish insights to CMS (local output)
+        env:
+          ASTRO_CONTENT_DIR: ${{ vars.ASTRO_REPO != '' && format('{0}/astro-site/src/content/insights', github.workspace) || format('{0}/output/insights', github.workspace) }}
+        run: python -m publisher.cms_publisher
+
+      - name: Build newsletter queue
+        env:
+          ASTRO_CONTENT_DIR: ${{ vars.ASTRO_REPO != '' && format('{0}/astro-site/src/content/insights', github.workspace) || format('{0}/output/insights', github.workspace) }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://bidmosaic.com' }}
+        run: python -m publisher.newsletter_builder
+
+      - name: Commit newsletter queue
+        run: |
+          git config user.name "BidMosaic Bot"
+          git config user.email "bot@bidmosaic.com"
+          git add data/newsletter_queue/
+          if git diff --staged --quiet; then
+            echo "No newsletter updates"
+          else
+            git commit -m "chore: build newsletter $(date -u +%Y-%m-%d_%H:%M)"
+            git push
+          fi
+
+      - name: Upload insights as artifact
+        if: ${{ vars.ASTRO_REPO == '' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: insights-content
+          path: output/insights/
+          retention-days: 7
+
+      - name: Commit insights to Astro repo
+        if: ${{ vars.ASTRO_REPO != '' }}
+        run: |
+          git -C astro-site config user.name "BidMosaic Bot"
+          git -C astro-site config user.email "bot@bidmosaic.com"
+          git -C astro-site add src/content/insights/
+          if git -C astro-site diff --staged --quiet; then
+            echo "No insight content updates"
+          else
+            git -C astro-site commit -m "chore: publish insights $(date -u +%Y-%m-%d_%H:%M)"
+            git -C astro-site push
+          fi
+
+      - name: Note missing Astro repo config
+        if: ${{ vars.ASTRO_REPO == '' }}
+        run: echo "ASTRO_REPO not configured; insight files were generated as artifact only."
+
+  send:
+    needs: publish
+    runs-on: ubuntu-latest
+    if: ${{ github.event.inputs.send_newsletter == 'true' }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest changes
+        run: git pull --rebase
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Send newsletter
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          NEWSLETTER_TYPE: daily
+        run: python -m publisher.send_email
