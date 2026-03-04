@@ -1,0 +1,23 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Apple might use Google servers to store data for its upgraded AI Siri",
+  "raw_content": "Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had already announced in January that Google's Gemini AI models would help power the upgraded version of Siri it delayed last year, but The Information's report indicates Apple [&#8230;]",
+  "source_url": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
+  "source_name": "The Verge - AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-02T20:22:33+00:00",
+  "id": "94ee9f7a-f0b9-4d00-9d2d-248f48aaf97f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {}
+}
