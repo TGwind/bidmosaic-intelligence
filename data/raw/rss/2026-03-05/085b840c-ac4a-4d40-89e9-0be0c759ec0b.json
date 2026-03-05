@@ -1,0 +1,23 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+  "raw_content": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+  "source_url": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T11:57:00+00:00",
+  "id": "085b840c-ac4a-4d40-89e9-0be0c759ec0b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {}
+}
