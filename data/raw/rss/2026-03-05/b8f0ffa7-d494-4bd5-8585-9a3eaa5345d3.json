@@ -1,0 +1,23 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "创业板指涨超3%",
+  "raw_content": "36氪获悉，创业板指涨超3%，上证指数涨0.66%，深证成指涨1.89%。沪深京三市上涨个股超4400只。",
+  "source_url": "https://36kr.com/newsflashes/3709435780264064?f=rss",
+  "source_name": "36kr",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T02:33:12+00:00",
+  "id": "b8f0ffa7-d494-4bd5-8585-9a3eaa5345d3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {}
+}
