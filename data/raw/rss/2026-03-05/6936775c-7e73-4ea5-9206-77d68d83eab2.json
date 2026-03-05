@@ -1,0 +1,23 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "What's New This Tax Season That Can Save You Money",
+  "raw_content": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+  "source_url": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T10:30:00+00:00",
+  "id": "6936775c-7e73-4ea5-9206-77d68d83eab2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {}
+}
