@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Appoints New Chairman and Board Members to PCAOB",
+  "raw_content": "The Securities and Exchange Commission today announced the appointment of Demetrios (Jim) Logothetis, as Chairman, and Mark Calabria, Kyle Hauptman, and Steven Laughton, as Board members, of the Public Company Accounting Oversight Board (PCAOB). George…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-16-sec-appoints-new-chairman-board-members-pcaob",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-01-30T20:59:00+00:00",
+  "id": "032b1d7d-de9e-42d3-99fe-46fdfb87e148",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

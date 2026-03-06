@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin relief rally hits wall as spot ETFs log $228M in outflows",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin relief rally hits wall as spot ETFs log $228M in outflows\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwMWEtYzg4ZS03YzdjLTk5NzItOTI3NjI4ZjgyODYw.jpg\" /></p><p>US spot Bitcoin ETFs saw $228 million in outflows Thursday, ending a three-day inflow streak, while Solana ETFs posted their first losses since February.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-etfs-228-million-outflows-bear-market-persists?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-06T10:54:28+00:00",
+  "id": "ceaae752-d501-45c0-bc5b-f0f67579d488",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
