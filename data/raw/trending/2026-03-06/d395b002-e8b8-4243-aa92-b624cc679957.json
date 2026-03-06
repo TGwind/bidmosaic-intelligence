@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "堵桥时代迎来大变！护航猛攻哥已吓哭",
+  "raw_content": "都说航天改版后就堵不了桥了？！只能说堵桥犹如呼吸般简单，学会这些焚决助你把把得吃！",
+  "source_url": "https://www.bilibili.com/video/BV1dsAozVEbx",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T18:49:39.651625+00:00",
+  "id": "d395b002-e8b8-4243-aa92-b624cc679957",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2252712,
+    "platform": "bilibili"
+  }
+}

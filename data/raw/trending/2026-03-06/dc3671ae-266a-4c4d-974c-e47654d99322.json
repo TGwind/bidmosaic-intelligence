@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "今天是周总理诞辰128周年，请停留3秒，向敬爱的周总理献花",
+  "raw_content": "今天是周总理诞辰128周年，请停留3秒，向敬爱的周总理献花",
+  "source_url": "https://www.bilibili.com/video/BV1P6PiziEej",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T18:49:39.651584+00:00",
+  "id": "dc3671ae-266a-4c4d-974c-e47654d99322",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1252256,
+    "platform": "bilibili"
+  }
+}
