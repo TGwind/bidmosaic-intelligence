@@ -1,0 +1,23 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+  "raw_content": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+  "source_url": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T09:46:00+00:00",
+  "id": "7e9c15ca-4e2e-4a6e-98dc-e533d9258040",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {}
+}
