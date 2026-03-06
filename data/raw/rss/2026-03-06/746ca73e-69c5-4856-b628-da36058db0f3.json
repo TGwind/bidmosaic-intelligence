@@ -1,0 +1,23 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "创业板指跌超1%",
+  "raw_content": "36氪获悉，创业板指跌超1%。",
+  "source_url": "https://36kr.com/newsflashes/3710794059460744?f=rss",
+  "source_name": "36kr",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-06T01:34:55+00:00",
+  "id": "746ca73e-69c5-4856-b628-da36058db0f3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {}
+}
