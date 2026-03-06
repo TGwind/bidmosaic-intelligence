@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "From words to deeds – incorporating climate risks into sovereign credit ratings",
+  "raw_content": "We investigate the impact of climate risks on sovereign credit ratings worldwide. Our analysis shows that higher temperature anomalies and more frequent natural disasters – measures of physical risk – correlate with lower credit ratings. We find that long-term shifts in climate patterns (“chronic risk”) primarily affect advanced economies, while the increased frequency and severity of extreme weather events (“acute risk”) matters more for emerging economies. However, the estimated impact of both types of risk on credit ratings is low and the economic effects are negligible. Ambitious CO2 reduction targets and actual emission reductions are reflected in higher ratings, but only after the 2015 Paris Agreement – suggesting increased attention to transition risk in recent years. Furthermore, highly indebted countries and countries reliant on fossil fuel revenues are assigned lower ratings, while exporters of transition-critical materials have received higher ratings post-2015.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250730~ebfb33d43c.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-07-30T00:00:00+00:00",
+  "id": "e3a29e2a-a1b4-4004-833a-0ca155f3b76c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

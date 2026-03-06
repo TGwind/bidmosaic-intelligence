@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Multiclass Hate Speech Detection with RoBERTa-OTA: Integrating Transformer Attention and Graph Convolutional Networks",
+  "raw_content": "arXiv:2603.04414v1 Announce Type: new \nAbstract: Multiclass hate speech detection across demographic categories remains computationally challenging due to implicit targeting strategies and linguistic variability in social media content. Existing approaches rely solely on learned representations from training data, without explicitly incorporating structured ontological frameworks that can enhance classification through formal domain knowledge integration. We propose RoBERTa-OTA, which introduces ontology-guided attention mechanisms that process textual features alongside structured knowledge representations through enhanced Graph Convolutional Networks. The architecture combines RoBERTa embeddings with scaled attention layers and graph neural networks to integrate contextual language understanding with domain-specific semantic knowledge. Evaluation across 39,747 balanced samples using 5-fold cross-validation demonstrates significant performance gains over baseline RoBERTa implementations and existing state-of-the-art methods. RoBERTa-OTA achieves 96.04\\% accuracy compared to 95.02\\% for standard RoBERTa, with substantial improvements for challenging categories: gender-based hate speech detection improves by 2.36 percentage points while other hate speech categories improve by 2.38 percentage points. The enhanced architecture maintains computational efficiency with only 0.33\\% parameter overhead, providing practical advantages for large-scale content moderation applications requiring fine-grained demographic hate speech classification.",
+  "source_url": "https://arxiv.org/abs/2603.04414",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-06T05:00:00+00:00",
+  "id": "34c28cd7-8d5d-43a0-962d-14859c616bda",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

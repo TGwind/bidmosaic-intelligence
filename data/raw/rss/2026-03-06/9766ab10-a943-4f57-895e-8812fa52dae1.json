@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Simulating Meaning, Nevermore! Introducing ICR: A Semiotic-Hermeneutic Metric for Evaluating Meaning in LLM Text Summaries",
+  "raw_content": "arXiv:2603.04413v1 Announce Type: new \nAbstract: Meaning in human language is relational, context dependent, and emergent, arising from dynamic systems of signs rather than fixed word-concept mappings. In computational settings, this semiotic and interpretive complexity complicates the generation and evaluation of meaning. This article proposes an interdisciplinary framework for studying meaning in large language model (LLM) generated language by integrating semiotics and hermeneutics with qualitative research methods. We review prior scholarship on meaning and machines, examining how linguistic signs are transformed into vectorized representations in static and contextualized embedding models, and identify gaps between statistical approximation and human interpretive meaning. We then introduce the Inductive Conceptual Rating (ICR) metric, a qualitative evaluation approach grounded in inductive content analysis and reflexive thematic analysis, designed to assess semantic accuracy and meaning alignment in LLM-outputs beyond lexical similarity metrics. We apply ICR in an empirical comparison of LLM generated and human generated thematic summaries across five datasets (N = 50 to 800). While LLMs achieve high linguistic similarity, they underperform on semantic accuracy, particularly in capturing contextually grounded meanings. Performance improves with larger datasets but remains variable across models, potentially reflecting differences in the frequency and coherence of recurring concepts and meanings. We conclude by arguing for evaluation frameworks that leverage systematic qualitative interpretation practices when assessing meaning in LLM-generated outputs from reference texts.",
+  "source_url": "https://arxiv.org/abs/2603.04413",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-06T05:00:00+00:00",
+  "id": "9766ab10-a943-4f57-895e-8812fa52dae1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
