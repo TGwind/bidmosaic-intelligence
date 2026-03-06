@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Pinterest基于CDC的摄取系统将数据库延迟从24小时缩短至15分钟",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/4QxbOWVR1c1CipCUI2Lk?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-06T10:00:00+00:00",
+  "id": "9f934e60-dab4-4b98-b255-a26e1ae3c1e1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T20:40:52.316149+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
