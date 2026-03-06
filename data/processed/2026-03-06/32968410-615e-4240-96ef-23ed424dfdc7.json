@@ -8,16 +8,12 @@
   "domain": "ai",
   "collected_at": "2026-03-05T10:00:00+00:00",
   "id": "32968410-615e-4240-96ef-23ed424dfdc7",
-  "generated_title": "OpenAI推出CoT-Control 发现推理模型思维链可控性存疑",
-  "generated_summary": "OpenAI发布CoT-Control技术，发现推理模型难以完全控制思维链，但这种特性有助于AI安全监控。",
-  "generated_analysis": "OpenAI此次发布的CoT-Control技术揭示了当前推理模型的核心特性：模型思维过程具有内在的可观察性，但难以实现完全可控。这一发现对行业具有深远意义——它证明了即使是最先进的推理模型，其思考路径也并非完全“黑箱”，而是可以通过特定技术进行监测。这为AI安全领域提供了重要的技术锚点。\n\n从市场角度看，这一发现将产生两方面影响：一是推动可解释AI（XAI）技术的研发投入，相关监控和审计工具可能成为企业AI部署的必备组件；二是加速AI安全合规要求的细化，监管机构可能据此出台更严格的模型审计标准。\n\n对于企业决策者而言，趋势判断如下：未来12-18个月内，可解释性将不再是学术概念，而是商业落地的合规需求；具备内置监控能力的AI产品将获得市场溢价；企业应提前布局AI治理框架，将模型可审计性纳入采购决策。建议关注可解释AI技术服务商及AI合规咨询领域的投资机会。",
-  "tags": [
-    "AI安全",
-    "推理模型",
-    "OpenAI"
-  ],
-  "importance_score": 8,
-  "processed_at": "2026-03-06T02:21:53.058714+00:00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.637195+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},

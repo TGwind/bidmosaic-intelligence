@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Semantic Containment as a Fundamental Property of Emergent Misalignment",
+  "raw_content": "arXiv:2603.04407v1 Announce Type: new Abstract: Fine-tuning language models on narrowly harmful data causes emergent misalignment (EM) -- behavioral failures extending far beyond training distributions. Recent work demonstrates compartmentalization of misalignment behind contextual triggers, but these experiments mixed 97% benign data with 3% harmful triggered data. We investigate whether this mix of benign and harmful data teaches models to compartmentalize, or whether semantic triggers alone create containment. We train three model families (Qwen 2.5 14B, Llama 3.1 8B, Gemma 3 12B) with zero benign data -- only harmful examples with triggers, eliminating the good-bad data contrast. We demonstrate that baseline EM rates of 9.5--23.5% drop to 0.0--1.0% when triggers are removed during inference, but recover to 12.2--22.8% when triggers are present -- despite never seeing benign behavior to contrast against. Rephrased triggers maintain this containment, revealing that models respond to semantic meaning rather than surface syntax. These results show that semantic triggers spontaneously induce compartmentalization without requiring a mix of benign and harmful training data, exposing a critical safety gap: any harmful fine-tuning with contextual framing creates exploitable vulnerabilities invisible to standard evaluation.",
+  "source_url": "https://arxiv.org/abs/2603.04407",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-06T05:00:00+00:00",
+  "id": "c30b1eff-cb2c-45e0-9039-8e4509e92223",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.723012+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

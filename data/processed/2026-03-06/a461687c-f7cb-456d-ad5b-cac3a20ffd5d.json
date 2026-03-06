@@ -8,17 +8,12 @@
   "domain": "ai",
   "collected_at": "2025-04-11T10:00:00+00:00",
   "id": "a461687c-f7cb-456d-ad5b-cac3a20ffd5d",
-  "generated_title": "Berkeley提出StruQ和SecAlign防御提示注入攻击",
-  "generated_summary": "针对OWASP排名第一的LLM安全威胁，Berkeley研究提出两种微调防御方法，在5个LLM上将攻击成功率降至15%以下，较SOTA提升4倍。",
-  "generated_analysis": "这一研究标志着LLM安全防护进入实质性突破阶段。提示注入攻击被OWASP列为首位威胁，本质上源于LLM无法有效区分系统指令与外部输入数据，导致攻击者可借由不可信数据源植入恶意指令。Berkeley提出的StruQ和SecAlign通过“安全前端”机制用特殊标记分离指令与数据，并结合对抗训练让模型学会忽略注入内容，实现了在5个主流LLM上将攻击成功率压至15%以下，较现有最佳方案提升4倍。更关键的是，该防御不增加额外计算成本或人工标注负担，具备实际部署的可行性。\n\n对企业决策者而言，此研究揭示了LLM安全从被动检测转向主动防御的技术路径。随着大模型在各行业的深度渗透，此类防御技术将成为AI应用落地的基础设施。预计未来一到两年内，提示注入防御将成为LLM开发的标准配置，同时围绕数据源隔离和指令忠诚度的安全架构设计也将成为行业共识。对于已部署或计划部署LLM应用的企业而言，应密切跟踪这一技术演进，尽早将防御能力纳入产品安全体系。",
-  "tags": [
-    "提示注入",
-    "LLM安全",
-    "对抗性防御",
-    "AI研究"
-  ],
-  "importance_score": 8,
-  "processed_at": "2026-03-06T02:29:08.599641+00:00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.709901+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},

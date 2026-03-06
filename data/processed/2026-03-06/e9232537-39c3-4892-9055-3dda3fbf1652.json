@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Thinking Boundary: Quantifying Reasoning Suitability of Multimodal Tasks via Dual Tuning",
+  "raw_content": "arXiv:2603.04415v1 Announce Type: new Abstract: While reasoning-enhanced Large Language Models (LLMs) have demonstrated remarkable advances in complex tasks such as mathematics and coding, their effectiveness across universal multimodal scenarios remains uncertain. The trend of releasing parallel \"Instruct\" and \"Thinking\" models by leading developers serves merely as a resource-intensive workaround, stemming from the lack of a criterion for determining when reasoning is truly beneficial. In this paper, we propose Dual Tuning, a framework designed to assess whether reasoning yields positive gains for target tasks under given base models and datasets. By jointly fine-tuning on paired Chain-of-Thought (CoT) and Direct-Answer (DA) data under controlled prompts, we systematically quantify and compare the gains of both training modes using the proposed metrics, and establish the \"Thinking Boundary\" to evaluate the suitability of reasoning training across diverse multimodal tasks, including spatial, mathematical, and multi-disciplinary domains. We further explore the impact of reinforcement training and thinking patterns on reasoning suitability, and validate whether the \"Thinking Boundary\" can guide data refinement. Our findings challenge the \"reasoning-for-all\" paradigm, providing practical guidance for identifying appropriate data and training strategies, and motivating the development of resource-efficient, adaptive auto-think systems.",
+  "source_url": "https://arxiv.org/abs/2603.04415",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-06T05:00:00+00:00",
+  "id": "e9232537-39c3-4892-9055-3dda3fbf1652",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.740922+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

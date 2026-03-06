@@ -8,17 +8,12 @@
   "domain": "ai",
   "collected_at": "2025-11-01T09:00:00+00:00",
   "id": "19c91b0d-4d50-441c-9a7f-e98819aa621f",
-  "generated_title": "伯克利提出新型RL算法：分而治之替代TD学习",
-  "generated_summary": "BAIR发布新型off-policy强化学习算法，基于分而治之范式，可扩展至长视界任务，解决传统TD学习的可扩展性难题。",
-  "generated_analysis": "伯克利BAIR提出的新型off-policy强化学习算法代表了强化学习领域的范式转变。传统TD学习依赖bootstrapping机制，导致误差在整个时间线上累积，这在长视界任务中尤为突出，成为制约off-policy RL发展的核心瓶颈。新算法采用“分而治之”思路，绕过了TD学习的固有限制，有望解决这一长期困扰行业的难题。\n\n对于数据采集成本高昂的领域——如机器人控制、对话系统、医疗决策等——这一突破意义重大。这些场景必须依赖off-policy方法以充分利用历史数据，但此前缺乏真正可扩展的解决方案。若新算法经验证能在复杂长任务上展现优越性能，将显著降低这些领域的强化学习应用门槛。\n\n从行业趋势看，2025年on-policy RL已形成成熟技术栈（PPO、GRPO等），而off-policy的突破将补齐最后一块拼图，使强化学习在更多实际场景中具备可行性。预计未来1-2年内将出现更多基于分解范式的研究跟进，而能否在真实环境中验证其有效性，将是决定该方向能否进入产业应用的关键。",
-  "tags": [
-    "强化学习",
-    "算法研究",
-    "TD学习",
-    "off-policy RL"
-  ],
-  "importance_score": 8,
-  "processed_at": "2026-03-06T02:19:42.008430+00:00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.616871+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},

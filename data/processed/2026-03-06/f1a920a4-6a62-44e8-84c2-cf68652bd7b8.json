@@ -8,17 +8,12 @@
   "domain": "tech",
   "collected_at": "2026-03-05T16:00:00+00:00",
   "id": "f1a920a4-6a62-44e8-84c2-cf68652bd7b8",
-  "generated_title": "借鉴Kotlin/Android架构设计可扩展SwiftUI应用",
-  "generated_summary": "本文探讨将Kotlin/Android的技术架构思想应用于SwiftUI iOS开发，构建更具扩展性的应用架构实践。",
-  "generated_analysis": "随着Apple持续推进SwiftUI生态，企业级iOS开发正面临架构升级的关键节点。将Kotlin/Android领域成熟的架构设计思想引入SwiftUI开发，本质上反映了行业对跨平台最佳实践的渴求。Android社区经过多年演进，在MVVM、Clean Architecture、依赖注入等方面积累了丰富经验，这些架构模式与SwiftUI的声明式特性具有高度互补性。\n\n对于企业决策者而言，这一趋势意味着：开发团队可以借鉴更成熟的工程化实践，降低大型应用维护成本；同时，跨平台技术思想的融合将促进人才技能的可迁移性，提升团队效率。预计未来一到两年内，SwiftUI企业级应用开发将加速向模块化、测试驱动方向演进，掌握跨平台架构思维的开发人才将成为稀缺资源，企业应提前布局技术储备和团队培训。",
-  "tags": [
-    "SwiftUI",
-    "iOS开发",
-    "架构设计",
-    "跨平台"
-  ],
-  "importance_score": 7,
-  "processed_at": "2026-03-06T02:34:27.823499+00:00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.743520+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},

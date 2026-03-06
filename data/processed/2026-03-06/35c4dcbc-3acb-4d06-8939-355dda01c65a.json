@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Self-Attribution Bias: When AI Monitors Go Easy on Themselves",
+  "raw_content": "arXiv:2603.04582v1 Announce Type: new Abstract: Agentic systems increasingly rely on language models to monitor their own behavior. For example, coding agents may self critique generated code for pull request approval or assess the safety of tool-use actions. We show that this design pattern can fail when the action is presented in a previous or in the same assistant turn instead of being presented by the user in a user turn. We define self-attribution bias as the tendency of a model to evaluate an action as more correct or less risky when the action is implicitly framed as its own, compared to when the same action is evaluated under off-policy attribution. Across four coding and tool-use datasets, we find that monitors fail to report high-risk or low-correctness actions more often when evaluation follows a previous assistant turn in which the action was generated, compared to when the same action is evaluated in a new context presented in a user turn. In contrast, explicitly stating that the action comes from the monitor does not by itself induce self-attribution bias. Because monitors are often evaluated on fixed examples rather than on their own generated actions, these evaluations can make monitors appear more reliable than they actually are in deployment, leading developers to unknowingly deploy inadequate monitors in agentic systems.",
+  "source_url": "https://arxiv.org/abs/2603.04582",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-06T05:00:00+00:00",
+  "id": "35c4dcbc-3acb-4d06-8939-355dda01c65a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.646285+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

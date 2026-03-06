@@ -8,16 +8,12 @@
   "domain": "finance",
   "collected_at": "2025-01-27T17:27:00+00:00",
   "id": "47b8b6ba-0dfb-4bde-8def-dbdc4388c891",
-  "generated_title": "金融服务市场综述：行业观察",
-  "generated_summary": "华尔街日报市场栏目讨论Experian、SoFi等金融服务公司动态，提供行业洞察。",
+  "generated_title": "",
+  "generated_summary": "",
   "generated_analysis": "",
-  "tags": [
-    "金融科技",
-    "信用服务",
-    "市场动态"
-  ],
-  "importance_score": 6,
-  "processed_at": "2026-03-06T02:23:03.857085+00:00",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.666492+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},

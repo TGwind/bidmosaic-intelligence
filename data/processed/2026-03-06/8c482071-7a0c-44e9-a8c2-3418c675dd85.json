@@ -8,16 +8,12 @@
   "domain": "tech",
   "collected_at": "2026-03-05T17:00:00+00:00",
   "id": "8c482071-7a0c-44e9-a8c2-3418c675dd85",
-  "generated_title": ".NET 11预览版发布：Blazor组件与WebAssembly迎重大更新",
-  "generated_summary": "微软发布.NET 11首个预览版，带来全新Blazor组件、改进的导航功能及WebAssembly支持，进一步强化Web开发能力。",
-  "generated_analysis": ".NET 11预览版的发布标志着微软在统一开发平台战略上持续深化。Blazor组件的重大更新意味着企业可以更高效地实现前后端技术统一，使用C#语言完成全栈开发，这将显著降低技术团队的学习成本和开发复杂度。WebAssembly支持的增强则拓展了.NET应用在浏览器端乃至边缘计算场景的部署能力，为企业构建高性能Web应用提供了更多选择。\n\n从市场竞争角度看，此次更新将进一步加剧Web开发框架领域的竞争格局，尤其对React、Vue等前端框架形成挑战。企业决策者应关注以下趋势：一是全栈统一开发将成为主流选择之一，有助于提升开发效率和代码可维护性；二是WebAssembly生态的成熟将推动更多高性能计算场景向Web端迁移；三是微软在跨平台能力上的持续投入，显示出其对云原生和边缘计算市场的战略重视。建议技术选型时将.NET 11纳入评估范围，尤其对于已有.NET技术栈的企业，此次更新提供了明确的升级路径。",
-  "tags": [
-    ".NET",
-    "Blazor",
-    "WebAssembly"
-  ],
-  "importance_score": 7,
-  "processed_at": "2026-03-06T02:27:28.081658+00:00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.699327+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},

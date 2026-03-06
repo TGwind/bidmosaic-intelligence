@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Kazakhstan central bank to invest $350 million worth of gold, forex reserves into digital assets",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/06/kazakhstan-central-bank-to-invest-usd350-million-worth-of-gold-forex-reserves-into-digital-assets",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-06T13:08:55+00:00",
+  "id": "35458d4a-5c57-4f23-8789-126623584542",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.640755+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -8,16 +8,12 @@
   "domain": "tech",
   "collected_at": "2026-03-05T21:54:37+00:00",
   "id": "94d5b583-5e93-4f62-93aa-984cc7bb1aed",
-  "generated_title": "AWS推出医疗AI代理平台Amazon Connect Health",
-  "generated_summary": "AWS发布医疗AI代理平台Amazon Connect Health，提供患者预约、文档记录和身份验证服务",
-  "generated_analysis": "AWS推出Amazon Connect Health标志着云计算巨头正式将AI代理技术深度切入医疗核心场景。此举背后是医疗行业面临的双重压力：一是全球医护人员短缺与行政负担沉重的矛盾日益突出，二是患者对数字化服务体验的期待持续上升。AWS选择从预约调度、文档记录、患者身份验证这三个高频痛点切入，直接回应了医疗机构最迫切的降本增效需求。\n\n从市场影响来看，Amazon Connect Health将可能重塑医疗IT竞争格局。传统医疗软件厂商面临被替代风险，而AWS的云原生架构和规模化能力使其具备显著成本优势。更重要的是，此举释放了一个明确信号：医疗AI正从辅助诊断等小众应用，扩展到覆盖患者服务全流程的Agent时代。\n\n趋势判断上，预计未来12-18个月内，我们将看到更多云服务商和医疗AI企业加速布局类似平台。医疗机构在选择供应商时，数据安全与HIPAA合规能力将成为比功能丰富度更关键的考量因素。建议企业决策者密切关注这一赛道的技术演进，同时评估自身IT架构的云原生改造可行性，以把握数字化转型窗口期。",
-  "tags": [
-    "AI医疗",
-    "云计算",
-    "亚马逊"
-  ],
-  "importance_score": 7,
-  "processed_at": "2026-03-06T02:28:10.125310+00:00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.703823+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},

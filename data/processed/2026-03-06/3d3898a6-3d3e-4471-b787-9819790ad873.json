@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国寻求在高科技领域争夺主导权",
+  "raw_content": "2026/03/06 中国新的五年规划草案显示，力争加快科技的“自立自强”，建立不依赖美国等国的供应链。在中国的人工智能半导体市场，美国等外国企业按金额计算的份额在2025年达到42%。虽然与2023年的81%相比有所缩小，但仍依赖美国企业…… 敬请登录以便观看全部文章 如果您已经是日经中文网会员，请点击此处，进行登录。 如果您还不是日经中文网会员，请点击此处，进行会员免费注册。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/china/ceconomy/61653-2026-03-06-09-26-19.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-06T02:08:03+00:00",
+  "id": "3d3898a6-3d3e-4471-b787-9819790ad873",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T16:53:46.657560+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
