@@ -8,16 +8,12 @@
   "domain": "general",
   "collected_at": "2026-03-06T02:15:30.754912+00:00",
   "id": "93937098-c484-48f1-8941-11d8358c3946",
-  "generated_title": "B站短视频互动内容",
-  "generated_summary": "B站视频创作者呼吁观众支持其系列作品，请求点赞投币收藏等互动",
+  "generated_title": "",
+  "generated_summary": "",
   "generated_analysis": "",
-  "tags": [
-    "短视频",
-    "B站",
-    "娱乐"
-  ],
-  "importance_score": 2,
-  "processed_at": "2026-03-06T02:17:34.448820+00:00",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-06T18:50:05.132653+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},

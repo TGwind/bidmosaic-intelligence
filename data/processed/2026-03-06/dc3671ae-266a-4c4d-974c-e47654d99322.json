@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "伊朗是真完蛋",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1N7A9zHE6a",
+  "raw_title": "今天是周总理诞辰128周年，请停留3秒，向敬爱的周总理献花",
+  "raw_content": "今天是周总理诞辰128周年，请停留3秒，向敬爱的周总理献花",
+  "source_url": "https://www.bilibili.com/video/BV1P6PiziEej",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-06T02:15:30.754904+00:00",
-  "id": "0b418b81-75c9-4b93-985f-fc5101f88b02",
+  "collected_at": "2026-03-06T18:49:39.651584+00:00",
+  "id": "dc3671ae-266a-4c4d-974c-e47654d99322",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-06T18:50:05.099565+00:00",
+  "processed_at": "2026-03-06T18:50:05.136034+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 5106998,
+    "hot_score": 1252256,
     "platform": "bilibili"
   }
 }

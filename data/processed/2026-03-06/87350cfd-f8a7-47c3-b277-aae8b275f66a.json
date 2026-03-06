@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "伊朗是真完蛋",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1N7A9zHE6a",
+  "raw_title": "全球最大机场——但是倒闭了【神奇组织49】",
+  "raw_content": "本篇为神奇组织之米拉贝尔机场工程。",
+  "source_url": "https://www.bilibili.com/video/BV1LePvzQEDb",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-06T02:15:30.754904+00:00",
-  "id": "0b418b81-75c9-4b93-985f-fc5101f88b02",
+  "collected_at": "2026-03-06T18:49:39.651609+00:00",
+  "id": "87350cfd-f8a7-47c3-b277-aae8b275f66a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-06T18:50:05.099565+00:00",
+  "processed_at": "2026-03-06T18:50:05.128419+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 5106998,
+    "hot_score": 2302514,
     "platform": "bilibili"
   }
 }

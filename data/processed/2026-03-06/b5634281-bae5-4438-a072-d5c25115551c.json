@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "政府工作报告中的新提法",
-  "raw_content": "政府工作报告中的新提法",
-  "source_url": "https://www.toutiao.com/article/7613713183542493750",
+  "raw_title": "“十五五”规划109项重大工程项目",
+  "raw_content": "“十五五”规划109项重大工程项目",
+  "source_url": "https://www.toutiao.com/article/7613795269481693748",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-06T02:15:17.729070+00:00",
-  "id": "551c6bd8-5fa8-44f6-830c-cb813d399e20",
+  "collected_at": "2026-03-06T18:49:38.962920+00:00",
+  "id": "b5634281-bae5-4438-a072-d5c25115551c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-06T18:50:05.126586+00:00",
+  "processed_at": "2026-03-06T18:50:05.136983+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "54782193",
+    "hot_score": "15370056",
     "platform": "toutiao"
   }
 }
