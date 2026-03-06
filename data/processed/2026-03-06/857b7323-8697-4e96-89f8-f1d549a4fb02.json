@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Introducing GPT-5.4",
+  "raw_content": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+  "source_url": "https://openai.com/index/introducing-gpt-5-4",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T10:00:00+00:00",
+  "id": "857b7323-8697-4e96-89f8-f1d549a4fb02",
+  "generated_title": "OpenAI发布GPT-5.4专业工作模型",
+  "generated_summary": "OpenAI推出GPT-5.4旗舰模型，号称最强大高效的 专业工作AI，支持顶尖编程、计算机操作、工具搜索及100万token上下文。",
+  "generated_analysis": "GPT-5.4的发布标志着大语言模型竞争进入新阶段。100万token上下文容量的突破具有里程碑意义，这意味着AI能够一次性处理长篇文档、完整代码库乃至小型知识库，为企业级知识管理、复杂合同分析、长期项目研发提供了此前难以实现的技术基础。结合编程能力与计算机操作的高度整合，OpenAI正在将AI从单纯的对话工具推向真正的“数字工作者”角色。\n\n对于行业而言，这一版本对软件工程、法律合规、金融分析等领域产生直接影响。企业可借助超长上下文实现更精准的代码库理解和修改，显著提升开发效率。工具搜索与计算机操作能力的增强则意味着AI能更深度融入企业工作流，从辅助决策走向执行落地。\n\n从竞争格局看，2025年将成为AI厂商围绕“专业工作场景”决战的关键年份。模型不仅要比拼基础能力，更需在特定领域展现深度价值。趋势上，预计行业将加速分化：通用大模型趋向头部集中，而垂直专业模型将迎来爆发。企业决策者应重点关注如何将AI能力与自身业务流程深度绑定，而非停留在单点工具层面。",
+  "tags": [
+    "人工智能",
+    "OpenAI",
+    "大语言模型"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:27:17.002961+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

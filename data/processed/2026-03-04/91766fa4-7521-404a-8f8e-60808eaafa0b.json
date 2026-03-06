@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
+  "raw_content": "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RAN Read Article",
+  "source_url": "https://blogs.nvidia.com/blog/software-defined-ai-ran/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-01T07:00:03+00:00",
+  "id": "91766fa4-7521-404a-8f8e-60808eaafa0b",
+  "generated_title": "NVIDIA联合诺基亚展示软件定义AI-RAN技术",
+  "generated_summary": "NVIDIA与诺基亚在MWC2025前宣布AI-RAN合作，携手欧美亚电信运营商推动软件定义AI原生无线网络商用。",
+  "generated_analysis": "NVIDIA与诺基亚在MWC2025前夕宣布AI-RAN商用合作，标志着AI驱动的无线接入网络从技术验证进入规模落地阶段。这一合作不仅整合了NVIDIA在AI算力与软件方面的优势，还联合了欧美亚头部电信运营商，形成从技术研发到商业应用的完整闭环。\n\n从行业影响看，软件定义AI-RAN将打破传统电信设备以硬件为核心的商业模式，推动网络向虚拟化、云原生方向演进。对运营商而言，这意味着网络部署将更加灵活，AI能力可按需调用，有望降低建网成本并提升频谱效率。对设备商而言，单纯提供硬件将难以满足运营商的智能化需求，软件与AI能力将成为核心竞争力。\n\n展望未来一到两年，AI-RAN商用部署将在部分领先运营商中率先推进，2025-2026年或出现规模化商用案例。行业竞争格局将加速分化，能够提供软硬件协同解决方案的厂商将占据优势地位。决策者应关注AI-RAN技术路线选择与自身数字化能力的匹配，提前布局以应对网络基础设施的智能化变革。",
+  "tags": [
+    "AI-RAN",
+    "软件定义网络",
+    "电信技术",
+    "英伟达",
+    "诺基亚"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-04T14:50:12.091252+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

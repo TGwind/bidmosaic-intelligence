@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Monetary policy transmission through cross-selling banks",
+  "raw_content": "Banks trade off short-term losses on deposits against long-term profits from cross-selling other products to new depositors. This strategy is especially attractive when policy rates are low and future sales are more valuable. Therefore, deposit rates move less than policy rates: banks keep them relatively higher when policy rates fall, and relatively lower when policy rates rise. As returns on other financial assets follow policy rates more closely, this makes deposits relatively less attractive for depositors at higher policy rates. Therefore, policy rate hikes lead to a reduction in deposits, which are the key source of refinancing for bank loans. This cuts loan supply, supporting the transmission of monetary policy.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb251110~6f96a5db41.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-11-10T07:00:00+00:00",
+  "id": "a83561ed-6806-4f08-a47a-6ffaff9397c2",
+  "generated_title": "ECB研究：交叉销售银行对货币政策传导的影响",
+  "generated_summary": "银行在低利率时维持较高存款利率以吸引储户交叉销售其他产品，导致存款利率变动滞后于政策利率，削弱货币政策效果。",
+  "generated_analysis": "这一研究揭示了银行交叉销售策略对货币政策传导机制的深刻影响。在低利率环境下，银行倾向于维持相对较高的存款利率以吸引储户，进而向其推销理财、基金、保险等高附加值产品。这种策略导致存款利率变动显著滞后于政策利率，削弱了央行利率调整对实体经济的直接传导效果。\n\n对行业而言，这一机制意味着货币政策的效果存在不对称性：加息时存款流失会收紧信贷供给，而降息时银行却可通过保持较高存款利率来维持负债稳定，这可能部分抵消宽松政策的效果。对市场而言，银行交叉销售能力将成为核心竞争力，拥有成熟客户关系网络的银行将在利率波动中占据优势。\n\n从趋势判断，未来银行可能进一步强化交叉销售策略以应对利率周期波动带来的负债管理挑战。同时，监管部门可能需要重新评估货币政策传导效率，考虑在低利率环境下采取更直接的信贷调控工具。对于企业决策者而言，这一研究提示需密切关注银行负债结构变化对融资可得性的潜在影响。",
+  "tags": [
+    "货币政策",
+    "银行存贷",
+    "金融研究"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:57:35.970854+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

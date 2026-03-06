@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "10小时连崩4次、Claude疯狂宕机！刚把ChatGPT干到295%卸载量，就没顶住二次“爆红”？",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/ahajHtW6IWVZ2gp7bBHA?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-04T14:52:42+00:00",
+  "id": "e7be825c-edca-4394-b0bc-69e820083d81",
+  "generated_title": "Claude 10小时连崩4次服务宕机",
+  "generated_summary": "Anthropic旗下Claude在10小时内连续崩溃4次，正值ChatGPT卸载量激增295%之际发生宕机。",
+  "generated_analysis": "此次Claude连续宕机事件发生在一个敏感的时间节点——ChatGPT正经历卸载量激增295%的市场变局。这不仅是一次技术故障，更折射出AI助手市场正在经历深刻格局重塑。\n\n从市场影响来看，Claude的频繁宕机会三重冲击企业用户的信心。首先，企业级用户对服务连续性要求极高，宕机事件将加剧其对AI工具可靠性的担忧，可能促使部分企业延迟或重新评估AI产品的采购决策。其次，在竞争对手承压时出现自身危机，意味着Claude可能错失市场重新洗牌带来的窗口期。第三，此次事件暴露的基础设施短板，可能引发投资者对Anthropic技术成熟度的质疑。\n\n趋势判断：AI助手竞争已从单纯的能力对比转向综合体验与稳定性之争。企业用户在选择AI工具时将更加重视服务商的运维能力与灾备体系。同时，随着企业对AI依赖加深，供应商的技术可靠性将成为核心评估维度。这场宕机危机或将加速行业分化，技术储备不足的厂商面临更大淘汰压力，而具备稳健基础设施的参与者将获得竞争优势。",
+  "tags": [
+    "AI服务",
+    "Claude",
+    "Anthropic",
+    "服务宕机",
+    "OpenAI竞争"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:02.060858+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "非得今儿个走啊",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV115PvzeEy2",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:30.754878+00:00",
+  "id": "bfd0e0ec-d1a8-4ef7-aa8b-5d2d84425fea",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3549997,
+    "platform": "bilibili"
+  }
+}

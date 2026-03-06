@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Online harassment is entering its AI era",
+  "raw_content": "Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library that he helps manage. Like many open-source projects, matplotlib has been overwhelmed by a glut of AI code contributions, and so Shambaugh and his fellow maintainers have instituted a policy that all AI-written code must be&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T10:00:00+00:00",
+  "id": "ecf7d649-2e95-4286-a8a5-5394e8ddb355",
+  "generated_title": "AI代码泛滥冲击开源项目",
+  "generated_summary": "matplotlib等开源项目被大量AI生成代码淹没，维护者被迫制定政策要求所有AI代码必须经过人工审核。",
+  "generated_analysis": "这一事件标志着AI辅助编程大规模应用后，开源生态正在经历深刻结构性压力。随着GitHub Copilot等工具普及，开发者提交AI生成代码的门槛大幅降低，导致开源项目面临前所未有的低质量贡献洪流。matplotlib等核心库维护者的应对举措具有标杆意义，实质上反映了开源社区在效率与质量之间的艰难平衡。\n\n对行业而言，这一趋势将产生多重影响：首先，开源项目的治理成本显著上升，维护者需要投入更多精力进行代码审核；其次，企业依赖的开源供应链可靠性可能下降，尤其是对自动化程度高的项目；再者，AI代码的知识产权和责任归属问题也将浮出水面。\n\n展望未来，预计更多开源项目将建立分层审核机制，区分AI与人工贡献；同时，开源社区可能形成新的协作规范，明确AI辅助代码的披露要求。对于企业决策者而言，应重新评估自身开源依赖策略，加强关键组件的代码审计能力，并考虑加大对优质开源项目的商业支持，以确保供应链安全。",
+  "tags": [
+    "AI",
+    "开源社区",
+    "开发者"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:01:20.603305+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

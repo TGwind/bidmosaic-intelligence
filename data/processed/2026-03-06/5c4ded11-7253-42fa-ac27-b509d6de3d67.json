@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "IRS proposes mandating electronic delivery of tax forms for crypto",
+  "raw_content": "If adopted, the proposal will take effect on Jan. 1 of the calendar year following the publication of the final IRS rules.",
+  "source_url": "https://cointelegraph.com/news/irs-proposes-electronic-delivery-tax-form?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T20:53:09+00:00",
+  "id": "5c4ded11-7253-42fa-ac27-b509d6de3d67",
+  "generated_title": "美国国税局拟强制加密货币税务表格电子交付",
+  "generated_summary": "美国国税局提议强制加密货币相关税务表格电子递送，若获通过将于最终规则发布次年1月1日生效。",
+  "generated_analysis": "美国国税局此次提议标志着对加密货币税务合规监管的显著升级。此举源于加密资产交易规模持续扩大，但传统纸质申报方式效率低下且难以有效追踪全球分布式交易。强制电子交付将使IRS能够实时获取纳税人加密资产信息，大幅提升税务透明度。\n\n对于行业而言，该政策将产生深远影响。首先，交易所和加密金融服务商需升级技术系统以满足电子申报要求，这将增加合规成本。其次，投资者特别是高净值人群将面临更严格的税务审查，匿名性进一步削弱。从市场角度看，短期内可能引发部分投资者抛售规避监管，但长期有利于行业规范化发展。\n\n预计未来趋势将呈现三个特征：一是监管科技(RegTech)需求激增，专业加密税务软件和服务市场将快速扩张；二是跨境税务协调将加强，OECD框架下的加密资产报告标准可能加速落地；三是传统金融机构入局加密领域的合规门槛降低，行业洗牌加速。企业决策者应提前布局税务合规系统，同时关注政策动态以把握市场机遇。",
+  "tags": [
+    "加密货币税务",
+    "美国国税局",
+    "电子递送",
+    "税务合规"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:24:38.740213+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

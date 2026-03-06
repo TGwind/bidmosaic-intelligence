@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "外交部副部长苗得雨吊唁哈梅内伊遇难",
+  "raw_content": "外交部副部长苗得雨吊唁哈梅内伊遇难",
+  "source_url": "https://www.toutiao.com/trending/7613954627616116233/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613954627616116233%22%2C%22hot_board_impr_id%22%3A%2220260306101517C3FE8970787A856E5938%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E4%BA%A4%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E8%8B%97%E5%BE%97%E9%9B%A8%E5%90%8A%E5%94%81%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%87%E9%9A%BE%22%7D&rank=&style_id=40132&topic_id=7613954627616116233",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:17.729116+00:00",
+  "id": "1de4be73-c961-468f-bbb4-dea9eb2f58c0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "24615226",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "DeepSeek Won't Sink U.S. AI Titans",
+  "raw_content": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+  "source_url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-01-27T18:12:00+00:00",
+  "id": "f01b26ee-223b-4a74-b007-db6896fdf9e7",
+  "generated_title": "市场恐慌过度 DeepSeek难撼动美国AI芯片巨头",
+  "generated_summary": "华尔街日报指出市场对DeepSeek的恐慌导致Nvidia、Broadcom等科技股抛售过度，美国AI芯片巨头地位稳固。",
+  "generated_analysis": "市场对DeepSeek的反应确实存在明显的情绪化特征。DeepSeek作为新兴AI模型代表，其技术进展值得肯定，但市场将其解读为对美国芯片巨头的直接威胁，这显然过度放大了竞争维度。实际上，Nvidia和Broadcom在高性能AI芯片领域的技术积累、供应链优势和生态壁垒短期内难以被突破。\n\n从行业影响看，此次抛售更多反映的是市场对AI赛道估值过高的修正需求，而非基本面恶化。对企业决策者而言，这反而提供了重新审视供应链布局和芯片采购策略的窗口期。预计短期内市场情绪将逐步修复，芯片巨头估值将回归合理区间。\n\n长期来看，AI芯片需求仍将保持高速增长，技术竞争将推动行业创新，但美国企业的领先优势短期内难以撼动。企业应关注多元化供应策略，同时密切跟踪技术演进趋势。",
+  "tags": [
+    "AI芯片",
+    "Nvidia",
+    "美股科技股",
+    "DeepSeek"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:20.897058+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

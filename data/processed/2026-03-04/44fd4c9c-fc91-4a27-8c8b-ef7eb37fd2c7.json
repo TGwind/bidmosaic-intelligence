@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "ATLAS: Practical scaling laws for multilingual models",
+  "raw_content": "Generative AI",
+  "source_url": "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-01-27T18:58:00+00:00",
+  "id": "44fd4c9c-fc91-4a27-8c8b-ef7eb37fd2c7",
+  "generated_title": "Google发布多语言模型缩放定律ATLAS研究",
+  "generated_summary": "Google Research发布ATLAS框架，提出针对多语言模型的实用缩放定律，为大模型多语言能力优化提供理论指导。",
+  "generated_analysis": "Google此次发布ATLAS框架，标志着多语言大模型研究从经验驱动转向理论驱动的新阶段。此前的模型缩放主要依赖以英语为中心的训练数据积累，忽视了语言间结构和资源差异，导致非英语语言能力提升效率低下。ATLAS的价值在于首次系统揭示了多语言模型参数、数据量与跨语言泛化能力的量化关系，为企业提供了可预测的训练资源配置方法。\n\n对行业而言，这一研究将产生深远影响。首先，中小企业可据此优化多语言模型训练投入，降低研发试错成本。其次，多语言能力的技术壁垒可能进一步向头部集中——具备大规模多语言数据储备和算力的企业将获得更大优势。短期内，我们可能看到更多针对低资源语言的专项优化，推动AI普惠化进程。\n\n从趋势判断，2024-2025年将成为多语言AI能力分化的关键窗口期。企业决策者应密切关注ATLAS框架的实际验证进展，尽早将多语言训练纳入AI战略规划，以应对全球化竞争中的语言能力差距。",
+  "tags": [
+    "人工智能",
+    "大语言模型",
+    "学术研究"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:47:29.587509+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

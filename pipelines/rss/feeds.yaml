@@ -1,30 +1,360 @@
+defaults:
+  enabled: true
+  max_entries: 12
+  quality_tier: standard
+  authority_score: 75
+  source_type: media
+
 feeds:
   tech:
-    - name: 36kr
-      url: https://36kr.com/feed
-      domain: tech
     - name: InfoQ CN
       url: https://www.infoq.cn/feed
       domain: tech
-    - name: Hacker News (Best)
-      url: https://hnrss.org/best
-      domain: tech
+      quality_tier: high
+      authority_score: 82
+      source_type: expert_media
     - name: TechCrunch
       url: https://techcrunch.com/feed/
       domain: tech
+      quality_tier: high
+      authority_score: 78
+      source_type: media
+    - name: ACM TechNews
+      url: https://technews.acm.org/backend/technews.rss
+      domain: tech
+      quality_tier: high
+      authority_score: 83
+      source_type: professional_association
+    - name: NVIDIA Developer Blog
+      url: https://developer.nvidia.com/blog/feed
+      domain: tech
+      quality_tier: high
+      authority_score: 81
+      source_type: official
+    - name: VentureBeat
+      url: https://venturebeat.com/feed/
+      domain: tech
+      quality_tier: high
+      authority_score: 80
+      source_type: media
+    - name: 404 Media
+      url: https://www.404media.co/rss
+      domain: tech
+      quality_tier: high
+      authority_score: 79
+      source_type: media
+      max_entries: 10
 
   ai:
-    - name: The Verge - AI
-      url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    - name: OpenAI News
+      url: https://openai.com/news/rss.xml
       domain: ai
+      quality_tier: authoritative
+      authority_score: 92
+      source_type: official
+    - name: Google AI Blog
+      url: https://blog.google/technology/ai/rss/
+      domain: ai
+      quality_tier: authoritative
+      authority_score: 90
+      source_type: official
     - name: MIT Technology Review
       url: https://www.technologyreview.com/feed/
       domain: ai
+      quality_tier: high
+      authority_score: 85
+      source_type: expert_media
+    - name: AWS Machine Learning Blog
+      url: https://aws.amazon.com/blogs/machine-learning/feed/
+      domain: ai
+      quality_tier: high
+      authority_score: 80
+      source_type: official
+    - name: Google Research
+      url: https://research.google/blog/rss/
+      domain: ai
+      quality_tier: authoritative
+      authority_score: 89
+      source_type: research_org
+    - name: NVIDIA Blog
+      url: https://feeds.feedburner.com/nvidiablog
+      domain: ai
+      quality_tier: high
+      authority_score: 79
+      source_type: official
+    - name: DeepMind Blog
+      url: https://deepmind.com/blog/feed/basic/
+      domain: ai
+      quality_tier: authoritative
+      authority_score: 91
+      source_type: official
+    - name: Microsoft Research
+      url: https://www.microsoft.com/en-us/research/feed
+      domain: ai
+      quality_tier: authoritative
+      authority_score: 88
+      source_type: research_org
+      max_entries: 10
+    - name: Berkeley AI Research
+      url: https://bair.berkeley.edu/blog/feed.xml
+      domain: ai
+      quality_tier: authoritative
+      authority_score: 87
+      source_type: research_org
+      max_entries: 8
+    - name: The Gradient
+      url: https://thegradient.pub/rss/
+      domain: ai
+      quality_tier: high
+      authority_score: 82
+      source_type: expert_media
+      max_entries: 8
+    - name: Ahead of AI
+      url: https://magazine.sebastianraschka.com/feed
+      domain: ai
+      quality_tier: high
+      authority_score: 80
+      source_type: expert_media
+      max_entries: 8
+    - name: Last Week in AI
+      url: https://lastweekin.ai/feed
+      domain: ai
+      quality_tier: high
+      authority_score: 78
+      source_type: media
+      max_entries: 8
+    - name: arXiv cs.AI
+      url: https://arxiv.org/rss/cs.AI
+      domain: ai
+      quality_tier: authoritative
+      authority_score: 90
+      source_type: research_org
+      max_entries: 10
+    - name: arXiv cs.CL (NLP)
+      url: https://arxiv.org/rss/cs.CL
+      domain: ai
+      quality_tier: authoritative
+      authority_score: 90
+      source_type: research_org
+      max_entries: 10
 
   finance:
-    - name: Wall Street Journal Markets
-      url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+    - name: U.S. SEC Press Releases
+      url: https://www.sec.gov/news/pressreleases.rss
       domain: finance
+      quality_tier: authoritative
+      authority_score: 95
+      source_type: regulator
+      max_entries: 10
+    - name: Federal Reserve Monetary Policy
+      url: https://www.federalreserve.gov/feeds/press_monetary.xml
+      domain: finance
+      quality_tier: authoritative
+      authority_score: 95
+      source_type: regulator
+      max_entries: 10
+    - name: U.S. SEC Speeches
+      url: https://www.sec.gov/rss/speeches.xml
+      domain: finance
+      quality_tier: authoritative
+      authority_score: 91
+      source_type: regulator
+      max_entries: 8
     - name: Reuters Business
       url: https://www.reutersagency.com/feed/?best-topics=business-finance
       domain: finance
+      quality_tier: high
+      authority_score: 88
+      source_type: wire
+    - name: ECB Press and Speeches
+      url: https://www.ecb.europa.eu/rss/press.html
+      domain: finance
+      quality_tier: authoritative
+      authority_score: 93
+      source_type: central_bank
+      max_entries: 10
+    - name: BIS Press Releases
+      url: https://www.bis.org/doclist/all_pressrels.rss
+      domain: finance
+      quality_tier: authoritative
+      authority_score: 92
+      source_type: international_financial_org
+      max_entries: 10
+    - name: BIS Central Bank Speeches
+      url: https://www.bis.org/doclist/cbspeeches.rss
+      domain: finance
+      quality_tier: authoritative
+      authority_score: 90
+      source_type: international_financial_org
+      max_entries: 8
+    - name: Wall Street Journal Markets
+      url: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+      domain: finance
+      quality_tier: high
+      authority_score: 84
+      source_type: premium_media
+    - name: ECB Research Bulletin
+      url: https://www.ecb.europa.eu/rss/rbu.html
+      domain: finance
+      quality_tier: high
+      authority_score: 87
+      source_type: research_org
+      max_entries: 8
+    - name: FT中文网
+      url: https://feedx.net/rss/ft.xml
+      domain: finance
+      quality_tier: high
+      authority_score: 86
+      source_type: premium_media
+      max_entries: 10
+    - name: 日经中文网
+      url: https://feedx.net/rss/nikkei.xml
+      domain: finance
+      quality_tier: high
+      authority_score: 82
+      source_type: premium_media
+      max_entries: 10
+
+  crypto:
+    - name: CoinDesk
+      url: https://www.coindesk.com/arc/outboundfeeds/rss/
+      domain: crypto
+      quality_tier: high
+      authority_score: 84
+      source_type: media
+      max_entries: 10
+    - name: Cointelegraph
+      url: https://cointelegraph.com/rss
+      domain: crypto
+      quality_tier: high
+      authority_score: 82
+      source_type: media
+      max_entries: 10
+
+  # -- RSSHub 扩展源（使用公共实例 rsshub.app，可替换为自建实例） --
+  china_tech:
+    - name: 36氪快讯
+      url: https://rsshub.app/36kr/newsflashes
+      domain: tech
+      quality_tier: high
+      authority_score: 78
+      source_type: media
+      max_entries: 15
+    - name: Hacker News 精选
+      url: https://rsshub.app/hackernews/best
+      domain: tech
+      quality_tier: high
+      authority_score: 82
+      source_type: community
+      max_entries: 10
+    - name: GitHub Trending
+      url: https://rsshub.app/github/trending/daily/any
+      domain: tech
+      quality_tier: standard
+      authority_score: 75
+      source_type: community
+      max_entries: 10
+    - name: 少数派 Matrix
+      url: https://rsshub.app/sspai/matrix
+      domain: tech
+      quality_tier: high
+      authority_score: 76
+      source_type: media
+      max_entries: 10
+    - name: 极客公园
+      url: http://www.geekpark.net/rss
+      domain: tech
+      quality_tier: high
+      authority_score: 77
+      source_type: media
+      max_entries: 10
+    - name: 虎嗅网
+      url: https://www.huxiu.com/rss/0.xml
+      domain: tech
+      quality_tier: high
+      authority_score: 79
+      source_type: media
+      max_entries: 10
+    - name: 阮一峰科技爱好者周刊
+      url: https://www.ruanyifeng.com/blog/atom.xml
+      domain: tech
+      quality_tier: high
+      authority_score: 80
+      source_type: expert_media
+      max_entries: 8
+
+  china_finance:
+    - name: 财联社电报
+      url: https://rsshub.app/cls/telegraph
+      domain: finance
+      quality_tier: high
+      authority_score: 80
+      source_type: wire
+      max_entries: 15
+    - name: 华尔街见闻快讯
+      url: https://rsshub.app/wallstreetcn/live/global
+      domain: finance
+      quality_tier: high
+      authority_score: 79
+      source_type: media
+      max_entries: 12
+    - name: 澎湃新闻
+      url: https://feedx.net/rss/thepaper.xml
+      domain: finance
+      quality_tier: high
+      authority_score: 80
+      source_type: media
+      max_entries: 12
+
+  china_news:
+    - name: 路透中文网
+      url: https://feedx.net/rss/reuters.xml
+      domain: general
+      quality_tier: high
+      authority_score: 88
+      source_type: wire
+      max_entries: 10
+    - name: BBC中文
+      url: https://feedx.net/rss/bbc.xml
+      domain: general
+      quality_tier: high
+      authority_score: 85
+      source_type: wire
+      max_entries: 10
+    - name: 纽约时报中文网
+      url: https://feedx.net/rss/nytimes.xml
+      domain: general
+      quality_tier: high
+      authority_score: 86
+      source_type: premium_media
+      max_entries: 10
+
+  policy:
+    - name: FTC Press Releases
+      url: https://www.ftc.gov/news-events/news/press-releases/rss
+      domain: policy
+      quality_tier: authoritative
+      authority_score: 93
+      source_type: regulator
+      max_entries: 10
+    - name: CISA Cybersecurity Advisories
+      url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+      domain: policy
+      quality_tier: authoritative
+      authority_score: 94
+      source_type: regulator
+      max_entries: 10
+    - name: NIST Cybersecurity News
+      url: https://www.nist.gov/news-events/cybersecurity/rss.xml
+      domain: policy
+      quality_tier: authoritative
+      authority_score: 90
+      source_type: standards_body
+      max_entries: 10
+    - name: AI Now Institute
+      url: https://ainowinstitute.org/category/news/feed
+      domain: policy
+      quality_tier: high
+      authority_score: 82
+      source_type: research_org
+      max_entries: 8

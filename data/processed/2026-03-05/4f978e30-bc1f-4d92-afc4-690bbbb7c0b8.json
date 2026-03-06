@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "An update on our mental health-related work",
+  "raw_content": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+  "source_url": "https://openai.com/index/update-on-mental-health-related-work",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-27T00:00:00+00:00",
+  "id": "4f978e30-bc1f-4d92-afc4-690bbbb7c0b8",
+  "generated_title": "OpenAI心理健康安全功能更新",
+  "generated_summary": "OpenAI发布心理健康安全工作更新，包括家长控制、信任联系人、改进的困境检测功能及最新诉讼进展。",
+  "generated_analysis": "此次OpenAI发布心理健康安全工作更新，反映了AI企业在用户安全责任方面日益加深的战略布局。家长控制、信任联系人及困境检测等功能的推出，实质上是对AI系统可能引发用户心理风险这一社会关切的直接回应，同时也体现了行业从单纯追求技术能力向技术伦理并重转型的趋势。\n\n从市场影响看，OpenAI的此番动作将在行业内形成示范效应。预计其他AI企业将加速类似安全功能的开发，以应对日益严格的监管预期和用户信任竞争。对于企业决策者而言，这意味着AI产品的安全性将从“加分项”变为“必选项”，缺乏完善安全机制的企业将面临更大的合规风险和市场质疑。\n\n从诉讼进展来看，法律层面的挑战正在倒逼行业标准提升。建议企业提前布局伦理审查机制和用户保护体系，将安全合规纳入产品开发核心流程。短期内，心理健康安全功能的完善将成为AI产品差异化的新维度；中长期看，相关监管框架的出台几乎是确定性趋势，企业应密切跟踪政策动向，在竞争中占据先机。",
+  "tags": [
+    "人工智能",
+    "安全",
+    "心理健康"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:55.381722+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Board's discount rate meeting on December 10, 2025",
+  "raw_content": "Minutes of the Board's discount rate meeting on December 10, 2025",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-01-06T19:00:00+00:00",
+  "id": "cf844e11-6920-441b-a93c-e4f03d723f3d",
+  "generated_title": "美联储2025年12月贴现率会议纪要发布",
+  "generated_summary": "美联储理事会公布12月10日贴现率会议纪要，为市场提供货币政策走向参考线索。",
+  "generated_analysis": "根据当前可获取的信息，我无法对2025年12月的美联储贴现率会议纪要进行具体分析，因为这一会议尚未召开且相关纪要尚未发布。\n\n不过，我可以提供以下一般性分析框架，供您在实际信息发布后参考：\n\n**分析框架说明**\n\n美联储贴现率会议纪要通常包含以下关键信息：与会理事对经济形势的评估、货币政策立场的变化、对通胀和就业前景的看法、以及对未来利率调整路径的讨论。\n\n**一般性影响分析**\n\n贴现率作为美联储的基准利率工具，其任何调整意图都会对市场产生广泛影响：美元汇率走势、全球资本流动方向、各国央行政策响应、以及企业融资成本等。\n\n**趋势判断方法**\n\n建议关注纪要中关于以下内容的表述：1）经济下行风险与通胀压力的权衡；2）理事会成员对货币政策立场的分歧程度；3）对未来经济展望的措辞变化。\n\n如需针对具体发布的会议纪要进行深度分析，请提供实际纪要内容，我将为您提供更精确的行业影响评估和趋势判断。",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "贴现率",
+    "美国经济"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:53:19.535046+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

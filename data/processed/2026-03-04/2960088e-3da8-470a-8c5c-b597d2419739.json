@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+  "raw_content": "Human-Computer Interaction and Visualization",
+  "source_url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-10T18:30:00+00:00",
+  "id": "2960088e-3da8-470a-8c5c-b597d2419739",
+  "generated_title": "超越一对一：构建与测试动态人机群体对话",
+  "generated_summary": "Google Research发布新研究框架，支持动态创建、模拟和测试多人AI群体对话系统",
+  "generated_analysis": "该研究标志着人机交互从单一对话范式向复杂群体交互的重要演进。传统AI助手多聚焦一对一交互，而现实场景中存在大量多方协作、角色分化的群体对话需求，如团队头脑风暴、多方协商、社交群组等。该框架提供了动态创建、模拟和测试多人AI群体的能力，使研究者能够系统性地探索群体交互中的角色分配、对话动态、群体智能涌现等复杂问题。\n\n对于行业而言，这一突破将对智能客服、协作工具、社交平台、教育培训等领域产生深远影响。企业可据此开发支持多人AI协同的产品，实现更自然的多方交互体验。同时，该技术也为群体行为模拟、市场预测、应急管理等场景提供了新的技术支撑。\n\n从趋势判断，群体AI系统将成为下一代人机交互的重要方向。随着大语言模型能力的持续提升，多代理协作、动态角色扮演、群体决策支持等应用场景将加速成熟。建议企业密切关注该领域技术演进，提前布局群体AI产品的研发和场景探索，以在下一波人机交互变革中占据先机。",
+  "tags": [
+    "人工智能",
+    "人机交互",
+    "对话系统",
+    "群体智能"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:46:14.360425+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
+  "raw_content": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit from this work. We use GPT-OSS 20B as our primary example throughout this post.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-25T20:56:13+00:00",
+  "id": "ec90f69f-9cf4-4659-b271-e3bf0543db9b",
+  "generated_title": "AWS vLLM多LoRA推理优化实现指南",
+  "generated_summary": "介绍AWS在vLLM中实现MoE模型多LoRA推理的kernel级优化，帮助用户高效部署数十个微调模型",
+  "generated_analysis": "AWS近期在vLLM框架中实现MoE模型多LoRA推理的kernel级优化，标志着大模型推理效率竞争进入新阶段。此举背后是行业对低成本、高吞吐微调模型部署的迫切需求——企业希望在同一底层模型上运行多个垂直领域微调版本，而非为每个场景独立部署完整模型。\n\n从市场影响看，该优化将显著提升AWS在AI推理云服务领域的竞争力。对于正在构建企业级AI应用的公司，这意味着更低的推理成本和更高的模型切换效率，预计可支持数十个LoRA适配器共享同一推理引擎，大幅简化多业务线模型管理。\n\n趋势判断上，推理层面的多租户优化将成为云厂商差异化竞争焦点。随着微调模型数量激增，单纯依靠模型压缩已无法满足需求，底层kernel优化将成为行业新标杆。预计其他云服务商和开源社区将加速跟进，推理效率战争将从单模型优化转向多模型资源调度层面。",
+  "tags": [
+    "AI",
+    "AWS",
+    "模型部署",
+    "推理优化",
+    "vLLM"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:23.904738+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

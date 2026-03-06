@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "See the whole picture and find the look with Circle to Search",
+  "raw_content": "Google Search interface featuring AI-powered tools including an \"AI Overview\" that breaks down an outfit's components and a virtual \"Try it on\" button that visualizes apparel on diverse body types.",
+  "source_url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-25T18:00:00+00:00",
+  "id": "d0d9a6fb-5ed3-4496-a09a-8d2db75f081a",
+  "generated_title": "Google搜索引入AI试穿功能，展示多元体型穿搭",
+  "generated_summary": "Google在搜索中集成AI试穿功能，AI概述分解服装要素，虚拟试穿展示不同体型效果",
+  "generated_analysis": "Google此次将AI试穿功能嵌入搜索场景，标志着AI技术在时尚电商领域的应用从辅助工具升级为核心交互入口。该功能通过“AI Overview”实现穿搭要素的智能解构，结合“Try it on”的虚拟试穿能力，直击线上服饰消费长期存在的“看不见、试不了、买不对”痛点。多元体型展示更体现了对消费者多样性需求的尊重，有助于提升用户决策效率并降低退货率。\n\n从行业影响看，此举将重塑时尚电商的竞争格局。搜索引擎作为流量入口的优势将进一步强化，传统电商平台面临流量分流压力。对品牌而言，搜索端的AI可视化能力将成为新的营销标配，产品的“AI友好度”可能影响曝光权重。技术层面，多模态AI与3D渲染的结合已具备规模化落地条件，预计年内将有更多平台跟进。\n\n趋势判断：AI试穿将从单一功能演变为服装行业的数字化基础设施，最终实现“搜索-试穿-购买”的闭环。未能及时布局相关技术的品牌和平台可能在未来2-3年内失去竞争力。企业决策者应将AI可视化列入数字化转型的优先事项，探索与AI搜索平台的协同策略。",
+  "tags": [
+    "人工智能",
+    "Google",
+    "电子商务",
+    "搜索功能"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:59:45.247712+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

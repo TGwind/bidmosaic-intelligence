@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Gemini 3 Flash: frontier intelligence built for speed",
+  "raw_content": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+  "source_url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-12-17T11:58:17+00:00",
+  "id": "17c8a0a7-f996-4530-8bb4-9b52bb4536d8",
+  "generated_title": "Gemini 3 Flash：极速低成本前沿AI发布",
+  "generated_summary": "谷歌DeepMind发布Gemini 3 Flash，提供低成本极速的前沿AI智能。",
+  "generated_analysis": "Gemini 3 Flash的发布标志着AI推理能力进入“低成本极速”新阶段。谷歌通过优化模型架构与推理引擎，使前沿AI的调用成本大幅降低、响应速度显著提升，这一策略直接针对企业级应用的核心痛点——此前高性能AI往往伴随高算力门槛和长响应延迟。\n\n从行业影响看，此举将加剧大模型厂商的价格竞争，倒逼整个赛道加速降本增效。对企业决策者而言，部署AI应用的试错成本将明显下降，实时交互、内容生成、客户服务等场景的AI渗透率有望快速提升。同时，低成本特性使得AI从头部企业的“专属工具”向中小企业的“普惠基础设施”转变成为可能。\n\n趋势判断上，推理侧的效率竞赛将成为未来1-2年行业主线，多模态融合与端侧部署也将加速推进。建议企业尽快评估自身业务场景与低成本AI能力的结合点，在竞争格局固化前完成AI能力的早期布局。",
+  "tags": [
+    "人工智能",
+    "大模型",
+    "Google DeepMind"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:19:18.783633+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

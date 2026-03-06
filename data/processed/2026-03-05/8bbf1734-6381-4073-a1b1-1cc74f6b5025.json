@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment",
+  "raw_content": "arXiv:2603.03686v1 Announce Type: new Abstract: Automated design of chemical formulations is a cornerstone of materials science, yet it requires navigating a high-dimensional combinatorial space involving discrete compositional choices and continuous geometric constraints. Existing Large Language Model (LLM) agents face significant challenges in this setting, including context window limitations during long-horizon reasoning and path-dependent exploration that may lead to mode collapse. To address these issues, we introduce AI4S-SDS, a closed-loop neuro-symbolic framework that integrates multi-agent collaboration with a tailored Monte Carlo Tree Search (MCTS) engine. We propose a Sparse State Storage mechanism with Dynamic Path Reconstruction, which decouples reasoning history from context length and enables arbitrarily deep exploration under fixed token budgets. To reduce local convergence and improve coverage, we implement a Global--Local Search Strategy: a memory-driven planning module adaptively reconfigures the search root based on historical feedback, while a Sibling-Aware Expansion mechanism promotes orthogonal exploration at the node level. Furthermore, we bridge symbolic reasoning and physical feasibility through a Differentiable Physics Engine, employing a hybrid normalized loss with sparsity-inducing regularization to optimize continuous mixing ratios under thermodynamic constraints. Empirical results show that AI4S-SDS achieves full validity under the adopted HSP-based physical constraints and substantially improves exploration diversity compared to baseline agents. In preliminary lithography experiments, the framework identifies a novel photoresist developer formulation that demonstrates competitive or superior performance relative to a commercial benchmark, highlighting the potential of diversity-driven neuro-symbolic search for scientific discovery.",
+  "source_url": "https://arxiv.org/abs/2603.03686",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "8bbf1734-6381-4073-a1b1-1cc74f6b5025",
+  "generated_title": "AI4S-SDS：神经符号溶剂设计系统实现突破",
+  "generated_summary": "提出结合稀疏MCTS与可微物理引擎的闭环框架，自动设计化学配方并在光刻胶实验中验证有效。",
+  "generated_analysis": "AI4S-SDS的突破标志着AI辅助材料科学进入新阶段。该框架针对化学配方设计的高维组合空间难题，创造性地将神经符号方法与蒙特卡洛树搜索相结合，有效解决了传统LLM在长程推理中面临的上下文窗口限制和路径依赖导致的模式崩溃问题。\n\n从行业影响看，光刻胶作为半导体制造关键材料，长期被国际巨头垄断。此次框架设计的新型光刻胶显影液在实验中达到商业基准水平，表明AI辅助材料研发具备产业化潜力。这将加速国内光刻胶国产替代进程，同时为显示面板、PCB等其他电子化学品领域提供可复制的AI研发范式。\n\n趋势判断上，AI4S-SDS代表了一种范式转变——从试错式实验向AI驱动的理性设计演进。随着可微物理引擎与多智能体协作的深度融合，预计未来3-5年内，AI将逐步渗透至涂料、墨水、医药辅料等配方密集型产业，显著缩短研发周期。但需注意，实验室成果向工业化放大仍需克服放大效应和供应链验证等挑战。",
+  "tags": [
+    "人工智能",
+    "材料科学",
+    "神经符号",
+    "化学设计",
+    "蒙特卡洛树搜索"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:55:27.809833+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+  "raw_content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210b.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-12-10T19:00:00+00:00",
+  "id": "5dcec82c-103c-4a67-9e62-777d4ef4b1d0",
+  "generated_title": "美联储公布12月FOMC会议经济预测",
+  "generated_summary": "美联储发布12月9-10日FOMC会议经济预测，包含GDP、通胀、失业率等关键指标展望",
+  "generated_analysis": "美联储12月FOMC会议经济预测的发布，是观察美国货币政策走向和经济前景的重要窗口。此次预测涵盖GDP增长、通胀水平、失业率等核心指标，反映了美联储对未来经济运行态势的官方判断，对全球市场具有重要的风向标意义。\n\n从市场影响看，这些经济预测直接左右投资者对美联储未来加息路径的预期，进而影响美元走势、美国国债收益率以及全球资本流动方向。对于跨国企业而言，美元利率预期变化将直接影响融资成本和外汇风险管理策略；同时，美国经济前景的乐观或悲观预期，也会传导至全球需求端，影响出口导向型企业的订单预期。\n\n基于当前趋势判断，若美联储预测显示经济软着陆可能性提升，市场风险偏好可能回暖；反之，若通胀回落路径仍存不确定性，货币紧缩周期可能延长。企业决策者应密切关注预测中关于通胀回归2%目标的时间表，以及失业率走势，这两项指标将决定美联储何时转向宽松，为企业的投资节奏和资金安排提供关键参考。",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "经济预测"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:52:52.666846+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

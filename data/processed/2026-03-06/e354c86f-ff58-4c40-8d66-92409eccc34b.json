@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Christine Lagarde: Technology, fragmentation and the new uncertainty",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260305~b091c4a651.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T17:00:00+00:00",
+  "id": "e354c86f-ff58-4c40-8d66-92409eccc34b",
+  "generated_title": "拉加德：科技、碎片化与新不确定性",
+  "generated_summary": "欧洲央行行长拉加德阐述科技发展对金融体系的影响及全球经济碎片化带来的新挑战与不确定性。",
+  "generated_analysis": "拉加德关于科技、碎片化与新不确定性的论述揭示了当前全球经济治理的核心挑战。科技发展正重塑金融体系格局，数字支付、加密资产、人工智能等创新在提升效率的同时，也对传统金融中介功能形成冲击，央行面临的监管框架和货币政策传导机制面临根本性调整。全球经济碎片化趋势加剧，地缘政治紧张、供应链重构、贸易壁垒上升使得跨境资本流动和企业投资决策面临更大不确定性，企业经营环境的不连贯性显著上升。\n\n对于企业决策者而言，这一趋势意味着需要重新审视业务布局的地理分散度，加强供应链韧性建设，同时加速数字化转型以应对金融科技带来的竞争压力。在投资策略上，应更加注重风险对冲，增加对合规性和地缘政治风险的评估权重。央行政策透明度的变化也可能影响市场预期，企业需建立更完善的宏观情景分析能力，以在不确定性中把握结构性机会。",
+  "tags": [
+    "欧洲央行",
+    "科技金融",
+    "货币政策",
+    "风险管理"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:33:32.767056+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

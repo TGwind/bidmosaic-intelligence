@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+  "raw_content": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
+  "source_url": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T21:43:58+00:00",
+  "id": "01df3b47-f503-4981-8a7f-c375f2147c84",
+  "generated_title": "Apple Music将推出透明度标签区分AI音乐",
+  "generated_summary": "据报道Apple Music将引入透明度标签让音乐人自行标注AI生成内容，但采取自愿参与方式，效果存疑。",
+  "generated_analysis": "Apple Music推出透明度标签的举措反映了流媒体平台面对AI生成音乐浪潮的被动应对。随着Suno、Udio等AI音乐工具快速普及，AI生成内容的界定与标注已成为行业痛点。然而，该方案采用自愿参与模式，效果将大打折扣——音乐人出于商业考量可能回避标注，导致标签公信力不足。\n\n对行业而言，此举短期难以解决核心争议：AI生成音乐的版权归属、创作分成机制等问题仍悬而未决。更值得关注的是，若主流平台持续观望而不强制规范，可能加剧市场混乱，使原创音乐人权益受损。\n\n趋势判断上，预计未来12-18个月内，监管机构和唱片公司将进一步施压，推动行业形成更严格的AI内容识别标准。同时，AI与人类创作的混合作品界定将成为新的博弈焦点。建议企业决策者密切关注政策动向，提前布局版权保护机制，并在AI工具应用策略上保持审慎。",
+  "tags": [
+    "AI音乐",
+    "流媒体",
+    "版权标识"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:12.997375+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

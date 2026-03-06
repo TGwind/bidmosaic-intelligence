@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
+  "raw_content": "Preface This essay argues that rational people don&#x2019;t have goals, and that rational AIs shouldn&#x2019;t have goals. Human actions are rational not because we direct them at some final &#x2018;goals,&#x2019; but because we align actions to practices[1]: networks of actions, action-dispositions, action-evaluation criteria,",
+  "source_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-18T23:25:52+00:00",
+  "id": "cf23ee7e-5389-43dd-9b37-ee3032d3d25e",
+  "generated_title": "理性与目标：AI对齐的德性伦理反思",
+  "generated_summary": "本文提出理性人类和AI不应有预设目标，理性行为应源于对实践的ALIGN而非追逐终极目标。",
+  "generated_analysis": "这一关于AI对齐的德性伦理反思代表了当前人工智能安全领域的重要范式转换。传统AI研究普遍假设智能系统应具有明确的目标函数，这一假设导致了目标对齐的根本性挑战。本文从德性伦理视角提出：理性行为应源于实践的“align”而非对终极目标的追逐，这一观点具有深远的理论与实践意义。\n\n从行业影响看，若该理念获得广泛认同，可能重塑AI系统设计的基本范式。当前以目标优化为核心的AI开发路线或将面临根本性质疑，这不仅涉及技术架构，更关乎AGI发展路径的选择。对企业决策者而言，这意味着需要重新审视AI系统的价值定位——从“完成任务”转向“实践对齐”，从目标驱动转向德性培养。\n\n趋势判断：短期内，主流AI研究仍将沿用目标导向范式，但关于AI是否应具有目标的哲学讨论将持续深化。中长期看，德性伦理视角可能为AI安全提供新思路，促进更具内在安全性的系统设计。建议企业关注这一理论演进，在AI布局中保持战略灵活性，避免过度依赖单一目标优化范式。",
+  "tags": [
+    "AI对齐",
+    "人工智能伦理",
+    "德性伦理学"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:00:01.490648+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

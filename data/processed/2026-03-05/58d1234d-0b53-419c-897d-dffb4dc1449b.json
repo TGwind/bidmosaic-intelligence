@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Philip R. Lane: Interview with Financial Times",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-03T05:00:00+00:00",
+  "id": "58d1234d-0b53-419c-897d-dffb4dc1449b",
+  "generated_title": "ECB官员Lane接受FT采访 阐述货币政策与经济展望",
+  "generated_summary": "欧洲央行执行委员Philip R. Lane接受金融时报采访，就欧元区通胀走势、货币政策路径及经济前景发表重要观点。",
+  "generated_analysis": "基于现有信息，此次采访的背景在于欧元区通胀已从峰值回落但仍处高位，欧洲央行货币政策正处于从紧缩周期向宽松周期过渡的关键阶段。Lane作为ECB首席经济学家，其表态具有重要的政策信号意义。\n\n从行业影响看，利率政策路径的明确对银行业净息差、金融机构资产配置以及企业融资成本都将产生直接影响。当前市场关注的焦点在于ECB何时开始降息以及降息节奏，这直接关系到欧元区的信贷复苏力度和资本市场估值水平。\n\n趋势判断上，预计ECB将采取相对审慎的立场，在确认通胀持续回落至2%目标之前保持观望，但下半年启动降息的可能性较大。对于企业决策者而言，这意味着融资环境最紧张的阶段可能已过，但流动性宽松的实质性改善仍需等待。建议企业抓住利率平台期的时间窗口，优化债务结构，同时关注欧元区经济数据以判断政策拐点的准确时机。",
+  "tags": [
+    "欧洲央行",
+    "货币政策",
+    "宏观经济"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:52:33.129389+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

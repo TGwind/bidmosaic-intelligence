@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+  "raw_content": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+  "source_url": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T10:02:00+00:00",
+  "id": "abad6e5a-707c-41c0-b333-1f954c4cb2ec",
+  "generated_title": "10年期美债收益率下跌 长期收益率预期仍上行",
+  "generated_summary": "10年期美债收益率下跌，ING指出尽管特朗普暂无重大政策出台，长期国债收益率仍将维持上行趋势。",
+  "generated_analysis": "10年期美债收益率近期下跌反映了市场对短期政策不确定性的观望态度，但长期收益率仍被机构看高。这一背离走势值得企业决策者高度关注。\n\n从背景看，特朗普政府执政初期未推出超预期刺激政策，导致市场避险情绪边际缓解，短期国债获得支撑。然而，ING等机构仍看好长期收益率上行，主要基于以下逻辑：其一，美国财政赤字扩张趋势难改，债务可持续性问题将在中长期推高融资成本；其二，通胀黏性仍存，美联储利率政策难以快速转向宽松；其三，全球央行去美元化进程可能削弱美债需求结构。\n\n对于企业而言，这意味着融资环境的中长期成本趋势易升难降。建议企业决策者审慎评估长期负债结构，锁定中长期融资窗口，避免在收益率上行周期被动接受更高融资成本。同时，债券收益率作为无风险利率基准，其走势将直接影响股票、房地产等大类资产定价，需提前做好跨资产配置调整。",
+  "tags": [
+    "美国国债",
+    "债券收益率",
+    "货币政策"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:51:06.717920+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

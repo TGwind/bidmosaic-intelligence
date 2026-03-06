@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Rational inattention and information provision experiments",
+  "raw_content": "In surveys with information provision experiments, researchers can observe how people change beliefs, and sometimes also actions, after having been confronted with information. This article interprets information provision experiments from the perspective of the theory of rational inattention, discussing what survey findings tell us about economic behaviour outside the survey and deriving implications for central bank communication. One implication is that there may be a weak response from individuals to certain kinds of real‑world policy communication even though they respond strongly during an information provision experiment.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250925~96f936edde.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-09-25T06:00:00+00:00",
+  "id": "de184d80-f09f-40a6-8ce3-3844ca75f1ea",
+  "generated_title": "理性忽视理论视角下的信息提供实验研究",
+  "generated_summary": "分析信息提供实验如何揭示公众信念与行为变化，为央行沟通策略提供理论依据，指出实际政策沟通效果可能弱于实验环境。",
+  "generated_analysis": "理性忽视理论视角下的信息提供实验研究为央行沟通策略提供了重要的理论反思。该研究基于行为经济学中的理性忽视概念——即个体在信息处理资源有限的情况下，会理性地选择关注与其利益直接相关的信息。信息提供实验在受控环境中能够清晰观察受访者获得信息后信念与行为的变化，这为理解政策沟通的作用机制提供了宝贵依据。\n\n然而，这一研究的核心警示在于：实验环境与真实政策沟通场景存在显著差异。实验中个体被明确要求接收并处理特定信息，而在现实世界中，公众可能主动忽视或低估某些政策信号，尤其是当信息处理成本较高或与个人关联度较低时。这意味着央行在发布政策声明、通胀预期管理或前瞻指引时，实际传播效果可能远弱于实验预期。\n\n对于企业决策者而言，这一研究提示几个关键趋势：首先，政策沟通需要更加精准化和差异化，通过降低信息获取门槛、提升信息相关性来克服理性忽视；其次，单一渠道的政策信息传递效果有限，需配合市场参与者的主动解读能力；第三，企业应建立独立的信息研判体系，而非完全依赖政策信号进行决策。在信息过载的时代，如何让关键政策信息突破“理性忽视”屏障，将成为央行面临的重要挑战。",
+  "tags": [
+    "央行政策",
+    "行为经济学",
+    "信息实验"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:33:17.761302+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

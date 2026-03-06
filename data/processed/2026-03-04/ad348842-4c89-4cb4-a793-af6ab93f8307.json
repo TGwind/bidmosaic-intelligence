@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+  "raw_content": "Autonomous networks — intelligent, self-managing telecommunications operations — are moving from a future vision to a current priority for telecom operators. In the latest NVIDIA State of AI in Telecommunications report, network automation emerged as the top AI use case for investment and return on investment. Automation is different from autonomy. Beyond executing predefined workflows, Read Article",
+  "source_url": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-01T07:00:45+00:00",
+  "id": "ad348842-4c89-4cb4-a793-af6ab93f8307",
+  "generated_title": "NVIDIA发布电信代理式AI蓝图与推理模型",
+  "generated_summary": "NVIDIA发布电信网络自主化AI解决方案，其报告显示网络自动化已成为电信业AI投资的首要用例。",
+  "generated_analysis": "NVIDIA此次发布的电信代理式AI蓝图，标志着AI在通信基础设施领域的应用已从概念验证阶段进入商业化部署阶段。网络自动化超越传统流程自动化，代表着电信网络从“被动响应”向“自主决策”的范式转变。这一转变的深层驱动力在于5G网络复杂度指数级增长与运营成本压力之间的矛盾。\n\n对于电信行业而言，该趋势将产生三重影响：首先，运营商将加速从“管道商”向“智能服务提供商”转型，网络能力本身成为可编程的差异化产品；其次，电信设备商与AI厂商的生态绑定将更加紧密，技术栈整合能力成为核心竞争力；再次，运营效率的提升将释放大量人力资源，推动组织向高价值创新岗位迁移。\n\n判断：未来3-5年内，网络自治化将成为电信AI投资的主战场，率先完成智能化转型的运营商将获得显著的竞争壁垒。",
+  "tags": [
+    "人工智能",
+    "电信行业",
+    "网络自动化"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-04T14:51:18.921412+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

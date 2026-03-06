@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+  "raw_content": "Gemini 3.1 Flash Lite logo",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T16:34:00+00:00",
+  "id": "c7fff30d-5c00-4d23-8c10-36dc7fb75a57",
+  "generated_title": "谷歌发布Gemini 3.1 Flash-Lite轻量级AI模型",
+  "generated_summary": "谷歌推出Gemini 3.1 Flash-Lite版本，面向大规模智能应用场景的轻量级AI模型。",
+  "generated_analysis": "谷歌此次推出Gemini 3.1 Flash-Lite轻量级AI模型，标志着AI基础设施竞争进入新阶段。在各大厂商纷纷布局高端大模型的背景下，谷歌选择向下延伸产品线，凸显出对大规模商业化落地的战略重视。\n\n从行业角度看，轻量级模型的发布将产生多重影响。首先，它显著降低了企业应用AI技术的门槛，中小企业无需承担高昂的算力成本即可获得智能化能力，这会加速AI在各行业的渗透速度。其次，轻量级模型的高性价比优势可能引发市场价格竞争，推动整个AI服务领域向更合理的成本结构演进。\n\n从市场趋势判断，未来一到两年内，轻量化、高效率的AI模型将成为主流竞争方向。企业决策者应关注两个关键点：一是评估自身业务场景对模型性能的具体需求，避免过度投入高端模型造成资源浪费；二是提前规划轻量级模型的部署路径，为下一阶段的智能化升级做好准备。谷歌此次产品布局，本质上是在为AI大规模商业化铺设基础设施，建议相关企业密切关注其生态扩展动向。",
+  "tags": [
+    "人工智能",
+    "谷歌",
+    "大语言模型",
+    "AI模型发布"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:52:33.465906+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

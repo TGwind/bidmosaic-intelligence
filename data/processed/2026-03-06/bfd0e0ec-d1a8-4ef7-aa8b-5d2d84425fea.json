@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "非得今儿个走啊",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV115PvzeEy2",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:30.754878+00:00",
+  "id": "bfd0e0ec-d1a8-4ef7-aa8b-5d2d84425fea",
+  "generated_title": "网络流行语引发关注",
+  "generated_summary": "B站热门标题“非得今儿个走啊”成为平台热点，具体内容待查证",
+  "generated_analysis": "",
+  "tags": [
+    "网络热点",
+    "社交媒体",
+    "流行语"
+  ],
+  "importance_score": 3,
+  "processed_at": "2026-03-06T02:17:56.839229+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3549997,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "亨通光电(600487) 今日涨5.21% 报50.90元",
+  "raw_content": "亨通光电(600487) 最新价 50.90元，涨5.21%，涨跌额 +2.52元，今开 48.90元，最高 51.88元，最低 48.04元，昨收 48.38元，成交额 84.95亿元，振幅 7.94%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh600487/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T08:36:07.511350+00:00",
+  "id": "02a5984c-007d-44a8-a5aa-62026f2e766d",
+  "generated_title": "亨通光电(600487) 今日涨5.21% 报50.90元 | 买入",
+  "generated_summary": "趋势: 强势 · 信号: 买入 · 评分: 75",
+  "generated_analysis": "亨通光电今日大涨5.21%收于50.90元，股价站上所有均线形成多头排列，技术面偏多。但需要注意的是，当前价格相对MA5乖离率约4.5%，已接近5%的警戒线，不宜追高。成交额达84.95亿元创近期天量，说明资金大幅入场但也存在短线换手。考虑到股价刚突破短期平台，若能回踩MA10（49元附近）企稳将是更好的买入时机。建议耐心等待回调机会，严格设置止损。\n\n风险提示: 追高风险、短线回调风险、大盘波动风险",
+  "tags": [
+    "A股",
+    "强势",
+    "买入"
+  ],
+  "importance_score": 9,
+  "processed_at": "2026-03-05T14:47:15.161721+00:00",
+  "market_data": {
+    "symbols": [
+      "600487"
+    ],
+    "price_change": {
+      "price": 50.9,
+      "change_pct": 5.21,
+      "change_amt": 2.52
+    },
+    "indicators": {
+      "volume": 169785688.0,
+      "turnover": 8494866116.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 7.94,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "强势",
+    "signal": "买入",
+    "risk": "追高风险、短线回调风险、大盘波动风险",
+    "confidence": "中",
+    "sentiment_score": 75,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "多头排列初现但乖离率偏高，建议回踩MA10再考虑买入",
+        "time_sensitivity": "今日内",
+        "position_advice": {
+          "no_position": "不建议追高，等待回踩MA10（48.5-49元）附近再考虑建仓，仓位控制在30%以内",
+          "has_position": "继续持有，若跌破MA10或出现放量滞涨可考虑减仓"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5>MA10>MA20，多头排列初成",
+        "is_bullish": true,
+        "trend_score": 75,
+        "bias_ma5": 4.5,
+        "bias_status": "警戒",
+        "support_level": "49.00",
+        "resistance_level": "51.88",
+        "volume_status": "放量",
+        "volume_meaning": "成交额84.95亿元属近期天量，说明资金大幅流入但也有短线获利盘抛压"
+      },
+      "battle_plan": {
+        "ideal_buy": "48.80",
+        "secondary_buy": "49.50",
+        "stop_loss": "47.50",
+        "take_profit": "55.00",
+        "suggested_position": "30%",
+        "entry_plan": "首次建仓20%，回踩MA10时加仓10%，不追高"
+      },
+      "checklist": [
+        "✅ 多头排列",
+        "⚠️ 乖离率合理",
+        "✅ 量能配合",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "乖离率接近5%警戒线，追高风险大",
+        "短期涨幅过大可能引发获利了结",
+        "大盘系统性风险"
+      ],
+      "positive_catalysts": [
+        "光通信行业景气度持续",
+        "AI算力需求带动光模块需求",
+        "业绩预期向好"
+      ],
+      "short_term_outlook": "今日放量大涨后，短期可能震荡消化获利盘，若回踩MA10支撑有效有望继续上攻，需关注51.88元前高压力",
+      "medium_term_outlook": "在MA10上方运行则保持多头思维，若跌破MA10可能回踩MA20，整体趋势向上但需注意节奏"
+    }
+  }
+}

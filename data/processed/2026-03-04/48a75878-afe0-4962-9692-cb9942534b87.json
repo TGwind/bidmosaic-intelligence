@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
+  "raw_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Listen to Earth’s rumbling, secret soundtrack The boom of a calving glacier. The crackling rumble of a wildfire. The roar of a surging storm front. They’re the noises of the living&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T13:12:00+00:00",
+  "id": "48a75878-afe0-4962-9692-cb9942534b87",
+  "generated_title": "地球神秘声景：冰川崩塌、野火轰鸣与风暴咆哮",
+  "generated_summary": "MIT Technology Review探索地球自然声音的记录技术，呈现冰川崩裂、野火噼啪等自然交响乐。",
+  "generated_analysis": "",
+  "tags": [
+    "地球科学",
+    "环境监测",
+    "声音采集",
+    "自然声学"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-04T14:47:44.867444+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

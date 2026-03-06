@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
+  "raw_content": "A 2025 review of large language models, from DeepSeek R1 and RLVR to inference-time scaling, benchmarks, architectures, and predictions for 2026.",
+  "source_url": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-12-30T12:22:26+00:00",
+  "id": "7cc17343-17b6-43db-a715-84bd210121dd",
+  "generated_title": "2025年大语言模型发展现状：技术进展与行业展望",
+  "generated_summary": "综述2025年大语言模型领域进展，涵盖DeepSeek R1、RLVR、推理时扩展等技术突破及2026年行业预测。",
+  "generated_analysis": "2025年大语言模型领域呈现出技术路线的深刻分化与收敛并存。DeepSeek R1的发布标志着开源模型在推理能力上首次逼近闭源领军产品，这一突破直接动摇了行业对“大模型必须依赖大规模算力”的既有认知。RLVR技术的成熟使得模型能够通过自我验证提升推理质量，而非单纯依赖人类标注数据，这为数据效率提升提供了新范式。推理时扩展的兴起意味着算力投入的战场从训练阶段向推理阶段转移，企业在部署时需要重新评估成本结构。基准测试的多元化反映了行业从“通用能力”向“垂直场景能力”的关注点转移。对企业决策者而言，2026年将面临三个关键抉择：是否拥抱开源模型生态、如何平衡推理成本与性能、以及在特定行业应用中建立数据壁垒。行业格局预计将呈现“头部闭源+长尾开源”的分化格局，应用层的垂直整合将成为竞争焦点。",
+  "tags": [
+    "大语言模型",
+    "AI技术",
+    "行业报告",
+    "深度学习"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:26:44.151885+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+  "raw_content": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+  "source_url": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T10:02:00+00:00",
+  "id": "9d0e2d4f-7ddf-449c-a0fa-c325381ad6b2",
+  "generated_title": "美债收益率回落 长期仍看涨",
+  "generated_summary": "10年期美债收益率下跌，ING认为长期美债收益率仍将上行，特朗普执政未给市场带来冲击。",
+  "generated_analysis": "近期10年期美债收益率出现回落，但荷兰国际集团（ING）仍维持长期看涨立场，这一判断值得企业决策者密切关注。\n\n从背景看，特朗普执政以来并未推出超预期的刺激性政策，市场预期逐步修正，带动短期避险情绪降温。然而，ING认为长期美债收益率仍将上行，这一观点基于对美国财政赤字扩大和通胀压力持续的判断。\n\n对于企业而言，若美债收益率趋势性上行，将产生多重影响：首先，美元融资成本可能上升，不利于企业特别是房地产、航空等高负债行业的美元债务再融资；其次，全球资本可能重新配置流向美元资产，新兴市场面临资本外流压力；再者，美元若随收益率上行而走强，将影响出口型企业竞争力。\n\n趋势判断上，预计短期内市场将维持震荡格局，但中期随着美联储政策路径逐步清晰以及美国财政状况演变，10年期收益率仍有上行空间。企业决策者应提前做好利率风险对冲安排，审慎评估美元债务结构，并关注汇率波动对经营业绩的潜在影响。",
+  "tags": [
+    "美债收益率",
+    "美国国债",
+    "金融市场"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:56:38.140099+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

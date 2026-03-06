@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI",
+  "raw_content": "This post explores how to build an intelligent conversational agent using Amazon Bedrock, LangGraph, and managed MLflow on Amazon SageMaker AI.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T18:51:43+00:00",
+  "id": "622ea07f-6115-4902-9a32-7d4caad9df32",
+  "generated_title": "使用Claude和LangGraph构建无服务器对话AI代理",
+  "generated_summary": "本文介绍如何在Amazon SageMaker AI上结合Claude、LangGraph和托管MLflow构建智能对话代理",
+  "generated_analysis": "这条情报揭示了企业级AI应用部署正在进入新阶段。将Claude等顶级大模型与LangGraph多代理框架结合，并通过SageMaker AI的托管服务部署，标志着企业构建智能对话系统已从技术探索转向工程化落地。无服务器架构意味着企业无需自建基础设施即可快速上线AI应用，这对降低部署门槛、缩短上线周期具有重要意义。\n\n从行业影响看，这一组合模式将加速AI在企业服务场景的渗透。托管MLflow解决了模型实验跟踪和版本管理的痛点，使AI应用的迭代更加规范可控。预计未来一到两年内，采用类似架构的企业数量将显著增长。\n\n趋势判断：多代理协作系统将成为企业AI应用的主流形态，单纯依赖单一模型的模式将逐步被取代。同时，围绕AI代理的云服务竞争将更加激烈，基础设施层面的创新将成为各大云厂商的焦点。企业决策者应关注这一技术选型的长期维护成本和生态锁定效应，尽早建立内部AI工程能力以保持技术自主性。",
+  "tags": [
+    "AI智能体",
+    "Amazon SageMaker",
+    "LangGraph"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:48:45.909759+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

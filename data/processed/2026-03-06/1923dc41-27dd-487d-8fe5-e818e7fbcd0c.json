@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Board's discount rate meetings on October 6, October 20, and October 29, 2025",
+  "raw_content": "Minutes of the Board's discount rate meetings on October 6, October 20, and October 29, 2025",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251125a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-11-25T19:00:00+00:00",
+  "id": "1923dc41-27dd-487d-8fe5-e818e7fbcd0c",
+  "generated_title": "美联储2025年10月贴现率会议纪要",
+  "generated_summary": "美联储公布10月6日、20日、29日贴现率会议纪要，反映货币政策审议细节与利率决策考量",
+  "generated_analysis": "美联储10月贴现率会议纪要的公布，为市场提供了洞察货币政策决策逻辑的重要窗口。贴现率作为美联储调控流动性的重要工具，其调整往往先于联邦基金利率变动，因此会议纪要中关于经济评估、通胀预期和风险因素的讨论，对金融机构和企业判断未来融资环境具有重要参考价值。\n\n从当前经济背景来看，2025年下半年美国经济可能仍处于增长放缓与通胀压力交织的复杂局面。劳动力市场韧性、核心服务业通胀黏性以及地缘政治不确定性，将是美联储决策层重点考量的因素。会议纪要若显示委员们对通胀回落信心不足，或对经济下行风险表示关切，将强化市场对货币政策保持紧缩立场的预期。\n\n对于企业决策者而言，需重点关注纪要中关于未来利率路径的前瞻指引。若基调偏鹰派，企业应提前规划融资结构，避免在利率高位时承担过多浮动债务；若基调偏鸽派，则可考虑适度加杠杆把握低成本窗口。同时，需关注贴现率调整对银行间市场流动性的传导效应，这将直接影响企业票据融资和商业贷款的可得性与成本。",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "贴现率"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:19:37.902314+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

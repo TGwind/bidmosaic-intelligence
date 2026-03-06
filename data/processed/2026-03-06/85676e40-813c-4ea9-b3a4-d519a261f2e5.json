@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+  "raw_content": "And an Overview of Recent Inference-Scaling Papers",
+  "source_url": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-01-24T11:23:18+00:00",
+  "id": "85676e40-813c-4ea9-b3a4-d519a261f2e5",
+  "generated_title": "LLM推理时间扩展技术分类与论文综述",
+  "generated_summary": "概述大语言模型推理时间扩展的多种技术路径，梳理近期相关研究论文的核心方法。",
+  "generated_analysis": "这一技术方向标志着大语言模型能力提升从单纯依赖预训练 Scaling Laws 转向推理阶段的新战场。推理时间扩展通过在推理过程中增加计算投入（如多次采样、搜索、验证等机制）来挖掘模型潜在能力，突破了传统单次生成的局限。对于企业决策者而言，这意味着可以在不更换模型或增加训练成本的情况下，显著提升输出质量与可靠性，尤其适用于需要高精度推理的企业级应用场景如金融分析、医疗诊断、代码生成等领域。\n\n从市场竞争格局看，推理时间扩展技术正成为AI厂商差异化竞争的新焦点掌握核心技术的企业将在垂直场景建立更高壁垒。短期内，基于采样聚合与验证器引导的技术路线将率先实现工程化落地；中期来看，推理优化将成为模型API服务的重要增值维度；长期而言，推理能力可能成为与模型参数量同等重要的评估标准。对于考虑部署大语言模型的企业，建议关注这一技术趋势，在选型时将推理扩展能力纳入评估框架，同时提前储备相关工程人才，以在AI应用深化阶段占据先机。",
+  "tags": [
+    "大语言模型",
+    "推理优化",
+    "推理扩展",
+    "技术综述"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:27:21.274263+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

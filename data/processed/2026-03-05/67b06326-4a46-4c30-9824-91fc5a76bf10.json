@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "OptiMind: A small language model with optimization expertise",
+  "raw_content": "OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimization software can solve. It reduces formulation time &#038; errors &#038; enables fast, privacy-preserving local use. The post OptiMind: A small language model with optimization expertise appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-01-15T14:00:00+00:00",
+  "id": "67b06326-4a46-4c30-9824-91fc5a76bf10",
+  "generated_title": "微软发布OptiMind：将业务问题转化为数学优化模型的小型语言模型",
+  "generated_summary": "微软研究推出OptiMind，可将自然语言描述的业务挑战转化为数学优化公式，减少建模时间与错误，支持本地隐私保护使用。",
+  "generated_analysis": "微软最新发布的OptiMind标志着AI驱动商业优化进入新阶段。该模型将自然语言描述的业务挑战直接转化为数学优化公式，使非技术背景的管理者也能快速构建优化模型，大幅降低运筹优化技术的应用门槛。\n\n从行业影响看，OptiMind将首先冲击传统优化咨询市场和求解器软件行业。企业无需依赖专业数据科学家团队即可实现供应链调度、资源分配、路径规划等场景的优化决策，这会加速优化技术在中型企业中的普及。同时，本地部署能力解决了数据隐私顾虑，预计将获得金融、医疗等敏感行业青睐。\n\n趋势判断上，AI与运筹优化的深度融合将成为未来3-5年企业数字化转型的重要方向。具备此类能力的AI工具将从概念验证走向规模化商用，催生“人人都是优化专家”的新范式。建议企业决策者密切关注该领域发展，将优化智能化纳入数字化战略规划，同时评估现有运筹团队的能力转型需求。",
+  "tags": [
+    "人工智能",
+    "优化算法",
+    "微软"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:53:33.471575+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

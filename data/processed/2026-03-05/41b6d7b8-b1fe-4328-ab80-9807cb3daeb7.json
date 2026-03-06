@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Last Week in AI #335 - Opus 4.6, Codex 5.3, Gemini 3 Deep Think, GLM 5, Seedance 2.0",
+  "raw_content": "A crazy packed edition of Last Week in AI! Plus some small updates.",
+  "source_url": "https://lastweekin.ai/p/last-week-in-ai-335-opus-46-codex",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-16T02:00:20+00:00",
+  "id": "41b6d7b8-b1fe-4328-ab80-9807cb3daeb7",
+  "generated_title": "AI周报：Opus 4.6、Codex 5.3、Gemini 3等重磅更新发布",
+  "generated_summary": "本周AI领域多款核心模型发布重要更新，包括Anthropic的Opus 4.6、OpenAI的Codex 5.3、Google的Gemini 3 Deep Think以及智谱GLM 5等。",
+  "generated_analysis": "本周AI领域迎来密集更新，多个头部厂商同步推出旗舰模型迭代版本，标志着大模型竞争进入新一轮技术冲刺期。从版本号跃升幅度看，各厂商均在推理能力、代码生成、多模态理解等核心维度加大投入，反映出当前AI技术迭代仍处于高速推进阶段。\n\n对企业决策者而言，这一轮更新的核心启示在于：大模型能力边界正在快速扩展，应用场景的适配门槛持续降低。Opus系列在复杂推理上的强化、Codex对代码任务的深度优化、Gemini 3 Deep Think在深度思考能力上的突破，意味着企业需要重新评估AI在自身业务链中的渗透深度，尤其是知识工作自动化、智能客服、代码辅助等场景。\n\n趋势判断上，多模态融合与推理效率将成为下一阶段竞争主轴。厂商间技术差距正在收窄，但生态整合能力差异凸显。企业应关注模型API的稳定性与定价策略变化，同时加速内部AI应用试点，以在新一轮技术红利中占据先机。",
+  "tags": [
+    "人工智能",
+    "大模型",
+    "行业动态"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:01.062384+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

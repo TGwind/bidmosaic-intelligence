@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Comex Gold, Silver Settle Lower",
+  "raw_content": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+  "source_url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T19:01:00+00:00",
+  "id": "5faabde8-7acc-4843-9576-4681bbd415d8",
+  "generated_title": "贵金属价格小幅回落 金银分别下跌1.4%和2.5%",
+  "generated_summary": "黄金白银价格延续近期调整走势，金价过去三个交易日两日下跌，银价过去四个交易日三日下跌。",
+  "generated_analysis": "此次贵金属价格小幅回落属于近期调整行情的延续，而非趋势性反转。黄金三个交易日内两日下跌、白银四个交易日内三日下跌的节奏，显示市场正经历短期获利了结和情绪修正。\n\n从背景来看，前期贵金属涨幅较大叠加美元指数阶段性走强，使得金银面临技术性回调压力。同时，全球通胀预期有所降温、避险情绪边际回落，也为价格调整提供了借口。然而，此轮下跌幅度相对有限，表明下方支撑依然较强。\n\n对于行业影响，短期贵金属采选企业股价可能承压，但实质影响有限；珠宝首饰及工业用银企业可适度把握成本回落窗口。投资层面，前期追高的短期资金面临浮亏，但长期配置价值未受根本性破坏。\n\n趋势判断：预计短期仍以震荡整固为主，下方空间有限。中期来看，全球经济不确定性、地缘政治风险及央行购金需求仍将为贵金属提供底部支撑，金银价格不具备深跌基础。建议企业关注美元走势及全球宏观信号，逢低布局仍是较优策略。",
+  "tags": [
+    "贵金属",
+    "黄金",
+    "白银",
+    "大宗商品"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:53:31.629604+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

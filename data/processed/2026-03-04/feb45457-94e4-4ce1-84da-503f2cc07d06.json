@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Collaborating on a nationwide randomized study of AI in real-world virtual care",
+  "raw_content": "Generative AI",
+  "source_url": "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-03T18:15:01+00:00",
+  "id": "feb45457-94e4-4ce1-84da-503f2cc07d06",
+  "generated_title": "Google参与全国性AI虚拟护理随机研究",
+  "generated_summary": "Google Research与医疗机构合作开展AI在真实虚拟护理中的全国性随机研究，探索生成式AI的医疗应用价值。",
+  "generated_analysis": "这一研究标志着生成式AI在医疗健康领域的应用正从概念验证阶段迈向严格的临床验证。随机对照研究的设计意味着Google正在寻求循证医学层面的有效性证据，而非单纯的技术演示，这对整个AI医疗行业具有重要的示范意义。\n\n从行业影响来看，若研究取得积极成果，将大幅加速AI虚拟护理模式的审批流程和商业化进程。大型科技公司深度参与医疗AI的临床研究，体现了科技与医疗融合的趋势正在加强，可能吸引更多资本和人才进入该赛道。同时，随机研究的严谨设计也将推动行业建立更高标准的临床验证规范。\n\n趋势判断上，虚拟护理有望成为AI在医疗领域率先规模化落地的场景之一。与传统医疗AI辅助诊断不同，虚拟护理涉及患者交互、情感支持、健康教育等更复杂的生成能力，其成功将为AI在全科医疗、健康管理等领域的应用开辟路径。预计未来三到五年内，监管机构将加快制定AI虚拟护理的相关标准，企业决策者应密切关注这一领域的政策动向和临床数据发布。",
+  "tags": [
+    "AI医疗",
+    "虚拟护理",
+    "生成式AI",
+    "临床研究"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:55:06.792408+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

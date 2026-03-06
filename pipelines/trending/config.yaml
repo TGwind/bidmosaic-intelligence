@@ -1,0 +1,48 @@
+# DailyHotApi 实例地址
+# 公共实例或自建 Vercel 部署: https://github.com/imsyy/DailyHotApi
+# 一键 Vercel 部署后替换为你自己的地址
+api_base: https://dailyhot.imsyy.top
+
+# 采集平台配置
+platforms:
+  - id: weibo
+    name: 微博热搜
+    domain: general
+    max_entries: 15
+    authority_score: 72
+    enabled: true
+
+  - id: zhihu
+    name: 知乎热榜
+    domain: tech
+    max_entries: 12
+    authority_score: 74
+    enabled: true
+
+  - id: 36kr
+    name: 36氪热榜
+    domain: tech
+    max_entries: 10
+    authority_score: 78
+    enabled: true
+
+  - id: bilibili
+    name: B站热门
+    domain: general
+    max_entries: 10
+    authority_score: 65
+    enabled: false
+
+  - id: toutiao
+    name: 今日头条
+    domain: general
+    max_entries: 10
+    authority_score: 68
+    enabled: false
+
+  - id: baidu
+    name: 百度热搜
+    domain: general
+    max_entries: 10
+    authority_score: 70
+    enabled: false

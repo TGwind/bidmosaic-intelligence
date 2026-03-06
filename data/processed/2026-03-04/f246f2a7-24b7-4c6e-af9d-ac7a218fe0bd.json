@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A more intelligent Android on Samsung Galaxy S26",
+  "raw_content": "A woman in a red turtleneck, camouflage shorts, and black boots poses against a bright red wall, while a smartphone to her right displays a Google search page with image recognition results.",
+  "source_url": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-25T18:00:00+00:00",
+  "id": "f246f2a7-24b7-4c6e-af9d-ac7a218fe0bd",
+  "generated_title": "Google为三星Galaxy S26开发更智能的Android系统",
+  "generated_summary": "Google AI Blog透露正为三星下一代旗舰手机Galaxy S26研发更智能的Android系统，图片显示手机端图像识别功能取得进展。",
+  "generated_analysis": "此次Google为三星Galaxy S26开发更智能的Android系统，标志着移动端侧人工智能应用进入新阶段。从披露的图片识别功能来看，Google正将Gemini等大模型能力深度嵌入移动操作系统，这意味着AI从云端向终端迁移的趋势加速。\n\n对行业而言，此举将产生多重影响：首先，安卓阵营与苹果在设备端AI的竞争将更加激烈，苹果Apple Intelligence面临更大压力；其次，三星Google的合作模式可能成为行业标杆，推动其他厂商加速AI本地化部署；再者，端侧AI能力提升将改变移动应用生态，图像识别、内容生成等能力将成为旗舰机标配。\n\n从趋势判断，2025-2026年将是移动AI的关键窗口期，设备端AI能力将成为高端手机差异化竞争的核心要素。企业决策者应关注：AI芯片算力提升、端侧大模型优化、以及AI原生应用的商业化路径。",
+  "tags": [
+    "人工智能",
+    "Android系统",
+    "三星手机",
+    "Google AI"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:35.117752+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

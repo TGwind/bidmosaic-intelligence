@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "政府工作报告4处提及退役军人工作",
+  "raw_content": "政府工作报告4处提及退役军人工作",
+  "source_url": "https://www.toutiao.com/trending/7613669686324740102/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613669686324740102%22%2C%22hot_board_impr_id%22%3A%22202603052228181AFFD88B2DEC34805AF5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A4%E5%A4%84%E6%8F%90%E5%8F%8A%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E5%B7%A5%E4%BD%9C%22%7D&rank=&style_id=40132&topic_id=7613669686324740102",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T14:28:14.436124+00:00",
+  "id": "9cd2e5ba-eb74-44fa-97f3-64b5f4b208e6",
+  "generated_title": "政府工作报告4处提及退役军人工作",
+  "generated_summary": "本年度政府工作报告中4次提及退役军人工作，体现国家对退役军人权益的重视，但具体内容未披露。",
+  "generated_analysis": "",
+  "tags": [
+    "退役军人",
+    "政府工作报告",
+    "政策动态"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-05T14:48:10.941360+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13838461",
+    "platform": "toutiao"
+  }
+}

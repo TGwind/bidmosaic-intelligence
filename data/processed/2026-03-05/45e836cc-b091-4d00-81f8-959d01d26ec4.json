@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "我好像买到了一只星期猫",
+  "raw_content": "我好像买到了一只星期猫",
+  "source_url": "https://www.bilibili.com/video/BV13ZAZz6EG9",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "ecommerce",
+  "collected_at": "2026-03-05T14:28:14.616770+00:00",
+  "id": "45e836cc-b091-4d00-81f8-959d01d26ec4",
+  "generated_title": "B站博主曝光疑似星期猫消费维权事件",
+  "generated_summary": "博主称在宠物店购买猫咪后一周内出现问题，引发网友对宠物交易维权的广泛讨论。",
+  "generated_analysis": "",
+  "tags": [
+    "消费者维权",
+    "宠物交易",
+    "星期猫"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:47:33.595409+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2561493,
+    "platform": "bilibili"
+  }
+}

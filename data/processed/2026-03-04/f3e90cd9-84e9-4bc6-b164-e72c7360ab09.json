@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+  "raw_content": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its announcements, OpenAI took great pains to say that&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T17:29:42+00:00",
+  "id": "f3e90cd9-84e9-4bc6-b164-e72c7360ab09",
+  "generated_title": "OpenAI与五角大楼达成协议，允许军方使用AI技术",
+  "generated_summary": "OpenAI于2月28日宣布与美国防部达成协议，允许军方在机密环境使用其技术，CEO Altman承认谈判\"确实仓促\"。",
+  "generated_analysis": "这一协议标志着OpenAI在军事应用立场上的重大转变一改此前相对谨慎的姿态。考虑到谈判是在五角大楼公开批评Anthropic之后迅速启动的，且CEO Altman本人承认谈判“确实仓促”，这反映出美国防部对AI能力的高度迫切需求以及当下AI企业在国防市场面临的竞争压力。\n\n从行业层面看，此举将产生深远影响。首先，它可能打破AI行业对军事应用的心理障碍，推动更多企业重新评估国防领域的商业机会。其次，国防AI市场将因此加速扩张，相关技术研发投入会显著增加。第三，企业决策者需要重新审视技术供应商的背景与资质，评估其可能带来的声誉风险与合规挑战。\n\n展望未来，AI技术与国防体系的深度融合已成不可逆转趋势。预计各国将加大对军用AI的投入力度，同时行业监管框架也会逐步完善以平衡安全需求与伦理考量。对于企业而言，如何在技术商用价值与敏感应用之间把握边界，将成为长期战略决策的关键议题。",
+  "tags": [
+    "AI公司",
+    "国防军事",
+    "战略合作"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:45.031251+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

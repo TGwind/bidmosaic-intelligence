@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Download: protesting AI, and what’s floating in space",
+  "raw_content": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T13:20:00+00:00",
+  "id": "095fc654-253b-44cb-96be-baae454d82e0",
+  "generated_title": "MIT Tech Review直击史上最大反AI抗议现场",
+  "generated_summary": "2月28日记者现场报道了一场被称为“史上最大”的反AI抗议活动，抗议者高喊“拔掉插头”、“停止垃圾”等口号。",
+  "generated_analysis": "此次抗议事件标志着公众对AI发展焦虑情绪的集中爆发。抗议者喊出“拔掉插头”、“停止垃圾”等口号，反映出对AI技术快速迭代、缺乏有效监管以及内容质量参差不齐的强烈不满。这不仅是技术争议，更是社会对AI伦理边界、就业冲击、信息真实性的系统性担忧。\n\n从行业影响看，此次抗议将加剧监管机构对AI领域的审查力度，欧盟AI法案等已有监管框架可能加速落地，同时公众信任危机将影响AI产品的市场接受度。企业决策者需警惕品牌声誉风险，尤其在生成式AI应用领域。\n\n趋势判断：未来1-2年内，AI行业将面临“合规成本上升”与“社会许可”双重压力。具备透明AI治理机制、注重伦理审查的企业将获得竞争优势。行业自律标准有望加速形成，而忽视公众关切的激进技术路线可能遭遇政策刹车和市场抵制。企业应将AI伦理纳入战略规划，主动构建与社会的对话机制。",
+  "tags": [
+    "反AI抗议",
+    "人工智能争议",
+    "科技社会影响"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:18:12.302841+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

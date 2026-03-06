@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+  "raw_content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210b.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-12-10T19:00:00+00:00",
+  "id": "2a34a918-f466-46c5-928b-fd1bdeeeb28c",
+  "generated_title": "美联储公布12月FOMC会议经济预测",
+  "generated_summary": "美联储发布12月FOMC会议经济预测，包括对GDP增长、通胀率和失业率等关键经济指标的展望。",
+  "generated_analysis": "本次FOMC经济预测发布于2024年12月会议，系美联储对未来三年美国经济走向的系统性指引，标志着货币政策制定者对经济前景的官方判断正式对外披露。GDP增长预期反映决策层对经济动能的评估，通胀与失业率预测则直接关联货币政策路径选择，对全球资本市场、外汇市场及大宗商品价格具有重要定价锚定作用。\n\n从行业影响看，若GDP增长预期上调，将增强企业扩产信心，利好制造业与周期性行业；若通胀预测上行，则可能延缓降息节奏，对利率敏感型行业如房地产、金融科技形成压力。失业率预期变化则影响劳动力市场定价，进而波及消费与服务行业成本结构。\n\n趋势判断上，预计短期内市场将围绕预期差进行波动调整。中期而言，若经济软着陆预期得以验证，企业投资与并购活动有望回暖；反之，若数据与预期偏离过大，可能引发避险情绪升温。建议企业决策者密切跟踪后续数据验证情况，提前做好情景预案，平衡流动性管理与风险敞口配置。",
+  "tags": [
+    "美联储",
+    "FOMC",
+    "美国经济",
+    "货币政策",
+    "经济预测"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:46:18.626282+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+  "raw_content": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
+  "source_url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T19:00:58+00:00",
+  "id": "1390417f-c773-4e6d-92b0-a79f6a807ce6",
+  "generated_title": "礼来推出全球首个制药AI超算工厂LillyPod",
+  "generated_summary": "礼来携手英伟达打造世界首个制药AI超算工厂DGX SuperPOD，加速药物研发进程。",
+  "generated_analysis": "礼来此次推出LillyPod标志着制药业正式进入AI驱动研发的新阶段。背景在于新药研发成本持续攀升、周期长达10-15年的困境倒逼行业寻求技术突破，而英伟达在AI算力领域的领先优势恰好契合了这一需求。LillyPod的落地意味着礼来将AI能力深度嵌入药物靶点发现、分子设计、临床试验设计等核心环节，有望将候选分子筛选效率提升数倍，临床失败风险前移识别能力也将显著增强。\n\n对行业而言，此举将产生两方面深远影响：一是打破传统制药企业的技术依赖路径，掌握自研AI能力将成为核心竞争力的新维度；二是加速行业分化，具备算力与数据优势的龙头企业可能进一步扩大领先优势，而中小型药企面临更大的技术追赶压力。\n\n从趋势判断，AI超算工厂将成为大型药企的标配，预计未来3-5年内将有更多企业跟进部署类似基础设施。同时，AI制药的竞争焦点将从算法模型转向算力基础设施和数据资产积累，行业将进入“硬科技”竞争时代。对于企业决策者而言，需重新评估研发投入结构，将AI基础设施纳入长期战略规划。",
+  "tags": [
+    "人工智能",
+    "制药行业",
+    "英伟达"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-04T14:45:59.252433+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

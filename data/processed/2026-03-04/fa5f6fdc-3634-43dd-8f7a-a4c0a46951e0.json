@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "AI is rewiring how the world’s best Go players think",
+  "raw_content": "Burrowed in the alleys of Hongik-dong, a hushed residential neighborhood in eastern Seoul, is a faded stone-tiled building stamped “Korea Baduk Association,” the governing body for professional Go. The game is an ancient one, with sacred stature in South Korea.&#160; But inside the building, rooms once filled with the soft clatter of hands dipping into&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-27T10:00:00+00:00",
+  "id": "fa5f6fdc-3634-43dd-8f7a-a4c0a46951e0",
+  "generated_title": "AI重塑围棋顶尖棋手思维模式",
+  "generated_summary": "韩国围棋协会探讨AI如何影响职业棋手的思维方式，这项古老运动在AI时代面临深刻变革。",
+  "generated_analysis": "AI对围棋领域的渗透标志着这一古老智力运动正在经历范式转变。韩国围棋协会作为传统围棋权威机构主动探讨AI对职业棋手思维方式的影响，反映出行业对技术变革的深刻焦虑与反思。\n\n从行业影响来看，这一趋势将重塑围棋人才培养体系。传统“师傅带徒弟”的经验传承模式正被AI辅助训练所取代，年轻棋手通过与AI对弈实现跨越式成长。同时，围棋比赛的策略范式也发生根本变化——那些曾被视为定式的下法被AI证明存在更优解，职业棋手不得不重新审视积累数十年的知识体系。\n\n对于决策者而言需要关注三个趋势：一是人机协作将成为围棋训练的主流模式，AI不是替代者而是工具；二是围棋的竞技属性可能弱化，而作为文化体验和AI思维研究载体的价值将凸显；三是围棋教育市场将迎来技术驱动的结构性调整，能够率先整合AI工具的机构将获得竞争优势。这场变革的本质是人工智能对人类知识权威的挑战，其影响远超围棋本身。",
+  "tags": [
+    "人工智能",
+    "围棋",
+    "人机互动"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:55.580986+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

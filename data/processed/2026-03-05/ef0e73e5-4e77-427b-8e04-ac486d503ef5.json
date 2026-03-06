@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "We Need Positive Visions for AI Grounded in Wellbeing",
+  "raw_content": "IntroductionImagine yourself a decade ago, jumping directly into the present shock of conversing naturally with an encyclopedic AI that crafts images, writes code, and debates philosophy. Won&#x2019;t this technology almost certainly transform society &#x2014; and hasn&#x2019;t AI&#x2019;s impact on us so far been",
+  "source_url": "https://thegradient.pub/we-need-positive-visions-for-ai-grounded-in-wellbeing/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2024-08-03T17:00:43+00:00",
+  "id": "ef0e73e5-4e77-427b-8e04-ac486d503ef5",
+  "generated_title": "AI需植根于人类福祉的积极愿景",
+  "generated_summary": "探讨AI发展应聚焦于人类福祉，呼吁构建积极的AI社会影响，而非单纯追求技术进步",
+  "generated_analysis": "这一呼吁反映了AI行业正在经历从“技术驱动”向“价值驱动”的关键转型。生成式AI过去两年的爆发式应用已深刻渗透至企业运营、医疗诊断、教育内容创作等领域，其社会影响力远超技术本身。当前业界逐渐意识到，若仅追求参数规模与能力边界，可能引发就业结构调整、隐私侵蚀、信息真实性危机等系统性风险，最终反而制约技术的可持续发展。\n\n对企业决策者而言，这一趋势意味着AI投资逻辑需要重构：技术采购标准将更多考量伦理合规、数据安全与社会责任表现；产品设计需嵌入“可解释性”与“人类可控性”要素；组织文化上，跨学科的AI治理人才将成为稀缺资源。预计未来三到五年，具备“人类福祉导向”认证的AI解决方案将在政府采购、医疗、金融等敏感领域获得溢价优势，而忽视这一维度的企业将面临监管壁垒与声誉风险。主动将AI伦理纳入战略规划，已从“可选项”变为“必选项”。",
+  "tags": [
+    "AI发展",
+    "社会影响",
+    "科技伦理"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:01:23.031059+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

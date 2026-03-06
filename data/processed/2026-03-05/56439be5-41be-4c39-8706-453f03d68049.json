@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Global standard-setting bodies publish assessment of margin requirements for non-centrally cleared derivatives",
+  "raw_content": "The Basel Committee on Banking Supervision (BCBS) and the International Organization of Securities Commissions (IOSCO) today published a report that reviews the implementation of margin requirements for non-centrally cleared derivatives.",
+  "source_url": "https://www.bis.org/press/p251212.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-05T14:25:36.879432+00:00",
+  "id": "56439be5-41be-4c39-8706-453f03d68049",
+  "generated_title": "全球标准制定机构发布非中央清算衍生品保证金要求评估报告",
+  "generated_summary": "BCBS和IOSCO发布报告，审查非中央清算衍生品保证金要求的实施情况。",
+  "generated_analysis": "2008年金融危机暴露了场外衍生品市场的系统性风险，非中央清算衍生品因缺乏透明度和风险缓冲机制成为监管改革重点。BCBS与IOSCO作为全球金融监管标准制定者，此次联合发布评估报告，标志着国际监管层对衍生品市场风险管理框架的阶段性审视。\n\n该报告的核心价值在于全面审查保证金要求的实施效果，为后续政策调整提供依据。对行业而言，评估结果将直接影响金融机构的合规成本和业务策略。若发现问题或执行差异，可能推动更严格的保证金标准或差异化监管安排。\n\n从趋势判断，监管机构大概率会基于评估发现优化规则设计，强调抵押品质量、流动性风险缓冲和跨境监管协调。企业决策者应密切关注报告后续影响，提前评估保证金成本上升对衍生品业务盈利性的影响，并加强与监管机构的沟通，防范政策变动带来的合规风险。",
+  "tags": [
+    "金融监管",
+    "衍生品",
+    "保证金要求",
+    "国际标准"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:52:10.281402+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Federal Open Market Committee reaffirms its \"Statement on Longer-Run Goals and Monetary Policy Strategy\"",
+  "raw_content": "Federal Open Market Committee reaffirms its &quot;Statement on Longer-Run Goals and Monetary Policy Strategy&quot;",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128b.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-01-28T19:00:00+00:00",
+  "id": "c929d656-c5f5-413d-94ed-d4efc334b0f5",
+  "generated_title": "美联储重申长期货币政策目标和战略声明",
+  "generated_summary": "FOMC再次确认其货币政策框架声明，体现美联储对通胀目标和利率策略的持续承诺。",
+  "generated_analysis": "",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "FOMC"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-04T14:52:24.890398+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "cuTile.jl Brings NVIDIA CUDA Tile-Based Programming to Julia",
+  "raw_content": "NVIDIA CUDA Tile is one of the most significant additions to NVIDIA CUDA programming and unlocks automatic access to tensor cores and other specialized...",
+  "source_url": "https://developer.nvidia.com/blog/cutile-jl-brings-nvidia-cuda-tile-based-programming-to-julia/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T19:48:16+00:00",
+  "id": "e5235175-5aff-42ce-8533-9c6312b0dd99",
+  "generated_title": "cuTile.jl为Julia带来NVIDIA CUDA瓦片式编程支持",
+  "generated_summary": "NVIDIA推出CUDA Tile编程功能，可自动访问张量核心等专用加速单元，显著提升Julia语言的GPU计算效率。",
+  "generated_analysis": "",
+  "tags": [
+    "GPU编程",
+    "CUDA",
+    "Julia",
+    "张量计算"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:25.968237+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}

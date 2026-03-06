@@ -1,0 +1,89 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "麦格米特(002851) 今日跌0.09% 报128.59元",
+  "raw_content": "麦格米特(002851) 最新价 128.59元，跌0.09%，涨跌额 -0.11元，今开 131.00元，最高 133.93元，最低 126.57元，昨收 128.70元，成交额 24.69亿元，振幅 5.72%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz002851/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T08:36:07.511272+00:00",
+  "id": "c3b382ad-047b-4083-8e19-eb2275808854",
+  "generated_title": "麦格米特(002851) 今日跌0.09% 报128.59元 | 观望",
+  "generated_summary": "趋势: 震荡 · 信号: 观望 · 评分: 52",
+  "generated_analysis": "麦格米特今日小幅下跌0.09%，收盘价128.59元，股价仍处于相对高位。从技术面看，股价偏离MA5约3.2%，虽然仍保持多头排列，但乖离率已处于警戒区域。日内振幅达5.72%，成交额24.69亿元，显示多空分歧加大。考虑到股价偏离均线较远，按照'严进策略'原则，不宜追高建仓。从基本面看，公司属于新能源车产业链，受益行业发展，但短期涨幅较大需要消化。建议等待股价回踩MA10附近(约125元)再考虑介入。\n\n风险提示: 追高风险：当前乖离率偏高，若大盘调整可能触发补跌；技术面风险：放量下跌可能预示短期顶部形成",
+  "tags": [
+    "A股",
+    "震荡",
+    "观望"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-05T14:49:40.292569+00:00",
+  "market_data": {
+    "symbols": [
+      "002851"
+    ],
+    "price_change": {
+      "price": 128.59,
+      "change_pct": -0.09,
+      "change_amt": -0.11
+    },
+    "indicators": {
+      "volume": 18974539.0,
+      "turnover": 2468945047.9,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 5.72,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "震荡",
+    "signal": "观望",
+    "risk": "追高风险：当前乖离率偏高，若大盘调整可能触发补跌；技术面风险：放量下跌可能预示短期顶部形成",
+    "confidence": "中",
+    "sentiment_score": 52,
+    "dashboard": {
+      "core_conclusion": {},
+      "data_perspective": {
+        "ma_alignment": "均线多头排列但乖离率偏高",
+        "is_bullish": true,
+        "trend_score": 58,
+        "bias_ma5": 3.2,
+        "bias_status": "警戒",
+        "support_level": "125.00元",
+        "resistance_level": "133.93元",
+        "volume_status": "放量",
+        "volume_meaning": "高位放量说明多空分歧加大，需谨慎"
+      },
+      "battle_plan": {
+        "ideal_buy": "123.00元",
+        "secondary_buy": "125.00元",
+        "stop_loss": "120.00元",
+        "take_profit": "135.00元",
+        "suggested_position": "20%-30%",
+        "entry_plan": "首次建仓20%，回踩MA10企稳后加仓10%"
+      },
+      "checklist": [
+        "⚠️ 多头排列",
+        "⚠️ 乖离率略高",
+        "✅ 量能配合",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "乖离率超过3%，追高风险较大",
+        "近期涨幅较大，获利盘可能了结",
+        "大盘走势不确定可能影响该股"
+      ],
+      "positive_catalysts": [
+        "新能源 汽车零部件概念，行业发展前景良好",
+        "业绩稳定增长，基本面支撑较强"
+      ],
+      "short_term_outlook": "短期1-3日可能继续调整，考验125元支撑，若能在MA10附近企稳可考虑低吸",
+      "medium_term_outlook": "中期1-2周若能在125-128元区间震荡企稳，仍有向上突破机会"
+    }
+  }
+}

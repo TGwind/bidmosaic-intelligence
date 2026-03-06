@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Polymarket Pulls Bet on Nuclear Detonation in 2026",
+  "raw_content": "‘How ghoulish.’ The depravity economy moves into the nuclear war business.",
+  "source_url": "https://www.404media.co/polymarket-pulls-bet-on-nuclear-detonation-in-2026/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T15:55:56+00:00",
+  "id": "b198b4e5-1027-49e0-9e2d-0383fc235c97",
+  "generated_title": "预测市场Polymarket撤下核爆炸投注引争议",
+  "generated_summary": "预测市场平台Polymarket下架2026年核爆炸投注，被批将核战商品化，引发舆论批评。",
+  "generated_analysis": "此次事件揭示了预测市场行业面临的伦理困境与监管挑战。Polymarket作为加密货币预测平台，将核战争这样的极端灾难事件商品化，本质上是对人类共同安全风险的投机行为，触碰了公众情感底线。尽管平台已下架相关投注，但争议本身暴露了预测市场在事件筛选、风险定价等方面的机制缺陷。\n\n从行业影响看，此事将加速监管机构对预测市场的关注。美国SEC及欧盟监管机构可能加强对极端事件预测类产品的审查，要求平台建立更严格的事件准入标准。同时，行业竞争者将面临舆论压力，需在商业利益与社会责任间寻求平衡。\n\n趋势判断：短期内预测市场将经历合规整顿期，平台方将主动下架敏感品类以规避风险；中长期看，极端事件预测需求依然存在，行业可能转向合规框架下的细分市场，如商业保险、地缘政治分析等领域，同时引入更透明的争议解决机制。企业在布局预测市场时，需将ESG风险纳入战略考量。",
+  "tags": [
+    "预测市场",
+    "核风险",
+    "科技平台"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:29:59.111615+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

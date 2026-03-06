@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "今年国防费预算为1.9万亿元 增长7%",
+  "raw_content": "今年国防费预算为1.9万亿元 增长7%",
+  "source_url": "https://www.toutiao.com/trending/7613618599739457577/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613618599739457577%22%2C%22hot_board_impr_id%22%3A%2220260306101517C3FE8970787A856E5938%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%8A%E5%B9%B4%E5%9B%BD%E9%98%B2%E8%B4%B9%E9%A2%84%E7%AE%97%E4%B8%BA1.9%E4%B8%87%E4%BA%BF%E5%85%83+%E5%A2%9E%E9%95%BF7%25%22%7D&rank=&style_id=40132&topic_id=7613618599739457577",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-06T02:15:17.729084+00:00",
+  "id": "43db9fe8-b871-4bee-af5e-2d2bb83dcf0c",
+  "generated_title": "今年国防费预算为1.9万亿元 增长7%",
+  "generated_summary": "2024年中国国防支出预算1.9万亿元，同比增长7%，体现强军目标下的财政支持力度。",
+  "generated_analysis": "2024年中国国防预算1.9万亿元，同比增长7%，这是在复杂国际安全环境下的战略性财政安排。从背景看，地缘政治博弈加剧、台海局势、南海争端等因素推动国防现代化建设加速；7%的增速延续了近年来国防支出稳步增长的趋势，体现了国家对强军目标的一贯承诺。\n\n对行业而言，国防预算增长将直接带动军工产业链景气度提升。装备制造、信息化智能化、航天航空、舰船等领域将获得更多订单支持，利好相关上市公司业绩。同时，民参军企业有望在配套领域获得更多市场机会。\n\n趋势判断：预计未来3-5年国防支出仍将保持适度增长，增速可能稳定在6%-8%区间。投资重点将向高技术装备、联合作战体系、无人化智能化方向倾斜。对于企业决策者，建议关注军工核心配套、国产替代、自主可控等细分领域的投资机会，同时注意军民融合政策走向带来的业务拓展空间。",
+  "tags": [
+    "国防预算",
+    "财政支出",
+    "军事政策"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:17:17.728666+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "40583647",
+    "platform": "toutiao"
+  }
+}

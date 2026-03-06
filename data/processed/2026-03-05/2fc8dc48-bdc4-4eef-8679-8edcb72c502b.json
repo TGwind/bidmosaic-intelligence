@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation",
+  "raw_content": "arXiv:2603.03745v1 Announce Type: new Abstract: Vision-Language Navigation (VLN) is evolving from single-point pathfinding toward the more challenging Multi-Goal VLN. This task requires agents to accurately identify multiple entities while collaboratively reasoning over their spatial-physical constraints and sequential execution order. However, generic Retrieval-Augmented Generation (RAG) paradigms often suffer from spatial hallucinations and planning drift when handling multi-object associations due to the lack of explicit spatial modeling.To address these challenges, we propose RAGNav, a framework that bridges the gap between semantic reasoning and physical structure. The core of RAGNav is a Dual-Basis Memory system, which integrates a low-level topological map for maintaining physical connectivity with a high-level semantic forest for hierarchical environment abstraction. Building on this representation, the framework introduces an anchor-guided conditional retrieval and a topological neighbor score propagation mechanism. This approach facilitates the rapid screening of candidate targets and the elimination of semantic noise, while performing semantic calibration by leveraging the physical associations inherent in the topological neighborhood.This mechanism significantly enhances the capability of inter-target reachability reasoning and the efficiency of sequential planning. Experimental results demonstrate that RAGNav achieves state-of-the-art (SOTA) performance in complex multi-goal navigation tasks.",
+  "source_url": "https://arxiv.org/abs/2603.03745",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "2fc8dc48-bdc4-4eef-8679-8edcb72c502b",
+  "generated_title": "RAGNav：多目标视觉语言导航的拓扑推理框架",
+  "generated_summary": "提出RAGNav框架，通过Dual-Basis Memory系统结合低层拓扑地图和高层语义森林，实现多目标视觉语言导航的语义校准与拓扑推理。",
+  "generated_analysis": "RAGNav的推出标志着视觉语言导航领域从单点路径规划向多目标协同推理的重要转折。该框架针对传统检索增强生成在多目标场景下的空间幻觉和规划漂移问题，创新性地引入Dual-Basis Memory系统，将低层拓扑地图的物理连接性与高层语义森林的环境抽象能力有机融合，这一设计思路为复杂空间推理提供了新的技术范式。\n\n从行业影响看，该技术在机器人导航、智能仓储、自动驾驶最后一公里、AR/VR环境交互等场景具有显著应用价值。其拓扑邻居评分传播机制可有效提升多目标任务的执行效率，降低实际部署中的路径规划错误率。对于正在布局具身智能的企业而言，RAGNav验证了多模态大模型与空间建模结合的可行性。\n\n趋势判断：未来1-2年内，多目标视觉语言导航将成为具身智能领域竞争焦点，融合拓扑推理的RAG架构有望向更复杂的三维环境和动态场景扩展，相关软硬件解决方案将加速商业化落地。",
+  "tags": [
+    "人工智能",
+    "视觉语言导航",
+    "深度学习",
+    "机器人"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:49:26.012011+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

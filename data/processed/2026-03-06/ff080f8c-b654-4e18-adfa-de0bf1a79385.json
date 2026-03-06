@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+  "raw_content": "We are pleased to announce Phi-4-reasoning-vision-15B, a 15 billion parameter open‑weight multimodal reasoning model, available through Microsoft Foundry (opens in new tab), HuggingFace (opens in new tab) and GitHub (opens in new tab). Phi-4-reasoning-vision-15B is a broadly capable model that can be used for a wide array of vision-language tasks such as image captioning, asking [&#8230;] The post Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-04T18:05:57+00:00",
+  "id": "ff080f8c-b654-4e18-adfa-de0bf1a79385",
+  "generated_title": "微软发布Phi-4-reasoning-vision-15B多模态推理模型",
+  "generated_summary": "微软发布150亿参数开源多模态推理模型Phi-4-reasoning-vision-15B，支持图像标注、视觉问答等任务。",
+  "generated_analysis": "微软此次推出150亿参数的Phi-4-reasoning-vision，标志着多模态模型发展进入新阶段。该模型在保持较小参数规模的同时实现了较强的视觉理解与推理能力，体现了微软在模型压缩和效率优化方面的技术积累。这一发布对行业具有多重意义：首先，开源策略将降低企业应用门槛，推动多模态AI在中小企业中的普及；其次，15B参数规模使得模型更易于在企业环境中部署，有望改变过去大模型只能依赖云端算力的格局。对于市场竞争而言，Phi-4-reasoning-vision加入战局将加剧多模态模型竞争，加速技术迭代与价格优化。预计未来一到两年内，小型化、高性能的多模态推理模型将成为行业主流趋势，企业应关注该技术在智能客服、内容审核、辅助决策等场景的落地潜力，提前布局以获取竞争优势。",
+  "tags": [
+    "大语言模型",
+    "多模态AI",
+    "模型发布",
+    "微软"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:35:02.888104+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "政府工作报告中的新提法",
+  "raw_content": "政府工作报告中的新提法",
+  "source_url": "https://www.toutiao.com/article/7613713183542493750",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:17.729070+00:00",
+  "id": "551c6bd8-5fa8-44f6-830c-cb813d399e20",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "54782193",
+    "platform": "toutiao"
+  }
+}

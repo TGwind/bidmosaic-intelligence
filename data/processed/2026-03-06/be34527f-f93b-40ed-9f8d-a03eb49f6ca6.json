@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Ask a Techspert: How does AI understand my visual searches?",
+  "raw_content": "Mobile phone with a search bar that says \"Ask anything\"",
+  "source_url": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T18:00:00+00:00",
+  "id": "be34527f-f93b-40ed-9f8d-a03eb49f6ca6",
+  "generated_title": "AI如何理解视觉搜索？Google技术解析",
+  "generated_summary": "Google AI Blog介绍AI如何通过计算机视觉和深度学习技术理解用户的图片搜索查询，解析视觉搜索的工作原理。",
+  "generated_analysis": "",
+  "tags": [
+    "人工智能",
+    "计算机视觉",
+    "Google"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:30:46.986088+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

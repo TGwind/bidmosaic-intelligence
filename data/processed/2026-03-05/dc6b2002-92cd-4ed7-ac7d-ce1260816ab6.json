@@ -1,0 +1,58 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "A股大盘行情速览",
+  "raw_content": "A股大盘行情：上证指数 4108.57 ↑0.64%；沪深300 4647.69 ↑0.98%；深证成指 14088.84 ↑1.23%；创业板指 3216.94 ↑1.66%",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh000001/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T08:36:07.494353+00:00",
+  "id": "dc6b2002-92cd-4ed7-ac7d-ce1260816ab6",
+  "generated_title": "A股大盘行情速览",
+  "generated_summary": "A股大盘行情：上证指数 4108.57 ↑0.64%；沪深300 4647.69 ↑0.98%；深证成指 14088.84 ↑1.23%；创业板指 3216.94 ↑1.66%",
+  "generated_analysis": "今日A股市场延续反弹态势，三大指数全线收涨。从指数表现来看，创业板指领涨1.66%，深证成指涨1.23%，显示成长风格明显占优；沪深300涨0.98%，而上证指数仅涨0.64%，蓝筹股表现相对滞后。整体量能有所放大，市场做多情绪回暖。短期来看，创业板连续走强提振市场信心，预计指数层面仍有望震荡上行，但需关注上方均线压力，建议关注科技、新能源等成长赛道及业绩确定性强的低位蓝筹股。",
+  "tags": [
+    "A股",
+    "大盘",
+    "行情"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:49:35.089482+00:00",
+  "market_data": {
+    "symbols": [
+      "000001",
+      "000300",
+      "399001",
+      "399006"
+    ],
+    "price_change": {},
+    "indicators": {
+      "000001": {
+        "name": "上证指数",
+        "price": 4108.57,
+        "change_pct": 0.64
+      },
+      "000300": {
+        "name": "沪深300",
+        "price": 4647.69,
+        "change_pct": 0.98
+      },
+      "399001": {
+        "name": "深证成指",
+        "price": 14088.84,
+        "change_pct": 1.23
+      },
+      "399006": {
+        "name": "创业板指",
+        "price": 3216.94,
+        "change_pct": 1.66
+      }
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}

@@ -11,7 +11,7 @@ on:
         required: true
         default: 'daily'
         type: choice
-        options: [weekly, daily]
+        options: [weekly, daily, stock]
 
 jobs:
   send:
@@ -39,8 +39,22 @@ jobs:
             echo "type=daily" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Send newsletter
+      - name: Send newsletter via email
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          FROM_EMAIL: ${{ vars.FROM_EMAIL }}
           NEWSLETTER_TYPE: ${{ steps.type.outputs.type }}
         run: python -m publisher.send_email
+
+      - name: Push to webhooks
+        env:
+          WECOM_WEBHOOK_URL: ${{ secrets.WECOM_WEBHOOK_URL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ vars.TELEGRAM_CHAT_ID }}
+          NEWSLETTER_TYPE: ${{ steps.type.outputs.type }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://bidmosaic.com' }}
+        run: python -m publisher.webhook_push

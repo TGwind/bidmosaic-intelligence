@@ -1,0 +1,48 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "比亚迪(002594) 今日涨0.82% 报95.99元",
+  "raw_content": "比亚迪(002594) 最新价 95.99元，涨0.82%，涨跌额 +0.78元，今开 95.20元，最高 96.80元，最低 93.70元，昨收 95.21元，成交额 66.75亿元，振幅 3.26%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz002594/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:19:54.969288+00:00",
+  "id": "0dbb360b-645e-4e86-864e-e6a33cfab1a0",
+  "generated_title": "比亚迪(002594) 今日涨0.82% 报95.99元 | 持有",
+  "generated_summary": "趋势: 偏强 · 信号: 持有",
+  "generated_analysis": "今日比亚迪股价上涨0.82%收于95.99元，盘中最高触及96.80元，振幅达3.26%，收盘价接近当日最高点，显示多头力量占优。成交额66.75亿元，量能较前一交易日有所放大，呈现价升量增的健康态势，说明有资金持续流入。从估值来看，作为新能源车龙头企业，比亚迪目前动态PE约35倍，处于行业合理偏高水平，但考虑到公司在动力电池和整车领域的竞争优势以及行业长期成长空间，估值具备一定支撑。短期来看，股价站上5日均线并逼近前期高点96.80元，若能有效突破则有望打开上行空间，但需警惕短期获利了结带来的回调压力。\n\n风险提示: 需注意新能源汽车行业竞争加剧、原材料价格波动及政策补贴退坡带来的短期调整风险。",
+  "tags": [
+    "A股",
+    "偏强",
+    "持有"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-04T14:45:14.213482+00:00",
+  "market_data": {
+    "symbols": [
+      "002594"
+    ],
+    "price_change": {
+      "price": 95.99,
+      "change_pct": 0.82,
+      "change_amt": 0.78
+    },
+    "indicators": {
+      "volume": 70096892.0,
+      "turnover": 6674964517.79,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 3.26,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "持有",
+    "risk": "需注意新能源汽车行业竞争加剧、原材料价格波动及政策补贴退坡带来的短期调整风险。"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
+  "raw_content": "Algorithms & Theory",
+  "source_url": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-04T15:14:00+00:00",
+  "id": "575f34bb-7b68-4f65-8a52-b7f94f6b2d2b",
+  "generated_title": "Google发布Seq Attention算法让AI模型更精简快速",
+  "generated_summary": "Google Research提出Sequential Attention技术，可在保持精度的同时显著提升AI模型效率，降低计算成本。",
+  "generated_analysis": "Google Research发布的Sequential Attention技术代表了AI效率优化的重要突破。当前大模型发展面临算力成本高、推理延迟大的核心瓶颈，该技术通过改进注意力机制的结构，在不牺牲模型精度的前提下显著提升了计算效率。这意味着企业可以在更少的硬件资源下部署同等性能的AI应用，大幅降低运营成本。从行业角度看，这将进一步加速AI技术在中小企业和边缘计算场景的普及，因为部署门槛将明显降低。我们判断，未来一到两年内，模型效率优化将成为AI领域竞争的关键维度，类似的技术创新会持续涌现。企业决策者应密切关注这一趋势，在AI战略规划中优先考虑效率指标，这不仅关乎成本控制，更直接影响AI应用的大规模落地能力。",
+  "tags": [
+    "人工智能",
+    "算法优化",
+    "机器学习"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:24:16.801435+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

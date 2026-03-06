@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Last Week in AI #334 - Kimi K2.5 & Code, Genie 3, OpenClaw & Moltbook",
+  "raw_content": "China&#8217;s Moonshot releases a new open source model Kimi K2.5 and a coding agent, Google Brings Genie 3&#8217;s Interactive World-Building Prototype to AI Ultra Subscribers, and more!",
+  "source_url": "https://lastweekin.ai/p/last-week-in-ai-334-kimi-k25-and",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-04T05:25:56+00:00",
+  "id": "4e211b17-3cf5-4d2b-ab87-6ba13402dfcf",
+  "generated_title": "Moonshot发布Kimi K2.5开源模型 Google推出Genie 3交互世界构建",
+  "generated_summary": "中国Moonshot发布Kimi K2.5开源模型及编码代理，Google为AI Ultra订阅用户推出Genie 3交互式世界构建原型。",
+  "generated_analysis": "Moonshot发布Kimi K2.5开源模型及编码代理，Google推出Genie 3交互式世界构建，这两个事件标志着AI竞争进入差异化阶段。Moonshot选择开源路径，旨在构建开发者生态、降低AI应用门槛，同时通过编码代理切入开发者工具市场，这将与OpenAI等闭源模型形成正面竞争。Google的Genie 3则代表另一条路线——通过交互式世界构建探索AI生成内容的新范式，面向C端用户提供沉浸式体验。\n\n对行业而言，开源模型的涌现将加速AI技术普惠，中小企业可更低成本获取基础能力，但同时也将加剧模型层的商品化竞争。交互式世界构建的推出预示着AI应用正从工具属性向体验属性延伸，这对内容产业、娱乐及教育领域可能产生深远影响。\n\n趋势判断：未来1-2年，开源与闭源模型将并存竞争，差异化在于生态绑定和垂直场景优化；交互式AI将成为巨头必争之地，建议企业决策者关注多模态交互技术储备，以及如何在AI普惠化趋势中寻找独特价值定位。",
+  "tags": [
+    "开源模型",
+    "AI代理",
+    "Google",
+    "Moonshot"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:54.564733+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

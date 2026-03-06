@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How Lendi revamped the refinance journey for its customers using agentic AI in 16 weeks using Amazon Bedrock",
+  "raw_content": "This post details how Lendi Group built their AI-powered Home Loan Guardian using Amazon Bedrock, the challenges they faced, the architecture they implemented, and the significant business outcomes they’ve achieved. Their journey offers valuable insights for organizations that want to use generative AI to transform customer experiences while maintaining the human touch that builds trust and loyalty.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/how-lendi-revamped-the-refinance-journey-for-its-customers-using-agentic-ai-in-12-weeks-using-amazon-bedrock/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T16:18:30+00:00",
+  "id": "70633679-c7f2-4cb9-9a54-17006a567463",
+  "generated_title": "Lendi用亚马逊Bedrock AI改造房贷流程，16周实现突破",
+  "generated_summary": "Lendi Group基于Amazon Bedrock构建AI房贷助手，解决 refinance 痛点，显著提升客户体验与业务效率。",
+  "generated_analysis": "Lendi基于Amazon Bedrock构建AI房贷助手代表了金融科技领域生成式AI应用的重要突破。该案例的背景在于传统房贷 refinancing流程普遍存在效率低、周期长、客户体验差等行业痛点，而Lendi在16周内实现突破，说明生成式AI在信贷领域的落地速度远超预期。\n\n对行业而言，这一案例具有标杆意义。首先，它验证了AWS Bedrock在金融合规场景下的可行性，为其他金融机构提供了可复制的技术架构参考。其次，AI助手在保持人性化服务的同时显著提升效率，这种“人机协作”模式可能重塑 mortgage行业的服务标准。预计更多银行和贷款机构将加速布局AI客服和自动化审批流程。\n\n从趋势判断，短期内AI房贷助手将向更多场景延伸，包括智能估值、风险评估和个性化产品推荐。中期来看，行业可能出现分化——积极拥抱AI的机构将获得成本和体验优势，而转型迟缓的竞争对手将面临客户流失压力。建议企业决策者将AI赋能纳入数字化转型优先级，同时关注数据安全和合规框架的同步建设。",
+  "tags": [
+    "AI应用",
+    "金融科技",
+    "亚马逊云",
+    "房贷数字化"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-04T14:49:24.166713+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "After Orthogonality: Virtue-Ethical Agency and AI Alignment",
+  "raw_content": "Preface This essay argues that rational people don&#x2019;t have goals, and that rational AIs shouldn&#x2019;t have goals. Human actions are rational not because we direct them at some final &#x2018;goals,&#x2019; but because we align actions to practices[1]: networks of actions, action-dispositions, action-evaluation criteria,",
+  "source_url": "https://thegradient.pub/virtue-ethics-ai-alignment/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-18T23:25:52+00:00",
+  "id": "1aa16a57-8237-4415-b7c4-7058207683ea",
+  "generated_title": "理性与AI目标：超越正交性论",
+  "generated_summary": "文章指出理性人类和AI不应有固定目标，理性在于将行动与实践网络对齐而非服务于终极目标。",
+  "generated_analysis": "这篇文章提出的核心观点挑战了AI领域长期以来的正交性论题，对行业发展具有重要启示意义。当前AI开发普遍遵循目标导向范式，即认为AI系统应当被赋予明确的目标函数并优化实现。然而文章指出，真正的理性应体现为将行动与实践网络对齐，而非服务于某个终极目标。\n\n这一理念转向对行业的影响是多维度的。首先，在AI安全治理层面，实践对齐论为价值对齐提供了新的理论框架，强调AI行为应嵌入人类复杂的社会实践语境而非简单追求目标最大化。其次，在AI产品设计层面，可能推动从单一目标优化向多维度实践网络适配的方向演进，这对自动驾驶、医疗AI等高风险应用场景尤为重要。\n\n对企业决策者而言，这意味着需要重新审视AI系统的评价体系。未来的AI治理可能更注重系统对人类实践规范的适应性，而非单纯的性能指标。同时，这一理论也为构建更具鲁棒性的AI提供了思路——通过让AI系统深度融入人类实践网络而非追求独立目标，可降低目标漂移和奖励黑客等风险。",
+  "tags": [
+    "AI对齐",
+    "人工智能哲学",
+    "理性研究"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:20:02.894310+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

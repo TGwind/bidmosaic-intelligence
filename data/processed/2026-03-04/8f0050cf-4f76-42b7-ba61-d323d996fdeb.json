@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+  "raw_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is rewiring how the world’s best Go players think Ten years ago AlphaGo, Google DeepMind’s AI program, stunned the world by defeating the South Korean Go player Lee Sedol. And in the&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-27T13:10:00+00:00",
+  "id": "8f0050cf-4f76-42b7-ba61-d323d996fdeb",
+  "generated_title": "AI重塑围棋思维：AlphaGo十年后如何改变棋界",
+  "generated_summary": "AlphaGo十年前击败李世石后，AI正在从根本上改变世界顶级围棋选手的思维方式与战略决策。",
+  "generated_analysis": "AlphaGo击败李世石标志着AI从计算工具向认知伙伴的转变，这一里程碑事件的影响远超围棋本身。十年间，AI已深度融入棋手训练体系，改变了传统棋理认知边界，催生了\"AI吻合度\"等新型竞技标准。对围棋行业而言，AI既带来冲击——传统师徒传承模式被数据驱动的算法辅助所取代，也创造新机遇：AI围棋教学平台、电竞化赛事、版权授权等商业模式正在兴起。更深远的是，围棋作为AI检验人类智慧疆界的试验田，其演进路径为其他领域提供了人机协作的范本。未来趋势判断：AI将加速围棋全球化传播，同时行业将分化出\"人类原创性\"与\"AI辅助竞技\"两条发展路径，企业若能把握人机协同的教育与娱乐市场，将获得显著增长空间。",
+  "tags": [
+    "人工智能",
+    "围棋",
+    "AlphaGo"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:50:15.258402+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

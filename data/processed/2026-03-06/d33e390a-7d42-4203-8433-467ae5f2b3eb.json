@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
+  "raw_content": "arXiv:2603.03565v1 Announce Type: new Abstract: Conversational shopping assistants (CSAs) represent a compelling application of agentic AI, but moving from prototype to production reveals two underexplored challenges: how to evaluate multi-turn interactions and how to optimize tightly coupled multi-agent systems. Grocery shopping further amplifies these difficulties, as user requests are often underspecified, highly preference-sensitive, and constrained by factors such as budget and inventory. In this paper, we present a practical blueprint for evaluating and optimizing conversational shopping assistants, illustrated through a production-scale AI grocery assistant. We introduce a multi-faceted evaluation rubric that decomposes end-to-end shopping quality into structured dimensions and develop a calibrated LLM-as-judge pipeline aligned with human annotations. Building on this evaluation foundation, we investigate two complementary prompt-optimization strategies based on a SOTA prompt-optimizer called GEPA (Shao et al., 2025): (1) Sub-agent GEPA, which optimizes individual agent nodes against localized rubrics, and (2) MAMuT (Multi-Agent Multi-Turn) GEPA (Herrera et al., 2026), a novel system-level approach that jointly optimizes prompts across agents using multi-turn simulation and trajectory-level scoring. We release rubric templates and evaluation design guidance to support practitioners building production CSAs.",
+  "source_url": "https://arxiv.org/abs/2603.03565",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "d33e390a-7d42-4203-8433-467ae5f2b3eb",
+  "generated_title": "多智能体购物助手评估与优化框架",
+  "generated_summary": "提出多维度评估框架和LLM评判管道，引入两种提示词优化策略，并在生产级AI杂货助手上验证效果。",
+  "generated_analysis": "该研究直面对话式购物助手从原型到生产落地的核心痛点。当前大模型Agent技术火热，但行业普遍缺乏系统化的评估方法和优化路径，尤其在 grocery 场景中，用户需求模糊、偏好敏感且受预算和库存约束，进一步放大了评估难度。\n\n该框架的突破在于：首先，建立多维度评估体系，将购物质量分解为结构化指标，并用 LLM 评判管道对齐人工标注，解决multi-turn交互难以量化的问题；其次，提出两种提示词优化策略——Sub-agent GEPA 聚焦单节点优化，MAMuT 则创新性地实现跨智能体的系统级联合优化，填补了多智能体协同优化的空白。\n\n对行业而言，此框架具有显著的实用价值。它为零售、医疗、教育等需要复杂多轮对话的服务场景提供了可复用的评估范式，有望加速 AI Agent 的生产落地。预计未来一到两年内，主流电商平台将陆续采纳类似的多智能体评估标准，而提示词优化技术也将从单点走向系统级协同设计，成为 AI 产品迭代的标准配置。",
+  "tags": [
+    "人工智能",
+    "多智能体系统",
+    "提示词优化",
+    "LLM评估"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:32:22.342821+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "特变电工(600089) 今日涨3.98% 报32.10元",
+  "raw_content": "特变电工(600089) 最新价 32.10元，涨3.98%，涨跌额 +1.23元，今开 31.40元，最高 32.37元，最低 31.40元，昨收 30.87元，成交额 61.67亿元，振幅 3.14%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh600089/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T02:04:45.576488+00:00",
+  "id": "bd278f70-ae91-4d55-9a24-7f93f733c2b3",
+  "generated_title": "特变电工(600089) 今日涨3.98% 报32.10元 | 买入",
+  "generated_summary": "趋势: 偏强 · 信号: 买入 · 评分: 72",
+  "generated_analysis": "特变电工今日大涨3.98%收于32.10元，股价站上所有均线呈现多头排列态势。MA5上穿MA10形成金叉，短期趋势转强。乖离率约4.2%，处于警戒区域边界（接近5%红线），追高需谨慎。量能方面成交额61.67亿元明显放大，显示资金积极进场但也伴随换手率升高。基本面上，公司作为光伏硅料龙头+特高压龙头，受益于硅价企稳和新型电力系统建设，中期逻辑清晰。综合来看技术面偏多但短期存在乖离率偏高风险，建议等待回踩均线再行介入。\n\n风险提示: 乖离率持续扩大可能引发快速回调，新能源板块整体走势对股价影响较大，需设好止损",
+  "tags": [
+    "A股",
+    "偏强",
+    "买入"
+  ],
+  "importance_score": 9,
+  "processed_at": "2026-03-05T14:49:25.693008+00:00",
+  "market_data": {
+    "symbols": [
+      "600089"
+    ],
+    "price_change": {
+      "price": 32.1,
+      "change_pct": 3.98,
+      "change_amt": 1.23
+    },
+    "indicators": {
+      "volume": 193196734.0,
+      "turnover": 6166506368.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 3.14,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "买入",
+    "risk": "乖离率持续扩大可能引发快速回调，新能源板块整体走势对股价影响较大，需设好止损",
+    "confidence": "中",
+    "sentiment_score": 72,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "多头排列初现，乖离率尚可承受，可逢回踩分批建仓",
+        "time_sensitivity": "今日内",
+        "position_advice": {
+          "no_position": "建议在31.50-31.80元区间分批建仓，首次仓位控制在40%以内",
+          "has_position": "可继续持有，若出现缩量回踩MA5可考虑加仓"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5>MA10>MA20多头排列初现",
+        "is_bullish": true,
+        "trend_score": 72,
+        "bias_ma5": 4.2,
+        "bias_status": "警戒",
+        "support_level": "31.50",
+        "resistance_level": "33.00",
+        "volume_status": "放量",
+        "volume_meaning": "成交额61.67亿元创近期新高，买盘积极但需防短期获利了结"
+      },
+      "battle_plan": {
+        "ideal_buy": "31.50",
+        "secondary_buy": "31.80",
+        "stop_loss": "30.50",
+        "take_profit": "34.50",
+        "suggested_position": "60%",
+        "entry_plan": "首仓40%在31.50元，剩余20%在31.80元，若跌破30.50元坚决止损"
+      },
+      "checklist": [
+        "✅ 多头排列",
+        "⚠️ 乖离率合理(4.2%接近5%红线)",
+        "✅ 量能配合",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "乖离率接近5%红线，追高风险加大",
+        "短期涨幅超4%，可能引发获利了结",
+        "新能源板块近期波动较大"
+      ],
+      "positive_catalysts": [
+        "硅价企稳回升预期",
+        "特高压建设加速",
+        "一带一路能源项目订单"
+      ],
+      "short_term_outlook": "明日可能惯性冲高后回落整固，关注31.50元支撑位，若失守可能回踩MA10(约30.80元)",
+      "medium_term_outlook": "1-2周内若能横盘整固化解乖离率，有望挑战33-34元前高压力位"
+    }
+  }
+}

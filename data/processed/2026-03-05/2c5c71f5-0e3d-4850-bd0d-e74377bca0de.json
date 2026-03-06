@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Trailer: The Shape of Things to Come",
+  "raw_content": "Microsoft research lead Doug Burger introduces his new podcast series, \"The Shape of Things to Come\", an exploration into the fundamental truths about AI and how the technology will reshape the future. The post Trailer: The Shape of Things to Come appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T13:00:18+00:00",
+  "id": "2c5c71f5-0e3d-4850-bd0d-e74377bca0de",
+  "generated_title": "微软推出AI播客探索未来形态",
+  "generated_summary": "微软研究院负责人Doug Burger推出新播客系列，探讨AI基本真相及技术重塑未来的影响",
+  "generated_analysis": "微软此次推出AI主题播客，折射出AI行业竞争已从技术研发层面上升到思想领导力争夺。Doug Burger作为微软研究院关键人物，选择通过播客这一公共内容形式系统阐释AI基本逻辑与未来形态，意图非常明确：在AI发展方向尚存不确定性的当下，率先定义“什么是AI真相”，从而影响行业叙事框架。\n\n这一动作对市场释放了重要信号。首先，微软正试图将AI从单纯的技术工具定位升维为具有哲学深度的变革力量，这有助于其在企业级AI市场建立更高层次的品牌认知。其次，播客面向公众和企业决策者的传播路径，显示出微软希望培育更广泛的AI认知群体，为未来AI产品渗透做认知铺垫。\n\n从趋势判断看，AI巨头间的竞争将日益聚焦于“定义权”争夺——谁能率先回答AI的本质问题并获得广泛认同，谁就能在标准制定、生态构建中占据主导。企业决策者应密切关注此类思想领导力内容，因为它往往预示着技术路线的优先演进方向。",
+  "tags": [
+    "人工智能",
+    "播客",
+    "微软",
+    "行业动态"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:49:14.616616+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

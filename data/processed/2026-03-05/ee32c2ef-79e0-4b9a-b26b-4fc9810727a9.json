@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗威胁将打击以色列迪莫纳核反应堆",
+  "raw_content": "伊朗威胁将打击以色列迪莫纳核反应堆",
+  "source_url": "https://www.toutiao.com/trending/7613022260353990692/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613022260353990692%22%2C%22hot_board_impr_id%22%3A%222026030515342384A79959823D7B68E839%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E5%B0%86%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E8%BF%AA%E8%8E%AB%E7%BA%B3%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86%22%7D&rank=&style_id=40132&topic_id=7613022260353990692",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T07:34:23.617952+00:00",
+  "id": "ee32c2ef-79e0-4b9a-b26b-4fc9810727a9",
+  "generated_title": "伊朗威胁打击以色列迪莫纳核反应堆",
+  "generated_summary": "伊朗警告将攻击以色列迪莫纳核设施，中东紧张局势进一步升级。",
+  "generated_analysis": "伊朗此次威胁打击以色列迪莫纳核设施，标志着中东地缘政治冲突进入的新阶段。迪莫纳作为以色列核心核反应堆，攻击该目标意味着伊朗战略姿态的重大升级，实质是将冲突从代理人战争转向直接对抗。此举背后是伊朗对以色列近期一系列军事行动的报复意图，同时也是向美国及国际社会施压的战略手段。\n\n对于全球市场而言，该事件将产生多重影响。首先，原油市场风险溢价将显著上升，中东作为全球重要石油产区，任何军事冲突升级都可能引发供应中断担忧，推动油价短期内快速上涨。其次，地缘政治不确定性增加将导致避险资金流向黄金、日元等传统避险资产，新兴市场可能面临资本外流压力。此外，区域航运保险成本将上升，红海航线安全形势进一步恶化。\n\n趋势判断上，短期内双方直接爆发大规模军事冲突的概率仍相对可控，更大概率是代理人冲突持续升级。但核设施问题的高度敏感性意味着误判风险显著增加，企业决策者应密切关注事态发展，提前做好能源价格波动对冲预案，并评估供应链风险。",
+  "tags": [
+    "地缘政治",
+    "中东局势",
+    "核威胁",
+    "以伊关系"
+  ],
+  "importance_score": 9,
+  "processed_at": "2026-03-05T14:48:35.166455+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7865996",
+    "platform": "toutiao"
+  }
+}

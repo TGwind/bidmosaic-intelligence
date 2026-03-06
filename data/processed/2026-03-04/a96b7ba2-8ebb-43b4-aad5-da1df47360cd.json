@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+  "raw_content": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21385 Qualcomm Multiple Chipsets Memory Corruption Vulnerability CVE-2026-22719 Broadcom VMware Aria Operations Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information. Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of KEV Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.",
+  "source_url": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T12:00:00+00:00",
+  "id": "a96b7ba2-8ebb-43b4-aad5-da1df47360cd",
+  "generated_title": "美国CISA将高通与VMware漏洞列入KEV目录",
+  "generated_summary": "CISA将高通芯片组内存损坏漏洞和VMware Aria命令注入漏洞列入已知被利用漏洞目录，要求联邦机构限期修复。",
+  "generated_analysis": "CISA此次将高通芯片组内存损坏漏洞与VMware Aria命令注入漏洞列入KEV目录，反映了移动终端与虚拟化基础设施正成为高级威胁攻击的重点目标。高通作为全球主流移动设备芯片供应商，其漏洞影响范围涵盖智能手机、物联网设备及部分边缘计算节点；VMware Aria则是企业云环境核心管理平台，命令注入漏洞可导致攻击者获取系统最高权限。\n\n对行业而言，这将加速企业重新审视供应链安全审查流程，特别是对第三方组件的漏洞监控机制。短期内，政企客户将面临紧急补丁部署压力，尤其是使用VMware Aria的金融机构与政府部门；长期来看，漏洞披露与利用的时间差将进一步收窄，企业需建立更敏捷的威胁响应体系。建议决策层立即排查相关产品部署情况，将KEV目录漏洞纳入补丁管理优先序列，同时关注此类零日漏洞在野利用的情报共享机制。",
+  "tags": [
+    "网络安全",
+    "漏洞利用",
+    "美国政府",
+    "CISA"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-04T14:51:03.804865+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}

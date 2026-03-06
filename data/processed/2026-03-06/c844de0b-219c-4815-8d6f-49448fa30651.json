@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "US reportedly considering sweeping new chip export controls",
+  "raw_content": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
+  "source_url": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T21:24:50+00:00",
+  "id": "c844de0b-219c-4815-8d6f-49448fa30651",
+  "generated_title": "美国拟实施全面芯片出口管制新规",
+  "generated_summary": "美国政府起草新规，拟对所有芯片出口销售进行监管，无论来自何国，旨在加强半导体技术管控。",
+  "generated_analysis": "美国此次拟推行的全面芯片出口管制新规，标志着其对半导体领域的管控从“针对特定国家”升级为“全球性监管”。这一政策源于中美科技竞争加剧的背景，实质上是试图切断中国获取先进芯片的全球供应链渠道，同时也遏制其他国家在半导体领域的自主发展。\n\n对于行业和市场而言，该新规将产生深远影响。首先，全球半导体供应链将面临更大不确定性，芯片贸易成本将显著上升。其次，非美企业在对华出口芯片时将面临更严格的审查，这会迫使许多公司调整业务布局。此外，此举可能倒逼中国加速半导体自主可控进程，但从短期看，中国芯片产业仍将面临高端产品供应紧张的压力。\n\n对于企业决策者，建议密切关注政策细则落地时间，同时加速供应链多元化布局，在合规前提下寻找替代市场和技术路径。全球半导体格局正从全球化向区域化加速重构，这已是不可逆转的趋势。",
+  "tags": [
+    "美国政策",
+    "芯片出口",
+    "半导体管制",
+    "国际贸易"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:31:34.262742+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

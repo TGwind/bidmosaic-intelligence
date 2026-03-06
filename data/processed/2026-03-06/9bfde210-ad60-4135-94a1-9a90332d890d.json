@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Hajime Takata: Economic activity, prices and monetary policy in Japan",
+  "raw_content": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Kyoto, 26 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-06T02:15:18.134267+00:00",
+  "id": "9bfde210-ad60-4135-94a1-9a90332d890d",
+  "generated_title": "日本央行官员京都演讲：经济活动、物价与货币政策",
+  "generated_summary": "日本央行政策委员会成员Hajime Takata在京都地方领导人会议上发表演讲，阐述经济活动、物价走势及货币政策前景。",
+  "generated_analysis": "日本央行政策委员会成员Hajime Takata此次京都演讲释放了重要的政策信号。从背景看，日本经济在经历长期通缩后，物价水平正逐步接近2%的通胀目标，央行面临政策正常化的内外部压力。此次面向地方领导人的演讲表明，央行正在为货币政策转向做社会沟通准备，以减少对市场的冲击。\n\n对行业影响而言，若日本央行逐步退出负利率政策，将导致日元资产吸引力上升，日元可能出现阶段性升值。对于出口导向型企业，需关注汇率波动对竞争力的影响；同时，利率正常化将提升企业融资成本，建议提前优化债务结构。金融市场方面，日本股市可能面临短期调整压力，但长期来看反映了经济基本面的改善。\n\n趋势判断上，预计日本央行将在2026年采取谨慎的紧缩步伐，可能先取消负利率政策，再逐步调整收益率曲线控制策略。亚洲其他央行可能跟随调整货币政策节奏，企业应密切关注日元走向及区域流动性变化，提前制定跨境投资和供应链布局的应对方案。",
+  "tags": [
+    "日本央行",
+    "货币政策",
+    "经济展望",
+    "通胀"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:28:35.905040+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

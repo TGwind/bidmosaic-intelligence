@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "US and EU police shut down LeakBase, a site accused of sharing stolen passwords and hacking tools",
+  "raw_content": "Authorities say LeakBase was \"one of the world’s largest online forums for cybercriminals,\" and maintained an archive of hacked databases containing hundreds of millions of passwords.",
+  "source_url": "https://techcrunch.com/2026/03/04/u-s-and-eu-police-shut-down-leakbase-a-site-accused-of-sharing-stolen-passwords-and-hacking-tools/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T19:01:55+00:00",
+  "id": "55bf4df8-e606-421b-8fb2-496a1843ccec",
+  "generated_title": "欧美捣毁全球最大黑客密码论坛LeakBase",
+  "generated_summary": "欧美执法部门联合捣毁LeakBase，该平台为全球最大网络犯罪论坛，存有数亿条被泄露密码。",
+  "generated_analysis": "LeakBase作为全球最大黑客密码论坛的覆灭，标志着国际执法协作在打击网络犯罪领域取得重要突破。该平台存储数亿条泄露密码，为撞库攻击、身份盗用等下游犯罪提供核心资源，其被捣毁直接切断了一条黑色产业链的关键供给链。\n\n对于企业决策者而言，此事件释放了三个重要信号：其一，凭证泄露仍是企业面临的最大攻击向量，即便此次清缴了海量数据，企业仍需假设自身密码可能已在暗网流通；其二，零信任安全架构从趋势变为刚需，传统边界防护已无法应对凭证盗用的规模化攻击；其三，执法力度持续加码将压缩地下犯罪空间，但暗网论坛向去中心化平台迁移的趋势也将加速。\n\n短期看，企业应立即审计密码策略，强制要求复杂密码并加快向多因素认证迁移。中长期而言，身份与访问管理的智能化改造将成为信息安全投资的重中之重，行业将加速从“防外”向“防内”转变，动态授权和持续验证机制将逐步替代静态密码体系。",
+  "tags": [
+    "网络安全",
+    "执法行动",
+    "黑客论坛"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:52:16.058141+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

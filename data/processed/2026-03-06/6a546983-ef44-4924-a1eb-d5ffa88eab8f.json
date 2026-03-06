@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《安全裤事件》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1b1PvzVE9x",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:30.754951+00:00",
+  "id": "6a546983-ef44-4924-a1eb-d5ffa88eab8f",
+  "generated_title": "安全裤事件",
+  "generated_summary": "B站热门话题，但缺乏具体内容信息，无法判断事件详情",
+  "generated_analysis": "",
+  "tags": [
+    "网络热点",
+    "B站",
+    "娱乐"
+  ],
+  "importance_score": 2,
+  "processed_at": "2026-03-06T02:17:29.820326+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1759181,
+    "platform": "bilibili"
+  }
+}

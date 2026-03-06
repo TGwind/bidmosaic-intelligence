@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
+  "raw_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This startup claims it can stop lightning and prevent catastrophic wildfires Startup&#160;Skyward Wildfire&#160;says it can prevent catastrophic fires by stopping the lightning strikes that ignite them. So far, it hasn’t publicly&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T13:30:00+00:00",
+  "id": "b18c6e57-84b5-462f-a317-01d4c2b7d1ae",
+  "generated_title": "初创公司声称可阻止闪电预防野火",
+  "generated_summary": "初创公司Skyward Wildfire研发技术试图通过阻止闪电来预防灾难性野火，目前尚未公开更多技术细节。",
+  "generated_analysis": "野火已成为全球性气候灾难，仅美国每年因野火造成的损失就高达数百亿美元，而闪电是引发约15%-20%重大野火的根本原因。Skyward Wildfire提出的“阻击闪电”思路突破传统防灾逻辑，从被动监测转向主动干预，若技术验证成功，将开创一个全新的防灾细分领域。\n\n从市场角度看，这项技术若实现将重塑多个产业：林业管理可从被动扑灭转向主动预防，保险业风险评估模型需全面重构，政府公共安全支出结构也将调整。更重要的是，它可能催生前所未有的商业化场景，包括电力设施保护、森林保护区管理、高危季节的闪电预警服务等。\n\n但目前信息极度有限，技术路径、干预方式、实际效果均未公开，这是典型的前期概念阶段。判断趋势需要关注两个关键节点：一是技术可行性验证，二是成本经济性评估。建议决策者保持观察，重点追踪其后续披露的技术细节及试点项目进展，同时关注传统防灾企业的应对策略，因为这一领域一旦成熟，可能引发激烈竞争与并购整合。",
+  "tags": [
+    "野火防控",
+    "闪电科技",
+    "初创公司"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:51:24.700272+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

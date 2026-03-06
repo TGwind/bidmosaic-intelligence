@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "X Will Stop Paying People for Sharing Unlabeled AI-Generated War Footage",
+  "raw_content": "Fake war footage is a problem as old as social media. AI has just supercharged it.",
+  "source_url": "https://www.404media.co/x-will-stop-paying-people-for-sharing-unlabeled-ai-generated-war-footage/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T19:42:41+00:00",
+  "id": "bc6e369b-7b76-49cb-bf39-44a3b74b815e",
+  "generated_title": "X平台将停止为分享未标注AI战争 footage 付费",
+  "generated_summary": "X平台宣布停止付费给用户分享未标注的AI生成战争 footage，聚焦打击虚假信息",
+  "generated_analysis": "这一事件反映了社交媒体平台在AI生成内容治理方面的态度转变。随着深度伪造技术门槛大幅降低，虚假战争画面的制作和传播已对信息生态构成严峻挑战。X平台此番停止为未标注的AI战争 footage付费，释放出平台方不再容忍利用AI技术制造虚假信息的明确信号。\n\n从行业影响看，这一决策将产生多重效应。首先，内容创作者的经济激励模式将面临调整，平台对AI生成内容的审核标准趋于严格；其次，内容平台的审核成本将显著上升，AI检测技术的商业价值将进一步凸显；再次，其他社交平台可能面临跟进压力，平台内容治理的行业标准有望加速形成。\n\n展望趋势，AI内容的强制标注要求将成为行业标配，平台方在内容审核上的法律责任将进一步明确。对于企业决策者而言，需要关注三个方向：一是AI内容检测与鉴真技术的发展机遇；二是平台内容治理政策变化对营销和传播策略的影响；三是行业监管政策趋严背景下，合规体系建设的重要性。",
+  "tags": [
+    "社交媒体",
+    "AI虚假信息",
+    "平台治理"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:58:43.466736+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

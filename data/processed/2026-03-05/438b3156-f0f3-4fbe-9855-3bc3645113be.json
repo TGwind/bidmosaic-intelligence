@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "UAE central bank says financial system stable amid missile and drone attacks",
+  "raw_content": "More than 1,800 crypto businesses operate in the UAE, with over 600 Web3 companies based in Dubai’s DMCC free zone.",
+  "source_url": "https://cointelegraph.com/news/uae-central-bank-banks-operational-regional-tensions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T11:16:39+00:00",
+  "id": "438b3156-f0f3-4fbe-9855-3bc3645113be",
+  "generated_title": "阿联酋央行称金融系统稳定 超1800家加密企业运营",
+  "generated_summary": "阿联酋央行表示该国金融系统保持稳定，尽管面临导弹和无人机袭击。目前有超1800家加密货币企业在该国运营，其中600多家Web3公司位于迪拜DMCC自由区。",
+  "generated_analysis": "",
+  "tags": [
+    "加密货币",
+    "阿联酋",
+    "金融稳定",
+    "Web3"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:50:55.876709+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

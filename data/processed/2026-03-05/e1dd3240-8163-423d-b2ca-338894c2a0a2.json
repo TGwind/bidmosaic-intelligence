@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Download: protesting AI, and what’s floating in space",
+  "raw_content": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T13:20:00+00:00",
+  "id": "e1dd3240-8163-423d-b2ca-338894c2a0a2",
+  "generated_title": "全球最大规模反AI抗议爆发：停止垃圾AI",
+  "generated_summary": "2月28日出现史上最大规模反AI抗议活动，抗议者高呼\"拔掉插头\"、\"停止垃圾AI\"等口号，反映行业对AI伦理的深度担忧。",
+  "generated_analysis": "这次抗议活动的核心诉求是抵制“垃圾AI”，反映出当前AI行业面临的信任危机。抗议者来自创意产业、学术界和普通公众，对AI生成内容质量低下、版权侵权、就业冲击等问题表达强烈不满。\n\n从行业影响看，这将加速AI监管框架的完善。欧盟AI法案已有明确规范，此次全球性抗议将进一步推动企业在伦理合规方面加大投入。投资者也会更加关注企业的AI伦理治理能力，市场将重新评估AI公司的长期可持续发展价值。\n\n趋势判断：未来1-2年内，AI行业将经历从“技术优先”到“责任优先”的转型。企业需要在模型透明度、数据合规性、输出质量控制等方面建立更高标准。低质量、同质化的AI产品将面临市场淘汰，而具备差异化优势和伦理竞争力的企业将获得更大发展空间。建议企业决策者提前布局AI治理体系，将伦理合规纳入核心战略。",
+  "tags": [
+    "AI",
+    "抗议",
+    "科技伦理"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:01:13.393942+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

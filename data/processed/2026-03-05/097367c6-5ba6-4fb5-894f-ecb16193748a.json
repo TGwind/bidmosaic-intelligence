@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The State Of LLMs 2025: Progress, Problems, and Predictions",
+  "raw_content": "A 2025 review of large language models, from DeepSeek R1 and RLVR to inference-time scaling, benchmarks, architectures, and predictions for 2026.",
+  "source_url": "https://magazine.sebastianraschka.com/p/state-of-llms-2025",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2025-12-30T12:22:26+00:00",
+  "id": "097367c6-5ba6-4fb5-894f-ecb16193748a",
+  "generated_title": "2025年大语言模型现状：进展、问题与预测",
+  "generated_summary": "综述2025年LLM发展，涵盖DeepSeek R1、RLVR、推理时间扩展等技术进展及2026年前瞻。",
+  "generated_analysis": "2025年大语言模型领域正经历从“训练规模扩张”向“推理效率优化”的关键转型。DeepSeek R1等模型的崛起标志着开源模型在推理能力上首次逼近闭源巨头，RLVR（强化学习与视觉推理）技术则拓展了多模态应用边界。推理时间扩展成为新竞争焦点，意味着企业需重新评估算力投入策略——不再单纯追求训练算力，而是关注推理成本与响应速度的平衡。\n\n这一变革对企业决策者具有三层含义：第一，模型选择逻辑需从“性能唯一”转向“场景适配”，开源模型在特定垂直领域的性价比正在超越通用闭源方案；第二，AI应用部署成本有望显著下降，推理优化技术将加速企业级AI的规模化落地；第三，多模态推理能力将成为2026年竞争分水岭，建议提前布局数据基础设施与场景化微调能力。总体而言，2025年是大模型从“技术验证”迈向“商业可持续”的转折年，企业应聚焦ROI而非参数规模。",
+  "tags": [
+    "大语言模型",
+    "行业报告",
+    "技术进展"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:18.453037+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

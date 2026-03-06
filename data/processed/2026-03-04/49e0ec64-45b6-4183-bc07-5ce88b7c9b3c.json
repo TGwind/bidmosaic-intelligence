@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "I checked out one of the biggest anti-AI protests yet",
+  "raw_content": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-02T12:55:20+00:00",
+  "id": "49e0ec64-45b6-4183-bc07-5ce88b7c9b3c",
+  "generated_title": "伦敦反AI抗议蔓延至科技中心",
+  "generated_summary": "2月28日数百名抗议者在伦敦King's Cross科技中心集会，反对AI发展，口号包括\"停止AI垃圾\"。",
+  "generated_analysis": "此次抗议事件反映了AI快速商业化进程中积累的公众焦虑。抗议者选择聚集在OpenAI、Meta、Google DeepMind等头部AI企业英国总部所在的科技中心，具有明确的象征意义——他们针对的不仅是技术本身，更是对AI内容质量下降、虚假信息泛滥以及就业冲击的担忧。\"停止AI垃圾\"这一口号精准触及了当前生成式AI应用泛滥、质量参差不齐的痛点。\n\n从行业影响看，此事件将加剧欧美市场对AI监管的压力。决策者可能加快制定AI内容标识、算法透明度及知识产权保护方面的法规。对于企业而言，单纯追求技术迭代而忽视社会责任的策略将面临更大舆论与合规风险。\n\n我认为未来AI行业将呈现两极分化：低质量、以流量为导向的AI产品将遭受抵制，而注重真实价值创造、具备可解释性的AI应用将获得市场认可。企业决策者需提前布局AI伦理体系，加强与公众的透明沟通，将社会责任纳入核心竞争力范畴。",
+  "tags": [
+    "反AI抗议",
+    "AI监管",
+    "科技伦理"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:47:54.231554+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

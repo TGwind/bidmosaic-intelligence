@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "万亿级多模态大模型Yuan3.0 Ultra正式开源，加速企业级Agent落地",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/Lqh9XKP0zo6RqlMMkLhu?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T17:11:04+00:00",
+  "id": "662b552a-0ac5-4730-ab77-35c20eeb5255",
+  "generated_title": "万亿级多模态大模型Yuan3.0 Ultra开源，加速企业Agent落地",
+  "generated_summary": "Yuan3.0 Ultra版本发布，参数规模达万亿级别并正式开源，旨在推动企业级Agent应用快速落地。",
+  "generated_analysis": "Yuan3.0 Ultra的开源标志着国内大模型竞争进入新阶段。万亿参数规模意味着模型能力达到行业第一梯队，而开源策略则降低了企业应用门槛。当前企业Agent落地面临成本高、部署难、数据安全等痛点，Yuan3.0 Ultra的开源有望缓解这些问题。\n\n从行业影响看，这将加速企业Agent生态的构建。中小企业无需再投入巨额算力成本即可获得顶级AI能力，预计将催生大量垂直领域应用创新。同时，开源模式也将倒逼闭源模型厂商调整定价策略，推动行业整体成本下降。\n\n趋势判断上，企业级AI应用将从概念验证转向规模化部署。预计未来1-2年内，基于开源大模型的企业Agent将成为主流选择，市场竞争焦点将从基础模型能力转向应用场景理解和工程化落地能力。建议企业决策者密切关注该技术路线，及早布局相关人才和应用场景。",
+  "tags": [
+    "大模型",
+    "多模态",
+    "开源",
+    "企业级应用",
+    "Agent"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:25:14.656960+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

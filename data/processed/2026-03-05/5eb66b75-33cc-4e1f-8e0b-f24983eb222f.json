@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "EY hit 4x coding productivity by connecting AI agents to engineering standards",
+  "raw_content": "Coding agents can generate thousands of lines of code in minutes. The problem: most of it can&#x27;t be deployed. It breaks internal standards, fails compliance checks, or creates more cleanup work than it saves.&quot;You can generate a ton of code, but it doesn&#x27;t mean really anything, right? It&#x27;s got to be code that is integratable, that is compliant, and you don&#x27;t want to create more work on the back end just because you sped up the code generation process on the front end,&quot; said Stephen Newman, EY Global CTO Engineering Leader.EY&#x27;s product development team solved this by connecting coding agents to their engineering standards, code repositories, and compliance frameworks. The result: 4x to 5x productivity gains across teams building EY&#x27;s suite of audit, tax, and financial platforms.But the gains didn&#x27;t come from just turning on a tool. Newman&#x27;s team spent 18 to 24 months building the cultural foundation and technical integrations that made semi-autonomous coding work at scale.The first step was cultural. EY started with GitHub Copilot-style tools, letting engineers get comfortable with prompt engineering and assistive AI. Newman said the key learning was making AI adoption organic rather than forced from leadership. &quot;It&#x27;s important to bring AI capabilities as a ground-up organic adoption rather than force them onto the users,&quot; he said.Developers wanted to move beyond code generation to building, deployment, and operationalization. But productivity gains plateaued without deeper integration.Newman realized agents needed access to EY&#x27;s code repos, engineering standards and source catalogs to generate deployable code. Without that &quot;context universe,&quot; as Newman calls it, agents produce generic output that requires extensive rework.EY evaluated multiple agent platforms: Lovable, Replit and Factory&#x27;s IDE-based Droids. Rather than mandate a tool, Newman&#x27;s team measured adoption, usage and productivity across all three.&quot;We didn&#x27;t want to be too prescriptive as a leadership team to identify a tool and dumb it down,&quot; Newman said. Developers &quot;really gravitated and navigated&quot; to Factory, which became the signal that it delivered real value.Factory adoption &quot;took off like wildfire&quot; once elevated from evaluation to pilot. EY had to throttle traffic to Factory and Droids and restrict which repos could connect before getting compliance and security sign-off.The workload classification frameworkThe enthusiasm from developers made it clear EY needed discipline around which workloads to delegate to agents. Newman&#x27;s team separated tasks into two categories:High-autonomy tasks agents handle well:Code reviewDocumentationDefect fixingGreenfield featuresComplex tasks that still need human oversight:Large-scale refactorsArchitecture decisionsCross-system integrationsEY also shifted developer roles. Rather than writing all code themselves, engineers became orchestrators directing agents to the correct databases and repos.With security guardrails in place and integration into code repositories complete, EY measured efficiency gains ranging from 15% to 60% across different personas in the early adoption phase.&quot;There&#x27;s a leap that we&#x27;ve made on many of our products where we jumped on what I call horizon model development, where we have semi-autonomous agent execution at scale, a team of orchestrators as opposed to doers and we have the integrations into the context universe,&quot; Newman said.Newman acknowledged it&#x27;s difficult to attribute the 4x to 5x productivity gains solely to coding agents. The improvements came from trial and error combined with cultural and behavioral shifts in developer teams.",
+  "source_url": "https://venturebeat.com/orchestration/ey-hit-4x-coding-productivity-by-connecting-ai-agents-to-engineering",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T17:04:00+00:00",
+  "id": "5eb66b75-33cc-4e1f-8e0b-f24983eb222f",
+  "generated_title": "EY通过AI代理连接工程标准实现4倍编码生产力提升",
+  "generated_summary": "安永用18-24月构建工程标准集成，使AI编码代理在审计、税务平台开发中实现4-5倍生产力提升，验证自下而上AI采用模式。",
+  "generated_analysis": "EY通过AI代理实现4-5倍编码生产力提升这一案例，标志着企业级AI应用从概念验证进入实质性价值交付阶段。其核心突破在于解决了AI代码生成的“最后一公里”问题——将生成式AI与工程标准、合规框架深度集成，使AI输出从“可用”变为“可部署”。\n\n这一案例对专业服务行业及大型企业具有重要示范意义。首先，它验证了自下而上的AI采用模式比自上而下的强制推行更有效，强调了文化变革与技术投资同等重要。其次，EY建立的工作量分类框架——将代码审查、文档等高自治任务交给AI，将架构决策、大规模重构保留人类监督——为其他企业提供了可复制的治理思路。\n\n从市场趋势看，专业服务机构的AI竞争将从工具采购转向“上下文能力”构建，即谁能更好地将AI嵌入自身知识体系和合规框架，谁就能建立差异化壁垒。预计未来18-24个月内，四大会计师事务所及其他大型企业将加速类似投入，AI工程平台市场将迎来整合期。对于决策者而言，EY的经验表明：AI生产力提升的关键不在于选择哪个工具，而在于是否愿意投入时间构建支撑AI规模化应用的制度基础和知识基础设施。",
+  "tags": [
+    "AI工程实践",
+    "企业数字化转型",
+    "技术生产力",
+    "四大咨询"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:53:10.988322+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

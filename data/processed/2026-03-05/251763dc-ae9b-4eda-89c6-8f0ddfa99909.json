@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Bridging the operational AI gap",
+  "raw_content": "The transformational potential of AI is already well established. Enterprise use cases are building momentum and organizations are transitioning from pilot projects to AI in production. Companies are no longer just talking about AI; they are redirecting budgets and resources to make it happen. Many are already experimenting with agentic AI, which promises new levels&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T14:00:00+00:00",
+  "id": "251763dc-ae9b-4eda-89c6-8f0ddfa99909",
+  "generated_title": "企业AI从试点走向生产应用",
+  "generated_summary": "AI在企业中的应用正从试点项目转向生产环境，企业重新分配预算和资源推进AI落地，并开始尝试代理AI。",
+  "generated_analysis": "AI在企业中的应用正从试点项目转向生产环境，这一转变标志着人工智能技术已跨越概念验证的鸿沟，进入实质性价值创造阶段。其核心意义在于：企业不再满足于小规模试验，而是将AI纳入核心战略资源配置，这反映出AI技术成熟度已达到支撑规模化部署的临界点。\n\n从行业影响来看，这一趋势将引发三个层面的连锁反应。首先，IT投资结构将发生根本性变化，传统信息化预算将加速向AI倾斜。其次，行业竞争格局面临重塑，先行完成AI生产部署的企业将在运营效率和决策质量上建立显著优势。第三，代理AI的实验性应用预示着AI从被动工具向主动智能体的演进，这可能重新定义人机协作模式。\n\n对于企业决策者而言，当前正处于关键战略窗口期。建议关注三个方向：一是尽快完成从试点到生产的路径验证，建立可复制的AI部署框架；二是审视现有业务流程中可引入代理AI的环节，尤其是需要自主决策和持续优化的场景；三是重新评估AI人才战略，因为生产级AI运维需要与研发阶段截然不同的能力结构。",
+  "tags": [
+    "人工智能",
+    "企业应用",
+    "数字化转型"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:36.259198+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

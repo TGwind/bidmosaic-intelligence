@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "MacBook Neo, iPhone 17e, and everything else Apple announced this week",
+  "raw_content": "From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week.",
+  "source_url": "https://techcrunch.com/2026/03/04/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T19:00:43+00:00",
+  "id": "3eb93880-ef35-4849-a2eb-1f5c5c43314e",
+  "generated_title": "苹果本周发布iPhone 17e与MacBook Neo等新品",
+  "generated_summary": "苹果本周推出多款新品，包括iPhone 17e和亲民价MacBook，持续丰富产品线",
+  "generated_analysis": "苹果本周推出iPhone 17e与亲民价MacBook新品，反映出其在全球消费电子需求放缓背景下的战略调整。继去年iPhone 15系列销量增长乏力后，苹果正通过拓展中端产品线寻求新的增长引擎。\n\niPhone 17e的推出标志着苹果首次在数字系列之外开辟独立产品线，此举意在填补入门级iPhone与标准版之间的价格空白，覆盖更广泛的消费群体。而亲民价MacBook则直指教育市场和价格敏感型企业采购需求，有助于苹果在Chromebook主导的中低端笔记本市场抢占份额。\n\n对行业而言，苹果此举将加剧中端消费电子竞争，可能迫使三星、小米等国产品牌加速技术下放，同时给传统PC厂商带来更大压力。从供应链看，中端机型订单增加将利好立讯精密、鸿海等代工企业，但需警惕产品毛利率承压。\n\n预计未来苹果将形成“Pro系列守高端、数字/e系列攻中端、SE系列守入门”的三层产品矩阵，在维持品牌溢价能力的同时实现市场渗透率最大化。这一策略或将成为消费电子行业穿越周期的范本。",
+  "tags": [
+    "苹果",
+    "新品发布",
+    "消费电子"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:50:35.132173+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

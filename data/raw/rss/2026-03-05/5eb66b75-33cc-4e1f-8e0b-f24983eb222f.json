@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "EY hit 4x coding productivity by connecting AI agents to engineering standards",
+  "raw_content": "<p>Coding agents can generate thousands of lines of code in minutes. The problem: most of it can&#x27;t be deployed. It breaks internal standards, fails compliance checks, or creates more cleanup work than it saves.</p><p>&quot;You can generate a ton of code, but it doesn&#x27;t mean really anything, right? It&#x27;s got to be code that is integratable, that is compliant, and you don&#x27;t want to create more work on the back end just because you sped up the code generation process on the front end,&quot; said Stephen Newman, EY Global CTO Engineering Leader.</p><p>EY&#x27;s product development team solved this by connecting coding agents to their engineering standards, code repositories, and compliance frameworks. The result: 4x to 5x productivity gains across teams building EY&#x27;s suite of audit, tax, and financial platforms.</p><p>But the gains didn&#x27;t come from just turning on a tool. Newman&#x27;s team spent 18 to 24 months building the cultural foundation and technical integrations that made semi-autonomous coding work at scale.</p><p>The first step was cultural. EY started with GitHub Copilot-style tools, letting engineers get comfortable with prompt engineering and assistive AI. Newman said the key learning was making AI adoption organic rather than forced from leadership. &quot;It&#x27;s important to bring AI capabilities as a ground-up organic adoption rather than force them onto the users,&quot; he said.</p><p>Developers wanted to move beyond code generation to building, deployment, and operationalization. But productivity gains plateaued without deeper integration.</p><p>Newman realized agents needed access to EY&#x27;s code repos, engineering standards and source catalogs to generate deployable code. Without that &quot;context universe,&quot; as Newman calls it, agents produce generic output that requires extensive rework.</p><p>EY evaluated multiple agent platforms: Lovable, Replit and Factory&#x27;s IDE-based Droids. Rather than mandate a tool, Newman&#x27;s team measured adoption, usage and productivity across all three.</p><p>&quot;We didn&#x27;t want to be too prescriptive as a leadership team to identify a tool and dumb it down,&quot; Newman said. Developers &quot;really gravitated and navigated&quot; to Factory, which became the signal that it delivered real value.</p><p>Factory adoption &quot;took off like wildfire&quot; once elevated from evaluation to pilot. EY had to throttle traffic to Factory and Droids and restrict which repos could connect before getting compliance and security sign-off.</p><h2><b>The workload classification framework</b></h2><p>The enthusiasm from developers made it clear EY needed discipline around which workloads to delegate to agents. Newman&#x27;s team separated tasks into two categories:</p><p><b>High-autonomy tasks</b> agents handle well:</p><ul><li><p>Code review</p></li><li><p>Documentation</p></li><li><p>Defect fixing</p></li><li><p>Greenfield features</p></li></ul><p><b>Complex tasks</b> that still need human oversight:</p><ul><li><p>Large-scale refactors</p></li><li><p>Architecture decisions</p></li><li><p>Cross-system integrations</p></li></ul><p>EY also shifted developer roles. Rather than writing all code themselves, engineers became orchestrators directing agents to the correct databases and repos.</p><p>With security guardrails in place and integration into code repositories complete, EY measured efficiency gains ranging from 15% to 60% across different personas in the early adoption phase.</p><p>&quot;There&#x27;s a leap that we&#x27;ve made on many of our products where we jumped on what I call horizon model development, where we have semi-autonomous agent execution at scale, a team of orchestrators as opposed to doers and we have the integrations into the context universe,&quot; Newman said.</p><p>Newman acknowledged it&#x27;s difficult to attribute the 4x to 5x productivity gains solely to coding agents. The improvements came from trial and error combined with cultural and behavioral shifts in developer teams.</p>",
+  "source_url": "https://venturebeat.com/orchestration/ey-hit-4x-coding-productivity-by-connecting-ai-agents-to-engineering",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T17:04:00+00:00",
+  "id": "5eb66b75-33cc-4e1f-8e0b-f24983eb222f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

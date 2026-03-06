@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "MIT Technology Review Insiders Panel",
+  "raw_content": "",
+  "source_url": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T15:53:10+00:00",
+  "id": "346f3805-b662-4d45-990b-7cae9151d8c7",
+  "generated_title": "MIT Technology Review内部专家圆桌论坛",
+  "generated_summary": "MIT Technology Review举办的内部专家讨论活动，具体议题和内容未提供",
+  "generated_analysis": "",
+  "tags": [
+    "科技媒体",
+    "会议活动",
+    "专家讨论"
+  ],
+  "importance_score": 4,
+  "processed_at": "2026-03-04T14:46:47.192311+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

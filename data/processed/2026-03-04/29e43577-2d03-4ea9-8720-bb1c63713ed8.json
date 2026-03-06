@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "President Lagarde launches EuroSteps Walking Challenge at event promoting women’s financial literacy",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260302~9a52d535d2.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-02T15:30:00+00:00",
+  "id": "29e43577-2d03-4ea9-8720-bb1c63713ed8",
+  "generated_title": "拉加德启动欧元步数行走挑战 助推女性金融素养",
+  "generated_summary": "欧洲央行行长拉加德宣布启动EuroSteps步行挑战活动，旨在提升女性金融素养和参与度。",
+  "generated_analysis": "拉加德此次发起EuroSteps步行挑战活动，体现了欧洲央行对性别金融包容性问题的高度关注。作为全球重要央行行长，她亲自参与并推动此类社会倡议，释放出强烈信号：金融素养和金融参与度的性别差距已成为监管层面需要正视的议题。\n\n从行业影响来看，这一活动将产生多重效应。首先，金融机构可能面临来自监管机构和公众的压力，需要在产品设计和服务渠道上更加关注女性群体的需求。其次，金融教育领域可能迎来更多资源投入，为女性提供更适合的金融知识和技能培训。对于金融科技公司而言，这是一个细分市场的机会，可以开发针对女性用户的差异化产品和服务。\n\n从趋势判断看，性别金融包容性将成为全球金融监管的重要议题。预计将有更多央行和监管机构采取类似举措，推动金融机构提升女性金融服务覆盖率。企业决策者应密切关注这一趋势，提前布局女性金融市场需求，在社会责任和商业机会之间寻找平衡点。",
+  "tags": [
+    "女性金融素养",
+    "金融教育",
+    "欧洲央行",
+    "普惠金融"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:46:20.968771+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

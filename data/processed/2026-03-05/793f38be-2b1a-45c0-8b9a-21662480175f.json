@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Amazon Data Centers on Fire After Iranian Missile Strikes on Dubai",
+  "raw_content": "Some AWS services are down in the Middle East. Recovery is unclear as it requires 'careful assessment to ensure the safety of our operators,' according to Amazon.",
+  "source_url": "https://www.404media.co/amazon-data-centers-on-fire-after-iranian-missile-strikes-on-dubai/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T15:59:51+00:00",
+  "id": "793f38be-2b1a-45c0-8b9a-21662480175f",
+  "generated_title": "伊朗导弹袭击迪拜 AWS数据中心起火",
+  "generated_summary": "伊朗导弹击中迪拜导致亚马逊AWS数据中心起火，部分中东服务中断，恢复时间待定",
+  "generated_analysis": "此次事件标志着地缘政治冲突首次对全球头部云基础设施造成实质性破坏，具有标志性意义。迪拜作为中东数字经济核心节点遭袭，暴露出云服务在区域冲突风险下的脆弱性，打破了业界对云服务“物理安全无虞”的惯性认知。\n\n对企业决策者而言，需重点关注三个层面：其一，本地业务连续性风险显著上升，建议立即审计云服务SLA条款并建立跨区域灾备机制；其二，中东企业将加速数据本地化进程，这为海湾国家自有数据中心发展创造窗口期；其三，保险市场可能重新评估云服务商战争险覆盖范围。\n\n趋势判断：多云架构将从成本优化工具升级为安全必选；头部云厂商将加大对中东“战区”基础设施的物理防护投入；区域玩家可能获得政策倾斜形成新竞争格局。建议企业将地缘政治风险纳入云战略核心评估维度。",
+  "tags": [
+    "云计算",
+    "AWS",
+    "数据中心",
+    "地缘政治"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:55:13.385461+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

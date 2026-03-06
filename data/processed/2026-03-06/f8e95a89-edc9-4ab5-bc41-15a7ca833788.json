@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "New Podcast Alert: The Globe-Spanning, Multi-Newsroom Hunt for Mr. Deepfakes",
+  "raw_content": "In a new series by CBC Podcasts, hosted by 404 Media's Sam Cole, join journalists, investigators, and targets of non-consensual intimate images on the hunt for the worlds’ most prolific deepfake mastermind.",
+  "source_url": "https://www.404media.co/cbc-podcast-mr-deepfakes-porn-empire/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T19:22:26+00:00",
+  "id": "f8e95a89-edc9-4ab5-bc41-15a7ca833788",
+  "generated_title": "新播客：全球媒体联手追捕深度伪造犯罪者",
+  "generated_summary": "CBC Podcasts与404 Media合作推出新系列，记者和调查人员追踪全球最活跃的深度伪造犯罪分子。",
+  "generated_analysis": "这一播客项目的推出反映了深度伪造技术滥用已从技术问题演变为严重的社会治理挑战。非自愿亲密图像的泛滥对受害者造成实质性伤害，而犯罪分子的产业化运作使得单点治理效果有限。媒体机构与调查记者的介入标志着内容产业开始以舆论监督方式回应技术滥用，这既是对司法手段的补充，也是用叙事力量推动公众认知的方式。\n\n从行业影响看，此举将产生多重传导效应：首先，平台面临更大舆论压力加速内容审核与AI治理投入；其次，品牌广告主对媒介安全性的要求将更加严格，推动广告投放规则重构；第三，法律服务市场对网络人格权保护的需求将进一步释放。值得注意的是，该项目由专业调查媒体与公共广播机构联合呈现，体现了跨领域协作追责的趋势。\n\n未来一到两年内，深度伪造检测技术投资将显著增加，监管层面可能出台更严格的平台责任条款，同时调查性内容或将成为舆论监督的新标配形态。企业决策者需将AI伦理风险纳入合规框架，密切跟踪相关技术标准与法规动态。",
+  "tags": [
+    "深度伪造",
+    "调查报道",
+    "网络安全"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:34:52.829448+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

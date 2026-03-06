@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "TikTok down for some in US, thanks to second Oracle outage since sale",
+  "raw_content": "TikTok experienced a similar outage just days after ByteDance divested the app's U.S. operations.",
+  "source_url": "https://techcrunch.com/2026/03/03/tiktok-down-for-some-in-u-s-thanks-to-second-oracle-outage-since-sale/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T22:33:57+00:00",
+  "id": "b1dc9fa4-bf51-42de-83df-657dc3897aff",
+  "generated_title": "TikTok美国再遭Oracle故障宕机",
+  "generated_summary": "TikTok在美国部分地区出现服务中断，这是ByteDance出售美国业务后Oracle两周内第二次故障。",
+  "generated_analysis": "此次宕机事件发生在字节跳动出售TikTok美国业务后的短短两周内，暴露出技术基础设施过渡期的深层挑战。Oracle作为新托管方在如此短周期内连续出现故障，不仅损害了用户体验，更重要的是动摇了广告主对平台稳定性的信心。对于一个高度依赖广告收入的社交平台而言，服务连续性直接关系到商业变现能力。从行业角度看，这一事件反映出大型科技资产跨境转移时面临的技术整合复杂性远超预期——不仅是数据迁移，更涉及系统架构、运维体系的全方位重构。预计在未来一至两个月内，TikTok美国仍可能面临类似的技术波动，直到新基础设施完全稳定。这段整合期恰恰为Instagram Reels、YouTube Shorts等竞争对手提供了抢占市场份额的窗口期。对于企业决策者而言，此事件警示我们：在重大技术架构调整期间，应提前做好应急预案，并密切监控平台服务稳定性指标。",
+  "tags": [
+    "TikTok",
+    "Oracle",
+    "服务宕机",
+    "美国业务"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:51:42.509562+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

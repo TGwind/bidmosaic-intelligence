@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
+  "raw_content": "The NVIDIA Blackwell platform has been widely adopted by leading inference providers such as Baseten, DeepInfra, Fireworks AI and Together AI to reduce cost per token by up to 10x. Now, the NVIDIA Blackwell Ultra platform is taking this momentum further for agentic AI. AI agents and coding assistants are driving explosive growth in software-programming-related Read Article",
+  "source_url": "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-16T17:00:40+00:00",
+  "id": "c950fe0d-196e-41dd-88ba-eaf22f3e3233",
+  "generated_title": "NVIDIA Blackwell Ultra发布，性能提升50倍成本降35倍",
+  "generated_summary": "NVIDIA推出Blackwell Ultra平台，针对代理AI实现性能提升50倍、成本降低35倍，获Baseten等多家推理提供商采用。",
+  "generated_analysis": "NVIDIA推出Blackwell Ultra平台标志着AI推理芯片进入新阶段。此次升级针对代理AI场景实现性能50倍提升、成本35倍下降的突破性指标，意味着企业部署AI应用的门槛将大幅降低此前Blackwell已帮助合作伙伴实现token成本降低10倍，此次Ultra版本在相同基础上进一步优化，显示出NVIDIA在推理芯片领域的持续技术领先。\n\n从市场影响看，Baseten、DeepInfra、Fireworks AI和Together AI等主流推理提供商的快速采用，将加速Blackwell Ultra在行业内的普及。这种“性能提升+成本下降”的双重优势，尤其利好需要大规模AI推理的企业场景，如编程助手、智能客服、自动化工作流等代理AI应用。\n\n趋势判断：推理成本持续走低将推动代理AI应用加速落地，2025年可能成为AI Agent规模化商用的元年。同时芯片巨头间的竞争将更加激烈，其他厂商面临更大的技术追赶压力。对于企业决策者而言，现在是优化AI基础设施、布局代理AI应用的战略窗口期。",
+  "tags": [
+    "NVIDIA",
+    "GPU",
+    "AI芯片",
+    "Agentic AI"
+  ],
+  "importance_score": 9,
+  "processed_at": "2026-03-04T14:52:39.317476+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

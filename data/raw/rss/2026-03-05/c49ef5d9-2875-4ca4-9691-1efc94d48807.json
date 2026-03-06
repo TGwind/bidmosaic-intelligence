@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "TATRA: Training-Free Instance-Adaptive Prompting Through Rephrasing and Aggregation",
+  "raw_content": "arXiv:2603.03298v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have improved substantially alignment, yet their behavior remains highly sensitive to prompt phrasing. This brittleness has motivated automated prompt engineering, but most existing methods (i) require a task-specific training set, (ii) rely on expensive iterative optimization to produce a single dataset-level prompt, and (iii) must be rerun from scratch for each new task. We introduce TATRA, a dataset-free prompting method that constructs instance-specific few-shot prompts by synthesizing on-the-fly examples to accompany a user-provided instruction. TATRA requires no labeled training data and avoids task-specific optimization loops, while retaining the benefits of demonstration-based prompting. Across standard text classification benchmarks, TATRA matches or improves over strong prompt-optimization baselines that depend on training data and extensive search. On mathematical reasoning benchmarks, TATRA achieves state-of-the-art performance on GSM8K and DeepMath, outperforming methods that explicitly optimize prompts on those tasks. Our results suggest that per-instance construction of effective in-context examples is more important than running long, expensive optimization loops to produce a single prompt per task. We will make all code publicly available upon acceptance of the paper. Code is available at https://github.com/BMD223/TATRA",
+  "source_url": "https://arxiv.org/abs/2603.03298",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "c49ef5d9-2875-4ca4-9691-1efc94d48807",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+  "raw_content": "Google 2025 recap: Research breakthroughs of the year",
+  "source_url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-12-23T17:01:02+00:00",
+  "id": "c588f436-ae43-4172-9d6c-3393fee0eacd",
+  "generated_title": "Google 2025年研究突破回顾",
+  "generated_summary": "Google发布2025年研究回顾，涵盖8个技术领域突破，聚焦AI、量子计算、气候等领域。",
+  "generated_analysis": "Google发布2025年研究回顾，涵盖8个技术领域突破，这一事件标志着科技巨头在AI、量子计算、气候等前沿领域的系统性布局。从背景看，Google此举既是对自身技术实力的展示，也是在全球科技竞争加剧背景下的话语权争夺战，8个领域的全覆盖体现了其“多线并进”的研发战略。\n\n对行业而言，这些突破将产生深远影响：AI领域的研究成果将进一步推动生成式AI从技术探索走向产业落地，加速各行各业的智能化转型；量子计算突破可能重塑加密、药物研发、材料科学等领域的竞争格局；气候技术进展则呼应全球碳中和目标，为可持续发展提供技术路径。\n\n从趋势判断看，未来3-5年，科技企业将更加注重基础研究与商业化的结合，技术迭代周期将进一步缩短。对于企业决策者而言，密切关注这些前沿技术的演进方向，提前布局相关领域的合作或研发投入，将是保持竞争优势的关键。同时，技术伦理和治理也将成为不可回避的重要议题。",
+  "tags": [
+    "人工智能",
+    "谷歌",
+    "研究突破"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:58:48.599189+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

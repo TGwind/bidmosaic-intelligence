@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "工业富联(601138) 今日涨2.49% 报55.10元",
+  "raw_content": "工业富联(601138) 最新价 55.10元，涨2.49%，涨跌额 +1.34元，今开 54.79元，最高 56.26元，最低 54.33元，昨收 53.76元，成交额 75.37亿元，振幅 3.59%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh601138/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T08:36:07.511339+00:00",
+  "id": "17bc57ad-91b8-4e95-b17a-5fb6d57b01f2",
+  "generated_title": "工业富联(601138) 今日涨2.49% 报55.10元 | 买入",
+  "generated_summary": "趋势: 偏强 · 信号: 买入 · 评分: 72",
+  "generated_analysis": "工业富联今日上涨2.49%收于55.10元，股价站上所有均线，形成MA5>MA10>MA20的多头排列雏形。乖离率约1.1%，处于安全区间（<5%），符合'不追高'的严进策略。成交额75.37亿元，放量上涨说明资金积极进场。从基本面看，公司作为全球电子代工龙头，受益于AI算力需求爆发，服务器业务订单饱满，基本面有支撑。消息面暂无重大利空。建议在54.30-55元区间分批建仓，止损设52.50元。",
+  "tags": [
+    "A股",
+    "偏强",
+    "买入"
+  ],
+  "importance_score": 9,
+  "processed_at": "2026-03-05T14:47:09.297950+00:00",
+  "market_data": {
+    "symbols": [
+      "601138"
+    ],
+    "price_change": {
+      "price": 55.1,
+      "change_pct": 2.49,
+      "change_amt": 1.34
+    },
+    "indicators": {
+      "volume": 136238015.0,
+      "turnover": 7536714792.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 3.59,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "买入",
+    "risk": "",
+    "confidence": "中",
+    "sentiment_score": 72,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "多头排列初现，乖离率安全，可逢低布局",
+        "time_sensitivity": "今日内",
+        "position_advice": {
+          "no_position": "可考虑在54.5-55元区间分批建仓，首次建仓30%",
+          "has_position": "继续持有，可适度加仓5-10%做T"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5>MA10>MA20多头排列初期",
+        "is_bullish": true,
+        "trend_score": 68,
+        "bias_ma5": 1.1,
+        "bias_status": "安全",
+        "support_level": "54.00元",
+        "resistance_level": "56.50元",
+        "volume_status": "放量",
+        "volume_meaning": "75亿成交额配合上涨，量价齐升，健康换手"
+      },
+      "battle_plan": {
+        "ideal_buy": "54.30元",
+        "secondary_buy": "54.80元",
+        "stop_loss": "52.50元",
+        "take_profit": "58.00元",
+        "suggested_position": "30%-40%",
+        "entry_plan": "首仓30%，回踩MA5加仓10%，突破前高加仓10%"
+      },
+      "checklist": [
+        "✅ 多头排列",
+        "✅ 乖离率合理",
+        "✅ 量能配合",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "短期涨幅超8%可能引发获利了结",
+        "电子代工行业竞争加剧，毛利率承压",
+        "美股科技股回调可能影响A股相关板块"
+      ],
+      "positive_catalysts": [
+        "AI算力需求持续增长，服务器代工订单饱满",
+        "苹果新品发布周期临近，供应链预期向好",
+        "外资持续流入A股，科技成长股受青睐"
+      ],
+      "short_term_outlook": "预计明日小幅高开后震荡整理，若能守住54元支撑，有望冲击56.50元前高压力位。需警惕短线获利盘回吐。",
+      "medium_term_outlook": "1-2周内若能有效突破56.50元压力位，有望打开上涨空间至58-60元。需持续关注量能配合情况和美股科技股走势。"
+    }
+  }
+}

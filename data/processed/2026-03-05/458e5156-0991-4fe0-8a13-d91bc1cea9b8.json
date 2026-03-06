@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "坏人6",
+  "raw_content": "希望观众老爷喜欢这个系列！ （希望你们喜欢，记得素质三连！）",
+  "source_url": "https://www.bilibili.com/video/BV1MEAdzbEwF",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-05T14:28:14.616817+00:00",
+  "id": "458e5156-0991-4fe0-8a13-d91bc1cea9b8",
+  "generated_title": "坏人6",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 5,
+  "processed_at": "2026-03-05T14:47:17.147823+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2921688,
+    "platform": "bilibili"
+  }
+}

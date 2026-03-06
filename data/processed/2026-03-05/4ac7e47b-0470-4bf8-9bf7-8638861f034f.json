@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US Bitcoin reserve still has no plan to stack sats",
+  "raw_content": "One year after creating the Bitcoin reserve, the US’ BTC coffers remain much the same, as the Treasury Department hasn’t developed an acquisition strategy.",
+  "source_url": "https://cointelegraph.com/news/us-bitcoin-reserve-no-plan-stack-sats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T13:17:13+00:00",
+  "id": "4ac7e47b-0470-4bf8-9bf7-8638861f034f",
+  "generated_title": "美国比特币储备创建一年无进展",
+  "generated_summary": "美国创建比特币储备已一年，但财政部尚未制定收购策略，储备规模基本未变。",
+  "generated_analysis": "美国比特币储备创建一年却停滞不前，折射出加密资产融入主流金融体系面临的结构性障碍。这一事件的核心问题在于政策框架与执行能力之间的脱节——虽然行政令明确了战略方向，但财政部在收购策略、预算安排、法律合规等关键环节尚未形成可落地的操作方案，反映出联邦机构在处理高波动性数字资产时的审慎甚至犹豫态度。\n\n从市场影响看，这一拖延正在削弱比特币“避险资产”叙事的说服力。投资者原本预期美国政府的大规模入场将为BTC提供长期价格支撑，但储备承诺迟迟无法兑现，使得机构资金的配置意愿受到抑制。同时，这种政策不确定性可能延缓其他主权国家跟进类似储备计划的步伐，全球比特币主权化进程可能因此放缓。\n\n展望未来，我们判断有两种情景：若明年财政明确小规模试点采集并建立透明披露机制，市场信心或阶段性恢复；若继续搁置，BTC价格可能更多回归基本面驱动，行业将更侧重于合规交易基础设施和机构托管服务的完善，而非依赖主权储备叙事。对企业决策者而言，需警惕政策预期落空带来的波动风险，同时关注加密资产在跨境支付和储值功能上的实际应用落地。",
+  "tags": [
+    "比特币",
+    "美国财政部",
+    "加密货币政策"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:37.630811+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

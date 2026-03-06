@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LWiAI Podcast #234 - Opus 4.6, GPT-5.3-Codex, Seedance 2.0, GLM-5",
+  "raw_content": "An action-packed episode!",
+  "source_url": "https://lastweekin.ai/p/lwiai-podcast-234-opus-46-gpt-53",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-17T04:43:31+00:00",
+  "id": "e4cb4896-53b0-4bd6-8494-81fe87b0ec77",
+  "generated_title": "LWiAI播客第234期：Opus 4.6与GPT-5.3-Codex等AI模型更新",
+  "generated_summary": "本期播客聚焦AI模型新版本，包括Opus 4.6、GPT-5.3-Codex、Seedance 2.0和GLM-5的更新内容。",
+  "generated_analysis": "",
+  "tags": [
+    "人工智能",
+    "大模型",
+    "AI播客"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:33:30.888546+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

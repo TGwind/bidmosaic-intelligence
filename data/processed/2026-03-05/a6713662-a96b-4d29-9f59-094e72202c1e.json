@@ -1,0 +1,58 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "A股大盘行情速览",
+  "raw_content": "A股大盘行情：上证指数 4095.66 ↑0.32%；沪深300 4641.70 ↑0.85%；深证成指 14112.83 ↑1.40%；创业板指 3225.51 ↑1.93%",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh000001/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T02:04:45.564107+00:00",
+  "id": "a6713662-a96b-4d29-9f59-094e72202c1e",
+  "generated_title": "A股大盘行情速览",
+  "generated_summary": "A股大盘行情：上证指数 4095.66 ↑0.32%；沪深300 4641.70 ↑0.85%；深证成指 14112.83 ↑1.40%；创业板指 3225.51 ↑1.93%",
+  "generated_analysis": "# 今日A股市场点评\n\n**整体表现：** 今日A股三大指数全线收涨，市场延续反弹态势，成交量较前几日有所放大，情绪面明显回暖。\n\n**走势分化：** 创业板指领涨1.93%，深证成指涨1.40%，显示中小盘成长股表现活跃；而上证指数仅涨0.32%，沪深300涨0.85%，权重蓝筹相对滞涨，沪指涨幅明显落后于深市。\n\n**情绪判断：** 短期市场情绪偏多，题材概念轮动活跃，成长风格占优。但需注意上证在4100点附近存在一定压力，若权重股不能跟进，震荡整固概率较大。建议关注量能配合情况。",
+  "tags": [
+    "A股",
+    "大盘",
+    "行情"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:49:13.054502+00:00",
+  "market_data": {
+    "symbols": [
+      "000001",
+      "000300",
+      "399001",
+      "399006"
+    ],
+    "price_change": {},
+    "indicators": {
+      "000001": {
+        "name": "上证指数",
+        "price": 4095.66,
+        "change_pct": 0.32
+      },
+      "000300": {
+        "name": "沪深300",
+        "price": 4641.7,
+        "change_pct": 0.85
+      },
+      "399001": {
+        "name": "深证成指",
+        "price": 14112.83,
+        "change_pct": 1.4
+      },
+      "399006": {
+        "name": "创业板指",
+        "price": 3225.51,
+        "change_pct": 1.93
+      }
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}

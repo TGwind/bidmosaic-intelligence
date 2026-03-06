@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Announces Roundtable on Options Market Structure Reform",
+  "raw_content": "The Securities and Exchange Commission announced today that it will host a roundtable on April 16, 2026, to discuss listed options market structure, including facilitating competition in a quote driven market, evaluating the customer experience, and…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-24-sec-announces-roundtable-options-market-structure-reform",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-05T15:09:00+00:00",
+  "id": "a6e49066-57e7-41d9-8f6a-917cd4dbe871",
+  "generated_title": "SEC宣布举办期权市场结构改革圆桌会议",
+  "generated_summary": "SEC将于2026年4月举办圆桌会议，讨论上市期权市场结构改革，聚焦市场竞争与客户体验。",
+  "generated_analysis": "此次SEC举办期权市场结构圆桌会议，反映出美国监管层对期权市场运行效率的高度关注。当前美国上市期权市场高度集中，少数交易所占据主导地位，报价驱动模式下的竞争充分性和价格发现效率一直是行业讨论焦点。SEC选择此时重启这一议题，时机耐人寻味——可能与近年来高频交易、暗池流动性以及零售投资者参与度提升带来的市场结构变化有关。\n\n从行业影响看，若会议形成政策共识，可能推动以下变革：一是增强市场透明度，打破信息不对称；二是引入更多竞争机制，降低交易成本；三是优化客户订单执行质量，提升零售投资者保护。对交易所和做市商而言，竞争格局可能被重塑，运营合规成本或将上升。\n\n趋势判断：预计未来1-2年内，SEC将逐步推出具体改革措施，市场可能向更开放、竞争更充分的方向演进。企业决策者应密切关注圆桌会议成果，提前评估对自身期权业务的影响，尤其是经纪商和做市商需做好应对监管变化的准备。",
+  "tags": [
+    "SEC",
+    "期权市场",
+    "金融监管",
+    "市场改革"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:29:35.920663+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A new way to express yourself: Gemini can now create music",
+  "raw_content": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+  "source_url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-18T16:01:38+00:00",
+  "id": "3fdc6d51-c2a7-4178-8026-11bb396c1e8b",
+  "generated_title": "Gemini集成Lyria 3：支持文本图片生成30秒音乐",
+  "generated_summary": "Google DeepMind在Gemini应用集成最新Lyria 3音乐生成模型，用户可通过文本或图片创作30秒音乐片段。",
+  "generated_analysis": "Gemini集成Lyria 3标志着AI音乐生成进入大众化应用阶段。Google此次将最新音乐模型嵌入消费级应用，意味着普通用户无需专业技能即可通过文本描述或图片直接生成30秒音乐片段，这降低了音乐创作的技术门槛和成本。\n\n对行业而言，这一进展将产生多重影响。首先，短视频、游戏、广告等内容创作者将获得高效的配乐解决方案，可能挤压传统音乐授权市场空间。其次，专业音乐人的工作模式将发生转变——AI从辅助工具升级为创作起点，人机协作将成为主流。音乐教育领域也可能面临教学内容的调整。\n\n从市场趋势看，多模态输入（文本、图片、音频）融合是生成式AI的重要方向，Lyria 3的推出印证了这一判断。预计未来1-2年内，音乐AI将向更长时长、更高质量、更精细控制方向发展。同时，版权归属、深度伪造等问题将引发监管关注，企业需提前布局合规框架。",
+  "tags": [
+    "人工智能",
+    "音乐生成",
+    "谷歌DeepMind"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:50:46.908284+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+  "raw_content": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+  "source_url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-01-13T17:00:18+00:00",
+  "id": "542dcb51-7506-4051-ac95-022e5ea8f3c0",
+  "generated_title": "Google DeepMind发布Veo 3.1：增强视频生成一致性创造力和控制力",
+  "generated_summary": "Google DeepMind发布Veo 3.1版本，增强视频生成的一致性和创造力，并首次支持垂直视频格式。",
+  "generated_analysis": "Google DeepMind此次发布Veo 3.1，标志着AI视频生成技术进入新阶段。垂直视频格式的支持直接契合短视频社交平台的内容生态需求，反映出技术落地正在向应用场景延伸。这一更新不仅是算法层面的优化，更体现了Google在AIGC赛道上的战略意图——通过提升一致性和创造力，解决此前AI视频存在的逻辑断裂、风格不稳定等痛点。\n\n对行业而言，Veo 3.1将加速冲击传统视频制作流程，短视频创作者和营销团队将获得更高效的低成本内容生产工具。垂直视频支持的加入，使AI视频真正进入移动端内容生产的主战场，预计将引发内容平台新一轮的AI化转型竞赛。\n\n从趋势判断，AI视频生成正从“能生成”向“生成好”转变，控制力和一致性问题将成为竞争焦点。短期内，内容生产门槛进一步降低，创意效率提升；中长期看，差异化竞争将聚焦于特定场景的深度优化和专业领域的垂直模型。企业决策者应关注该技术对内容营销、电商展示、社交媒体运营等业务场景的颠覆性影响，尽早布局AI视频能力建设。",
+  "tags": [
+    "人工智能",
+    "视频生成",
+    "Google DeepMind",
+    "生成式AI"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:52:17.934535+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

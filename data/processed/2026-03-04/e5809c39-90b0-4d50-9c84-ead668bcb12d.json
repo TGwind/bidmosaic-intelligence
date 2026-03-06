@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Poonam Gupta: Perspectives on India's growth - last four decades to the present",
+  "raw_content": "Speech by Dr Poonam Gupta, Deputy Governor of the Reserve Bank of India, at the 14th Foundation Day Lecture of the Centre for Development Studies (CDS), at the CDS, Thiruvananthapuram, 20 February 2026.",
+  "source_url": "https://www.bis.org/review/r260302d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:20:07.452712+00:00",
+  "id": "e5809c39-90b0-4d50-9c84-ead668bcb12d",
+  "generated_title": "印度央行副行长Gupta演讲：印度四十年增长回顾与展望",
+  "generated_summary": "印度储备银行副行长Poonam Gupta在发展研究中心发表演讲，回顾印度过去四十年经济发展历程并展望未来增长前景。",
+  "generated_analysis": "印度央行副行长Poonam Gupta在发展研究中心发表的演讲，选择在印度经济发展关键节点回顾四十年历程，具有重要的政策信号意义。过去四十年印度从计划经济向市场化转型，特别是1991年改革后实现跨越式发展，当前已成为全球第五大经济体，其增长模式转变对新兴市场国家具有典型参考价值。\n\n对市场而言，RBI高级官员的讲话往往隐含货币政策取向和经济调控思路。企业应关注演讲中关于通胀管理、金融开放及卢比国际化的表述，这直接关系到外资企业在印经营成本和融资环境。若演讲强调结构性改革深化，可能预示金融业、制造业进一步向外资开放；反之若侧重风险防控，则需警惕政策收紧。\n\n趋势判断上，印度经济正处于从高速增长向高质量发展转型的关键阶段，未来增长动力将更多依赖内需消费和制造业升级，而非单纯依赖服务业。企业决策者应把握印度数字化转型和供应链重构带来的机遇，同时密切关注政策连续性和地缘政治变量。",
+  "tags": [
+    "印度经济",
+    "货币政策",
+    "宏观经济",
+    "央行演讲"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:53:51.141931+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Learnings from COBOL modernization in the real world",
+  "raw_content": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T18:16:43+00:00",
+  "id": "0516e2db-24b4-4d60-9bf3-f8f81ddc3740",
+  "generated_title": "COBOL现代化实践经验分享",
+  "generated_summary": "成功实现COBOL现代化需结合逆向工程与AI驱动的正向工程，确保可验证的规格说明在整个流程中流转。",
+  "generated_analysis": "COBOL作为上世纪五十年代诞生的语言，至今仍支撑着全球大量金融机构、保险公司和政府部门的核心业务系统。然而，随着技术人才断层、业务需求快速迭代，这些遗留系统的现代化已成为企业数字化转型的关键瓶颈。\n\n此次情报揭示的核心价值在于：单纯的“推倒重来”或“继续维护”都不是可行路径，真正有效的现代化需要构建“逆向工程+AI正向工程”的双向通道。通过逆向工程精确解析现有COBOL代码并生成可验证的规格说明，再借助AI将这些规格转化为现代代码，能够在保证业务连续性的同时实现技术栈的平滑迁移。\n\n对行业而言，这一模式意味着：金融、医疗、政府等关键领域的遗留系统升级找到了更具可行性的技术路径；企业将大幅降低因系统重构带来的业务中断风险；同时，对规格说明的可追溯性要求也将推动行业在文档化和标准化方面建立更高门槛。\n\n可以预见，未来三到五年内，混合型现代化工具链将成为市场主流，而具备“规格驱动”能力的技术服务商将在竞争中占据明显优势。企业决策者应提前评估自身遗留系统的复杂度与业务关键性，在AI辅助编程技术成熟度提升的过程中，布局分阶段现代化策略。",
+  "tags": [
+    "COBOL",
+    "遗留系统",
+    "AI编码"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:10.886330+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

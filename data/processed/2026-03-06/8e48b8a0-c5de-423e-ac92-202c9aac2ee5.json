@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "惊蛰吃安宫牛黄丸预防中风是误区",
+  "raw_content": "惊蛰吃安宫牛黄丸预防中风是误区",
+  "source_url": "https://www.toutiao.com/trending/7613571587605909011/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613571587605909011%22%2C%22hot_board_impr_id%22%3A%2220260306101517C3FE8970787A856E5938%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%83%8A%E8%9B%B0%E5%90%83%E5%AE%89%E5%AE%AB%E7%89%9B%E9%BB%84%E4%B8%B8%E9%A2%84%E9%98%B2%E4%B8%AD%E9%A3%8E%E6%98%AF%E8%AF%AF%E5%8C%BA%22%7D&rank=&style_id=40132&topic_id=7613571587605909011",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:17.729124+00:00",
+  "id": "8e48b8a0-c5de-423e-ac92-202c9aac2ee5",
+  "generated_title": "惊蛰吃安宫牛黄丸预防中风是误区",
+  "generated_summary": "医学专家澄清惊蛰节气服用安宫牛黄丸预防中风无科学依据，公众应避免盲目用药。",
+  "generated_analysis": "这一事件反映出传统中医药在公众认知层面存在的误解与科学传播之间的矛盾。安宫牛黄丸作为传统急救用药，其适应症有严格限定，将其用于节氣养生预防属于典型的药物滥用，不仅无法起到预防效果，还可能带来健康风险。\n\n从行业角度看，此类误区的广泛流传对中药行业形象造成负面影响。当前部分中药企业过度强调产品的养生功效，可能误导消费者。在监管部门日益强调合理用药的背景下，这种宣传策略面临合规风险。\n\n展望未来，公众科学素养的持续提升将推动中药消费趋于理性。企业需调整营销策略，从夸大功效转向强调循证医学证据和合理用药指导。同时，监管部门可能加强对中药宣传的规范力度，行业竞争格局将向注重产品研发科学性和用药安全性方向转变。企业在布局市场时，应重视医学专家共识和临床指南，避免因短期营销利益损害长期品牌价值。",
+  "tags": [
+    "健康养生",
+    "医学科普",
+    "中医药",
+    "误区警示"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:17:43.587389+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20153242",
+    "platform": "toutiao"
+  }
+}

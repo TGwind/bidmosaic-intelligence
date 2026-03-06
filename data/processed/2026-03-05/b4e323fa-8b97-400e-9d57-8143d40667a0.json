@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+  "raw_content": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+  "source_url": "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-03T16:35:55+00:00",
+  "id": "b4e323fa-8b97-400e-9d57-8143d40667a0",
+  "generated_title": "Gemini 3.1 Flash-Lite：谷歌发布最快最省成本的3系列模型",
+  "generated_summary": "DeepMind推出Gemini 3.1 Flash-Lite，称其为Gemini 3系列中速度最快、成本效率最高的模型。",
+  "generated_analysis": "谷歌DeepMind推出Gemini 3.1 Flash-Lite，标志着大语言模型竞争进入新阶段——从单纯追求性能提升转向“高效能比”优先。这一模型定位为3系列中速度最快、成本效率最高的版本，反映出AI行业正在经历关键转型：企业用户不再仅关注模型能力，更注重推理速度与运营成本的平衡。\n\n对市场而言，Flash-Lite的推出将加剧入门级AI模型的价格战。谷歌通过差异化布局，试图在中小型企业及大规模应用场景中占据成本优势，这直接挑战了OpenAI、Anthropic等同行的定价策略。预计将推动整个行业加速模型蒸馏与优化技术的迭代，降低企业部署AI的门槛。\n\n趋势判断：未来6-12个月内，“轻量化、高性价比”将成为模型厂商竞争主战场。企业决策者应关注推理成本下降带来的应用场景扩展机会，特别是实时交互、内容生成等对响应速度敏感的业务领域。同时，需评估供应商锁定风险，构建多供应商策略以保持议价能力。",
+  "tags": [
+    "人工智能",
+    "大模型",
+    "谷歌DeepMind"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:57:54.451955+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

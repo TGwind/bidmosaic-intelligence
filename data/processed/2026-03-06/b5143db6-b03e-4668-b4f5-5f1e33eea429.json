@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Last Week in AI #334 - Kimi K2.5 & Code, Genie 3, OpenClaw & Moltbook",
+  "raw_content": "China&#8217;s Moonshot releases a new open source model Kimi K2.5 and a coding agent, Google Brings Genie 3&#8217;s Interactive World-Building Prototype to AI Ultra Subscribers, and more!",
+  "source_url": "https://lastweekin.ai/p/last-week-in-ai-334-kimi-k25-and",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-04T05:25:56+00:00",
+  "id": "b5143db6-b03e-4668-b4f5-5f1e33eea429",
+  "generated_title": "Kimi K2.5发布与Genie 3更新",
+  "generated_summary": "Moonshot发布开源模型Kimi K2.5及编码代理，Google为AI Ultra用户推出Genie 3交互功能。",
+  "generated_analysis": "Kimi K2.5的开源发布与编码代理推出，标志着中国AI企业在开源生态构建方面迈出重要一步。此举不仅打破了部分闭源模型的市场垄断地位，也为中小企业提供了更低门槛的AI能力获取途径。同时，Google将Genie 3的交互功能优先提供给付费订阅用户，体现了AI应用正加速从技术探索向商业化落地转变，多模态交互体验正成为产品差异化的关键战场。\n\n从行业影响看，大模型竞争已从单纯的能力对比转向应用生态与用户体验的全面较量。开源与闭源路线之争将更加激烈，企业需重新评估技术采购策略。编码代理的普及可能重塑软件开发流程，提高研发效率。多模态交互功能向付费用户倾斜的做法，预示着AI产品的商业模式将更加聚焦高价值用户群体。\n\n对于企业决策者而言，建议密切关注开源模型生态的发展动态，评估其对现有技术栈的替代可行性；同时加速内部AI应用场景的探索，在新一轮技术商业化浪潮中占据先机。",
+  "tags": [
+    "开源模型",
+    "AI Agents",
+    "Google"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:30:28.471544+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Elastic MCP 及 Agentic AI：构建可信、上下文感知能力的搜索｜QCon北京",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/CzURzjfJdD27dP0TcfLj?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T09:31:00+00:00",
+  "id": "1ced4496-f171-43c8-b549-7e49aba7fe05",
+  "generated_title": "Elastic MCP与Agentic AI：构建可信上下文感知搜索",
+  "generated_summary": "Elastic在QCon北京大会上分享如何利用MCP协议和代理式AI技术提升搜索的可信度和上下文理解能力。",
+  "generated_analysis": "Elastic在QCon北京大会上展示的MCP协议与Agentic AI结合方案，标志着搜索技术正在迈向新的发展阶段。传统搜索依赖关键词匹配，难以理解用户真实意图，而MCP协议解决了AI模型与外部系统之间的上下文传递难题，使搜索能够保持对话上下文连贯性。Agentic AI的引入则赋予搜索系统自主推理能力，从被动响应转向主动理解。\n\n这一技术路径对行业具有重要启示意义。首先，企业级搜索市场将迎来可信度升级——当搜索结果具备上下文理解和可解释性时，其商业价值将大幅提升。其次，MCP作为新兴协议标准，Elastic的率先采用可能加速其在企业级AI应用中的普及，形成类似当年OpenSearch生态的效应。\n\n从市场趋势看，未来一到两年内，上下文感知搜索将成为企业AI应用的基础设施标配。缺乏此类能力的搜索厂商可能面临竞争劣势。同时，随着Agentic AI从概念走向落地，围绕“可信AI”的技术标准竞争也将更加激烈。企业决策者应关注Elastic的技术路线演进，尽早评估其在自身业务场景中的适配性。",
+  "tags": [
+    "人工智能",
+    "搜索技术",
+    "Elastic"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:33.601297+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

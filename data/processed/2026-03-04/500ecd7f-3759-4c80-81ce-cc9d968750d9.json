@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+  "raw_content": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+  "source_url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-01-27T19:26:00+00:00",
+  "id": "500ecd7f-3759-4c80-81ce-cc9d968750d9",
+  "generated_title": "美股AI板块暴跌 Nvidia重挫16%",
+  "generated_summary": "受中国DeepSeek影响，AI基础设施股大幅下跌，Nasdaq领跌，科技股遭遇广泛抛售",
+  "generated_analysis": "本次美股AI板块暴跌的核心触发因素是中国AI初创公司DeepSeek发布的新模型展现出令人瞩目的性能指标，引发市场对美国AI技术领先优势持续性的担忧。DeepSeek的崛起表明中国在人工智能领域的技术追赶速度超预期，这直接动摇了投资者对美股AI公司长期增长叙事的信心。\n\n从技术层面看，DeepSeek在特定任务上展现出可与美国顶尖模型竞争的能力，这对“AI基础设施=护城河”的逻辑构成挑战。若中国AI技术持续突破，美国AI公司面临竞争加剧，可能被迫增加研发投入，进而压缩利润空间。同时，市场可能重新评估AI基础设施的产能过剩风险，因为大模型效率提升可能降低对算力的刚性需求。\n\n对于企业决策者而言，本次调整虽剧烈，但更多反映的是短期风险偏好下降和估值消化。AI技术竞争格局的重塑将是渐进过程，美国企业在芯片、设计和生态系统方面仍具显著优势。建议关注回调中的优质标的，但需密切跟踪DeepSeek等中国企业的技术迭代进度，以及各大云厂商的资本开支指引。",
+  "tags": [
+    "AI",
+    "美股",
+    "Nvidia",
+    "DeepSeek"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:48:28.960689+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

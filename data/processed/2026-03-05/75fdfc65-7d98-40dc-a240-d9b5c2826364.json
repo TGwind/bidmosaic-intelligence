@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "比亚迪(002594) 今日跌1.58% 报94.47元",
+  "raw_content": "比亚迪(002594) 最新价 94.47元，跌1.58%，涨跌额 -1.52元，今开 96.80元，最高 96.82元，最低 93.89元，昨收 95.99元，成交额 52.36亿元，振幅 3.05%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz002594/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T14:28:14.024811+00:00",
+  "id": "75fdfc65-7d98-40dc-a240-d9b5c2826364",
+  "generated_title": "比亚迪(002594) 今日跌1.58% 报94.47元 | 观望",
+  "generated_summary": "趋势: 偏弱 · 信号: 观望 · 评分: 42",
+  "generated_analysis": "比亚迪今日下跌1.58%收于94.47元，跌破MA5均线，短期趋势转弱。从技术面看，MA5下穿MA10形成死叉雏形，短期均线系统转为空头排列。乖离率-1.08%处于安全区间，显示股价偏离MA5程度不大。成交额52.36亿元相对平稳，未见恐慌性抛售。基本面方面，公司作为新能源车龙头具备技术优势和品牌力，但近期面临行业价格战压力。短期需等待均线走平或价格企稳信号，不宜盲目追高。\n\n风险提示: 短期技术破位风险、行业价格战加剧、原材料价格波动、全球新能源需求不及预期",
+  "tags": [
+    "A股",
+    "偏弱",
+    "观望"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-05T14:48:21.415465+00:00",
+  "market_data": {
+    "symbols": [
+      "002594"
+    ],
+    "price_change": {
+      "price": 94.47,
+      "change_pct": -1.58,
+      "change_amt": -1.52
+    },
+    "indicators": {
+      "volume": 55243997.0,
+      "turnover": 5235746090.45,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 3.05,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏弱",
+    "signal": "观望",
+    "risk": "短期技术破位风险、行业价格战加剧、原材料价格波动、全球新能源需求不及预期",
+    "confidence": "低",
+    "sentiment_score": 42,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "跌破MA5进入回调，暂不追高，等待企稳信号",
+        "time_sensitivity": "本周内",
+        "position_advice": {
+          "no_position": "暂不建仓，等待MA5走平或价格企稳后再考虑",
+          "has_position": "可持有，若跌破93元考虑减仓"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5<MA10<MA20，空头排列初现",
+        "is_bullish": false,
+        "trend_score": 35,
+        "bias_ma5": -1.08,
+        "bias_status": "安全",
+        "support_level": "93.00元",
+        "resistance_level": "96.80元",
+        "volume_status": "平量",
+        "volume_meaning": "52亿成交额相对平稳，恐慌抛压不大"
+      },
+      "battle_plan": {
+        "ideal_buy": "91.50元",
+        "secondary_buy": "93.00元",
+        "stop_loss": "90.00元",
+        "take_profit": "98.00元",
+        "suggested_position": "10%-20%",
+        "entry_plan": "价格企稳MA5后分两批建仓，首次10%，回踩确认后再加10%"
+      },
+      "checklist": [
+        "❌ 多头排列",
+        "✅ 乖离率合理",
+        "✅ 量能配合",
+        "⚠️ 无重大利空"
+      ],
+      "risk_alerts": [
+        "新能源车销量增速放缓预期",
+        "行业竞争加剧导致毛利率承压",
+        "短期技术破位可能引发止损抛压"
+      ],
+      "positive_catalysts": [
+        "比亚迪海外市场拓展加速",
+        "智能化技术持续领先",
+        "下半年销量旺季临近"
+      ],
+      "short_term_outlook": "1-3日内预计在93-96元区间震荡整理，若能在93元附近企稳可能迎来小幅反弹，若放量跌破93元则可能进一步下探90元支撑。",
+      "medium_term_outlook": "1-2周内若能守住92-93元支撑带，有望重新站上MA5并修复均线，中期趋势仍需观察销量数据和行业政策变化。"
+    }
+  }
+}

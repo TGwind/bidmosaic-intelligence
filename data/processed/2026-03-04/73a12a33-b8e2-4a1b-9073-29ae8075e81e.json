@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC and CFTC Reschedule Joint Event on Harmonization, U.S. Financial Leadership in the Crypto Era",
+  "raw_content": "Securities and Exchange Commission Chairman Paul S. Atkins and Commodity Futures Trading Commission Chairman Michael S. Selig will hold a joint event, previously scheduled for Jan. 27, now rescheduled for Thursday, Jan. 29, from 2 p.m. to 3 p.m. at CFTC…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-14-sec-cftc-reschedule-joint-event-harmonization-us-financial-leadership-crypto-era",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-01-26T15:12:31+00:00",
+  "id": "73a12a33-b8e2-4a1b-9073-29ae8075e81e",
+  "generated_title": "SEC与CFTC联合加密监管协调会议推迟至1月29日",
+  "generated_summary": "美国SEC主席Atkins与CFTC主席Selig原定的联合加密监管协调活动从1月27日推迟至1月29日举行。",
+  "generated_analysis": "",
+  "tags": [
+    "美国监管",
+    "SEC",
+    "CFTC",
+    "加密货币",
+    "金融监管"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-04T14:49:05.424098+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

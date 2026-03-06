@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants",
+  "raw_content": "arXiv:2603.03565v1 Announce Type: new Abstract: Conversational shopping assistants (CSAs) represent a compelling application of agentic AI, but moving from prototype to production reveals two underexplored challenges: how to evaluate multi-turn interactions and how to optimize tightly coupled multi-agent systems. Grocery shopping further amplifies these difficulties, as user requests are often underspecified, highly preference-sensitive, and constrained by factors such as budget and inventory. In this paper, we present a practical blueprint for evaluating and optimizing conversational shopping assistants, illustrated through a production-scale AI grocery assistant. We introduce a multi-faceted evaluation rubric that decomposes end-to-end shopping quality into structured dimensions and develop a calibrated LLM-as-judge pipeline aligned with human annotations. Building on this evaluation foundation, we investigate two complementary prompt-optimization strategies based on a SOTA prompt-optimizer called GEPA (Shao et al., 2025): (1) Sub-agent GEPA, which optimizes individual agent nodes against localized rubrics, and (2) MAMuT (Multi-Agent Multi-Turn) GEPA (Herrera et al., 2026), a novel system-level approach that jointly optimizes prompts across agents using multi-turn simulation and trajectory-level scoring. We release rubric templates and evaluation design guidance to support practitioners building production CSAs.",
+  "source_url": "https://arxiv.org/abs/2603.03565",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "96f00a69-c3b5-4dc8-a6ec-6ac9aaa9a3c6",
+  "generated_title": "多代理购物助手评估与优化框架",
+  "generated_summary": "提出对话购物助手的多维度评估体系和LLM评判管道，发布两种提示优化策略以提升多代理系统性能。",
+  "generated_analysis": "这篇论文揭示了AI购物助手从实验室走向真实商业场景的核心瓶颈——评估与优化体系缺失。当前对话式AI虽备受关注，但企业实际部署时面临两大痛点：如何量化多轮交互质量、如何优化多代理协作效果。研究者提出的多维评估框架和LLM评判管道，本质上是在建立AI产品的质量标准，这对于行业从“技术炫技”转向“商业可行”具有里程碑意义。\n\n从市场影响看，该框架将加速AI购物助手的规模化落地。企业可依据结构化维度评估系统表现，降低试错成本；而SOTA提示优化策略的出现，意味着多代理系统的调优从手工时代进入自动化阶段。Grocery购物场景的复杂性和高频次特性，使其成为极佳的验证场域，方法论具备向其他垂直场景复制的潜力。\n\n我认为未来1-2年内，多代理AI应用将进入“评估驱动开发”新阶段，类似GEPA的系统级优化工具将成为标配。企业决策者应关注该领域标准化进程，尽早建立评估能力将是竞争壁垒的关键来源。",
+  "tags": [
+    "人工智能",
+    "对话系统",
+    "多代理系统",
+    "提示优化"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:56:20.303415+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

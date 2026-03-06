@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Last Week in AI #335 - Opus 4.6, Codex 5.3, Gemini 3 Deep Think, GLM 5, Seedance 2.0",
+  "raw_content": "A crazy packed edition of Last Week in AI! Plus some small updates.",
+  "source_url": "https://lastweekin.ai/p/last-week-in-ai-335-opus-46-codex",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-16T02:00:20+00:00",
+  "id": "62d235a5-deeb-4db0-9409-a90853ddc35a",
+  "generated_title": "AI周报发布！多款大模型更新",
+  "generated_summary": "Anthropic、OpenAI、Google、智谱AI、字节等齐发布AI模型更新，涵盖Opus 4.6、Codex 5.3、Gemini 3、GLM 5、Seedance 2.0",
+  "generated_analysis": "本周多家AI巨头密集发布模型更新，标志着行业进入新一轮竞争周期。从背景看，这反映了技术迭代加速、多模态能力成为核心竞争点，以及中国AI力量的全面崛起。智谱GLM和字节Seedance的加入，使全球AI竞争从中美两极向多极化演进。\n\n对行业而言，多头并进的更新潮将产生深远影响：首先，模型能力差距进一步缩小，企业选择供应商的议价能力增强；其次，多模态能力的普及将加速AI从单一文本处理向图像、视频、代码等全场景渗透；最后，竞争加剧将推动API价格下行，降低企业应用门槛。\n\n趋势判断上，预计未来3-6个月将出现三个明显走向：一是应用层创新爆发，各行业AI原生应用将密集落地；二是垂直领域模型兴起，专业场景的精调模型将更受企业青睐；三是集成化服务成为主流，单一模型调用将转向平台化解决方案。企业决策者应密切关注这些变化，及时调整AI采购和应用策略，以在新一轮技术浪潮中占据先机。",
+  "tags": [
+    "人工智能",
+    "大模型",
+    "AI周报"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:24:56.584931+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

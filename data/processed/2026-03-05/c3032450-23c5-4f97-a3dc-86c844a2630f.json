@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Chinese Investors With Few Options Turn to Dividends",
+  "raw_content": "Companies with good payouts are now the hottest bet in China markets.",
+  "source_url": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T10:30:00+00:00",
+  "id": "c3032450-23c5-4f97-a3dc-86c844a2630f",
+  "generated_title": "中国投资者转向高股息股票",
+  "generated_summary": "在全球市场不确定性增加背景下，中国投资者正将资金转向高股息股票，寻找稳定回报。",
+  "generated_analysis": "在全球市场波动加剧、增长预期放缓的背景下，中国投资者风险偏好明显下降，转向高股息股票寻求确定性回报。这一趋势反映了当前市场情绪从追逐成长转向重视现金流回收，对企业财务质量和分红能力提出更高要求。短期内，高股息板块如金融、能源及成熟制造业将获得资金青睐，相关个股估值有望提升。然而需注意，部分高股息标的已出现交易拥挤，存在回调风险。中期看，若经济复苏力度不及预期，该趋势可能延续并推动上市公司加大分红回购力度，加速市场价值投资理念的成熟。对于企业决策者而言，提升盈利质量、建立稳定分红机制将成为吸引长期资金的关键，同时需警惕市场风格切换带来的估值波动风险。",
+  "tags": [
+    "A股市场",
+    "股息投资",
+    "价值投资"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:58:16.521827+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

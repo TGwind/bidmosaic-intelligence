@@ -1,0 +1,41 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "汇川技术(300124) 今日涨3.53% 报70.39元",
+  "raw_content": "汇川技术(300124) 最新价 70.39元，涨3.53%，涨跌额 +2.40元，今开 71.40元，最高 71.69元，最低 69.77元，昨收 67.99元，成交额 26.51亿元，振幅 2.82%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz300124/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T14:28:14.024753+00:00",
+  "id": "445ea309-ccaf-421f-b045-4744a781cf48",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [
+      "300124"
+    ],
+    "price_change": {
+      "price": 70.39,
+      "change_pct": 3.53,
+      "change_amt": 2.4
+    },
+    "indicators": {
+      "volume": 37573407.0,
+      "turnover": 2651151577.27,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 2.82,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}

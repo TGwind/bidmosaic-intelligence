@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A new way to express yourself: Gemini can now create music",
+  "raw_content": "Image showing sample tracks created with Lyria 3",
+  "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-18T16:00:00+00:00",
+  "id": "bfd96fbc-ce8a-4731-bea0-8ef3c540b188",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Pål Longva: Report from Norges Bank Watch",
+  "raw_content": "Remarks by Mr Pål Longva, Deputy Governor of Norges Bank (Central Bank of Norway), on the Centre for Monetary Economics' (CME) assessment of the Norges Bank's conduct of monetary policy, published in its Norges Bank Watch Report Series, Oslo, 26 February 2026.",
+  "source_url": "https://www.bis.org/review/r260302e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:20:07.452650+00:00",
+  "id": "1542ae7d-9df5-4933-8e6a-d8cf7a90eef3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

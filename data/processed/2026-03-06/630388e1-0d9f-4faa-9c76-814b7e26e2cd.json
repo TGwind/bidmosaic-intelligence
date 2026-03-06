@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Power Companies Are Using AI To Build Nuclear Power Plants",
+  "raw_content": "Both Guerra and Khlaaf are proponents of nuclear energy, but worry that the proliferation of LLMs, the fast tracking of nuclear licenses, and the AI-driven push to build more plants is dangerous. “Nuclear energy is safe. It is safe, as we use it. But it’s safe because we make it safe and it’s safe because we spend a lot of time doing the licensing and we spend a lot of time learning from the things that go wrong and understanding where it went wrong and we try to address it next time,” Guerra said. The post Power Companies Are Using AI To Build Nuclear Power Plants appeared first on AI Now Institute.",
+  "source_url": "https://ainowinstitute.org/news/press/power-companies-are-using-ai-to-build-nuclear-power-plants",
+  "source_name": "AI Now Institute",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-11-14T21:38:00+00:00",
+  "id": "630388e1-0d9f-4faa-9c76-814b7e26e2cd",
+  "generated_title": "电力公司AI建核电站 专家警告安全风险",
+  "generated_summary": "AI正被用于加速核电站建设，但核能安全专家警告，快速审批和AI驱动可能忽视安全学习流程，带来风险。",
+  "generated_analysis": "AI技术正在重塑全球核电行业格局，这一趋势既蕴含巨大机遇，也引发安全层面的深度忧虑。从行业背景看，核电作为清洁能源的重要组成部分，正面临全球能源转型带来的扩张需求，而AI在设计优化、施工管理、运营效率等方面的应用，确实能够显著缩短建设周期、降低制造成本，这对急于实现碳中和目标的国家具有强劲吸引力。\n\n然而，安全专家的警告揭示了一个核心矛盾：核电行业的核心安全体系建立在“慢学习”机制之上——每一次事故或异常都被视为宝贵的学习机会，用以完善设计、改进流程、强化监管。这种积累式安全文化需要时间沉淀，而AI驱动的加速审批可能压缩这一关键窗口期。一旦为了追求速度而简化安全审查、削弱独立监督，潜在风险将随项目数量增长而累积。\n\n对于企业决策者而言，这一信号值得高度关注。短期内，AI赋能确实能带来竞争优势，但忽视安全边界的激进扩张可能引发灾难性后果，包括监管收紧、公众信任崩塌甚至事故风险。行业趋势显示，监管机构未来可能对AI辅助核电项目施加更严格的审查标准，企业需要在效率与安全之间寻求新的平衡点，同时加强与监管部门的沟通，建立AI应用的透明机制。",
+  "tags": [
+    "AI应用",
+    "核能",
+    "核电安全",
+    "技术风险"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:25:22.062839+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://ainowinstitute.org/category/news/feed",
+    "category": "policy",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

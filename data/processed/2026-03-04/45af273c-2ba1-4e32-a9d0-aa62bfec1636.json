@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Arvind KC appointed Chief People Officer",
+  "raw_content": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI.",
+  "source_url": "https://openai.com/index/arvind-kc-chief-people-officer",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-24T13:40:00+00:00",
+  "id": "45af273c-2ba1-4e32-a9d0-aa62bfec1636",
+  "generated_title": "OpenAI任命Arvind KC为首席人力官",
+  "generated_summary": "OpenAI任命Arvind KC为首席人力官，旨在推动公司规模扩张、强化企业文化，并引领AI时代工作方式变革。",
+  "generated_analysis": "OpenAI此次任命Arvind KC为首席人力官，反映出这家AI领军企业正从技术驱动向组织能力驱动转型。作为全球最受关注的AI公司，OpenAI过去一年经历了管理层震荡和核心人才流失，此次CHO任命传递出其对组织稳定性的高度重视。\n\n从行业层面看，此举标志着AI公司竞争已从单纯的技术研发延伸至人才和组织能力的全面比拼。随着AI技术加速商业化落地，如何吸引、保留并激活顶尖人才成为决定企业胜负的关键。OpenAI作为行业标杆，其人力战略调整将产生示范效应，促使更多AI公司加大组织能力建设投入。\n\n预计未来一到两年内，AI行业将出现更激烈的人才争夺战，同时企业文化建设、组织敏捷性提升将成为行业共识。OpenAI此次人事布局，本质上是在为规模化扩张奠定组织基础，这也将推动AI时代工作方式和人力资源管理范式的深刻变革。",
+  "tags": [
+    "人工智能",
+    "公司治理",
+    "人事任命"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:47:34.917927+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee publishes analysis of synthetic risk transfers",
+  "raw_content": "The Basel Committee on Banking Supervision today published a report on synthetic risk transfer (SRT) transactions. The economic importance of SRT markets has grown rapidly over the last decade and they have become an important source of capital relief for corporate credit risk.",
+  "source_url": "https://www.bis.org/press/p260217.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:20:01.223439+00:00",
+  "id": "d8dbe191-c8c9-4ae2-a916-7a81c82edc94",
+  "generated_title": "巴塞尔委员会发布合成风险转移市场分析报告",
+  "generated_summary": "SRT市场近十年快速增长，已成为企业信用风险资本缓释的重要来源，巴塞尔委员会发布专项分析。",
+  "generated_analysis": "巴塞尔委员会首次发布SRT专项分析报告，标志着这一市场已从边缘业务晋升为金融监管的核心关注领域。过去十年SRT的快速扩张，本质上反映了银行在巴塞尔III框架下对资本优化的强烈诉求——通过合成风险转移工具将信用风险剥离表外，从而释放宝贵的资本金。然而，这种“技术性”资本缓释也带来了系统性风险隐患：若多家银行同时使用相似结构对冲同类资产风险，可能形成风险隐匿与风险共振。\n\n对于企业决策者而言，报告释放了两个明确信号：一是SRT产品的监管审查力度将显著加强，现有交易结构可能面临合规重估；二是银行风险转移成本的上升终将传导至企业端，推高信用资质良好企业的融资溢价。建议企业密切跟踪后续监管细则，同时建立多元化的资本缓释渠道，避免对单一工具形成过度依赖。",
+  "tags": [
+    "金融监管",
+    "巴塞尔协议",
+    "信用风险"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:53:30.489589+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

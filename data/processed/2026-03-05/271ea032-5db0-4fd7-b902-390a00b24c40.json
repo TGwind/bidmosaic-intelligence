@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "SE-Search: Self-Evolving Search Agent via Memory and Dense Reward",
+  "raw_content": "arXiv:2603.03293v1 Announce Type: new Abstract: Retrieval augmented generation (RAG) reduces hallucinations and factual errors in large language models (LLMs) by conditioning generation on retrieved external knowledge. Recent search agents further cast RAG as an autonomous, multi-turn information-seeking process. However, existing methods often accumulate irrelevant or noisy documents and rely on sparse reinforcement learning signals. We propose \\textbf{S}elf-\\textbf{E}volving \\textbf{Search}, a Self-Evolving Search agent that improves online search behavior through three components, memory purification, atomic query training, and dense rewards. SE-Search follows a \\textit{Think-Search-Memorize} strategy that retains salient evidence while filtering irrelevant content. Atomic query training promotes shorter and more diverse queries, improving evidence acquisition. Dense rewards provide fine-grained feedback that speeds training. Experiments on single-hop and multi-hop question answering benchmarks show that \\texttt{SE-Search-3B} outperforms strong baselines, yielding a $10.8$ point absolute improvement and a $33.8\\%$ relative gain over Search-R1.\\footnote{We will make the code and model weights publicly available upon acceptance.}",
+  "source_url": "https://arxiv.org/abs/2603.03293",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "271ea032-5db0-4fd7-b902-390a00b24c40",
+  "generated_title": "SE-Search：基于记忆与密集奖励的自我进化搜索代理",
+  "generated_summary": "提出SE-Search搜索代理，通过记忆净化、原子查询训练和密集奖励三组件提升在线搜索行为，在问答基准测试中较Search-R1提升10.8点。",
+  "generated_analysis": "SE-Search代表了检索增强生成技术的重要迭代。当前RAG系统普遍面临两大痛点：搜索过程中积累过多无关文档导致信息噪声，以及训练信号稀疏难以有效优化。SE-Search通过记忆净化机制解决内容筛选问题，原子查询训练提升检索精准度，密集奖励则加速模型收敛。这三项创新形成协同效应，使3B参数模型实现对Search-R1的10.8点绝对提升。\n\n对行业而言，该突破意味着企业部署AI搜索助手的门槛将显著降低。相较于追求超大参数模型，更小的SE-Search-3B在消费级硬件即可运行，降低了推理成本。同时，其在单跳和多跳问答任务上的通用性，表明该技术路线具备跨场景迁移能力。\n\n未来趋势判断：RAG优化将从单纯扩大检索规模转向智能化检索策略，记忆与推理的协同将成为主流架构。企业落地应用中，建议关注Think-Search-Memorize范式在垂直领域知识库问答、企业内部文档检索等场景的落地潜力，该技术有望提升知识调用效率30%以上。",
+  "tags": [
+    "人工智能",
+    "自然语言处理",
+    "检索增强生成",
+    "大语言模型",
+    "强化学习"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:48:51.109576+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

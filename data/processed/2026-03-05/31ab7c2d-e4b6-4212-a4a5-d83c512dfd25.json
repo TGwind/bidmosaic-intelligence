@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+  "raw_content": "Research papers point to the growing impact of Deep Think across fields",
+  "source_url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-09T16:12:06+00:00",
+  "id": "31ab7c2d-e4b6-4212-a4a5-d83c512dfd25",
+  "generated_title": "Gemini Deep Think推动数学与科学研究突破",
+  "generated_summary": "DeepMind发布研究显示其Gemini Deep Think模型在数学和科学领域取得显著进展，多篇研究论文证实其影响力。",
+  "generated_analysis": "Gemini Deep Think模型在数学与科学研究领域取得突破，标志着人工智能从辅助工具向高级认知伙伴转型。这一进展意味着AI不再局限于数据处理与模式识别，而是开始参与抽象推理与复杂问题解决，对基础科学研究具有里程碑意义。\n\n对于行业而言，该模型将重塑科研机构的研发范式。制药、材料科学、天体物理等高度依赖数学建模与理论推演的领域，将率先受益于AI推理能力的提升。企业研发部门需要重新评估AI在创新链条中的定位，从单纯的数据分析工具升级为战略性的研究伙伴。\n\n趋势上，预计未来3-5年将出现AI与科研深度融合的加速期，具备跨学科能力的复合型人才需求将显著增长。同时，AI辅助发现的科研成果数量将快速上升，企业需提前布局AI研发能力以保持竞争优势。",
+  "tags": [
+    "人工智能",
+    "深度学习",
+    "科学研究",
+    "Google DeepMind"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:49:32.039335+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

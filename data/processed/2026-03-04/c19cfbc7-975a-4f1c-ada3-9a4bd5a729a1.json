@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Download: protesting AI, and what’s floating in space",
+  "raw_content": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T13:20:00+00:00",
+  "id": "c19cfbc7-975a-4f1c-ada3-9a4bd5a729a1",
+  "generated_title": "史上最大反AI抗议爆发：科技伦理争议再起",
+  "generated_summary": "2月28日出现有史以来最大规模的反AI抗议活动，抗议者高呼\"拔掉插头\"等口号，表达对AI发展失控的担忧。",
+  "generated_analysis": "此次史上最大规模反AI抗议标志着AI伦理争议从技术圈层正式进入公众视野。2月28日的抗议活动不仅规模空前，其诉求也更加具体——从“拔掉插头”到“停止垃圾信息”，反映出公众对AI技术失控、虚假信息泛滥以及就业替代的深层焦虑。这一事件具有分水岭意义，意味着AI企业仅靠技术先进性已不足以赢得市场认可，伦理合规和社会责任将成为新的竞争维度。\n\n对于行业和市场而言，抗议活动将产生多重传导效应：首先，各国监管机构可能加速AI立法进程，欧盟AI法案已先行一步，其他地区有望跟进；其次，企业在AI产品发布和PR策略上需更加审慎，伦理声明和透明度报告可能成为标配；再次，资本市场将对AI企业的合规风险给予更高权重估值。\n\n从中长期趋势判断，AI行业将进入“伦理合规驱动”的新阶段。那些能够率先建立完善AI治理体系、展现技术可控性的企业将在竞争中占据优势。同时，行业自律组织和技术标准制定将更为活跃。对于企业决策者而言，当前是重新审视AI战略布局的关键窗口——既要把握技术红利，又需筑牢伦理防线，将可持续发展理念融入AI发展路径。",
+  "tags": [
+    "AI抗议",
+    "科技伦理",
+    "行业动态"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:52:32.875571+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

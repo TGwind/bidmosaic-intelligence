@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "微软发布 Agent Framework 候选版本，简化 .NET 与 Python 智能体开发",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/7JREpdQWb6a7rMl3SLTd?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T15:00:00+00:00",
+  "id": "edecdcf3-35fc-43e1-a992-6c7183801616",
+  "generated_title": "微软发布Agent Framework候选版本",
+  "generated_summary": "微软推出Agent Framework候选版本，提供统一的.NET与Python智能体开发框架，降低AI应用开发门槛。",
+  "generated_analysis": "微软此次推出Agent Framework候选版本，标志着其在AI应用开发工具领域的战略升级。该框架整合.NET与Python两大主流开发生态，消除了过去跨语言开发的技术割裂问题，使企业能够更灵活地组建开发团队。对于正在推进数字化转型的企业而言，这意味着AI应用的原型验证和迭代周期将大幅缩短。\n\n从行业角度看，微软此举将加剧AI开发工具市场的竞争格局，其他厂商可能加速类似统一框架的研发以保持竞争力。对于企业决策者，关键启示在于：AI应用开发的技术壁垒正在快速降低，核心竞争力将更多转向业务场景的深度理解和数据资产的积累。建议企业近期关注该框架的生态完善程度，并适时调整AI人才培养策略，为即将到来的应用爆发期做好准备。",
+  "tags": [
+    "人工智能",
+    "开发框架",
+    "微软"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:01:25.646588+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

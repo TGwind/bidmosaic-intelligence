@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+  "raw_content": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+  "source_url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-01-27T19:26:00+00:00",
+  "id": "ec3726b4-70b1-41d0-9bfd-08d3f4c375a3",
+  "generated_title": "美股AI板块暴跌 英伟达重挫16%",
+  "generated_summary": "受中国DeepSeek影响，纳斯达克领跌，AI基础设施制造商集体重挫，多只股票跌幅超10%。",
+  "generated_analysis": "本次AI板块剧震标志着市场对人工智能产业认知的深层调整。DeepSeek等中国AI企业的快速崛起，暴露了当前AI基础设施高估值背后的脆弱性——市场过度依赖“算力军备竞赛”叙事，而忽视了技术迭代可能带来的范式转变。\n\n对行业而言，此次回调将重构投资逻辑。短期内，AI基础设施供应商将面临估值压缩，投资者将更加审慎评估其增长可持续性。但这也并非行业衰退信号，而是从“非理性繁荣”向“理性成长”过渡的必经阶段。\n\n趋势判断：预计市场将出现明显分化——拥有真正技术壁垒和商业化能力的龙头企业有望在调整后企稳，而依赖单一算力故事的标的将持续承压。企业决策者应关注AI应用层和垂直领域的机会，避免过度押注硬件基础设施赛道。这轮调整本质上是行业从“概念炒作”转向“价值验证”的关键节点。",
+  "tags": [
+    "AI",
+    "美股",
+    "英伟达"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:01:12.638241+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

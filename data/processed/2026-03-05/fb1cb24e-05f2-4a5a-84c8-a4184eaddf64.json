@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗1吨重弹头导弹打击以色列",
+  "raw_content": "伊朗1吨重弹头导弹打击以色列",
+  "source_url": "https://www.toutiao.com/trending/7613727316971097643/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613727316971097643%22%2C%22hot_board_impr_id%22%3A%22202603052228181AFFD88B2DEC34805AF5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%971%E5%90%A8%E9%87%8D%E5%BC%B9%E5%A4%B4%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%22%7D&rank=&style_id=40132&topic_id=7613727316971097643",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T14:28:14.436136+00:00",
+  "id": "fb1cb24e-05f2-4a5a-84c8-a4184eaddf64",
+  "generated_title": "伊朗重弹头导弹突袭以色列",
+  "generated_summary": "伊朗使用1吨重弹头导弹对以色列实施打击，地区紧张局势急剧升级，引发国际社会高度关注。",
+  "generated_analysis": "伊朗使用重型弹道导弹打击以色列标志着中东地区冲突显著升级。此次袭击发生在地区紧张局势持续加剧的背景下，反映了伊朗与以色列之间对抗的进一步深化。\n\n从行业影响角度看，该事件将产生多维度的冲击：首先是能源市场波动，中东作为全球重要石油产区，任何军事冲突升级都可能引发油价剧烈波动，进而影响全球能源供应链和各国经济决策；其次是防务产业需求上升，地区安全威胁增加将促使各国加大国防投入，特别是导弹防御系统和先进武器装备的采购；第三是保险与金融风险上升，保险公司可能调整中东地区相关业务的承保政策，金融市场避险情绪将阶段性升温。\n\n展望未来趋势，短期内地区紧张局势难以缓解，可能出现报复性循环；但国际社会调解压力也在增加，不排除通过外交途径管控分歧的可能。企业决策者应密切关注事态发展，做好能源价格波动预案，并评估供应链风险。",
+  "tags": [
+    "地缘政治",
+    "军事冲突",
+    "中东局势"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:48:37.582107+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9276197",
+    "platform": "toutiao"
+  }
+}

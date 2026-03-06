@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies,’ report says",
+  "raw_content": "Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.",
+  "source_url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-04T22:40:05+00:00",
+  "id": "21b5da08-33a9-4bf2-b18d-07bd2557684d",
+  "generated_title": "Anthropic放弃五角大楼合同 OpenAI随后接手",
+  "generated_summary": "Anthropic因AI安全分歧放弃与五角大楼的合同，随后OpenAI接手该项目。",
+  "generated_analysis": "这一事件反映出当前AI行业在国防应用领域的深度分歧。Anthropic选择放弃合同，坚守其AI安全优先的品牌定位，避免卷入军事AI应用的伦理争议；而OpenAI接手则体现了其对商业化收入和国防市场影响力的战略追求。两者形成鲜明对比，实际上是在争夺AI安全领域的道德话语权。\n\n对行业而言，国防军事市场正成为AI巨头的新战场。OpenAI的介入将加剧与Anthropic在企业级市场的竞争，同时可能引发监管机构和公众对AI军事应用的更大关注。预计未来AI公司将面临更严格的伦理审查，而AI安全能力将成为政府采购和企业合作的重要考量维度。\n\n趋势上，我们判断军事AI合同将成为行业分化点——部分企业可能效仿Anthropic建立更高的伦理门槛，另一部分则可能像OpenAI一样积极拥抱国防市场。这一格局将推动AI治理标准的加速形成，同时为专注于AI安全审计和合规的第三方服务提供商带来新的市场机会。企业决策者需密切关注这一领域的监管动态和行业自律规范的演进。",
+  "tags": [
+    "AI安全",
+    "军事合同",
+    "公司竞争"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:31.391479+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "38% of altcoins near all-time lows, worse than FTX crash: Analyst",
+  "raw_content": "The crypto altcoin market is in turmoil as investor sentiment plummets and digital asset prices fail to recover from the October 2025 crash.",
+  "source_url": "https://cointelegraph.com/news/38-altcoins-near-all-time-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T17:44:21+00:00",
+  "id": "db4343d8-812b-43ca-ab89-25fbf4cd3610",
+  "generated_title": "38%的Altcoin接近历史低点，分析师称比FTX崩盘更严重",
+  "generated_summary": "加密货币altcoin市场持续动荡，投资者情绪低迷，38%的代币接近历史低点，尚未从2025年10月的崩盘中恢复。",
+  "generated_analysis": "本次Altcoin市场深度调整的核心背景在于2025年10月的系统性崩盘尚未完成风险出清，当前38%代币逼近历史低点反映出市场信心修复进程缓慢。对于行业而言，这种持续的低迷态势可能引发三个层面的连锁反应：一是项目方融资难度显著提升，研发投入与市场推广预算被迫收缩；二是投资者风险偏好持续下降，资金进一步向BTC、ETH等头部资产集中，Altcoin的流动性枯竭风险上升；三是行业可能出现加速洗牌，优质项目但缺乏足够资金支持的团队面临淘汰压力。\n\n从趋势判断来看，短期内市场仍可能延续底部震荡格局，投资者情绪的恢复需要更多积极信号支撑，如监管政策明朗化或标志性应用场景突破。中长期视角下，随着市场风险充分释放且机构资金逐步入场，Altcoin板块有望出现分化行情——具备真实用例和可持续商业模式的代币将率先走出低谷，而纯投机性质的代币可能进一步边缘化。建议企业决策者在当前阶段保持审慎，重点关注流动性充裕且团队执行力强的项目标的。",
+  "tags": [
+    "加密货币",
+    "Altcoin",
+    "市场行情"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:33:04.897491+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "汇川技术(300124) 今日跌1.48% 报67.99元",
+  "raw_content": "汇川技术(300124) 最新价 67.99元，跌1.48%，涨跌额 -1.02元，今开 68.23元，最高 69.02元，最低 67.62元，昨收 69.01元，成交额 17.49亿元，振幅 2.03%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz300124/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:19:54.969238+00:00",
+  "id": "70610abe-d852-49b3-8b3a-b055d473198e",
+  "generated_title": "汇川技术(300124) 今日跌1.48% 报67.99元 | 持有",
+  "generated_summary": "趋势: 偏强 · 信号: 持有",
+  "generated_analysis": "今日汇川技术低开低走，收盘下跌1.48%，但股价仍守住67.62元关键支撑位，振幅2.03%显示多空双方争夺激烈。成交额17.49亿元，量能保持相对活跃，说明市场关注度较高。作为工控自动化龙头，公司基本面稳健，估值处于合理区间。短期来看，股价在67-69元区间内震荡整理，若能守住67元支撑位，有望重拾升势。建议继续持有观察，等待方向明确后再做操作。\n\n风险提示: 需关注下游制造业需求波动及行业竞争加剧带来的短期调整风险。",
+  "tags": [
+    "A股",
+    "偏强",
+    "持有"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-04T14:47:03.776822+00:00",
+  "market_data": {
+    "symbols": [
+      "300124"
+    ],
+    "price_change": {
+      "price": 67.99,
+      "change_pct": -1.48,
+      "change_amt": -1.02
+    },
+    "indicators": {
+      "volume": 25631512.0,
+      "turnover": 1749215039.52,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 2.03,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "持有",
+    "risk": "需关注下游制造业需求波动及行业竞争加剧带来的短期调整风险。"
+  }
+}

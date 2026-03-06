@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "人生有很时候不需要意义",
+  "raw_content": "人生有很时候不需要意义",
+  "source_url": "https://www.bilibili.com/video/BV1oMAqzpEj9",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-05T14:28:14.616812+00:00",
+  "id": "4ee9309e-02c1-42cd-bd4d-8346af40d65a",
+  "generated_title": "人生哲理感悟类内容",
+  "generated_summary": "B站热门的人生感悟语句，探讨人生意义的主题",
+  "generated_analysis": "",
+  "tags": [
+    "人生哲理",
+    "心灵鸡汤",
+    "情感共鸣"
+  ],
+  "importance_score": 3,
+  "processed_at": "2026-03-05T14:47:31.759206+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5075068,
+    "platform": "bilibili"
+  }
+}

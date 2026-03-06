@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
+  "raw_content": "A Round Up And Comparison of 10 Open-Weight LLM Releases in Spring 2026",
+  "source_url": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-25T13:26:56+00:00",
+  "id": "6fd2d123-a95f-403f-bfec-f77bb732a986",
+  "generated_title": "2026开源大模型春季爆发：10款新架构对比",
+  "generated_summary": "汇总2026年1-2月发布的10款开源权重大型语言模型，对比其架构创新与性能特点。",
+  "generated_analysis": "2026年春季开源大模型密集发布，彰显AI领域竞争格局正在重构。10款新架构集中涌现，反映开源社区与商业巨头在基础模型层面的竞速已白热化。开源权重模式使企业得以摆脱对少数闭源API的依赖，获得更大的部署灵活性和数据掌控权，这从根本上改变了企业AI采购的决策逻辑。\n\n从行业影响看，开源模型的快速迭代将压缩闭源模型商的利润空间，同时为垂直行业应用提供更多低成本基座。企业可基于开源模型进行深度定制，尤其在数据敏感领域（如金融、医疗）将更倾向于私有化部署。竞争焦点正从单纯参数规模转向架构效率与推理成本的优化。\n\n趋势上，预计开源模型性能将在年内逼近顶级闭源水平，多模态能力成为标配而非差异化亮点。企业决策者应关注模型生态兼容性而非单一性能指标，同时加速内部AI人才储备以充分利用开源红利。开源主导的AI基础设施时代正在到来。",
+  "tags": [
+    "开源大模型",
+    "LLM",
+    "人工智能"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:25:56.991229+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

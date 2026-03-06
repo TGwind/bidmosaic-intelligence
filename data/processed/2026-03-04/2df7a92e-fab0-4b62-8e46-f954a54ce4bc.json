@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "The digital euro: awareness, adoption and household portfolios",
+  "raw_content": "Based on a series of novel experiments fielded within the ECB’s Consumer Expectations Survey, we provide evidence on the attitudes of euro area consumers towards a possible central bank digital currency (CBDC). We document substantial socio‑demographic heterogeneity in consumers’ awareness and willingness to adopt a CBDC. According to survey responses, a sizeable share of around 45% of households would be interested in potentially adopting this new asset. In a scenario where a CBDC is introduced in the euro area, consumers would allocate on average a moderate fraction of a positive wealth shock to such a new asset. Holding limits in the range of €3,000 to €10,000 would in normal times not result in significant disintermediation in the banking system. According to the survey responses, effective communication of the CBDC’s key features could increase the propensity of its adoption by consumers, but this would tend to be short-lived.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb251219~ecc26e145b.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-12-22T07:00:00+00:00",
+  "id": "2df7a92e-fab0-4b62-8e46-f954a54ce4bc",
+  "generated_title": "ECB研究：欧元区消费者对数字欧元态度调查",
+  "generated_summary": "ECB调查显示约45%欧元区家庭有兴趣采用数字欧元，消费者平均将部分财富配置于此，持有限额3000-10000欧元不会造成银行脱媒。",
+  "generated_analysis": "ECB此次调查揭示了数字欧元在欧元区市场的潜在接受度，约45%的家庭表现出兴趣，表明央行数字货币具备一定市场需求基础。从配置意愿看，消费者仅愿将部分财富配置于数字欧元，且持有限额在3000-10000欧元区间内不会引发银行脱媒，这意味着数字欧元短期内难以对传统银行业务形成显著冲击。对金融行业而言，这意味着银行在数字欧元推出初期所受影响可控，但需关注央行可能设定的持有上限对资金流向的影响。调查同时指出，有效沟通虽能短期提升接受度，但效果难以持续，这提示金融机构和监管部门在推广数字欧元时需注重长期用户教育和信任建设，而非仅依赖宣传效应。预计未来欧元区数字欧元将呈现渐进式推广态势，初期以补充性支付工具为主，对现有支付格局产生有限但渐进的影响。",
+  "tags": [
+    "央行数字货币",
+    "数字欧元",
+    "欧元区"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:46:35.328194+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

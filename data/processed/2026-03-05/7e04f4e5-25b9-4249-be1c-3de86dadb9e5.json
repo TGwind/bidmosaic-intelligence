@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "我好像买到了一只星期猫",
+  "raw_content": "我好像买到了一只星期猫",
+  "source_url": "https://www.bilibili.com/video/BV13ZAZz6EG9",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-05T07:34:30.174821+00:00",
+  "id": "7e04f4e5-25b9-4249-be1c-3de86dadb9e5",
+  "generated_title": "B站用户称疑似买到星期猫",
+  "generated_summary": "B站用户分享疑似购买到星期猫的经历，具体细节和平台信息未披露，信息量有限。",
+  "generated_analysis": "",
+  "tags": [
+    "宠物消费",
+    "消费者权益",
+    "个人分享"
+  ],
+  "importance_score": 4,
+  "processed_at": "2026-03-05T07:35:21.678025+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2071815,
+    "platform": "bilibili"
+  }
+}

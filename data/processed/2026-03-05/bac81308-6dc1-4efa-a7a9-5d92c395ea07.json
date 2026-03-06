@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Last Week in AI #333 - ChatGPT Ads, Zhipu+Huawei, Drama at Thinking Machines",
+  "raw_content": "OpenAI to test ads in ChatGPT as it burns through billions, Sequoia to invest in Anthropic, Zhipu AI breaks US chip reliance, The Drama at Thinking Machines Is Riveting Silicon Valley",
+  "source_url": "https://lastweekin.ai/p/last-week-in-ai-333-chatgpt-ads-zhipuhuawei",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-01-23T05:14:53+00:00",
+  "id": "bac81308-6dc1-4efa-a7a9-5d92c395ea07",
+  "generated_title": "OpenAI测试ChatGPT广告 红杉将投资Anthropic 智谱AI突破芯片限制",
+  "generated_summary": "OpenAI因烧钱严重将在ChatGPT测试广告；红杉资本计划投资Anthropic；智谱AI与华为合作打破美国芯片依赖；Thinking Machines引发硅谷关注。",
+  "generated_analysis": "AI行业正进入商业化与地缘博弈的关键阶段。OpenAI在ChatGPT中测试广告，揭示了即使作为行业领头羊，其每年数十亿美元的烧钱速度也令商业模式承压，这标志着AI产品从技术展示转向可持续变现的拐点。与此同时，红杉资本加注Anthropic，显示资本更青睐其“安全优先”的差异化定位，预示行业竞争格局将从技术比拼转向商业伦理与安全监管的全面竞争。\n\n智谱AI与华为合作突破芯片限制则具有更深层的战略意义。这不仅是中国AI企业应对美国技术封锁的主动突围，更预示着全球AI产业链将加速分化，形成以中美为核心的平行生态。对企业决策者而言，需关注两个趋势：一是AI应用层变现窗口已开启但竞争将日趋激烈；二是供应链安全将成为核心竞争力，建议加快多元化采购和技术自主布局。",
+  "tags": [
+    "OpenAI",
+    "Anthropic",
+    "智谱AI",
+    "商业化",
+    "投资动态"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:58:26.486807+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

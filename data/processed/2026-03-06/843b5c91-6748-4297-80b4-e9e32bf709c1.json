@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How Ricoh built a scalable intelligent document processing solution on AWS",
+  "raw_content": "This post explores how Ricoh built a standardized, multi-tenant solution for automated document classification and extraction using the AWS GenAI IDP Accelerator as a foundation, transforming their document processing from a custom-engineering bottleneck into a scalable, repeatable service.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/how-ricoh-built-a-scalable-intelligent-document-processing-solution-on-aws/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T20:42:45+00:00",
+  "id": "843b5c91-6748-4297-80b4-e9e32bf709c1",
+  "generated_title": "理光基于AWS构建可扩展智能文档处理方案",
+  "generated_summary": "介绍理光如何利用AWS生成式AI IDP加速器，构建标准化、多租户的自动化文档分类与提取解决方案。",
+  "generated_analysis": "理光此次基于AWS生成式AI IDP加速器构建智能文档处理方案，反映了传统办公设备厂商数字化转型的重要路径。文档处理长期依赖定制化开发，导致交付周期长、成本高企，难以规模化复制。理光通过引入AI驱动的标准化解决方案，将文档分类与提取从工程瓶颈转变为可扩展服务，这一转变意义重大。\n\n从行业影响看，该方案的多租户架构具有示范效应，表明文档处理服务化（SaaS化）趋势正在加速。对企业决策者而言，这意味着未来文档处理将更多以订阅制服务交付，而非一次性项目开发，降低了使用门槛。对于同样面临数字化压力的传统办公设备厂商，理光的实践提供了可参照的转型样本。\n\n趋势上，预计未来一到两年内，生成式AI在企业文档处理领域的渗透率将快速提升，智能文档处理将从头部企业向中小企业扩展，底层技术平台化与服务化将成为行业主流模式。",
+  "tags": [
+    "智能文档处理",
+    "AWS",
+    "企业数字化"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:27:06.647365+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

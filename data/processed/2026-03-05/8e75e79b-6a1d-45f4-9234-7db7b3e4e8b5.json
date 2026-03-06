@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Understanding the 4 Main Approaches to LLM Evaluation (From Scratch)",
+  "raw_content": "Multiple-Choice Benchmarks, Verifiers, Leaderboards, and LLM Judges with Code Examples",
+  "source_url": "https://magazine.sebastianraschka.com/p/llm-evaluation-4-approaches",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-10-05T11:12:32+00:00",
+  "id": "8e75e79b-6a1d-45f4-9234-7db7b3e4e8b5",
+  "generated_title": "大型语言模型评估的四大方法与代码示例",
+  "generated_summary": "本文介绍LLM评估的四种主要方法：多项选择题基准、验证器、排行榜和LLM评判器，并提供代码示例。",
+  "generated_analysis": "随着大语言模型应用场景不断扩展，模型评估已成为企业选型和部署的核心痛点。当前行业缺乏统一标准，导致企业难以客观比较不同模型性能。上述四种评估方法的出现标志着LLM评估体系正在走向成熟：多项选择题基准提供标准化量化指标，验证器确保输出合规性，排行榜形成市场竞争参考，LLM评判器则实现主观任务的自动化评估。\n\n对于行业而言，这一评估框架的建立将产生深远影响。首先，企业决策者将拥有更透明的模型选择依据，降低技术选型风险。其次，评估标准化有助于推动行业健康发展，形成优胜劣汰的竞争格局。再次，代码示例的公开降低了技术门槛，加速评估工具的普及应用。\n\n从趋势判断来看，未来LLM评估将呈现三大方向：一是多维度评估体系逐步完善，从纯性能指标转向安全性、时效性、成本效益等综合考量；二是动态评估成为主流，实时监测模型在实际业务场景中的表现；三是垂直领域专用评估标准兴起，针对金融、医疗等特定行业形成专业化评估规范。企业应密切关注这一领域进展，尽早建立内部评估能力，以应对AI应用落地的核心技术挑战。",
+  "tags": [
+    "人工智能",
+    "大型语言模型",
+    "模型评估",
+    "机器学习"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:55:43.345813+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

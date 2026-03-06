@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A Rubric-Supervised Critic from Sparse Real-World Outcomes",
+  "raw_content": "arXiv:2603.03800v1 Announce Type: new Abstract: Academic benchmarks for coding agents tend to reward autonomous task completion, measured by verifiable rewards such as unit-test success. In contrast, real-world coding agents operate with humans in the loop, where success signals are typically noisy, delayed, and sparse. How can we bridge this gap? In this paper, we propose a process to learn a \"critic\" model from sparse and noisy interaction data, which can then be used both as a reward model for either RL-based training or inference-time scaling. Specifically, we introduce Critic Rubrics, a rubric-based supervision framework with 24 behavioral features that can be derived from human-agent interaction traces alone. Using a semi-supervised objective, we can then jointly predict these rubrics and sparse human feedback (when present). In experiments, we demonstrate that, despite being trained primarily from trace-observable rubrics and sparse real-world outcome proxies, these critics improve best-of-N reranking on SWE-bench (Best@8 +15.9 over Random@8 over the rerankable subset of trajectories), enable early stopping (+17.7 with 83% fewer attempts), and support training-time data curation via critic-selected trajectories.",
+  "source_url": "https://arxiv.org/abs/2603.03800",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "ee37ea70-c5b7-4755-9fb4-ad6a8dc10336",
+  "generated_title": "AI代码代理评估新方法：基于稀疏真实数据学习批评模型",
+  "generated_summary": "提出Critic Rubrics框架，从稀疏嘈杂的人机交互数据中学习批评模型，用于RL训练和推理扩展，在SWE-bench上最佳@8提升15.9%。",
+  "generated_analysis": "这一研究揭示了当前AI代码代理评估与实际应用之间的根本性错配。传统学术基准过度依赖可验证的结果指标（如单元测试通过），忽视了真实场景中人类反馈的稀疏性、延迟性和噪声特征。Critic Rubrics框架的创新价值在于，它不再追求完美的最终结果评估，而是从人机交互轨迹中提取24个行为特征，构建可观察的过程监督信号。这一范式转变意味着代码代理的训练和评估从“结果导向”转向“过程导向”，使得强化学习真正能够在缺乏明确标签的真实开发环境中有效部署。\n\n从行业影响看，该研究将显著降低企业部署AI代码代理的门槛。通过 critic 筛选轨迹进行训练数据 curation，以及支持推理时的 early stopping 和 best-of-N 重排序，企业可以在有限的人类监督下实现更高效的资源利用。SWE-bench 上 15.9% 的最佳@8提升和 83% 尝试次数的减少，直接转化为算力成本和时间效率的优化。\n\n趋势判断：未来 1-2 年内，基于过程监督的批评模型将成为代码代理训练的标准组件。我们预计行业将出现两类分化——一是像本研究一样的 critic-as-a-service 基础设施，二是针对特定开发流程（如代码审查、调试）定制化的垂直评价体系。真正具备自我反思和持续学习能力的 AI 开发者，有望在未来 3-5 年内实现工程级应用。",
+  "tags": [
+    "人工智能",
+    "机器学习",
+    "代码生成"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T15:01:35.136729+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

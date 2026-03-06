@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Learnings from COBOL modernization in the real world",
+  "raw_content": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered coding assistant for the forward engineering. A successful modernization requires both reverse engineering and forward engineering. Learn more about COBOL in this post.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T18:16:43+00:00",
+  "id": "e9902291-14c5-4bfe-af8b-f6e89ffce1d2",
+  "generated_title": "COBOL现代化实践经验与启示",
+  "generated_summary": "AWS分享COBOL系统现代化关键要点，强调逆向工程与正向工程相结合的技术路径。",
+  "generated_analysis": "COBOL系统作为金融、政府等关键领域的基础设施，运行已逾半个世纪，其现代化转型涉及海量核心业务逻辑，风险极高。AWS此次强调逆向工程与正向工程相结合的技术路径，标志着行业从“推翻重建”向“渐进式改造”的理性回归。逆向工程实现确定性解析并产出可验证、可追溯的规格说明文档，是整个链路的关键锚点；AI辅助编程工具的引入则大幅降低了人工重构成本与错误率。\n\n对行业而言，这一方案直击企业核心痛点：既保留现有业务连续性，又为未来云原生架构铺路。预计将加速金融、医疗、政务等COBOL密集型行业的现代化进程，同时催生逆向工程工具与AI代码生成平台的增量市场需求。趋势判断上，2024-2027年将进入关键窗口期，企业需在人才断层与系统老化双重压力下做出战略抉择，而掌握确定性迁移能力的技术服务商将占据先机。",
+  "tags": [
+    "COBOL",
+    "系统现代化",
+    "AWS"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:34:01.797277+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

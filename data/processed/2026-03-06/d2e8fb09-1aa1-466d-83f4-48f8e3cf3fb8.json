@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美承认伊朗无人机攻势比想象中难对付",
+  "raw_content": "美承认伊朗无人机攻势比想象中难对付",
+  "source_url": "https://www.toutiao.com/trending/7612943229583736886/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227612943229583736886%22%2C%22hot_board_impr_id%22%3A%2220260306101517C3FE8970787A856E5938%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E6%89%BF%E8%AE%A4%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%94%BB%E5%8A%BF%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E9%9A%BE%E5%AF%B9%E4%BB%98%22%7D&rank=&style_id=40132&topic_id=7612943229583736886",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-06T02:15:17.729130+00:00",
+  "id": "d2e8fb09-1aa1-466d-83f4-48f8e3cf3fb8",
+  "generated_title": "美承认伊朗无人机攻势超预期",
+  "generated_summary": "美军方近日承认，伊朗在无人机领域的攻势远比此前预判的更加难以应对，引发对其中东军事部署的关注。",
+  "generated_analysis": "美军方此次公开承认伊朗无人机攻势超出预期，标志着中东军事平衡正在发生微妙变化。这一判断背后反映的是伊朗近年来在无人机技术上的快速突破，其精准打击能力和成本优势已对美军传统防空体系形成实质性挑战。\n\n对于防务行业而言，这一信号将产生多重影响。首先，中东地区各国对无人机及反无人机系统的采购需求将显著上升，推动相关产业链发展。其次，美军可能加大在该地区的军事存在和防御投入，为美国防务承包商带来新的订单机会。此外，无人机作战模式的成功应用可能加速全球范围内无人化作战理念的扩散。\n\n趋势判断上，预计未来一到两年内，中东地区将出现新一轮军备竞赛，各方对无人机、反无人机及综合防空系统的重视程度将大幅提升。同时，这也将促进商用无人机技术在敏感领域的应用监管收紧。企业决策者应密切关注这一地缘变化带来的防务支出趋势和区域安全格局调整。",
+  "tags": [
+    "伊朗",
+    "无人机",
+    "美国",
+    "军事",
+    "中东"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:18:18.721432+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16500079",
+    "platform": "toutiao"
+  }
+}

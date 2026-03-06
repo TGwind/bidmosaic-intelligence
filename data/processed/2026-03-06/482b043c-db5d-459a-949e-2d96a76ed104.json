@@ -1,0 +1,32 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "伊朗表示不会与美国进行谈判，特朗普赢到一半卡住了？",
+  "raw_content": "伊朗表示不会与美国进行谈判，特朗普赢到一半卡住了？",
+  "source_url": "https://www.bilibili.com/video/BV1PxAZzaE9Y",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-06T02:15:30.754943+00:00",
+  "id": "482b043c-db5d-459a-949e-2d96a76ed104",
+  "generated_title": "伊朗拒绝与美谈判 特朗普面临政治困境",
+  "generated_summary": "伊朗表明不会与美国进行谈判，分析认为特朗普在美伊关系问题上陷入僵局，面临政治挑战。",
+  "generated_analysis": "伊朗拒绝谈判反映了中东地缘博弈的深层次僵局。对企业决策者而言，此事件释放了明确信号：特朗普政府的中东政策正面临现实阻力，单纯施压策略难以奏效。未来美国可能陷入两难——继续施压将加剧地区风险，放松则可能被视为政策失败。\n\n从商业角度，需重点关注三个方面：其一，能源市场波动性将显著上升，伊朗原油供应中断风险将直接影响全球油价走势；其二，制裁政策不确定性增加，企业在伊朗及相关地区的投资并购决策需更加审慎；其三，地缘政治溢价将重新计入全球资产定价，避险资产配置逻辑将强化。\n\n趋势上，预计短期内美伊关系难有突破，双方可能进入新一轮制裁与反制裁博弈阶段。中期需关注美国国内政治变化对伊政策的影响，以及国际社会调解的可能性。对企业而言，建议在能源供应链、跨境投资和外汇风险管理上做好应急预案，密切跟踪事态发展。",
+  "tags": [
+    "美伊关系",
+    "特朗普"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:17:25.539464+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3356373,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Develop Native Multimodal Agents with Qwen3.5 VLM Using NVIDIA GPU-Accelerated Endpoints",
+  "raw_content": "Alibaba has introduced the new open source Qwen3.5 series built for native multimodal agents. The first model in this series is a ~400B parameter native...",
+  "source_url": "https://developer.nvidia.com/blog/develop-native-multimodal-agents-with-qwen3-5-vlm-using-nvidia-gpu-accelerated-endpoints/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-27T17:30:00+00:00",
+  "id": "f96dc264-b1a8-47e8-aef4-76755b9441e6",
+  "generated_title": "阿里发布Qwen3.5原生多模态Agent系列",
+  "generated_summary": "阿里推出开源Qwen3.5系列，首个模型为约4000亿参数原生多模态Agent，由NVIDIA GPU加速端点支持。",
+  "generated_analysis": "阿里此次发布Qwen3.5系列，标志着国内大模型厂商在原生多模态Agent领域的竞争正式进入白热化阶段。4000亿参数规模配合NVIDIA GPU加速，体现了阿里在模型能力与工程部署上的双重投入。开源策略则意味着企业可基于该架构快速构建垂直领域Agent应用，降低了多模态AI的应用门槛。\n\n对行业而言，此举将加速多模态Agent从概念验证向商业化落地转变。开源模式可能对闭源大模型厂商形成价格压力，同时推动垂直领域应用生态快速生长。企业决策者应关注三点趋势：一是多模态理解与推理能力的提升将拓宽AI在工业视觉、智能客服、内容生成等场景的渗透率；二是开源模型与企业私有数据的结合可能成为差异化竞争关键；三是算力需求将持续攀升，推理成本优化能力将成为厂商核心竞争力的重要组成。建议企业近期评估自身业务场景与多模态Agent的结合点，尽早布局以获取先发优势。",
+  "tags": [
+    "阿里巴巴",
+    "Qwen3.5",
+    "多模态模型",
+    "开源",
+    "NVIDIA"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:02:44.497268+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}

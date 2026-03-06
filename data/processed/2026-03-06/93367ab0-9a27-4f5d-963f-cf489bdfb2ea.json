@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+  "raw_content": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike [&#8230;]",
+  "source_url": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-23T16:00:57+00:00",
+  "id": "93367ab0-9a27-4f5d-963f-cf489bdfb2ea",
+  "generated_title": "NVIDIA将AI网络安全带入全球关键基础设施",
+  "generated_summary": "NVIDIA推出AI驱动网络安全平台，保护能源、制造、交通等关键基础设施的OT/ICS系统免受网络威胁。",
+  "generated_analysis": "随着全球关键基础设施数字化转型加速，OT（运营技术）环境与ICS（工业控制系统）正以前所未有的速度与企业网络和云端深度融合。这一趋势在提升运营效率的同时，也大幅扩展了网络攻击面。NVIDIA此次推出AI驱动的网络安全平台，正是瞄准了这一结构性风险。\n\n从行业角度看，此举标志着关键基础设施防护从传统边界防御向智能主动防御的范式转变。传统安全方案难以应对OT环境的复杂性和实时性要求，而AI驱动的动态威胁检测与响应能力将成为新的行业标准。\n\n对市场而言，这将加速网络安全技术在关键基础设施领域的渗透，相关投资有望快速放量。同时，随着地缘政治紧张局势加剧，关键基础设施的网络安全已上升为国家安全议题，相关监管要求将趋于严格。\n\n趋势判断：未来3-5年，AI原生安全解决方案将在OT/ICS领域快速普及，NVIDIA的入局可能重塑行业竞争格局，同时也为传统安全厂商带来转型压力。企业决策者需将网络安全纳入数字化战略的核心考量，而非事后补丁。",
+  "tags": [
+    "人工智能",
+    "网络安全",
+    "关键基础设施",
+    "工业控制系统"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:27:43.971053+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

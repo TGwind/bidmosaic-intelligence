@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "What regional data tell us about the euro area Phillips curve",
+  "raw_content": "Using regional data for 11 euro area countries from 1999 to 2023, instead of country-level data, we find that inflation still responds to economic slack, but this relationship is more modest and largely shaped by inflation expectations. This implies that traditional demand-side central bank policies may have limited direct effects on inflation, highlighting that anchoring expectations is essential for effective monetary policy transmission.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb260223~3e8fa44e9f.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-23T07:00:00+00:00",
+  "id": "fd7107cb-f375-490b-b889-24f84eb4a576",
+  "generated_title": "欧元区菲利普斯曲线区域数据分析",
+  "generated_summary": "ECB研究表明1999-2023年欧元区通胀仍受经济松弛影响，但关系温和且主要由通胀预期驱动，传统货币政策直接影响有限。",
+  "generated_analysis": "这一研究为理解欧元区通胀动态提供了重要新视角。传统菲利普斯曲线认为通胀与经济松弛呈反向关系，央行可通过收紧货币抑制通胀。但ECB基于1999-2023年区域数据的分析表明，通胀与经济松弛的关系已显著弱化，通胀预期成为主导因素。这意味着央行通过利率调整等传统工具对通胀的直接影响正在下降。\n\n对企业决策者而言，这意味着理解通胀预期的演变比单纯关注产出缺口更为关键。通胀预期的锚定程度将直接影响企业定价策略和工资定价行为。当前环境下，央行沟通策略、前瞻指引以及公众对央行抗通胀决心的信任度，将成为货币政策有效性的关键变量。\n\n从趋势判断看，预计欧洲央行将更加重视预期管理工具，包括加强政策透明度、提升沟通前瞻性等。同时，这也解释了为何在当前高通胀环境下，货币政策收紧的传导效果存在滞后性。企业宜将通胀预期纳入中长期战略规划，密切监测央行政策信号变化。",
+  "tags": [
+    "货币政策",
+    "通胀预期",
+    "菲利普斯曲线",
+    "欧洲央行"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T15:02:53.418514+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

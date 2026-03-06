@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stablecoin inflows rebound to $1.7B as Washington battles over yield rules",
+  "raw_content": "Messari said weekly stablecoin inflows rose 414% to $1.7 billion as debate over yield-bearing stablecoins continued to stall US crypto market structure talks.",
+  "source_url": "https://cointelegraph.com/news/stablecoin-inflows-rebound-to-1-7b-as-washington-battles-over-yield-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T09:44:04+00:00",
+  "id": "34623b1c-3c3e-40a1-98b7-5cc4dc787eb4",
+  "generated_title": "稳定币周流入激增414%至17亿美元，华盛顿陷入收益规则监管僵局",
+  "generated_summary": "Messari数据显示美国稳定币资金流入大幅回升，但围绕带收益稳定币的监管辩论持续阻碍市场结构立法进程。",
+  "generated_analysis": "本周稳定币资金流入大幅回升414%至17亿美元，反映出市场信心正在修复，同时投资者对稳定币作为加密经济基础设施的需求保持强劲。这一流入规模是近几个季度以来的高位，表明即便在监管环境不明朗的情况下，机构与个人投资者仍视稳定币为重要的资金配置工具。\n\n然而，华盛顿围绕带收益稳定币的监管僵局正在拖慢美国加密市场结构立法的进程。监管机构与业界对收益生成机制、储备资产透明度及消费者保护标准存在分歧，导致市场参与者面临合规路径不清晰的问题。这种不确定性可能使美国市场相对于新加坡、欧盟等已建立相对明确监管框架的地区失去竞争优势。\n\n对于企业决策者而言，当前应采取“双轨策略”：一方面抓住市场资金回流的机会，优化稳定币产品矩阵和支付场景应用；另一方面密切跟踪国会立法动态，提前做好合规准备，尤其是针对可能出台的收益限制和储备披露要求。中长期看，监管框架的最终落定将带来行业整合，具备合规能力的企业有望获得更大市场份额。",
+  "tags": [
+    "稳定币",
+    "监管政策",
+    "加密市场",
+    "美国"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:49:43.552808+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

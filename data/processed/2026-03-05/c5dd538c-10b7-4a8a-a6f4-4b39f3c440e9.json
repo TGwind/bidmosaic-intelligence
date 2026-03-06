@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "I checked out one of the biggest anti-AI protests yet",
+  "raw_content": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T12:55:20+00:00",
+  "id": "c5dd538c-10b7-4a8a-a6f4-4b39f3c440e9",
+  "generated_title": "伦敦反AI抗议浪潮 - 科技中心集会呼吁暂停发展",
+  "generated_summary": "2月28日数百名反AI抗议者聚集伦敦King's Cross科技区，在OpenAI、Meta、DeepMind总部前示威，要求暂停AI开发。",
+  "generated_analysis": "此次伦敦反AI抗议事件具有重要的风向标意义。数百名示威者聚集在OpenAI、Meta、DeepMind三大AI巨头英国总部前，高呼\"切断电源\"等口号，反映出公众对AI技术快速发展带来的不确定性、不公平感以及潜在风险的深度焦虑。\"Stop the slop\"（停止垃圾内容）这一口号尤其值得注意，它暗示了人们对AI生成内容质量失控的担忧。\n\n从行业影响看，此次抗议将三重压力叠加于AI行业：一是监管加速收紧的预期进一步增强，欧盟AI法案已先行一步，英国可能被迫跟进；二是企业声誉风险上升，公众对技术巨头的信任度正在被侵蚀；三是投资者可能更加审慎评估AI项目的社会可行性。\n\n趋势判断：2025年将成为AI治理的关键年份。我们预计将看到更多由公众驱动的AI监管呼声，企业需要从\"技术优先\"转向\"负责任AI\"战略，否则将面临日益加剧的社会阻力。对于决策者而言，建立透明、可解释的AI系统，主动回应公众关切，将是维持行业可持续发展的必要条件。",
+  "tags": [
+    "人工智能",
+    "反AI抗议",
+    "科技伦理",
+    "伦敦"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:59:14.219850+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

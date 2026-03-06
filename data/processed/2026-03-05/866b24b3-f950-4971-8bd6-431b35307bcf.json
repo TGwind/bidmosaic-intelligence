@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Portwell Engineering Toolkits",
+  "raw_content": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to escalate privileges or cause a denial-of-service condition. The following versions of Portwell Engineering Toolkits are affected: Portwell Engineering Toolkits 4.8.2 CVSS Vendor Equipment Vulnerabilities v3 8.8 Portwell Portwell Engineering Toolkits Improper Restriction of Operations within the Bounds of a Memory Buffer Background Critical Infrastructure Sectors: Critical Manufacturing, Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-2026-3437 An Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability in Portwell Engineering Toolkits version 4.8.2 could allow a local authenticated attacker to read and write to arbitrary memory via the Portwell Engineering Toolkits driver. Successful exploitation of this vulnerability could result in escalation of privileges or cause a denial-of-service condition. View CVE Details Affected Products Portwell Engineering Toolkits Vendor:Portwell Product Version:Portwell Portwell Engineering Toolkits: 4.8.2 Product Status:known_affected Remediations Vendor fixPortwell has not responded to requests to work with CISA to mitigate this vulnerability. Users of affected versions of Portwell Engineering Toolkits are invited to contact Portwell customer support (https://portwell.com/support.php) for additional information. Relevant CWE: CWE-119 Improper Restriction of Operations within the Bounds of a Memory Buffer Metrics CVSS Version Base Score Base Severity Vector String 3.1 8.8 HIGH CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H Acknowledgments Jason Huang of Cyber Threat &amp; Product Defense Center of TXOne Networks Inc. reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy &amp; Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability, such as: Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. This vulnerability is not exploitable remotely. Revision History Initial Release Date: 2026-03-03 Date Revision Summary 2026-03-03 1 Initial Publication Legal Notice and Terms of Use",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-04",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T12:00:00+00:00",
+  "id": "866b24b3-f950-4971-8bd6-431b35307bcf",
+  "generated_title": "CISA警告Portwell工程工具包本地提权漏洞",
+  "generated_summary": "Portwell Engineering Toolkits 4.8.2存在内存缓冲区越界漏洞，可被本地认证攻击者利用提权或导致DoS，CVSS评分8.8，影响全球关键制造和能源行业。",
+  "generated_analysis": "此漏洞暴露了关键基础设施领域一个严峻的供应链安全问题。Portwell作为台湾工业控制设备供应商，其工程工具包被广泛应用于全球关键制造和能源行业，CVSS 8.8的高危评分表明该漏洞可被本地认证攻击者利用进行权限提升或导致系统瘫痪，潜在后果包括生产中断、运营数据泄露甚至物理设备损坏。\n\n更深层的问题在于Portwell未响应CISA的协调请求，这反映出当前OT设备供应商在漏洞响应和生命周期支持方面的严重不足。鉴于该漏洞涉及内存缓冲区越界（CWE-119）这一经典但危险的底层缺陷，且可被用于持久化攻击，建议相关企业立即盘点受影响设备资产，在厂商补丁发布前采取网络隔离、最小化暴露面等补偿性措施。此事件也警示企业需重新评估OT设备供应商的安全响应能力和长期支持承诺，关键基础设施的韧性建设已迫在眉睫。",
+  "tags": [
+    "网络安全",
+    "CISA",
+    "关键基础设施",
+    "漏洞",
+    "工业安全"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:55:13.094734+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+  "raw_content": "Minutes of the Federal Open Market Committee, December 9–10, 2025",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251230a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-12-30T19:00:00+00:00",
+  "id": "8d8f9f4e-2f56-498b-b15a-9710a38ade3d",
+  "generated_title": "美联储FOMC 2025年12月会议纪要发布",
+  "generated_summary": "美联储公布12月9-10日FOMC会议纪要，可能透露未来货币政策走向及利率决策线索",
+  "generated_analysis": "",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "FOMC",
+    "利率"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:56:00.938266+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

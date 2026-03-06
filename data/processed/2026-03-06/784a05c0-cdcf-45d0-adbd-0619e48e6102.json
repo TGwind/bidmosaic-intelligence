@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+  "raw_content": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+  "source_url": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T23:14:04+00:00",
+  "id": "784a05c0-cdcf-45d0-adbd-0619e48e6102",
+  "generated_title": "AI语音代理降低并购尽职调查成本",
+  "generated_summary": "初创公司DiligenceSquared通过AI语音代理技术采访目标公司客户，帮助PE公司以更低成本完成并购尽职调查。",
+  "generated_analysis": "这一事件反映了私募股权行业在成本压力下的数字化转型趋势。传统并购尽职调查依赖大型咨询公司完成客户访谈，耗时长且成本高昂，通常占整体尽调费用的15%-20%。DiligenceSquared将AI语音代理应用于客户访谈环节，直接切入了尽调流程中人力密集且重复性高的痛点。\n\n对行业的影响主要体现在两个层面：一是PE公司可通过降低尽调成本提升中小规模并购项目的财务可行性此前因尽调费用过高而被迫放弃的交易现在可能变得可行；二是传统咨询公司面临价格竞争压力，可能被迫加速拥抱AI技术或重新定位服务价值。\n\n趋势判断上，AI在尽职调查领域的渗透将持续加速，从客户访谈扩展至财务数据异常检测、合同风险识别等场景。3-5年内，AI辅助尽调可能成为行业标配，但高价值的战略判断和复杂交易结构设计仍需人类专家主导。建议PE机构密切关注AI尽调工具的准确性验证和合规边界，在效率提升与风险控制间取得平衡。",
+  "tags": [
+    "人工智能",
+    "并购",
+    "金融科技"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:26:33.429909+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

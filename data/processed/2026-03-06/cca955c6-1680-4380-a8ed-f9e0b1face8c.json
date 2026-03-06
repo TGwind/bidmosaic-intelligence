@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Financial Market Applications of LLMs",
+  "raw_content": "The AI revolution drove frenzied investment in both private and public companies and captured the public&#x2019;s imagination in 2023. Transformational consumer products like ChatGPT are powered by Large Language Models (LLMs) that excel at modeling sequences of tokens that represent words or parts of words [2]. Amazingly, structural",
+  "source_url": "https://thegradient.pub/financial-market-applications-of-llms/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2024-04-20T17:57:39+00:00",
+  "id": "cca955c6-1680-4380-a8ed-f9e0b1face8c",
+  "generated_title": "LLM在金融市场应用：2023年AI投资热潮分析",
+  "generated_summary": "文章探讨2023年AI革命驱动下，大型语言模型在金融市场中的应用潜力和投资趋势。",
+  "generated_analysis": "",
+  "tags": [
+    "AI",
+    "LLM",
+    "金融科技",
+    "投资"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:31:51.122927+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

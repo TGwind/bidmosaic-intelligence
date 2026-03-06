@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Building specialized AI without sacrificing intelligence: Nova Forge data mixing in action",
+  "raw_content": "In this post, we share results from the AWS China Applied Science team's comprehensive evaluation of Nova Forge using a challenging Voice of Customer (VOC) classification task, benchmarked against open-source models.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T19:32:47+00:00",
+  "id": "57bd855b-2381-484c-b0a9-ca27206e93cd",
+  "generated_title": "构建专用AI不牺牲智能：Nova Forge数据混合实战",
+  "generated_summary": "AWS中国应用科学团队评估Nova Forge工具，在客户声音分类任务中对比开源模型，展示数据混合技术效果。",
+  "generated_analysis": "此次评估揭示了当前企业AI应用的核心痛点：在特定业务场景中，通用开源模型往往难以满足精度要求，而完全定制化又成本高昂。AWS通过Nova Forge展示的数据混合技术，本质上是在专用性与智能之间寻找平衡点——利用领域特定数据对基础模型进行增强，而非从头训练。\n\n从行业角度看，这一评估结果对企业的AI选型策略具有重要参考价值。随着企业落地AI的需求从概念验证转向生产部署，如何在控制成本的前提下获得足够的任务表现，成为决策关键。Nova Forge代表的云服务模式，相比企业自建开源方案，在部署效率、运维成本和性能保障方面可能更具优势。\n\n预计未来一到两年，专有AI服务与开源模型的竞争将更加激烈，企业将更加注重“数据混合”能力的评估而非单纯比较模型参数规模。对于决策者而言，关键问题已从“是否使用AI”转向“如何高效获取场景智能”，这将推动AI基础设施服务的持续增长。",
+  "tags": [
+    "人工智能",
+    "机器学习",
+    "AWS",
+    "模型评测"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:24:22.328329+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

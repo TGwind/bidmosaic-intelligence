@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "CBP Tapped Into the Online Advertising Ecosystem To Track Peoples’ Movements",
+  "raw_content": "An internal DHS document obtained by 404 Media shows for the first time CBP used location data sourced from the online advertising industry to track phone locations. ICE has bought access to similar tools.",
+  "source_url": "https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T14:03:26+00:00",
+  "id": "b8cd3c7e-05b5-4d53-9a49-5ee9418e2314",
+  "generated_title": "美国海关被曝利用在线广告数据追踪民众位置",
+  "generated_summary": "DHS内部文件首次披露，CBP通过在线广告产业获取位置数据追踪手机，ICE已购买类似工具。",
+  "generated_analysis": "",
+  "tags": [
+    "隐私监控",
+    "位置数据",
+    "政府调查",
+    "美国"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:31:06.429056+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

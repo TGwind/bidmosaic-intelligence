@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美国国土安全部长被解职",
+  "raw_content": "美国国土安全部长被解职",
+  "source_url": "https://www.toutiao.com/trending/7613199628414156863/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613199628414156863%22%2C%22hot_board_impr_id%22%3A%2220260306101517C3FE8970787A856E5938%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%9C%9F%E5%AE%89%E5%85%A8%E9%83%A8%E9%95%BF%E8%A2%AB%E8%A7%A3%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7613199628414156863",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-06T02:15:17.729127+00:00",
+  "id": "d4f5cfa4-bcd9-4247-90cb-0b3dca0cb7c3",
+  "generated_title": "美国国土安全部长被解职",
+  "generated_summary": "美国国土安全部长被解职，具体原因和继任人选待公布。",
+  "generated_analysis": "美国国土安全部长被解职这一事件反映出政府内部可能存在政策执行分歧或管理协调问题。国土安全部作为美国核心安全职能部门，主管边境管控、反恐、网络安全、应急管理等关键领域，部长人选的变动往往意味着安全政策取向的调整。\n\n从行业影响来看，这一人事变动可能带来几个方面的波动：首先，国土安全相关承包商和安防企业可能面临政策调整的不确定性，尤其是边境安防、监控技术、网络安全等细分领域；其次，相关领域的投资决策可能会暂时观望，等待新任部长到位后政策走向明朗；再者，州级安全合作机制可能出现衔接过渡期。\n\n趋势判断方面，预计短期内该部门工作重点将保持稳定以确保国家安全运作连续性，但中长期可能迎来政策微调。新任部长的政策立场将成为行业关注的焦点，特别是其在边境政策、网络安全战略、反恐方向上的取向。建议相关企业密切关注人事动态，提前做好预案以应对可能的政策变化。",
+  "tags": [
+    "美国政治",
+    "政府人事",
+    "国土安全"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:18:38.529092+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18235408",
+    "platform": "toutiao"
+  }
+}

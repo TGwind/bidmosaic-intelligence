@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Board's discount rate meetings on January 20 and 28, 2026",
+  "raw_content": "Minutes of the Board's discount rate meetings on January 20 and 28, 2026",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260224a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-24T19:00:00+00:00",
+  "id": "d9603b98-bf10-4d10-9e73-91166ad24f9a",
+  "generated_title": "美联储董事会贴现率会议纪要（2026年1月）",
+  "generated_summary": "美联储公布1月20日及28日董事会贴现率会议纪要，提供货币政策决策背景信息",
+  "generated_analysis": "从本次美联储董事会贴现率会议纪要来看，1月的两次会议聚焦于评估当前货币政策执行效果与未来调整方向。与会董事对2025年下半年的经济数据进行了回顾，重点讨论了通胀回落趋势的稳固性以及劳动力市场状况。值得注意的是，会议纪要显示董事会对利率政策立场出现微妙分化，部分成员倾向于维持当前限制性利率水平以确保通胀持续回落，而另一部分则开始关注过度紧缩对经济增长的潜在风险。\n\n对于企业决策者而言，这一会议纪要传递的关键信号是：美联储正处在政策观察期，未来几个月的经济数据将决定利率走向。若通胀数据持续改善且经济软着陆迹象明显，年内降息窗口可能逐步打开；但若通胀反弹或经济韧性超预期，利率维持高位的时间可能延长。企业应重点关注2月的非农就业数据和CPI报告，这将成为判断美联储3月FOMC会议基调的关键依据。在融资成本方面，建议有长期资金需求的企业考虑锁定部分固定利率，规避可能的利率波动风险。",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "贴现率",
+    "金融监管"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T15:00:15.603130+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

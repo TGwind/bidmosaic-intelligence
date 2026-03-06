@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -22,9 +23,17 @@ def load_feeds() -> list[dict]:
     with open(FEEDS_CONFIG) as f:
         cfg = yaml.safe_load(f)
 
+    defaults = cfg.get("defaults", {})
     feeds = []
-    for _category, feed_list in cfg.get("feeds", {}).items():
-        feeds.extend(feed_list)
+    for category, feed_list in cfg.get("feeds", {}).items():
+        for feed in feed_list:
+            merged = {**defaults, **feed}
+            if not merged.get("enabled", True):
+                continue
+            merged["category"] = category
+            feeds.append(merged)
+
+    feeds.sort(key=lambda item: item.get("authority_score", 0), reverse=True)
     return feeds
 
 
@@ -57,26 +66,53 @@ def parse_entry(entry: dict, feed_meta: dict) -> IntelligenceItem:
         domain=feed_meta.get("domain", ""),
         data_type="news",
         collected_at=published,
+        metadata={
+            "feed_url": feed_meta.get("url", ""),
+            "category": feed_meta.get("category", ""),
+            "source_type": feed_meta.get("source_type", "media"),
+            "quality_tier": feed_meta.get("quality_tier", "standard"),
+            "authority_score": feed_meta.get("authority_score", 0),
+        },
     )
 
 
+MAX_WORKERS = 10
+
+
+def _fetch_feed(feed_meta: dict) -> list[IntelligenceItem]:
+    """Fetch a single RSS feed and return parsed items."""
+    url = feed_meta["url"]
+    max_entries = int(feed_meta.get("max_entries", 20))
+    print(
+        "Fetching: "
+        f"{feed_meta['name']} "
+        f"[score={feed_meta.get('authority_score', 0)}, "
+        f"type={feed_meta.get('source_type', 'media')}] "
+        f"({url})",
+        flush=True,
+    )
+    items = []
+    try:
+        parsed = feedparser.parse(url)
+        for entry in parsed.entries[:max_entries]:
+            item = parse_entry(entry, feed_meta)
+            if item.raw_title and item.source_url:
+                items.append(item)
+        print(f"  -> {len(parsed.entries)} entries found", flush=True)
+    except Exception as e:
+        print(f"  -> ERROR: {e}", flush=True)
+    return items
+
+
 def collect_all() -> list[IntelligenceItem]:
-    """Collect from all configured RSS feeds."""
+    """Collect from all configured RSS feeds concurrently."""
     feeds = load_feeds()
     all_items: list[IntelligenceItem] = []
 
-    for feed_meta in feeds:
-        url = feed_meta["url"]
-        print(f"Fetching: {feed_meta['name']} ({url})")
-        try:
-            parsed = feedparser.parse(url)
-            for entry in parsed.entries[:20]:  # max 20 per feed
-                item = parse_entry(entry, feed_meta)
-                if item.raw_title and item.source_url:
-                    all_items.append(item)
-            print(f"  -> {len(parsed.entries)} entries found")
-        except Exception as e:
-            print(f"  -> ERROR: {e}")
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {executor.submit(_fetch_feed, feed_meta): feed_meta for feed_meta in feeds}
+        for future in as_completed(futures):
+            all_items.extend(future.result())
 
     return all_items
 

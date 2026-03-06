@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Last Week in AI #336 - Sonnet 4.6, Gemini 3.1 Pro, Anthropic vs Pentagon",
+  "raw_content": "Anthropic releases Sonnet 4.6, Google Rolls Out Latest AI Model Gemini 3.1 Pro, Pentagon threatens to cut off Anthropic in AI safeguards dispute",
+  "source_url": "https://lastweekin.ai/p/last-week-in-ai-336-sonnet-46-gemini",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-24T11:43:23+00:00",
+  "id": "9b79fbcf-64e0-4ac5-8d80-be7113b70136",
+  "generated_title": "AI模型双雄更新 Anthropic谷歌推新 五角大楼施压",
+  "generated_summary": "Anthropic发布Sonnet 4.6，Google推出Gemini 3.1 Pro，五角大楼因AI安全争议威胁切断与Anthropic合作",
+  "generated_analysis": "AI模型竞争格局正在发生深刻变化。Anthropic与Google同日更新产品线，标志着行业进入能力竞赛新阶段，头部企业的技术迭代速度持续加快。然而，五角大楼与Anthropic的合作争议更具风向标意义——这不仅是商业问题，更是AI安全治理政治化的典型信号。\n\n对企业决策者而言，三点启示值得关注：第一，政府对AI安全的监管力度正在升级，未来合规成本将显著增加，尤其涉及敏感领域的应用；第二，AI供应商的政府市场布局面临政策不确定性，供应链多元化成为必要选择；第三，模型能力差距可能因企业战略选择而扩大，Anthropic因安全争议受限的同时，Google等竞争对手可能获得更多政府合作机会。\n\n趋势判断：未来1-2年内，AI行业将呈现“技术加速与监管收紧并行”的特征。企业需在模型应用与风险管理间建立更成熟的平衡机制，同时关注地缘政治因素对AI产业链的深层影响。",
+  "tags": [
+    "AI模型",
+    "行业竞争",
+    "政策监管"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:56:21.766690+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

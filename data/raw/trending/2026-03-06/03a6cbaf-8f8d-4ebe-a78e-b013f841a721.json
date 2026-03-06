@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "特朗普刺杀哈梅内伊，伊朗要变天了吗？世界会怎么变？",
+  "raw_content": "一键三连，推荐给更多的朋友！",
+  "source_url": "https://www.bilibili.com/video/BV183Pjz9E5h",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:30.754962+00:00",
+  "id": "03a6cbaf-8f8d-4ebe-a78e-b013f841a721",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 7858761,
+    "platform": "bilibili"
+  }
+}

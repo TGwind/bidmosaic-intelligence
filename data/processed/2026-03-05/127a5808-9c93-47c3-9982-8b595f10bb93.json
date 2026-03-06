@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Specification-Driven Generation and Evaluation of Discrete-Event World Models via the DEVS Formalism",
+  "raw_content": "arXiv:2603.03784v1 Announce Type: new Abstract: World models are essential for planning and evaluation in agentic systems, yet existing approaches lie at two extremes: hand-engineered simulators that offer consistency and reproducibility but are costly to adapt, and implicit neural models that are flexible but difficult to constrain, verify, and debug over long horizons. We seek a principled middle ground that combines the reliability of explicit simulators with the flexibility of learned models, allowing world models to be adapted during online execution. By targeting a broad class of environments whose dynamics are governed by the ordering, timing, and causality of discrete events, such as queueing and service operations, embodied task planning, and message-mediated multi-agent coordination, we advocate explicit, executable discrete-event world models synthesized directly from natural-language specifications. Our approach adopts the DEVS formalism and introduces a staged LLM-based generation pipeline that separates structural inference of component interactions from component-level event and timing logic. To evaluate generated models without a unique ground truth, simulators emit structured event traces that are validated against specification-derived temporal and semantic constraints, enabling reproducible verification and localized diagnostics. Together, these contributions produce world models that are consistent over long-horizon rollouts, verifiable from observable behavior, and efficient to synthesize on demand during online execution.",
+  "source_url": "https://arxiv.org/abs/2603.03784",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "127a5808-9c93-47c3-9982-8b595f10bb93",
+  "generated_title": "基于DEVS形式主义的离散事件世界模型规范驱动生成与评估",
+  "generated_summary": "提出结合LLM与DEVS形式主义生成离散事件世界模型的方法，实现可验证、可在在线执行时适配的智能体规划系统。",
+  "generated_analysis": "该研究针对智能体系统中世界模型构建的核心难题，提出了结合大语言模型与DEVS形式主义的新范式。当前行业面临两极困境：手工设计的模拟器虽具一致性与可复现性，但适应性成本高昂；隐式神经模型灵活却难以约束验证。该方法瞄准离散事件驱动的环境（如排队服务、具身任务规划、多智能体协调），通过分阶段LLM管道将自然语言规范直接转化为可执行的世界模型，实现了显式模拟器的可靠性与学习模型的灵活性兼得。其验证机制通过结构化事件轨迹与规范导出的时序语义约束相匹配，突破了无唯一ground truth情况下的评估难题。\n\n对于企业决策者而言，此方法意味着：智能体系统的开发成本与调试周期将大幅缩短，尤其适用于需要长时域规划且对可解释性有严格要求的场景（如工业自动化、机器人控制、分布式系统调度）。在线执行时的动态适配能力使系统能够实时响应环境变化，增强了实际部署的鲁棒性。预计未来3-5年内，基于形式化规范的世界模型生成将成为AI工程化基础设施的关键组件，推动智能体从实验原型向工业级可靠系统加速演进。",
+  "tags": [
+    "世界模型",
+    "DEVS形式主义",
+    "离散事件模拟",
+    "LLM应用",
+    "智能体系统"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:04.657609+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

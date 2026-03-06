@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "ATLAS: Practical scaling laws for multilingual models",
+  "raw_content": "Generative AI",
+  "source_url": "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-01-27T18:58:00+00:00",
+  "id": "760a0505-641a-4c84-b050-9a548c2edba1",
+  "generated_title": "Google发布ATLAS多语言模型扩展定律研究",
+  "generated_summary": "Google Research发布ATLAS研究，提出多语言大语言模型的实用扩展定律，为AI模型训练提供理论指导。",
+  "generated_analysis": "Google发布的ATLAS研究具有重要意义。它首次系统性地提出了多语言大语言模型的扩展定律，为模型训练提供了可预测的理论框架。这一研究解决了当前AI开发中的关键痛点——即在大规模投入资源前难以准确评估模型性能和投入产出比。\n\n对行业而言，ATLAS的研究成果将产生深远影响。首先，它能帮助企业更精准地进行资源规划，避免盲目投入导致的浪费。其次，多语言能力的理论指导将加速国际化AI应用的落地。对于正在布局AI的决策者而言，这意味着可以更低风险地进行大模型投入决策。\n\n从趋势判断，随着扩展定律的逐步验证和应用，AI行业将进入更加理性的发展阶段。企业将更加重视投入产出比，而非单纯追求参数规模。多语言模型可能成为下一阶段竞争焦点，掌握相关技术和数据的企业将获得竞争优势。",
+  "tags": [
+    "人工智能",
+    "大语言模型",
+    "学术研究",
+    "Google"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:26:18.011837+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

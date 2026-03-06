@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Hajime Takata: Economic activity, prices and monetary policy in Japan",
+  "raw_content": "Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Kyoto, 26 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-05T14:25:38.032265+00:00",
+  "id": "4c88730d-7d9b-4284-8b6b-4271d72cc5e9",
+  "generated_title": "日本央行波多野一：经济活动、通胀与货币政策展望",
+  "generated_summary": "日本央行政策委员会成员波多野一就日本经济现状、通胀压力及货币政策走向发表演讲，强调平衡增长与物价稳定。",
+  "generated_analysis": "此次演讲反映了日本央行在通胀回升背景下对货币政策正常化的审慎态度。波多野一强调“平衡增长与物价稳定”，暗示日本央行正面临退出超宽松政策的两难抉择：一方面需应对通胀压力，另一方面又担忧过度收紧抑制经济复苏。\n\n从市场影响看，若日本央行逐步退出负利率政策，将推动日元升值并影响日本股市估值，同时可能引发全球套利交易平仓，对新兴市场资金流向产生连锁反应。对于日本企业而言，融资成本上升将压缩利润空间，尤其是对利率敏感的房地产和金融行业。\n\n趋势判断上，预计日本央行将采取“渐进式”正常化路径，短期内存量宽松政策延续，但可能在2026年晚些时候小幅调整收益率曲线控制（YYC）政策。对于跨国企业，建议密切关注日元走势和日本消费复苏节奏，提前做好汇率对冲和供应链调整预案。",
+  "tags": [
+    "日本央行",
+    "货币政策",
+    "通胀",
+    "经济展望"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:42.490501+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

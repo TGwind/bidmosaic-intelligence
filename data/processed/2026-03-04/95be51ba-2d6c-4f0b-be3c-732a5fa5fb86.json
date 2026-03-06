@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy",
+  "raw_content": "Algorithms & Theory",
+  "source_url": "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-04T15:14:00+00:00",
+  "id": "95be51ba-2d6c-4f0b-be3c-732a5fa5fb86",
+  "generated_title": "顺序注意力：AI模型轻量化新方法",
+  "generated_summary": "Google Research提出顺序注意力机制，可在保持精度的同时显著降低AI模型的计算成本和参数量。",
+  "generated_analysis": "这一技术进展标志着AI轻量化领域的重要突破。传统Transformer架构的自注意力机制计算复杂度为O(n²)，随着模型规模增长，推理成本已成为制约AI大规模落地的关键瓶颈。Google Research提出的顺序注意力机制通过重构注意力计算方式，在降低计算复杂度的同时保持模型精度，为行业提供了新的技术路径。\n\n从商业视角看，该创新将产生三层影响：首先，显著降低企业AI部署的算力门槛，中小企业将能够以更低成本使用大模型能力；其次，推动AI向边缘端迁移，加速物联网、智能终端等场景的智能化进程；再次，可能重塑AI芯片需求格局，对专用推理芯片提出新的设计要求。\n\n展望未来，轻量化将成为AI技术发展的核心主线之一。预计三至五年内，模型效率提升将与参数规模增长同等重要，兼顾精度与效率的“高效基础模型”将成为行业主流。对于企业决策者而言，关注并布局轻量化技术路线，将是把握AI规模化落地机遇的关键战略方向。",
+  "tags": [
+    "注意力机制",
+    "模型优化",
+    "Google研究"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:50:08.276468+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

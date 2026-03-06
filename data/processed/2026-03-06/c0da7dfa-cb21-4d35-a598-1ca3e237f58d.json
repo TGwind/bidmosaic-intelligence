@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How LLMs Cite and Why It Matters: A Cross-Model Audit of Reference Fabrication in AI-Assisted Academic Writing and Methods to Detect Phantom Citations",
+  "raw_content": "arXiv:2603.03299v1 Announce Type: new Abstract: Large language models (LLMs) have been noted to fabricate scholarly citations, yet the scope of this behavior across providers, domains, and prompting conditions remains poorly quantified. We present one of the largest citation hallucination audits to date, in which 10 commercially deployed LLMs were prompted across four academic domains, generating 69,557 citation instances verified against three scholarly databases (namely, CrossRef, OpenAlex, and Semantic Scholar). Our results show that the observed hallucination rates span a fivefold range (between 11.4% and 56.8%) and are strongly shaped by model, domain, and prompt framing. Our results also show that no model spontaneously generates citations when unprompted, which seems to establish hallucination as prompt-induced rather than intrinsic. We identify two practical filters: 1) multi-model consensus (with more than 3 LLMs citing the same work yields 95.6% accuracy, a 5.8-fold improvement), and 2) within-prompt repetition (with more than 2 replications yields 88.9% accuracy). In addition, we present findings on generational model tracking, which reveal that improvements are not guaranteed when deploying newer LLMs, and on capacity scaling, which appears to reduce hallucination within model families. Finally, a lightweight classifier trained solely on bibliographic string features is developed to classify hallucinated citations from verified citations, achieving AUC 0.876 in cross-validation and 0.834 in LOMO generalization (without querying any external database). This classifier offers a pre-screening tool deployable at inference time.",
+  "source_url": "https://arxiv.org/abs/2603.03299",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "c0da7dfa-cb21-4d35-a598-1ca3e237f58d",
+  "generated_title": "大型语言模型引用幻觉审计：跨模型伪造率分析与检测",
+  "generated_summary": "研究测试10个LLM生成69557条引用，发现幻觉率11.4%-56.8%，提出多模型共识检测方法准确率达95.6%。",
+  "generated_analysis": "该研究揭示了当前主流LLM在学术引用生成中普遍存在的伪造问题，幻觉率跨度从11.4%至56.8%，意味着即使是最先进的模型仍有超过十分之一的引用属于虚构。这一发现对依赖AI进行文献综述、学术写作或科研辅助的企业和机构具有重要警示意义。\n\n从市场影响看，该研究直接冲击了AI辅助科研工具的商业信任基础。企业若将此类功能嵌入产品，需重新评估法律风险与声誉风险，尤其在医疗、法律等需严谨引用的领域。值得注意的是，研究证实幻觉由提示诱导而非模型固有特性，这为开发者提供了明确的改进方向。\n\n趋势判断上，多模型共识检测和轻量级分类器（无需外部数据库即可达到0.876 AUC）提供了可落地的缓解方案。预计未来一年内，学术AI产品将普遍集成引用验证模块，而模型厂商亦将把引用准确性纳入核心竞争指标。对于决策者，建议优先评估供应商的引用真实性保障机制，避免盲目追新。",
+  "tags": [
+    "人工智能",
+    "NLP",
+    "学术研究"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:31:16.234567+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

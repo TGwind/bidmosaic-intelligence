@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "万亿级多模态大模型Yuan3.0 Ultra正式开源，加速企业级Agent落地",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/Lqh9XKP0zo6RqlMMkLhu?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T17:11:04+00:00",
+  "id": "e0b30ef4-701e-417a-be15-fde008fb7336",
+  "generated_title": "Yuan3.0 Ultra万亿多模态模型开源",
+  "generated_summary": "国产万亿参数多模态大模型Yuan3.0 Ultra宣布开源，旨在加速企业级Agent应用落地",
+  "generated_analysis": "Yuan3.0 Ultra万亿参数多模态模型开源标志着国产大模型发展的重要里程碑。继Yuan系列模型持续迭代后，此次开源策略体现了国内AI企业生态构建思维的成熟——通过开放核心能力降低企业应用门槛，加速AI技术向实体经济渗透。\n\n从行业影响看，万亿参数级别配合多模态能力，意味着企业可获得更接近GPT-4级别的国产替代方案。特别是在Agent智能体应用场景中，多模态理解与生成能力将显著提升人机交互体验和任务执行效率。开源模式还将刺激垂直行业二次开发，形成围绕Yuan3.0 Ultra的行业解决方案生态。\n\n趋势判断：开源大模型将成为2024-2025年国内AI竞争主战场，企业决策者应关注三点——一是评估自身业务与多模态Agent的结合点，二是建立基于开源模型的技术储备，三是关注国产大模型生态合作机会。这一开源举措或将推动国内AI应用从概念验证加速迈向规模化落地。",
+  "tags": [
+    "人工智能",
+    "大模型",
+    "开源",
+    "企业级应用"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:00:37.314259+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

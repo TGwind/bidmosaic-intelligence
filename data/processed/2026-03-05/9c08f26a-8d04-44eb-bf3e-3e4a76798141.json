@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Financial statements of the ECB for 2025",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260226~15dbe4febc.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-26T11:00:00+00:00",
+  "id": "9c08f26a-8d04-44eb-bf3e-3e4a76798141",
+  "generated_title": "欧洲央行发布2025年度财务报表",
+  "generated_summary": "欧洲央行公布2025财年财务报表，详细披露资产负债及财务状况信息。",
+  "generated_analysis": "欧洲央行发布2025年度财务报表是观察欧元区货币政策走向和金融体系健康状况的重要窗口。2025年，全球通胀压力逐步缓解但仍处高位，欧洲央行在结束负利率政策后，正处于货币政策正常化的关键阶段。财务报表中资产负债结构的变化、利息收入支出情况以及拨备计提水平，直接反映央行过去一年的政策操作成本和金融稳定承诺。\n\n对于企业决策者而言，该报表释放以下信号：一是欧元区货币政策立场趋于中性，利率可能在一段时间内维持相对稳定，为企业投资和融资决策提供可预期环境；二是央行财务状况影响其未来政策空间，若盈利能力承压，可能制约其进一步宽松的能力；三是金融体系流动性状况可通过资产负债表规模变化加以研判，这对银行业授信政策和资本市场走势具有参考价值。\n\n预计未来欧洲央行将更加注重政策精准度，在抗通胀与稳增长间寻求平衡，同时加强与财政政策的协调配合。企业宜密切关注欧元区经济数据动态，把握利率环境变化带来的机遇与挑战。",
+  "tags": [
+    "欧洲央行",
+    "金融监管",
+    "年度报告"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:56:23.433411+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

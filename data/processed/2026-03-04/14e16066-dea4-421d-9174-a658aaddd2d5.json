@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Scheduling in a changing world: Maximizing throughput with time-varying capacity",
+  "raw_content": "Algorithms & Theory",
+  "source_url": "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-11T10:34:00+00:00",
+  "id": "14e16066-dea4-421d-9174-a658aaddd2d5",
+  "generated_title": "变化环境下的调度优化：时变容量吞吐量最大化算法",
+  "generated_summary": "Google Research提出新型调度算法，解决时变容量环境下的系统吞吐量优化问题。",
+  "generated_analysis": "这一研究成果直指现代计算系统面临的核心挑战——在动态变化的环境中实现资源最优配置。传统调度算法多假设恒定容量，而实际场景中云服务负载、网络带宽、边缘节点算力均呈现显著时变性。Google Research从理论层面突破这一限制，提出针对时变容量的吞吐量最大化算法，为行业提供了新的优化范式。\n\n从商业视角看，该算法对三类企业具有直接价值：云计算服务商可提升数据中心资源利用率，降低运营成本；边缘计算运营商能在算力波动环境下保持服务稳定性；网络基础设施提供商可优化带宽分配策略。随着数字化转型深入，几乎所有依赖动态资源调度的行业都将受益。\n\n趋势判断上，我们预期三至五年内将出现两类演进：一是算法从理论走向工程实现，嵌入主流云平台调度系统；二是结合AI预测能力，形成“预测-调度”闭环的智能运维体系。企业决策者应密切关注这一技术成熟曲线，提前布局相关能力建设。",
+  "tags": [
+    "算法研究",
+    "调度优化",
+    "Google Research",
+    "吞吐量"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:45:47.685700+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

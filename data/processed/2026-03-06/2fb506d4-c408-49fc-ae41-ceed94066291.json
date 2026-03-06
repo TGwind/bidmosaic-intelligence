@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "爱在一生中占多少百分比",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1EZAozDEA6",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:30.754896+00:00",
+  "id": "2fb506d4-c408-49fc-ae41-ceed94066291",
+  "generated_title": "爱情人生占比引热议",
+  "generated_summary": "B站热门话题探讨爱情在一生中的百分比占比，引发网友情感讨论",
+  "generated_analysis": "",
+  "tags": [
+    "情感",
+    "爱情",
+    "社会热点"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-06T02:17:13.061749+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1623239,
+    "platform": "bilibili"
+  }
+}

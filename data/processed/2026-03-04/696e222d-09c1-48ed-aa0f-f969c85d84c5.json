@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "An update on our mental health-related work",
+  "raw_content": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+  "source_url": "https://openai.com/index/update-on-mental-health-related-work",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-27T00:00:00+00:00",
+  "id": "696e222d-09c1-48ed-aa0f-f969c85d84c5",
+  "generated_title": "OpenAI更新心理健康安全工作进展",
+  "generated_summary": "OpenAI发布心理健康安全措施更新，包括家长控制、可信联系人、困扰检测改进及诉讼进展。",
+  "generated_analysis": "OpenAI此次更新反映了AI行业对用户安全的重视程度显著提升。心理健康安全措施的完善表明AI公司正在从单纯的技术竞争转向用户体验和责任治理的全面竞争。家长控制、可信联系人等功能的上线，显示出OpenAI在青少年用户保护方面的主动布局，这也将成为行业标杆。随着全球AI监管趋严，心理健康安全有望成为产品合规的必备要素。预计更多AI企业将跟进类似功能，用户安全能力或将成为评估AI平台可信度的核心指标之一。诉讼进展部分则提醒行业，技术创新与合规风险防控需同步推进。",
+  "tags": [
+    "人工智能",
+    "心理健康",
+    "安全措施",
+    "企业责任"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:48:40.362246+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

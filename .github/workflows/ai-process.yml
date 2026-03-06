@@ -2,7 +2,7 @@ name: ai-process
 
 on:
   workflow_run:
-    workflows: ["collect-rss", "collect-stock"]
+    workflows: ["collect-rss", "collect-stock", "collect-trending"]
     types: [completed]
   workflow_dispatch:
 
@@ -63,6 +63,39 @@ jobs:
             echo "Skipping stock processor for trigger: $TRIGGER"
           fi
 
+      - name: Build stock closing recap queue
+        env:
+          SITE_URL: ${{ vars.SITE_URL || 'https://bidmosaic.com' }}
+        run: |
+          TRIGGER="${{ github.event_name == 'workflow_dispatch' && 'manual' || github.event.workflow_run.name }}"
+          TODAY="$(date -u +%Y-%m-%d)"
+          if [ "$TRIGGER" = "manual" ] || [ "$TRIGGER" = "collect-stock" ]; then
+            if [ -d "data/processed/$TODAY" ]; then
+              python -m publisher.newsletter_builder stock
+            else
+              echo "No processed stock data for $TODAY"
+            fi
+          else
+            echo "Skipping stock recap queue build for trigger: $TRIGGER"
+          fi
+
+      - name: Run trending AI processor when trending data exists
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_GROUP_ID: ${{ secrets.MINIMAX_GROUP_ID }}
+        run: |
+          TRIGGER="${{ github.event_name == 'workflow_dispatch' && 'manual' || github.event.workflow_run.name }}"
+          TODAY="$(date -u +%Y-%m-%d)"
+          if [ "$TRIGGER" = "manual" ] || [ "$TRIGGER" = "collect-trending" ]; then
+            if [ -d "data/raw/trending/$TODAY" ]; then
+              python -m ai_processor.processor trending
+            else
+              echo "No trending raw data for $TODAY"
+            fi
+          else
+            echo "Skipping trending processor for trigger: $TRIGGER"
+          fi
+
       - name: Commit processed data
         run: |
           git config user.name "BidMosaic Bot"
@@ -73,4 +106,44 @@ jobs:
           else
             git commit -m "chore: AI process data $(date -u +%Y-%m-%d_%H:%M)"
             git push
+          fi
+
+      - name: Commit stock recap queue
+        run: |
+          TRIGGER="${{ github.event_name == 'workflow_dispatch' && 'manual' || github.event.workflow_run.name }}"
+          if [ "$TRIGGER" = "manual" ] || [ "$TRIGGER" = "collect-stock" ]; then
+            git config user.name "BidMosaic Bot"
+            git config user.email "bot@bidmosaic.com"
+            git add data/newsletter_queue/stock/
+            if git diff --staged --quiet; then
+              echo "No stock recap queue updates"
+            else
+              git commit -m "chore: build stock closing recap $(date -u +%Y-%m-%d_%H:%M)"
+              git push
+            fi
+          else
+            echo "Skipping stock recap queue commit for trigger: $TRIGGER"
+          fi
+
+      - name: Send stock closing recap email
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          FROM_EMAIL: ${{ vars.FROM_EMAIL }}
+          SITE_URL: ${{ vars.SITE_URL || 'https://bidmosaic.com' }}
+          NEWSLETTER_TYPE: stock
+        run: |
+          TRIGGER="${{ github.event_name == 'workflow_dispatch' && 'manual' || github.event.workflow_run.name }}"
+          TODAY="$(date -u +%Y-%m-%d)"
+          if [ "$TRIGGER" = "manual" ] || [ "$TRIGGER" = "collect-stock" ]; then
+            if [ -f "data/newsletter_queue/stock/$TODAY.json" ]; then
+              python -m publisher.send_email
+            else
+              echo "No stock closing recap queue for $TODAY"
+            fi
+          else
+            echo "Skipping stock recap email send for trigger: $TRIGGER"
           fi

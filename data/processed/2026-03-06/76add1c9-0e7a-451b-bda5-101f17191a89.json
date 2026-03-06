@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "TTSR: Test-Time Self-Reflection for Continual Reasoning Improvement",
+  "raw_content": "arXiv:2603.03297v1 Announce Type: new Abstract: Test-time Training enables model adaptation using only test questions and offers a promising paradigm for improving the reasoning ability of large language models (LLMs). However, it faces two major challenges: test questions are often highly difficult, making self-generated pseudo-labels unreliable, and existing methods lack effective mechanisms to adapt to a model's specific reasoning weaknesses, leading to inefficient learning. To address these issues, we propose \\textbf{TTSR}, a self-reflective test-time self-evolving training framework. TTSR employs a single pretrained language model that alternates between the roles of a \\textit{Student} and a \\textit{Teacher} at test time. The Student focuses on solving problems and learning from synthesized variant questions, while the Teacher analyzes the Student's failed reasoning trajectories, summarizes recurring reasoning weaknesses, and synthesizes targeted variant questions accordingly. This process guides the model to improve within a learnable regime through a continual self-evolving loop. Experimental results on multiple challenging mathematical reasoning benchmarks show that TTSR consistently improves reasoning performance and generalizes well across different model backbones and general-domain reasoning tasks. These findings suggest that teacher-mediated self-reflection provides an effective pathway for stable and continual reasoning improvement at test time.",
+  "source_url": "https://arxiv.org/abs/2603.03297",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "76add1c9-0e7a-451b-bda5-101f17191a89",
+  "generated_title": "TTSR：测试时自我反思提升LLM推理能力",
+  "generated_summary": "提出TTSR框架让学生教师角色交替，通过自我反思分析推理弱点并合成针对性问题，在测试时持续提升LLM数学推理能力。",
+  "generated_analysis": "这一研究针对大语言模型在测试阶段的推理能力提升提出了创新解决思路。当前测试时训练面临两大核心痛点：一是测试题目难度高导致自我生成的伪标签不可靠；二是缺乏针对模型特定推理弱点的适应机制。TTSR框架通过让单一模型交替扮演学生与教师角色，构建了一套自我反思的闭环学习系统。教师角色负责诊断推理错误并合成针对性训练样本，学生角色则持续从这些定制化问题中学习，这一设计巧妙解决了传统方法的有效性瓶颈。\n\n对于行业而言，该研究具有重要实践价值。首先，它开辟了不依赖额外标注数据即可提升模型推理能力的新路径，大幅降低了持续优化的成本。其次，其跨模型骨架和跨领域的泛化能力意味着该方法具有广泛的适用前景。然而需注意，测试时的计算开销与推理延迟是需要权衡的因素。\n\n从趋势判断看，测试时自适应训练将成为LLM能力优化的重要方向。未来可能发展出结合强化学习、动态知识更新的更高效框架，同时如何在保持推理效率的前提下实现持续自我进化，将是技术落地的关键挑战。企业决策者可关注该方向在复杂数学推理、代码生成等高价值场景的落地潜力。",
+  "tags": [
+    "大语言模型",
+    "测试时训练",
+    "自我反思",
+    "推理增强"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:26:26.645030+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

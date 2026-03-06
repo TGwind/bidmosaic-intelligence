@@ -32,20 +32,26 @@ def slugify(text: str) -> str:
     return text[:80] if text else "untitled"
 
 
+def _yaml_escape(text: str) -> str:
+    """Escape a string for safe YAML double-quoted values."""
+    return text.replace("\\", "\\\\").replace('"', '\\"')
+
+
 def generate_md(item: IntelligenceItem) -> str:
     """Generate Keystatic-compatible markdown with YAML frontmatter."""
-    title = item.generated_title or item.raw_title
+    title = _yaml_escape(item.generated_title or item.raw_title)
+    summary = _yaml_escape(item.generated_summary)
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     tags_yaml = "\n".join(f"  - {t}" for t in item.tags) if item.tags else "  - general"
     tier = "pro" if item.importance_score >= 7 and item.generated_analysis else "free"
 
     frontmatter = f"""---
 title: "{title}"
-summary: "{item.generated_summary}"
+summary: "{summary}"
 domain: "{item.domain}"
 tags:
 {tags_yaml}
-source: "{item.source_name}"
+source: "{_yaml_escape(item.source_name)}"
 sourceUrl: "{item.source_url}"
 importance: {item.importance_score}
 publishedAt: "{date}"

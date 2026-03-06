@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Google settles with Epic Games, drops its Play Store commissions to 20%",
+  "raw_content": "Google has dropped its commission, charging a 20% service fee and an optional 5% to use its billing services. It will also offer a new process for third-party app stores.",
+  "source_url": "https://techcrunch.com/2026/03/04/google-settles-with-epic-games-drops-its-play-store-commissions-to-20/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T20:05:12+00:00",
+  "id": "57cdefd8-90a5-4281-b238-637a99367ea5",
+  "generated_title": "Google降低Play Store佣金至20%",
+  "generated_summary": "Google与Epic达成和解，Play Store佣金降至20%，并开放第三方应用商店入口，这是其应用商店政策的重大调整。",
+  "generated_analysis": "Google此次调整佣金结构并非单纯商业决策，而是对全球反垄断浪潮的战略性回应。Epic案僵持多年终达成和解，叠加欧盟《数字市场法》等监管压力，Google被迫从“封闭生态”转向“有限开放”。20%的佣金标准与苹果看齐，但5%的支付服务费仍保留了一定变现空间，这一设计既缓解了监管批评，又避免了收入大幅缩水。\n\n对行业而言，此举将产生多重效应。首先，中小开发者成本压力缓解，可能刺激更多创新应用涌现；其次，第三方应用商店合法化将加剧分发渠道竞争，Google Play的垄断地位面临挑战；再者，安卓生态整体利润率承压，Google可能加速向广告、AI服务等增值业务转型以弥补损失。\n\n从趋势判断，应用商店“高抽成”时代正走向终结。监管趋严和竞争加剧将迫使平台方让利，开发者议价能力持续提升。企业决策者应关注两点：一是应用分发成本下降带来的定价策略调整空间；二是平台开放后安全合规风险的管理需求。未来一到两年内，我们或看到更多地区和平台跟进类似调整。",
+  "tags": [
+    "应用商店",
+    "反垄断",
+    "Google"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:52:23.123912+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+  "raw_content": "LLM-based chatbots&#x2019; capabilities have been advancing every month. These improvements are mostly measured by benchmarks like MMLU, HumanEval, and MATH (e.g. sonnet 3.5, gpt-4o). However, as these measures get more and more saturated, is user experience increasing in proportion to these scores? If we envision a future",
+  "source_url": "https://thegradient.pub/dialog/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2024-09-09T17:28:48+00:00",
+  "id": "07e26de6-d997-46fa-942c-8734f3636877",
+  "generated_title": "LLM聊天机器人缺失的目标感",
+  "generated_summary": "文章指出LLM能力虽通过基准测试不断提升，但用户体验并未同步改善，呼吁关注AI产品的使命感而非仅追求分数。",
+  "generated_analysis": "当前大语言模型在MMLU、HumanEval、MATH等基准测试中持续刷新分数记录，但技术指标的攀升并未有效转化为用户实际体验的提升，这一背离现象值得行业警醒。其核心症结在于：行业过度聚焦于能力参数的军备竞赛，而忽视了AI产品应当解决的核心问题与用户真实需求之间的错位。\n\n从市场影响来看，这种“指标繁荣”与“体验贫血”的矛盾正在削弱企业AI投资的实际回报。决策者会发现，尽管最新模型在测试中表现优异，但部署到实际业务场景时，用户满意度、业务转化率等关键指标并未同步改善。这将促使企业重新审视AI供应商的选择标准，从“技术领先性”转向“场景适配度”。\n\n未来趋势判断：行业将经历从“能力驱动”到“价值驱动”的转型。能够精准定义产品使命、深耕垂直场景体验的厂商将获得市场竞争优势。同时，“任务完成率”“用户留存时长”等体验类指标有望取代部分传统基准测试，成为评估大模型实力的新维度。企业决策者在AI布局中应更加注重场景化应用验证，而非单纯追逐技术榜单排名。",
+  "tags": [
+    "人工智能",
+    "大语言模型",
+    "产品评测",
+    "技术反思"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:17:49.980825+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

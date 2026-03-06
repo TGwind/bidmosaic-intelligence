@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
+  "raw_content": "Agentic AI is reshaping India’s tech industry, delivering leaps in services worldwide. Tapping into NVIDIA AI Enterprise software and NVIDIA Nemotron models, India’s technology leaders are accelerating productivity and efficiency across industries — from call centers to telecommunications and healthcare. Infosys, Persistent, Tech Mahindra and Wipro are leading the way for business transformation, improving back-office Read Article",
+  "source_url": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-18T00:30:41+00:00",
+  "id": "36289dc5-d213-493f-94c0-b3db06852c1f",
+  "generated_title": "印度系统集成商携手NVIDIA AI构建企业代理，重塑后台与客服",
+  "generated_summary": "Infosys、Persistent、Tech Mahindra、Wipro采用NVIDIA AI Enterprise和Nemotron模型，在呼叫中心、电信、医疗等行业部署代理AI，提升企业生产力和效率。",
+  "generated_analysis": "此次合作标志着印度IT服务业从传统人力密集型外包向AI驱动的高价值服务转型的重要节点。四大头部系统集成商同步采用NVIDIA的企业级AI解决方案，体现出代理AI技术在企业后台与客服场景已具备成熟落地能力。相较于传统规则引擎，代理AI具备自主决策与多任务编排能力，可显著降低人力成本并提升响应效率。\n\n对市场而言，这一趋势将加速全球企业服务板块的洗牌。印度IT厂商通过绑定NVIDIA的技术栈，可在激烈的竞争中构建差异化优势；而对于采用方企业来说，代理AI将推动客服与后台运营从成本中心向价值创造单元转变。预计未来两到三年内，电信、医疗、金融等劳动密集型行业的AI渗透率将快速提升，率先布局的企业将获得显著的运营效率红利。同时值得关注的是，代理AI的安全性与治理框架将成为决定其规模化应用的关键因素。",
+  "tags": [
+    "人工智能",
+    "企业数字化",
+    "印度科技",
+    "系统集成"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:47:06.100461+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

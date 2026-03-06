@@ -1,10 +1,17 @@
 {
   "subscribers": [
     {
-      "email": "over@mobikok.com",
+      "email": "tianguangyu9@gmail.com",
       "status": "active",
       "source": "legacy",
       "subscribed_at": "2026-03-03T00:00:00+00:00",
+      "unsubscribed_at": null
+    },
+    {
+      "email": "tgy1817@qq.com",
+      "status": "active",
+      "source": "site",
+      "subscribed_at": "2026-03-06T12:02:01.549Z",
       "unsubscribed_at": null
     }
   ]

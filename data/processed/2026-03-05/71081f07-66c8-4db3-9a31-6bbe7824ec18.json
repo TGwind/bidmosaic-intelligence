@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "政府工作报告中的新提法",
+  "raw_content": "政府工作报告中的新提法",
+  "source_url": "https://www.toutiao.com/article/7613713183542493750",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T14:28:14.436105+00:00",
+  "id": "71081f07-66c8-4db3-9a31-6bbe7824ec18",
+  "generated_title": "政府工作报告新提法待明确",
+  "generated_summary": "该情报仅包含标题，缺少政府工作报告的具体内容和新提法详情，信息不完整。",
+  "generated_analysis": "",
+  "tags": [
+    "政府工作报告",
+    "政策动态",
+    "信息不全"
+  ],
+  "importance_score": 2,
+  "processed_at": "2026-03-05T14:47:25.047577+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "22815765",
+    "platform": "toutiao"
+  }
+}

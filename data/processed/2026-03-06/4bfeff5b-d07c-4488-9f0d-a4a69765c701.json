@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Financial statements of the ECB for 2025",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260226~15dbe4febc.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-26T11:00:00+00:00",
+  "id": "4bfeff5b-d07c-4488-9f0d-a4a69765c701",
+  "generated_title": "欧洲央行发布2025年财务报告",
+  "generated_summary": "欧洲央行公布2025年财务报表，披露资产负债表及运营成本等核心财务数据。",
+  "generated_analysis": "",
+  "tags": [
+    "欧洲央行",
+    "财务报表",
+    "央行",
+    "2025年"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:23:25.209164+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

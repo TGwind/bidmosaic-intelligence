@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Amazon Data Centers on Fire After Iranian Missile Strikes on Dubai",
+  "raw_content": "Some AWS services are down in the Middle East. Recovery is unclear as it requires 'careful assessment to ensure the safety of our operators,' according to Amazon.",
+  "source_url": "https://www.404media.co/amazon-data-centers-on-fire-after-iranian-missile-strikes-on-dubai/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-02T15:59:51+00:00",
+  "id": "793f38be-2b1a-45c0-8b9a-21662480175f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

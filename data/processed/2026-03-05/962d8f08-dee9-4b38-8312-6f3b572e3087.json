@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Lisa D Cook: Opening remarks for the \"AI and productivity across the economy\" panel",
+  "raw_content": "Opening remarks by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 42nd Annual NABE (National Association for Business Economics) Economic Policy Conference \"The great realignment: navigating AI, demographic and geoeconomic shifts\", Washington DC, 24 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T14:25:38.032231+00:00",
+  "id": "962d8f08-dee9-4b38-8312-6f3b572e3087",
+  "generated_title": "美联储理事Lisa Cook谈AI与经济生产力",
+  "generated_summary": "美联储理事Lisa Cook在NABE年度经济政策会议上就AI对经济生产力的影响发表开幕致辞。",
+  "generated_analysis": "Lisa Cook作为美联储理事在NABE年度经济政策会议上专门就AI议题发表开幕致辞，这一安排本身具有深意。这表明美国货币政策制定层已将人工智能视为影响经济前景的核心变量，而不仅仅是技术话题。\n\n从行业影响看，美联储的明确关注意味着AI对生产力的提升作用已进入宏观政策视野。企业需要关注两点：一是AI投资可能获得更友好的融资环境；二是如果AI确实大幅提升生产力，可能改变美联储对通胀路径的判断，进而影响利率走向。\n\n趋势判断上，我们预计AI将加速渗透实体经济，短期内可能看到企业投资AI的热情进一步高涨，但同时监管关注度也会上升。对于决策者而言，关键是把握AI应用节奏，在技术红利释放与可能产生的结构性冲击间寻求平衡。建议企业密切跟踪美联储相关表态，将AI战略与宏观政策预期相结合。",
+  "tags": [
+    "人工智能",
+    "经济政策",
+    "美联储",
+    "生产力"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:55:59.243515+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

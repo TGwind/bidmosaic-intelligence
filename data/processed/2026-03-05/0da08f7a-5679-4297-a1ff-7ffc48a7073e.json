@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "DeepSeek Won't Sink U.S. AI Titans",
+  "raw_content": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+  "source_url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-01-27T18:12:00+00:00",
+  "id": "0da08f7a-5679-4297-a1ff-7ffc48a7073e",
+  "generated_title": "DeepSeek冲击被高估 美AI芯片股抛售恐慌过度",
+  "generated_summary": "华尔街日报分析认为，市场对DeepSeek引发的英伟达、博通等科技股抛售恐慌情绪被过度放大。",
+  "generated_analysis": "",
+  "tags": [
+    "AI芯片",
+    "股市",
+    "英伟达"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:47:34.557063+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

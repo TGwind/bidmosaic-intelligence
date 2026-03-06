@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "汇川技术(300124) 今日涨3.10% 报70.10元",
+  "raw_content": "汇川技术(300124) 最新价 70.10元，涨3.10%，涨跌额 +2.11元，今开 71.40元，最高 71.69元，最低 69.77元，昨收 67.99元，成交额 10.56亿元，振幅 2.82%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz300124/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T02:04:45.576468+00:00",
+  "id": "85954743-ebda-4f43-8696-4d072b7783e5",
+  "generated_title": "汇川技术(300124) 今日涨3.10% 报70.10元 | 持有",
+  "generated_summary": "趋势: 偏强 · 信号: 持有 · 评分: 65",
+  "generated_analysis": "汇川技术今日上涨3.10%，股价站上70元关口。从技术面看，股价已上涨至MA5上方，乖离率约3%，接近5%警戒线，不宜追高。从均线系统看，短期均线向上运行，但需等待MA5>MA10>MA20形成多头排列才能确认趋势转强。量能方面，10.56亿元成交额属于近期正常水平，无明显放量迹象。基本面方面，汇川技术作为国产工业自动化龙头，受益于智能制造和国产替代大趋势，长期逻辑清晰。消息面暂无重大利好或利空。综合来看，当前位置追高风险收益比不佳，建议等待回调至MA5/MA10附近再考虑买入。\n\n风险提示: 追高风险：当前乖离率约3%，接近5%警戒线，股价可能面临回调压力；趋势风险：若跌破MA20可能转为弱势；大盘风险：创业板整体走势会影响其表现",
+  "tags": [
+    "A股",
+    "偏强",
+    "持有"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:49.999035+00:00",
+  "market_data": {
+    "symbols": [
+      "300124"
+    ],
+    "price_change": {
+      "price": 70.1,
+      "change_pct": 3.1,
+      "change_amt": 2.11
+    },
+    "indicators": {
+      "volume": 14933799.0,
+      "turnover": 1055555790.98,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 2.82,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "持有",
+    "risk": "追高风险：当前乖离率约3%，接近5%警戒线，股价可能面临回调压力；趋势风险：若跌破MA20可能转为弱势；大盘风险：创业板整体走势会影响其表现",
+    "confidence": "中",
+    "sentiment_score": 65,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "股价已上涨至MA5上方，乖离率约3%，追高风险显现，建议持有观望",
+        "time_sensitivity": "不急",
+        "position_advice": {
+          "no_position": "当前价格已偏离MA5，不建议追高，可等待回踩MA5/MA10时再考虑买入",
+          "has_position": "可继续持有，设好止盈止损，接近75元可考虑分批止盈"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "短期均线向上，但需MA5>MA10>MA20确认多头排列",
+        "is_bullish": true,
+        "trend_score": 65,
+        "bias_ma5": 3.0,
+        "bias_status": "警戒",
+        "support_level": "68.5元(MA10附近)",
+        "resistance_level": "72元(前高)",
+        "volume_status": "平量",
+        "volume_meaning": "10.56亿元成交额属于近期正常水平，量能配合一般，无明显放量上涨"
+      },
+      "battle_plan": {
+        "ideal_buy": "68.5元(MA10附近)",
+        "secondary_buy": "69.5元(MA5附近)",
+        "stop_loss": "67.5元(跌破MA20)",
+        "take_profit": "75元",
+        "suggested_position": "30%",
+        "entry_plan": "分两批建仓：第一批30%在68.5元，第二批20%在67.5元"
+      },
+      "checklist": [
+        "⚠️ 多头排列(待确认)",
+        "⚠️ 乖离率合理(3%但接近警戒)",
+        "✅ 量能配合(平量)",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "乖离率接近5%警戒线，追高容易被套",
+        "短期涨幅较大，可能面临回调压力",
+        "创业板整体情绪会影响走势"
+      ],
+      "positive_catalysts": [
+        "工业自动化赛道景气度持续",
+        "汇川技术是国产PLC龙头，国产替代空间大",
+        "新能源汽车业务有望贡献增量"
+      ],
+      "short_term_outlook": "短期1-3日可能进入震荡调整消化获利盘，股价可能回踩69-70元支撑区间，若能在MA10附近企稳则有望重拾升势",
+      "medium_term_outlook": "中期1-2周若能企稳均线并形成多头排列，有望挑战前高72元，若跌破MA20(约67元)则需考虑止损"
+    }
+  }
+}

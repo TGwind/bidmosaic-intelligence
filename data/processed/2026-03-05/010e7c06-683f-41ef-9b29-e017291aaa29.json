@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "时隔11年政府工作报告再提公积金改革",
+  "raw_content": "时隔11年政府工作报告再提公积金改革",
+  "source_url": "https://www.toutiao.com/trending/7613670063933132297/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613670063933132297%22%2C%22hot_board_impr_id%22%3A%22202603052228181AFFD88B2DEC34805AF5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%B6%E9%9A%9411%E5%B9%B4%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E5%86%8D%E6%8F%90%E5%85%AC%E7%A7%AF%E9%87%91%E6%94%B9%E9%9D%A9%22%7D&rank=&style_id=40132&topic_id=7613670063933132297",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T14:28:14.436117+00:00",
+  "id": "010e7c06-683f-41ef-9b29-e017291aaa29",
+  "generated_title": "时隔11年政府工作报告再提公积金改革",
+  "generated_summary": "政府工作报告时隔11年再次提及公积金改革，释放住房制度改革信号，或将优化公积金使用范围。",
+  "generated_analysis": "此次公积金改革信号意义重大。背景在于中国住房市场已从高速扩张转向存量优化阶段，公积金制度在使用效率、覆盖范围、跨区域流动等方面存在问题，亟需改革以更好支持居民住房消费。\n\n对行业而言，若公积金使用范围得到拓展，将直接刺激住房刚性需求释放，尤其利好刚需和改善型住房市场。同时，公积金提取条件放宽可能促进租房、装修、养老等相关消费，延伸住房消费链条。房地产市场信心有望得到一定提振。\n\n趋势判断：短期来看，公积金政策微调将持续，方向是提高使用便利性和扩大提取场景；中长期，公积金制度可能与住房保障体系、租赁市场形成更紧密联动，支持“租购并举”住房制度落地。建议房地产企业关注政策落地节奏，提前布局适配产品。",
+  "tags": [
+    "公积金改革",
+    "政府工作报告",
+    "住房制度",
+    "民生政策"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:10.881276+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16902334",
+    "platform": "toutiao"
+  }
+}

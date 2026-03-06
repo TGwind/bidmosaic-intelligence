@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "广州制衣村数百名老板街头排队招人",
+  "raw_content": "广州制衣村数百名老板街头排队招人",
+  "source_url": "https://www.toutiao.com/trending/7613907608658791945/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613907608658791945%22%2C%22hot_board_impr_id%22%3A%2220260306101517C3FE8970787A856E5938%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B9%BF%E5%B7%9E%E5%88%B6%E8%A1%A3%E6%9D%91%E6%95%B0%E7%99%BE%E5%90%8D%E8%80%81%E6%9D%BF%E8%A1%97%E5%A4%B4%E6%8E%92%E9%98%9F%E6%8B%9B%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7613907608658791945",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:17.729088+00:00",
+  "id": "aebc0cdb-21a5-43ff-8070-a377011167ad",
+  "generated_title": "广州制衣村老板街头排队招工",
+  "generated_summary": "广州制衣村出现数百名老板街头排队招人现象，反映制造业招工难、用工成本上升问题",
+  "generated_analysis": "这一现象折射出中国制造业正面临的深层结构性挑战。老板亲自街头排队招工，暴露出传统劳动密集型产业在劳动力供给端的系统性承压——适龄劳动力减少、年轻人就业偏好转移、薪资待遇吸引力下降的三重叠加。制衣业作为典型的微利行业，人工成本占比高达20%-30%，用工难直接侵蚀企业生存空间。\n\n从行业影响看，这一趋势将加速产业链分化：一方面，倒逼企业加快自动化设备和智能制造升级，减少对人工的依赖；另一方面，部分产能可能向东南亚等劳动力成本较低的地区转移。对于广州这样的传统服装制造基地而言，产业升级已迫在眉睫。\n\n判断趋势，短期内用工矛盾难以根本缓解，“机器换人”将成为中型以上企业的必然选择，而无法转型的中小工厂可能面临淘汰或收缩。建议相关企业决策者提前布局柔性生产线，提升人效比，同时关注产线自动化改造的政策补贴窗口期。",
+  "tags": [
+    "制造业",
+    "用工荒",
+    "劳动力市场"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:17:58.152051+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "36721602",
+    "platform": "toutiao"
+  }
+}

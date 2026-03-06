@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester",
+  "raw_content": "A court record reviewed by 404 Media shows privacy-focused email provider Proton Mail handed over payment data related to a Stop Cop City email account to the Swiss government, which handed it to the FBI.",
+  "source_url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T20:36:01+00:00",
+  "id": "80df07c3-a37f-4383-bd6f-74a11a567d0e",
+  "generated_title": "Proton Mail向FBI移交抗议者支付数据",
+  "generated_summary": "隐私邮件服务商Proton Mail应瑞士政府要求，向FBI提供了与Stop Cop City抗议活动相关账户的支付数据，导致匿名抗议者身份暴露。",
+  "generated_analysis": "此次事件揭示了隐私服务商在执法压力下面临的信任危机。Proton Mail一直以端到端加密和用户隐私保护为核心卖点，但此次应瑞士政府要求向FBI提供支付数据，表明其并非完全“匿名”，这将直接影响用户对其隐私承诺的信任度。\n\n从行业角度看，此案具有标杆意义。它表明即使标榜隐私保护的平台，在跨境执法合作框架下仍可能被迫交出数据。这可能引发三类连锁反应：一是用户对隐私服务的信任度下降，转向更匿名的通讯工具或加密货币支付；二是监管机构可能加强对隐私服务商的合规要求，要求建立更透明的数据披露流程；三是企业客户在选择隐私服务时将更加审慎，尤其是涉及敏感业务的组织。\n\n趋势判断：短期内隐私服务商的合规成本将上升，但市场需求反而可能增加——因为用户会寻求“更安全”的替代品。长期来看，行业将分化为“配合执法”和“极致隐私”两个方向，企业需明确自身定位并向用户清晰传达数据政策。",
+  "tags": [
+    "隐私保护",
+    "执法合作",
+    "科技公司",
+    "网络安全"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:27:06.733277+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

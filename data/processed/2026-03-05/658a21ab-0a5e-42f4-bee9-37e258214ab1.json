@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "CORPGEN advances AI agents for real work",
+  "raw_content": "By mid-morning, a typical knowledge worker is already juggling a client report, a budget spreadsheet, a slide deck, and an email backlog, all interdependent and all demanding attention at once. For AI agents to be genuinely useful in that environment, they will need to operate the same way, but today’s best models are evaluated one [&#8230;] The post CORPGEN advances AI agents for real work appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T17:06:34+00:00",
+  "id": "658a21ab-0a5e-42f4-bee9-37e258214ab1",
+  "generated_title": "微软推进AI代理处理真实工作任务",
+  "generated_summary": "微软研究院发布CORPGEN项目，推动AI代理同时处理知识工作者的多项相互依赖任务，提升实际工作场景的实用性。",
+  "generated_analysis": "当前AI代理多聚焦于单一任务处理，而真实工作场景中知识工作者往往需并行处理多项相互依赖的任务。微软研究院CORPGEN项目的核心突破在于让AI代理同时协调客户报告、预算表格、演示文稿及邮件等多项工作，这标志着AI从“工具”向“协作者”的角色转变。\n\n对行业而言，这一进展将重塑企业生产力软件格局。传统办公套件可能加速向智能化协同平台演进，AI不再仅提供辅助建议，而是深度参与工作流管理。微软此举也意味着其正在构建差异化竞争优势，瞄准企业级AI助手市场的同时，为未来多代理协作生态奠定基础。\n\n趋势判断上，预计未来12-18个月内，多任务协同将成为企业AI代理的标配能力。同时，评估标准也将从单任务准确率扩展至任务流整体效率。企业在引入AI能力时，需关注系统对复杂工作场景的适配程度，而非单纯追求单项性能。",
+  "tags": [
+    "人工智能",
+    "微软",
+    "AI代理",
+    "知识工作"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:53:17.475458+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

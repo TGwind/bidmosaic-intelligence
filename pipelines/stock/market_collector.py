@@ -32,7 +32,7 @@ def _sina_prefix(symbol: str) -> str:
     return f"sz{symbol}"
 
 
-def fetch_sina_quotes(symbols: list[dict]) -> list[dict]:
+def fetch_sina_quotes(symbols: list[dict], client: httpx.Client | None = None) -> list[dict]:
     """Batch fetch quotes from Sina Finance API.
 
     Sina response format (comma-separated):
@@ -40,14 +40,17 @@ def fetch_sina_quotes(symbols: list[dict]) -> list[dict]:
     ... (bid/ask levels), date, time, status
     """
     sina_codes = ",".join(_sina_prefix(s["symbol"]) for s in symbols)
-    client = httpx.Client(timeout=15, headers=SINA_HEADERS)
+    own_client = client is None
+    if own_client:
+        client = httpx.Client(timeout=15, headers=SINA_HEADERS)
 
     try:
         resp = client.get(f"{SINA_HQ_URL}{sina_codes}")
         resp.encoding = "gbk"
         text = resp.text
     finally:
-        client.close()
+        if own_client:
+            client.close()
 
     quotes = []
     for line in text.strip().split("\n"):
@@ -101,7 +104,7 @@ def fetch_sina_quotes(symbols: list[dict]) -> list[dict]:
     return quotes
 
 
-def fetch_index_quotes() -> dict:
+def fetch_index_quotes(client: httpx.Client | None = None) -> dict:
     """Fetch major index quotes."""
     index_codes = {
         "sh000001": ("000001", "上证指数"),
@@ -110,13 +113,16 @@ def fetch_index_quotes() -> dict:
         "sz399006": ("399006", "创业板指"),
     }
 
-    client = httpx.Client(timeout=15, headers=SINA_HEADERS)
+    own_client = client is None
+    if own_client:
+        client = httpx.Client(timeout=15, headers=SINA_HEADERS)
     try:
         codes = ",".join(index_codes.keys())
         resp = client.get(f"{SINA_HQ_URL}{codes}")
         resp.encoding = "gbk"
     finally:
-        client.close()
+        if own_client:
+            client.close()
 
     indices = {}
     for line in resp.text.strip().split("\n"):
@@ -169,6 +175,12 @@ def build_stock_item(quote: dict) -> IntelligenceItem:
         source_name="新浪财经",
         domain="finance",
         data_type="market_data",
+        metadata={
+            "source_type": "aggregator",
+            "quality_tier": "secondary",
+            "authority_score": 55,
+            "data_kind": "quote",
+        },
         market_data=MarketData(
             symbols=[symbol],
             price_change={
@@ -208,6 +220,12 @@ def build_market_overview_item(indices: dict) -> IntelligenceItem | None:
         source_name="新浪财经",
         domain="finance",
         data_type="market_data",
+        metadata={
+            "source_type": "aggregator",
+            "quality_tier": "secondary",
+            "authority_score": 55,
+            "data_kind": "quote",
+        },
         market_data=MarketData(
             symbols=list(indices.keys()),
             indicators=indices,
@@ -219,27 +237,28 @@ def collect_all() -> list[IntelligenceItem]:
     config = load_config()
     items: list[IntelligenceItem] = []
 
-    # Market overview
-    print("Fetching market indices...")
-    indices = fetch_index_quotes()
-    for code, info in indices.items():
-        pct = info["change_pct"]
-        arrow = "↑" if pct > 0 else "↓"
-        print(f"  {info['name']}: {info['price']:.2f} {arrow}{abs(pct):.2f}%")
+    with httpx.Client(timeout=15, headers=SINA_HEADERS) as client:
+        # Market overview
+        print("Fetching market indices...")
+        indices = fetch_index_quotes(client)
+        for code, info in indices.items():
+            pct = info["change_pct"]
+            arrow = "↑" if pct > 0 else "↓"
+            print(f"  {info['name']}: {info['price']:.2f} {arrow}{abs(pct):.2f}%")
 
-    overview_item = build_market_overview_item(indices)
-    if overview_item:
-        items.append(overview_item)
+        overview_item = build_market_overview_item(indices)
+        if overview_item:
+            items.append(overview_item)
 
-    # Individual stocks
-    print("Fetching stock quotes...")
-    a_shares = config.get("watchlist", {}).get("a_share", [])
-    quotes = fetch_sina_quotes(a_shares)
+        # Individual stocks
+        print("Fetching stock quotes...")
+        a_shares = config.get("watchlist", {}).get("a_share", [])
+        quotes = fetch_sina_quotes(a_shares, client)
 
-    for quote in quotes:
-        pct = quote["change_pct"]
-        print(f"  {quote['name']}({quote['symbol']}): {quote['price']:.2f} ({pct:+.2f}%)")
-        items.append(build_stock_item(quote))
+        for quote in quotes:
+            pct = quote["change_pct"]
+            print(f"  {quote['name']}({quote['symbol']}): {quote['price']:.2f} ({pct:+.2f}%)")
+            items.append(build_stock_item(quote))
 
     return items
 

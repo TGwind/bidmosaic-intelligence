@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Number of counterfeit euro banknotes remains low in 2025",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260227~66abdc6895.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-27T09:00:00+00:00",
+  "id": "ab427c30-e2e3-4cd2-a4d7-999a7f7878ad",
+  "generated_title": "欧洲央行：2025年欧元假钞数量保持低位",
+  "generated_summary": "欧洲央行2025年年度统计显示，欧元区假钞流通量维持低位，反假钞技术措施持续有效。",
+  "generated_analysis": "",
+  "tags": [
+    "反假钞",
+    "欧元",
+    "金融安全"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:29:24.824590+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

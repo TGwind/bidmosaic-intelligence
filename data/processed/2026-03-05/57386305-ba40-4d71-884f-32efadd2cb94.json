@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "代表：农民每月200元养老金太亏了",
+  "raw_content": "代表：农民每月200元养老金太亏了",
+  "source_url": "https://www.toutiao.com/trending/7613652756594789914/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613652756594789914%22%2C%22hot_board_impr_id%22%3A%222026030515342384A79959823D7B68E839%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%A3%E8%A1%A8%EF%BC%9A%E5%86%9C%E6%B0%91%E6%AF%8F%E6%9C%88200%E5%85%83%E5%85%BB%E8%80%81%E9%87%91%E5%A4%AA%E4%BA%8F%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7613652756594789914",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T07:34:23.617941+00:00",
+  "id": "57386305-ba40-4d71-884f-32efadd2cb94",
+  "generated_title": "代表提议提高农民养老金标准",
+  "generated_summary": "人大代表提议提升农民养老金标准，认为当前每月200元过低，应建立动态调整机制",
+  "generated_analysis": "该提议反映了当前中国农村养老保障体系面临的结构性挑战，其背景源于城乡养老保险待遇长期悬殊——城镇职工养老金普遍在3000元以上，而农村居民基础养老金仅约200元，差距逾15倍。这一议题的提出，既是对共同富裕政策落地的具体呼应，也是应对农村老龄化加速、激活农村消费潜能的现实需要。\n\n从市场影响看，若养老金标准显著提升，将直接改善约1.7亿农村老年群体的消费能力，释放千亿级消费潜力，利好下沉市场的零售、医疗健康、养老服务等产业。同时，财政补贴压力将随之增大，倒逼保险基金提升投资运营效率，并可能加速商业养老保险在农村地区的渗透。\n\n趋势判断：短期内，渐进式提高基础养老金标准仍是主基调，预计年均增幅在10%-15%区间，并逐步建立与物价、工资挂钩的动态调整机制；中长期看，农村养老产业将迎来政策红利期，专业化居家养老、社区养老模式可能加速下沉，企业可关注该领域的布局机会。",
+  "tags": [
+    "养老保险",
+    "农民",
+    "社会保障"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:42.254508+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8693270",
+    "platform": "toutiao"
+  }
+}

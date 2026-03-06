@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Philip R. Lane: Interview with Financial Times",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-03T05:00:00+00:00",
+  "id": "43acd11d-cf2a-4774-9ac3-9822bccdc3ac",
+  "generated_title": "欧洲央行Lane接受金融时报采访",
+  "generated_summary": "欧洲央行管理委员会成员Philip R. Lane接受金融时报采访，可能涉及货币政策、经济展望等重要议题。",
+  "generated_analysis": "作为欧洲央行管理委员会核心成员，Lane的行长身份及其与欧元区货币政策制定的密切关联，使此次采访具有重要的风向标意义。当前欧央行正处于从紧缩周期向宽松过渡的关键节点，Lane的任何表态都可能为未来利率路径提供关键线索。\n\n对企业决策者而言，此次采访释放的政策信号将直接影响以下几个方面：其一，欧元汇率走势与企业进出口成本；其二，欧元区融资环境变化对跨境投资决策的影响；其三，金融市场流动性预期对资产定价的潜在影响。\n\n从趋势判断来看，若Lane在采访中释放偏鸽派信号，可能强化市场对欧央行提前降息的预期，这将有利于欧元區风险资产表现；反之，若维持谨慎立场，则可能延长高利率周期，给企业融资带来持续压力。建议企业密切关注采访中对通胀前景和经济韧性的评估，这将为制定年内汇率对冲策略和融资安排提供重要参考依据。",
+  "tags": [
+    "欧洲央行",
+    "货币政策",
+    "央行访谈"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:47:34.379951+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

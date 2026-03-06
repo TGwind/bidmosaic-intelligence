@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+  "raw_content": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+  "source_url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T17:00:00+00:00",
+  "id": "69d9f113-335e-4f3c-998b-3e8641238dad",
+  "generated_title": "Google搜索AI Mode Canvas功能面向全美用户开放",
+  "generated_summary": "Google在其搜索引擎中推出AI Mode的Canvas功能，现向全美用户开放，支持起草文档和构建交互式工具。",
+  "generated_analysis": "Google此次将AI Mode Canvas功能向全美用户开放，标志着搜索引擎正从信息检索工具向综合性AI生产力平台转型。这一布局的背景在于AI搜索赛道竞争加剧，OpenAI、Microsoft等对手持续蚕食传统搜索市场份额，Google急需通过功能创新巩固领先地位。Canvas功能的推出实质上是将生成式AI能力与用户实际工作流深度绑定，用户可直接在搜索界面完成文档起草、工具构建等任务，减少了跳转第三方应用的割裂感。\n\n从行业影响看，此举将对两类市场形成冲击：一是传统搜索引擎市场，搜索结果页面将越来越多地被AI生成内容占据；二是轻量级办公软件市场，当用户能在Google搜索中直接完成文档编写和数据可视化时，部分替代效应将显现。\n\n趋势上，我判断未来12-18个月AI搜索将从“问答式”向“任务完成式”演进，搜索引擎与生产力工具的边界将进一步模糊。对于企业决策者而言，这意味着数字营销策略需重新思考SEO优化方向，同时应关注AI原生工作流带来的效率提升机会，尽早布局相关能力建设以保持竞争优势。",
+  "tags": [
+    "AI应用",
+    "搜索引擎",
+    "Google产品"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:53:52.784263+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

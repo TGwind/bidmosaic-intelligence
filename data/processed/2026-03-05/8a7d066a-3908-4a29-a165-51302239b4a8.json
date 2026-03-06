@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Fine-Tuning and Evaluating Conversational AI for Agricultural Advisory",
+  "raw_content": "arXiv:2603.03294v1 Announce Type: new Abstract: Large Language Models show promise for agricultural advisory, yet vanilla models exhibit unsupported recommendations, generic advice lacking specific, actionable detail, and communication styles misaligned with smallholder farmer needs. In high stakes agricultural contexts, where recommendation accuracy has direct consequences for farmer outcomes, these limitations pose challenges for responsible deployment. We present a hybrid LLM architecture that decouples factual retrieval from conversational delivery: supervised fine-tuning with LoRA on expert-curated GOLDEN FACTS (atomic, verified units of agricultural knowledge) optimizes fact recall, while a separate stitching layer transforms retrieved facts into culturally appropriate, safety-aware responses. Our evaluation framework, DG-EVAL, performs atomic fact verification (measuring recall, precision, and contradiction detection) against expert-curated ground truth rather than Wikipedia or retrieved documents. Experiments across multiple model configurations on crops and queries from Bihar, India show that fine-tuning on curated data substantially improves fact recall and F1, while maintaining high relevance. Using a fine-tuned smaller model achieves comparable or better factual quality at a fraction of the cost of frontier models. A stitching layer further improves safety subscores while maintaining high conversational quality. We release the farmerchat-prompts library to enable reproducible development of domain-specific agricultural AI.",
+  "source_url": "https://arxiv.org/abs/2603.03294",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "8a7d066a-3908-4a29-a165-51302239b4a8",
+  "generated_title": "农业咨询对话AI微调方案提升准确性",
+  "generated_summary": "提出混合LLM架构结合LoRA微调和检索增强，在印度比哈尔邦测试显著提升农业知识事实召回率和F1分数",
+  "generated_analysis": "这一研究揭示了当前农业AI应用面临的核心挑战：通用大模型在农业咨询场景中容易产生幻觉建议和缺乏针对性的解决方案，而农业决策的高风险性意味着错误信息可能直接导致农户经济损失。研究提出的混合架构创新在于将事实检索与对话生成解耦，通过LoRA微调专注于提升事实召回能力，同时保留模型的语言生成灵活性。这一设计在印度比哈尔邦的测试验证了可行性，表明经过领域数据微调的小模型即可达到接近大模型的准确度，而成本大幅降低。\n\n对于行业而言，该方案具有重要参考价值：它证明了在专业垂直领域，精细化的数据治理和模型调优比盲目追求模型规模更为有效。随着全球气候变化和粮食安全压力增加，农业AI市场正在快速扩张，该研究为如何构建可信赖、低成本的农业智能助手提供了技术路径。值得注意的是，方案中强调的原子化知识验证和安全保障机制，对于医疗健康、法律咨询等同样具有高风险属性的领域同样具有借鉴意义。预计未来一到两年内，农业AI将加速从概念验证阶段向规模化部署过渡，而领域特定微调和混合架构将成为行业标准配置。",
+  "tags": [
+    "人工智能",
+    "农业技术",
+    "NLP"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:55:29.591231+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

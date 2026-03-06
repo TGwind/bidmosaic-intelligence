@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "OpenClaw 热潮下，团队级 AI Coding 怎么落地？",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/video/21qReTQmsHdckEC9ZuPZ?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T18:09:30+00:00",
+  "id": "0507543f-c2e1-4cf2-88a5-cc1bb74b3429",
+  "generated_title": "团队级AI编程落地实践探索",
+  "generated_summary": "探讨OpenClaw热潮下，企业团队如何有效引入AI编程工具，聚焦协作流程与项目管理挑战。",
+  "generated_analysis": "AI编程工具正从个人效率提升向团队协作场景深度渗透，这一转变的本质是软件开发生产力的范式重构。当前企业面临的的核心挑战已非工具选型，而是如何将AI能力嵌入现有研发流程并实现组织级治理。短期内，团队级AI编程将显著提升代码审查效率与需求到原型的转化速度，但同时带来知识资产归属、代码质量边界模糊等管理难题。中期来看，具备项目管理与协作能力的一体化平台将占据主流市场，单点工具将面临整合压力。值得关注的是，人机协作模式下的角色分工正在重新定义，开发者需向架构设计与业务抽象能力迁移。建议企业决策者优先关注工具的可扩展性、数据安全合规性及与现有CI/CD流程的兼容性，同时建立AI辅助编程的团队规范与培训体系，以在效率提升与风险管控间实现平衡。",
+  "tags": [
+    "AI编程",
+    "团队协作",
+    "软件开发"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:00.959188+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

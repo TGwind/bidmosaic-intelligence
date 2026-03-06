@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Cluely CEO Roy Lee admits to publicly lying about revenue numbers last year",
+  "raw_content": "The $7 million in annual recurring revenue that Cluely CEO Roy Lee shared last summer was a lie, its founder and CEO Roy Lee admitted on Thursday on X.",
+  "source_url": "https://techcrunch.com/2026/03/05/cluely-ceo-roy-lee-admits-to-publicly-lying-about-revenue-numbers-last-year/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T22:38:26+00:00",
+  "id": "16075cf1-ccd9-4089-b644-5880cdda8d4a",
+  "generated_title": "Cluely CEO承认虚报700万美元收入",
+  "generated_summary": "Cluely创始人兼CEO Roy Lee承认去年公开的700万美元年度经常性收入为虚假数据，引发诚信争议。",
+  "generated_analysis": "这一事件暴露出当前AI创业热潮中部分企业面临的诚信危机。在资本市场压力下，虚构财务数据已成为一些初创公司获取融资的隐蔽手段。对行业而言，此事将引发投资者对AI企业财务真实性的深度审视，预计将推动尽职调查流程趋严，并可能促使风投机构建立更严格的财务验证机制。同时，监管机构可能加强对科技公司信息披露的合规要求。对于Cluely而言，品牌信誉遭受重创，未来融资难度将显著上升。此类事件的溢出效应可能导致市场对AI初创公司估值趋于理性，创业者需更加重视财务合规与信息披露的真实透明，以重建投资者信任。",
+  "tags": [
+    "营收造假",
+    "科技公司",
+    "CEO丑闻"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:19:11.093131+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+  "raw_content": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+  "source_url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-12T16:15:09+00:00",
+  "id": "13c1a0a4-f2b1-41a5-a676-8b8a01187f50",
+  "generated_title": "Gemini 3深度思考模式更新：助力科学研究与工程",
+  "generated_summary": "DeepMind更新Gemini 3推理模式，专为解决现代科学研究和工程挑战而设计。",
+  "generated_analysis": "此次更新标志着AI能力从通用向专业领域的深度渗透。DeepMind将Gemini 3的推理模式聚焦于科学研究与工程领域，体现出AI技术正在从“泛化理解”转向“垂直深耕”。对于科研机构而言，这意味着复杂的多变量计算、跨学科数据分析和假设验证的效率将大幅提升，缩短研究周期；对工程行业来说，涉及复杂系统设计、参数优化和风险评估的场景将获得更精准的决策支持。\n\n从市场格局看，此举将加剧AI在专业垂直领域的竞争，科研与工程软件赛道面临重构，传统工程仿真和科研分析工具供应商需加速技术融合。预计未来两到三年，专业化AI推理能力将成为产业智能化转型的关键差异化因素，企业应提前评估其在研发和工程流程中引入此类能力的路径与成本。",
+  "tags": [
+    "人工智能",
+    "深度学习",
+    "谷歌Gemini",
+    "科学研究"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:18:43.723320+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

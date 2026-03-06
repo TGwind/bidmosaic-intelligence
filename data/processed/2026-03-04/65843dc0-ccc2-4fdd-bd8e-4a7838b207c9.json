@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Statement by Pablo Hernández de Cos, BIS General Manager, on François Villeroy de Galhau",
+  "raw_content": "François Villeroy de Galhau, Governor of the Bank of France, today announced his decision to leave the Bank of France at the beginning of June to become President of the Fondation Apprentis d'Auteuil. Accordingly, he will step down from his position as Chair of the BIS Board of Directors.",
+  "source_url": "https://www.bis.org/press/p260209.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:20:01.223450+00:00",
+  "id": "65843dc0-ccc2-4fdd-bd8e-4a7838b207c9",
+  "generated_title": "法国央行行长Villeroy de Galhau离职，转任慈善基金会主席并卸任BIS主席",
+  "generated_summary": "法国央行行长Villeroy de Galhau宣布将于6月初离职，转任Fondation Apprentis d'Auteuil主席，同时卸任国际清算银行董事会主席职务。",
+  "generated_analysis": "Villeroy de Galhau提前结束央行行长任期并转型慈善事业，这一变动值得关注。作为同时担任法国央行行长和国际清算银行董事会主席的重要金融官员，其离职将产生多重影响。\n\n首先，法国央行领导层更替可能影响欧洲货币政策的执行连续性，尽管当前欧洲央行政策框架已相当成熟，短期波动有限。其次，BIS作为全球央行合作的枢纽，新主席选举过程将受到国际金融界密切关注，可能影响各国央行在流动性管理、金融稳定等议题上的协调效率。\n\n值得注意的是，从央行高层转向慈善组织在金融界较为罕见，这或许反映出资深金融官员对公共利益角色的新探索。对企业决策者而言，应关注法国新行长人选及其政策立场，同时留意BIS主席更替对全球金融合作格局的潜在影响。欧洲货币政策在当前通胀压力缓解阶段保持连续性仍是大概率事件。",
+  "tags": [
+    "央行",
+    "人事变动",
+    "国际组织",
+    "欧洲金融"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:48:48.325275+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

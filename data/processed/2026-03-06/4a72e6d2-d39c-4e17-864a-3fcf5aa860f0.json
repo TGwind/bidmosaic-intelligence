@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Dollar-cost averaging Bitcoin is safest strategy for long-term gains: Data",
+  "raw_content": "Backtested data and forward-looking models found that dollar-cost averaging Bitcoin buys is the best way to invest in BTC. Will the strategy work in the next bull market?",
+  "source_url": "https://cointelegraph.com/news/dollar-cost-averaging-bitcoin-is-safest-strategy-for-long-term-gains-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T19:47:17+00:00",
+  "id": "4a72e6d2-d39c-4e17-864a-3fcf5aa860f0",
+  "generated_title": "研究显示比特币定投是长期收益最安全策略",
+  "generated_summary": "回测数据和前瞻性模型表明定投比特币是最佳投资方式，但该策略在下一轮牛市是否有效仍待验证",
+  "generated_analysis": "比特币定投策略的回测数据验证了长期持有分散买入时点能够有效平滑市场波动带来的影响，这对于机构投资者和合规资金具有重要参考意义。该策略的本质是通过时间换空间，在高位少买、低位多买，从而降低持仓成本。从市场影响角度看，若该策略在下一轮牛市中继续有效，将加速传统金融机构对加密资产配置工具的布局，推动更多被动型加密投资产品问世。然而需要审慎的是，历史回测存在幸存者偏差，且加密市场正处于快速成熟阶段，随着机构参与度提升和市场结构优化，过去的规律未必能完全复制。判断趋势应关注两个关键变量：一是比特币ETF等合规渠道的资金流入规模，二是链上持币地址分布的变化。对于企业决策者而言，定投策略可作为加密资产配置的基石策略，但需设置明确的退出机制和仓位上限，以应对市场范式转换带来的不确定性。",
+  "tags": [
+    "比特币",
+    "投资策略",
+    "定投",
+    "长期收益"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:23:43.072389+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

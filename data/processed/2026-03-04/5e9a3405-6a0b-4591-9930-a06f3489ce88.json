@@ -1,0 +1,48 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "特变电工(600089) 今日涨4.01% 报30.87元",
+  "raw_content": "特变电工(600089) 最新价 30.87元，涨4.01%，涨跌额 +1.19元，今开 29.11元，最高 31.59元，最低 29.11元，昨收 29.68元，成交额 126.53亿元，振幅 8.36%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh600089/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:19:54.969247+00:00",
+  "id": "5e9a3405-6a0b-4591-9930-a06f3489ce88",
+  "generated_title": "特变电工(600089) 今日涨4.01% 报30.87元 | 持有",
+  "generated_summary": "趋势: 偏强 · 信号: 持有",
+  "generated_analysis": "今日特变电工高开高走，放量大涨4.01%收于30.87元，股价突破近期震荡区间，呈现强势上攻态势。量价配合良好，成交额达126.53亿元，振幅8.36%显示市场交投活跃，买盘意愿强烈。从技术面看，股价站上多条短期均线，MACD金叉向上，短期趋势转强。公司作为光伏、特高压、新能源领域的龙头企业，受益于政策红利和行业景气度提升，基本面支撑较强。但需注意今日涨幅较大，短期或存在技术性回调压力，建议持有待涨，逢回调可适度增持。\n\n风险提示: 短期涨幅较大，警惕技术性回调风险；光伏行业竞争加剧及原材料价格波动可能影响业绩。",
+  "tags": [
+    "A股",
+    "偏强",
+    "持有"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:45:40.910352+00:00",
+  "market_data": {
+    "symbols": [
+      "600089"
+    ],
+    "price_change": {
+      "price": 30.87,
+      "change_pct": 4.01,
+      "change_amt": 1.19
+    },
+    "indicators": {
+      "volume": 410071120.0,
+      "turnover": 12652962114.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 8.36,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "持有",
+    "risk": "短期涨幅较大，警惕技术性回调风险；光伏行业竞争加剧及原材料价格波动可能影响业绩。"
+  }
+}

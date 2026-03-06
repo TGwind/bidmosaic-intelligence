@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "创作素材 or 未完待续？，浅谈周杰伦田馥甄未来走向，JH或将在2026年迎来大结局？",
+  "raw_content": "创作素材 or 未完待续？，浅谈周杰伦田馥甄未来走向，JH或将在2026年迎来大结局？",
+  "source_url": "https://www.bilibili.com/video/BV1cuPKzjEC1",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-05T07:34:30.174881+00:00",
+  "id": "9c9515e8-7338-4927-b0ee-c5cb174cbe74",
+  "generated_title": "周杰伦田馥甄未来发展引热议",
+  "generated_summary": "B站热门讨论周杰伦、田馥甄未来走向，话题涉及JH在2026年可能迎来大结局",
+  "generated_analysis": "",
+  "tags": [
+    "娱乐",
+    "明星",
+    "周杰伦",
+    "田馥甄"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-05T07:35:41.295473+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1551392,
+    "platform": "bilibili"
+  }
+}

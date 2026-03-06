@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "麦格米特(002851) 今日涨0.57% 报129.32元",
+  "raw_content": "麦格米特(002851) 最新价 129.32元，涨0.57%，涨跌额 +0.73元，今开 128.71元，最高 130.60元，最低 126.16元，昨收 128.59元，成交额 6.48亿元，振幅 3.45%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz002851/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-06T02:15:17.645939+00:00",
+  "id": "23ceab67-89fc-48b2-b72b-77464a387dc6",
+  "generated_title": "麦格米特(002851) 今日涨0.57% 报129.32元 | 增持",
+  "generated_summary": "趋势: 偏强 · 信号: 增持 · 评分: 72",
+  "generated_analysis": "麦格米特今日小幅上涨0.57%，股价报收129.32元，站稳5日均线。从技术面看，股价位于短期均线之上，乖离率接近0%，属于健康的上涨中继形态。成交额6.48亿元，振幅3.45%，显示多空双方博弈平衡，筹码锁定良好。基本面方面，公司作为智能制造装备供应商，受益于新能源和工业自动化赛道，业绩具备成长性。当前位置适合顺势而为，但需等待回调再考虑加仓而非追高。\n\n风险提示: 若大盘出现明显调整，需警惕跟随下跌风险；股价跌破125元需考虑止损。",
+  "tags": [
+    "A股",
+    "偏强",
+    "增持"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:17:26.617208+00:00",
+  "market_data": {
+    "symbols": [
+      "002851"
+    ],
+    "price_change": {
+      "price": 129.32,
+      "change_pct": 0.57,
+      "change_amt": 0.73
+    },
+    "indicators": {
+      "volume": 5050256.0,
+      "turnover": 647876436.98,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 3.45,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "增持",
+    "risk": "若大盘出现明显调整，需警惕跟随下跌风险；股价跌破125元需考虑止损。",
+    "confidence": "中",
+    "sentiment_score": 72,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "股价站稳MA5均线，乖离率安全，可逢回踩MA10增仓",
+        "time_sensitivity": "本周内",
+        "position_advice": {
+          "no_position": "建议在128.5-129元区间分批建仓，首次建仓30%仓位",
+          "has_position": "继续持有，可逢回调至MA10附近加仓做T"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5>MA10>MA20多头排列（推断）",
+        "is_bullish": true,
+        "trend_score": 75,
+        "bias_ma5": 0.0,
+        "bias_status": "安全",
+        "support_level": "128.00",
+        "resistance_level": "135.00",
+        "volume_status": "平量",
+        "volume_meaning": "成交额6.48亿元属于日常交易水平，多空平衡，未出现恐慌抛售或激进追高"
+      },
+      "battle_plan": {
+        "ideal_buy": "128.00-128.50元",
+        "secondary_buy": "129.00元附近",
+        "stop_loss": "125.00元",
+        "take_profit": "135.00-138.00元",
+        "suggested_position": "30%-50%",
+        "entry_plan": "首仓30%在128.5元，回踩MA10加仓20%，突破前高再加仓20%"
+      },
+      "checklist": [
+        "✅ 多头排列",
+        "✅ 乖离率合理",
+        "✅ 量能配合",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "大盘系统性风险可能导致跟随下跌",
+        "股价已从低点反弹约15%，存在短期获利回吐压力",
+        "制造业周期波动可能影响业绩预期"
+      ],
+      "positive_catalysts": [
+        "新能源装备概念受益于行业发展趋势",
+        "智能制造赛道长期景气",
+        "股价处于上升通道中，技术面做多动能充足"
+      ],
+      "short_term_outlook": "短期1-3日有望继续震荡上行，若能放量突破130元压力位，可能开启新一轮上涨。回调支撑看128元附近。",
+      "medium_term_outlook": "中期1-2周维持偏强震荡格局，若站稳130元上方有望冲击135元前高。需关注成交量能否持续放大。"
+    }
+  }
+}

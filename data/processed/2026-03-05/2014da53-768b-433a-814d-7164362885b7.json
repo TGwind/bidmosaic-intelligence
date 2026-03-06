@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+  "raw_content": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+  "source_url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-01-27T14:55:00+00:00",
+  "id": "2014da53-768b-433a-814d-7164362885b7",
+  "generated_title": "DeepSeek AI模型冲击美股 日元瑞士法郎避险升值",
+  "generated_summary": "中国初创公司DeepSeek发布新AI模型引发美国科技股暴跌，市场避险情绪升温，日元和瑞士法郎对美元汇率上升。",
+  "generated_analysis": "DeepSeek新AI模型的发布标志着中国在人工智能领域取得了实质性突破，这对全球AI竞争格局具有深远意义。此次事件之所以引发市场剧烈波动，根本原因在于投资者长期看好美国科技股上涨趋势被打破，市场开始重新评估美国科技企业的竞争优势和估值基础。\n\n从行业影响看，这一事件将产生多重效应：首先，全球AI竞争将进入更加多元化的阶段，美国科技巨头面临来自中国的实质性挑战；其次，科技股估值面临回调压力，投资者将更加关注AI技术的实际应用价值和盈利能力而非单纯的概念炒作；第三，风险偏好下降使避险资产需求上升，反映出市场对地缘政治风险和技术竞争不确定性的担忧。\n\n对于企业决策者而言，需要关注以下趋势：AI技术迭代速度正在加快，单纯的技术领先优势难以持续；全球供应链和技术合作可能面临更多不确定性；企业应加强AI领域的自主研发能力，同时做好风险管理预案以应对市场波动。",
+  "tags": [
+    "AI模型",
+    "避险货币",
+    "金融市场"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:29.552986+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

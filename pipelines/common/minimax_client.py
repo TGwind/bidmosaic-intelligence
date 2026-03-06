@@ -16,6 +16,7 @@ class MiniMaxClient:
         self._client = anthropic.Anthropic(
             api_key=self.api_key,
             base_url=MINIMAX_BASE_URL,
+            timeout=60.0,
         )
 
     def chat(

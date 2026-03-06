@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LifeBench: A Benchmark for Long-Horizon Multi-Source Memory",
+  "raw_content": "arXiv:2603.03781v1 Announce Type: new Abstract: Long-term memory is fundamental for personalized agents capable of accumulating knowledge, reasoning over user experiences, and adapting across time. However, existing memory benchmarks primarily target declarative memory, specifically semantic and episodic types, where all information is explicitly presented in dialogues. In contrast, real-world actions are also governed by non-declarative memory, including habitual and procedural types, and need to be inferred from diverse digital traces. To bridge this gap, we introduce Lifebench, which features densely connected, long-horizon event simulation. It pushes AI agents beyond simple recall, requiring the integration of declarative and non-declarative memory reasoning across diverse and temporally extended contexts. Building such a benchmark presents two key challenges: ensuring data quality and scalability. We maintain data quality by employing real-world priors, including anonymized social surveys, map APIs, and holiday-integrated calendars, thus enforcing fidelity, diversity and behavioral rationality within the dataset. Towards scalability, we draw inspiration from cognitive science and structure events according to their partonomic hierarchy; enabling efficient parallel generation while maintaining global coherence. Performance results show that top-tier, state-of-the-art memory systems reach just 55.2\\% accuracy, highlighting the inherent difficulty of long-horizon retrieval and multi-source integration within our proposed benchmark. The dataset and data synthesis code are available at https://github.com/1754955896/LifeBench.",
+  "source_url": "https://arxiv.org/abs/2603.03781",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "4666c9fe-53e8-49cd-bcc0-c92aaa21df48",
+  "generated_title": "LifeBench：长期多源记忆基准测试发布",
+  "generated_summary": "AI基准测试评估长期记忆整合能力，最佳系统准确率仅55.2%，推动AI代理记忆研究。",
+  "generated_analysis": "AI记忆系统面临重大技术瓶颈。LifeBench基准测试的发布揭示了一个关键问题：当前最先进的AI记忆系统准确率仅为55.2%，这意味着即便在受控测试环境下，AI仍难以有效整合长期多源记忆信息。\n\n这一发现对行业具有深远意义。首先，它将推动AI代理（Agent）技术的范式转移——从单纯追求对话能力转向构建真正具备持续学习和个性化适应能力的智能系统。其次，55.2%的准确率表明行业在非陈述性记忆（习惯性、程序性记忆）整合方面存在显著短板，而这恰恰是AI理解用户行为模式、提供个性化服务的技术基础。\n\n对于企业决策者而言，这一基准测试预示几个趋势：一是具备先进记忆架构的AI企业将建立明显竞争优势；二是垂直领域的知识积累和用户行为理解将成为差异化关键；三是人机协作场景中，AI的长期记忆能力将直接影响用户体验和商业价值转化。建议关注在记忆检索、多源信息融合方面有技术突破的企业，以及将AI代理应用于需要持续用户理解的场景（如智能客服、个人助理、垂直领域顾问）的商业化进展。",
+  "tags": [
+    "人工智能",
+    "基准测试",
+    "长期记忆",
+    "大语言模型"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:03.454644+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

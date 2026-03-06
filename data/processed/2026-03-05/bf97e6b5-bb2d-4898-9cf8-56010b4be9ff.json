@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "政府工作报告用185字定调楼市",
+  "raw_content": "政府工作报告用185字定调楼市",
+  "source_url": "https://www.toutiao.com/trending/7613402593448820777/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613402593448820777%22%2C%22hot_board_impr_id%22%3A%222026030515342384A79959823D7B68E839%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E7%94%A8185%E5%AD%97%E5%AE%9A%E8%B0%83%E6%A5%BC%E5%B8%82%22%7D&rank=&style_id=40132&topic_id=7613402593448820777",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T07:34:23.617873+00:00",
+  "id": "bf97e6b5-bb2d-4898-9cf8-56010b4be9ff",
+  "generated_title": "政府工作报告185字定调楼市",
+  "generated_summary": "政府工作报告以185字阐述2024年房地产市场政策走向，强调稳地价、稳房价、稳预期。",
+  "generated_analysis": "从2024年政府工作报告对房地产仅以185字定调可以看出，决策层对楼市调控已进入“精准施策、托底为主”的新阶段。“稳地价、稳房价、稳预期”三稳目标的再次强调，表明政策重心从前期去杠杆转向防范市场硬着陆风险。\n\n对行业而言，这意味着短期政策底已基本确立，但大幅刺激可能性较低。地方政府的因城施策空间将有所扩大，而中央层面更强调“指导”而非“命令”。对企业决策者来说，需重点关注两点：一是融资端政策可能继续边际放松，帮助优质房企渡过流动性难关；二是市场分化将加剧，一二线城市核心地段有支撑，而三四线城市仍面临去化压力。\n\n趋势判断上，预计2024年房地产政策将以“稳”为主旋律，不会出现大规模刺激，但也不会放任风险蔓延。成交量可能低位企稳，房价整体仍有小幅调整空间。企业应利用政策窗口期加快存货周转，聚焦核心城市优质资产，同时做好长期过冬准备，现金为王的逻辑仍将延续。",
+  "tags": [
+    "房地产",
+    "政策",
+    "楼市调控"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:11.852638+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15840171",
+    "platform": "toutiao"
+  }
+}

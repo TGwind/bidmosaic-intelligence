@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+  "raw_content": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+  "source_url": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T17:00:00+00:00",
+  "id": "52804675-a81a-47c0-8433-fa208a91c5cf",
+  "generated_title": "Google Search推出AI画布功能 支持文档起草与工具构建",
+  "generated_summary": "Google在Search中推出Canvas in AI Mode功能，现已向美国所有用户开放，可帮助用户直接起草文档和构建交互式工具。",
+  "generated_analysis": "Google此次将Canvas功能整合进Search，标志着搜索从“信息获取工具”向“任务执行平台”的根本转型。此举背后是Google面对微软Copilot、Perplexity等AI搜索竞争者的战略防御——通过将文档起草、工具构建等生产力功能嵌入搜索框，Google意在将用户留在其生态内完成完整工作流，而非跳转到其他应用。\n\n对行业而言，这意味着搜索引擎的商业模式正在被重塑。传统搜索的广告位将面临压缩，因为用户获取信息后可直接在搜索结果页完成操作，企业的SEO策略需要重新思考如何在这一闭环中保持可见度。同时，文档与工具创建功能的开放将直接冲击Notion、Canva等协作工具市场，Google正以零边际成本的方式侵蚀这些细分领域。\n\n短期内可预见三个趋势：其一，AI搜索将从“提供答案”升级为“代完成任务”；其二，办公软件的边界将进一步模糊，一站式AI工作台将成为标配；其三，企业需要重新评估数字营销渠道，在搜索行为发生根本变化前调整获客策略。Google此举可能引发行业新一轮功能整合竞赛。",
+  "tags": [
+    "Google",
+    "AI应用",
+    "搜索引擎",
+    "产品发布"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:24:19.151215+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

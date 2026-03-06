@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+  "raw_content": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed.",
+  "source_url": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T16:01:50+00:00",
+  "id": "3dbb787a-4baa-4fcc-962c-de8206951b5b",
+  "generated_title": "DeepMind发布Nano Banana 2图像生成模型",
+  "generated_summary": "DeepMind推出新一代图像生成模型，具备世界知识、主体一致性等特性，兼顾专业能力与快速生成",
+  "generated_analysis": "DeepMind此次发布Nano Banana 2，标志着图像生成领域竞争进一步加剧。该模型强调的“世界知识”能力，使AI能够理解现实世界的物理规律和物体间关系，生成的图像将更加符合人类认知；主体一致性则解决了商业应用中保持同一角色或产品形象的核心痛点，这对广告设计、游戏资产创建、电商产品展示等领域意义重大。\n\n从市场角度看，Flash级别的生成速度大幅提升了实际应用可行性，企业可将其深度整合进工作流程，而非仅作为创意探索工具。预计这将加速AIGC在营销、媒体、创意产业的规模化落地，同时对现有图像生成平台形成直接竞争压力。\n\n行业趋势上，多模态理解与生成能力的融合将成为下一代AI图像模型的标准配置。企业决策者应关注两项关键议题：一是评估自身业务场景中图像生成的需求强度，二是建立AI内容生产的合规与质量管控体系，以在技术迭代中保持竞争优势。",
+  "tags": [
+    "人工智能",
+    "图像生成",
+    "模型发布",
+    "Google DeepMind"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:50:20.328957+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

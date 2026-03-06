@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Project Silica’s advances in glass storage technology",
+  "raw_content": "Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while supporting 10,000-year data preservation. The post Project Silica’s advances in glass storage technology appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-18T16:11:45+00:00",
+  "id": "bece151f-c08a-4840-851e-3b0d3f01e41c",
+  "generated_title": "微软玻璃存储技术突破实现万年数据保存",
+  "generated_summary": "微软Project Silica研发新型硼硅酸盐玻璃数据存储技术，可实现万年数据保存，同时降低媒体成本并简化读写系统。",
+  "generated_analysis": "这一技术突破标志着数据存储领域迈入全新里程碑。当前全球数据量呈指数级增长，而传统存储介质无论硬盘、磁带或固态硬盘，其物理寿命通常仅需数年至数十年，难以满足文化遗产、政府档案、医疗记录等需要超长期保存的场景的需求。微软此次在硼硅酸盐玻璃存储上的进展，不仅将数据保存期限延长至万年尺度，更通过降低介质成本和简化读写系统，为商业化应用扫清了主要障碍。\n\n从市场角度看，这一技术对传统存储巨头构成潜在挑战，尤其在归档存储市场可能引发技术替代趋势。但考虑到当前玻璃存储仍处于技术验证阶段，其大规模商业化仍需克服读写速度、成本控制及生态系统建设等挑战。未来三到五年内，该技术更可能先在政府、博物馆、金融等对数据永续性有刚性需求的垂直领域落地，再逐步向通用市场渗透。对于企业决策者而言，关注微软及行业跟进者的技术成熟度曲线，提前评估在超长期数据存储战略中的技术选型，将是前瞻性布局的关键。",
+  "tags": [
+    "玻璃存储",
+    "数据存储",
+    "Microsoft",
+    "技术创新"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:58:21.869548+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

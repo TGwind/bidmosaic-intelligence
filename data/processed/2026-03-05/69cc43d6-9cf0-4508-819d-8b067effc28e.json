@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
+  "raw_content": "Understanding How DeepSeek's Flagship Open-Weight Models Evolved",
+  "source_url": "https://magazine.sebastianraschka.com/p/technical-deepseek",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2025-12-03T12:03:33+00:00",
+  "id": "69cc43d6-9cf0-4508-819d-8b067effc28e",
+  "generated_title": "DeepSeek V3至V3.2架构演进与RL更新解析",
+  "generated_summary": "深度解析DeepSeek开源权重模型从V3到V3.2的架构改进、稀疏注意力机制和强化学习更新",
+  "generated_analysis": "DeepSeek V3至V3.2的架构演进标志着开源大语言模型竞争进入新阶段。此次更新聚焦于稀疏注意力机制优化和强化学习能力的整合，体现了大模型效率与性能并重的发展趋势。稀疏注意力通过降低计算复杂度，使模型在保持推理质量的同时显著减少资源消耗，这对于企业部署成本控制具有直接价值。\n\n从行业影响看，DeepSeek的开源策略正在重塑AI基础设施工具链格局。随着模型能力逼近闭源顶级产品，企业在AI选型时将更多考量开源生态的灵活性与成本优势。预计更多组织将采用“开源基座+垂直微调”的混合部署策略，推动私有化AI解决方案市场增长。\n\n趋势判断：2024-2025年，开源模型与闭源模型的性能差距将持续收窄，行业竞争焦点从单纯参数规模转向推理效率与部署成本。企业决策者应关注模型架构演进背后的算力利用率提升，这将是评估AI投资回报的关键维度。",
+  "tags": [
+    "DeepSeek",
+    "大语言模型",
+    "开源模型",
+    "模型架构"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:53:55.282592+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

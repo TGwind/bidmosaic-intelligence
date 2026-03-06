@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LWiAI Podcast #235 - Sonnet 4.6, Deep-thinking tokens, Anthropic vs Pentagon",
+  "raw_content": "Anthropic releases Sonnet 4.6, Google Rolls Out Gemini 3.1 Pro, Anthropic CEO Amodei says Pentagon&#8217;s threats &#8216;do not change our position&#8217; on AI",
+  "source_url": "https://lastweekin.ai/p/lwiai-podcast-235-sonnet-46-deep",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T08:42:21+00:00",
+  "id": "01901306-8066-4b1c-a3f2-cefd1d046fdd",
+  "generated_title": "AI模型发布竞赛：Anthropic发布Sonnet 4.6，Google推出Gemini 3.1 Pro",
+  "generated_summary": "Anthropic推出Sonnet 4.6模型，Google发布Gemini 3.1 Pro，Anthropic CEO明确回应五角大楼威胁不会改变公司立场",
+  "generated_analysis": "AI模型竞争已从单纯的技术迭代演变为地缘政治与商业战略的多维博弈。Anthropic与Google同期发布新一代模型，凸显行业竞争白热化，同时Anthropic CEO对五角大楼威胁的强硬表态，意味着AI公司正在被推向国家安全议题的风口浪尖。这一事件预示着未来AI竞争将呈现技术能力与政策应对双重赛道的特征，企业在选择AI供应商时需综合评估技术先进性与地缘政治风险。短期内，模型能力差距将继续收窄，竞争焦点转向特定场景的落地能力；中长期看，能否在监管压力下保持战略独立性将成为AI企业分化的关键。建议企业决策者构建多元化的AI合作伙伴关系，避免过度依赖单一供应商，同时密切关注各国AI监管政策动向，为可能的技术出口限制或数据合规要求做好准备。",
+  "tags": [
+    "AI模型发布",
+    "大模型竞争",
+    "Anthropic",
+    "Google"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:17:29.135055+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

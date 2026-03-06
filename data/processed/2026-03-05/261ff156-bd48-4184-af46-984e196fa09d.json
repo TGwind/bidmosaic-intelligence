@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How much wildfire prevention is too much?",
+  "raw_content": "The race to prevent the worst wildfires has been an increasingly high-tech one. Companies are proposing AI fire detection systems and drones that can stamp out early blazes. And now, one Canadian startup says it’s going after lightning. Lightning-sparked fires can be a big deal: The Canadian wildfires of 2023 generated nearly 500 million metric&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T11:00:00+00:00",
+  "id": "261ff156-bd48-4184-af46-984e196fa09d",
+  "generated_title": "加拿大公司利用AI和无人机预防野火",
+  "generated_summary": "加拿大初创公司开发AI火灾检测系统和无人机预防野火，并将目标对准闪电引发的火灾。",
+  "generated_analysis": "2023年加拿大野火排放近5亿吨二氧化碳，创历史纪录，凸显极端气候事件对全球碳循环的深刻影响。该公司聚焦闪电这一传统监测盲区，将AI图像识别与无人机巡检相结合，标志着野火防控从被动响应向主动预防转型。技术层面，多光谱传感器的成本下降和边缘计算能力的提升，使大规模部署成为经济可行的选择。从市场角度看，这代表智能消防解决方案正从概念验证走向商业化落地。保险业、能源公司和政府环保部门将成为核心客户，他们对风险减量服务的需求将驱动相关投资加速。趋势上，预计未来三到五年，AI驱动的野火预警系统将成为林业管理和气候适应的基础设施，同时无人机灭火技术的成熟将催生新的应急服务模式。先行者有望建立技术标准和渠道壁垒，具备数据积累优势的企业将占据先机。",
+  "tags": [
+    "AI技术",
+    "野火预防",
+    "无人机",
+    "加拿大科技"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:41.970973+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

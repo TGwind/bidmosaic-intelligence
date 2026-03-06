@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin miners offload 15K BTC since October, with more sales expected",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin miners offload 15K BTC since October, with more sales expected\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlZjEtYTA5Ny03YWVhLTlkZWYtZGI2MTViYjg3MTQyLmpwZw==.jpg\" /></p><p>Public miners are trimming Bitcoin reserves as tightening margins, debt pressure and a post-crash reset force the industry to rethink its once-popular hold strategy.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-miners-unwind-btc-treasuries-margin-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T20:48:37+00:00",
+  "id": "f3c52992-e2f8-4a63-ab22-c5841405e19c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

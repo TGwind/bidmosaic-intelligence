@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "How 1,000+ customer calls shaped a breakout enterprise AI startup",
+  "raw_content": "On this episode of Build Mode, David Park joins Isabelle Johannessen to discuss how he and his team are intentionally iterating, fundraising, and scaling Narada.",
+  "source_url": "https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T13:15:00+00:00",
+  "id": "67cdb1e8-db7e-40cb-88e7-945a0179c9b6",
+  "generated_title": "千次客户电话成就企业AI新星Narada的成长之路",
+  "generated_summary": "TechCrunch播客访谈Narada创始人，揭示其通过超千次客户通话迭代产品、融资及规模化的发展历程。",
+  "generated_analysis": "Narada通过超千次客户通话迭代产品的路径，揭示了当前AI创业领域的一个重要趋势：真正的产品市场契合度源于深度客户洞察而非单纯技术堆砌。在大模型技术日趋同质化的背景下，差异化的核心竞争力正从算法能力转向对垂直场景的深度理解。这种“泥土里生长”的打法，为AI企业提供了可复制的规模化路径——通过高频客户交互积累场景认知，形成数据飞轮与客户粘性的双重壁垒。对行业而言，这意味着AI应用层竞争将从技术比拼转向执行效率的比拼，企业决策者在选择AI供应商时，应重点评估其对特定场景的深耕程度与客户反馈迭代机制。对于投资人而言，Narada的案例再次证明，能够扎进业务一线、从客户痛点中提炼产品价值的团队，比纯粹追求技术领先的项目更具长期成长潜力。未来三到五年，能够将AI能力与行业Know-How深度融合的企业将占据更大市场份额。",
+  "tags": [
+    "人工智能",
+    "创业",
+    "融资"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:53:34.862099+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

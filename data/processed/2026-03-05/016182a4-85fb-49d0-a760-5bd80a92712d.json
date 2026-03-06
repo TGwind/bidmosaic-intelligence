@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Our agreement with the Department of War",
+  "raw_content": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+  "source_url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-28T12:30:00+00:00",
+  "id": "016182a4-85fb-49d0-a760-5bd80a92712d",
+  "generated_title": "OpenAI公布与国防部合同细节",
+  "generated_summary": "OpenAI公布与国防部合同的安全红线、法律保护及机密环境AI部署细节。",
+  "generated_analysis": "此次OpenAI公布与国防部合同细节，标志着其商业战略的重大调整。作为此前坚持非军事化原则的AI领军企业，此举意味着美军工市场已成为其重要收入来源。合同中明确的安全红线反映了AI在机密环境部署的严格合规要求，而法律保护条款则说明双方已建立风险分担机制。\n\n对行业而言，这将产生连锁反应：首先，其他AI巨头可能加速跟进军事应用布局，形成行业示范效应；其次，国防领域的高标准安全要求将推动AI技术向更安全可控方向发展；第三，AI公司需要在商业利益与伦理底线之间寻找新的平衡点。\n\n趋势判断上，预计未来1-2年内，更多AI企业将公开其政府合作框架，透明化将成为行业新趋势。同时，监管机构将加强对AI军事应用的审查，企业决策者需密切关注政策动向，在战略布局中预留合规空间。",
+  "tags": [
+    "AI公司",
+    "政府合作",
+    "军事应用"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:07.108611+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

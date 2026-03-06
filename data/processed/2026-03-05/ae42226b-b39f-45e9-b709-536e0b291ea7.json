@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Christine Lagarde: Turning size into scale: Europe’s new growth model",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260223~4c2aa74452.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-02-23T17:30:00+00:00",
+  "id": "ae42226b-b39f-45e9-b709-536e0b291ea7",
+  "generated_title": "拉加德：化规模为增长：欧洲新增长模式",
+  "generated_summary": "欧洲央行行长拉加德阐述欧洲如何将规模优势转化为实际增长动力，应对当前经济挑战。",
+  "generated_analysis": "拉加德此次阐述欧洲新增长模式，反映了欧盟在当前全球经济格局深刻调整下的战略转向。欧洲虽拥有统一大市场、成熟产业链和领先技术积累等规模优势，但长期面临增长动能不足、结构性改革滞后等挑战。\n\n对行业影响而言，这一模式将强化绿色经济和数字单一市场两大主线。可再生能源、电动汽车、先进制造等战略产业将获得更多政策倾斜和资本关注；同时，欧盟可能在监管协调、标准统一方面加速推进，为跨国企业创造更稳定的营商环境。\n\n趋势判断：欧洲正从被动应对转向主动塑造，2025-2030年间可能迎来一波以技术升级和绿色转型为驱动的增长周期。企业应关注欧盟产业政策的细化方向，特别是中小企业的数字化赋能、能源密集型产业的低碳转型路径以及跨境投资便利化的具体措施。在此背景下，具备技术优势和可持续发展能力的企业将获得更大的市场空间。",
+  "tags": [
+    "欧洲经济",
+    "货币政策",
+    "增长战略"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:57:37.470228+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

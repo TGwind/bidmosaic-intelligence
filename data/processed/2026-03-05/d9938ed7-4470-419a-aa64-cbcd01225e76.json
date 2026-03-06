@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "特变电工(600089) 今日涨6.19% 报32.78元",
+  "raw_content": "特变电工(600089) 最新价 32.78元，涨6.19%，涨跌额 +1.91元，今开 31.40元，最高 33.28元，最低 31.40元，昨收 30.87元，成交额 179.40亿元，振幅 6.09%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh600089/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T14:28:14.024764+00:00",
+  "id": "d9938ed7-4470-419a-aa64-cbcd01225e76",
+  "generated_title": "特变电工(600089) 今日涨6.19% 报32.78元 | 观望",
+  "generated_summary": "趋势: 偏弱 · 信号: 观望 · 评分: 45",
+  "generated_analysis": "特变电工今日大涨6.19%收于32.78元，股价呈现强势上涨态势。从技术面看，MA5>MA10>MA20保持多头排列，趋势向好。但今日涨幅过大导致乖离率约7.5%，已超过5%警戒线，属于'不追高'范畴。成交额179.40亿元明显放量，表明资金积极入场但也需警惕短期获利了结压力。基本面上，公司新能源业务订单充足，特高压建设持续推进，基本面保持稳健。综合来看，短线存在回调压力，建议等待股价回踩MA5(约30.5元)附近缩量企稳后再考虑介入。\n\n风险提示: 提示：股价已偏离MA5超过5%，追高风险较大。若明日高开低走或放量滞涨，应警惕短期头部信号。操作上务必等待回调再考虑买入，严格设好止损位。",
+  "tags": [
+    "A股",
+    "偏弱",
+    "观望"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:49:47.367794+00:00",
+  "market_data": {
+    "symbols": [
+      "600089"
+    ],
+    "price_change": {
+      "price": 32.78,
+      "change_pct": 6.19,
+      "change_amt": 1.91
+    },
+    "indicators": {
+      "volume": 552995662.0,
+      "turnover": 17939990503.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 6.09,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏弱",
+    "signal": "观望",
+    "risk": "提示：股价已偏离MA5超过5%，追高风险较大。若明日高开低走或放量滞涨，应警惕短期头部信号。操作上务必等待回调再考虑买入，严格设好止损位。",
+    "confidence": "低",
+    "sentiment_score": 45,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "今日涨幅过大乖离率偏高，需等待回调至MA5附近再考虑介入",
+        "time_sensitivity": "本周内",
+        "position_advice": {
+          "no_position": "不建议追高买入，等待股价回踩MA5(约30.5元)或MA10(约29.8元)附近缩量企稳后再考虑建仓",
+          "has_position": "可继续持有但需设好止盈位，若出现放量滞涨或跌破5日均线可考虑部分获利了结"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5>MA10>MA20呈现多头排列，但今日大涨后乖离率偏高",
+        "is_bullish": true,
+        "trend_score": 58,
+        "bias_ma5": 7.5,
+        "bias_status": "危险",
+        "support_level": "31.00元(MA5附近)",
+        "resistance_level": "33.28元(今日高点)",
+        "volume_status": "放量",
+        "volume_meaning": "成交额179.40亿元大幅放量，股价大涨但需警惕放量冲高回落风险"
+      },
+      "battle_plan": {
+        "ideal_buy": "30.50元(MA5附近)",
+        "secondary_buy": "29.80元(MA10附近)",
+        "stop_loss": "29.00元(跌破MA20)",
+        "take_profit": "35.00元(前期高点附近)",
+        "suggested_position": "30%仓位",
+        "entry_plan": "首次30%仓位，回踩MA5企稳后再加20%，有效跌破MA20止损"
+      },
+      "checklist": [
+        "⚠️ 多头排列",
+        "❌ 乖离率合理",
+        "✅ 量能配合",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "今日涨幅过大(6.19%)，短期乖离率偏高有回调压力",
+        "新能源板块整体波动较大，注意轮动风险",
+        "大盘走势不确定可能影响个股表现"
+      ],
+      "positive_catalysts": [
+        "新能源、特高压行业政策持续利好",
+        "公司订单充足，业绩预期向好",
+        "硅价企稳回升有利于光伏业务"
+      ],
+      "short_term_outlook": "预计1-3日内有回调压力，支撑位在31元附近，若能在MA5附近获得有效支撑则有望继续震荡上行，否则可能回踩MA10寻求支撑。",
+      "medium_term_outlook": "1-2周内若能企稳于MA5上方且成交量保持活跃，则有望挑战前期高点33.28元乃至35元目标位。中期趋势仍保持多头格局。"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A Brief Overview of Gender Bias in AI",
+  "raw_content": "A brief overview and discussion on gender bias in AI",
+  "source_url": "https://thegradient.pub/gender-bias-in-ai/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2024-04-08T15:54:53+00:00",
+  "id": "08013888-7fe9-4841-b3ba-5f662984626b",
+  "generated_title": "AI性别偏见概述与讨论",
+  "generated_summary": "探讨人工智能系统中存在的性别偏见问题，概述其表现形式、影响及应对方向",
+  "generated_analysis": "",
+  "tags": [
+    "人工智能",
+    "性别平等",
+    "算法偏见"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:17:39.216917+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

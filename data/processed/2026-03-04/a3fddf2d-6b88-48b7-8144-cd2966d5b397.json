@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Why AI startups are selling the same equity at two different prices",
+  "raw_content": "Some AI founders are using a novel valuation mechanism to manufacture unicorn status.",
+  "source_url": "https://techcrunch.com/2026/03/03/why-ai-startups-are-selling-the-same-equity-at-two-different-prices/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T00:31:25+00:00",
+  "id": "a3fddf2d-6b88-48b7-8144-cd2966d5b397",
+  "generated_title": "AI创业公司新型估值机制制造独角兽引争议",
+  "generated_summary": "部分AI创始人利用新型估值手段，同一股权以不同价格出售以制造独角兽身份，引发行业对估值泡沫的担忧。",
+  "generated_analysis": "这一现象反映了当前AI融资市场的深层矛盾。创始人利用所谓“估值引擎”或分层股权融资工具，人为制造高估值表象，本质上是一种数字游戏。其核心问题在于通过非对称交易制造虚假流动性，扰乱了市场的价格发现功能。\n\n对行业而言，此风气的蔓延将产生多重负面效应：首先，投资者可能被表象误导，做出错误决策；其次，诚信缺失将削弱资本市场对AI初创企业的信任基础；再次，扭曲的估值体系会误导资源分配，导致资本低效配置。\n\n趋势判断：随着财务报表陆续披露和技术估值方法透明化，这类操作的空间将明显收窄。头部机构已开始加强尽调深度，监管层面也可能出台针对性指引。长远看，行业将经历一轮估值纠偏，具备真实技术壁垒和商业落地能力的公司会逐步脱颖而出，而依赖资本运作的“伪独角兽”面临价值重估。企业决策者在评估AI标的时，需更加关注收入质量、技术壁垒和单位经济模型等硬指标。",
+  "tags": [
+    "AI创业",
+    "融资估值",
+    "独角兽"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:50:38.311820+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

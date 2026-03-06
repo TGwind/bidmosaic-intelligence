@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee discusses recent market developments and targeted review of cryptoasset standard",
+  "raw_content": "Discusses vulnerabilities in government bond-backed repo markets. Discusses progress of a targeted review of the prudential standard for banks' cryptoasset exposures. Announces date and location of the International Conference of Banking Supervisors.",
+  "source_url": "https://www.bis.org/press/p260225.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-06T02:15:16.741275+00:00",
+  "id": "26f8eade-c139-41ad-95c7-887a93591eee",
+  "generated_title": "巴塞尔委员会讨论回购市场脆弱性及加密资产审慎标准审查进展",
+  "generated_summary": "巴塞尔委员会会议讨论政府债券回购市场脆弱性，审议银行加密资产敞口审慎标准，并公布国际银行监管会议安排。",
+  "generated_analysis": "巴塞尔委员会此次会议将政府债券回购市场脆弱性纳入核心议程，反映出全球金融监管机构对市场结构性风险的深度关切。回购市场作为银行短期融资的重要渠道，其稳定性直接关系到金融体系的流动性安全。当前主要经济体央行紧缩周期下，政府债券价格波动加剧，抵押品价值评估难度上升，使得回购交易对手风险显著累积。对银行业而言，这意味着融资成本可能上升，资产负债表管理压力加大。\n\n在加密资产领域，委员会推进审慎标准审查，释放出加强监管协调的明确信号。随着加密市场与传统金融体系融合加深，银行持有加密资产敞口的风险敞口已成为不可忽视的系统性因素。巴塞尔框架的完善将推动银行建立更严格的资本缓冲和风险管理机制，同时为行业提供统一的监管预期。\n\n展望未来，回购市场改革和加密资产标准化监管将成为并行推进的重点方向。金融机构应提前布局流动性风险管理框架，密切关注巴塞尔标准的最终落地时间表，在合规成本与业务创新间寻求平衡。",
+  "tags": [
+    "巴塞尔委员会",
+    "银行监管",
+    "加密资产",
+    "金融稳定",
+    "回购市场"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:20:45.520453+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "建议春节9天假代表收到很多祝贺",
+  "raw_content": "建议春节9天假代表收到很多祝贺",
+  "source_url": "https://www.toutiao.com/trending/7613638680882167858/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613638680882167858%22%2C%22hot_board_impr_id%22%3A%22202603052228181AFFD88B2DEC34805AF5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BB%BA%E8%AE%AE%E6%98%A5%E8%8A%829%E5%A4%A9%E5%81%87%E4%BB%A3%E8%A1%A8%E6%94%B6%E5%88%B0%E5%BE%88%E5%A4%9A%E7%A5%9D%E8%B4%BA%22%7D&rank=&style_id=40132&topic_id=7613638680882167858",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T14:28:14.436109+00:00",
+  "id": "93a05596-d5da-4111-9572-f80e9ca7a4bd",
+  "generated_title": "人大代表建议春节放假9天引关注",
+  "generated_summary": "有人大代表提议将春节假期延长至9天，该建议受到广泛关注和祝贺。",
+  "generated_analysis": "",
+  "tags": [
+    "假期政策",
+    "春节",
+    "人大代表"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:47:49.298984+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20644558",
+    "platform": "toutiao"
+  }
+}

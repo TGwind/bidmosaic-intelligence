@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+  "raw_content": "Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. The post Paza: Introducing automatic speech recognition benchmarks and models for low resource languages appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-05T05:07:55+00:00",
+  "id": "1e96f1cf-d59c-4e4d-bc40-4a4ce267a8cd",
+  "generated_title": "微软发布首个低资源语言语音识别基准Paza",
+  "generated_summary": "微软研究院发布Paza语音管道和PazaBench排行榜，涵盖39种非洲语言和52个模型，填补低资源语言语音识别基准空白。",
+  "generated_analysis": "微软此次发布Paza基准填补了低资源语言语音识别领域的长期空白。非洲39种语言覆盖约6亿人口，但传统语音识别技术因训练数据稀缺、标注成本高企而难以惠及这些地区。Paza的意义不仅在于提供了首个系统性评估框架，更在于其“人本设计”理念——通过与当地社区合作确保技术真正适配真实使用场景，这对后续技术落地至关重要。\n\n从行业影响看，Paza将产生三重效应：一是降低中小企业进入非洲语音市场的技术门槛，52个模型的开放将加速应用生态形成；二是倒逼科技巨头加大边缘侧部署投入，低资源场景的推理优化成为新的竞争维度；三是为多语种AI治理提供数据基础，有助于缓解语言数字化带来的文化鸿沟。\n\n趋势判断上，预计未来1-2年内将出现两极分化：英语、中文等高资源语言赛道趋于饱和，而东南亚、中亚、南美等地区的低资源语言基准将密集发布。企业决策者应关注三点：本地化数据合作渠道、边缘计算能力、以及跨语言迁移学习技术的成熟度。",
+  "tags": [
+    "语音识别",
+    "低资源语言",
+    "人工智能",
+    "机器学习"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:20:14.038683+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

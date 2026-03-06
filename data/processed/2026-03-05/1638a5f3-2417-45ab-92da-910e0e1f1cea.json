@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "These 4 Bitcoin charts say BTC price is forming a bottom",
+  "raw_content": "Bitcoin’s recent pullback toward $60,000 was likely a buy-the-dip opportunity with the price set to recover, several key technical indicators suggested.",
+  "source_url": "https://cointelegraph.com/news/these-4-bitcoin-charts-say-btc-price-forming-bottom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T12:22:11+00:00",
+  "id": "1638a5f3-2417-45ab-92da-910e0e1f1cea",
+  "generated_title": "比特币技术分析显示价格或将筑底回升",
+  "generated_summary": "技术指标显示比特币近期回调至6万美元可能是逢低买入机会，价格有望反弹。",
+  "generated_analysis": "",
+  "tags": [
+    "比特币",
+    "技术分析",
+    "价格走势"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:47:29.364699+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

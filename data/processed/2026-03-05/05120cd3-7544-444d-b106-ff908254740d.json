@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "建议三孩家庭每月补贴5000元至3岁",
+  "raw_content": "建议三孩家庭每月补贴5000元至3岁",
+  "source_url": "https://www.toutiao.com/trending/7613280979284708870/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613280979284708870%22%2C%22hot_board_impr_id%22%3A%222026030515342384A79959823D7B68E839%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BB%BA%E8%AE%AE%E4%B8%89%E5%AD%A9%E5%AE%B6%E5%BA%AD%E6%AF%8F%E6%9C%88%E8%A1%A5%E8%B4%B45000%E5%85%83%E8%87%B33%E5%B2%81%22%7D&rank=&style_id=40132&topic_id=7613280979284708870",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T07:34:23.617861+00:00",
+  "id": "05120cd3-7544-444d-b106-ff908254740d",
+  "generated_title": "专家建议三孩家庭每月补贴5000元至3岁",
+  "generated_summary": "有专家提出对三孩家庭提供每月5000元育儿补贴至幼儿3岁的政策建议，旨在降低养育成本。",
+  "generated_analysis": "这一建议出现在中国人口结构性问题日益凸显的背景下。2022年人口出现负增长，老龄化加速与生育率持续低迷形成双重压力，养育成本高企已成为制约生育意愿的核心因素。该建议若实施，将是中国目前力度最大的生育支持政策之一，直接针对三孩家庭的经济痛点，释放出明确的鼓励生育政策信号。\n\n从市场角度看，这一政策如落地将显著影响母婴消费品、婴幼儿托育服务、儿童教育等相关行业，短期内可能刺激奶粉、纸尿裤等刚需品类的消费需求，中期则有望推动普惠性托育机构的快速发展。同时，5000元/月的补贴力度相当于部分城市中等收入家庭的月收入水平，将有效缓解家庭预算约束，释放其他消费潜力。\n\n趋势判断上，预计中央层面可能出台更加系统化的生育支持政策框架，地方政府或将先行试点探索可行路径。但考虑到财政可持续性和区域差异，政策全面铺开仍需时间，且可能与税收优惠、购房支持等其他措施形成组合拳。企业决策者应密切关注政策落地节奏，适时调整市场布局。",
+  "tags": [
+    "生育政策",
+    "人口增长",
+    "民生福利"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:14.121418+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "17506097",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "ECB Consumer Expectations Survey results – January 2026",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260227_1~e721468c3a.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-27T09:00:00+00:00",
+  "id": "ed319b93-7634-4119-ae14-0a2068c86bf9",
+  "generated_title": "欧洲央行消费者预期调查结果（2026年1月）",
+  "generated_summary": "欧洲央行发布2026年1月消费者预期调查结果，涵盖通胀预期、消费支出及劳动力市场展望，为货币政策提供参考依据。",
+  "generated_analysis": "欧洲央行消费者预期调查作为货币政策决策的重要前瞻性指标，其2026年1月调查结果具有关键参考价值。调查涵盖的三大核心领域——通胀预期、消费支出及劳动力市场展望——构成了判断欧元区经济走势的综合框架。\n\n从影响层面看，消费者通胀预期直接影响未来实际消费决策和工资谈判，是央行判断通胀持续性的重要依据。若调查显示长期通胀预期保持稳定或上升，可能加大欧洲央行维持紧缩政策的压力；反之则可能为政策转向提供空间。消费支出预期则直接关联内需动能，对于依赖消费驱动增长的欧元区经济尤为关键。劳动力市场信心则反映居民对未来收入前景的判断，进而影响消费意愿和整体经济活力。\n\n趋势判断上，若调查结果延续近期态势——即通胀预期逐步回落但仍高于央行目标水平，消费意愿稳步复苏，劳动力市场保持韧性——则欧洲央行可能在2026年采取更为平衡的货币政策立场，逐步退出负利率时代但审慎管理流动性。对于企业决策者而言，建议密切关注调查结果中的分项数据变化，审慎评估消费需求复苏节奏，并据此优化库存管理和投资节奏安排。",
+  "tags": [
+    "欧洲央行",
+    "消费者预期",
+    "通胀预期",
+    "货币政策"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:23.105189+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "The digital euro: awareness, adoption and household portfolios",
+  "raw_content": "Based on a series of novel experiments fielded within the ECB’s Consumer Expectations Survey, we provide evidence on the attitudes of euro area consumers towards a possible central bank digital currency (CBDC). We document substantial socio‑demographic heterogeneity in consumers’ awareness and willingness to adopt a CBDC. According to survey responses, a sizeable share of around 45% of households would be interested in potentially adopting this new asset. In a scenario where a CBDC is introduced in the euro area, consumers would allocate on average a moderate fraction of a positive wealth shock to such a new asset. Holding limits in the range of €3,000 to €10,000 would in normal times not result in significant disintermediation in the banking system. According to the survey responses, effective communication of the CBDC’s key features could increase the propensity of its adoption by consumers, but this would tend to be short-lived.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb251219~ecc26e145b.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-12-22T07:00:00+00:00",
+  "id": "4a90941d-6e6b-44fc-a9c7-a0c6ebfa6daf",
+  "generated_title": "欧元区数字欧元：消费者认知、采用意愿与资产配置",
+  "generated_summary": "ECB调查显示约45%欧元区家庭有兴趣采用数字欧元，消费者愿将部分财富配置于此，3000-1万欧元持有限额不会引发银行系统显著去中介化。",
+  "generated_analysis": "此次ECB调查揭示了数字欧元推广的关键窗口期。约45%家庭表现出兴趣，表明公众对央行数字货币的接受度已具备规模化基础，这对欧洲金融体系转型意义重大。从资产配置角度看，消费者愿意将部分财富转移至数字欧元，意味着CBDC已从概念验证进入需求验证阶段。\n\n对银行业而言，3000-1万欧元的持有限额设计有效规避了去中介化风险，这是审慎的制度安排。但需注意，若限额放宽或公众信心增强，银行吸储压力可能逐步显现。支付领域将首先受益，数字欧元可能重塑零售支付格局，同时对第三方支付机构形成竞争压力。\n\n趋势判断：短期内数字欧元采用率提升仍依赖有效沟通，但ECB指出这种推动效果可能短效，说明市场渗透需要更持续的教育和场景拓展。中长期看，随着跨境支付便利性显现和数字资产监管明晰，数字欧元有望从补充性支付工具升级为重要财富配置选项。企业决策者应密切关注ECB后续试点进展，提前布局相关支付接口和客户服务适配。",
+  "tags": [
+    "数字货币",
+    "央行数字货币",
+    "欧元区",
+    "消费者行为"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:34.555412+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "字节全家桶 Seed 2.0 + TRAE 玩转 Skill",
+  "raw_content": "一、引言 国产大模型之中，字节是一个异类。...",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html",
+  "source_name": "阮一峰科技爱好者周刊",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-14T11:51:22+00:00",
+  "id": "11141555-9945-4e6e-89c5-2f5f8662e063",
+  "generated_title": "字节发布Seed 2.0与TRAE 探索AI模型新技能",
+  "generated_summary": "字节跳动推出国产大模型新版本Seed 2.0及TRAE，探索AI模型技能应用新方向。",
+  "generated_analysis": "字节跳动此次发布Seed 2.0与TRAE，标志着这家以算法推荐见长的科技巨头在AI基础模型领域再进一步。作为国内大模型赛道的“异类”，字节的优势不在于底层技术的率先突破，而在于将AI能力与自身强大的内容分发、用户洞察能力深度结合。Seed 2.0的推出意味着字节在模型性能上正在缩小与头部玩家的差距，而TRAE则可能代表了其在AI模型技能化、应用化层面的独特探索。\n\n对于行业而言，字节的入局将加剧大模型竞争格局，尤其在多模态、垂直应用场景方面。凭借抖音、今日头条等产品积累的海量数据和场景，字节有能力快速验证模型效果并实现商业化落地。\n\n对企业决策者而言，需要关注两个趋势：一是AI模型正在从通用向技能化、专业化演进，二是拥有场景和数据的厂商将占据更大优势。建议企业积极探索与字节等大模型厂商的合作，在自身业务场景中率先落地AI应用，以获取先发优势。",
+  "tags": [
+    "人工智能",
+    "字节跳动",
+    "大模型"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:41.722072+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "china_tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

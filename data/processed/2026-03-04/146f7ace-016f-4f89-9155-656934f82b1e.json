@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+  "raw_content": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months.",
+  "source_url": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-03T20:20:56+00:00",
+  "id": "146f7ace-016f-4f89-9155-656934f82b1e",
+  "generated_title": "OpenAI推出GPT-5.3减少\"cringe\"回复",
+  "generated_summary": "新版ChatGPT模型将减少令用户尴尬的\"calm down\"类回复，提升对话体验。",
+  "generated_analysis": "从行业视角看，OpenAI此次更新看似是针对用户体验的微调，实则揭示了生成式AI竞争已从技术参数比拼转向用户实际交互体验的深度较量。\"cringe\"一词精准捕捉了当前大语言模型普遍存在的痛点：过度礼貌、回避争议、缺乏个性化回应，这些问题在企业级应用场景中尤为突出，因为决策者需要的是高效直接的答案，而非冗余的免责声明。\n\n这一改进方向预示着AI模型将更加注重“人格化”与“实用性”的平衡。对市场而言，GPT-5.3的迭代可能加剧行业竞争，迫使其他厂商加速用户体验优化，同时推动企业采购决策从“模型能力”向“场景适配度”倾斜。预计未来一到两年内，对话式AI的核心竞争维度将从理解能力转向共情能力与表达效率，企业在选择AI解决方案时需更关注其在特定业务场景下的交互质量，而非单纯追求基准测试排名。",
+  "tags": [
+    "AI聊天机器人",
+    "产品更新",
+    "用户体验"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:45:32.482085+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

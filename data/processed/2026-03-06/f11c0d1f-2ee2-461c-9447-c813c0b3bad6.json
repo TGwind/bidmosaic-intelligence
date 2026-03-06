@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "BYD rolls out EV batteries with 5-minute ‘flash charging’ — but there’s a catch",
+  "raw_content": "The Chinese automaker's new Blade Battery 2.0 is capable of charging at up to 1.5 megawatts, dramatically slashing the time it takes to fill up.",
+  "source_url": "https://techcrunch.com/2026/03/05/byd-rolls-out-ev-batteries-with-5-minute-flash-charging-but-theres-a-catch/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T20:34:37+00:00",
+  "id": "f11c0d1f-2ee2-461c-9447-c813c0b3bad6",
+  "generated_title": "比亚迪发布5分钟闪充电池但有限制条件",
+  "generated_summary": "比亚迪推出Blade Battery 2.0，充电功率达1.5兆瓦，但实现5分钟闪充需特定条件。",
+  "generated_analysis": "比亚迪此次发布Blade Battery 2.0，代表着动力电池快充技术的实质性突破。1.5兆瓦的充电功率意味着在理想条件下，电动汽车可以在5分钟内补充相当可观的续航里程，这将极大缓解消费者的补能焦虑。从行业角度看，比亚迪在磷酸铁锂技术路线上持续深耕，此次突破打破了外界对磷酸铁锂能量密度和充电效率的固有认知，展示了该技术路线仍有巨大提升空间。\n\n对市场而言，这一技术将加剧电动车补能效率的竞争格局，迫使其他电池厂商和车企加速快充技术研发。然而需要注意的是，“特定条件”这一限制意味着该技术在短期内难以大规模普及，充电基础设施的升级、电池热管理系统的适配、以及成本控制都将成为商业化落地的关键挑战。\n\n展望未来，预计快充技术将成为电动车竞争的核心维度之一，2024-2025年将出现更多千兆瓦级充电方案的竞争者。同时，电网负荷管理和换电模式作为互补方案仍将保持其战略价值。企业决策者应关注比亚迪技术路线的商业化进展，并评估其对自身产品规划和市场策略的潜在影响。",
+  "tags": [
+    "新能源汽车",
+    "电池技术",
+    "比亚迪"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:34:36.394324+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

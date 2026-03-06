@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Last Week in AI #336 - Sonnet 4.6, Gemini 3.1 Pro, Anthropic vs Pentagon",
+  "raw_content": "Anthropic releases Sonnet 4.6, Google Rolls Out Latest AI Model Gemini 3.1 Pro, Pentagon threatens to cut off Anthropic in AI safeguards dispute",
+  "source_url": "https://lastweekin.ai/p/last-week-in-ai-336-sonnet-46-gemini",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-24T11:43:23+00:00",
+  "id": "24bf5af6-aeee-46a9-ab03-a08fa734620e",
+  "generated_title": "两大AI模型更新，五角大楼与Anthropic起争议",
+  "generated_summary": "Anthropic发布Sonnet 4.6，谷歌推出Gemini 3.1 Pro AI模型，同时五角大楼因AI安全争议威胁切断与Anthropic的合作。",
+  "generated_analysis": "两大AI模型更新叠加五角大楼与Anthropic的争议，折射出当前AI行业竞争格局与治理挑战的双重变局。\n\n从竞争层面看，Anthropic与谷歌同日更新模型，凸显AI赛道竞争白热化，头部玩家均在加速迭代以巩固技术护城河。然而，五角大楼以安全争议为由威胁切断合作，给 Anthropic 带来严峻挑战。此举释放明确信号：AI 安全已成为政府合作的底线，而非可协商的附加条件。\n\n对市场而言，此事将产生多重影响：一是政府AI采购可能重新洗牌，安全合规记录不佳的企业将面临准入壁垒；二是行业安全标准有望加速形成，监管压力倒逼企业加大安全投入；三是竞争对手或借机填补政府合作空白，强化与国防、能源等关键领域的绑定。\n\n趋势判断：AI 行业正从“技术为先”转向“安全先行”，企业决策者需将 AI 安全能力纳入核心竞争力框架，同时主动构建与监管机构的沟通机制。短期内政府合作风险上升，但长期看，合规能力将成为获取关键客户的核心差异化优势。",
+  "tags": [
+    "AI模型",
+    "AI安全",
+    "行业动态"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:20:49.743501+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

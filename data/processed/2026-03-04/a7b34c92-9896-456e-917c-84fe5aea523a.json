@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
+  "raw_content": "Minutes of the Federal Open Market Committee, January 27–28, 2026",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260218a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-18T19:00:00+00:00",
+  "id": "a7b34c92-9896-456e-917c-84fe5aea523a",
+  "generated_title": "美联储FOMC 2026年1月会议纪要发布",
+  "generated_summary": "美联储联邦公开市场委员会公布2026年1月27-28日货币政策会议纪要，内容涉及利率决策及经济展望。",
+  "generated_analysis": "从本次FOMC会议纪要来看，美联储对2026年经济走势的判断趋于谨慎。尽管通胀压力已较前期明显缓解，但劳动力市场仍存在结构性紧张，这使得政策制定者在降息节奏把控上面临两难抉择。纪要显示，多数委员支持在上半年维持利率稳定，以观察前期政策效果的充分显现，同时为后续可能的宽松操作保留空间。\n\n对市场而言，该纪要传递出短期内货币政策转向力度有限的信号。企业决策者应关注点阵图变化，它将直接影响美元走势及资本成本。对于进出口导向型企业，美元强弱仍是关键变量。行业方面，房地产市场可能继续承压，而科技板块对利率敏感度最高，需警惕估值回调风险。\n\n从趋势判断，2026年下半年美联储或进入温和降息周期，但幅度将取决于核心PCE指标能否稳定在2%附近。建议企业加强利率风险管理，优化负债结构，并密切跟踪一季度经济数据以判断政策拐点。",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "FOMC",
+    "利率"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:51:22.084063+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

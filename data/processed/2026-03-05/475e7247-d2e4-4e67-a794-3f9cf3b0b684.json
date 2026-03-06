@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Details matter – how loan pricing affects monetary policy transmission in the euro area",
+  "raw_content": "We present novel empirical evidence on lending practices across all euro area countries, using AnaCredit data covering nearly seven million new loans issued to non-financial corporations in 2022-23. We document substantial variation in (a) the prevalence of fixed versus floating-rate loans, (b) rate fixation periods, and (c) reference rates. This variation results in lending rates being exposed to different segments of the risk-free rate yield curve which, in turn, influences their sensitivity to monetary policy changes. We show that loans priced using shorter-term relevant risk-free rates experience more pronounced monetary pass-through. Importantly, this effect is not purely mechanical, as part of the effect is offset by adjustments in the premium, revealing previously less explored heterogeneity in the pass-through to lending rates.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb251009~423b3ea674.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-10-09T06:00:00+00:00",
+  "id": "475e7247-d2e4-4e67-a794-3f9cf3b0b684",
+  "generated_title": "贷款定价差异影响欧元区货币政策传导效率",
+  "generated_summary": "ECB基于AnaCredit数据研究2022-23年近700万笔企业贷款，发现固定/浮动利率、利率固定期及参考利率差异导致货币政策传导效果存在显著差异。",
+  "generated_analysis": "此次ECB基于AnaCredit数据库对近700万笔企业贷款的研究，揭示了欧元区货币政策传导效率受到贷款定价结构差异的显著影响。研究发现，使用不同参考利率和固定期限的贷款，其利率对政策利率变化的敏感度存在明显分化——以短期无风险利率定价的浮动利率贷款传导更为直接，而长期固定利率贷款则存在滞后效应。这表明欧元区内部贷款实践的高度异质性正在削弱货币政策的统一执行效果。\n\n对于金融机构而言，这意味着需要重新评估自身的风险管理策略，尤其是在利率上行周期中，贷款定价对政策信号的响应程度将直接影响资产负债管理效率。对企业决策者来说，选择浮动或固定利率贷款将产生不同的融资成本波动特征，在当前高利率环境下需更加审慎地评估融资结构。展望未来，随着ECB继续调整货币政策立场，预计将推动欧元区贷款定价标准趋同，同时企业将倾向于增加短期浮动利率融资比例以增强对政策变化的响应灵活性，银行业也可能加强利率风险对冲工具的创新应用。",
+  "tags": [
+    "欧洲央行",
+    "货币政策",
+    "银行贷款",
+    "利率传导"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:03.057516+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

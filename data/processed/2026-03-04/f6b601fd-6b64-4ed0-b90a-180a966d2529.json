@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "GPT-5.3 Instant System Card",
+  "raw_content": "",
+  "source_url": "https://openai.com/index/gpt-5-3-instant-system-card",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T10:00:00+00:00",
+  "id": "f6b601fd-6b64-4ed0-b90a-180a966d2529",
+  "generated_title": "OpenAI发布GPT-5.3系统卡片",
+  "generated_summary": "OpenAI发布GPT-5.3版本系统卡片，介绍模型能力与安全评估信息",
+  "generated_analysis": "OpenAI发布GPT-5.3系统卡片体现了当前AI领域透明度与安全并重的发展趋势。系统卡片作为向业界公开模型能力边界与安全评估的标准化文档，反映了AI公司对负责任AI开发的重视。\n\n对企业决策者而言，这一版本迭代释放了几个重要信号：首先，基础模型能力的持续提升将加速AI在各行业的应用落地，尤其在文本处理、代码生成、多模态理解等领域可能带来新的生产力突破；其次，安全评估信息的披露有助于企业更准确地评估模型适用场景与潜在风险，为内部AI治理提供参考依据。\n\n从行业竞争格局看，OpenAI保持高频迭代节奏将加大竞争对手的研发压力，同时可能推动行业形成更统一的安全评估标准。对于已将AI纳入战略规划的企业，建议密切关注模型能力演进的同时，建立自身的AI应用评估框架，在拥抱技术红利与控制风险之间寻求平衡。",
+  "tags": [
+    "人工智能",
+    "OpenAI",
+    "大语言模型"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:50.027365+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

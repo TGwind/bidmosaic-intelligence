@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Board's discount rate meeting on December 10, 2025",
+  "raw_content": "Minutes of the Board's discount rate meeting on December 10, 2025",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-01-06T19:00:00+00:00",
+  "id": "68d617bb-e599-44f0-b0cc-a1d6a44cb3c2",
+  "generated_title": "美联储2025年12月贴现率会议纪要",
+  "generated_summary": "美联储理事会贴现率会议纪要，发布日期为2025年12月10日，具体内容未提供。",
+  "generated_analysis": "",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "贴现率"
+  ],
+  "importance_score": 3,
+  "processed_at": "2026-03-05T14:53:30.472873+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

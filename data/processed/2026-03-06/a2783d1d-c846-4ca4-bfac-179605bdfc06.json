@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "AgentSelect: Benchmark for Narrative Query-to-Agent Recommendation",
+  "raw_content": "arXiv:2603.03761v1 Announce Type: new Abstract: LLM agents are rapidly becoming the practical interface for task automation, yet the ecosystem lacks a principled way to choose among an exploding space of deployable configurations. Existing LLM leaderboards and tool/agent benchmarks evaluate components in isolation and remain fragmented across tasks, metrics, and candidate pools, leaving a critical research gap: there is little query-conditioned supervision for learning to recommend end-to-end agent configurations that couple a backbone model with a toolkit. We address this gap with AgentSelect, a benchmark that reframes agent selection as narrative query-to-agent recommendation over capability profiles and systematically converts heterogeneous evaluation artifacts into unified, positive-only interaction data. AgentSelectcomprises 111,179 queries, 107,721 deployable agents, and 251,103 interaction records aggregated from 40+ sources, spanning LLM-only, toolkit-only, and compositional agents. Our analyses reveal a regime shift from dense head reuse to long-tail, near one-off supervision, where popularity-based CF/GNN methods become fragile and content-aware capability matching is essential. We further show that Part~III synthesized compositional interactions are learnable, induce capability-sensitive behavior under controlled counterfactual edits, and improve coverage over realistic compositions; models trained on AgentSelect also transfer to a public agent marketplace (MuleRun), yielding consistent gains on an unseen catalog. Overall, AgentSelect provides the first unified data and evaluation infrastructure for agent recommendation, which establishes a reproducible foundation to study and accelerate the emerging agent ecosystem.",
+  "source_url": "https://arxiv.org/abs/2603.03761",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "a2783d1d-c846-4ca4-bfac-179605bdfc06",
+  "generated_title": "AgentSelect：叙事查询到智能体推荐基准数据集",
+  "generated_summary": "提出首个统一的智能体推荐基准，包含11万+查询和10万+智能体，解决LLM智能体选择的系统性评估难题。",
+  "generated_analysis": "AgentSelect的出现标志着AI智能体领域基础设施建设的关键里程碑。当前LLM智能体生态呈现碎片化状态，企业在部署时面临选择困难——缺乏系统性的评估框架来指导智能体配置。该数据集整合40余个来源、超过25万条交互记录，首次构建了查询到智能体推荐的统一范式，为行业提供了可复用的评估基准。\n\n从市场影响来看，这一基准将重塑智能体评估范式。数据显示行业正从“头部集中”转向“长尾分散”模式，传统的基于流行度的推荐方法面临失效，内容能力匹配将成为核心竞争力。这意味着企业需要重新审视智能体选择策略，从单纯依赖模型规模转向关注具体任务的能力适配。\n\n对于决策者而言，AgentSelect验证了合成组合交互的可学习性，并展示了跨平台迁移的可能性。这为构建更智能的智能体推荐系统提供了数据基础，预计将加速智能体编排工具和市场的成熟，推动行业从“手工配置”向“智能推荐”转型。",
+  "tags": [
+    "LLM智能体",
+    "推荐系统",
+    "基准测试",
+    "大语言模型"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:29:04.134158+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

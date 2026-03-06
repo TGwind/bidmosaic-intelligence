@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Pricing cascades – inflation in a networked economy",
+  "raw_content": "The post-pandemic inflation surge is often attributed to pent-up demand andopportunistic price hikes. In fact, it is better explained by the effects of theeconomy’s production network and “state-dependent” pricing, where firmschange prices optimally when the reward justifies the effort. Firms are tightlylinked through supply chains so a surge in prices upstream can triggersimultaneous repricing by many layers of firms downstream, fuelling broad-based inflation. Unlike standard models, our euro area model includes theseeffects and successfully reproduces the post-pandemic inflation surge andfaster repricing. This implies analysis of such effects is indispensable formonetary policy",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb260127~200fea7da0.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-01-27T07:00:00+00:00",
+  "id": "12b82260-57ab-4c79-8a5e-bddc14d3477d",
+  "generated_title": "欧洲央行研究：网络效应与状态依赖定价驱动后疫情通胀",
+  "generated_summary": "ECB研究揭示通胀主要源于经济生产网络和状态依赖定价效应，供应链关联使上游价格冲击逐级传导，模型成功复现通胀飙升。",
+  "generated_analysis": "ECB这项研究揭示了后疫情通胀的深层机制，对企业决策具有重要启示。传统观点将通胀归因于需求释放和机会性涨价，但研究表明通胀传导的核心动力在于生产网络结构和状态依赖定价行为。当上游原材料或能源价格大幅波动时，供应链各环节企业会同步调整价格，这种连锁反应形成广泛的通胀压力，且调整速度超出传统模型预测。\n\n这意味着企业不能简单将通胀视为短期需求现象，而应认识到供应链定价行为的系统性变化。对企业而言，这意味着成本压力传导的路径更加直接和快速，供应链韧性管理变得尤为关键。同时，货币政策制定者需要将生产网络效应纳入考量，因为通胀的根源不仅是需求侧，更是供给侧的结构性传导。\n\n未来，通胀可能呈现更高频率的波动特征，企业定价策略需更加灵活，供应链多元化布局将成为重要的风险管理手段。在供应链高度关联的行业中，成本冲击的放大效应值得决策者持续关注。",
+  "tags": [
+    "通货膨胀",
+    "货币政策",
+    "供应链经济",
+    "欧洲央行"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:18:55.502664+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+  "raw_content": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+  "source_url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T17:20:00+00:00",
+  "id": "8e4effea-2611-4565-983a-fb0bfc0f3dab",
+  "generated_title": "阿拉比卡咖啡价格创新高 美哥关税争端缓解",
+  "generated_summary": "交易商消化特朗普撤回对哥伦比亚关税威胁，咖啡价格创历史纪录。",
+  "generated_analysis": "此次阿拉比卡咖啡价格创历史新高，表面上是特朗普撤回对哥伦比亚关税威胁的市场消化结果，实则反映了全球咖啡市场深层的结构性紧张。哥伦比亚作为全球最大的阿拉比卡咖啡出口国，其出口的任何潜在中断都将对全球供应格局产生重大冲击，此次事件只是加剧了市场本就存在的担忧情绪。\n\n从行业影响看，咖啡价格高企将直接传导至下游饮品行业，企业采购成本面临上升压力，尤其是主打阿拉比卡精品咖啡的品牌。同时，价格波动也暴露出供应链对地缘政治风险的高度敏感性，提醒企业必须加强供应链多元化布局。\n\n展望未来，若主要产区气候保持正常，价格可能从高位回落；但若出现霜冻或干旱等极端天气，价格有望进一步攀升。企业决策者应密切关注南美产区天气动态，适时建立价格对冲机制，并探索替代供应来源，以应对可能的持续波动。",
+  "tags": [
+    "大宗商品",
+    "咖啡价格",
+    "关税争端",
+    "国际贸易"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:55:37.813814+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

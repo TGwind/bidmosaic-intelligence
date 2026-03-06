@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "易点天下(301171) 今日涨0.69% 报51.24元",
+  "raw_content": "易点天下(301171) 最新价 51.24元，涨0.69%，涨跌额 +0.35元，今开 52.50元，最高 52.59元，最低 50.88元，昨收 50.89元，成交额 10.21亿元，振幅 3.36%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz301171/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T14:28:14.024739+00:00",
+  "id": "4bbad985-2ca1-4ad0-b8ce-0c9af7cea17a",
+  "generated_title": "易点天下(301171) 今日涨0.69% 报51.24元 | 持有",
+  "generated_summary": "趋势: 偏强 · 信号: 持有 · 评分: 62",
+  "generated_analysis": "易点天下今日收涨0.69%，股价51.24元高于MA5约1.46%，乖离率处于安全区间，符合严进策略要求。从技术面看，MA5>MA10>MA20已形成多头排列初期形态，趋势向好但尚未完全确认。日内走势低开高走但受阻于52.50元压力位，显示上方抛压较重。量能维持平稳，未出现明显的放量突破或缩量回调信号，观望氛围浓厚。基本面方面，公司作为电子烟代工龙头受益于行业增长，但需关注竞争格局变化和汇率波动风险。综合来看，当前位置适合持有但不宜追高，等待回调至MA5附近再考虑加仓。",
+  "tags": [
+    "A股",
+    "偏强",
+    "持有"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:48:35.313210+00:00",
+  "market_data": {
+    "symbols": [
+      "301171"
+    ],
+    "price_change": {
+      "price": 51.24,
+      "change_pct": 0.69,
+      "change_amt": 0.35
+    },
+    "indicators": {
+      "volume": 19801093.0,
+      "turnover": 1020911055.39,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 3.36,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "持有",
+    "risk": "",
+    "confidence": "中",
+    "sentiment_score": 62,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "多头排列初期，乖离率安全，可持有待涨但不宜追高",
+        "time_sensitivity": "本周内",
+        "position_advice": {
+          "no_position": "建议等待股价回踩MA5(约50.5元)附近再考虑建仓，不宜追高买入",
+          "has_position": "可继续持有，止损设置在MA20下方约48.5元，若股价快速冲高可适当减仓"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5>MA10>MA20多头排列初期",
+        "is_bullish": true,
+        "trend_score": 68,
+        "bias_ma5": 1.46,
+        "bias_status": "安全",
+        "support_level": "50.50元(MA5)",
+        "resistance_level": "52.50元(今日开盘价)",
+        "volume_status": "平量",
+        "volume_meaning": "成交额10.21亿元与前一交易日基本持平，多空分歧不大，观望情绪浓厚"
+      },
+      "battle_plan": {
+        "ideal_buy": "50.50元(MA5附近)",
+        "secondary_buy": "50.00元(MA10附近)",
+        "stop_loss": "48.50元(MA20下方)",
+        "take_profit": "55.00元(前高附近)",
+        "suggested_position": "30%-50%",
+        "entry_plan": "首次建仓30%，回落至MA5附近加仓20%，若回调至MA10再补20%"
+      },
+      "checklist": [
+        "✅ 多头排列",
+        "✅ 乖离率合理",
+        "⚠️ 量能配合一般",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "大盘走势偏弱可能影响个股表现",
+        "电子烟代工行业竞争加剧",
+        "海外业务占比高存在汇率风险"
+      ],
+      "positive_catalysts": [
+        "电子烟市场需求持续增长",
+        "公司ODM业务订单稳定",
+        "跨境电商行业政策利好"
+      ],
+      "short_term_outlook": "预计1-3日内将在50.50-52.50元区间震荡，若能放量突破52.50元则有望开启新一轮上涨，否则可能回踩MA5寻求支撑。",
+      "medium_term_outlook": "1-2周内若维持多头排列且成交量配合，有望挑战前高55元，但若跌破MA20则需警惕趋势反转风险。"
+    }
+  }
+}

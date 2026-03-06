@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+  "raw_content": "AI is accelerating every aspect of healthcare — from radiology and drug discovery to medical device manufacturing and new treatment methods enabled by digital twins of the human body. NVIDIA&#8217;s second annual “State of AI in Healthcare and Life Sciences” survey report reveals how the industry is moving from AI experimentation to execution, reaping return Read Article",
+  "source_url": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-24T14:00:34+00:00",
+  "id": "9da57478-afb0-4072-904a-ccf9f601071a",
+  "generated_title": "NVIDIA年度调查：AI在医疗领域投资回报显著",
+  "generated_summary": "NVIDIA调查显示，AI正从实验阶段转向实际应用，在放射学、药物研发、数字孪生等领域实现明确投资回报。",
+  "generated_analysis": "NVIDIA年度调查揭示AI在医疗健康领域正从实验阶段迈入实际部署阶段，这一转变具有里程碑意义。调查显示，放射学、药物研发、医疗设备制造及数字孪生等技术已实现明确投资回报，标志着AI在医疗行业的商业化可行性得到验证。\n\n对行业而言，此信号将产生多重影响：首先，已投入AI应用的医疗机构将追加投资，形成马太效应；其次，观望中的医疗集团和药企将加速布局，以避免竞争劣势；再者，数字孪生技术从科研走向临床，将催生个性化治疗和精准医疗的新商业模式。\n\n趋势判断：未来3-5年，AI医疗将进入规模化落地期，放射学和药物研发将成为最先实现高回报的细分赛道。建议企业决策者将AI医疗纳入战略优先级，尤其关注具备临床验证案例的技术合作伙伴，同时关注监管政策演进对商业化节奏的影响。",
+  "tags": [
+    "人工智能",
+    "医疗健康",
+    "调查报告"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:50:44.110930+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

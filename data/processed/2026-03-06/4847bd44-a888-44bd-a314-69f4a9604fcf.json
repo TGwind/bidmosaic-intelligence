@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Gemini 账户 48 小时被盗刷 57 万，三人创业团队站在破产边缘",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/Gki16Stu5jqbooE6pgvs?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T18:00:00+00:00",
+  "id": "4847bd44-a888-44bd-a314-69f4a9604fcf",
+  "generated_title": "Gemini账户48小时被盗刷57万，创业团队濒临破产",
+  "generated_summary": "三人创业团队存放于Gemini交易所的57万元资金在48小时内被盗刷一空，导致团队运营陷入困境，面临破产危机。",
+  "generated_analysis": "本次事件反映出当前加密货币行业面临的严峻安全挑战。57万元资金在48小时内被盗，表明黑客攻击手段已高度产业化、精准化，创业团队作为弱势群体首当其冲。此类事件不仅暴露了交易所平台安全的脆弱性，更揭示了用户在资产保护意识和技能方面的严重不足。\n\n对行业而言，此案将产生多重影响：一是加剧用户对中心化交易所的信任危机，可能引发资金向自我托管或去中心化平台迁移；二是倒逼交易所加强安全投入，特别是针对小微用户的保护机制；三是监管机构可能加快出台更具约束力的用户资产保护政策。\n\n趋势判断：短期內，加密资产被盗事件仍将频发，尤其是中小型交易所和缺乏安全防护的个体用户将成为主要目标。中长期来看，行业将向“冷钱包为主、险机制为辅”的安全范式演进，同时，专业的资产保险和第三方托管服务需求将显著上升。对于企业决策者而言，建立多层次资产保护体系、分散存储风险已是不可回避的必修课。",
+  "tags": [
+    "账户安全",
+    "盗刷事件",
+    "创业公司",
+    "交易所"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:23:31.276184+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

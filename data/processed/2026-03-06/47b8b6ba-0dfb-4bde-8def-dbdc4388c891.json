@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Financial Services Roundup: Market Talk",
+  "raw_content": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+  "source_url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T17:27:00+00:00",
+  "id": "47b8b6ba-0dfb-4bde-8def-dbdc4388c891",
+  "generated_title": "金融服务市场综述：行业观察",
+  "generated_summary": "华尔街日报市场栏目讨论Experian、SoFi等金融服务公司动态，提供行业洞察。",
+  "generated_analysis": "",
+  "tags": [
+    "金融科技",
+    "信用服务",
+    "市场动态"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:23:03.857085+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

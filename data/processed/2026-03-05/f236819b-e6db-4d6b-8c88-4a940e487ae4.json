@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+  "raw_content": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-21385 Qualcomm Multiple Chipsets Memory Corruption Vulnerability CVE-2026-22719 Broadcom VMware Aria Operations Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information. Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of KEV Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.",
+  "source_url": "https://www.cisa.gov/news-events/alerts/2026/03/03/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T12:00:00+00:00",
+  "id": "f236819b-e6db-4d6b-8c88-4a940e487ae4",
+  "generated_title": "CISA新增2个已知被利用漏洞至目录",
+  "generated_summary": "CISA将高通多芯片内存损坏漏洞和VMware Aria命令注入漏洞列入KEV目录，要求联邦机构限期修复。",
+  "generated_analysis": "CISA此次将高通多芯片内存损坏漏洞和VMware Aria命令注入漏洞同步列入KEV目录，反映出这两个漏洞已存在实际攻击活动，威胁等级较高。高通芯片广泛应用于智能手机和物联网设备，内存损坏漏洞可导致设备被完全控制；VMware Aria作为企业级虚拟化运维平台，命令注入漏洞则可直接获取服务器最高权限。两者结合意味着攻击者既可从终端侧突破，又能通过核心基础设施横向移动，形成完整攻击链。\n\n对于行业而言，CISA的KEV目录具有明显风向标意义。尽管其约束力主要针对联邦机构，但鉴于美国政府在网络安全领域的主导地位，相关行业供应链将面临下游客户的合规压力。预计通信、金融、科技等高通和VMware重点应用行业将率先启动排查，漏洞修复时间窗口将进一步压缩。\n\n趋势判断上，2024年关键基础设施领域的漏洞利用呈加速态势，企业需建立更敏捷的漏洞响应机制。建议将KEV目录作为优先级补丁管理的参考基准，同时加强对移动终端和虚拟化环境的暴露面管控，优先处置已公开存在在野利用的漏洞。",
+  "tags": [
+    "网络安全",
+    "漏洞披露",
+    "CISA",
+    "关键基础设施"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:02:02.387062+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}

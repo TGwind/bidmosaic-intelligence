@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "See the whole picture and find the look with Circle to Search",
+  "raw_content": "Google Search interface featuring AI-powered tools including an \"AI Overview\" that breaks down an outfit's components and a virtual \"Try it on\" button that visualizes apparel on diverse body types.",
+  "source_url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-25T18:00:00+00:00",
+  "id": "63d5fdcd-5e5e-4d04-ba87-30d1a9540f76",
+  "generated_title": "Google搜索集成AI概览与虚拟试穿功能",
+  "generated_summary": "Google在搜索中引入AI工具，可分解服装搭配并支持虚拟试穿，展示在不同体型上的效果。",
+  "generated_analysis": "Google此次在搜索中集成AI概览与虚拟试穿功能，标志着AI技术在零售领域的应用从概念验证进入规模化落地阶段。这一功能将传统的商品搜索升级为交互式购物体验，通过可视化方式帮助消费者理解服装搭配逻辑并预判穿着效果，直接回应了线上购物“看不清、试不了”的核心痛点。\n\n从行业影响看，此举将加剧搜索引擎与电商平台的功能趋同竞争，亚马逊、Meta等竞争对手面临差异化压力。对时尚品牌而言，搜索流量的获取方式将发生根本变化——优化AI推荐内容的能力将成为新的竞争门槛。虚拟试穿技术也有望推动退货率降低，提升供应链效率。\n\n趋势判断：未来1-2年内，AI驱动的沉浸式购物体验将成为电商平台标配，多模态搜索（文字、图像、视频结合）将重新定义用户与平台的交互方式。零售企业需加快数字化转型步伐，将AI能力纳入核心运营战略，否则可能在新一轮竞争中边缘化。",
+  "tags": [
+    "人工智能",
+    "Google",
+    "电子商务",
+    "虚拟试穿"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:48:39.608493+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

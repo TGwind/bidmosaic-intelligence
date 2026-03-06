@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "NVIDIA and Global Industrial Software Leaders Partner With India’s Largest Manufacturers to Drive AI Boom",
+  "raw_content": "India is entering a new age of industrialization, as AI transforms how the world designs, builds and runs physical products and systems. The country is investing $134 billion dollars in new manufacturing capacity across construction, automotive, renewable energy and robotics, creating both a massive challenge and opportunity to build software-defined factories from day one. At Read Article",
+  "source_url": "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-18T00:30:32+00:00",
+  "id": "f04057f5-57ea-4ed0-a54e-6c1a6e8b1abd",
+  "generated_title": "NVIDIA携手印度最大制造商 AI驱动软件定义工厂浪潮",
+  "generated_summary": "印度拟投资1340亿美元建设新制造业产能，NVIDIA与全球工业软件巨头合作助力AI驱动的软件定义工厂建设。",
+  "generated_analysis": "印度此次1340亿美元的制造业投资计划，标志着该国意图跳过传统工业化路径，直接迈向AI驱动的智能制造时代。软件定义工厂的核心在于通过数字孪生、边缘计算和AI算法实现生产线的柔性化、智能化，这正是NVIDIA等科技巨头的优势领域。\n\n从行业影响看，这一布局将重塑全球制造业竞争格局。印度凭借人口红利和成本优势，本就具备承接产业转移的条件，若叠加AI赋能，可能在低端制造领域形成更强的成本竞争力，同时在高端制造环节缩短与传统工业强国的差距。对全球工业软件企业而言，印度市场将是一个极具潜力的增量空间，尤其在制造执行系统、工业物联网和AI质检等领域。\n\n趋势上，软件定义工厂模式大概率将在新兴市场加速普及，而传统工业强国为保持领先优势，也可能加快类似布局。对企业决策者而言，需密切关注印度制造业数字化进程中的技术标准和生态构建机会，同时警惕供应链重构带来的竞争压力。",
+  "tags": [
+    "人工智能",
+    "智能制造",
+    "工业软件",
+    "NVIDIA"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:17.478879+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

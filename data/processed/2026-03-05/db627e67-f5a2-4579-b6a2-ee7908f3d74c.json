@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee publishes principles for the sound management of third-party risk",
+  "raw_content": "The Basel Committee has published principles for the sound management of third-party risk in the banking sector. The principles establish a common baseline for banks and supervisors for the sound management of third-party risk. The Committee will continue to monitor developments related to the digitalisation of finance and financial technology from a prudential perspective.",
+  "source_url": "https://www.bis.org/press/p251210.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T14:25:36.879440+00:00",
+  "id": "db627e67-f5a2-4579-b6a2-ee7908f3d74c",
+  "generated_title": "巴塞尔委员会发布银行第三方风险管理原则",
+  "generated_summary": "巴塞尔委员会发布银行第三方风险管理原则，为银行和监管机构建立共同基准，继续监控金融科技发展。",
+  "generated_analysis": "巴塞尔委员会此次发布第三方风险管理原则，标志着全球银行业对外部依赖风险的系统性监管进入新阶段。随着金融科技快速发展，银行与科技企业的合作日益深入，但同时也带来了操作风险、 cyber风险和集中度风险等新型挑战。此次原则的出台旨在为全球银行和监管机构提供统一基准，解决不同司法辖区监管标准不一致的问题。\n\n对于行业而言，这意味着银行将面临更严格的第三方风险治理要求，特别是在外包服务、云服务提供商和金融科技合作等领域。银行需要建立更完善的风险评估、合同管理和持续监控机制，监管机构也将获得更清晰的检查依据。\n\n从趋势看，数字化金融风险将成为巴塞尔委员会持续关注的核心议题，预计后续将出台更细化的操作指引。银行业应提前布局，加强第三方风险管理的治理架构和技术能力，同时与监管保持密切沟通，以应对不断演变的合规要求。这一原则也将推动行业对金融科技合作的审慎态度，促进更加稳健的创新模式发展。",
+  "tags": [
+    "银行监管",
+    "第三方风险",
+    "金融科技",
+    "风险管理"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:00:04.107418+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

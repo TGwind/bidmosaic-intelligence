@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Towards a science of scaling agent systems: When and why agent systems work",
+  "raw_content": "Generative AI",
+  "source_url": "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-01-28T11:00:00+00:00",
+  "id": "3452a52d-0195-46ce-b6bc-754a488460e3",
+  "generated_title": "探索Agent系统规模化科学：何时及为何有效",
+  "generated_summary": "Google Research发布关于Agent系统规模化发展的科学研究，探讨其工作机制与有效性条件",
+  "generated_analysis": "Google Research此次发布的Agent系统规模化科学研究，标志着AI领域从单点技术突破向系统化、工程化应用转型的关键节点。该研究首次系统性揭示了Agent在何种条件下能够实现规模化部署并持续产生价值，这对当前行业普遍存在的“Agent热”具有重要的理性降温作用——它帮助企业区分真实应用场景与概念泡沫。\n\n从市场影响来看，该研究将加速企业决策分化。拥有成熟AI基础设施和数据治理能力的企业将更积极推进Agent落地，而技术储备不足的企业可能放缓投资，等待更成熟的方法论指引。这将间接推动AI基础设施服务商和企业数字化咨询市场的增长。\n\n趋势判断上，预计未来12-18个月内，Agent将从“通用概念”走向“行业垂直化”，金融、医疗、制造等高价值场景将优先出现规模化案例。同时，研究中强调的有效性条件将成为行业标准，企业需重新评估自身技术成熟度后再做规模化投入决策。",
+  "tags": [
+    "Agent系统",
+    "AI研究",
+    "Google Research",
+    "生成式AI"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:22:00.236376+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

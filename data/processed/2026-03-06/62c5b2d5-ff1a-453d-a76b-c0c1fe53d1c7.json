@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Burkhard Balz: European finance at the fault lines of transatlantic relations",
+  "raw_content": "Keynote speech by Mr Burkhard Balz, Member of the Executive Board of the Deutsche Bundesbank, at the London Regional Chapter of the Atlantik-Brücke e.V., London, 25 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-06T02:15:18.134273+00:00",
+  "id": "62c5b2d5-ff1a-453d-a76b-c0c1fe53d1c7",
+  "generated_title": "欧洲金融面临跨大西洋关系挑战",
+  "generated_summary": "德国央行执委就欧美金融关系发表演讲，探讨跨大西洋合作与分歧对欧洲金融体系的影响。",
+  "generated_analysis": "此次演讲反映了当前跨大西洋金融关系面临的深层挑战。欧美在监管标准、货币政策协调、金融制裁执行等方面存在显著分歧，尤其在数字货币监管和气候金融标准制定上矛盾日益突出。德国作为欧元区核心经济体，其央行执委的表态具有风向标意义，暗示欧洲正在寻求在维护跨大西洋金融纽带的同时，增强自身金融独立性。\n\n对市场而言，这一趋势将导致欧洲金融机构面临双重合规压力，既要满足美国金融监管要求，又要适应欧洲自主监管框架。短期内，跨境金融交易成本可能上升，金融机构需要加强合规团队建设。中长期来看，欧洲可能加速推进欧元国际化进程，完善欧洲资本市场联盟，这对布局欧洲市场的企业既是挑战也是机遇。企业应密切关注欧美金融监管协调动态，提前调整跨境资金运作策略，降低政策不确定性风险。",
+  "tags": [
+    "央行政策",
+    "国际金融",
+    "欧美关系"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:24:49.332058+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

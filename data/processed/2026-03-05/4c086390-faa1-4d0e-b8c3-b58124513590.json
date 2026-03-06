@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "What's New This Tax Season That Can Save You Money",
+  "raw_content": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+  "source_url": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T10:30:00+00:00",
+  "id": "4c086390-faa1-4d0e-b8c3-b58124513590",
+  "generated_title": "本纳税季新变化可省钱",
+  "generated_summary": "今年报税新增针对在线销售和电动汽车购买者的税收优惠相关变化。",
+  "generated_analysis": "",
+  "tags": [
+    "税收优惠",
+    "在线销售",
+    "电动汽车",
+    "报税"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:51:28.004894+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Details matter – how loan pricing affects monetary policy transmission in the euro area",
+  "raw_content": "We present novel empirical evidence on lending practices across all euro area countries, using AnaCredit data covering nearly seven million new loans issued to non-financial corporations in 2022-23. We document substantial variation in (a) the prevalence of fixed versus floating-rate loans, (b) rate fixation periods, and (c) reference rates. This variation results in lending rates being exposed to different segments of the risk-free rate yield curve which, in turn, influences their sensitivity to monetary policy changes. We show that loans priced using shorter-term relevant risk-free rates experience more pronounced monetary pass-through. Importantly, this effect is not purely mechanical, as part of the effect is offset by adjustments in the premium, revealing previously less explored heterogeneity in the pass-through to lending rates.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb251009~423b3ea674.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-10-09T06:00:00+00:00",
+  "id": "a5f8cf90-ccb7-4020-9e82-5a1335a14764",
+  "generated_title": "欧元区贷款定价差异对货币政策传导的影响研究",
+  "generated_summary": "基于AnaCredit数据研究欧元区近700万笔企业贷款，发现固定/浮动利率选择和参考利率类型显著影响货币政策传导效率。",
+  "generated_analysis": "基于AnaCredit这一欧盟统一信用数据平台的研究揭示了欧元区货币政策传导机制中的一个关键盲区。研究覆盖近700万笔企业贷款的数据表明，各国贷款定价实践差异显著——固定利率与浮动利率的选择、利率固定期限的长短、以及所采用的参考利率类型各不相同。这种定价结构的多样性意味着货币政策变动对实体经济的影响并非均匀传导，而是高度依赖于贷款的具体定价方式。\n\n研究发现，使用短期风险-free利率定价的贷款对货币政策变化的敏感度明显更高，这意味着当欧洲央行调整政策利率时，这部分贷款能够更快地反映政策意图。然而值得注意的是，这种传导并非纯粹的机械效应——风险溢价的调整会部分抵消政策利率变化的影响，这一发现表明金融机构在定价中保留了相当的操作空间。\n\n对于企业决策者而言，这意味着欧元区各国的融资成本对货币政策的响应程度存在显著差异，意大利、西班牙等以浮动利率为主的国家，其企业融资成本对欧央行利率调整的反应将更为直接。而德国、法国等固定利率占比较高的经济体，政策变化的传导则存在滞后性。这种结构性差异可能促使欧洲央行在制定政策时更加关注不同成员国的信贷市场特征，同时也为企业的融资策略选择提供了重要参考依据。",
+  "tags": [
+    "货币政策",
+    "欧元区",
+    "贷款定价",
+    "利率传导"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:29:13.066948+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

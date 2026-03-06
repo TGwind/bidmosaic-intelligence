@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee consults on standard format for machine-readable disclosures",
+  "raw_content": "The Basel Committee has published a consultation on a standard format for machine-readable disclosures by banks. The proposed standard format would make existing disclosure by banks more accessible and easier to aggregate. Comments on the proposals are requested by 5 March 2026.",
+  "source_url": "https://www.bis.org/press/p251205.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:20:01.223490+00:00",
+  "id": "bc40945b-19a6-47a6-9d7e-eae80bbdc663",
+  "generated_title": "巴塞尔委员会就银行机器可读披露标准格式征求意见",
+  "generated_summary": "巴塞尔委员会发布银行机器可读披露标准格式咨询文件，旨在使银行披露更易访问和汇总，意见反馈截止2026年3月5日。",
+  "generated_analysis": "此次巴塞尔委员会推出银行机器可读披露标准格式，是全球监管机构推动金融数据标准化的重要举措。其核心背景在于传统文本式披露难以满足数字化时代的数据聚合与分析需求，而监管科技的发展为标准化提供了技术可能。此举标志着银行业信息披露从“形式合规”向“数据可用”转型，对行业具有里程碑意义。\n\n对于市场参与者而言，该标准将产生多重影响：银行需升级数据系统以支持结构化输出，合规成本短期或有所上升；但从长远看，标准化将显著降低投资者和评级机构的数据处理成本，提升信息透明度。值得注意的是，该格式若获广泛采用，可能成为跨境监管数据比较的基础框架，强化全球银行体系的可比性与稳定性。\n\n预计未来一到两年内，监管科技在披露领域的应用将加速推进。金融机构应提前评估自身数据基础设施与新标准的适配度，关注后续反馈意见的采纳情况，以在正式落地时占据主动。",
+  "tags": [
+    "银行监管",
+    "披露标准",
+    "金融科技"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:52:13.320601+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

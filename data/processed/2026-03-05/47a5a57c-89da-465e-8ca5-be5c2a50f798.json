@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+  "raw_content": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+  "source_url": "https://openai.com/index/pacific-northwest-national-laboratory",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T10:00:00+00:00",
+  "id": "47a5a57c-89da-465e-8ca5-be5c2a50f798",
+  "generated_title": "OpenAI与PNNL合作发布NEPA许可AI基准测试",
+  "generated_summary": "双方推出DraftNEPABench基准评估AI编码代理加速联邦许可的潜力，声称可将NEPA起草时间缩短15%。",
+  "generated_analysis": "此次合作标志着AI在政务合规领域应用的重要突破。NEPA作为美国联邦基础设施项目的核心环境审查程序，传统上依赖大量人力进行冗长的文书工作，审批周期往往成为项目推进的关键瓶颈。OpenAI与PNNL联合推出DraftNEPABench基准，首次系统量化评估AI编码代理在法律文书起草中的效能，15%的时间压缩虽不颠覆性，却释放了明确的信号：AI在高度规范化的政务流程中已具备实际应用价值。\n\n对于行业而言，这一进展将产生多重影响。首先，联邦机构可能加速采纳AI工具以提升审批效率，尤其在能源、交通等重大项目集中的领域。其次，AI+政务的法律科技赛道将吸引更多资本和技术投入，类似于此前金融合规科技的发展路径。但需注意，政务AI应用对数据安全、算法透明度和合规审查的要求远高于商业场景，技术落地仍需克服监管框架适配的挑战。\n\n从趋势判断，AI赋能政务数字化将成为中长期确定性方向。企业决策者应关注两类机会：一是参与政府AI采购和服务外包，二是将自身业务流程中的合规审批环节进行类似智能化改造，以提升运营效率。同时，需警惕过度依赖单一技术路径，AI辅助决策与人类专业判断的结合仍是当前最务实的实施策略。",
+  "tags": [
+    "AI",
+    "联邦许可",
+    "Benchmark",
+    "NEPA"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:19.466172+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

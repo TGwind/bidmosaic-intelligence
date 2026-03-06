@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Science Corp raises $230M as it races to bring its brain implant to market",
+  "raw_content": "A source close to the company says the round assigns Science a post-money valuation of $1.25 billion.",
+  "source_url": "https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T14:00:00+00:00",
+  "id": "99391776-478f-464e-8fdc-36b2c9143731",
+  "generated_title": "Science Corp融资2.3亿美元，脑植入物市场化加速",
+  "generated_summary": "脑机接口公司Science Corp完成2.3亿美元融资，估值达12.5亿美元，将加速其脑植入设备的市场化进程。",
+  "generated_analysis": "脑机接口领域迎来又一重磅融资。Science Corp获得2.3亿美元投资、估值达12.5亿美元，标志着该技术从研发阶段向商业化迈出关键一步。此轮融资规模仅次于Neuralink，显示资本市场对脑机接口技术成熟度的认可正快速提升。\n\n对行业而言，12.5亿美元估值具有风向标意义。它向整个产业链传递了积极信号：脑植入设备的商业可行性已得到头部资本背书。这将刺激更多资金流入该赛道，加速供应链成熟，同时倒逼监管机构加快相关审批流程。从竞争格局看，Science Corp的规模化推进将使脑机接口从技术竞赛转向市场拓展能力的较量。\n\n趋势判断上，脑机接口的医疗应用场景将率先商业化，包括瘫痪康复、神经疾病治疗等方向是重点突破领域。预计未来3-5年该领域将出现更多并购整合，具备临床转化能力和渠道优势的企业将占据先机。企业决策者应密切关注技术审批进展及临床数据发布，这将是判断投资时机和企业战略布局的关键窗口。",
+  "tags": [
+    "脑机接口",
+    "医疗科技",
+    "融资"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:56:14.338365+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Atoms for Algorithms:’ The Trump Administration’s Top Nuclear Scientists Think AI Can Replace Humans in Power Plants",
+  "raw_content": "“The claims being made on these slides are quite concerning, and demonstrate an even more ambitious (and dangerous) use of AI than previously advertised, including the elimination of human intervention. It also cements that it is the DOE's strategy to use generative AI for nuclear purposes and licensing, rather than isolated incidents by private entities,” Heidy Khlaaf, head AI scientist at the AI Now Institute, told 404 Media. The post Atoms for Algorithms:’ The Trump Administration’s Top Nuclear Scientists Think AI Can Replace Humans in Power Plants appeared first on AI Now Institute.",
+  "source_url": "https://ainowinstitute.org/news/press/atoms-for-algorithms-the-trump-administrations-top-nuclear-scientists-think-ai-can-replace-humans-in-power-plants",
+  "source_name": "AI Now Institute",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-12-04T22:43:09+00:00",
+  "id": "bff8142d-0386-446f-9636-d11965edc4bc",
+  "generated_title": "特朗普政府核科学家主张用AI取代核电站人员",
+  "generated_summary": "AI Now Institute警告政府计划将生成式AI用于核设施许可审批，消除人类干预，存在严重安全隐患。",
+  "generated_analysis": "此事件折射出AI与高风险监管领域的深层矛盾。核设施决策涉及复杂的安全变量与不确定性判断，当前生成式AI的“黑箱”特性决定了其难以满足核安全所需的透明度和可追溯性要求。若将AI植入许可审批流程，等同于将可能存在幻觉和偏见的技术置于人命关天的场景中，这不仅威胁核电站安全，还可能破坏国际核安全监管体系的信任基础。\n\n从行业影响看，此计划若实施将产生显著的示范效应，可能促使能源、金融等高监管行业效仿，引发对AI替代专业判断的泛化风险。同时，这也暴露了政府在AI治理方面的滞后——缺乏针对高风险场景的专项评估框架。\n\n趋势上，预计将引发学术机构、环保组织和国际原子能机构的强烈质疑与反对，相关技术短期内难以落地。但此争议或将推动AI安全评估工具的发展，并促使监管机构加快制定高风险AI应用的强制认证标准。对于企业决策者而言，核心启示在于：高风险决策领域的AI应用必须以人类监督为底线，技术可行性不等于应用合理性。",
+  "tags": [
+    "AI监管",
+    "核能安全",
+    "政府政策"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:31:09.615138+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://ainowinstitute.org/category/news/feed",
+    "category": "policy",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

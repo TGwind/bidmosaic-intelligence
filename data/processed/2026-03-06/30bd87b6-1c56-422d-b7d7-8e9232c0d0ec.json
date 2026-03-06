@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Comex Gold, Silver Settle Lower",
+  "raw_content": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+  "source_url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T19:01:00+00:00",
+  "id": "30bd87b6-1c56-422d-b7d7-8e9232c0d0ec",
+  "generated_title": "COMEX黄金白银结算价下跌",
+  "generated_summary": "黄金结算价跌1.4%，白银跌2.5%，均为连续多日下跌",
+  "generated_analysis": "",
+  "tags": [
+    "贵金属",
+    "大宗商品",
+    "COMEX"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:21:31.009693+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

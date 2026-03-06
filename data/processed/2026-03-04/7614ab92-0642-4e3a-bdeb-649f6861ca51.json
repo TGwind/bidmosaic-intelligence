@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "India Fuels Its AI Mission With NVIDIA",
+  "raw_content": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation.",
+  "source_url": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-18T00:30:49+00:00",
+  "id": "7614ab92-0642-4e3a-bdeb-649f6861ca51",
+  "generated_title": "印度携手英伟达推进国家AI转型战略",
+  "generated_summary": "印度与英伟达深化AI合作，从基础设施到前沿模型开发，全面推进国家人工智能转型。",
+  "generated_analysis": "印度与英伟达的战略合作标志着全球AI竞争格局的深刻变革。作为世界人口第二大国家，印度正试图在AI浪潮中占据有利位置，通过与全球芯片巨头英伟达的深度合作，从底层算力基础设施到顶层模型研发实现全面覆盖。这一合作的背景在于印度政府近年来持续推进“数字印度”战略，将AI视为经济转型的核心引擎；而英伟达则看中了印度庞大的应用市场和人才资源。\n\n对于行业而言，这一合作将产生多重效应：首先，印度本土AI生态系统将获得关键算力支撑，可能催生更多应用创新；其次，全球AI产业链可能加速向印度转移，形成新的产业集聚；再次，印度市场的开放将加剧亚太地区AI竞争，其他科技巨头可能加大布局力度。\n\n从趋势判断看，印度有望在3-5年内成长为全球AI领域的重要一极，其在语言处理、智慧城市、医疗AI等细分领域可能形成独特优势。企业决策者应密切关注这一趋势，提前评估印度市场机遇与竞争态势的变化。",
+  "tags": [
+    "人工智能",
+    "国际合作",
+    "芯片",
+    "印度市场"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:49:33.720038+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

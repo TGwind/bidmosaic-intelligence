@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "信心·恒心·初心——写给春天的中国",
+  "raw_content": "信心·恒心·初心——写给春天的中国",
+  "source_url": "https://www.toutiao.com/article/7613312396110594586",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-05T07:34:23.617824+00:00",
+  "id": "7a96fae7-034e-4977-8766-cd3a7740140a",
+  "generated_title": "信心恒心初心——写给春天的中国",
+  "generated_summary": "一篇关于中国发展理念的散文式文章，以信心、恒心、初心为核心主题，寄语春天般的美好愿景。",
+  "generated_analysis": "",
+  "tags": [
+    "随笔",
+    "中国发展",
+    "正能量"
+  ],
+  "importance_score": 4,
+  "processed_at": "2026-03-05T14:47:37.327647+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "23630759",
+    "platform": "toutiao"
+  }
+}

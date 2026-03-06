@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "超22万OpenClaw部署实例暴露公网，Agent在大规模“裸奔”",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/Z2FAr6DW70sq4tU9q6hv?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T16:14:07+00:00",
+  "id": "bb40209b-2aae-4288-a627-655ed6787e29",
+  "generated_title": "超22万OpenClaw实例暴露公网，AI Agent安全风险引关注",
+  "generated_summary": "安全研究人员发现超22万个OpenClaw部署实例暴露在公网，存在严重安全风险，AI Agent大规模“裸奔”。",
+  "generated_analysis": "此次OpenClaw实例大规模暴露事件，折射出AI Agent快速商业化进程中安全建设的严重滞后。22万级暴露量意味着大量企业已部署的AI智能体处于未受保护状态，本质上是将核心业务能力直接暴露于公网攻击面之下。\n\n从行业影响看，这一事件将产生三重冲击：首先，数据泄露风险急剧上升，AI Agent通常承载企业敏感数据和业务逻辑，一旦被入侵可能导致商业机密外泄；其次，模型投毒和提示注入攻击门槛大幅降低，攻击者可轻易操纵AI行为；再次，责任边界模糊化，企业将面临前所未有的合规与法律风险。\n\n趋势判断：AI安全将成为与AI能力并行的核心赛道。预计未来12-18个月内，三大趋势将加速演进：一是安全评测基准和行业标准将密集出台；二是AI Agent安全防护产品市场将迎来爆发式增长；三是企业AI治理框架将把安全评估列为部署前置条件。建议决策层尽快将AI Agent安全纳入企业AI战略优先项。",
+  "tags": [
+    "AI安全",
+    "漏洞",
+    "开源项目",
+    "Agent"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:51:46.353934+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

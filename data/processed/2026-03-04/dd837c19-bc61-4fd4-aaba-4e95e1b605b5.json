@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Just three companies dominated the $189B in VC investments last month",
+  "raw_content": "Crunchbase data shows a record $189 billion of global venture capital flowed to startups last month, with AI startups nabbing 90% of the capital.",
+  "source_url": "https://techcrunch.com/2026/03/03/openai-anthropic-waymo-dominated-189-billion-vc-investments-february-crunchbase-report/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T22:38:58+00:00",
+  "id": "dd837c19-bc61-4fd4-aaba-4e95e1b605b5",
+  "generated_title": "全球VC投资创新高 AI初创公司独揽90%资金",
+  "generated_summary": "Crunchbase数据显示上月全球VC投资达1890亿美元历史新高，AI初创公司占据90%融资份额。",
+  "generated_analysis": "上个月全球VC投资创下1890亿美元的历史新高，这一数据反映出当前资本市场对人工智能领域的极度乐观情绪。AI初创公司独揽90%融资份额，意味着几乎所有风险资金都在向AI赛道集中，这既体现了生成式AI技术突破带来的巨大想象空间，也反映出投资者对错过AI浪潮的FOMO心理。\n\n对行业而言，资金的过度集中将产生明显分化效应。一方面，AI企业将获得充裕资本加速技术研发和商业化落地，人才竞争也将更加激烈；另一方面，非AI赛道的创业公司面临融资困难，创新空间被进一步压缩。这种资金配置失衡可能掩盖部分AI项目本身的质量问题，推高估值泡沫风险。\n\n从趋势判断，AI投资热潮短期难以消退，但随着技术成熟度提升和商业化压力显现，市场将进入筛选期。预计未来12-18个月内，AI领域将出现明显整合，缺乏差异化竞争力或找不到可持续商业模式的企业将被迫退出。对于企业决策者而言，当前是布局AI的最佳窗口期，但需审慎评估标的估值合理性，重点关注具备真实应用场景和明确变现路径的标的。",
+  "tags": [
+    "风险投资",
+    "AI投资",
+    "融资数据"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-04T14:53:35.845667+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

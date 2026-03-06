@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Pricing cascades – inflation in a networked economy",
+  "raw_content": "The post-pandemic inflation surge is often attributed to pent-up demand andopportunistic price hikes. In fact, it is better explained by the effects of theeconomy’s production network and “state-dependent” pricing, where firmschange prices optimally when the reward justifies the effort. Firms are tightlylinked through supply chains so a surge in prices upstream can triggersimultaneous repricing by many layers of firms downstream, fuelling broad-based inflation. Unlike standard models, our euro area model includes theseeffects and successfully reproduces the post-pandemic inflation surge andfaster repricing. This implies analysis of such effects is indispensable formonetary policy",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb260127~200fea7da0.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-01-27T07:00:00+00:00",
+  "id": "00f77f5b-cc37-4b85-84d1-e7d5507d9ca2",
+  "generated_title": "后疫情通胀根源：生产网络与状态依赖定价",
+  "generated_summary": "欧洲央行研究揭示后疫情通胀主因并非需求旺盛，而是供应链网络级联效应——上游价格冲击触发下游同步重新定价，推动广泛通胀。",
+  "generated_analysis": "这一研究挑战了关于后疫情通胀的传统认知。长期以来，决策者和市场普遍将通胀归因于需求复苏与企业的机会性涨价，但欧洲央行模型显示，真正驱动广泛通胀的是生产网络的级联效应与状态依赖定价的交互作用。当上游原材料或能源价格受到冲击时，由于供应链上企业紧密关联，下游各层级企业会同步调整价格，形成“多米诺骨牌”式的传导链条。这种同步再定价行为远超传统模型预测，解释了为何通胀呈现全面性而非局部性。\n\n对于企业决策者而言，这意味着通胀治理需更加关注供应链结构与定价行为模式，而非简单归因于需求端。货币政策分析必须纳入网络效应，否则可能低估通胀粘性与传导速度。展望未来，随着全球供应链重构与数字化定价技术普及，状态依赖定价的调整频率可能进一步加快，通胀响应将更加敏感。企业应建立供应链成本传导的动态监测机制，并将网络效应纳入价格风险管理框架。",
+  "tags": [
+    "通胀",
+    "货币政策",
+    "供应链"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:45:21.162643+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

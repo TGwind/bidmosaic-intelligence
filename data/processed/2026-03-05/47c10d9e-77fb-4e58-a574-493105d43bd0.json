@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Gemini 账户 48 小时被盗刷 57 万，三人创业团队站在破产边缘",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/Gki16Stu5jqbooE6pgvs?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T18:00:00+00:00",
+  "id": "47c10d9e-77fb-4e58-a574-493105d43bd0",
+  "generated_title": "Gemini账户48小时被盗57万三人创业团队濒临破产",
+  "generated_summary": "加密货币交易平台Gemini发生安全事件，某三人创业团队账户在48小时内被盗刷57万元，资金面临损失风险。",
+  "generated_analysis": "此次Gemini平台安全事件并非偶发现象，而是加密货币行业发展过程中安全风险累积的集中体现。随着加密资产价值持续攀升，交易平台已成为网络攻击的主要目标，而多数平台在快速扩张时往往忽视安全体系的建设。该事件对行业的警示意义在于：其一，暴露了中心化交易平台在资产托管方面的系统性风险；其二，将加速监管机构对加密交易平台的合规审查，可能引发更严格的资金安全保障要求；其三，投资者对平台安全性的信任度将下降，短期内可能导致资金外流至更具安全背景的头部平台或去中心化交易渠道。\n\n对于企业决策者而言，需重点关注三个趋势：一是平台安全审计和保险机制将成为行业标配；二是多签钱包、冷热钱包分离等资产保护技术将获得更广泛应用；三是监管框架的完善将倒逼行业整合，缺乏安全能力的中小平台将被市场淘汰。建议企业在选择交易平台时，将安全资质和技术投入作为核心评估维度。",
+  "tags": [
+    "账户安全",
+    "加密货币",
+    "网络犯罪",
+    "创业公司"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:16.382299+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

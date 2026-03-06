@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
+  "raw_content": "Minutes of the Federal Open Market Committee, October 28-29, 2025",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251119a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-11-19T19:00:00+00:00",
+  "id": "32c4dd6f-9ad7-4c2f-b9f6-5d7834af6858",
+  "generated_title": "2025年10月美联储FOMC会议纪要",
+  "generated_summary": "美联储公布10月FOMC会议纪要，披露货币政策决策细节和经济展望",
+  "generated_analysis": "抱歉，我注意到您没有提供2025年10月FOMC会议纪要的实际内容。您只提供了标题和摘要，但没有披露具体的会议决策细节、经济展望或其他实质性的情报信息。\n\n为了撰写一段有深度、有价值的分析，我需要了解会议纪要中的具体内容，例如：\n\n- 利率决策的具体结果\n- 缩表路径的表述变化\n- 对通胀前景的最新评估\n- 对就业市场的判断\n- 票委们的分歧情况\n- 对未来政策路径的前瞻指引\n\n此外，2025年10月的FOMC会议属于未来事件，我的知识截止日期无法提供该会议的具体内容。\n\n请您提供会议纪要的实质性内容，我才能为您完成200-300字的深度行业分析。",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "FOMC",
+    "利率"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:46:46.971397+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

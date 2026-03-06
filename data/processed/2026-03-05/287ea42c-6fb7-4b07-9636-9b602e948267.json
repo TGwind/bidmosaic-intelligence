@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "科技爱好者周刊（第 386 期）：当外卖员接入 AI",
+  "raw_content": "这里记录每周值得分享的科技内容，周五发布。...",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/02/weekly-issue-386.html",
+  "source_name": "阮一峰科技爱好者周刊",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-27T00:07:08+00:00",
+  "id": "287ea42c-6fb7-4b07-9636-9b602e948267",
+  "generated_title": "科技爱好者周刊第386期：外卖员接入AI引关注",
+  "generated_summary": "阮一峰科技爱好者周刊第386期发布，探讨外卖员接入AI的主题，记录每周值得分享的科技内容。",
+  "generated_analysis": "",
+  "tags": [
+    "AI应用",
+    "共享经济",
+    "科技媒体"
+  ],
+  "importance_score": 4,
+  "processed_at": "2026-03-05T14:48:41.545431+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "china_tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《这波贪了》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV16uARz1EUo",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:30.754888+00:00",
+  "id": "b359dcfa-9080-49de-9a74-1a1566be1856",
+  "generated_title": "B站热门流行语引关注",
+  "generated_summary": "网络流行语“这波贪了”登上B站热门，反映网友对获利的调侃表达",
+  "generated_analysis": "",
+  "tags": [
+    "网络流行语",
+    "B站",
+    "社交媒体"
+  ],
+  "importance_score": 4,
+  "processed_at": "2026-03-06T02:17:51.298625+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 7417829,
+    "platform": "bilibili"
+  }
+}

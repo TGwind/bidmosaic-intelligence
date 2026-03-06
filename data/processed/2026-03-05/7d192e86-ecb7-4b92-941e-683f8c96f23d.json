@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+  "raw_content": "3.1 Pro is designed for tasks where a simple answer isn’t enough.",
+  "source_url": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-19T16:06:14+00:00",
+  "id": "7d192e86-ecb7-4b92-941e-683f8c96f23d",
+  "generated_title": "Gemini 3.1 Pro发布 面向复杂任务的更强AI模型",
+  "generated_summary": "Google DeepMind发布Gemini 3.1 Pro模型，专为需要深度分析而非简单答案的复杂任务设计。",
+  "generated_analysis": "Gemini 3.1 Pro的发布标志着AI大模型竞争进入新阶段。Google DeepMind明确将这款模型定位为“深度分析”工具而非简单问答系统，这反映出AI技术正在从追求回答速度转向追求回答质量。从行业背景看，2024年各大厂商在基础能力上已趋于同质化，差异化竞争焦点转向专业领域的深度推理能力。\n\n对企业决策者而言，这一变化意味深远。首先，企业在选择AI工具时需重新评估自身需求——如果业务场景需要复杂数据分析、战略研究或多步骤推理，Gemini 3.1 Pro这类模型将带来显著价值提升；其次，这会加速企业AI应用的分化，基础问答类需求可能继续选择性价比更高的模型，而高价值决策支持场景则向高端模型集中。\n\n从市场趋势判断，AI竞争将在“深度推理”维度展开新一轮洗牌。预计未来12-18个月，我们将看到更多针对复杂任务优化的垂直模型出现，同时模型层的定价策略也可能调整，从按token计费转向按任务复杂度或价值计费。企业应开始评估自身核心业务中哪些环节需要“深度AI”，并提前布局相应的技术选型和人才储备。",
+  "tags": [
+    "人工智能",
+    "大模型",
+    "Google DeepMind"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:54:51.772337+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

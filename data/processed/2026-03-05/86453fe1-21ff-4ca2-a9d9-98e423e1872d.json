@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《崩坏：星穹铁道》火花角色PV——「痴人说梦」",
+  "raw_content": "一个笑话讲两遍——这到底和杀死这个笑话有什么区别？！ 歌曲演唱：睡眠学家 中文CV： 火花——赵爽 花火——赵爽 日文CV： 火花——上田丽奈 花火——上田丽奈 英文CV： 火花——Lizzie Freeman 花火——Lizzie Freeman 韩文CV： 火花——성예원 花火——성예원",
+  "source_url": "https://www.bilibili.com/video/BV1XGAUzJEZB",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T07:34:30.174830+00:00",
+  "id": "86453fe1-21ff-4ca2-a9d9-98e423e1872d",
+  "generated_title": "崩坏星穹铁道火花角色PV「痴人说梦」",
+  "generated_summary": "米哈游《崩坏：星穹铁道》发布新角色火花的中文配音版角色宣传视频，在B站获得较高关注度",
+  "generated_analysis": "",
+  "tags": [
+    "游戏",
+    "崩坏：星穹铁道",
+    "米哈游",
+    "角色PV"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:47:50.941472+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5869897,
+    "platform": "bilibili"
+  }
+}

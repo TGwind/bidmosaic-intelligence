@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Federal Reserve issues FOMC statement",
+  "raw_content": "Federal Reserve issues FOMC statement",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260128a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-01-28T19:00:00+00:00",
+  "id": "ca658b97-2e90-40fc-b0d5-9c8d3fdd8d7d",
+  "generated_title": "美联储发布FOMC声明",
+  "generated_summary": "美联储联邦公开市场委员会发布最新政策声明，具体内容未提供",
+  "generated_analysis": "",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "FOMC"
+  ],
+  "importance_score": 2,
+  "processed_at": "2026-03-05T14:59:17.692276+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

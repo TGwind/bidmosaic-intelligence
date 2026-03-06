@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
+  "raw_content": "Our latest Veo update generates lively, dynamic clips that feel natural and engaging — and supports vertical video generation.",
+  "source_url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-01-13T17:00:18+00:00",
+  "id": "37bedc65-7ffd-4558-ba20-1a9528dcd99d",
+  "generated_title": "Google DeepMind发布Veo 3.1视频生成器，支持竖屏视频",
+  "generated_summary": "Veo 3.1可生成更自然、动态的视频片段，并首次支持竖屏视频格式，提升了一致性和创作控制力。",
+  "generated_analysis": "Veo 3.1的发布标志着AI视频生成技术向应用落地迈出重要一步。竖屏视频支持的加入并非技术炫技，而是直指短视频社交平台的巨大需求——TikTok、YouTube Shorts等平台日活用户已超数十亿，内容创作效率成为平台竞争核心。Google此次更新将生成视频的“自然度”和“动态感”作为卖点，本质上是在回应市场对AI生成内容（AGC）真实性的更高要求，同时补齐了此前在移动端适配上的短板。\n\n对行业而言，Veo 3.1可能引发三方面连锁反应：首先，短视频内容供给成本将大幅下降，中小创作者获得高效工具，可能进一步加剧内容同质化竞争；其次，品牌营销视频制作周期有望从周级缩短至小时级，冲击传统广告代理商业模式；最后，竖屏格式支持使AI视频从“创意演示”转向“工业化生产”，技术商业化路径更加清晰。\n\n趋势上，预计未来12-18个月将是AI视频赛道的关键窗口期，各平台将围绕生成质量、生成速度和合规安全三个维度展开竞争。企业决策者应关注AI视频对内容团队结构的重塑机会，以及如何将该技术整合至现有营销工作流中，以获取先发优势。",
+  "tags": [
+    "AI视频生成",
+    "Google DeepMind",
+    "视频生成"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:22:05.116036+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

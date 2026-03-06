@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Trump son echoes president's anti-bank message amid stablecoin yield fight",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Trump son echoes president's anti-bank message amid stablecoin yield fight\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JlODQtYjIyZC03ZDhjLTg0M2UtMGE2NmVmODdjNzU1LmpwZw==.jpg\" /></p><p>The post from Eric Trump, tagging his crypto company, came hours after his father claimed banks were holding a market structure bill “hostage.”</p>",
+  "source_url": "https://cointelegraph.com/news/eric-trump-anti-bank-stablecoin-yield?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T19:55:58+00:00",
+  "id": "e9ce4197-fc88-4327-adbd-7c2e27557647",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

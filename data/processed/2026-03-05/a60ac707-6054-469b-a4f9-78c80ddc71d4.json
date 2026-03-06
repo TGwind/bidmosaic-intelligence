@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Rational inattention and information provision experiments",
+  "raw_content": "In surveys with information provision experiments, researchers can observe how people change beliefs, and sometimes also actions, after having been confronted with information. This article interprets information provision experiments from the perspective of the theory of rational inattention, discussing what survey findings tell us about economic behaviour outside the survey and deriving implications for central bank communication. One implication is that there may be a weak response from individuals to certain kinds of real‑world policy communication even though they respond strongly during an information provision experiment.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250925~96f936edde.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2025-09-25T06:00:00+00:00",
+  "id": "a60ac707-6054-469b-a4f9-78c80ddc71d4",
+  "generated_title": "理性忽略理论与信息提供实验研究",
+  "generated_summary": "欧洲央行研究探讨信息提供实验如何影响公众信念与行为，分析理性忽略理论对央行政策沟通的启示。",
+  "generated_analysis": "欧洲央行此项研究揭示了政策沟通中的一个关键悖论：实验环境下公众对信息反应强烈，但在真实政策场景中响应却显著减弱。这一发现源于理性忽略理论——个体在信息过载环境下倾向于选择性处理信息，仅关注与其利益直接相关的部分。\n\n对于金融市场参与者而言，这意味着央行政策声明的实际影响力可能被高估。企业在解读政策信号时，需意识到公众认知与政策意图之间存在认知鸿沟。未来央行可能调整沟通策略，采用更直接、精准的信息传递方式，并增加与特定受众的定向互动。此研究也为其他政策制定者提供了重要启示：在信息爆炸时代，有效的政策传播需要更注重信息的可获取性和相关性，而非单纯扩大信息覆盖面。企业决策者在制定应对策略时，应区分市场在实验情境下的理论反应与现实中的实际表现，避免过度依赖政策预告进行短期预判。",
+  "tags": [
+    "理性忽略",
+    "信息提供实验",
+    "央行沟通",
+    "经济行为"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:56:49.763898+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

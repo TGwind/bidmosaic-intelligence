@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "This startup claims it can stop lightning and prevent catastrophic wildfires",
+  "raw_content": "On June 1, 2023, as a sweltering heat wave baked Quebec, thousands of lightning strikes flashed across the province, setting off more than 120 wildfires. The blazes ripped through parched forests and withered grasslands, burned for weeks, and compounded what was rapidly turning into Canada’s worst fire year on record. In the end, nearly 7,000&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T10:00:00+00:00",
+  "id": "ccff6064-3f8d-41da-9404-1ecd8a5027cb",
+  "generated_title": "初创公司声称开发防雷技术阻止野火",
+  "generated_summary": "MIT Tech Review报道，加拿大2023年野火频发致严重灾害，一科技初创公司声称研发出可阻止闪电的技术以预防灾难性野火。",
+  "generated_analysis": "2023年加拿大野火频发创历史纪录，造成巨大经济损失和生态破坏。在此背景下，防雷技术初创公司的出现反映了极端气候事件催生新型安全市场的趋势。\n\n从行业影响看，该技术若验证有效，将对多个领域产生深远影响：野火保险业可能面临风险模型重估；电力和能源基础设施运营商将获得预防性保护方案；政府公共安全支出可能增加对技术采购的预算。对投资者而言，气候适应型技术赛道正成为新的增长热点。\n\n趋势判断上，技术从实验室到商业化仍需跨越可靠性验证和成本控制两大门槛。未来3-5年内，预防性野火管理领域将出现更多技术路线竞争，包括人工增雨、阻燃剂喷洒等传统手段与新兴防雷技术的博弈。决策者应关注该领域的政策动向和技术成熟度曲线，在技术验证阶段保持战略跟踪，适时布局。",
+  "tags": [
+    "野火预防",
+    "防雷技术",
+    "科技创新",
+    "环境保护"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:52:58.862375+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Construction begins at quantum facility big enough to break Bitcoin",
+  "raw_content": "PsiQuantum co-founder Terry Rudolph said in July it has no plans to attack Bitcoin, even if its upcoming facility becomes powerful enough to break the blockchain’s cryptography.",
+  "source_url": "https://cointelegraph.com/news/construction-quantum-facility-1m-qubits-begins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-06T01:08:56+00:00",
+  "id": "2538f68d-0dc1-4f29-9b8a-c3a5adbc49fc",
+  "generated_title": "PsiQuantum开建量子设施 声称无攻击比特币计划",
+  "generated_summary": "PsiQuantum开始建设大型量子计算设施，声称该设施虽可能具备破解比特币加密的能力，但公司无攻击计划。",
+  "generated_analysis": "PsiQuantum建设大型量子计算设施标志着量子计算商业化进程迈入新阶段。该公司明确表态无攻击比特币计划，既是缓解市场担忧的公关策略，也反映出量子计算企业正试图与加密行业建立共生关系而非对抗。\n\n从行业影响看，此事件将加速两大趋势：一是传统加密货币开发者将加快后量子密码学的迁移进程，金融機構和企业将重新评估区块链资产的安全风险敞口；二是量子计算服务商可能形成\"安全承诺+算力服务\"的新型商业模式，通过主动示好降低监管阻力。\n\n对于企业决策者而言，需关注三个要点：其一，量子计算对现有加密体系的威胁属于\"未来已来\"的技术颠覆，需提前3-5年布局抗量子加密过渡；其二，PsiQuantum的表态显示行业领跑者倾向于寻求合作而非破坏，这为产业融合创造了窗口期；其三，量子计算设施的选址和产能规划往往与政府安全战略绑定，可能成为地缘科技博弈的新焦点。建议企业将区块链安全升级纳入数字化转型路线图，同时关注量子计算领域的战略合作机会。",
+  "tags": [
+    "量子计算",
+    "比特币",
+    "加密技术",
+    "网络安全"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:20:40.099061+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

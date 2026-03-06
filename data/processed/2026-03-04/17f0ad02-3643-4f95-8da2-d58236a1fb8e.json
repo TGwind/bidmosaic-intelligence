@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "文化、代码与平台：打造高绩效团队",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/TgdAMDxAiG0A4NWMZjyI?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T15:00:00+00:00",
+  "id": "17f0ad02-3643-4f95-8da2-d58236a1fb8e",
+  "generated_title": "技术团队卓越之道：文化、代码与平台",
+  "generated_summary": "探讨技术团队如何通过文化建设、代码实践和平台建设打造高绩效团队，来自InfoQ CN技术社区",
+  "generated_analysis": "当前技术团队效能已成为企业数字化转型的核心竞争要素，InfoQ CN此次聚焦技术团队卓越之道，反映出行业对团队管理从单纯技术实现向系统性能力建设转型的深度关注。文化、代码与平台三个维度恰好构成技术团队管理的完整闭环：文化是组织凝聚力的根基，决定团队价值观与协作模式；代码实践体现专业能力与质量意识，是技术价值的直接载体；平台建设则是效率杠杆，通过工具链与基础设施标准化降低重复劳动。这对行业的潜在影响在于，企业将更加重视技术团队的体系建设而非单纯依赖个别技术大牛，研发效能度量、平台化工程等概念将加速落地。从趋势判断看，未来技术领导者需要兼具技术视野与管理思维，团队文化将从强调管控转向赋能开发者，平台工程（Platform Engineering）将成为IT基础设施投资的重要方向。对于企业决策者而言，投资团队文化建设与技术平台建设，将是提升研发效率、加速创新周期的关键战略选择。",
+  "tags": [
+    "团队建设",
+    "技术管理",
+    "开发效能"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:45:54.499539+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

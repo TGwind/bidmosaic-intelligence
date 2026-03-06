@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC’s Division of Enforcement Announces Updates to Enforcement Manual",
+  "raw_content": "The Securities and Exchange Commission’s Division of Enforcement today announced significant updates to its Enforcement Manual. These updates underscore the Commission’s ongoing commitment to fairness, transparency, and efficiency in the investigations…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-20-secs-division-enforcement-announces-updates-enforcement-manual",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-02-24T13:55:52+00:00",
+  "id": "f4ec0dfa-316c-4fed-b774-ecddc9e669fe",
+  "generated_title": "SEC执法部门宣布更新执法手册",
+  "generated_summary": "SEC执法部门宣布更新执法手册，强调公平、透明和高效原则",
+  "generated_analysis": "此次SEC执法手册更新标志着美国证券监管机构在执法理念和实践层面进入新阶段。背景上，随着金融市场创新产品增多、跨境业务复杂化，传统执法模式面临效率挑战，此次更新正是对现实需求的回应。意义在于明确宣示公平、透明、高效三大原则，既是对执法程序规范化的再强调，也是对市场参与者合规预期的重新校准。\n\n对于行业和市场而言，手册更新将产生多重影响：首先，企业合规部门需重新审视内部流程，确保与新版手册要求对齐；其次，执法效率提升可能缩短调查周期，这对涉及调查的企业风险管理提出更高要求；再者，透明度的强化意味着执法标准更加可预期，有利于企业主动合规。\n\n趋势判断上，预计未来SEC执法将呈现“精准化”特征——资源集中于重大违规领域，同时程序合规性要求更加严格。企业决策者应密切关注手册配套指引的出台，提前调整合规战略，将被动应对转为主动防御，这将是应对新时代监管环境的关键策略。",
+  "tags": [
+    "美国证券交易委员会",
+    "执法",
+    "监管政策"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:02:28.840163+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

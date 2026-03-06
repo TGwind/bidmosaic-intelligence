@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "亨通光电(600487) 今日跌3.71% 报49.01元",
+  "raw_content": "亨通光电(600487) 最新价 49.01元，跌3.71%，涨跌额 -1.89元，今开 49.37元，最高 50.29元，最低 47.33元，昨收 50.90元，成交额 32.49亿元，振幅 5.82%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh600487/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-06T02:15:17.646033+00:00",
+  "id": "2606d99b-4d84-443c-ada5-57a57d90f6df",
+  "generated_title": "亨通光电(600487) 今日跌3.71% 报49.01元 | 观望",
+  "generated_summary": "趋势: 弱势 · 信号: 观望 · 评分: 25",
+  "generated_analysis": "亨通光电今日下跌3.71%，跌破MA5、MA10、MA20均线，形成明显的空头排列。从技术面看，股价今日跌破50元整数关口，成交量放大至32.49亿元，说明资金出逃意愿较强。MA5(50.90元)目前对股价形成压制，短期趋势偏弱。从基本面看，公司作为光通信龙头企业，5G建设对其业务有支撑，但短期股价走势较弱。综合来看，当前不适合建仓，需等待股价企稳后再考虑介入。\n\n风险提示: 【风险提示】股价已有效跌破均线支撑，短期趋势转弱。考虑到今日下跌伴随放量，短期可能还有调整压力。建议严格止损纪律，切勿盲目抄底。",
+  "tags": [
+    "A股",
+    "弱势",
+    "观望"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:17:40.426039+00:00",
+  "market_data": {
+    "symbols": [
+      "600487"
+    ],
+    "price_change": {
+      "price": 49.01,
+      "change_pct": -3.71,
+      "change_amt": -1.89
+    },
+    "indicators": {
+      "volume": 67356594.0,
+      "turnover": 3248908227.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 5.82,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "弱势",
+    "signal": "观望",
+    "risk": "【风险提示】股价已有效跌破均线支撑，短期趋势转弱。考虑到今日下跌伴随放量，短期可能还有调整压力。建议严格止损纪律，切勿盲目抄底。",
+    "confidence": "低",
+    "sentiment_score": 25,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "股价跌破MA5/MA10/MA20均线，空头排列明显，暂不买入",
+        "time_sensitivity": "不急",
+        "position_advice": {
+          "no_position": "建议继续观望，等待MA5拐头向上且股价站稳均线后再说",
+          "has_position": "若持仓成本在48元以下可继续持有，跌破47元需考虑止损"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5<MA10<MA20，空头排列",
+        "is_bullish": false,
+        "trend_score": 28,
+        "bias_ma5": -3.74,
+        "bias_status": "安全",
+        "support_level": "47.33元(今日低点)",
+        "resistance_level": "50.90元(昨收)",
+        "volume_status": "放量",
+        "volume_meaning": "下跌放量说明抛压较大，资金出逃明显"
+      },
+      "battle_plan": {
+        "ideal_buy": "待股价重新站上MA5且MA5拐头向上后再考虑",
+        "secondary_buy": "48元以下可视情况轻仓试盘",
+        "stop_loss": "46.50元",
+        "take_profit": "52元",
+        "suggested_position": "0-10%",
+        "entry_plan": "严格分批建仓，首次不超5%，确认企稳再加"
+      },
+      "checklist": [
+        "❌ 多头排列",
+        "⚠️ 乖离率合理",
+        "⚠️ 量能配合",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "股价已跌破所有短期均线，技术面走弱",
+        "今日跌幅超3%，短期可能还有调整压力",
+        "若放量跌破47元支撑，可能开启新一轮下跌"
+      ],
+      "positive_catalysts": [
+        "光通信行业景气度仍在，5G建设持续推进",
+        "股价连续下跌后乖离率已负值，存在技术反弹可能",
+        "如果能在47-48元区间企稳，可能形成新的买点"
+      ],
+      "short_term_outlook": "短期1-3日预计在47-50元区间弱势震荡，若能守住47元支撑可能迎来技术性反弹，但若跌破47元可能进一步下探。",
+      "medium_term_outlook": "中期1-2周需要观察股价能否在47-48元区间企稳，并重新站上MA5。若企稳成功，可能展开修复行情；若继续下跌，则可能测试前期低点支撑。"
+    }
+  }
+}

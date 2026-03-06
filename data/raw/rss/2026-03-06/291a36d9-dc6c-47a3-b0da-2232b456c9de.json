@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Fine-Tuning and Evaluating Conversational AI for Agricultural Advisory",
+  "raw_content": "arXiv:2603.03294v1 Announce Type: new \nAbstract: Large Language Models show promise for agricultural advisory, yet vanilla models exhibit unsupported recommendations, generic advice lacking specific, actionable detail, and communication styles misaligned with smallholder farmer needs. In high stakes agricultural contexts, where recommendation accuracy has direct consequences for farmer outcomes, these limitations pose challenges for responsible deployment. We present a hybrid LLM architecture that decouples factual retrieval from conversational delivery: supervised fine-tuning with LoRA on expert-curated GOLDEN FACTS (atomic, verified units of agricultural knowledge) optimizes fact recall, while a separate stitching layer transforms retrieved facts into culturally appropriate, safety-aware responses. Our evaluation framework, DG-EVAL, performs atomic fact verification (measuring recall, precision, and contradiction detection) against expert-curated ground truth rather than Wikipedia or retrieved documents. Experiments across multiple model configurations on crops and queries from Bihar, India show that fine-tuning on curated data substantially improves fact recall and F1, while maintaining high relevance. Using a fine-tuned smaller model achieves comparable or better factual quality at a fraction of the cost of frontier models. A stitching layer further improves safety subscores while maintaining high conversational quality. We release the farmerchat-prompts library to enable reproducible development of domain-specific agricultural AI.",
+  "source_url": "https://arxiv.org/abs/2603.03294",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "291a36d9-dc6c-47a3-b0da-2232b456c9de",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

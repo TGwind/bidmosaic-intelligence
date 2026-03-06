@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Unlock Massive Token Throughput with GPU Fractioning in NVIDIA Run:ai",
+  "raw_content": "As AI workloads scale, achieving high throughput, efficient resource usage, and predictable latency becomes essential. NVIDIA Run:ai addresses these challenges...",
+  "source_url": "https://developer.nvidia.com/blog/unlock-massive-token-throughput-with-gpu-fractioning-in-nvidia-runai/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-18T18:00:00+00:00",
+  "id": "06919a22-0579-4222-9577-8f9c600a7a29",
+  "generated_title": "NVIDIA Run:ai通过GPU分割实现海量Token吞吐量",
+  "generated_summary": "随着AI工作负载规模扩大，NVIDIA Run:ai通过GPU分割技术实现高吞吐量、高效资源利用和可预测延迟，解决AI算力需求挑战。",
+  "generated_analysis": "NVIDIA Run:ai通过GPU分割技术实现海量Token吞吐量，标志着AI基础设施调度能力进入新阶段。随着大模型参数规模持续膨胀，传统GPU资源分配模式面临碎片化利用率低、推理延迟不可控等瓶颈。Run:ai的GPU分割技术将单卡算力按需动态分配给多任务，实现算力细粒度调度，这将显著降低企业部署AI应用的门槛和成本。\n\n对行业而言，该技术有望推动AI推理服务从“堆算力”向“精调度”转变，提升GPU资源利用率30%以上，加速AI应用商业化落地。预计未来一到两年内，主流云服务商和大型AI企业将密集跟进类似技术路线，GPU虚拟化和智能调度将成为算力基础设施竞争的核心维度。企业决策者应关注自身AI工作负载的调度优化能力，这将成为差异化竞争力的关键来源。",
+  "tags": [
+    "GPU",
+    "AI算力",
+    "性能优化"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:10.601742+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}

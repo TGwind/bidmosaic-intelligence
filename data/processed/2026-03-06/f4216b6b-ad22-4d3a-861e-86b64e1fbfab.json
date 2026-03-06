@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "科技爱好者周刊（第 387 期）：你是领先的",
+  "raw_content": "这里记录每周值得分享的科技内容，周五发布。...",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-387.html",
+  "source_name": "阮一峰科技爱好者周刊",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T20:20:54+00:00",
+  "id": "f4216b6b-ad22-4d3a-861e-86b64e1fbfab",
+  "generated_title": "科技爱好者周刊第387期：你是领先的",
+  "generated_summary": "阮一峰编选的每周科技内容精选，周五发布，汇集一周值得关注的科技资讯与资源。",
+  "generated_analysis": "",
+  "tags": [
+    "科技资讯",
+    "技术周报",
+    "每周精选"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:34:36.257139+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "china_tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

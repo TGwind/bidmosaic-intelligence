@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "社保迎来“第六险”",
+  "raw_content": "社保迎来“第六险”",
+  "source_url": "https://www.toutiao.com/trending/7613261768797945897/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613261768797945897%22%2C%22hot_board_impr_id%22%3A%22202603052228181AFFD88B2DEC34805AF5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A4%BE%E4%BF%9D%E8%BF%8E%E6%9D%A5%E2%80%9C%E7%AC%AC%E5%85%AD%E9%99%A9%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7613261768797945897",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T14:28:14.436079+00:00",
+  "id": "8a1fa503-259a-41cd-bac9-3ef3103eb3b4",
+  "generated_title": "社保迎来第六险：长期护理保险试点扩围",
+  "generated_summary": "中国多地试点长期护理保险，被称为社保'第六险'，旨在应对老龄化带来的长期护理需求",
+  "generated_analysis": "长期护理保险试点扩围是中国应对老龄化挑战的重要制度创新。当前中国65岁以上人口已超2亿，失能半失能老人规模庞大，护理需求持续攀升，而现有社保体系缺乏系统性保障。长期护理保险的推出填补了这一制度空白，有助于缓解家庭照护压力、促进社会和谐。\n\n对行业而言，该政策将产生深远影响。首先，养老护理服务市场将迎来政策驱动的增长期，专业护理机构、居家护理服务需求有望显著提升。其次，商业保险机构将获得新的业务拓展空间，补充性长期护理险产品需求将逐步释放。此外，护理人才培训、康复辅具、智慧养老等领域也将受益。\n\n趋势判断：试点范围预计将持续扩大，两三年内有望推向全国。制度设计将趋向“政府主导、商业补充”模式，商业长护险将迎来发展窗口期。建议相关企业提前布局护理服务网络、培育专业团队，同时关注政策动态，把握市场先机。",
+  "tags": [
+    "社会保障",
+    "长期护理保险",
+    "老龄化",
+    "社保改革"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:13.797165+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "27867238",
+    "platform": "toutiao"
+  }
+}

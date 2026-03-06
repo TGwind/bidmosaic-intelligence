@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee issues a consolidated version of its guidelines",
+  "raw_content": "The Basel Committee has published a consultation on a consolidated version of its guidelines and sound practices. The consolidated version aims to improve accessibility and substantially streamline guidance materials. Comments on the consultation are requested by 26 June 2026.",
+  "source_url": "https://www.bis.org/press/p260226.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-06T02:15:16.741234+00:00",
+  "id": "743c33be-34f1-4724-b3e8-04f031c88d46",
+  "generated_title": "巴塞尔委员会发布指南整合版征求意见稿",
+  "generated_summary": "巴塞尔委员会发布其指南和稳健实践的整合版征求意见稿，旨在提高可访问性并简化指导材料，意见反馈截止2026年6月26日。",
+  "generated_analysis": "巴塞尔委员会发布指南整合版征求意见稿，标志着全球银行监管框架进入新一轮系统性优化阶段。此举的背景是，历经多年积累，该委员会已形成涵盖流动性风险、利率风险、信用风险等多个领域的庞杂指引体系，分散且重复的监管要求给全球金融机构特别是跨境运营的银行带来较高合规成本。整合版的核心意义在于提升可访问性、消除指引间的矛盾与冗余，这既是监管机构自我革新的体现，也回应了业界对简化合规流程的长期诉求。\n\n对行业而言，整合版将显著降低中小银行的监管理解门槛，减少合规摩擦，但对大型跨国银行而言，需关注整合过程中是否存在实质性标准收紧。从市场角度看，若整合版获得广泛采纳，全球银行监管的一致性将进一步加强，有助于降低监管套利空间。趋势上，监管简化与强化穿透性监管并行的格局将延续，未来巴塞尔委员会可能进一步推动“原则导向”与“规则导向”的平衡，企业决策者应密切跟踪反馈进展，提前评估对新框架的适应成本与战略调整需求。",
+  "tags": [
+    "金融监管",
+    "银行合规",
+    "巴塞尔协议"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:26:16.177448+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

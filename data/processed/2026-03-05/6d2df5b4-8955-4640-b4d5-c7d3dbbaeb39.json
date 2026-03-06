@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation",
+  "raw_content": "arXiv:2603.03680v1 Announce Type: new Abstract: Large Language Model (LLM) agents have demonstrated remarkable proficiency in learned tasks, yet they often struggle to adapt to non-stationary environments with feedback. While In-Context Learning and external memory offer some flexibility, they fail to internalize the adaptive ability required for long-term improvement. Meta-Reinforcement Learning (meta-RL) provides an alternative by embedding the learning process directly within the model. However, existing meta-RL approaches for LLMs focus primarily on exploration in single-agent settings, neglecting the strategic exploitation necessary for multi-agent environments. We propose MAGE, a meta-RL framework that empowers LLM agents for strategic exploration and exploitation. MAGE utilizes a multi-episode training regime where interaction histories and reflections are integrated into the context window. By using the final episode reward as the objective, MAGE incentivizes the agent to refine its strategy based on past experiences. We further combine population-based training with an agent-specific advantage normalization technique to enrich agent diversity and ensure stable learning. Experiment results show that MAGE outperforms existing baselines in both exploration and exploitation tasks. Furthermore, MAGE exhibits strong generalization to unseen opponents, suggesting it has internalized the ability for strategic exploration and exploitation. Code is available at https://github.com/Lu-Yang666/MAGE.",
+  "source_url": "https://arxiv.org/abs/2603.03680",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "6d2df5b4-8955-4640-b4d5-c7d3dbbaeb39",
+  "generated_title": "MAGE：LLM代理元强化学习框架实现战略探索与利用",
+  "generated_summary": "提出MAGE框架，通过多回合训练将交互历史整合至上下文窗口，帮助LLM代理在多智能体环境中实现战略性探索与利用，实验表明其性能优于现有基线。",
+  "generated_analysis": "MAGE框架的推出标志着LLM代理在动态环境中自适应能力的重要突破。当前LLM代理虽能在固定任务中表现优异，但在面对持续变化的环境反馈时往往力不从心，现有的上下文学习和外部内存机制仅能提供有限的灵活性。MAGE的创新在于将元强化学习引入多智能体场景，通过多回合训练机制让代理将交互历史和反思整合至上下文窗口，使模型能够基于历史经验主动调整策略，而非被动响应单次反馈。\n\n对于行业应用而言，这一技术突破意义深远。在多智能体协作场景如自动驾驶车队调度、智能电网负荷平衡、工业机器人协同作业中，代理需要在探索新策略与利用已知有效方案之间动态权衡。MAGE展现出的对未见对手的泛化能力，意味着企业部署的AI系统将具备更强的战略适应性，能在竞争性环境中自主优化决策而非依赖人工干预。\n\n从市场趋势判断，LLM与元强化学习的深度融合将成为下一代企业级AI的核心竞争力。预计未来18-24个月内，该技术方向将加速向商业决策系统、金融投资组合管理、供应链动态优化等领域渗透。企业决策者应关注具备此类技术储备的AI供应商，或考虑在内部研发中布局相关人才与基础设施，以应对多智能体协作应用即将到来的爆发期。",
+  "tags": [
+    "大型语言模型",
+    "元强化学习",
+    "多智能体系统",
+    "策略优化"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:54:05.311145+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

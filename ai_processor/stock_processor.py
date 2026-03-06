@@ -1,12 +1,14 @@
 """Stock-specific AI processor.
 
 Processes stock market data items with specialized analysis prompts.
+Generates decision dashboard data for rich email reports.
 """
 
 from __future__ import annotations
 
 import json
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -25,7 +27,6 @@ def load_prompt(name: str) -> str:
 
 def parse_json_response(text: str) -> dict:
     text = text.strip()
-    # Try to find JSON in the response
     match = re.search(r"\{.*\}", text, re.DOTALL)
     if match:
         try:
@@ -35,9 +36,9 @@ def parse_json_response(text: str) -> dict:
     return {}
 
 
-def analyze_stock(client: MiniMaxClient, item: IntelligenceItem) -> None:
-    """Run stock-specific AI analysis."""
-    prompt = load_prompt("stock_analyze").format(content=item.raw_content)
+def analyze_stock(client: MiniMaxClient, item: IntelligenceItem, prompt_template: str) -> None:
+    """Run stock-specific AI analysis with decision dashboard."""
+    prompt = prompt_template.format(content=item.raw_content)
     resp = client.chat(prompt)
     parsed = parse_json_response(resp)
 
@@ -45,10 +46,12 @@ def analyze_stock(client: MiniMaxClient, item: IntelligenceItem) -> None:
     signal = parsed.get("signal", "观望")
     analysis = parsed.get("analysis", "")
     risk = parsed.get("risk", "")
+    confidence = parsed.get("confidence", "中")
+    sentiment_score = parsed.get("sentiment_score", 50)
 
     # Set generated fields
     item.generated_title = f"{item.raw_title} | {signal}"
-    item.generated_summary = f"趋势: {trend} · 信号: {signal}"
+    item.generated_summary = f"趋势: {trend} · 信号: {signal} · 评分: {sentiment_score}"
     item.generated_analysis = analysis
     if risk:
         item.generated_analysis += f"\n\n风险提示: {risk}"
@@ -69,6 +72,29 @@ def analyze_stock(client: MiniMaxClient, item: IntelligenceItem) -> None:
     item.metadata["trend"] = trend
     item.metadata["signal"] = signal
     item.metadata["risk"] = risk
+    item.metadata["confidence"] = confidence
+    item.metadata["sentiment_score"] = sentiment_score
+
+    # Store decision dashboard data
+    core_conclusion = parsed.get("core_conclusion", {})
+    data_perspective = parsed.get("data_perspective", {})
+    battle_plan = parsed.get("battle_plan", {})
+    checklist = parsed.get("checklist", [])
+    risk_alerts = parsed.get("risk_alerts", [])
+    positive_catalysts = parsed.get("positive_catalysts", [])
+    short_term = parsed.get("short_term_outlook", "")
+    medium_term = parsed.get("medium_term_outlook", "")
+
+    item.metadata["dashboard"] = {
+        "core_conclusion": core_conclusion,
+        "data_perspective": data_perspective,
+        "battle_plan": battle_plan,
+        "checklist": checklist,
+        "risk_alerts": risk_alerts,
+        "positive_catalysts": positive_catalysts,
+        "short_term_outlook": short_term,
+        "medium_term_outlook": medium_term,
+    }
 
 
 def analyze_market_overview(client: MiniMaxClient, item: IntelligenceItem) -> None:
@@ -93,21 +119,48 @@ def analyze_market_overview(client: MiniMaxClient, item: IntelligenceItem) -> No
     item.tags = ["A股", "大盘", "行情"]
 
 
+MAX_WORKERS = 4
+
+
+def _process_stock_item(
+    client: MiniMaxClient,
+    item: IntelligenceItem,
+    idx: int,
+    total: int,
+    stock_prompt: str,
+) -> IntelligenceItem:
+    """Worker function for concurrent stock processing."""
+    try:
+        if "大盘行情" in item.raw_title:
+            analyze_market_overview(client, item)
+        else:
+            analyze_stock(client, item, stock_prompt)
+        item.processed_at = datetime.now(timezone.utc).isoformat()
+        print(f"  [{idx}/{total}] {item.generated_title[:50]}", flush=True)
+    except Exception as e:
+        print(f"  [{idx}/{total}] ERROR: {item.raw_title[:40]}... -> {e}", flush=True)
+        item.importance_score = 0
+        item.processed_at = datetime.now(timezone.utc).isoformat()
+    return item
+
+
 def process_stock_items(raw_dir: Path) -> list[IntelligenceItem]:
     """Process stock items from raw data directory."""
     items = load_raw_items(raw_dir)
-    print(f"Loaded {len(items)} stock items")
+    total = len(items)
+    print(f"Loaded {total} stock items")
+
+    # Pre-load prompt
+    stock_prompt = load_prompt("stock_analyze")
 
     with MiniMaxClient() as client:
-        for i, item in enumerate(items):
-            print(f"Processing [{i+1}/{len(items)}]: {item.raw_title[:50]}...")
-
-            if "大盘行情" in item.raw_title:
-                analyze_market_overview(client, item)
-            else:
-                analyze_stock(client, item)
-
-            item.processed_at = datetime.now(timezone.utc).isoformat()
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            futures = {
+                executor.submit(_process_stock_item, client, item, i + 1, total, stock_prompt): item
+                for i, item in enumerate(items)
+            }
+            for future in as_completed(futures):
+                future.result()
 
     # Save processed
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -119,7 +172,7 @@ def process_stock_items(raw_dir: Path) -> list[IntelligenceItem]:
         with open(filepath, "w", encoding="utf-8") as f:
             json.dump(item.to_dict(), f, ensure_ascii=False, indent=2)
 
-    print(f"Saved {len(items)} processed stock items to {output_dir}")
+    print(f"Saved {total} processed stock items to {output_dir}")
     return items
 
 

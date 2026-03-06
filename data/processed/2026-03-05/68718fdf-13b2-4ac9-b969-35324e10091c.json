@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "今年国防费预算为1.9万亿元 增长7%",
+  "raw_content": "今年国防费预算为1.9万亿元 增长7%",
+  "source_url": "https://www.toutiao.com/trending/7613618599739457577/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613618599739457577%22%2C%22hot_board_impr_id%22%3A%222026030515342384A79959823D7B68E839%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%8A%E5%B9%B4%E5%9B%BD%E9%98%B2%E8%B4%B9%E9%A2%84%E7%AE%97%E4%B8%BA1.9%E4%B8%87%E4%BA%BF%E5%85%83+%E5%A2%9E%E9%95%BF7%25%22%7D&rank=&style_id=40132&topic_id=7613618599739457577",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T07:34:23.617771+00:00",
+  "id": "68718fdf-13b2-4ac9-b969-35324e10091c",
+  "generated_title": "中国今年国防预算1.9万亿元 增长7%",
+  "generated_summary": "中国2024年国防支出预算1.9万亿元，较上年增长7%，增幅与去年持平",
+  "generated_analysis": "2024年中国国防预算设定为1.9万亿元，同比增长7%，增速与上年持平。这一安排体现了国家在复杂国际安全环境下的战略定力，既确保国防实力与经济发展相匹配，又维持了财政支出的可持续性。从全球视角看，中国国防支出占GDP比重约1.5%，与主要军事大国相比仍有提升空间，此次预算为后续装备升级和军队现代化提供了充足资金保障。\n\n对于国防军工行业而言，预算释放出明确积极信号。装备支出占比有望进一步提升，尤其是航空航天、舰船、信息化智能化装备等高技术领域将获得更多资源倾斜。军工央企和优质民参军企业将直接受益于订单增长，产业链上下游景气度有望延续。\n\n趋势判断：预计未来3-5年国防支出将保持6%-8%的年均增速，结构性重点将聚焦先进武器装备研发和实战化训练保障。军民融合战略持续深化民营企业在细分领域的技术优势将进一步释放。建议相关企业关注无人装备、电子对抗、后勤智能化等细分赛道的投资机会。",
+  "tags": [
+    "国防预算",
+    "财政政策",
+    "军费开支"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:47:36.470971+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "28862674",
+    "platform": "toutiao"
+  }
+}

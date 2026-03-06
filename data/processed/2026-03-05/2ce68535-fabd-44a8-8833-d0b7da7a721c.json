@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How Tines enhances security analysis with Amazon Quick Suite",
+  "raw_content": "In this post, we show you how to connect Quick Suite with Tines to securely retrieve, analyze, and visualize enterprise data from any security or IT system. We walk through an example that uses a MCP server in Tines to retrieve data from various tools, such as AWS CloudTrail, Okta, and VirusTotal, to remediate security events using Quick Suite.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/how-tines-enhances-security-analysis-with-amazon-quick-suite/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T16:15:06+00:00",
+  "id": "2ce68535-fabd-44a8-8833-d0b7da7a721c",
+  "generated_title": "Tines与Amazon Quick Suite集成增强安全分析能力",
+  "generated_summary": "介绍通过Tines的MCP服务器连接Amazon Quick Suite，实现对CloudTrail、Okta、VirusTotal等安全工具数据的检索分析与可视化。",
+  "generated_analysis": "此次Tines与Amazon Quick Suite的集成标志着安全运营自动化领域迈入新阶段。Tines通过MCP服务器构建标准化数据交互层，实现CloudTrail审计日志、Okta身份数据、VirusTotal威胁情报的跨平台检索与关联分析，使安全团队能够在统一界面完成从威胁检测到事件修复的全流程闭环。这一集成解决了企业长期面临的安全工具孤岛问题——过去安全人员需在十余个系统间切换才能完成一次事件响应，而自动化编排将平均处置时间大幅压缩。\n\n从市场层面看，此举对SOAR（安全编排自动化响应）赛道具有示范意义。随着AI大模型加速渗透安全运营，平台间的数据互联能力正成为核心竞争力。预计未来18个月内，主要云服务商和安全厂商将密集推出类似集成方案，企业安全架构将加速向“统一分析平台+专业化工具组件”的模块化模式演进。\n\n对决策者而言，这一趋势意味着：选择安全供应商时需重点评估其生态开放度和自动化编排能力，同时应提前布局内部安全流程标准化，以充分释放自动化工具的效能。安全运营将从被动响应转向主动智能防御。",
+  "tags": [
+    "安全分析",
+    "云安全",
+    "自动化"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:49:18.135897+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

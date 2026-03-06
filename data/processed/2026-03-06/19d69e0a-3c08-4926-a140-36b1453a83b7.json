@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "You May Already Be Bailing Out the AI Business",
+  "raw_content": "Is an artificial-intelligence bubble about to pop? The question of whether we’re in for a replay of the 2008 housing collapse—complete with bailouts at taxpayers’ expense—has saturated the news cycle. For every day that passes without disaster, AI companies can more persuasively insist that no such market correction is coming. But the federal government is already bailing out the AI industry with regulatory changes and public funds that will protect companies in the event of a private sector pullback. The post You May Already Be Bailing Out the AI Business appeared first on AI Now Institute.",
+  "source_url": "https://ainowinstitute.org/news/you-may-already-be-bailing-out-the-ai-business",
+  "source_name": "AI Now Institute",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2025-11-13T17:35:25+00:00",
+  "id": "19d69e0a-3c08-4926-a140-36b1453a83b7",
+  "generated_title": "AI行业或已获政府救助",
+  "generated_summary": "分析称联邦政府已通过监管改革和公共资金为AI行业提供潜在救助，防范私营部门撤资风险。",
+  "generated_analysis": "这一情报揭示了AI行业当前面临的深层矛盾：市场对AI泡沫破裂的担忧与政府维护行业稳定的意图并存。政府通过监管松绑和公共资金介入，本质上是在为AI行业提供“隐形担保”，防止私营资本大规模撤离引发系统性风险。\n\n对于企业决策者而言，这一信号意味着三点：一是AI行业的战略重要性已被政府认可，行业获得政策红利窗口期；二是市场调整风险并未消除，政府救助更多是缓冲而非消除泡沫；三是投资者应重新评估风险收益比，政府背书可能延长资本扩张周期，但也会强化行业集中度。\n\n趋势判断上，预计政府干预将呈现“有限度、精准化”特征，重点支持基础模型和关键算力基础设施，而不会全面兜底。行业可能经历阶段性调整，但硬着陆概率降低。企业应把握政策窗口期，加速技术商业化落地，同时建立更稳健的财务结构以应对潜在波动。",
+  "tags": [
+    "AI监管",
+    "政府补贴",
+    "科技泡沫"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:19:49.714599+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://ainowinstitute.org/category/news/feed",
+    "category": "policy",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

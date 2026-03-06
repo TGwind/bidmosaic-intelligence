@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Natural Gas Falls on Shifting Weather Forecasts",
+  "raw_content": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+  "source_url": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T14:05:00+00:00",
+  "id": "8e239add-2fd5-4e14-a95b-fc7df97fa3a9",
+  "generated_title": "美天然气期货因天气预测转暖下跌",
+  "generated_summary": "美国天然气期货下跌，因周末天气预报显示2月初天气转暖，取暖需求预期下降。",
+  "generated_analysis": "本次天然气期货下跌的核心驱动力是气象预测模型的调整。2月初原本预期的寒潮天气有所缓解，取暖需求预期随之下降，直接压低了作为主要取暖燃料的天然气价格。从供需基本面来看，美国当前天然气库存仍处于相对充足水平，而产量持续维持在历史高位，需求的边际减少会放大价格下行压力。\n\n对于能源行业而言，此次波动再次凸显了天气因素对天然气市场的短期主导作用。对于公用事业企业和工业用户，天气驱动的价格波动意味着采购策略需要更加灵活，建议密切跟踪气象预报并适时调整库存管理节奏。\n\n从趋势判断来看，尽管短期因天气转暖承压，但2月中下旬仍存在寒潮回归的可能性，价格可能出现反复。同时需关注美国天然气产量变化及全球LNG出口需求，这些因素将在中期对价格形成支撑。企业决策者应保持战略定力，在价格低位区间适度增加采购储备，同时建立完善的天气风险对冲机制。",
+  "tags": [
+    "天然气",
+    "期货",
+    "能源",
+    "天气"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:27:33.690850+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

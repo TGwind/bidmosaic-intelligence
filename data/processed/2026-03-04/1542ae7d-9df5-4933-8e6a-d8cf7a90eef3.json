@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Pål Longva: Report from Norges Bank Watch",
+  "raw_content": "Remarks by Mr Pål Longva, Deputy Governor of Norges Bank (Central Bank of Norway), on the Centre for Monetary Economics' (CME) assessment of the Norges Bank's conduct of monetary policy, published in its Norges Bank Watch Report Series, Oslo, 26 February 2026.",
+  "source_url": "https://www.bis.org/review/r260302e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:20:07.452650+00:00",
+  "id": "1542ae7d-9df5-4933-8e6a-d8cf7a90eef3",
+  "generated_title": "挪威央行副行长谈货币经济学中心政策评估",
+  "generated_summary": "挪威央行副行长Pål Longva就货币经济学中心对挪威央行货币政策的评估报告发表讲话，关注通胀与经济展望。",
+  "generated_analysis": "此次评估反映了挪威央行在后疫情时代货币政策正常化进程中的表现。货币经济学中心作为独立学术机构，其评估报告具有重要的政策参考价值。副行长Longva的回应表明挪威央行重视外部监督，这有助于增强货币政策透明度和公信力。\n\n从行业影响看，挪威作为北欧最大经济体，其央行政策走向对克朗汇率及区域金融市场有直接影响。评估结果将影响市场对挪威央行未来利率路径的预期，进而波及欧元区的货币政策预期。对全球央行而言，挪威央行的透明度实践提供了良好范例。\n\n趋势判断：预计各国央行将更加重视独立评估机制，货币政策沟通将趋向规范化。在通胀压力犹存的背景下，央行如何在维护价格稳定与支持经济增长间取得平衡，将持续成为政策评估的核心议题。企业决策者应密切关注挪威央行的政策取向及其对欧洲货币政策的溢出效应。",
+  "tags": [
+    "央行",
+    "货币政策",
+    "挪威"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:45:41.272921+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

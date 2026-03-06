@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A new way to express yourself: Gemini can now create music",
+  "raw_content": "Image showing sample tracks created with Lyria 3",
+  "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/lyria-3/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-18T16:00:00+00:00",
+  "id": "bfd96fbc-ce8a-4731-bea0-8ef3c540b188",
+  "generated_title": "Google Gemini集成Lyria 3 AI音乐生成功能",
+  "generated_summary": "Google宣布Gemini AI助手现已集成Lyria 3模型，可直接生成音乐，为用户带来全新表达方式。",
+  "generated_analysis": "Google此次将Lyria 3模型集成至Gemini，标志着AI音乐生成从技术演示进入消费级应用阶段。Lyria系列是Google DeepMind开发的音乐生成模型，此次升级至第三代，在音频质量、风格控制和多轨道编排能力上预计有显著提升。Gemini作为多模态助手接入音乐生成能力，意味着用户可通过自然语言交互完成从创意描述到音频输出的完整链路，这大幅降低了音乐创作的技术门槛。\n\n对行业而言，这一布局将产生多重冲击。首先，短视频、游戏、广告等内容创作者将获得高效的配乐工具，可能分流部分传统音乐制作需求。其次，AI生成音乐的版权归属、训练数据合规性等问题将加速显现，唱片业与科技公司之间的博弈将更加激烈。从市场格局看，Google的先发优势可能倒逼其他厂商加快同类产品落地，AI音乐赛道的竞争将趋于白热化。\n\n建议企业决策者关注两个方向：一是内容生产流程中AI音乐的嵌入机会，尤其在降本增效诉求强烈的营销和媒体领域；二是密切跟踪版权法规演进，提前布局合规框架。AI音乐不会取代人类创作者，但会成为创意产业的基础设施。",
+  "tags": [
+    "人工智能",
+    "音乐生成",
+    "Google"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:51:53.119761+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

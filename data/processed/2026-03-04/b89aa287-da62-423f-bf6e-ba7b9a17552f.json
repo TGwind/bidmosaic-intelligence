@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "阶跃星辰彻底开源 Step 3.5 Flash：预训练+训练框架全放出，OpenClaw 调用量飙升至 Top 2",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/9aQU1VWec3hqaW9V0J5r?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T15:20:21+00:00",
+  "id": "b89aa287-da62-423f-bf6e-ba7b9a17552f",
+  "generated_title": "阶跃星辰开源Step 3.5 Flash 预训练训练框架全开放",
+  "generated_summary": "阶跃星辰宣布彻底开源Step 3.5 Flash模型及其预训练和训练框架，OpenClaw调用量飙升至行业第二。",
+  "generated_analysis": "阶跃星辰此次开源Step 3.5 Flash预训练训练框架，是国内大模型领域的重要里程碑。继DeepSeek之后，又一家中国AI企业选择全面开源核心技术，此举将显著降低AI应用开发门槛，推动行业生态快速发展。OpenClaw调用量飙升至行业第二的位置，表明市场对其技术实力的高度认可，也反映出开源策略正在产生积极的商业反馈。\n\n从行业影响看，开源模式将倒逼闭源厂商加速创新，模型性能与成本控制将成为核心竞争维度。预训练框架的开源意味着更多中小企业能够参与大模型应用开发，行业创新效率有望大幅提升。\n\n展望未来，开源与闭源并存将成为AI行业常态，企业需根据自身技术能力与商业目标选择合适路径。建议决策者密切关注开源社区动态，评估技术整合风险，同时抓住窗口期快速布局AI应用，以免在新一轮技术洗牌中掉队。",
+  "tags": [
+    "人工智能",
+    "大模型",
+    "开源"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:51:43.678903+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

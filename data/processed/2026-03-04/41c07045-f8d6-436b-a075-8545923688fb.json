@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "BIS statement of commitment to the FX Global Code",
+  "raw_content": "The Bank for International Settlements has reviewed the content of the FX Global Code and acknowledges that the Code represents a set of principles generally recognised as good practice in the wholesale foreign exchange (FX) market.",
+  "source_url": "https://www.bis.org/press/p260115.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:20:01.223461+00:00",
+  "id": "41c07045-f8d6-436b-a075-8545923688fb",
+  "generated_title": "国际清算银行承诺遵守外汇全球准则",
+  "generated_summary": "BIS确认认可外汇全球准则为外汇市场最佳实践原则，体现对全球外汇市场合规标准的支持",
+  "generated_analysis": "国际清算银行作为全球央行重要的合作机构此次公开认可外汇全球准则，标志着外汇市场自律规范获得最高层级的背书。该准则涵盖治理、执行、信息共享、风险管理及合规等核心领域，旨在提升市场透明度与操作规范性。\n\n对于行业而言，BIS的承诺将产生示范效应，预计更多大型金融机构将把准则作为内部合规基准，推动行业整体合规水平提升。同时，这可能促使监管机构在制定外汇市场规则时参考该准则，形成更统一的全球监管标准。\n\n从趋势判断，随着准则被更广泛采纳，外汇市场的合规成本可能上升，但长期看有助于降低系统性风险，提升市场参与者信心。企业决策者应密切关注准则落地进展，提前评估对自身外汇业务的影响，并适时调整内部流程以适应更高的合规要求。",
+  "tags": [
+    "外汇市场",
+    "金融监管",
+    "国际组织"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:47:12.431410+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

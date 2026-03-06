@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC’s Division of Enforcement Announces Updates to Enforcement Manual",
+  "raw_content": "The Securities and Exchange Commission’s Division of Enforcement today announced significant updates to its Enforcement Manual. These updates underscore the Commission’s ongoing commitment to fairness, transparency, and efficiency in the investigations…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-20-secs-division-enforcement-announces-updates-enforcement-manual",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-02-24T13:55:52+00:00",
+  "id": "7f2ed40f-4f62-49a3-a36f-2e937f9262ee",
+  "generated_title": "SEC执法部门更新执法手册",
+  "generated_summary": "美国证券交易委员会执法部门宣布重大更新执法手册，强调公平、透明和效率原则",
+  "generated_analysis": "此次SEC执法手册更新标志着美国证券监管机构在执法程序规范化方面迈出重要一步。手册强调公平、透明和效率三大原则，核心目的在于提升执法过程的可预测性和一致性，减少监管不确定性对市场主体的负面影响。\n\n从市场影响层面看，这一变化将对上市公司、券商及资管机构产生深远影响。首先，更透明的执法标准意味着企业需要重新审视自身合规体系，确保信息披露和公司治理符合最新监管预期。其次，执法效率的提升可能导致调查周期缩短，企业应对监管问询的响应时间窗口将更加紧凑。\n\n对于企业决策者而言，建议密切关注手册具体条款的落地执行情况，提前评估对自身业务的影响程度。同时，可预期的是，SEC将加大对信息披露违规、市场操纵和内幕交易等核心违规行为的打击力度，合规投入的边际收益将显著上升。中长期来看，监管透明度的提升有助于改善市场生态，但短期内企业需要做好充分的准备以应对可能变化的执法环境。",
+  "tags": [
+    "美国监管",
+    "证券执法",
+    "金融合规"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:26:50.326472+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

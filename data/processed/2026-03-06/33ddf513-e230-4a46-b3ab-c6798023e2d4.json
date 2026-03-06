@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "“No technology has me dreaming bigger than AI”",
+  "raw_content": "a stylized design resembling the Ashoka Chakra with colorful network lines and text reading \"भारत 2026 INDIA.\" A vertical line separates it from the Google logo on the right, all set against a light blue gradient background with a faint grid pattern.",
+  "source_url": "https://blog.google/company-news/inside-google/message-ceo/sundar-pichai-ai-impact-summit-2026/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-19T04:30:00+00:00",
+  "id": "33ddf513-e230-4a46-b3ab-c6798023e2d4",
+  "generated_title": "Google AI发布印度主题视觉设计",
+  "generated_summary": "Google AI Blog展示融合印度文化元素的创意设计，为2026年印度活动预热，体现AI与本土文化结合的愿景。",
+  "generated_analysis": "",
+  "tags": [
+    "Google",
+    "AI",
+    "印度市场",
+    "设计创意"
+  ],
+  "importance_score": 4,
+  "processed_at": "2026-03-06T02:21:36.189762+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

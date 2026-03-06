@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Build with Nano Banana 2, our best image generation and editing model",
+  "raw_content": "Build with Nano Banana 2",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T16:00:00+00:00",
+  "id": "20ba55ce-1f8d-49ff-9fac-a2f72473edf3",
+  "generated_title": "Google发布Nano Banana 2图像生成编辑模型",
+  "generated_summary": "Google推出新一代AI图像生成与编辑模型，官方称其为目前最强模型，赋能开发者构建图像应用。",
+  "generated_analysis": "Google推出Nano Banana 2图像生成编辑模型，标志着其在生成式AI领域进一步加码。作为官方声称的“目前最强模型”，该产品面向开发者群体，释放了Google构建AI应用生态的战略意图。\n\n从行业角度看，图像生成正从技术探索转向规模化应用阶段。Nano Banana 2的发布将加剧市场竞争，迫使其他厂商加速技术迭代，同时降低中小企业的图像应用开发门槛。对于广告、游戏、电商等内容密集型行业，这意味着更低的创意制作成本和更快的迭代速度。\n\n趋势判断：未来12-18个月内，多模态图像生成能力将成为AI平台的基础设施而非差异化优势。企业决策者应关注如何将该技术融入自身业务流程，同时重视AI伦理和数据合规问题。具备快速整合能力的团队将在内容生产效率上形成显著竞争优势。",
+  "tags": [
+    "人工智能",
+    "图像生成",
+    "Google"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:29.490552+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

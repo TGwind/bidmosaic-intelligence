@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "宁德时代(300750) 今日涨3.35% 报350.25元",
+  "raw_content": "宁德时代(300750) 最新价 350.25元，涨3.35%，涨跌额 +11.35元，今开 344.58元，最高 353.85元，最低 342.66元，昨收 338.90元，成交额 108.20亿元，振幅 3.30%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz300750/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T08:36:07.511362+00:00",
+  "id": "342ddc80-020a-40a1-be3d-7804dfa1c080",
+  "generated_title": "宁德时代(300750) 今日涨3.35% 报350.25元 | 买入",
+  "generated_summary": "趋势: 偏强 · 信号: 买入 · 评分: 72",
+  "generated_analysis": "宁德时代今日放量上涨3.35%，股价站上350元关口，技术面呈现多头排列态势。MA5上穿MA10形成金叉，短期趋势转强。乖离率约1.5%处于安全区间，符合'不追高'原则。成交额108.2亿元较近期明显放大，资金参与度提升。基本面方面，公司作为锂电池龙头，受益于新能源车销量增长预期。中期看，技术面企稳回升，量价配合健康，短期回踩MA5可视为较好买点。",
+  "tags": [
+    "A股",
+    "偏强",
+    "买入"
+  ],
+  "importance_score": 9,
+  "processed_at": "2026-03-05T14:47:45.139086+00:00",
+  "market_data": {
+    "symbols": [
+      "300750"
+    ],
+    "price_change": {
+      "price": 350.25,
+      "change_pct": 3.35,
+      "change_amt": 11.35
+    },
+    "indicators": {
+      "volume": 31006068.0,
+      "turnover": 10819502021.19,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 3.3,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "买入",
+    "risk": "",
+    "confidence": "中高",
+    "sentiment_score": 72,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "多头排列初现，量价齐升，回踩MA5可积极买入",
+        "time_sensitivity": "今日内",
+        "position_advice": {
+          "no_position": "可于348-350元附近首次建仓3成，突破355元后加仓",
+          "has_position": "继续持有，350元以下可考虑加仓做T"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5>MA10>MA20多头排列初成",
+        "is_bullish": true,
+        "trend_score": 72,
+        "bias_ma5": 1.52,
+        "bias_status": "安全",
+        "support_level": "345元(MA5)",
+        "resistance_level": "355-360元",
+        "volume_status": "放量",
+        "volume_meaning": "成交额108.2亿元显著放大，资金积极入场，量价配合良好"
+      },
+      "battle_plan": {
+        "ideal_buy": "345-348元",
+        "secondary_buy": "350元附近",
+        "stop_loss": "338元(跌破MA20)",
+        "take_profit": "370-380元",
+        "suggested_position": "5-7成",
+        "entry_plan": "首仓3成，回踩MA5加2成，突破前高加2成"
+      },
+      "checklist": [
+        "✅ 多头排列",
+        "✅ 乖离率合理",
+        "✅ 量能配合",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "短期涨幅超3%，注意追高风险",
+        "创业板指若走弱可能影响宁德时代表现",
+        "新能源板块整体波动较大"
+      ],
+      "positive_catalysts": [
+        "新能源汽车销量旺季临近，动力电池需求预期向好",
+        "公司新技术发布潜在利好",
+        "外资持续流入蓝筹股"
+      ],
+      "short_term_outlook": "预计1-3日内维持强势整理，若能站稳355元有望冲击前高368元，若回调345-348元区间可视为加仓机会。",
+      "medium_term_outlook": "1-2周内若能有效突破360元压力位，有望开启新一轮上涨行情，目标看370-380元。"
+    }
+  }
+}

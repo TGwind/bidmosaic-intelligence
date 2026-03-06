@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CleanSpark sells 553 BTC for $36.6M in February as miners offload Bitcoin",
+  "raw_content": "The Nasdaq-listed miner sold nearly all of its February production while expanding power capacity in Texas and maintaining a treasury of more than 13,000 BTC.",
+  "source_url": "https://cointelegraph.com/news/cleanspark-sells-most-february-bitcoin-output-generating-36-6m-in-proceeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T20:28:55+00:00",
+  "id": "c8edd907-22dc-45c5-b5be-66c53e4e37ba",
+  "generated_title": "CleanSpark二月出售553枚BTC 收入3660万美元",
+  "generated_summary": "CleanSpark二月出售553枚BTC套现3660万美元，同时扩大德州电力产能，目前持有超13000枚BTC。",
+  "generated_analysis": "CleanSpark此次在二级市场出售553枚BTC实现3660万美元变现，反映出当前比特币矿企的典型运营策略——利用价格高位区间进行阶段性套现以优化现金流。在比特币价格维持相对高位的环境下，矿企选择出售当月产出而非长期持有可能基于两方面考量：一是回收资金用于偿还债务或再投资；二是对短期价格波动保持审慎态度。\n\n从行业层面看，CleanSpark同时扩大德州电力产能释放出重要信号。德州凭借丰富的可再生能源和相对低廉的电力成本，已成为北美比特币挖矿的核心聚集地。头部矿企持续加码基础设施投入，显示出对行业长期前景的乐观判断。值得注意的是，该公司目前持有超过13000枚BTC的Treasury规模，表明其并未因短期套现而改变比特币作为战略储备资产的定位。\n\n对于企业决策者而言，这一事件揭示出比特币挖矿行业正在进入成熟期。头部企业将通过规模化运营和低成本电力优势构建护城河，同时灵活运用金融工具管理价格风险。短期内，随着比特币价格走势波动，矿企的套现节奏和扩产决策仍将紧密联动；中长期看，行业集中度预计将持续提升，具备能源成本优势和资本实力的玩家将占据更大市场份额。",
+  "tags": [
+    "比特币",
+    "挖矿",
+    "CleanSpark"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:31:53.609897+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

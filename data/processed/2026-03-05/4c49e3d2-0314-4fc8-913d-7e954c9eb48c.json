@@ -1,0 +1,36 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "PlugMem: A Task-Agnostic Plugin Memory Module for LLM Agents",
+  "raw_content": "arXiv:2603.03296v1 Announce Type: new Abstract: Long-term memory is essential for large language model (LLM) agents operating in complex environments, yet existing memory designs are either task-specific and non-transferable, or task-agnostic but less effective due to low task-relevance and context explosion from raw memory retrieval. We propose PlugMem, a task-agnostic plugin memory module that can be attached to arbitrary LLM agents without task-specific redesign. Motivated by the fact that decision-relevant information is concentrated as abstract knowledge rather than raw experience, we draw on cognitive science to structure episodic memories into a compact, extensible knowledge-centric memory graph that explicitly represents propositional and prescriptive knowledge. This representation enables efficient memory retrieval and reasoning over task-relevant knowledge, rather than verbose raw trajectories, and departs from other graph-based methods like GraphRAG by treating knowledge as the unit of memory access and organization instead of entities or text chunks. We evaluate PlugMem unchanged across three heterogeneous benchmarks (long-horizon conversational question answering, multi-hop knowledge retrieval, and web agent tasks). The results show that PlugMem consistently outperforms task-agnostic baselines and exceeds task-specific memory designs, while also achieving the highest information density under a unified information-theoretic analysis. Code and data are available at https://github.com/TIMAN-group/PlugMem.",
+  "source_url": "https://arxiv.org/abs/2603.03296",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "4c49e3d2-0314-4fc8-913d-7e954c9eb48c",
+  "generated_title": "PlugMem：LLM智能体通用插件式记忆模块",
+  "generated_summary": "提出PlugMem任务无关记忆模块，通过构建知识图谱结构化情景记忆，提升LLM智能体在长程对话、多跳知识检索和网络任务中的表现。",
+  "generated_analysis": "PlugMem的出现在LLM智能体发展进程中具有重要里程碑意义。当前行业面临的核心瓶颈在于：现有记忆机制要么高度定制化导致迁移成本高，要么通用性强的方案在任务相关性和上下文管理上表现欠佳。PlugMem通过将情景记忆抽象为知识图谱结构，以知识单元替代传统原始轨迹存储，实现了记忆访问效率的质变，这标志着LLM记忆设计从“堆叠上下文”向“结构化知识推理”的范式转换。\n\n从商业应用角度看，该技术对需要长期客户交互的企业（如智能客服、金融顾问）价值显著，可显著降低多轮对话中的信息衰减和推理错误。对AI智能体开发者而言，插件式架构意味着无需为每个新任务重新设计记忆系统，将大幅缩短垂直场景的部署周期。\n\n行业趋势上，预计未来1-2年内“知识中心化记忆”将成为LLM智能体架构的标配，尤其在企业级多智能体协作场景中。同时，关注该技术如何与RAG体系融合、以及在边缘部署时的性能权衡，将是决策者需要持续跟踪的关键议题。",
+  "tags": [
+    "人工智能",
+    "大型语言模型",
+    "自然语言处理",
+    "智能体",
+    "记忆模块",
+    "知识图谱"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:51:48.017873+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

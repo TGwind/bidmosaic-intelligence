@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents",
+  "raw_content": "arXiv:2603.03290v1 Announce Type: new \nAbstract: Long-horizon LLM agents require memory systems that remain accurate under fixed context budgets. However, existing systems struggle with two persistent challenges in long-term dialogue: (i) \\textbf{disconnected evidence}, where multi-hop answers require linking facts distributed across time, and (ii) \\textbf{state updates}, where evolving information (e.g., schedule changes) creates conflicts with older static logs. We propose AriadneMem, a structured memory system that addresses these failure modes via a decoupled two-phase pipeline. In the \\textbf{offline construction phase}, AriadneMem employs \\emph{entropy-aware gating} to filter noise and low-information message before LLM extraction and applies \\emph{conflict-aware coarsening} to merge static duplicates while preserving state transitions as temporal edges. In the \\textbf{online reasoning phase}, rather than relying on expensive iterative planning, AriadneMem executes \\emph{algorithmic bridge discovery} to reconstruct missing logical paths between retrieved facts, followed by \\emph{single-call topology-aware synthesis}. On LoCoMo experiments with GPT-4o, AriadneMem improves \\textbf{Multi-Hop F1 by 15.2\\%} and \\textbf{Average F1 by 9.0\\%} over strong baselines. Crucially, by offloading reasoning to the graph layer, AriadneMem reduces \\textbf{total runtime by 77.8\\%} using only \\textbf{497} context tokens. The code is available at https://github.com/LLM-VLM-GSL/AriadneMem.",
+  "source_url": "https://arxiv.org/abs/2603.03290",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "b9055811-f233-4a3d-9100-3fdc20a0c413",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

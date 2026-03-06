@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "软件不再卖给人，而是智能体！900 亿风投教父摊牌：Cursor 要“死”了，英伟达遇劲敌",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/oy5f04ZRYI2YRgD7p8y6?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-06T09:35:50+00:00",
+  "id": "bd4ae3ef-bd81-43db-b535-78f0ab8a6dbc",
+  "generated_title": "风投教父：软件销售转向AI智能体 传统模式将终结",
+  "generated_summary": "知名风投人士指出AI智能体将成为软件新买家，传统软件销售模式面临终结，Cursor等工具或被淘汰。",
+  "generated_analysis": "这一判断反映了软件行业正在经历的范式转变。AI智能体具备自主决策和执行能力，未来将代替人类用户完成软件采购评估与执行，这意味着软件的价值衡量标准将从“用户体验”转向“Agent可调用性”。对当前行业而言，传统以销售漏斗、人情关系为核心的SaaS模式将失效，软件的API化、模块化及可编程性将成为新的核心竞争力。Cursor等开发工具若仅停留在提升人类效率层面，而未能成为AI Agent的工作入口，确实面临被边缘化风险。趋势上，预计未来3-5年内将出现“Agent-first”软件采购潮，企业软件选型将增加对AI兼容性的评估维度。建议决策者提前布局API生态开放度建设，将产品竞争力锚定在“能否被AI流畅调用”这一新标尺上。",
+  "tags": [
+    "人工智能",
+    "软件行业",
+    "风投",
+    "行业变革"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:31:10.028215+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

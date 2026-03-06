@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "TATRA: Training-Free Instance-Adaptive Prompting Through Rephrasing and Aggregation",
+  "raw_content": "arXiv:2603.03298v1 Announce Type: new Abstract: Large Language Models (LLMs) have improved substantially alignment, yet their behavior remains highly sensitive to prompt phrasing. This brittleness has motivated automated prompt engineering, but most existing methods (i) require a task-specific training set, (ii) rely on expensive iterative optimization to produce a single dataset-level prompt, and (iii) must be rerun from scratch for each new task. We introduce TATRA, a dataset-free prompting method that constructs instance-specific few-shot prompts by synthesizing on-the-fly examples to accompany a user-provided instruction. TATRA requires no labeled training data and avoids task-specific optimization loops, while retaining the benefits of demonstration-based prompting. Across standard text classification benchmarks, TATRA matches or improves over strong prompt-optimization baselines that depend on training data and extensive search. On mathematical reasoning benchmarks, TATRA achieves state-of-the-art performance on GSM8K and DeepMath, outperforming methods that explicitly optimize prompts on those tasks. Our results suggest that per-instance construction of effective in-context examples is more important than running long, expensive optimization loops to produce a single prompt per task. We will make all code publicly available upon acceptance of the paper. Code is available at https://github.com/BMD223/TATRA",
+  "source_url": "https://arxiv.org/abs/2603.03298",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "c49ef5d9-2875-4ca4-9691-1efc94d48807",
+  "generated_title": "TATRA：无需训练的实例自适应提示方法",
+  "generated_summary": "提出TATRA方法，通过动态重构和聚合示例为每个输入构建少样本提示，无需标注数据即可在文本分类和数学推理基准上取得SOTA性能。",
+  "generated_analysis": "TATRA方法的诞生反映了当前大语言模型应用领域的一个重要痛点：提示工程的效率瓶颈。传统方法依赖大量标注数据和昂贵的迭代优化，且生成的提示缺乏灵活性。TATRA通过实例自适应机制，在无需训练数据的前提下，为每个输入动态构建少样本提示，这一创新具有三重意义。\n\n首先，它大幅降低了LLM应用的门槛。企业无需再为每个任务筹备专属标注数据集，这意味着AI部署成本和时间将显著缩减。其次(instance-specific construction)的思路颠覆了“一个提示通吃”的传统范式，使模型能根据不同输入场景灵活调整推理策略。实验数据显示，TATRA在GSM8K和DeepMath数学推理任务上超越精心优化的提示方法，验证了个性化示例构建的核心价值。\n\n从行业趋势看，实例自适应提示将成为LLM工程化的重要方向。预计未来会出现更多结合动态示例选择与轻量级推理的混合方案，推动企业从“调优模型”转向“优化交互策略”。对于决策者而言，关注提示工程的自动化与个性化能力，将成为提升AI应用效率的关键突破口。",
+  "tags": [
+    "提示工程",
+    "少样本学习",
+    "大语言模型"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:58:54.719706+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

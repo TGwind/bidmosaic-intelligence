@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback",
+  "raw_content": "In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluation rather than imitation. We'll cover how RFT works, when to use it versus supervised fine-tuning, real-world applications from code generation to customer service, and implementation options ranging from fully managed Amazon Bedrock to multi-turn agentic workflows with Nova Forge. You'll also learn practical guidance on data preparation, reward function design, and best practices for achieving optimal results.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T17:48:37+00:00",
+  "id": "1d990232-b095-45c1-bb0a-9946493dcaca",
+  "generated_title": "亚马逊Nova强化微调技术解析",
+  "generated_summary": "AWS发布Amazon Nova模型的强化微调技术，通过评估反馈学习而非模仿，适用于代码生成、客服等场景。",
+  "generated_analysis": "亚马逊此次发布的Nova强化微调技术，标志着AWS在企业AI定制领域迈出关键一步。与传统监督微调依赖大规模标注数据进行模仿学习不同，强化微调通过评估反馈机制让模型自主优化决策逻辑，这一技术路径的转变大幅降低了企业定制AI的门槛和成本。\n\n从行业影响看，该技术将加速AI在代码生成、智能客服等垂直场景的落地，企业可基于自身业务数据快速构建专属模型，预计将推动企业级AI应用市场进一步扩容。Amazon Bedrock的全托管模式和Nova Forge的多智能体工作流设计，为不同技术能力的企业提供了灵活的部署选择。\n\n趋势判断：强化微调将成为未来2-3年AI模型定制的主流技术方向，AWS的先发优势可能倒逼其他云厂商加速类似技术布局。建议企业决策者密切关注该技术在自身核心业务场景的验证进展，尽早启动数据准备工作，以把握这波技术红利。",
+  "tags": [
+    "人工智能",
+    "AWS",
+    "模型微调"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:45:52.038285+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

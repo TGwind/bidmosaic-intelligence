@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Piero Cipollone: The digital euro - enhancing payments in the euro area",
+  "raw_content": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Italian Parliamentary Committee of Inquiry into the Banking, Financial and Insurance System, Rome, 19 February 2026.",
+  "source_url": "https://www.bis.org/review/r260302b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-04T14:20:07.452790+00:00",
+  "id": "2bc3b844-af71-4fb2-9f26-cbf01eb37cd4",
+  "generated_title": "欧洲央行官员阐述数字欧元战略规划",
+  "generated_summary": "欧洲央行执行委员会成员在意大利议会发表演讲，阐述数字欧元对欧元区支付系统的提升作用与政策前景。",
+  "generated_analysis": "欧洲央行执行委员会成员Cipollone在意大利议会的这次演讲，标志着数字欧元项目从技术研究向政策立法阶段的实质性推进。此举的背景在于全球央行数字货币竞争加剧，同时欧元区当前支付体系存在跨境效率不足、对外部支付网络依赖过高等结构性问题。\n\n对于金融行业而言，数字欧元带来的影响将是多维度的：首先，传统银行业务模式面临重塑压力，尤其是零售支付领域；其次，欧元区金融科技企业将获得新的基础设施支撑，有望催生创新应用场景；再者，货币政策传导机制可能发生变化，央行对货币供应的掌控力将增强。\n\n从趋势判断来看，数字欧元的正式推出仍需经历立法审批和试点测试阶段，预计在未来三到五年内难有突破性进展。但对于企业决策者而言，应当密切关注立法进程，尽早评估对自身业务模式的影响，并提前布局数字化转型方案，以应对可能到来的支付生态变革。",
+  "tags": [
+    "数字欧元",
+    "欧洲央行",
+    "央行数字货币",
+    "金融政策"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-04T14:46:41.979447+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

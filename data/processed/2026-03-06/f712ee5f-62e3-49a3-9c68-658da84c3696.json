@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+  "raw_content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the December 9-10 FOMC meeting",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210b.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-12-10T19:00:00+00:00",
+  "id": "f712ee5f-62e3-49a3-9c68-658da84c3696",
+  "generated_title": "美联储公布12月FOMC会议经济预测",
+  "generated_summary": "美联储与FOMC发布12月会议经济预测，包含GDP、通胀、失业率等关键宏观指标预期",
+  "generated_analysis": "美联储于12月FOMC会议发布的经济预测报告，是市场观察货币政策走向的重要窗口。此次预测涵盖了GDP增长、通胀水平及失业率等核心宏观指标，反映了美联储对经济前景的官方判断。\n\n从背景看，12月预测通常被视为年度经济展望的总结与来年前瞻的交汇点，在当前全球经济增长放缓、通胀压力与就业市场分化并存的背景下尤为重要。这些预测数据直接影响市场对美联储利率政策路径的定价，进而波及全球资本流向与美元资产吸引力。\n\n对企业决策者而言，需重点关注三点：一是GDP增长预期下修还是上修，决定了市场需求端的整体判断；二是通胀预测是否仍高于2%目标，这关联到货币政策宽松的节奏；三是失业率预期变化，反映劳动力市场韧性。若预测显示经济软着陆可能性提升，风险资产可能迎来估值修复；反之若衰退风险上升，企业应加强现金流管理并审慎布局资本支出。短期市场波动加剧已在预期之中，关键在于把握中期结构性趋势。",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "经济预测",
+    "FOMC"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:34:47.171956+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

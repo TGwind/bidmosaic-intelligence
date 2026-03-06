@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Board's discount rate meetings on October 6, October 20, and October 29, 2025",
+  "raw_content": "Minutes of the Board's discount rate meetings on October 6, October 20, and October 29, 2025",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251125a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-11-25T19:00:00+00:00",
+  "id": "2722dfba-0db5-4861-ad66-13092875425c",
+  "generated_title": "2025年10月美联储议息会议纪要发布",
+  "generated_summary": "美联储公布10月6日、20日及29日董事会议息率会议纪要，反映货币政策决策细节",
+  "generated_analysis": "2025年10月美联储议息会议纪要的发布，延续了美联储自2024年下半年以来逐步转向宽松货币政策的路径。从背景看，美国通胀水平已从前期高点明显回落，劳动力市场虽保持韧性但增速趋缓，为美联储继续调整政策立场提供了空间。\n\n对企业决策者而言，会议纪要透露的利率路径预期具有重要参考价值。若纪要显示委员会对通胀持续回落至2%目标更有信心，则市场将强化对后续降息的预期，这直接利好企业融资成本下降，特别是对利率敏感的行业如房地产、资本密集型制造业将明显受益。同时，需关注美联储对经济软着陆前景的评估，这会影响企业资本开支计划和扩张决策。\n\n从趋势判断，2025年美联储大概率维持渐进式降息节奏，但降息幅度和节奏将高度依赖数据表现。企业应警惕通胀反弹风险对货币政策的制约，以及全球地缘政治不确定性可能带来的政策反复。建议决策者充分利用当前利率环境窗口，优化债务结构，同时保持对流动性条件的动态监测。",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "利率",
+    "美国经济"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:49:01.615215+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

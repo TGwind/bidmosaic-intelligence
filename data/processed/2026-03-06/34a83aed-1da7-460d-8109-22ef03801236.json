@@ -1,0 +1,97 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "特变电工(600089) 今日涨0.88% 报33.07元",
+  "raw_content": "特变电工(600089) 最新价 33.07元，涨0.88%，涨跌额 +0.29元，今开 32.40元，最高 33.21元，最低 32.18元，昨收 32.78元，成交额 60.14亿元，振幅 3.14%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh600089/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-06T02:15:17.646005+00:00",
+  "id": "34a83aed-1da7-460d-8109-22ef03801236",
+  "generated_title": "特变电工(600089) 今日涨0.88% 报33.07元 | 持有",
+  "generated_summary": "趋势: 偏强 · 信号: 持有 · 评分: 65",
+  "generated_analysis": "特变电工今日上涨0.88%收于33.07元，股价站上所有短期均线，呈现多头排列雏形。从技术面看，MA5>MA10>MA20格局初步形成，但最新价相对MA5乖离率约3.2%，已接近5%警戒线，不宜追高买入。量能方面60亿成交额维持近期均衡水平，多空双方分歧不大。基本面看，公司是特高压和光伏双龙头，受益新基建政策，但短期估值偏高。建议已持仓者继续持有观察，未持仓者等待股价回踩MA10(约32.50元)或MA20(约32.00元)附近再考虑分批建仓。",
+  "tags": [
+    "A股",
+    "偏强",
+    "持有"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-06T02:18:00.647568+00:00",
+  "market_data": {
+    "symbols": [
+      "600089"
+    ],
+    "price_change": {
+      "price": 33.07,
+      "change_pct": 0.88,
+      "change_amt": 0.29
+    },
+    "indicators": {
+      "volume": 184130780.0,
+      "turnover": 6013880350.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 3.14,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "持有",
+    "risk": "",
+    "confidence": "中",
+    "sentiment_score": 65,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "股价偏强但乖离率略高，建议持股观察等待回调机会",
+        "time_sensitivity": "本周内",
+        "position_advice": {
+          "no_position": "不建议追高，等待股价回踩MA10附近再考虑建仓",
+          "has_position": "可继续持有，设好33.50元目标位和32.00元止损位"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5>MA10>MA20，多头排列初期",
+        "is_bullish": true,
+        "trend_score": 68,
+        "bias_ma5": 3.2,
+        "bias_status": "警戒",
+        "support_level": "32.00元(MA20附近)",
+        "resistance_level": "35.00元(前期高点)",
+        "volume_status": "平量",
+        "volume_meaning": "60亿成交额维持正常水平，多空平衡"
+      },
+      "battle_plan": {
+        "ideal_buy": "32.50元(MA10附近)",
+        "secondary_buy": "32.00元(MA20附近)",
+        "stop_loss": "31.50元",
+        "take_profit": "35.00元",
+        "suggested_position": "30%",
+        "entry_plan": "首次30%，回落至MA10加20%，若到MA20再加20%"
+      },
+      "checklist": [
+        "✅ 多头排列",
+        "⚠️ 乖离率略高(3.2%)",
+        "✅ 量能配合正常",
+        "✅ 无重大利空"
+      ],
+      "risk_alerts": [
+        "乖离率超过5%追高风险大",
+        "新能源板块整体估值承压",
+        "海外订单不确定性"
+      ],
+      "positive_catalysts": [
+        "特高压建设提速带来订单预期",
+        "硅料价格企稳有利于光伏业务",
+        "一带一路海外工程业务增长潜力"
+      ],
+      "short_term_outlook": "预计短期1-3日在32.50-34.00元区间震荡整固，若能回踩MA10获得支撑有望再次上攻",
+      "medium_term_outlook": "中期1-2周若能有效突破33.50元压力位，有望挑战前期高点35元；若跌破32元需警惕回调风险"
+    }
+  }
+}

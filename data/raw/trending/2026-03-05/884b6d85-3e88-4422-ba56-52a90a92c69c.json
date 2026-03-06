@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "瓜 摊 斗 舞",
+  "raw_content": "瓜 摊 斗 舞",
+  "source_url": "https://www.bilibili.com/video/BV1BdARz5EJp",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-05T14:28:14.616826+00:00",
+  "id": "884b6d85-3e88-4422-ba56-52a90a92c69c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3414426,
+    "platform": "bilibili"
+  }
+}

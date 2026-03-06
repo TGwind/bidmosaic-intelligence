@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Publishes Data on Exchange Traded Funds and Fund Mergers; Updated Statistics on Municipal Advisors, Transfer Agents, and Security-Based Swap Dealers",
+  "raw_content": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) has published two new reports on exchange traded funds and fund mergers, and updated statistics and data visualizations on municipal advisors, transfer agents, and…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-17-sec-publishes-data-exchange-traded-funds-fund-mergers-updated-statistics-municipal-advisors-transfer",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-05T18:45:00+00:00",
+  "id": "8575e86a-ffb6-462b-b5da-0f3b5d2f09cd",
+  "generated_title": "SEC发布ETF与基金并购数据，更新市政顾问统计",
+  "generated_summary": "SEC经济与风险分析部门发布ETF和基金并购新报告，并更新市政顾问、转账代理及证券掉期交易商统计数据。",
+  "generated_analysis": "SEC经济与风险分析部门此次发布的ETF与基金并购报告及更新数据，为市场参与者提供了重要的结构性参考。ETF和基金并购活动的活跃程度直接反映行业整合趋势，并购数据有助于决策者评估市场竞争格局变化及潜在监管关注点。市政顾问、转账代理和证券掉期交易商统计的更新，则完善了资本市场中介机构的监管透明度，有助于市场参与者了解这些关键环节的运营状况和风险特征。\n\n从行业影响看，ETF领域持续整合将加剧头部效应，小型发行人面临更大竞争压力；同时，基金并购活动可能加速行业集中度提升。数据透明度的提高也将促使中介机构加强合规管理，预计监管机构将更关注系统性风险积累。\n\n趋势判断：短期内，并购活动预计保持活跃，尤其在ETF细分领域；中长期看，数据驱动监管将成为常态，企业需强化数据报送能力以应对更高透明度要求。建议企业决策者密切关注并购趋势和监管数据更新，及时调整战略布局。",
+  "tags": [
+    "SEC",
+    "ETF",
+    "基金监管",
+    "金融数据"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:50:10.735757+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

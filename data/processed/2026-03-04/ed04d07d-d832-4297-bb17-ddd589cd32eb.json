@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases",
+  "raw_content": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent companion that remembers attendee preferences and builds personalized experiences over time, while Amazon Bedrock AgentCore handles the heavy lifting of production deployment:&nbsp;Amazon Bedrock AgentCore Memory for maintaining both conversation context and long-term preferences without custom storage solutions,&nbsp;Amazon Bedrock AgentCore Identity&nbsp;for secure multi-IDP authentication, and&nbsp;Amazon Bedrock AgentCore Runtime&nbsp;for serverless scaling and session isolation. We will also use Amazon Bedrock Knowledge Bases for managed RAG and event data retrieval.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-25T19:51:08+00:00",
+  "id": "ed04d07d-d832-4297-bb17-ddd589cd32eb",
+  "generated_title": "亚马逊发布Bedrock AgentCore构建智能活动助手",
+  "generated_summary": "演示使用Amazon Bedrock AgentCore快速部署生产级智能活动助手，实现记忆偏好、个性化体验、安全认证与Serverless扩展。",
+  "generated_analysis": "亚马逊发布Bedrock AgentCore标志着AI Agent开发平台进入生产就绪新阶段。该产品整合了记忆管理、身份认证和Serverless运行时三大核心能力，使企业能够快速构建具备长期偏好记忆和个性化服务能力的智能助手，无需从零开发复杂的基础设施组件。\n\n对行业而言，此举将加速企业级AI应用从概念验证到规模部署的进程。活动管理、酒店、医疗等重交互行业将率先受益，能够以更低技术门槛实现“记住每位用户”的智能化服务体验。托管RAG与无服务器架构的结合，也降低了企业构建知识密集型应用的成本。\n\n趋势判断：企业将更关注Agent平台的内置能力完整性，而非单纯的基础模型性能。“Agent即服务”模式将成为主流，企业决策者需评估供应商在记忆、安全与扩展性方面的成熟度。预计未来12-18个月，企业级智能助手市场将迎来爆发式增长，亚马逊有望凭借先发优势占据主导地位。",
+  "tags": [
+    "云计算",
+    "人工智能",
+    "AWS"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:54:24.118428+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

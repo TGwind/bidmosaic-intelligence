@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "字节全家桶 Seed 2.0 + TRAE 玩转 Skill",
+  "raw_content": "一、引言 国产大模型之中，字节是一个异类。...",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/02/seed-2.0.html",
+  "source_name": "阮一峰科技爱好者周刊",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-14T11:51:22+00:00",
+  "id": "1380b34d-d379-44b3-b7ee-fdb00ba6d829",
+  "generated_title": "字节发布Seed 2.0与TRAE大模型全家桶",
+  "generated_summary": "字节跳动发布新一代大模型Seed 2.0及AI应用TRAE，整合多模态能力，标志着其AI产品矩阵全面升级，在国产大模型竞争中采取差异化策略。",
+  "generated_analysis": "字节跳动发布Seed 2.0与AI应用TRAE，标志着其大模型能力从单模态向多模态的全面升级。此举在国产大模型竞争格局中形成了差异化路径：通过深度融合内容创作、推荐算法与生成式AI，提升短视频、直播等核心业务的內容生产效率与用户体验。对行业而言，Seed 2.0的多模态特性将加速內容生成、智能广告和跨平台交互的落地，促使竞争对手加速研发进度并寻求差异化合作。与此同时，TRAE的推出可能重塑字节的产品矩阵，推动内部业务向更高的自动化和个性化迈进。预计未来一到两年，国内大模型竞争将更多聚焦于多模态融合与实际场景落地，具备內容生态优势的字节有望在AI赋能的内容平台上建立新的增长引擎。",
+  "tags": [
+    "人工智能",
+    "大模型",
+    "字节跳动",
+    "AI应用"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:18:59.162960+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "china_tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC’s Division of Enforcement Announces Updates to Enforcement Manual",
+  "raw_content": "The Securities and Exchange Commission’s Division of Enforcement today announced significant updates to its Enforcement Manual. These updates underscore the Commission’s ongoing commitment to fairness, transparency, and efficiency in the investigations…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-20-secs-division-enforcement-announces-updates-enforcement-manual",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-02-24T13:55:52+00:00",
+  "id": "76c5ff37-5783-4cef-9e0a-4005bcea9bcf",
+  "generated_title": "美国SEC执法部门宣布更新执法手册",
+  "generated_summary": "美国SEC执法部门宣布更新执法手册，强调公平、透明和高效的调查程序",
+  "generated_analysis": "此次SEC更新执法手册，反映了美国证券监管机构在经历近年执法争议后寻求程序优化的努力。背景上，SEC此前因执法裁量权使用不当受到质疑，此次更新旨在重建市场对执法公正性的信任。\n\n对市场的影响首先体现在合规成本上升。手册强调的程序正义要求企业需建立更完善的内部调查和文档管理机制，以应对可能更加严格的调查程序审查。其次，透明度的提升将改变执法结果的不可预测性，企业需要重新评估风险敞口。值得注意的是，公平和高效两个关键词的并列表明，SEC正寻求在严格执法与保护被调查对象权益间取得平衡。\n\n趋势判断上，预计未来SEC执法将呈现“程序从严、裁量趋严”的特征，企业合规体系的建设重点应从被动应对转向主动预防，尤其是跨境业务和信息披露领域将面临更严格的审视。",
+  "tags": [
+    "监管政策",
+    "美国SEC",
+    "金融监管"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:49:27.265520+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

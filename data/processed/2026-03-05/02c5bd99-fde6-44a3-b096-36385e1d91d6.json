@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Mozi: Governed Autonomy for Drug Discovery LLM Agents",
+  "raw_content": "arXiv:2603.03655v1 Announce Type: new Abstract: Tool-augmented large language model (LLM) agents promise to unify scientific reasoning with computation, yet their deployment in high-stakes domains like drug discovery is bottlenecked by two critical barriers: unconstrained tool-use governance and poor long-horizon reliability. In dependency-heavy pharmaceutical pipelines, autonomous agents often drift into irreproducible trajectories, where early-stage hallucinations multiplicatively compound into downstream failures. To overcome this, we present Mozi, a dual-layer architecture that bridges the flexibility of generative AI with the deterministic rigor of computational biology. Layer A (Control Plane) establishes a governed supervisor--worker hierarchy that enforces role-based tool isolation, limits execution to constrained action spaces, and drives reflection-based replanning. Layer B (Workflow Plane) operationalizes canonical drug discovery stages -- from Target Identification to Lead Optimization -- as stateful, composable skill graphs. This layer integrates strict data contracts and strategic human-in-the-loop (HITL) checkpoints to safeguard scientific validity at high-uncertainty decision boundaries. Operating on the design principle of ``free-form reasoning for safe tasks, structured execution for long-horizon pipelines,'' Mozi provides built-in robustness mechanisms and trace-level audibility to completely mitigate error accumulation. We evaluate Mozi on PharmaBench, a curated benchmark for biomedical agents, demonstrating superior orchestration accuracy over existing baselines. Furthermore, through end-to-end therapeutic case studies, we demonstrate Mozi's ability to navigate massive chemical spaces, enforce stringent toxicity filters, and generate highly competitive in silico candidates, effectively transforming the LLM from a fragile conversationalist into a reliable, governed co-scientist.",
+  "source_url": "https://arxiv.org/abs/2603.03655",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "02c5bd99-fde6-44a3-b096-36385e1d91d6",
+  "generated_title": "Mozi：药物发现LLM代理的治理自主架构",
+  "generated_summary": "Mozi提出双层架构解决LLM代理在药物发现中的工具使用治理和长期可靠性问题，通过控制平面与工作流平面实现安全可靠的AI辅助药物研发。",
+  "generated_analysis": "Mozi架构的发布标志着AI辅助药物研发进入治理驱动的新阶段。当前LLM代理在药物发现领域面临的核心挑战在于：早期阶段的幻觉错误会在长周期研发流程中逐级放大，最终导致不可逆的决策偏差。这一问题严重制约了AI在制药行业的规模化应用。\n\nMozi通过控制平面与工作流平面的双层架构创新，本质上是在灵活生成能力与严谨科学流程之间建立动态平衡。控制平面解决的是“AI能做什么、不能做什么”的边界问题，而工作流平面则将药物发现从靶点识别到先导化合物优化的全链条标准化为可审计的状态机。这种设计思路对于高度监管的制药行业而言具有重要战略价值——它为AI辅助研发提供了可解释、可追溯、可干预的合规框架。\n\n从市场影响来看，Mozi有望加速制药企业采用AI代理的意愿，特别是对那些对数据准确性和流程合规性要求极高的大型药企。PharmaBench基准测试和端到端治疗案例的验证，为其商业化落地提供了初步背书。然而，该架构的实际效果仍需在真实临床管线中进一步验证，尤其是多轮迭代下的长期可靠性以及与现有药物研发信息系统的兼容性。短期内的行业趋势将是：制药AI从“概念验证”转向“治理基础设施”建设，类似Mozi的分层控制架构可能成为行业标准配置。",
+  "tags": [
+    "人工智能",
+    "药物发现",
+    "LLM代理",
+    "生物医药"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:47:23.383061+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

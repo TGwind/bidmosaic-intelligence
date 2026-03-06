@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "RAGNav: A Retrieval-Augmented Topological Reasoning Framework for Multi-Goal Visual-Language Navigation",
+  "raw_content": "arXiv:2603.03745v1 Announce Type: new Abstract: Vision-Language Navigation (VLN) is evolving from single-point pathfinding toward the more challenging Multi-Goal VLN. This task requires agents to accurately identify multiple entities while collaboratively reasoning over their spatial-physical constraints and sequential execution order. However, generic Retrieval-Augmented Generation (RAG) paradigms often suffer from spatial hallucinations and planning drift when handling multi-object associations due to the lack of explicit spatial modeling.To address these challenges, we propose RAGNav, a framework that bridges the gap between semantic reasoning and physical structure. The core of RAGNav is a Dual-Basis Memory system, which integrates a low-level topological map for maintaining physical connectivity with a high-level semantic forest for hierarchical environment abstraction. Building on this representation, the framework introduces an anchor-guided conditional retrieval and a topological neighbor score propagation mechanism. This approach facilitates the rapid screening of candidate targets and the elimination of semantic noise, while performing semantic calibration by leveraging the physical associations inherent in the topological neighborhood.This mechanism significantly enhances the capability of inter-target reachability reasoning and the efficiency of sequential planning. Experimental results demonstrate that RAGNav achieves state-of-the-art (SOTA) performance in complex multi-goal navigation tasks.",
+  "source_url": "https://arxiv.org/abs/2603.03745",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "f022905c-56b7-45fe-ab2c-61f923608fe6",
+  "generated_title": "RAGNav：多目标视觉语言导航的检索增强拓扑推理框架",
+  "generated_summary": "提出双基记忆系统解决多目标导航中的空间幻觉和规划漂移问题，在复杂任务中达SOTA性能。",
+  "generated_analysis": "RAGNav的出现反映了视觉语言导航领域正在经历从单点路径规划向多目标协同推理的关键转型。传统的检索增强生成范式在处理多目标关联时缺乏显式空间建模能力，导致空间幻觉和规划漂移问题频发，这直接限制了具身智能在复杂真实场景中的落地应用。\n\n该框架的核心价值在于通过双基记忆系统实现了语义推理与物理结构的深度融合。低层拓扑地图提供物理连通性保障，高层语义森林实现环境层级抽象，两者协同使智能体能够在保持空间推理准确性的同时进行高效的多目标规划。锚点引导的条件检索和拓扑邻域评分传播机制有效过滤了语义噪声，提升了目标间可达性推理能力。\n\n对行业而言，这一突破对服务机器人、智能仓储、自动驾驶泊车等需要多节点路径规划的场景具有直接应用价值。尤其在具身智能快速发展的大背景下，RAGNav为解决“理解-推理-执行”链条中的空间认知缺陷提供了新范式。预计未来研究将向三维空间建模、动态环境适应、多智能体协作等方向延伸，空间推理能力或将成为具身智能竞争的核心壁垒。",
+  "tags": [
+    "视觉语言导航",
+    "检索增强生成",
+    "拓扑推理",
+    "多目标规划"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:34:14.524295+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

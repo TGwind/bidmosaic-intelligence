@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee discusses recent market developments and targeted review of cryptoasset standard",
+  "raw_content": "Discusses vulnerabilities in government bond-backed repo markets. Discusses progress of a targeted review of the prudential standard for banks' cryptoasset exposures. Announces date and location of the International Conference of Banking Supervisors.",
+  "source_url": "https://www.bis.org/press/p260225.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-05T14:25:36.879395+00:00",
+  "id": "678024d6-1ea7-44e2-b0da-fb8e1bc58bec",
+  "generated_title": "巴塞尔委员会讨论市场发展与加密资产标准审查",
+  "generated_summary": "巴塞尔委员会讨论政府债券回购市场脆弱性，推进银行加密资产敞口审慎标准审查，公布国际银行监管会议信息。",
+  "generated_analysis": "巴塞尔委员会近期聚焦两大议题，其监管动向值得关注。\n\n政府债券回购市场脆弱性反映了当前全球金融体系的系统性风险积累。随着主要经济体央行资产负债表扩张及利率环境变化，政府债券作为主要担保品的流动性结构和价格发现机制面临挑战，这对金融机构融资成本和风险定价能力构成直接影响。\n\n加密资产审慎标准审查则体现了监管科技同步进化的需求。巴塞尔委员会此轮审查旨在完善银行加密资产敞口的资本计提、流动性要求及风险权重设定，预计将建立更精细化的分类监管框架。这对当前加密市场与传统金融体系的融合进程具有重要导向意义。\n\n对于企业决策者而言，需关注两方面趋势：一是全球金融监管协调将持续加强，跨境业务需做好合规准备；二是加密资产“机构化”进程中的监管不确定性将逐步收敛，但合规成本可能上升。建议密切跟踪巴塞尔最终标准的落地节奏，评估对业务模型的潜在影响。",
+  "tags": [
+    "银行监管",
+    "加密资产",
+    "巴塞尔协议",
+    "国际清算银行"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:53:22.310407+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

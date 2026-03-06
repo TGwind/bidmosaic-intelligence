@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "借鉴Kotlin/Android技术架构，构建可扩展的SwiftUI iOS应用",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/bZG6mCd01ibW34TJZcww?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T16:00:00+00:00",
+  "id": "2f5226e4-aa3e-4316-8918-1b5dd1ca5d75",
+  "generated_title": "借鉴Kotlin/Android架构构建可扩展SwiftUI应用",
+  "generated_summary": "InfoQ CN报道介绍如何将Kotlin/Android的技术架构经验应用于SwiftUI iOS应用开发，实现更好的可扩展性。",
+  "generated_analysis": "",
+  "tags": [
+    "iOS开发",
+    "SwiftUI",
+    "移动开发"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:49:09.672219+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

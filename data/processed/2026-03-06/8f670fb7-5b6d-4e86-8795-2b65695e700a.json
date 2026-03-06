@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "From words to deeds – incorporating climate risks into sovereign credit ratings",
+  "raw_content": "We investigate the impact of climate risks on sovereign credit ratings worldwide. Our analysis shows that higher temperature anomalies and more frequent natural disasters – measures of physical risk – correlate with lower credit ratings. We find that long-term shifts in climate patterns (“chronic risk”) primarily affect advanced economies, while the increased frequency and severity of extreme weather events (“acute risk”) matters more for emerging economies. However, the estimated impact of both types of risk on credit ratings is low and the economic effects are negligible. Ambitious CO2 reduction targets and actual emission reductions are reflected in higher ratings, but only after the 2015 Paris Agreement – suggesting increased attention to transition risk in recent years. Furthermore, highly indebted countries and countries reliant on fossil fuel revenues are assigned lower ratings, while exporters of transition-critical materials have received higher ratings post-2015.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb250730~ebfb33d43c.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-07-30T00:00:00+00:00",
+  "id": "8f670fb7-5b6d-4e86-8795-2b65695e700a",
+  "generated_title": "气候风险纳入主权信用评级研究",
+  "generated_summary": "ECB研究发现气温异常和自然灾害与低信用评级相关，但经济影响微弱；巴黎协定后减排力度开始影响评级，高负债和化石燃料依赖国评级偏低。",
+  "generated_analysis": "该研究首次系统量化气候风险对全球主权信用评级的影响，为投资者和政策制定者提供了重要参考。核心发现表明气候因素已渗透至主权评级体系，但影响程度较为有限——物理风险与低评级存在统计相关性，却未对经济产生显著冲击。\n\n对市场而言，这意味着气候风险尚非评级调整的主导因素，投资者不宜过度押注气候相关的信用利差变化。然而，2015年后减排力度与评级正相关这一发现具有里程碑意义，标志着转型风险正式纳入主流评级框架，高碳资产与低碳资产之间的信用分化正在加速。\n\n趋势判断：短期内气候因素对主权评级的直接影响仍将有限，但政策信号明确——碳依赖度高、财政脆弱的国家将面临持续的评级下行压力，而清洁能源转型领先的经济体将获得信用优势。企业进行跨境投资或主权融资时，需将气候转型路径纳入核心风险评估框架。",
+  "tags": [
+    "气候风险",
+    "主权信用评级",
+    "碳排放",
+    "巴黎协定"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:27:44.468576+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

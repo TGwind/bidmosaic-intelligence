@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Who needs data centers in space when they can float offshore?",
+  "raw_content": "Offshore wind developer Aikido will deploy a small data center beneath a floating offshore wind turbine later this year.",
+  "source_url": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T12:00:00+00:00",
+  "id": "36263342-6453-4c27-af4e-bf6b0ea02ef9",
+  "generated_title": "海上风电开发商将在浮动涡轮机下部署数据中心",
+  "generated_summary": "Aikido计划今年内在浮动海上风电涡轮机下方部署小型数据中心，探索数据中心与海上风电融合的新模式。",
+  "generated_analysis": "此次Aikido的尝试标志着海上风电与数字基础设施两大战略性产业的深度融合。浮动海上风电作为全球前沿技术领域，目前商业化进程正在加速，而数据中心作为耗电大户，对清洁能源的需求日益迫切。两者的结合不仅能实现风电就地消纳、降低输电成本，还能为数据中心提供稳定的清洁能源供应，形成协同效应。\n\n从市场影响看，若该模式验证成功，可能吸引更多风电开发商进入数据中心领域，同时推动科技公司重新评估沿海乃至海上数据中心的可行性。这将为浮动风电运营商开辟新的收入来源，加速技术商业化进程。\n\n然而，短期内该模式仍面临技术成熟度、运维成本、海上环境适应性等挑战。趋势上，预计未来三到五年将出现更多类似试点，而大规模商业化推广需等到浮动风电成本进一步下降且相关配套设施完善之后。企业决策者应密切关注这一融合趋势，提前布局相关领域的合作与投资。",
+  "tags": [
+    "数据中心",
+    "海上风电",
+    "浮动平台",
+    "可再生能源"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:47:08.503547+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

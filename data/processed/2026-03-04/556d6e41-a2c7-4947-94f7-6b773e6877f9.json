@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260226~87d6c12449.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-26T08:30:00+00:00",
+  "id": "556d6e41-a2c7-4947-94f7-6b773e6877f9",
+  "generated_title": "欧洲央行行长拉加德出席欧洲议会听证会",
+  "generated_summary": "拉加德就欧洲通胀形势与货币政策前景在欧洲议会作证，这是ECB与欧盟立法机构的重要对话机制。",
+  "generated_analysis": "拉加德出席欧洲议会听证会是欧盟货币政策与财政体系对话的重要制度安排，体现了欧洲央行在制定政策时需要兼顾立法机构的监督与市场预期管理。当前欧元区通胀虽有所回落，但仍处于欧洲央行2%目标上方，拉加德的证词对市场而言具有政策前瞻指引意义。\n\n从行业影响看，此次听证会传递的货币政策信号将直接影响企业融资成本、欧元汇率走势以及资本市场流动性。若拉加德维持鹰派立场，强调抗通胀决心，欧洲企业特别是依赖贷款的中小企业将面临融资压力上升；若释放更多鸽派信号，则可能为市场注入短期流动性。建议企业关注欧洲央行后续利率决议的措辞变化，提前评估欧元资产配置策略和外汇风险对冲方案。",
+  "tags": [
+    "欧洲央行",
+    "货币政策",
+    "拉加德",
+    "经济听证"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:48:26.121641+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

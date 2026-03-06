@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "平台工程实验室扩展了formae的多云支持",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/RcBF9xRZMeX3uLhwT5sj?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T11:05:00+00:00",
+  "id": "c470c66a-4c29-4b1b-b4fc-824be60bca44",
+  "generated_title": "平台工程实验室扩展formae多云支持能力",
+  "generated_summary": "平台工程实验室宣布增强formae产品的多云兼容性，支持主流云服务商集成，提升跨云部署灵活性。",
+  "generated_analysis": "",
+  "tags": [
+    "多云",
+    "平台工程",
+    "formae"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-04T14:51:58.257753+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

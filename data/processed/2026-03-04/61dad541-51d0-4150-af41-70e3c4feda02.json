@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Disrupting malicious uses of AI | February 2026",
+  "raw_content": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense.",
+  "source_url": "https://openai.com/index/disrupting-malicious-ai-uses",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-25T00:00:00+00:00",
+  "id": "61dad541-51d0-4150-af41-70e3c4feda02",
+  "generated_title": "OpenAI发布AI恶意使用威胁报告",
+  "generated_summary": "OpenAI发布最新威胁报告，分析恶意行为者如何结合AI模型与社交平台进行攻击及防御策略。",
+  "generated_analysis": "OpenAI此次发布威胁报告，标志着AI安全议题已从技术前沿讨论上升为企业必须正视的战略风险。该报告聚焦AI模型与社交平台、网站的结合攻击模式，揭示了恶意行为者正在利用生成式AI能力进行规模化虚假信息传播、社交工程攻击和自动化欺诈，这为全球企业的数字安全防线敲响警钟。\n\n从市场影响看，此报告将加速网络安全行业的技术迭代。传统基于规则的风控体系难以应对AI生成的复杂攻击形态，企业将被迫引入AI驱动的威胁检测方案，这为安全厂商带来新的增长空间。同时，报告也将推动企业重新审视AI治理框架，在追求技术红利的同时建立配套的风险管控机制。\n\n短期来看，报告将引发行业对AI安全投入的重视增加，尤其在内容真实性验证和异常行为识别领域。中长期趋势显示，AI安全将成为与AI应用并行的核心赛道，企业决策者需将AI安全纳入整体数字化战略，跨部门协同构建防御体系，以应对不断演化的智能威胁。",
+  "tags": [
+    "人工智能",
+    "网络安全",
+    "OpenAI"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:48:53.988438+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

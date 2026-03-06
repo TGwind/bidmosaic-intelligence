@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee publishes more details on the 2025 assessment of global systemically important banks",
+  "raw_content": "Basel Committee provides additional information regarding the 2025 G-SIB assessment. Further details include global denominators and individual bank indicators. The release accompanies the Financial Stability Board's updated G-SIB list.",
+  "source_url": "https://www.bis.org/press/p251127.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-04T14:20:01.223509+00:00",
+  "id": "210b8551-e1f2-46ba-ad17-3a75246ab2f9",
+  "generated_title": "巴塞尔委员会公布2025年全球系统重要性银行评估细节",
+  "generated_summary": "巴塞尔委员会发布2025年G-SIB评估的额外信息，包括全球 denominators和个别银行指标，并附金融稳定委员会更新的G-SIB名单。",
+  "generated_analysis": "2025年G-SIB评估结果的公布标志着全球金融监管框架进入新一轮执行阶段。巴塞尔委员会此次更新不仅延续了系统重要性银行的差异化监管思路，更通过披露全球 denominators和个别银行指标，增强了监管透明度。对银行业而言，被列入G-SIB名单意味着更高的资本充足率要求、更严格的流动性监管以及更频繁的压力测试，这将直接影响相关银行的业务拓展空间和成本结构。\n\n从市场影响来看，G-SIB名单的更新将重新定义全球系统重要性金融机构的竞争格局。新入围机构将面临监管成本上升的压力，而已建立优势的银行则需持续满足更高标准以维持地位。这也可能促使跨境金融业务进一步向头部机构集中，行业集中度可能提升。\n\n趋势判断：预计未来G-SIB评估将更加注重数字化风险、气候相关金融风险等新兴领域，监管科技的应用也将深化。对于企业决策者而言，密切关注监管动态、合理评估合作金融机构的系统重要性等级，将成为风险管理和战略布局的关键考量。",
+  "tags": [
+    "金融监管",
+    "全球银行",
+    "巴塞尔协议"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-04T14:45:56.349785+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

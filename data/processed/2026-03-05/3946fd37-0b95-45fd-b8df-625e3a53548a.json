@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback",
+  "raw_content": "In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluation rather than imitation. We'll cover how RFT works, when to use it versus supervised fine-tuning, real-world applications from code generation to customer service, and implementation options ranging from fully managed Amazon Bedrock to multi-turn agentic workflows with Nova Forge. You'll also learn practical guidance on data preparation, reward function design, and best practices for achieving optimal results.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T17:48:37+00:00",
+  "id": "3946fd37-0b95-45fd-b8df-625e3a53548a",
+  "generated_title": "亚马逊Nova强化微调技术解析",
+  "generated_summary": "介绍AWS强化微调技术RFT用于定制Amazon Nova模型，涵盖技术原理、适用场景及实践指南。",
+  "generated_analysis": "强化微调技术的落地标志着亚马逊在企业AI定制领域迈出关键一步。与传统监督微调依赖标注数据模仿学习不同，RFT通过评估反馈实现自我优化，这一范式转变大幅降低了对高质量标注数据的依赖，对数据资源有限但追求模型精准度的企业具有重要意义。\n\n从市场影响看，此技术直击企业定制AI的核心痛点。代码生成、客户服务等场景对模型输出质量要求严格，RFT使企业能够根据自身业务逻辑定义奖励机制，实现真正的领域适配。Amazon Bedrock托管服务降低了技术门槛，而Nova Forge支持的多轮智能体工作流则为复杂业务场景提供了灵活选择。\n\n我认为RFT将逐步成为企业AI定制的主流技术路径。未来一到两年，掌握奖励函数设计能力、具备高质量评估数据体系的企业将在AI应用中建立差异化优势。AWS通过分层服务覆盖不同技术能力的企业客户，有望在企业AI市场进一步扩大份额。企业决策者应关注自身场景是否适合RFT，并开始积累评估数据和设计奖励机制的能力。",
+  "tags": [
+    "强化学习",
+    "Amazon Nova",
+    "AWS"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:49:55.867897+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents",
+  "raw_content": "arXiv:2603.03290v1 Announce Type: new Abstract: Long-horizon LLM agents require memory systems that remain accurate under fixed context budgets. However, existing systems struggle with two persistent challenges in long-term dialogue: (i) \\textbf{disconnected evidence}, where multi-hop answers require linking facts distributed across time, and (ii) \\textbf{state updates}, where evolving information (e.g., schedule changes) creates conflicts with older static logs. We propose AriadneMem, a structured memory system that addresses these failure modes via a decoupled two-phase pipeline. In the \\textbf{offline construction phase}, AriadneMem employs \\emph{entropy-aware gating} to filter noise and low-information message before LLM extraction and applies \\emph{conflict-aware coarsening} to merge static duplicates while preserving state transitions as temporal edges. In the \\textbf{online reasoning phase}, rather than relying on expensive iterative planning, AriadneMem executes \\emph{algorithmic bridge discovery} to reconstruct missing logical paths between retrieved facts, followed by \\emph{single-call topology-aware synthesis}. On LoCoMo experiments with GPT-4o, AriadneMem improves \\textbf{Multi-Hop F1 by 15.2\\%} and \\textbf{Average F1 by 9.0\\%} over strong baselines. Crucially, by offloading reasoning to the graph layer, AriadneMem reduces \\textbf{total runtime by 77.8\\%} using only \\textbf{497} context tokens. The code is available at https://github.com/LLM-VLM-GSL/AriadneMem.",
+  "source_url": "https://arxiv.org/abs/2603.03290",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T05:00:00+00:00",
+  "id": "b9055811-f233-4a3d-9100-3fdc20a0c413",
+  "generated_title": "AriadneMem：LLM智能体终身记忆系统的结构化方案",
+  "generated_summary": "提出AriadneMem结构化记忆系统，通过离线构建和在线推理两阶段管道解决长程对话中的证据断裂和状态更新难题，在LoCoMo基准上多跳F1提升15.2%。",
+  "generated_analysis": "AriadneMem的出现标志着LLM记忆系统进入结构化新阶段。当前大语言模型在长程对话中普遍面临两大痛点：一是多跳推理时证据分散导致的逻辑断裂，二是动态信息更新后与历史静态记录的冲突。传统方案要么依赖迭代式规划带来高昂算力消耗，要么简单扩充上下文窗口而忽视信息筛选与组织效率。\n\nAriadneMem的解耦两阶段架构具有范式创新价值：离线阶段通过熵感知门控过滤噪声、冲突感知粗粒化保留状态变迁；在线阶段以图结构重建逻辑路径，替代传统迭代推理。这种设计使系统仅用497个上下文token即实现77.8%的推理加速，同时Multi-Hop F1提升15.2%，体现了精度与效率的统一。\n\n对企业决策者而言，该方案在需要长程上下文理解的高价值场景具有直接应用潜力：复杂客服对话、医疗健康咨询、法律顾问等领域的精确信息召回与推理需求有望得到系统性改善。更重要的是，它揭示了记忆系统“结构化存储+算法推理”的演进方向，预计将推动行业从“扩大上下文”向“构建可推理记忆架构”的范式转移，催生新一代企业级AI Agent基础设施。",
+  "tags": [
+    "大语言模型",
+    "记忆系统",
+    "NLP",
+    "AI智能体"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:58:32.194194+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

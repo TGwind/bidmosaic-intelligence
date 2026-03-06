@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Joachim Nagel: Central banking in an age of geoeconomic fragmentation and global uncertainty",
+  "raw_content": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the 157th Baden-Badener Unternehmer Gespräche, Baden-Baden, 1 March 2026.",
+  "source_url": "https://www.bis.org/review/r260303h.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-05T14:25:38.032035+00:00",
+  "id": "8f5b49e1-77ea-47a0-8f42-e2b4886f7435",
+  "generated_title": "德国央行行长论地缘经济碎片化时代的央行挑战",
+  "generated_summary": "德国央行行长Nagel阐述在地缘经济碎片化和全球不确定性背景下，各国央行面临的政策挑战与应对策略。",
+  "generated_analysis": "德国央行行长Nagel此次演讲揭示了当前全球货币政策面临的核心困境——地缘经济碎片化正深刻重塑央行决策环境。随着供应链重构、贸易壁垒增加以及全球治理体系分化，各国央行不仅需要应对传统的通胀与增长平衡问题，还需在地缘政治博弈中维持货币政策独立性，这使得政策制定难度显著上升。\n\n对于全球市场而言，央行面临的挑战意味着政策不确定性将成为新常态。企业决策者需关注以下趋势：一是主要央行政策分化可能加剧，欧元区和美联储在应对碎片化冲击时的策略差异将影响跨境资本流动和汇率走势；二是供应链区域化趋势将改变通胀动力学，传统通胀锚定机制面临失效风险，央行可能需要构建新的价格监测框架；三是地缘风险溢价将成为资产定价的重要变量，金融市场波动性或系统性上升。\n\n建议企业决策者在战略层面加强地缘政治风险评估，构建更具韧性的供应链和财务缓冲机制，同时密切跟踪主要央行政策信号，以应对可能出现的流动性环境和融资条件变化。",
+  "tags": [
+    "货币政策",
+    "地缘政治",
+    "德国央行",
+    "全球经济"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:55:56.371232+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

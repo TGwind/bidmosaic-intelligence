@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Sora 浪潮下的视频内容安全：深度伪造检测与水印对抗技术解析",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/gryFJTax0f58Ghw4GisF?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T11:29:23+00:00",
+  "id": "689f86f0-cd6d-4ad3-a3a0-9af1bff47382",
+  "generated_title": "Sora时代视频内容安全：深度伪造检测与水印对抗技术",
+  "generated_summary": "随着OpenAI Sora视频生成技术的兴起，深度伪造检测与水印对抗技术成为内容安全领域新挑战，InfoQ深入解析技术现状与未来趋势。",
+  "generated_analysis": "Sora视频生成技术的突破标志着AI内容生产进入新阶段，同时也使深度伪造风险急剧上升。当前检测技术面临的核心挑战在于：生成内容的逼真度已远超传统检测模型的识别阈值，形成技术代差。短期内，企业将面临内容真实性甄别成本上升的压力，尤其是对视频为主的平台冲击显著。中期来看，水印技术有望成为行业标配，类似于文本领域的AI生成标识规范，强制溯源将成为监管趋势。值得关注的是，检测与生成技术的博弈将持续升级，形成“猫鼠游戏”式的动态竞争格局。建议企业决策者提前布局内容溯源体系，关注合规框架演进，同时在内容审核流程中引入AI辅助识别工具，以应对即将到来的监管要求和用户信任挑战。",
+  "tags": [
+    "人工智能",
+    "视频安全",
+    "深度伪造",
+    "水印技术"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:53:57.955411+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

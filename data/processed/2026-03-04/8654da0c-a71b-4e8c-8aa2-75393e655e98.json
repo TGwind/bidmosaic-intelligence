@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "美团 AI 浏览器遭开发者公开维权！目前双方已和解，相关代码已完成开源处理",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/QpgxweT242UrUwxgNu0y?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T16:55:15+00:00",
+  "id": "8654da0c-a71b-4e8c-8aa2-75393e655e98",
+  "generated_title": "美团AI浏览器开发者维权事件达成和解",
+  "generated_summary": "美团AI浏览器因代码问题遭开发者公开维权，目前双方已和解，相关代码已完成开源处理。",
+  "generated_analysis": "美团AI浏览器代码维权事件表面是偶发的版权纠纷，实则折射出当前AI行业开源生态的深层矛盾。开发者对开源协议的维权意识正在觉醒，大型科技企业不能再以“不知情”或“疏忽”回避合规责任。此次和解后代码开源，虽保全了各方颜面，但暴露了企业在开源管理流程上的漏洞。\n\n对行业而言，此事具有标杆意义。随着AI大模型和应用的快速发展，开源代码使用量激增，类似摩擦将持续增多。企业若不建立完善的开源合规体系，类似的舆论危机和 法律风险将持续存在。从市场角度看，开源生态的健康度直接影响AI创新的效率，开发者社区与平台企业之间的信任机制亟需重建。\n\n展望未来，预计行业将出现两大趋势：一是企业会加强开源代码引入的合规审查和许可证管理；二是开发者社区的维权行动将更加组织化，第三方开源合规服务市场或迎来增长。企业决策者应将此案例视为警钟，将开源治理纳入核心合规框架。",
+  "tags": [
+    "人工智能",
+    "开源",
+    "维权纠纷"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-04T14:49:50.925628+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

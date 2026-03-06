@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+  "raw_content": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
+  "source_url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-26T19:00:58+00:00",
+  "id": "36344489-b952-45c1-aec2-e3e635e35177",
+  "generated_title": "礼来推出全球首个制药AI超级计算设施LillyPod",
+  "generated_summary": "礼来发布全球首个制药公司自有的AI工厂，配备NVIDIA DGX SuperPOD和DGX B300系统，将加速药物发现与开发进程。",
+  "generated_analysis": "礼来此次推出LillyPod标志着制药行业正式进入AI驱动研发的新阶段。该设施采用NVIDIA DGX SuperPOD和DGX B300系统，是全球首个制药企业完全自主拥有和运营的AI超级计算平台，意味着AI技术从辅助工具升级为核心竞争力基础设施。\n\n对行业而言，此举将产生深远影响。首先，药物发现与开发周期有望大幅缩短，传统需10-15年的新药研发流程可能在AI辅助下压缩至7-10年；其次，临床试验成功率可能提升，因为AI能够更精准地筛选候选分子和预测患者反应；再者，行业竞争格局将发生分化，具备AI基础设施能力的企业将建立显著壁垒，中小型药企面临更大压力。\n\n从趋势判断，礼来的示范效应将加速行业跟风，预计未来2-3年内主要跨国药企将竞相布局类似设施。同时，这也将推动AI制药公司估值重塑，以及CRO服务商的技术升级需求。对于企业决策者而言，拥抱AI已从可选项变为必选项，是否具备AI能力将直接决定未来市场地位。",
+  "tags": [
+    "人工智能",
+    "医药研发",
+    "超级计算"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:22:17.404141+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

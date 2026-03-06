@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
+  "raw_content": "As synthetic media grows, verifying what’s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practical paths toward trustworthy provenance across images, audio, and video. The post Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-19T16:00:51+00:00",
+  "id": "0849c0c2-7024-4e90-bc4f-40fd65206028",
+  "generated_title": "微软发布媒体真实性验证方法报告",
+  "generated_summary": "报告探讨合成媒体时代的图像、音频、视频内容真实性和来源验证方法，分析技术能力与局限性。",
+  "generated_analysis": "合成媒体技术的快速发展正在引发一场信息信任危机。微软此次发布媒体真实性验证方法报告，标志着科技巨头已将该领域提升至战略高度。随着生成式AI门槛持续降低，深度伪造图像、音频和视频的泛滥正在削弱公众对数字内容的信任基础，这对依赖视觉内容进行商业沟通的企业而言构成严峻挑战。\n\n该报告的核心价值在于系统梳理了当前技术的能力边界，为行业提供了可操作的验证路径。对于媒体平台而言，真实性验证将成为差异化竞争的关键维度；对于企业而言，内容溯源能力将直接影响品牌公信力和商业决策效率。\n\n从趋势判断来看，未来三至五年内，媒体内容真实性验证将从单一技术工具演变为完整的技术生态，涵盖元数据标注、数字水印、区块链溯源等多层防护体系。监管层面的压力将加速这一进程，企业应提前布局内容Authenticity基础设施建设，将真实性验证能力纳入数字化转型的核心议程。",
+  "tags": [
+    "人工智能",
+    "媒体识别",
+    "网络安全",
+    "信息验证"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:17:55.029899+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

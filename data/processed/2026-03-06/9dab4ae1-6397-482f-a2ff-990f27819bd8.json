@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee finds the United Kingdom largely compliant with its Net Stable Funding Ratio standard and its large exposures framework",
+  "raw_content": "",
+  "source_url": "https://www.bis.org/press/p251203.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-06T02:15:16.741323+00:00",
+  "id": "9dab4ae1-6397-482f-a2ff-990f27819bd8",
+  "generated_title": "巴塞尔委员会认定英国基本遵守净稳定资金比率标准",
+  "generated_summary": "巴塞尔银行监管委员会评估认为英国基本符合净稳定资金比率监管标准及大额敞口框架要求。",
+  "generated_analysis": "巴塞尔委员会此番认定英国基本符合净稳定资金比率标准，具有重要的风向标意义。这表明英国在脱欧后仍维持与国际监管标准的高度一致性，有助于维护伦敦作为全球金融中心的竞争力。对于英国银行业而言，合规确认将增强市场信心，降低融资成本，并有利于维护跨境业务稳定性。\n\n从行业影响看，这一认定可能促使其他司法管辖区加快NSFR合规进度，尤其对欧盟成员国形成一定示范效应。同时，这也为英国与欧盟未来在金融监管对话中提供了合作基础。\n\n趋势判断：预计全球主要经济体将持续强化流动性风险监管，NSFR等审慎指标的执行力度不会放松。对企业决策者而言，需密切关注各辖区监管动态，确保流动性管理策略符合跨境合规要求，同时把握监管确定性提升带来的业务发展机遇。",
+  "tags": [
+    "金融监管",
+    "巴塞尔协议",
+    "英国银行业",
+    "合规评估"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:28:36.020048+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

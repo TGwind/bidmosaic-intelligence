@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+  "raw_content": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+  "source_url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-02-12T16:15:09+00:00",
+  "id": "ecc3a330-f51d-4194-8a38-cad6c290852e",
+  "generated_title": "Gemini 3深度思考：推动科学研究与工程发展",
+  "generated_summary": "DeepMind更新其专业推理模式，以应对现代科学研究和工程挑战。",
+  "generated_analysis": "此次更新标志着AI从通用能力向专业领域纵深发展的关键转折。DeepMind将深度思考模式聚焦于科学研究与工程领域，本质上是将其在围棋、蛋白质折叠等技术突破中积累的推理能力进行垂直整合。这种专业化转向反映出大模型竞争已从“广度”转向“深度”，谁能解决高价值专业问题，谁就能占据制高点。\n\n对于行业而言，这意味着科研范式正在被重塑。AI不再仅仅是数据处理工具，而是成为假设生成、实验设计、方案优化的“智能协作者”。在工程领域，从芯片设计到材料研发，AI推理能力将显著缩短研发周期、降低试错成本。\n\n趋势判断：未来3-5年，专业化AI模型将成为科技巨头竞争主战场，科研机构与AI企业的合作将更加紧密。对于企业决策者而言，需要密切关注AI在自身专业领域的能力边界，并尽快探索人机协同的研发模式，以应对智能化转型带来的竞争优势重构。",
+  "tags": [
+    "人工智能",
+    "深度学习",
+    "科学研究",
+    "大语言模型"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T15:01:12.459517+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

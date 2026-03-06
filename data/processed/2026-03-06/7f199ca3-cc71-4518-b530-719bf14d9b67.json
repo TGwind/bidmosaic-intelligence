@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "D4RT: Teaching AI to see the world in four dimensions",
+  "raw_content": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods.",
+  "source_url": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-01-16T10:39:00+00:00",
+  "id": "7f199ca3-cc71-4518-b530-719bf14d9b67",
+  "generated_title": "D4RT：DeepMind发布高效四维重建追踪技术",
+  "generated_summary": "DeepMind发布D4RT技术，实现统一高效的4D重建与追踪，速度比现有方法快达300倍。",
+  "generated_analysis": "D4RT技术的发布标志着计算机视觉领域的一个重要里程碑。DeepMind通过统一框架实现四维重建与追踪的突破，其300倍速度提升意味着此前停留在实验室阶段的实时动态场景捕捉技术真正具备了商业化落地的可能。\n\n这一技术对多个高增长行业将产生深远影响。在自动驾驶领域，更高效的周围环境感知能力将加速L4级自动驾驶的产业化进程；在机器人产业，机器的空间理解与交互能力将获得本质提升；在AR/VR领域，更流畅的实时场景重建将改善用户体验，推动硬件普及；在影视制作和医疗影像等领域，同样存在显著的降本增效空间。\n\n从技术演进趋势看，AI驱动的感知能力正在快速逼近甚至超越传统硬件限制。企业决策者应密切关注这一技术路径的成熟度曲线，关注核心算法与硬件的协同优化进展，同时评估自身业务场景与该技术的结合时点。可以预见，未来两到三年内，基于高效四维感知的技术应用将进入密集落地期。",
+  "tags": [
+    "人工智能",
+    "计算机视觉",
+    "深度学习",
+    "4D重建"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:26:58.228904+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+  "raw_content": "And an Overview of Recent Inference-Scaling Papers",
+  "source_url": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-01-24T11:23:18+00:00",
+  "id": "50582965-eb35-4eb8-8eb2-9d282ae48e0c",
+  "generated_title": "LLM推理时间扩展方法分类与论文综述",
+  "generated_summary": "系统梳理推理时间扩展的多种方法，概述近期通过推理阶段扩展提升大语言模型推理能力的研究论文。",
+  "generated_analysis": "这一综述标志着大语言模型能力提升范式的重要转变。传统AI发展主要依赖训练阶段扩展，即通过增大模型参数和训练数据量来增强性能，但这种方法面临算力成本激增的瓶颈。推理时间扩展另辟蹊径，在模型推理过程中动态分配计算资源，使模型能够进行更深入的思考和自我修正，典型应用如OpenAI的o1系列模型。\n\n对于行业而言，这一技术路线带来深远影响。首先，它为算力基础设施提供商创造了新的增长空间，推理阶段的算力需求可能显著提升。其次，模型开发者需重新审视架构设计，不仅要优化训练效率，还需强化推理阶段的计算策略。更重要的是，这为中小企业提供了差异化竞争机会——通过精细的推理优化，可能以较低成本实现接近大模型的性能。\n\n预计未来三到五年，推理时间扩展将成为AI能力提升的主要方向之一，混合扩展方法（训练+推理协同优化）将成为主流技术路径。企业决策者应密切关注这一趋势，在AI基础设施布局和模型选型时充分考虑推理扩展的兼容性。",
+  "tags": [
+    "人工智能",
+    "大语言模型",
+    "推理优化",
+    "技术综述"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:52:02.719550+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

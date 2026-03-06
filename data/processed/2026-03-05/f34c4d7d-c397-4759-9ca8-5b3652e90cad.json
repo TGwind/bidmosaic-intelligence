@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Unlock powerful call center analytics with Amazon Nova foundation models",
+  "raw_content": "In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevant to contact center solutions. We examine these capabilities for both single-call and multi-call analytics use cases.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/unlock-powerful-call-center-analytics-with-amazon-nova-foundation-models/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-04T21:16:59+00:00",
+  "id": "f34c4d7d-c397-4759-9ca8-5b3652e90cad",
+  "generated_title": "亚马逊Nova基础模型模型赋能呼叫中心分析",
+  "generated_summary": "Amazon Nova展示对话分析与呼叫分类能力，适用于单通话及多通话分析场景",
+  "generated_analysis": "亚马逊此次展示Nova模型在呼叫中心场景的应用，标志着AI大模型正式切入企业客户服务核心运营环节。传统呼叫中心长期依赖人工监听和规则-based分类，效率低下且难以规模化。Nova模型具备的对话分析和呼叫分类能力，可同时处理单通话精细诊断与多通话宏观趋势洞察，这意味着企业能够实现从被动响应到主动预测的运营范式转变。对市场而言，这将加速呼叫中心行业向智能化转型，预计未来两到三年内，AI原生呼叫分析解决方案将成为企业客服部门的基础设施标配。具备实时多维度洞察能力的服务商将获得显著的竞争优势，而未能跟上这一趋势的传统呼叫中心技术提供商可能面临淘汰。对于企业决策者来说，现在是需要重新评估客服技术路线图的关键时点，尽早布局AI驱动的对话分析能力将成为提升客户满意度和运营效率的重要战略选择。",
+  "tags": [
+    "人工智能",
+    "云计算",
+    "企业服务"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:02:19.480582+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

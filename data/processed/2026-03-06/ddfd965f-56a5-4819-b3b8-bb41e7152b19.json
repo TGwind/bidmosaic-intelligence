@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Meeting of 4-5 February 2026",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-05T12:30:00+00:00",
+  "id": "ddfd965f-56a5-4819-b3b8-bb41e7152b19",
+  "generated_title": "欧洲央行2026年2月货币政策会议",
+  "generated_summary": "欧洲央行发布2026年2月4-5日会议议程及纪要，涉及欧元区货币政策讨论。",
+  "generated_analysis": "",
+  "tags": [
+    "欧洲央行",
+    "货币政策",
+    "欧元区"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-06T02:32:59.538707+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

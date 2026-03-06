@@ -1,0 +1,32 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "非得今儿个走啊",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV115PvzeEy2",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-05T07:34:30.174848+00:00",
+  "id": "4ceb35a0-c0c2-402c-aac1-897bcb683ed1",
+  "generated_title": "非得今儿个走啊",
+  "generated_summary": "B站热门视频标题，具体内容不明，可能是情感或生活类短视频。",
+  "generated_analysis": "",
+  "tags": [
+    "网络热门",
+    "短视频"
+  ],
+  "importance_score": 2,
+  "processed_at": "2026-03-05T14:47:25.899119+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2454412,
+    "platform": "bilibili"
+  }
+}

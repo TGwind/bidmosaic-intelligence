@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Building a scalable virtual try-on solution using Amazon Nova on AWS: part 1",
+  "raw_content": "In this post, we explore the virtual try-on capability now available in Amazon Nova Canvas, including sample code to get started quickly and tips to help get the best outputs.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/building-a-scalable-virtual-try-on-solution-using-amazon-nova-on-aws-part-1/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T16:23:30+00:00",
+  "id": "cae4ae55-6e31-4f92-8e35-f4a4b17a201b",
+  "generated_title": "AWS Nova虚拟试穿方案构建指南",
+  "generated_summary": "本文介绍Amazon Nova Canvas虚拟试穿功能，提供快速入门示例代码及最佳输出实践指南。",
+  "generated_analysis": "AWS推出Nova Canvas虚拟试穿功能，标志着AI图像生成技术在电商领域的规模化落地。该功能基于生成式AI，允许消费者上传服装图片并生成上身效果预览，直接解决线上购物“看不清、试不了”的核心痛点。\n\n对零售行业而言，此功能将带来三重变革：其一，提升转化率，消费者可直观感知穿搭效果，降低因预期不符导致的退货纠纷；其二，重塑内容生产流程，商家可快速生成多场景、多搭配的展示素材，降低摄影成本；其三，强化差异化竞争力，虚拟试穿将成为电商平台的基础设施标配，缺乏类似能力的零售商将面临用户流失风险。\n\n趋势判断：未来12-18个月，虚拟试穿将从服装品类向美妆、家具等高体验依赖品类延伸，同时与AR技术深度融合，形成“虚拟试穿+实时渲染”的沉浸式购物体验。企业决策者应优先评估自身品类适配度，并启动技术对接布局。",
+  "tags": [
+    "虚拟试穿",
+    "Amazon Nova",
+    "AWS机器学习"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:32:13.115801+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

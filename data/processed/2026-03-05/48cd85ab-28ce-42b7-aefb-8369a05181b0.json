@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "建议适当降低法定结婚年龄",
+  "raw_content": "建议适当降低法定结婚年龄",
+  "source_url": "https://www.toutiao.com/trending/7613039057673191465/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613039057673191465%22%2C%22hot_board_impr_id%22%3A%22202603052228181AFFD88B2DEC34805AF5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BB%BA%E8%AE%AE%E9%80%82%E5%BD%93%E9%99%8D%E4%BD%8E%E6%B3%95%E5%AE%9A%E7%BB%93%E5%A9%9A%E5%B9%B4%E9%BE%84%22%7D&rank=&style_id=40132&topic_id=7613039057673191465",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-05T14:28:14.436130+00:00",
+  "id": "48cd85ab-28ce-42b7-aefb-8369a05181b0",
+  "generated_title": "专家建议适当降低法定结婚年龄",
+  "generated_summary": "有专家提出适当降低法定结婚年龄建议，旨在应对当前人口结构变化和社会婚育趋势。",
+  "generated_analysis": "",
+  "tags": [
+    "婚姻制度",
+    "人口政策",
+    "社会建议"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:47:20.960642+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "11329973",
+    "platform": "toutiao"
+  }
+}

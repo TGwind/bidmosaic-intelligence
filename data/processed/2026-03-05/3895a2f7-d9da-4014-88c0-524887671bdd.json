@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Swaminathan J: Good finance, good leadership - on the road to Viksit Bharat@2047",
+  "raw_content": "Keynote address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Third International Finance and Accounting Conference (IFAC) at the Indian Institute of Management (IIM), Jammu, 27 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303i.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-05T14:25:38.032285+00:00",
+  "id": "3895a2f7-d9da-4014-88c0-524887671bdd",
+  "generated_title": "印度央行副行长论Viksit Bharat 2047金融发展",
+  "generated_summary": "印度储备银行副行长在IIM学术会议上阐述良好金融与领导力如何助推印度2047年愿景实现",
+  "generated_analysis": "印度央行副行长在IIM Jammu发表演讲，阐释金融部门在实现Viksit Bharat 2047愿景中的关键作用，这一表态具有重要的政策信号意义。2047年是印度独立100周年，莫迪政府将此设定为跻身发达国家行列的目标节点，而金融体系现代化是实现该愿景的基础支撑。\n\n从行业影响来看，央行高层的公开论述释放了几个明确信号：一是金融深化改革将持续推进，金融服务实体经济的导向更加突出；二是数字金融和普惠金融有望获得更多政策倾斜，这将为金融科技企业打开发展空间；三是对于外资金融机构而言，印度市场的准入环境和监管预期将更趋清晰，企业需密切关注后续配套政策的落地节奏。\n\n趋势判断上，我们预期印度金融业将呈现三大特征：其一，信贷投放重点将向制造业、出口和中小微企业倾斜；其二，数字支付和跨境金融服务将成为创新热点；其三，金融监管将更加注重风险防控与发展平衡。对于在印布局的中资企业，建议将金融环境预期纳入中长期战略规划，尤其关注央行后续可能出台的流动性支持和信贷政策调整。",
+  "tags": [
+    "印度央行",
+    "金融政策",
+    "经济发展战略"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:49:42.148990+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

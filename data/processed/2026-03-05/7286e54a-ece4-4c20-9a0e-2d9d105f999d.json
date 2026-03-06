@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "NYSE owner ICE invests in OKX at $25B as tokenized stocks plan takes shape",
+  "raw_content": "Intercontinental Exchange will take a board seat at OKX and plans to bring NYSE-listed tokenized stocks and derivatives to the crypto exchange’s users in 2026.",
+  "source_url": "https://cointelegraph.com/news/nyse-intercontinental-exchange-invests-okx-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-05T13:10:11+00:00",
+  "id": "7286e54a-ece4-4c20-9a0e-2d9d105f999d",
+  "generated_title": "纽交所母公司ICE投资OKX 计划推代币化股票",
+  "generated_summary": "ICE以250亿美元估值投资OKX并获董事会席位，计划2026年在OKX推出纽交所上市的代币化股票和衍生品。",
+  "generated_analysis": "ICE作为纽交所母公司，此番以250亿美元估值投资OKX并获得董事会席位，标志着传统金融巨头与加密货币交易所的深度融合。这一合作具有里程碑意义，意味着主流资本市场正式向加密行业敞开了合规大门。\n\n对行业而言，此举将带来多重深远影响。首先，代币化股票将打破传统股市与加密市场之间的壁垒，使全球加密用户能够便捷投资纽交所上市股票，极大拓展了加密交易所的业务边界和用户群体。其次，ICE的背书将为OKX带来传统金融领域的合规信任背书，提升其品牌公信力。此外，这一合作可能引发传统金融机构加速布局加密赛道，推动行业竞争格局重塑。\n\n从趋势判断看，2026年代币化产品的落地将开启加密市场与传统资本市场融合的新阶段。预计将有更多传统券商、交易所寻求与加密平台合作，监管框架也将随之加速完善。对于企业决策者而言，需密切关注代币化证券的监管政策动向，提前布局相关业务机会，同时关注这一融合趋势对现有证券交易模式的挑战。",
+  "tags": [
+    "加密货币",
+    "代币化股票",
+    "传统金融",
+    "投资"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-05T14:54:24.908604+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

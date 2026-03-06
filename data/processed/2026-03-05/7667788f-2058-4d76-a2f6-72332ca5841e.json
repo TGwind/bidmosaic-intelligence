@@ -1,0 +1,95 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "易点天下(301171) 今日涨1.61% 报51.71元",
+  "raw_content": "易点天下(301171) 最新价 51.71元，涨1.61%，涨跌额 +0.82元，今开 52.50元，最高 52.59元，最低 51.36元，昨收 50.89元，成交额 3.44亿元，振幅 2.42%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz301171/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-05T02:04:45.576440+00:00",
+  "id": "7667788f-2058-4d76-a2f6-72332ca5841e",
+  "generated_title": "易点天下(301171) 今日涨1.61% 报51.71元 | 持有",
+  "generated_summary": "趋势: 偏强 · 信号: 持有 · 评分: 65",
+  "generated_analysis": "易点天下今日收涨1.61%，股价站上51元关口，延续近期震荡上行趋势。从技术面看，股价位于5日均线上方运行，乖离率约2.3%，处于安全区间，符合'严进策略'要求。量能方面今日呈现缩量上涨态势，说明筹码锁定良好抛压较轻。基本面方面，公司作为跨境营销龙头，受益于AI技术应用和出海业务增长，中长期逻辑清晰。整体来看，股价处于健康的多头趋势中，但短期涨幅已可观，不宜追高，可等待回调机会。\n\n风险提示: 需警惕大盘系统性风险，若跌破MA10且放量下跌需及时止损",
+  "tags": [
+    "A股",
+    "偏强",
+    "持有"
+  ],
+  "importance_score": 6,
+  "processed_at": "2026-03-05T14:48:28.088806+00:00",
+  "market_data": {
+    "symbols": [
+      "301171"
+    ],
+    "price_change": {
+      "price": 51.71,
+      "change_pct": 1.61,
+      "change_amt": 0.82
+    },
+    "indicators": {
+      "volume": 6635067.0,
+      "turnover": 344054498.31,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 2.42,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote",
+    "trend": "偏强",
+    "signal": "持有",
+    "risk": "需警惕大盘系统性风险，若跌破MA10且放量下跌需及时止损",
+    "confidence": "中",
+    "sentiment_score": 65,
+    "dashboard": {
+      "core_conclusion": {
+        "one_sentence": "股价沿5日均线稳步上行，均线多头排列，可继续持有待涨",
+        "time_sensitivity": "今日内",
+        "position_advice": {
+          "no_position": "建议等待股价回踩MA10附近再考虑建仓，理想价位在50.5-51元区间",
+          "has_position": "可继续持有，设定止盈位55元，止损位49元"
+        }
+      },
+      "data_perspective": {
+        "ma_alignment": "MA5>MA10>MA20，多头排列",
+        "is_bullish": true,
+        "trend_score": 68,
+        "bias_ma5": 2.3,
+        "bias_status": "安全",
+        "support_level": "50.5元(MA10附近)",
+        "resistance_level": "55元",
+        "volume_status": "缩量",
+        "volume_meaning": "上涨过程中缩量，表明主力锁仓意愿强，筹码稳定性好"
+      },
+      "battle_plan": {
+        "ideal_buy": "50.5元",
+        "secondary_buy": "51元",
+        "stop_loss": "49元",
+        "take_profit": "55元",
+        "suggested_position": "30%-50%",
+        "entry_plan": "首次建仓30%，回踩MA10时加仓20%"
+      },
+      "checklist": [
+        "✅ 多头排列",
+        "✅ 乖离率合理",
+        "✅ 量能配合",
+        "⚠️ 需关注大盘走势"
+      ],
+      "risk_alerts": [
+        "市场整体走势偏弱可能影响个股表现",
+        "短期涨幅已有一定幅度，注意回调风险"
+      ],
+      "positive_catalysts": [
+        "跨境电商行业政策持续向好",
+        "AI营销技术应用前景广阔"
+      ],
+      "short_term_outlook": "预计短期1-3个交易日在50.5-53元区间震荡整理，等待5日均线跟上后有望继续上攻，需关注量能配合情况",
+      "medium_term_outlook": "中期1-2周有望挑战55元压力位，若能放量突破则打开新一轮上涨空间，可持有为主"
+    }
+  }
+}

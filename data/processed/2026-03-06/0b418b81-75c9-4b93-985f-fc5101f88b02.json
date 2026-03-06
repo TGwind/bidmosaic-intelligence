@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "伊朗是真完蛋",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1N7A9zHE6a",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:30.754904+00:00",
+  "id": "0b418b81-75c9-4b93-985f-fc5101f88b02",
+  "generated_title": "伊朗局势引发网络热议",
+  "generated_summary": "B站热门话题讨论伊朗现状，但缺乏具体信息内容，多为情绪化表达",
+  "generated_analysis": "",
+  "tags": [
+    "网络热门",
+    "国际关系",
+    "情绪化表达"
+  ],
+  "importance_score": 3,
+  "processed_at": "2026-03-06T02:17:04.430485+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5106998,
+    "platform": "bilibili"
+  }
+}

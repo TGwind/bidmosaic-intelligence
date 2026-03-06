@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": ".NET 11 ASP.NET Core预览版1带来全新的Blazor组件、改进的导航功能以及WebAssembly支持",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/GTCTH14eAiKrxaAoA7uc?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T17:00:00+00:00",
+  "id": "e1f5e01a-e354-4359-ae94-262e466a5450",
+  "generated_title": ".NET 11预览版发布：Blazor组件与WebAssembly迎重大更新",
+  "generated_summary": "微软发布.NET 11首个预览版，ASP.NET Core带来全新Blazor组件、改进的导航功能及WebAssembly支持。",
+  "generated_analysis": ".NET 11预览版的发布标志着微软在统一开发平台战略上迈出重要一步。Blazor组件的增强与WebAssembly支持的深化，意味着企业可以在浏览器端实现接近原生的性能体验，同时保持C#语言的开发效率，这对已有.NET技术栈的企业极具吸引力。\n\n从行业影响看，此次更新将加速Web应用开发向“全栈C#化”演进。Blazor的改进降低了前后端技术切换成本，有利于团队统一代码库、减少维护复杂度。WebAssembly能力的增强则拓展了.NET在边缘计算、客户端计算等场景的应用边界。\n\n对于企业决策者，建议关注两个趋势：一是跨平台渲染能力的成熟可能改变传统Web开发外包格局；二是微软通过持续投资Blazor，正在构建与React、Vue等前端框架正面竞争的技术生态。建议在技术选型评估中适当增加对Blazor的试点投入，以应对未来可能的前端技术洗牌。",
+  "tags": [
+    ".NET",
+    "ASP.NET Core",
+    "Blazor"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T15:00:56.784759+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

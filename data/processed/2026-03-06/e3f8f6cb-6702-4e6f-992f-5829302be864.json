@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The five AI value models driving business reinvention",
+  "raw_content": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+  "source_url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T00:00:00+00:00",
+  "id": "e3f8f6cb-6702-4e6f-992f-5829302be864",
+  "generated_title": "五大AI价值模型驱动企业转型",
+  "generated_summary": "OpenAI发布五大AI价值模型，指导企业从员工AI素养到流程重塑，建立持久竞争优势。",
+  "generated_analysis": "五大AI价值模型的发布标志着AI应用从技术探索进入系统化落地的关键阶段。OpenAI将AI价值实现路径划分为五个递进层次，涵盖员工AI素养提升、流程再造等维度，这一框架的发布具有重要的指导意义。它首次将企业AI转型抽象为可操作的路径模型，解决了当前多数企业面临的“知道AI有用但不知如何用”的核心困惑。\n\n对于行业和市场而言，这一模型将产生深远影响。首先，它会加速企业AI投资从盲目试水转向有的放矢，预计更多企业将建立系统化的AI实施路线图。其次，AI素养培训市场将迎来爆发期，人才能力建设成为企业AI战略的必要前置环节。第三，流程重塑将成为AI价值释放的核心战场，那些能够率先实现业务深度数字化的企业将建立显著竞争优势。\n\n从趋势判断看，AI竞争正在从技术本身转向应用深度，企业间的AI能力差距将进一步拉大。短期内，AI素养提升和基础应用将率先普及；中长期来看，能够将AI深度嵌入核心业务流程的企业将获得持久的差异化优势。企业决策者应将此框架作为战略参考，尽早启动员工能力建设和流程梳理，以应对正在加速的AI转型浪潮。",
+  "tags": [
+    "AI价值模型",
+    "企业转型",
+    "商业战略"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:33:44.057213+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Investor Advisory Committee to Host March 12 Meeting",
+  "raw_content": "The Securities and Exchange Commission’s&nbsp;Investor Advisory Committee will hold a public meeting at the SEC Headquarters in Washington D.C. on March 12 at 10 a.m. ET to discuss public company disclosure reform, fund proxy voting, and a potential…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-25-sec-investor-advisory-committee-host-march-12-meeting",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-05T15:30:07+00:00",
+  "id": "23444645-5a68-4c4a-ae46-5275e21df441",
+  "generated_title": "SEC投资者咨询委员会3月12日召开公开会议",
+  "generated_summary": "SEC投资者咨询委员会将于3月12日在华盛顿总部举办公开会议，讨论公众公司披露改革、基金代理投票及潜在议题。",
+  "generated_analysis": "",
+  "tags": [
+    "证券监管",
+    "投资者保护",
+    "政策动态"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-06T02:20:15.355880+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

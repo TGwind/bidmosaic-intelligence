@@ -1,0 +1,35 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
+  "raw_content": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-01-27T17:00:00+00:00",
+  "id": "70e7dbba-246c-41a2-ac83-0f19d569b5d9",
+  "generated_title": "微软UniRG：多模态强化学习提升医学影像报告生成",
+  "generated_summary": "微软研究院发布UniRG系统，利用强化学习技术提升医学视觉语言模型的报告生成能力，解决现有模型在不同报告方案下的性能挑战。",
+  "generated_analysis": "微软此次发布的UniRG系统标志着医学AI领域的一个重要技术突破。当前医学影像报告生成面临的核心痛点在于不同医疗机构采用的报告方案差异显著，传统模型难以有效适配这种多样性。UniRG通过引入强化学习框架，使视觉语言模型能够自主优化报告输出的准确性和一致性，这解决了行业长期存在的标准化难题。\n\n从市场影响来看，该技术对医疗信息化企业、影像设备厂商及AI医疗解决方案提供商均具有重要参考价值。一方面，它能显著降低医学影像报告的撰写成本，缓解基层医疗机构的影像科人力压力；另一方面，高质量的自动化报告有助于提升诊断效率，推动分级诊疗落地。\n\n展望未来一到两年，多模态强化学习在医疗领域的应用有望加速从研究走向临床。可以预期更多科技巨头和医疗AI企业将跟进这一技术路线，医学影像AI的竞争焦点可能从单纯的图像识别转向报告生成的智能化。与此同时，监管层面如何评估AI生成报告的合规性将成为行业需要共同面对的课题。",
+  "tags": [
+    "人工智能",
+    "医学影像",
+    "强化学习",
+    "视觉语言模型",
+    "微软"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:26:00.259555+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

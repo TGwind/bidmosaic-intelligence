@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "店员称vivo手机将涨10%-15%",
+  "raw_content": "店员称vivo手机将涨10%-15%",
+  "source_url": "https://www.toutiao.com/trending/7613319822642970667/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613319822642970667%22%2C%22hot_board_impr_id%22%3A%222026030515342384A79959823D7B68E839%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BA%97%E5%91%98%E7%A7%B0vivo%E6%89%8B%E6%9C%BA%E5%B0%86%E6%B6%A810%25-15%25%22%7D&rank=&style_id=40132&topic_id=7613319822642970667",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T07:34:23.617964+00:00",
+  "id": "903c8589-b30e-467d-bfee-e887fb6510f2",
+  "generated_title": "vivo手机将涨价10%-15%",
+  "generated_summary": "据店员透露，vivo手机即将涨价，幅度达10%-15%，具体原因和实施时间尚未确认。",
+  "generated_analysis": "vivo手机即将涨价10%-15%的消息，折射出当前智能手机行业面临的成本压力已从幕后走向台前。这一轮涨价并非单一品牌行为，而是上游供应链紧张、全球通胀传导及汇率波动等多重因素叠加的结果。值得注意的是，vivo作为国内市场份额排名前列的品牌，此番率先调价具有行业标杆意义，预计将引发其他厂商的跟进行动。\n\n从市场影响来看，涨价将直接压缩中端机型的性价比优势，可能促使部分消费者转向价格更具竞争力的品牌或延长换机周期。对于vivo而言，涨价策略短期内可缓解成本压力，但需警惕市场份额流失风险，尤其在竞争激烈的3000-4000元价位段。\n\n趋势判断：2024年手机行业整体涨价趋势已基本确立，但涨幅将呈现分化态势——高端机型因品牌溢价空间大受影响有限，中低端市场则面临更大挑战。建议企业决策者密切关注供应链成本变化，同时加大高端产品线布局以对冲中端市场的竞争风险。消费者可能更趋理性，性价比将成为市场竞争的关键变量。",
+  "tags": [
+    "手机",
+    "vivo",
+    "价格调整",
+    "数码"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:48:00.414060+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7117447",
+    "platform": "toutiao"
+  }
+}

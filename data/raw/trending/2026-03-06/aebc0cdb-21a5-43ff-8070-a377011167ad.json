@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "广州制衣村数百名老板街头排队招人",
+  "raw_content": "广州制衣村数百名老板街头排队招人",
+  "source_url": "https://www.toutiao.com/trending/7613907608658791945/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613907608658791945%22%2C%22hot_board_impr_id%22%3A%2220260306101517C3FE8970787A856E5938%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B9%BF%E5%B7%9E%E5%88%B6%E8%A1%A3%E6%9D%91%E6%95%B0%E7%99%BE%E5%90%8D%E8%80%81%E6%9D%BF%E8%A1%97%E5%A4%B4%E6%8E%92%E9%98%9F%E6%8B%9B%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7613907608658791945",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T02:15:17.729088+00:00",
+  "id": "aebc0cdb-21a5-43ff-8070-a377011167ad",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "36721602",
+    "platform": "toutiao"
+  }
+}

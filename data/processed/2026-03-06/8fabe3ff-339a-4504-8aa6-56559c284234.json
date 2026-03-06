@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Shape, Symmetries, and Structure: The Changing Role of Mathematics in Machine Learning Research",
+  "raw_content": "What is the Role of Mathematics in Modern Machine Learning?The past decade has witnessed a shift in how progress is made in machine learning. Research involving carefully designed and mathematically principled architectures result in only marginal improvements while compute-intensive and engineering-first efforts that scale to ever larger training sets",
+  "source_url": "https://thegradient.pub/shape-symmetry-structure/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2024-11-16T16:46:15+00:00",
+  "id": "8fabe3ff-339a-4504-8aa6-56559c284234",
+  "generated_title": "机器学习研究方法转型：数学角色正在弱化",
+  "generated_summary": "过去十年，机器学习领域从数学驱动转向工程驱动，精密数学架构的边际收益递减，计算扩展方法成为主要驱动力。",
+  "generated_analysis": "",
+  "tags": [
+    "机器学习",
+    "数学",
+    "研究方法",
+    "AI"
+  ],
+  "importance_score": 5,
+  "processed_at": "2026-03-06T02:27:30.901247+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

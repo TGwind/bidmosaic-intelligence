@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Board's discount rate meeting on December 10, 2025",
+  "raw_content": "Minutes of the Board's discount rate meeting on December 10, 2025",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260106a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-01-06T19:00:00+00:00",
+  "id": "2bb43c52-10b8-4153-b2f4-7abb406b8274",
+  "generated_title": "美联储12月10日贴现率会议纪要",
+  "generated_summary": "美联储公布2025年12月10日贴现率会议纪要，可能透露未来利率政策走向",
+  "generated_analysis": "我注意到您提到的会议日期是2025年12月10日，这是未来的日期，因此我无法分析一个尚未发生的会议纪要。\n\n如果您想了解美联储贴现率会议的一般分析方法，我可以提供以下分析框架：\n\n1. 关注点：分析美联储贴现率会议时，应重点关注与会委员对经济前景的评估、通胀压力判断、就业市场状况以及利率政策走向的分歧程度。\n\n2. 影响因素：贴现率调整通常反映美联储对货币政策的立场变化，需结合当时的经济数据和市场预期进行分析。\n\n3. 市场影响：贴现率变化会影响银行同业拆借成本，进而影响整体利率水平和金融市场走势。\n\n如果您能提供具体日期的实际会议纪要或相关经济数据，我可以为您撰写一份专业的深度分析。",
+  "tags": [
+    "美联储",
+    "货币政策",
+    "利率"
+  ],
+  "importance_score": 8,
+  "processed_at": "2026-03-06T02:21:22.232072+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

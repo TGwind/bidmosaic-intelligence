@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Italian prosecutors confirm journalist was hacked with Paragon spyware",
+  "raw_content": "Italian authorities are making progress in their investigation into a wide-ranging spyware scandal in Italy involving Paragon spyware. But the mystery of who hacked two Italian journalists with Paragon spyware continues.",
+  "source_url": "https://techcrunch.com/2026/03/05/italian-prosecutors-confirm-journalist-was-hacked-with-paragon-spyware/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T20:32:57+00:00",
+  "id": "a9829815-3f0f-405b-bac3-590c08c375c5",
+  "generated_title": "意大利检方确认记者遭Paragon间谍软件入侵",
+  "generated_summary": "意大利当局对Paragon间谍软件丑闻调查取得进展，但入侵两名记者的幕后黑手仍不明。",
+  "generated_analysis": "意大利Paragon间谍软件入侵记者事件深度分析：\n\n背景与意义：\n意大利检方确认两名记者遭Paragon间谍软件入侵，标志着 spyware 监管议题从技术层面上升至新闻自由与公民权利保护的核心层面。Paragon作为商业间谍软件，其技术能力足以渗透主流通讯平台，此事件揭示了监控技术滥用的严重风险。\n\n行业影响：\n1. 网络安全产业将面临更严格的合规审查，尤其是商业监控软件的出口与使用\n2. 媒体与通信行业对端到端加密的需求将进一步激增\n3. 企业数据安全预算可能上升，决策者需防范此类高级持续性威胁(APT)\n\n趋势判断：\n预计欧盟将进一步收紧spyware监管框架，可能出台类似GDPR的数据保护强化法规。企业应建立更完善的终端安全体系，并审视第三方软件供应链的安全风险。",
+  "tags": [
+    "间谍软件",
+    "黑客攻击",
+    "隐私安全",
+    "新闻自由"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:29:46.035719+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

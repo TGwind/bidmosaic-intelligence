@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Create new worlds in Project Genie with these 4 tips",
+  "raw_content": "A screen capture of Project Genie, an experimental interface showing a grid of circular images, many of which appear to be 360-degree views, with a large, central black globe labeled Create your own",
+  "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T17:00:00+00:00",
+  "id": "a77b4c28-9953-45c5-8dbc-3562bb552800",
+  "generated_title": "Google Project Genie发布：用四个技巧创建3D世界",
+  "generated_summary": "Google推出实验性AI工具Project Genie，可生成360度3D场景，支持用户自定义创建虚拟世界。",
+  "generated_analysis": "Google此次发布Project Genie，标志着AI生成内容从2D图像向3D空间的重要跨越。该工具能够生成360度全景3D场景并支持用户自定义创建，本质上是在降低虚拟世界构建的技术门槛和成本，这或将深刻改变数字内容创作的游戏规则。\n\n对于行业而言，Project Genie的影响将首先体现在三个领域：一是游戏与元宇宙开发，场景生成效率有望大幅提升，传统依赖专业美术团队的开发模式将面临转型；二是建筑设计与房地产营销，3D可视化将更加普惠，中小企业也能负担高质量虚拟看房体验；三是教育培训与广告营销，沉浸式内容创作将迎来爆发期。\n\n从趋势判断来看，AI驱动的3D内容生成正处于爆发前夜。Google的入局将加速这一赛道的竞争格局演变，预计未来一到两年内将有更多科技巨头和创业企业涌入。对企业决策者而言，需要密切关注两项关键能力建设：一是将AI 3D工具整合进现有工作流的能力，二是基于这些新技术开发差异化产品与服务的能力。那些率先拥抱空间智能创作工具的企业，将在数字内容竞争中将占据先机。",
+  "tags": [
+    "人工智能",
+    "Google",
+    "3D技术",
+    "实验项目"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:29:53.596903+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

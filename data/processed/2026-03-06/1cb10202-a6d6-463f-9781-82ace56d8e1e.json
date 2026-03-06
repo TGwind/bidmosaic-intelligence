@@ -1,0 +1,33 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Philip R. Lane: Interview with Financial Times",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260303~768fa10188.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-03T05:00:00+00:00",
+  "id": "1cb10202-a6d6-463f-9781-82ace56d8e1e",
+  "generated_title": "欧洲央行首席经济学家就货币政策接受金融时报采访",
+  "generated_summary": "欧洲央行首席经济学家Philip R. Lane接受金融时报采访，就欧元区经济前景与货币政策立场发表讲话",
+  "generated_analysis": "欧洲央行首席经济学家Lane此次接受采访正值欧元区经济面临增长放缓与通胀压力交织的关键时期。作为央行货币政策制定的核心人物，Lane的公开表态通常被视为政策走向的重要信号，对市场预期具有显著引导作用。\n\n从行业影响来看，此次采访释放的货币政策信号将直接影响企业融资成本、跨境投资决策以及金融机构资产配置策略。若央行维持或调整当前紧缩立场，将波及银行信贷业务、债券市场定价以及欧元汇率走势，进而影响进出口企业的盈利预期。\n\n对于企业决策者而言，需重点关注以下趋势判断：一是欧元区经济软着陆可能性及通胀回落节奏；二是欧洲央行未来利率决策的路径选择；三是货币政策调整对欧元区和全球金融市场的外溢效应。建议企业加强汇率风险管理，优化跨境资金安排，并密切关注央行官员的后续表态，以及时调整经营策略应对潜在的市场波动。",
+  "tags": [
+    "欧洲央行",
+    "货币政策",
+    "欧元区经济"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-06T02:20:06.315498+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

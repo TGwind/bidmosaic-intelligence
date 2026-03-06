@@ -1,0 +1,34 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "GPT-5.3 Instant System Card",
+  "raw_content": "",
+  "source_url": "https://openai.com/index/gpt-5-3-instant-system-card",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T10:00:00+00:00",
+  "id": "b76ea46d-b75e-4a91-9799-9cbbbd704fd1",
+  "generated_title": "OpenAI发布GPT-5.3系统文档",
+  "generated_summary": "OpenAI发布GPT-5.3版本即时系统文档，详细说明模型功能与安全评估信息",
+  "generated_analysis": "GPT-5.3系统文档的发布标志着OpenAI在模型透明度方面迈出了重要一步。当前大模型竞争已从单纯的能力提升转向综合竞争力的较量，包括可解释性、安全性和可控性。系统文档的详细披露反映了AI行业正在从“技术优先”向“治理优先”转型，这将对行业格局产生深远影响。\n\n对于市场而言，文档化、透明化的模型说明有助于企业客户更准确地评估技术风险与收益，降低采用门槛，推动AI在各行业的落地速度。同时，安全评估信息的公开也将为监管机构提供重要参考，可能加速行业标准的形成。\n\n可以预见，未来AI厂商将在模型能力与透明度之间寻求平衡，安全评估报告和系统文档将成为差异化竞争的关键维度。企业决策者应密切关注这一趋势，将供应商的透明度水平纳入评估体系。",
+  "tags": [
+    "OpenAI",
+    "GPT-5",
+    "大语言模型",
+    "AI安全"
+  ],
+  "importance_score": 7,
+  "processed_at": "2026-03-05T14:58:02.076553+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}
