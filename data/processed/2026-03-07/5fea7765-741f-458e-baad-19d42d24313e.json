@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗总统：绝不可能无条件投降",
+  "raw_content": "伊朗总统：绝不可能无条件投降",
+  "source_url": "https://www.toutiao.com/trending/7614361519497117722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227614361519497117722%22%2C%22hot_board_impr_id%22%3A%2220260307205010A56507492534F59A7F23%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%BB%9D%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%97%A0%E6%9D%A1%E4%BB%B6%E6%8A%95%E9%99%8D%22%7D&rank=&style_id=40132&topic_id=7614361519497117722",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-07T12:50:10.410991+00:00",
+  "id": "5fea7765-741f-458e-baad-19d42d24313e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T12:50:32.881144+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7991704",
+    "platform": "toutiao"
+  }
+}

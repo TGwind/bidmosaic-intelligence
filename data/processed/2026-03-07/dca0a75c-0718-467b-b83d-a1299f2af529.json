@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "速览“十五五”20项主要指标",
-  "raw_content": "速览“十五五”20项主要指标",
-  "source_url": "https://www.toutiao.com/article/7614014747688370738",
+  "raw_title": "打开2026年政府工作十大任务",
+  "raw_content": "打开2026年政府工作十大任务",
+  "source_url": "https://www.toutiao.com/article/7613909074773639720",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-07T02:01:45.896248+00:00",
-  "id": "a083ff98-ca34-4f01-b9f7-736190610230",
+  "collected_at": "2026-03-07T12:50:10.410949+00:00",
+  "id": "dca0a75c-0718-467b-b83d-a1299f2af529",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-07T12:50:32.892685+00:00",
+  "processed_at": "2026-03-07T12:50:32.892628+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "40300911",
+    "hot_score": "13176093",
     "platform": "toutiao"
   }
 }

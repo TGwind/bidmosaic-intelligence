@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "爱在一生中占多少百分比",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1EZAozDEA6",
+  "raw_title": "今天是周总理诞辰128周年，请停留3秒，向敬爱的周总理献花",
+  "raw_content": "今天是周总理诞辰128周年，请停留3秒，向敬爱的周总理献花",
+  "source_url": "https://www.bilibili.com/video/BV1P6PiziEej",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-07T06:42:32.886341+00:00",
-  "id": "20866766-dac4-444f-9f6a-3581251f6bcd",
+  "collected_at": "2026-03-07T12:50:11.320634+00:00",
+  "id": "6f202283-0f1f-478b-8dcf-6918cc0a8c49",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-07T12:50:32.881620+00:00",
+  "processed_at": "2026-03-07T12:50:32.885163+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2304356,
+    "hot_score": 1524912,
     "platform": "bilibili"
   }
 }

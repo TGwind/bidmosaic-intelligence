@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "爱在一生中占多少百分比",
+  "raw_title": "《比我想象的还要糟糕》",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1EZAozDEA6",
+  "source_url": "https://www.bilibili.com/video/BV1pAPBzzEVL",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-07T06:42:32.886341+00:00",
-  "id": "20866766-dac4-444f-9f6a-3581251f6bcd",
+  "collected_at": "2026-03-07T12:50:11.320700+00:00",
+  "id": "1faceee0-5ac2-4d53-a49b-970fc3ea22c4",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-07T12:50:32.881620+00:00",
+  "processed_at": "2026-03-07T12:50:32.875884+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2304356,
+    "hot_score": 3967645,
     "platform": "bilibili"
   }
 }

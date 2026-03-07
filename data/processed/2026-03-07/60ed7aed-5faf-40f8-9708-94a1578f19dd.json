@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "卫健委提醒这几类人群做好癌症筛查",
+  "raw_content": "卫健委提醒这几类人群做好癌症筛查",
+  "source_url": "https://www.toutiao.com/trending/7614356849129324582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227614356849129324582%22%2C%22hot_board_impr_id%22%3A%2220260307205010A56507492534F59A7F23%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%AB%E5%81%A5%E5%A7%94%E6%8F%90%E9%86%92%E8%BF%99%E5%87%A0%E7%B1%BB%E4%BA%BA%E7%BE%A4%E5%81%9A%E5%A5%BD%E7%99%8C%E7%97%87%E7%AD%9B%E6%9F%A5%22%7D&rank=&style_id=40132&topic_id=7614356849129324582",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-07T12:50:10.410933+00:00",
+  "id": "60ed7aed-5faf-40f8-9708-94a1578f19dd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T12:50:32.884750+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16093316",
+    "platform": "toutiao"
+  }
+}
