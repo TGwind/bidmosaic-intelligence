@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Lisa D Cook: Opening remarks for the \"AI and productivity across the economy\" panel",
+  "raw_content": "Opening remarks by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 42nd Annual NABE (National Association for Business Economics) Economic Policy Conference \"The great realignment: navigating AI, demographic and geoeconomic shifts\", Washington DC, 24 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-07T08:40:07.783995+00:00",
+  "id": "6781e605-caa3-4f8f-b37e-1950613dbda1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
