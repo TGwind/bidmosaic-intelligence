@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "OSHA probing fatality at Rivian warehouse",
+  "raw_content": "A 61-year-old worker died on Thursday after reportedly getting stuck between a tractor trailer and a loading dock.",
+  "source_url": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-06T20:23:08+00:00",
+  "id": "431639ee-9fe3-4ffe-9a8e-32480db1f48f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T13:03:25.150247+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

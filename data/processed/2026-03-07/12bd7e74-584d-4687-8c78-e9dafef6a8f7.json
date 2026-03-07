@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Joachim Nagel: Central banking in an age of geoeconomic fragmentation and global uncertainty",
+  "raw_content": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the 157th Baden-Badener Unternehmer Gespräche, Baden-Baden, 1 March 2026.",
+  "source_url": "https://www.bis.org/review/r260303h.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-07T13:02:31.000547+00:00",
+  "id": "12bd7e74-584d-4687-8c78-e9dafef6a8f7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T13:03:25.098453+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
