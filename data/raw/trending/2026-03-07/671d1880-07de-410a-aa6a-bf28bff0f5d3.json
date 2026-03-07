@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "一声妈妈，一生妈妈",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1p7PvzYELc",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-07T06:42:32.886349+00:00",
+  "id": "671d1880-07de-410a-aa6a-bf28bff0f5d3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6151379,
+    "platform": "bilibili"
+  }
+}

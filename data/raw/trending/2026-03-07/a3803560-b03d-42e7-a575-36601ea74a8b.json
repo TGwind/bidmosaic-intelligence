@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "逆天小游戏2151",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1nGPKzVEvM",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-07T06:42:32.886390+00:00",
+  "id": "a3803560-b03d-42e7-a575-36601ea74a8b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2001735,
+    "platform": "bilibili"
+  }
+}
