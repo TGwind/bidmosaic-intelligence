@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "锚定发展目标 释放政策红利",
+  "raw_content": "锚定发展目标 释放政策红利",
+  "source_url": "https://www.toutiao.com/article/7614404921110184498",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-07T18:35:45.536198+00:00",
+  "id": "b9f7643c-09ae-408f-b7a7-8ef2fd66c5ae",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "19551672",
+    "platform": "toutiao"
+  }
+}
