@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations",
+  "raw_content": "Human-Computer Interaction and Visualization",
+  "source_url": "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-10T18:30:00+00:00",
+  "id": "55cc2675-8df0-4f1d-a91c-0b90c021b13e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T02:35:38.917154+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Adopts Final Rules for the Holding Foreign Insiders Accountable Act",
+  "raw_content": "The Securities and Exchange Commission today adopted final rule and form amendments to reflect the requirements of the recently enacted Holding Foreign Insiders Accountable Act (HFIA), which will increase transparency into the holdings and transactions…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-23-sec-adopts-final-rules-holding-foreign-insiders-accountable-act",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-27T16:00:00+00:00",
+  "id": "640d32cb-4916-4ed0-ba8d-3cac6efe3f57",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T02:35:38.926786+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Pakistan's parliament passes the Virtual Assets Act of 2026",
+  "raw_content": "The bill legally formalizes oversight over Pakistan's crypto industry, sanctions compliance and anti-money laundering regulations.",
+  "source_url": "https://cointelegraph.com/news/pakistan-pass-virtual-asset-act-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-06T17:33:24+00:00",
+  "id": "ddc472d2-88c0-49c2-b058-93fab55a6233",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T02:35:38.994349+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
