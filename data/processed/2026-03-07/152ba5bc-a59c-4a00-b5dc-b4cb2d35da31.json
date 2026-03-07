@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "USDC beats Tether as stablecoin transfer volume hits $1.8T all-time high",
+  "raw_content": "Stablecoin monthly transaction volume reached a record $1.8 trillion in February, as USDC surprised analysts with 70% of the total volume.",
+  "source_url": "https://cointelegraph.com/news/usdc-beats-tether-stablecoin-transfer-volume-1-8-trillion-all-time-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-07T10:47:13+00:00",
+  "id": "152ba5bc-a59c-4a00-b5dc-b4cb2d35da31",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T16:37:32.874691+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

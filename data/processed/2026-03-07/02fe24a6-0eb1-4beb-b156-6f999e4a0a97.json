@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin dip may not be over as retail ramps up buying below $70K: Santiment",
+  "raw_content": "Bitcoin whales have sold about 66% of the Bitcoin they recently accumulated since Wednesday, according to crypto sentiment platform Santiment.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-decline-downside-retail-whales-pattern-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-07T06:02:01+00:00",
+  "id": "02fe24a6-0eb1-4beb-b156-6f999e4a0a97",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T16:37:32.821991+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
