@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Henry F Saamoi: Welcome address &#8211; \"Joint Opening Ceremony of the 67th Ordinary Meeting of The Committee of Governors of Central Banks of ECOWAS Member States\"",
+  "raw_content": "Welcome address by Mr Henry F Saamoi, Executive Governor of the Central Bank of Liberia, at the Joint Opening Ceremony of the Sixty Seventh Ordinary Meeting of the Committee of Governors of Central Banks of ECOWAS Member States (WAMA)/ Fifty Second Meeting of Committee of Governors of the West African Monetary Zone (WAMI)/ Fiftieth Board of Governors' Meeting of the West African Institute for Financial and Economic Management (WAIFEM), Monrovia, 12 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-07T20:34:16.186315+00:00",
+  "id": "3c665016-3e4a-427c-b46d-0c88ca707ffd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
