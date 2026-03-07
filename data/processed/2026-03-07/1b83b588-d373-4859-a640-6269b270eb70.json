@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "逆天小游戏2151",
+  "raw_title": "【Tarokiki 无修音】远航星的告别",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1nGPKzVEvM",
+  "source_url": "https://www.bilibili.com/video/BV1VWP4z4Eem",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-07T12:50:11.320710+00:00",
-  "id": "38d0d621-616a-4af9-9887-d354c7e4fbcf",
+  "collected_at": "2026-03-07T18:35:46.270944+00:00",
+  "id": "1b83b588-d373-4859-a640-6269b270eb70",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-07T18:36:10.925505+00:00",
+  "processed_at": "2026-03-07T18:36:10.922581+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2213027,
+    "hot_score": 793143,
     "platform": "bilibili"
   }
 }

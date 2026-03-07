@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "22型导弹艇单挑数千吨级外舰毫不退缩",
+  "raw_content": "22型导弹艇单挑数千吨级外舰毫不退缩",
+  "source_url": "https://www.toutiao.com/trending/7613965988623450175/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227613965988623450175%22%2C%22hot_board_impr_id%22%3A%222026030802354556515749235E01A35572%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2222%E5%9E%8B%E5%AF%BC%E5%BC%B9%E8%89%87%E5%8D%95%E6%8C%91%E6%95%B0%E5%8D%83%E5%90%A8%E7%BA%A7%E5%A4%96%E8%88%B0%E6%AF%AB%E4%B8%8D%E9%80%80%E7%BC%A9%22%7D&rank=&style_id=40132&topic_id=7613965988623450175",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-07T18:35:45.536097+00:00",
+  "id": "32b1793d-420e-477b-854e-8c820fe00eb4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T18:36:10.924662+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "43513046",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "朱芳雨操盘布局能助广东男篮夺冠吗",
+  "raw_content": "朱芳雨操盘布局能助广东男篮夺冠吗",
+  "source_url": "https://www.toutiao.com/trending/7614332626618351652/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227614332626618351652%22%2C%22hot_board_impr_id%22%3A%222026030802354556515749235E01A35572%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%B1%E8%8A%B3%E9%9B%A8%E6%93%8D%E7%9B%98%E5%B8%83%E5%B1%80%E8%83%BD%E5%8A%A9%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%E5%A4%BA%E5%86%A0%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7614332626618351652",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-07T18:35:45.536232+00:00",
+  "id": "31996fbf-3927-43f1-9f25-91492032713e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T18:36:10.926801+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13105877",
+    "platform": "toutiao"
+  }
+}

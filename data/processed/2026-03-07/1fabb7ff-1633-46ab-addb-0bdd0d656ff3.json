@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "逆天小游戏2151",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1nGPKzVEvM",
+  "raw_title": "今天是周总理诞辰128周年，请停留3秒，向敬爱的周总理献花",
+  "raw_content": "今天是周总理诞辰128周年，请停留3秒，向敬爱的周总理献花",
+  "source_url": "https://www.bilibili.com/video/BV1P6PiziEej",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-07T12:50:11.320710+00:00",
-  "id": "38d0d621-616a-4af9-9887-d354c7e4fbcf",
+  "collected_at": "2026-03-07T18:35:46.270936+00:00",
+  "id": "1fabb7ff-1633-46ab-addb-0bdd0d656ff3",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-07T18:36:10.925505+00:00",
+  "processed_at": "2026-03-07T18:36:10.923205+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2213027,
+    "hot_score": 1627453,
     "platform": "bilibili"
   }
 }

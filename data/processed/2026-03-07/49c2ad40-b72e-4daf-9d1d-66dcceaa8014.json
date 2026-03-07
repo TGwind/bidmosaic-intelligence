@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "逆天小游戏2151",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1nGPKzVEvM",
+  "raw_title": "老师：今天抬头率这么高？",
+  "raw_content": "记得三连",
+  "source_url": "https://www.bilibili.com/video/BV1fuPLzKER6",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-07T12:50:11.320710+00:00",
-  "id": "38d0d621-616a-4af9-9887-d354c7e4fbcf",
+  "collected_at": "2026-03-07T18:35:46.271020+00:00",
+  "id": "49c2ad40-b72e-4daf-9d1d-66dcceaa8014",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-07T18:36:10.925505+00:00",
+  "processed_at": "2026-03-07T18:36:10.925051+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2213027,
+    "hot_score": 5298578,
     "platform": "bilibili"
   }
 }
