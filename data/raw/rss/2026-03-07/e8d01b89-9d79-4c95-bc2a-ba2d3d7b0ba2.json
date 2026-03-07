@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CoinDesk 20 performance update: Aave drops 4.3% as all index constituents trade lower",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-indices/2026/03/06/coindesk-20-performance-update-aave-drops-4-3-as-all-index-constituents-trade-lower",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-06T14:18:17+00:00",
+  "id": "e8d01b89-9d79-4c95-bc2a-ba2d3d7b0ba2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
