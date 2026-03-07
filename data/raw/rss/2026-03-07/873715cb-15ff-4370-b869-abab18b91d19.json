@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Probing Memes in LLMs: A Paradigm for the Entangled Evaluation World",
+  "raw_content": "arXiv:2603.04408v1 Announce Type: new \nAbstract: Current evaluation paradigms for large language models (LLMs) characterize models and datasets separately, yielding coarse descriptions: items in datasets are treated as pre-labeled entries, and models are summarized by overall scores such as accuracy, together ignoring the diversity of population-level model behaviors across items with varying properties. To address this gap, this paper conceptualizes LLMs as composed of memes, a notion introduced by Dawkins as cultural genes that replicate knowledge and behavior. Building on this perspective, the Probing Memes paradigm reconceptualizes evaluation as an entangled world of models and data. It centers on a Perception Matrix that captures model-item interactions, enabling Probe Properties for characterizing items and Meme Scores for depicting model behavioral traits. Applied to 9 datasets and 4,507 LLMs, Probing Memes reveals hidden capability structures and quantifies phenomena invisible under traditional paradigms (e.g., elite models failing on problems that most models answer easily). It not only supports more informative and extensible benchmarks but also enables population-based evaluation of LLMs.",
+  "source_url": "https://arxiv.org/abs/2603.04408",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-06T05:00:00+00:00",
+  "id": "873715cb-15ff-4370-b869-abab18b91d19",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
