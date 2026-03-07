@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Gemini 3 Flash: frontier intelligence built for speed",
+  "raw_content": "Gemini 3 Flash offers frontier intelligence built for speed at a fraction of the cost.",
+  "source_url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2025-12-17T11:58:17+00:00",
+  "id": "375e3de5-9401-4525-b592-a204faccd2e8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T08:40:47.106079+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}
