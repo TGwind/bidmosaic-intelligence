@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Top Wall Street minds see AI rotation ahead as bitcoin seeks role in new cycle",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/07/top-wall-street-minds-see-ai-rotation-ahead-as-bitcoin-seeks-role-in-new-cycle",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-07T17:00:00+00:00",
+  "id": "b22cedfb-fc17-4c58-b35f-db57746797aa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T20:36:59.504680+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

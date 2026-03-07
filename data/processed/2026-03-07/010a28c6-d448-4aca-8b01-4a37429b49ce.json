@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Burkhard Balz: European finance at the fault lines of transatlantic relations",
+  "raw_content": "Keynote speech by Mr Burkhard Balz, Member of the Executive Board of the Deutsche Bundesbank, at the London Regional Chapter of the Atlantik-Brücke e.V., London, 25 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-07T20:34:16.186289+00:00",
+  "id": "010a28c6-d448-4aca-8b01-4a37429b49ce",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-07T20:36:59.360362+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
