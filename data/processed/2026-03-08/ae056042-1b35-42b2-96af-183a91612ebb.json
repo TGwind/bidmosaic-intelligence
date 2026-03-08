@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto Fear and Greed Index falls back down to 'extreme fear' levels",
+  "raw_content": "Crypto investor sentiment has been in freefall ever since the October 2025 market crash that kicked off a sustained downturn in digital assets.",
+  "source_url": "https://cointelegraph.com/news/crypto-fear-greed-index-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-07T22:05:54+00:00",
+  "id": "ae056042-1b35-42b2-96af-183a91612ebb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T02:48:28.306733+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
