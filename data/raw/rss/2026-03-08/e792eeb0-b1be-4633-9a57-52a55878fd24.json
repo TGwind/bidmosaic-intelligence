@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee publishes more details on the 2025 assessment of global systemically important banks",
+  "raw_content": "Basel Committee provides additional information regarding the 2025 G-SIB assessment.\nFurther details include global denominators and individual bank indicators.\nThe release accompanies the Financial Stability Board's updated G-SIB list.",
+  "source_url": "https://www.bis.org/press/p251127.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-08T05:12:35.500208+00:00",
+  "id": "e792eeb0-b1be-4633-9a57-52a55878fd24",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

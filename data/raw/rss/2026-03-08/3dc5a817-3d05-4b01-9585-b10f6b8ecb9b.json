@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Grok delivers viral vulgar roasts of Musk, Netanyahu and Starmer",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Grok delivers viral vulgar roasts of Musk, Netanyahu and Starmer\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2M3OTMtNDI4Ni03OTgzLTk0YWYtODQxNWFkNDM3YmI4LmpwZw==.jpg\" /></p><p>xAI’s Grok drew massive attention on X after delivering profanity-filled roasts of Elon Musk, Benjamin Netanyahu and Keir Starmer following user prompts.</p>",
+  "source_url": "https://cointelegraph.com/news/grok-viral-roasts-musk-netanyahu-starmer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-07T09:36:52+00:00",
+  "id": "3dc5a817-3d05-4b01-9585-b10f6b8ecb9b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
