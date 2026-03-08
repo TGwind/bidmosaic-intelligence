@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗外长称美袭击海水淡化厂是犯罪",
+  "raw_content": "伊朗外长称美袭击海水淡化厂是犯罪",
+  "source_url": "https://www.toutiao.com/trending/7614092198846824502/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227614092198846824502%22%2C%22hot_board_impr_id%22%3A%222026030810114148C9B2A2F9BFA55BDBF3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E7%A7%B0%E7%BE%8E%E8%A2%AD%E5%87%BB%E6%B5%B7%E6%B0%B4%E6%B7%A1%E5%8C%96%E5%8E%82%E6%98%AF%E7%8A%AF%E7%BD%AA%22%7D&rank=&style_id=40132&topic_id=7614092198846824502",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-08T02:11:41.907741+00:00",
+  "id": "ffd13202-7c7a-4f1d-b655-fd7c7e06fc3f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15691911",
+    "platform": "toutiao"
+  }
+}
