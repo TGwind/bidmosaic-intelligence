@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "100克的纯金手机壳？影视飓风怪东西分享8.0",
+  "raw_content": "众所周知，我们公司每年都会在各种奇奇怪怪的东西上花不少预算。这次，我们又入手了一堆离谱的东西，100克的纯金手机壳、奇怪的监控、一台让人摸不着头脑的车……所以欢迎收看影视飓风怪东西分享8.0。如果你喜欢这期节目，请多多支持我们，并把视频分享给你的朋友们一起看看！",
+  "source_url": "https://www.bilibili.com/video/BV1GPPxznEAb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-08T12:51:48.614257+00:00",
+  "id": "02037d0d-9000-48d0-8aa5-ec59adc5ace6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3392931,
+    "platform": "bilibili"
+  }
+}
