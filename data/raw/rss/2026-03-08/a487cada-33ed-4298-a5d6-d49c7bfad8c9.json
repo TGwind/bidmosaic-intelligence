@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Swaminathan J: Good finance, good leadership - on the road to Viksit Bharat@2047",
+  "raw_content": "Keynote address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the Third International Finance and Accounting Conference (IFAC) at the Indian Institute of Management (IIM), Jammu, 27 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303i.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-08T02:46:36.433272+00:00",
+  "id": "a487cada-33ed-4298-a5d6-d49c7bfad8c9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

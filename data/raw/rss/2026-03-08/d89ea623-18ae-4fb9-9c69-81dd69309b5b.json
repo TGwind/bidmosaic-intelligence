@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+  "raw_content": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges.",
+  "source_url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-12T16:15:09+00:00",
+  "id": "d89ea623-18ae-4fb9-9c69-81dd69309b5b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

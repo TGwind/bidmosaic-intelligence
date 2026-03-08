@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "亚洲股市波动，中东局势带来连锁反应",
+  "raw_content": "<address>MEAGHAN TOBIN</address><time datetime=\"2026-03-06 08:53:36\">2026年3月6日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/03/05/multimedia/00Biz-Iran-AI-Energy-cght/00Biz-Iran-AI-Energy-cght-master1050.jpg\" width=\"1050\" /><figcaption>周四，首尔韩亚银行总行的外汇交易员。 <cite>Ahn Young-Joon/Associated Press</cite></figcaption></figure><section><p>亚洲大多数地区的股市周四出现反弹。此前一天，由于投资者担心该地区对进口石油和天然气的高度依赖，市场曾大幅下跌。</p><p>这种反转凸显了全球投资者的高度敏感反应，他们正试图评估美国和以色列对伊朗发动打击所带来的即时影响以及可能产生的长期后果，以及这些行动在波斯湾地区引发的连锁反应——该地区是全球主要的石油和天然气产地。</p><p>韩国综合股价指数的波动尤其明显，该指数曾<a href=\"https://www.nytimes.com/2026/03/04/business/iran-stocks-natural-gas-oil.html\">暴跌</a>12%，创下最大单日跌幅，随后在周四反弹，收盘时上涨近10%。周三盘中，该指数一度下跌过快触发临时停牌，以阻止继续下跌。</p><p>台湾股市也出现波动，周三下跌逾4%，24小时后又反弹了近3%。</p><p>亚洲市场的回升受到周三美国股市交易走势的带动。在特朗普总统建议美国海军可能在霍尔木兹海峡为船只护航，以及法国总统马克龙呼吁建立一个国际联盟来帮助确保商业航道安全后，美国股市本周首次开盘走高。</p><p>过去一年里，由于对人工智能的极度乐观情绪，投资者大举投资台湾和韩国的科技股。这两个地区生产着全球人工智能系统所需的大部分设备，例如计算机芯片和服务器。但与此同时，它们几乎所有能源都依赖进口。</p><p>股市的起伏不仅让人看到这两个东亚民主政体在全球经济中扮演的核心角色，也让人看到投资者对人工智能依然保持着强烈的看涨情绪。</p><p>股票研究公司Arete Research的高级分析师吉姆·丰塔内利表示，股价的波动“并不反映人工智能基本面发生了变化”。</p><p>“对人工智能乐观情绪的质疑过去几年一直是所有这些股票的一个不变主题，”他说。“这场冲突对这个问题没什么直接影响。”</p><p>今年2月，东亚许多大型公司的股价曾创下历史新高，包括为苹果和英伟达生产芯片的台积电，以及为英伟达热门人工智能服务器生产存储芯片的三星电子和SK海力士。周三，这三家公司股价都收跌，之后又出现反弹。</p><p>“中东冲突可能不会直接影响台积电和三星等公司的基本面需求，”瑞士瑞联银行驻新加坡的股票顾问凌炜森表示。“即便战争爆发，对人工智能基础设施的大规模投资仍可能持续多年。”</p><p>但如果中东冲突旷日持久，不断扩大，亚洲能源供应受阻，就可能损害芯片生产这种高度依赖电力的产业。</p><p>台北市场研究公司集邦科技分析师兰迪·杨（音）表示，由于严重依赖进口石油和天然气，一旦能源供应出现中断，亚洲的半导体制造中心将首当其冲受到冲击。兰迪·杨表示，美国的人工智能基础设施建设面临的波斯湾冲突风险较低，因为美国可以依赖自己的能源。</p></section><footer><p><a href=\"https://www.nytimes.com/by/meaghan-tobin\" rel=\"nofollow\" target=\"_blank\">Meaghan Tobin</a>是时报科技记者，常驻台北，报道亚洲地区的商业和科技新闻，重点关注中国。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/03/05/business/stocks-asia-iran-energy.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "https://cn.nytimes.com/business/20260306/stocks-asia-iran-energy/",
+  "source_name": "纽约时报中文网",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-06T01:07:02+00:00",
+  "id": "819b9ec8-9861-42a5-bdbb-dfca036d7f1d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nytimes.xml",
+    "category": "china_news",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 86
+  }
+}

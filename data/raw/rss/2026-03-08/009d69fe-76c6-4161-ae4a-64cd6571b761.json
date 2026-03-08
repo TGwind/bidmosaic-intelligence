@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Controlling Floating-Point Determinism in NVIDIA CCCL",
+  "raw_content": "<img alt=\"Decorative image.\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Floating-Point-CUB-768x432.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" title=\"Floating-Point-CUB\" width=\"768\" />A computation is considered deterministic if multiple runs with the same input data produce the same bitwise result. While this may seem like a simple property...",
+  "source_url": "https://developer.nvidia.com/blog/controlling-floating-point-determinism-in-nvidia-cccl/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T17:00:00+00:00",
+  "id": "009d69fe-76c6-4161-ae4a-64cd6571b761",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}
