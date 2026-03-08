@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "我好像买到了一只星期猫",
+  "raw_content": "我好像买到了一只星期猫",
+  "source_url": "https://www.bilibili.com/video/BV13ZAZz6EG9",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-08T02:11:42.552180+00:00",
+  "id": "7e2f0c4a-f2bb-458d-aeae-e0236b827cd9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T02:12:03.975545+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5321607,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "全球最大机场——但是倒闭了【神奇组织49】",
+  "raw_content": "本篇为神奇组织之米拉贝尔机场工程。",
+  "source_url": "https://www.bilibili.com/video/BV1LePvzQEDb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-08T02:11:42.552217+00:00",
+  "id": "cddc303d-9f0c-4613-a1df-bd6aeb9a05fd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T02:12:03.978496+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2801495,
+    "platform": "bilibili"
+  }
+}

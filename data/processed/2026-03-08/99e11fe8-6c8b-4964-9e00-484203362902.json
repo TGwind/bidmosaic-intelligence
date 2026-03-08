@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【Tarokiki 无修音】远航星的告别",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1VWP4z4Eem",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-08T02:11:42.552189+00:00",
+  "id": "99e11fe8-6c8b-4964-9e00-484203362902",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T02:12:03.977166+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 848797,
+    "platform": "bilibili"
+  }
+}
