@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "【Tarokiki 无修音】远航星的告别",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1VWP4z4Eem",
+  "raw_title": "邻居喜欢我爸",
+  "raw_content": "邻居喜欢我爸",
+  "source_url": "https://www.bilibili.com/video/BV12uPYzFEC2",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-08T06:44:53.451475+00:00",
-  "id": "37892267-e414-4ca7-abbb-d6bd32bff6e7",
+  "collected_at": "2026-03-08T18:36:17.946133+00:00",
+  "id": "e1a10aaf-76c5-41a0-b93e-305f1bb4cb1c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-08T18:36:41.123799+00:00",
+  "processed_at": "2026-03-08T18:36:41.139537+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 929911,
+    "hot_score": 5345483,
     "platform": "bilibili"
   }
 }

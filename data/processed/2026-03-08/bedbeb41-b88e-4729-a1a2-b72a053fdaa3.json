@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "汇聚智慧力量 谱写时代华章",
-  "raw_content": "汇聚智慧力量 谱写时代华章",
-  "source_url": "https://www.toutiao.com/article/7614492263620313642",
+  "raw_title": "“十五五”规划里提到了这些新词热词",
+  "raw_content": "“十五五”规划里提到了这些新词热词",
+  "source_url": "https://www.toutiao.com/article/7614810622467080755",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-08T06:44:52.811629+00:00",
-  "id": "1a3b54cf-706f-4a07-8d74-57ec2558933c",
+  "collected_at": "2026-03-08T18:36:17.256514+00:00",
+  "id": "bedbeb41-b88e-4729-a1a2-b72a053fdaa3",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-08T18:36:41.122429+00:00",
+  "processed_at": "2026-03-08T18:36:41.139086+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "31933757",
+    "hot_score": "29117541",
     "platform": "toutiao"
   }
 }

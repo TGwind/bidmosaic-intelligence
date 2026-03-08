@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "汇聚智慧力量 谱写时代华章",
-  "raw_content": "汇聚智慧力量 谱写时代华章",
-  "source_url": "https://www.toutiao.com/article/7614492263620313642",
+  "raw_title": "加快高水平科技自立自强",
+  "raw_content": "加快高水平科技自立自强",
+  "source_url": "https://www.toutiao.com/article/7614814910576443919",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-08T06:44:52.811629+00:00",
-  "id": "1a3b54cf-706f-4a07-8d74-57ec2558933c",
+  "collected_at": "2026-03-08T18:36:17.256570+00:00",
+  "id": "251a6873-1227-4c6f-b2a5-9bd6d1d41c9a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-08T18:36:41.122429+00:00",
+  "processed_at": "2026-03-08T18:36:41.121144+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "31933757",
+    "hot_score": "15980045",
     "platform": "toutiao"
   }
 }
