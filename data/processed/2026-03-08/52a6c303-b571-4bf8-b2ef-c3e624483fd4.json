@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US lawmakers warn temporary CBDC ban isn’t enough, demand 'permanent' block",
+  "raw_content": "US lawmakers said any ban on issuing a US CBDC must “be permanent,” warning that creating one would be “inherently anti-American.”",
+  "source_url": "https://cointelegraph.com/news/united-states-cbdc-federal-reserve-lawmakers-dispute-letter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-08T07:08:49+00:00",
+  "id": "52a6c303-b571-4bf8-b2ef-c3e624483fd4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T08:40:47.773418+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
