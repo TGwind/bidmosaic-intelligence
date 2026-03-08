@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Spot Bitcoin ETFs post second straight weekly inflows for first time in 5 months",
+  "raw_content": "US spot Bitcoin ETFs recorded their second consecutive week of net inflows, ending a five-month outflow streak.",
+  "source_url": "https://cointelegraph.com/news/spot-bitcoin-etfs-second-weekly-inflows-five-months-ether-etfs-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-08T10:08:33+00:00",
+  "id": "a80c0c8d-454d-48bf-b328-a0dff24b7e0f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T13:04:51.285653+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

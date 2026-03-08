@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin dip may not be over as whales sell into retail buying — a bearish signal",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/08/bitcoin-dip-may-not-be-over-as-whales-sell-into-retail-buying-a-bearish-signal",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-08T05:16:45+00:00",
+  "id": "4638798d-5dc1-4ef9-9ecf-5b981798e182",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T13:04:51.252314+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

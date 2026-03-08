@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US Treasury report acknowledges legitimate uses of crypto mixers",
+  "raw_content": "The Treasury's report to the US Congress was commissioned as part of directives under the GENIUS stablecoin regulatory framework.",
+  "source_url": "https://cointelegraph.com/news/us-treasury-legitimate-use-crypto-mixer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-07T21:58:33+00:00",
+  "id": "c2a4de61-261e-43d9-9cf3-71560972bf38",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T13:04:51.287498+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
