@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《比我想象的还要糟糕》",
+  "raw_title": "关于小猫疯狂模仿我的动作这件事",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1pAPBzzEVL",
+  "source_url": "https://www.bilibili.com/video/BV1ffPkz2EzE",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-08T02:11:42.552234+00:00",
-  "id": "aa0e4dbf-2e71-49dd-a5a2-7b4c84f260d0",
+  "collected_at": "2026-03-08T06:44:53.451501+00:00",
+  "id": "0e4ded70-93c8-4ed1-9d35-c629a6519960",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-08T06:45:16.668034+00:00",
+  "processed_at": "2026-03-08T06:45:16.642877+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4262599,
+    "hot_score": 2989017,
     "platform": "bilibili"
   }
 }

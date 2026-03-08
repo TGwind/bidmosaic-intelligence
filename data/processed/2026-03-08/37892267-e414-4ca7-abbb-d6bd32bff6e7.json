@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《比我想象的还要糟糕》",
+  "raw_title": "【Tarokiki 无修音】远航星的告别",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1pAPBzzEVL",
+  "source_url": "https://www.bilibili.com/video/BV1VWP4z4Eem",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-08T02:11:42.552234+00:00",
-  "id": "aa0e4dbf-2e71-49dd-a5a2-7b4c84f260d0",
+  "collected_at": "2026-03-08T06:44:53.451475+00:00",
+  "id": "37892267-e414-4ca7-abbb-d6bd32bff6e7",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-08T06:45:16.668034+00:00",
+  "processed_at": "2026-03-08T06:45:16.662521+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4262599,
+    "hot_score": 929911,
     "platform": "bilibili"
   }
 }

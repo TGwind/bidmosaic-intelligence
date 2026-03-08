@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《比我想象的还要糟糕》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1pAPBzzEVL",
+  "raw_title": "老师：今天抬头率这么高？",
+  "raw_content": "记得三连",
+  "source_url": "https://www.bilibili.com/video/BV1fuPLzKER6",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-08T02:11:42.552234+00:00",
-  "id": "aa0e4dbf-2e71-49dd-a5a2-7b4c84f260d0",
+  "collected_at": "2026-03-08T06:44:53.451529+00:00",
+  "id": "0356d7f9-ffd0-4714-bcc0-ea74e84c836c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-08T06:45:16.668034+00:00",
+  "processed_at": "2026-03-08T06:45:16.643295+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4262599,
+    "hot_score": 5676997,
     "platform": "bilibili"
   }
 }

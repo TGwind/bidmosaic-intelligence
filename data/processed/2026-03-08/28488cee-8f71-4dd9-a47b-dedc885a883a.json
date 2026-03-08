@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《比我想象的还要糟糕》",
+  "raw_title": "非得今儿个走啊",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1pAPBzzEVL",
+  "source_url": "https://www.bilibili.com/video/BV115PvzeEy2",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-08T02:11:42.552234+00:00",
-  "id": "aa0e4dbf-2e71-49dd-a5a2-7b4c84f260d0",
+  "collected_at": "2026-03-08T06:44:53.451466+00:00",
+  "id": "28488cee-8f71-4dd9-a47b-dedc885a883a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-08T06:45:16.668034+00:00",
+  "processed_at": "2026-03-08T06:45:16.661256+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4262599,
+    "hot_score": 5379912,
     "platform": "bilibili"
   }
 }

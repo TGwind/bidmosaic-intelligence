@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "从全国两会看开局之年新步伐",
-  "raw_content": "从全国两会看开局之年新步伐",
-  "source_url": "https://www.toutiao.com/article/7614179832502534671",
+  "raw_title": "汇聚智慧力量 谱写时代华章",
+  "raw_content": "汇聚智慧力量 谱写时代华章",
+  "source_url": "https://www.toutiao.com/article/7614492263620313642",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-08T02:11:41.907631+00:00",
-  "id": "a98bcb75-845d-430e-84f6-4f62695faa07",
+  "collected_at": "2026-03-08T06:44:52.811629+00:00",
+  "id": "1a3b54cf-706f-4a07-8d74-57ec2558933c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-08T06:45:16.668936+00:00",
+  "processed_at": "2026-03-08T06:45:16.643876+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "52098981",
+    "hot_score": "31933757",
     "platform": "toutiao"
   }
 }
