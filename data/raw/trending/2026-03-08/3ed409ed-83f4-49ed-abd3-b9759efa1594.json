@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "天大地大都是朋友~ 2026我们一起让世界变得更好",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1vdPszdEkn",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-08T18:36:17.946057+00:00",
+  "id": "3ed409ed-83f4-49ed-abd3-b9759efa1594",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1296777,
+    "platform": "bilibili"
+  }
+}
