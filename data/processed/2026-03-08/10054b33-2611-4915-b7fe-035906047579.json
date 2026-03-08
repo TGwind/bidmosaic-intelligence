@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "The FBI Discusses the Potential to Use AI to Hack Targets",
+  "raw_content": "AI is a “game changer” for what the FBI calls remote access operations, an FBI official said in response to a 404 Media question on Tuesday.",
+  "source_url": "https://www.404media.co/the-fbi-is-using-ai-to-hack-targets/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T19:57:20+00:00",
+  "id": "10054b33-2611-4915-b7fe-035906047579",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T05:14:05.089854+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

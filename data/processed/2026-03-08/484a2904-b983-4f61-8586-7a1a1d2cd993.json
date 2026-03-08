@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260227~a3ad2bb150.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-27T14:00:00+00:00",
+  "id": "484a2904-b983-4f61-8586-7a1a1d2cd993",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-08T05:14:05.137801+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}
