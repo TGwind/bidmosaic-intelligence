@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "U.S. inflation, Polkadot upgrade, Solstice-Kamino announcement: Crypto Week Ahead",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/09/u-s-inflation-polkadot-upgrade-solstice-kamino-announcement-crypto-week-ahead",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T10:48:40+00:00",
+  "id": "1564c156-3e7a-49a2-b352-5f50e7e995e3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T13:21:44.463385+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

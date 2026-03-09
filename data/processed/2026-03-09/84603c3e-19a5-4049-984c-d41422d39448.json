@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Flipkart moves its headquarters back to India ahead of IPO",
+  "raw_content": "Flipkart's headquarters shift comes as the Walmart-backed e-commerce giant reaches about $30 billion in GMV.",
+  "source_url": "https://techcrunch.com/2026/03/09/flipkart-moves-its-headquarters-back-to-india-ahead-of-ipo/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-09T12:47:36+00:00",
+  "id": "84603c3e-19a5-4049-984c-d41422d39448",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T13:21:44.565431+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

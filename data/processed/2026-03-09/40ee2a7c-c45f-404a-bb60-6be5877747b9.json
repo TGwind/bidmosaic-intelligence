@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto doesn’t belong in AI portfolio as it’s ‘a different animal,’ says tech investor and former Snap exec",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/09/crypto-doesn-t-belong-in-ai-portfolio-as-it-s-a-different-animal-says-tech-investor-and-former-snap-exec",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T13:18:47+00:00",
+  "id": "40ee2a7c-c45f-404a-bb60-6be5877747b9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T13:21:44.522983+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

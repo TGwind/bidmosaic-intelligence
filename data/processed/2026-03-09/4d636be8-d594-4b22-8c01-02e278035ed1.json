@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "原统一教会不服解散判决并提出抗诉",
+  "raw_content": "2026/03/09 世界和平统一家庭联合（原统一教会）的总部所在地（东京都涩谷区） 3月9日，针对3月4日东京高等法院依据《宗教法人法》作出的下令解散教会的判决，世界和平统一家庭联合会（原统一教会）表示不服，并向最高法院提出抗诉。即便提出抗诉，解散命令的效力也不会消失，清算程序将继续进行。如果最高法院推翻原判，则清算程序中止。 东京高等法院3月4日的判决指出：该教会在干部认可的前提下，为向韩国本部筹集活动资金，设定了不违反社会常识便无法完成的捐款目标额。法院认定，1973年至2016年期间，该教会持续进行涉嫌违法的募捐行为，给至少506人造成约74亿日元的经济损失。 教会方面发布“合规宣言”后，仍未下调捐款目标金额，也不承认捐款问题的根源在于教会。法院因此得出结论，难以期待教会主动采取具体且有效的整改措施，因此不得不解散教会。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61695-2026-03-09-14-43-17.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-09T07:08:03+00:00",
+  "id": "4d636be8-d594-4b22-8c01-02e278035ed1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T13:21:44.539724+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

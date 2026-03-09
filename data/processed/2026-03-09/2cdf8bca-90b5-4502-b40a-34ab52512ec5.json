@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Delta Electronics CNCSoft-G2",
+  "raw_content": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker achieving remote code execution on the device. The following versions of Delta Electronics CNCSoft-G2 are affected: CNCSoft-G2 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics CNCSoft-G2 Out-of-bounds Write Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-2026-3094 Delta Electronics CNCSoft-G2 devices prior to version V2.1.0.39 are vulnerable to an Out-of-Bounds Write while parsing DPAX files in the DOPSoft component. View CVE Details Affected Products Delta Electronics CNCSoft-G2 Vendor:Delta Electronics Product Version:Delta Electronics CNCSoft-G2: &lt;V2.1.0.39 Product Status:known_affected Remediations MitigationDelta Electronics recommends users update to Version 2.1.0.39, which has resolved this vulnerability. The update can be obtained from the Delta Electronics download center at https://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&amp;q=cncsoft&amp;sort_expr=cdate&amp;sort_dir=DESC. MitigationFor more information, see the associated Delta Electronics security advisory Delta-PCSA-2026-00004 which can be downloaded in PDF format here: https://filecenter.deltaww.com/news/download/doc/Delta-PCSA-2026-00004_CNCSoft-G2_File%20Parsing%20Out-Of-Bounds%20Write.pdf Relevant CWE: CWE-787 Out-of-bounds Write Metrics CVSS Version Base Score Base Severity Vector String 3.1 7.8 HIGH CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H Acknowledgments Natnael Samson (@NattiSamson) of TrendAI Zero Day Initiative reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy &amp; Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of these vulnerabilities, such as: Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. CISA recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. This vulnerability is not exploitable remotely. Revision History Initial Release Date: 2026-03-05 Date Revision Summary 2026-03-05 1 Initial Republication of Delta Electronics Delta-PCSA-2026-00004 advisory Legal Notice and Terms of Use",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-064-01",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-05T12:00:00+00:00",
+  "id": "2cdf8bca-90b5-4502-b40a-34ab52512ec5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T13:21:44.499770+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
