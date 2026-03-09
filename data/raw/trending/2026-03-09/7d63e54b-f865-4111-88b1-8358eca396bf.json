@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "最难绷【你画我猜】",
+  "raw_content": "一起瞎玩玩，看完不妨三连哦",
+  "source_url": "https://www.bilibili.com/video/BV1QoPazMEqZ",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-09T13:06:21.063287+00:00",
+  "id": "7d63e54b-f865-4111-88b1-8358eca396bf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1391467,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中国女足时隔20年亚洲杯再胜朝鲜",
+  "raw_content": "中国女足时隔20年亚洲杯再胜朝鲜",
+  "source_url": "https://www.toutiao.com/trending/7615157885911174710/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615157885911174710%22%2C%22hot_board_impr_id%22%3A%2220260309210619155D19D0C09C798C5FD7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%97%B6%E9%9A%9420%E5%B9%B4%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%8D%E8%83%9C%E6%9C%9D%E9%B2%9C%22%7D&rank=&style_id=40132&topic_id=7615157885911174710",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-09T13:06:20.128358+00:00",
+  "id": "8fba843d-5eae-467f-9c08-e8c7035c9ca1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16175492",
+    "platform": "toutiao"
+  }
+}

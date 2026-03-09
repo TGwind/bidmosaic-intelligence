@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "回村一周，没想到侄子会这样评价我",
+  "raw_content": "中年人的崩溃，只在一瞬间",
+  "source_url": "https://www.bilibili.com/video/BV11YPszrEzB",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-09T13:06:21.063330+00:00",
+  "id": "e3dd9001-ae58-49b3-98c1-af25220d87a5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2143827,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "老师：今天抬头率这么高？",
+  "raw_content": "记得三连",
+  "source_url": "https://www.bilibili.com/video/BV1fuPLzKER6",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-09T13:06:21.063313+00:00",
+  "id": "22eb8b38-897f-4ddb-a3e4-a1548dcf583f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6277187,
+    "platform": "bilibili"
+  }
+}
