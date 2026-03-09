@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Nasdaq partners with Kraken for issuer-centric tokenized equities",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nasdaq partners with Kraken for issuer-centric tokenized equities\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2QyNGYtYTJkNy03OGFiLThhMmYtMmI1NzBhN2M1NjBiLmpwZw==.jpg\" /></p><p>Nasdaq and Kraken will enable tokenized equities to move between regulated and onchain markets while preserving issuer rights and regulatory compliance.</p>",
+  "source_url": "https://cointelegraph.com/news/nasdaq-kraken-issuer-centric-tokenized-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T11:39:15+00:00",
+  "id": "6692bec5-3a7b-452c-949b-f7921fafb109",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

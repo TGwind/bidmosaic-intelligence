@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Safer Reasoning Traces: Measuring and Mitigating Chain-of-Thought Leakage in LLMs",
+  "raw_content": "arXiv:2603.05618v1 Announce Type: new \nAbstract: Chain-of-Thought (CoT) prompting improves LLM reasoning but can increase privacy risk by resurfacing personally identifiable information (PII) from the prompt into reasoning traces and outputs, even under policies that instruct the model not to restate PII. We study such direct, inference-time PII leakage using a model-agnostic framework that (i) defines leakage as risk-weighted, token-level events across 11 PII types, (ii) traces leakage curves as a function of the allowed CoT budget, and (iii) compares open- and closed-source model families on a structured PII dataset with a hierarchical risk taxonomy. We find that CoT consistently elevates leakage, especially for high-risk categories, and that leakage is strongly family- and budget-dependent. Increasing the reasoning budget can either amplify or attenuate leakage depending on the base model. We then benchmark lightweight inference-time gatekeepers: a rule-based detector, a TF-IDF + logistic regression classifier, a GLiNER-based NER model, and an LLM-as-judge, using risk-weighted F1, Macro-F1, and recall. No single method dominates across models or budgets, motivating hybrid, style-adaptive gatekeeping policies that balance utility and risk under a common, reproducible protocol.",
+  "source_url": "https://arxiv.org/abs/2603.05618",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-09T04:00:00+00:00",
+  "id": "064e8ae5-349b-48dc-bcd2-1208d2f162c2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

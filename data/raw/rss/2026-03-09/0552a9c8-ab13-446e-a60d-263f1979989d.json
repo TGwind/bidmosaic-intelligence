@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "TechCrunch Mobility: Rivian’s R2 gambit",
+  "raw_content": "Welcome back to TechCrunch Mobility, your hub for all things “future of transportation.”",
+  "source_url": "https://techcrunch.com/2026/03/08/techcrunch-mobility-rivians-r2-gambit/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-08T16:03:00+00:00",
+  "id": "0552a9c8-ab13-446e-a60d-263f1979989d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

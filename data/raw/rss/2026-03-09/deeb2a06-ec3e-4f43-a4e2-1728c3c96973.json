@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "X Will Stop Paying People for Sharing Unlabeled AI-Generated War Footage",
+  "raw_content": "Fake war footage is a problem as old as social media. AI has just supercharged it.",
+  "source_url": "https://www.404media.co/x-will-stop-paying-people-for-sharing-unlabeled-ai-generated-war-footage/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-03T19:42:41+00:00",
+  "id": "deeb2a06-ec3e-4f43-a4e2-1728c3c96973",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
