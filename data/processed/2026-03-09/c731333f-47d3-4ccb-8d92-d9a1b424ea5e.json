@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "海上风电巨头维斯塔将在日本建厂",
+  "raw_content": "2026/03/09 全球最大的海上风力发电风机制造商、丹麦维斯塔斯公司计划在2029财年前在日本设立工厂。此举旨在吸收预计将扩大的日本及亚洲各国海上风电需求。日本一直依赖进口风机。如果完善国内供应链并在未来降低采购成本，海上风电项目的盈利能力将得到提升。 日本经济产业省与维斯塔斯将于3月9日签署谅解备忘录。候选建厂地点包括北九州市和北海道室兰市。预计投资规模将达到数百亿日元，该公司也考虑利用经济产业省的补贴政策。这将成为日本扩大可再生能源的一股助力。 公司计划在2029财年前设立组装工厂，生产被称为“机舱（Nacelle）”的装置，该装置位于风机中心并承担发电等核心功能。到2039财年前，还将建设机舱生产工厂，并与叶片和塔架组合，使大型风机能够在日本国内生产。 钢材、半导体、磁铁等零部件可从日本制铁、富士电机等多家日本企业采购，这也将有助于提升日本企业的竞争力。",
+  "source_url": "http://cn.nikkei.com/industry/manufacturing/61680-2026-03-09-08-05-01.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-09T01:38:02+00:00",
+  "id": "c731333f-47d3-4ccb-8d92-d9a1b424ea5e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T02:48:50.462032+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

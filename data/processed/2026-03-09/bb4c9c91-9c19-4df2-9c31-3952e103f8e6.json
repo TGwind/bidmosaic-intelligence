@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Labkotec LID-3300IP",
+  "raw_content": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to gain unauthorized control over system operations, leading to disruption of normal functionality and potential safety hazards. The following versions of Labkotec LID-3300IP are affected: LID-3300IP vers:all/* LID-3300IP Type 2 CVSS Vendor Equipment Vulnerabilities v3 9.4 Labkotec Labkotec LID-3300IP Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Communications, Energy Countries/Areas Deployed: Worldwide Company Headquarters Location: Finland Vulnerabilities Expand All + CVE-2026-1775 The Labkotec LID-3300IP has an existing vulnerability in the ice detector software that enables an unauthenticated attacker to alter device parameters and run operational commands when specially crafted packets are sent to the device. View CVE Details Affected Products Labkotec LID-3300IP Vendor:Labkotec Product Version:Labkotec LID-3300IP: vers:all/*, Labkotec LID-3300IP Type 2: &lt;V2.20 Product Status:known_affected Remediations Vendor fixLabkotec reports that it is not possible to implement secure and encrypted network traffic on the LID-3300IP. For this reason, Labkotec recommends updating ice detectors to the LID-3300IP Type 2 model and installing the latest firmware version V2.40. It is also highly recommended to activate HTTPS for network traffic. The device type and software version can be verified in the web interface. MitigationDevices not connected to an Ethernet network are not susceptible to this attack. Ice detectors operating on secure internal networks that adhere to modern security standards, where only authorized devices and users have access, are protected against external threats. MitigationLabkotec recommends implementing the following additional security controls:Do not connect the device to the public InternetFollow good security practicesChange Default CredentialsEnable Secure Management AccessNetwork SegmentationImplement Firewall and Access ControlsRestrict ProtocolsMonitor and AlertAvoid Direct Internet ExposureKeep Firmware UpdatedControl Physical AccessMaintain Inventory and Access Reviews MitigationUsers can find more information in Labkotec's security advisory (https://labkotec.fi/wp-content/uploads/CA-000001-Cybersecurity-Advisory.pdf). Relevant CWE: CWE-306 Missing Authentication for Critical Function Metrics CVSS Version Base Score Base Severity Vector String 3.1 9.4 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:H/A:H Acknowledgments Souvik Kandar reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy &amp; Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability, such as: Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. Revision History Initial Release Date: 2026-03-03 Date Revision Summary 2026-03-03 1 Initial Publication Legal Notice and Terms of Use",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-062-05",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-03T12:00:00+00:00",
+  "id": "bb4c9c91-9c19-4df2-9c31-3952e103f8e6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T02:48:50.441587+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
