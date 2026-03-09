@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ether holds $2K as traders make push toward overhead short liquidity",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether holds $2K as traders make push toward overhead short liquidity\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmRiYzUtYzY2ZS03OWI5LWJhZWQtNDU2OGRhYzU0Y2MzLmpwZw==.jpg\" /></p><p>Ether's short liquidity may be the next target for bullish traders who have piled into fresh leveraged positions. Is $2,500 the next stop for ETH price?</p>",
+  "source_url": "https://cointelegraph.com/news/ether-holds-dollar2k-as-traders-make-push-toward-overhead-short-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T16:14:14+00:00",
+  "id": "3bf6af2a-6797-4aa5-aa76-fca119e40638",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
