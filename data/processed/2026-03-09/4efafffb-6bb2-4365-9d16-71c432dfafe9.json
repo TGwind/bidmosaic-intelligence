@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Bluesky CEO Jay Graber steps down",
+  "raw_content": "Bluesky's board will search for a replacement while Graber becomes Chief Innovation Officer.",
+  "source_url": "https://techcrunch.com/2026/03/09/bluesky-ceo-jay-graber-steps-down/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-09T19:32:05+00:00",
+  "id": "4efafffb-6bb2-4365-9d16-71c432dfafe9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T20:43:01.884977+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
