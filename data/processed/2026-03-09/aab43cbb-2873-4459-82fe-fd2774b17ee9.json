@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin correlation with tech stocks overblown: NYDIG",
+  "raw_content": "NYDIG’s Greg Cipolaro says that Bitcoin and tech stocks aren’t converging and are likely just reacting to macroeconomic conditions rather than trading in tandem.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-correlation-tech-stocks-overblown-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T03:49:59+00:00",
+  "id": "aab43cbb-2873-4459-82fe-fd2774b17ee9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T05:23:16.465299+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

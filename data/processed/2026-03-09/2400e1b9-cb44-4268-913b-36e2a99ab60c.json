@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto funding up 50% in 12 months as fewer, larger deals dominate",
+  "raw_content": "Despite a rise in crypto fundraising, Messari’s Eric Turner noted that no major crypto VCs have closed rounds except Dragonfly recently, stating that crypto “needs some fresh capital.”",
+  "source_url": "https://cointelegraph.com/news/crypto-funding-up-50-percent-despite-fewer-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T02:21:18+00:00",
+  "id": "2400e1b9-cb44-4268-913b-36e2a99ab60c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T05:23:16.356947+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

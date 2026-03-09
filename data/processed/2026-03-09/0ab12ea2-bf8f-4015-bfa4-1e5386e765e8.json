@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Orbital data center company to start mining Bitcoin in space",
+  "raw_content": "Starcloud CEO Philip Johnston noted that it is 30 times cheaper to mine Bitcoin on ASICs than on GPUs in space on a kilowatt-hour basis.",
+  "source_url": "https://cointelegraph.com/news/orbital-data-center-startup-mine-bitcoin-space?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T04:49:53+00:00",
+  "id": "0ab12ea2-bf8f-4015-bfa4-1e5386e765e8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T05:23:16.330195+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

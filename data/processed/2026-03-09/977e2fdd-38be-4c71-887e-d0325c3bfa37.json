@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "LangChain's CEO argues that better models alone won't get your AI agent to production",
+  "raw_content": "As models get smarter and more capable, the &quot;harnesses&quot; around them must also evolve. This &quot;harness engineering&quot; is an extension of context engineering, says LangChain co-founder and CEO Harrison Chase in a new VentureBeat Beyond the Pilot podcast episode. Whereas traditional AI harnesses have tended to constrain models from running in loops and calling tools, harnesses specifically built for AI agents allow them to interact more independently and effectively perform long-running tasks. Chase also weighed in on OpenAI&#x27;s acquisition of OpenClaw, arguing that its viral success came down to a willingness to &quot;let it rip&quot; in ways that no major lab would — and questioning whether the acquisition actually gets OpenAI closer to a safe enterprise version of the product. “The trend in harnesses is to actually give the large language model (LLM) itself more control over context engineering, letting it decide what it sees and what it doesn&#x27;t see,” Chase says. “Now, this idea of a long-running, more autonomous assistant is viable.”Tracking progress and maintaining coherenceWhile the concept of allowing LLMs to run in a loop and call tools seems relatively simple, it’s difficult to pull off reliably, Chase noted. For a while, models were “below the threshold of usefulness” and simply couldn’t run in a loop, so devs used graphs and wrote chains to get around that. Chase pointed to AutoGPT — once the fastest-growing GitHub project ever — as a cautionary example: same architecture as today&#x27;s top agents, but the models weren&#x27;t good enough yet to run reliably in a loop, so it faded fast. But as LLMs keep improving, teams can construct environments where models can run in loops and plan over longer horizons, and they can continually improve these harnesses. Previously, “you couldn&#x27;t really make improvements to the harness because you couldn&#x27;t actually run the model in a harness,” Chase said. LangChain’s answer to this is Deep Agents, a customizable general-purpose harness. Built on LangChain and LangGraph, it has planning capabilities, a virtual filesystem, context and token management, code execution, and skills and memory functions. Further, it can delegate tasks to subagents; these are specialized with different tools and configurations and can work in parallel. Context is also isolated, meaning subagent work doesn’t clutter the main agent’s context, and large subtask context is compressed into a single result for token efficiency. All of these agents have access to file systems, Chase explained, and can essentially create to-do lists that they can execute on and track over time. “When it goes on to the next step, and it goes on to step two or step three or step four out of a 200 step process, it has a way to track its progress and keep that coherence,” Chase said. “It comes down to letting the LLM write its thoughts down as it goes along, essentially.” He emphasized that harnesses should be designed so that models can maintain coherence over longer tasks, and be “amenable” to models deciding when to compact context at points it determines is “advantageous.” Also, giving agents access to code interpreters and BASH tools increases flexibility. And, providing agents with skills as opposed to just tools loaded up front allows them to load information when they need it. “So rather than hard code everything into one big system prompt,&quot; Chase explained, &quot;you could have a smaller system prompt, ‘This is the core foundation, but if I need to do X, let me read the skill for X. If I need to do Y, let me read the skill for Y.&#x27;&quot; Essentially, context engineering is a “really fancy” way of saying: What is the LLM seeing? Because that’s different from what developers see, he noted. When human devs can analyze agent traces, they can put themselves in the AI’s “mindset” and answer questions like: What is the system prompt? How is it created? Is it static or is it populated? What tools does the agent have? When it makes a tool call, and gets a response back, how is that presented? “When agents mess up, they mess up because they don&#x27;t have the right context; when they succeed, they succeed because they have the right context,” Chase said. “I think of context engineering as bringing the right information in the right format to the LLM at the right time.” Listen to the podcast to hear more about: How LangChain built its stack: LangGraph as the core pillar, LangChain at the center, Deep Agents on top.Why code sandboxes will be the next big thing. How a different type of UX will evolve as agents run at longer intervals (or continuously). Why traces and observability are core to building an agent that actually works. You can also listen and subscribe to Beyond the Pilot on Spotify, Apple or wherever you get your podcasts.",
+  "source_url": "https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-07T22:00:00+00:00",
+  "id": "977e2fdd-38be-4c71-887e-d0325c3bfa37",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T05:23:16.448422+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
