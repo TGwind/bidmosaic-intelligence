@@ -1,0 +1,41 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "特变电工(600089) 今日涨1.64% 报32.76元",
+  "raw_content": "特变电工(600089) 最新价 32.76元，涨1.64%，涨跌额 +0.53元，今开 31.81元，最高 33.15元，最低 31.80元，昨收 32.23元，成交额 137.23亿元，振幅 4.19%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh600089/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-09T10:41:03.611681+00:00",
+  "id": "b30b7fd9-9a88-4979-810a-797cf82941da",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T10:41:23.156400+00:00",
+  "market_data": {
+    "symbols": [
+      "600089"
+    ],
+    "price_change": {
+      "price": 32.76,
+      "change_pct": 1.64,
+      "change_amt": 0.53
+    },
+    "indicators": {
+      "volume": 421073209.0,
+      "turnover": 13723277485.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 4.19,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}
