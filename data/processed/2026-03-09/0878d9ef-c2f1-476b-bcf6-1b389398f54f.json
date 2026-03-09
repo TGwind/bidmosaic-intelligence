@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《鸽羽》",
-  "raw_content": "《鸽羽》",
-  "source_url": "https://www.bilibili.com/video/BV1DFNTzPEAk",
+  "raw_title": "天大地大都是朋友~ 2026我们一起让世界变得更好",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1vdPszdEkn",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-09T07:03:46.103394+00:00",
-  "id": "a6ff38b2-31a5-4605-bd78-5cca47519239",
+  "collected_at": "2026-03-09T13:06:21.063279+00:00",
+  "id": "0878d9ef-c2f1-476b-bcf6-1b389398f54f",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-09T13:06:46.479942+00:00",
+  "processed_at": "2026-03-09T13:06:46.463984+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1235541,
+    "hot_score": 1373872,
     "platform": "bilibili"
   }
 }

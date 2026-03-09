@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "蚊子就不用这么可爱了吧",
+  "raw_content": "大家好久不见！迷茫了好久，好在小剧场的制作，不管是画风还是故事，都找回最初的感觉啦。以及现在南方大冬天的真的有蚊子！",
+  "source_url": "https://www.bilibili.com/video/BV1DyPWz5EnQ",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-09T13:06:21.063296+00:00",
+  "id": "3cf320da-5f57-407f-b702-91049c733777",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T13:06:46.474982+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2434737,
+    "platform": "bilibili"
+  }
+}

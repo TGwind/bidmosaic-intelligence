@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "加快高水平科技自立自强",
-  "raw_content": "加快高水平科技自立自强",
-  "source_url": "https://www.toutiao.com/article/7614814910576443919",
+  "raw_title": "一图速览人大报告精华版",
+  "raw_content": "一图速览人大报告精华版",
+  "source_url": "https://www.toutiao.com/article/7615082608132702739",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-09T02:12:46.530739+00:00",
-  "id": "e2c93c5a-2abb-4531-80dc-79382edef73a",
+  "collected_at": "2026-03-09T13:06:20.128332+00:00",
+  "id": "5e8f8737-5d3f-4158-b14a-1fb93eb60be0",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-09T13:06:46.485923+00:00",
+  "processed_at": "2026-03-09T13:06:46.479553+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "19805381",
+    "hot_score": "19756790",
     "platform": "toutiao"
   }
 }
