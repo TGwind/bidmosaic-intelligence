@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "The 2027 Chevy Bolt is the McRib of the automotive world",
+  "raw_content": "TechCrunch drove the 2027 Chevy Bolt and found that incremental improvements build on a solid basic recipe to deliver an affordable EV.",
+  "source_url": "https://techcrunch.com/2026/03/09/the-2027-chevy-bolt-is-the-mcrib-of-the-automotive-world/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-09T13:00:00+00:00",
+  "id": "25268476-3b5e-4a99-9d02-db6877b62426",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T17:02:56.695238+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
