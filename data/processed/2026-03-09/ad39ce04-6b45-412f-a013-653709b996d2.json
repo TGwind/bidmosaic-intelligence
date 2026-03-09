@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "加快高水平科技自立自强",
-  "raw_content": "加快高水平科技自立自强",
-  "source_url": "https://www.toutiao.com/article/7614814910576443919",
+  "raw_title": "政府工作报告里的“加减乘除”",
+  "raw_content": "政府工作报告里的“加减乘除”",
+  "source_url": "https://www.toutiao.com/article/7615058507469013544",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-09T02:12:46.530739+00:00",
-  "id": "e2c93c5a-2abb-4531-80dc-79382edef73a",
+  "collected_at": "2026-03-09T07:03:45.356879+00:00",
+  "id": "ad39ce04-6b45-412f-a013-653709b996d2",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-09T07:04:10.837281+00:00",
+  "processed_at": "2026-03-09T07:04:10.833383+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "19805381",
+    "hot_score": "10057199",
     "platform": "toutiao"
   }
 }

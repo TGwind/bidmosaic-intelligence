@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "【Tarokiki 无修音】远航星的告别",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1VWP4z4Eem",
+  "raw_title": "老师：今天抬头率这么高？",
+  "raw_content": "记得三连",
+  "source_url": "https://www.bilibili.com/video/BV1fuPLzKER6",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-09T02:12:47.249411+00:00",
-  "id": "da7093ac-5065-4385-81fb-f80b92455cf3",
+  "collected_at": "2026-03-09T07:03:46.103377+00:00",
+  "id": "88d8e051-112e-40bf-90ec-d77ce9799328",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-09T07:04:10.836662+00:00",
+  "processed_at": "2026-03-09T07:04:10.829945+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1099492,
+    "hot_score": 6170432,
     "platform": "bilibili"
   }
 }

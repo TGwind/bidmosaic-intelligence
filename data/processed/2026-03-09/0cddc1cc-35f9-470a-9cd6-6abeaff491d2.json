@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美总统对伊朗新任最高领袖“不高兴”",
+  "raw_content": "美总统对伊朗新任最高领袖“不高兴”",
+  "source_url": "https://www.toutiao.com/trending/7614765969571463204/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227614765969571463204%22%2C%22hot_board_impr_id%22%3A%2220260309150345E4DF6E2A147B14C9CA61%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%96%B0%E4%BB%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E2%80%9C%E4%B8%8D%E9%AB%98%E5%85%B4%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7614765969571463204",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-09T07:03:45.356953+00:00",
+  "id": "0cddc1cc-35f9-470a-9cd6-6abeaff491d2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T07:04:10.825692+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "6099999",
+    "platform": "toutiao"
+  }
+}
