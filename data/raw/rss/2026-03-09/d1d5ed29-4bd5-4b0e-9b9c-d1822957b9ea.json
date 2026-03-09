@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本2025年查获仿冒品超3万件，超8成发自中国",
+  "raw_content": "<div>2026/03/09</div><div id=\"contentDiv\">\n<div></div>\n<p><img height=\"407\" src=\"https://feedx.net/images/2026/03/0309/0309-07-L-Kyodo.jpg\" width=\"600\" /><br /><span><strong>日本海关查获的仿冒品等（3月6日，日本财务省，Kyodo）</strong></span></div>\n<div> </div>\n<div>      日本财务省3月6日发布数据称，2025年海关查获的进口仿冒名牌产品等侵犯知识产权的物品为3万1760件，比上年减少3.8％。这是自开始公布相关数据以来的第三高水平，已连续3年超过3万件。仿冒名牌产品的耳机及电池等无法保证安全性的电子产品的查获量正在增加。</div>\n<div>  </div>\n<div>      鉴于经由电商渠道销售仿冒品的情况屡见不鲜，日本财务省提醒消费者从正规销售店等渠道购买商品。相关负责人表示：“希望消费者提高自我防范意识，如果商品的价格极为便宜，就不要购买”。</div>\n<div> </div>\n<div>      包括冒牌产品等在内，侵犯商标权的商品达到2万9685件，超过总体的9成。按品类来看，服装达到1万660件，数量最多，其次是钱包及手提包等箱包类产品，达到7560件。</div>\n<div> </div>\n<div>      按地区来看，来自中国的商品达到2万6292件，占总体的8成以上。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61685-2026-03-09-10-23-00.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-09T02:38:03+00:00",
+  "id": "d1d5ed29-4bd5-4b0e-9b9c-d1822957b9ea",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
