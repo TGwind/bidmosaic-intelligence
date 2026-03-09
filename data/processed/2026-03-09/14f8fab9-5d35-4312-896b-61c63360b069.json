@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本官房长官：尚未决定释放石油储备",
+  "raw_content": "2026/03/09 日本内阁官房长官木原稔在3月9日的记者会上就原油价格飙升表示，“目前尚未收到石油需求会立即受到影响的报告”。关于国家石油储备，他称“没有决定释放储备的事实”。同时表示，关于政府内部的讨论情况不便逐一作出说明。 对于原油价格，木原稔表示“受此次中东局势影响，价格正呈现进一步上涨的趋势”。对于对日本经济的影响，他称不便作出预判性评论，并强调“将密切关注事态发展，同时继续全力确保日本能源供应的稳定”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61690-2026-03-09-12-59-47.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-09T05:08:02+00:00",
+  "id": "14f8fab9-5d35-4312-896b-61c63360b069",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T08:57:03.768804+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

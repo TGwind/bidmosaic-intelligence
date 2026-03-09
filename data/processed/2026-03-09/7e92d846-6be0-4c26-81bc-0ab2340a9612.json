@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Attention Meets Reachability: Structural Equivalence and Efficiency in Grammar-Constrained LLM Decoding",
+  "raw_content": "arXiv:2603.05540v1 Announce Type: new Abstract: We study grammar-constrained decoding (GCD) as a coupling between an autoregressive next-token distribution and a reachability oracle over a pushdown system compiled from a context-free grammar (CFG). We prove an oracle invariance theorem: language-equivalent grammars induce identical admissible next-token sets for every prefix, hence identical logit masks, yet can yield provably different compiled state spaces and online ambiguity costs. We give exact control-state blowup counts for the canonical $a^n b^n$ language under redundant nonterminal delegation, and introduce a left-to-right structural ambiguity cost (SAC) measuring incremental packed-parse-forest growth per token. For two equivalent grammars over all finite strings, SAC is $O(1)$ per token under right-recursion but $\\Theta(t^2)$ per token and $\\Theta(n^3)$ cumulatively under concatenation. We establish engine-independent lower bounds: any sound, retrieval-efficient, parse-preserving online masking engine must incur $\\Omega(t^2)$ work per token on a specific constant-size CFG family, unconditionally within this model. We define decoding-cost equivalence classes of grammars and prove existence of minimal-SAC representatives within bounded rewrite families. Finally, we characterize the true conditional sampler via a Doob $h$-transform and derive sharp one-step KL and total-variation distortion bounds for hard-masked decoding in terms of survival-probability spread among admissible next tokens. We integrate these results with Transformer and Mixture-of-Experts architectures, derive latency envelopes in terms of vocabulary size, active state sets, and beam width, and connect SAC to instrumentation-based predictive performance models and automated grammar optimization.",
+  "source_url": "https://arxiv.org/abs/2603.05540",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-09T04:00:00+00:00",
+  "id": "7e92d846-6be0-4c26-81bc-0ab2340a9612",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T08:57:03.853047+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
