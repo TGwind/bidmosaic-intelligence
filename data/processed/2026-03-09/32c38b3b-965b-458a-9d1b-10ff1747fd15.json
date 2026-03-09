@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "政府工作报告里的“加减乘除”",
-  "raw_content": "政府工作报告里的“加减乘除”",
-  "source_url": "https://www.toutiao.com/article/7615058507469013544",
+  "raw_title": "以高质量司法助力高水平开放",
+  "raw_content": "以高质量司法助力高水平开放",
+  "source_url": "https://www.toutiao.com/article/7615164215367647750",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-09T07:03:45.356879+00:00",
-  "id": "ad39ce04-6b45-412f-a013-653709b996d2",
+  "collected_at": "2026-03-09T18:55:23.415450+00:00",
+  "id": "32c38b3b-965b-458a-9d1b-10ff1747fd15",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-09T18:55:51.420720+00:00",
+  "processed_at": "2026-03-09T18:55:51.414741+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "10057199",
+    "hot_score": "13571781",
     "platform": "toutiao"
   }
 }

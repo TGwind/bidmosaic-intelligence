@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "政府工作报告里的“加减乘除”",
-  "raw_content": "政府工作报告里的“加减乘除”",
-  "source_url": "https://www.toutiao.com/article/7615058507469013544",
+  "raw_title": "“两高”工作报告十大看点",
+  "raw_content": "“两高”工作报告十大看点",
+  "source_url": "https://www.toutiao.com/article/7615186140345221678",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-09T07:03:45.356879+00:00",
-  "id": "ad39ce04-6b45-412f-a013-653709b996d2",
+  "collected_at": "2026-03-09T18:55:23.415354+00:00",
+  "id": "2ca02436-6932-4110-9607-2cd103bb4a93",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-09T18:55:51.420720+00:00",
+  "processed_at": "2026-03-09T18:55:51.410077+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "10057199",
+    "hot_score": "24729398",
     "platform": "toutiao"
   }
 }

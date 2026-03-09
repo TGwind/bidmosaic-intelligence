@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "建议餐馆标明预制菜让顾客自己选",
+  "raw_content": "建议餐馆标明预制菜让顾客自己选",
+  "source_url": "https://www.toutiao.com/trending/7614347170703085075/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227614347170703085075%22%2C%22hot_board_impr_id%22%3A%2220260310025523E13AF44B6299F874ED13%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BB%BA%E8%AE%AE%E9%A4%90%E9%A6%86%E6%A0%87%E6%98%8E%E9%A2%84%E5%88%B6%E8%8F%9C%E8%AE%A9%E9%A1%BE%E5%AE%A2%E8%87%AA%E5%B7%B1%E9%80%89%22%7D&rank=&style_id=40132&topic_id=7614347170703085075",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-09T18:55:23.415387+00:00",
+  "id": "8b6bdd23-d37f-4fd6-8a31-ed64a8b62648",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T18:55:51.427663+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20246719",
+    "platform": "toutiao"
+  }
+}
