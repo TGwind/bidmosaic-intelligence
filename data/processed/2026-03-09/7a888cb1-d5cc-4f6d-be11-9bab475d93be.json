@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "「妄想天使」首场直播",
+  "raw_content": "大家好，我们是来自新艾利都的偶像组合「妄想天使」！ 正在直播中…期待能在直播间见到大家！ ps：我们平时会在六分街的「404」音乐现场演出哦，欢迎大家来看~",
+  "source_url": "https://www.bilibili.com/video/BV1WBPszMEkQ",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-09T02:12:47.249427+00:00",
+  "id": "7a888cb1-d5cc-4f6d-be11-9bab475d93be",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-09T02:13:12.147738+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1398572,
+    "platform": "bilibili"
+  }
+}
