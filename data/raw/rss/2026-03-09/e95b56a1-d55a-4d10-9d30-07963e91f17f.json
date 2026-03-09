@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoiners celebrate as the network produces its 20 millionth coin",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoiners celebrate as the network produces its 20 millionth coin\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YzA0ZGMtOTI5Yy03NTVjLTk4NzgtZDA0MTEyMGQ4NTAzLmpwZw==.jpg\" /></p><p>“A digital money system with transparent, predictable, and ultimately scarce supply... has rising appeal in today’s economy due to fiat currency tail risks,\" said Grayscale.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-mined-20-million-executives-speculate-1-million-left?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T13:42:28+00:00",
+  "id": "e95b56a1-d55a-4d10-9d30-07963e91f17f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

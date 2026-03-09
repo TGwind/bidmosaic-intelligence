@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Banks will run RWAs on two blockchain rails, says RedStone co-founder",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Banks will run RWAs on two blockchain rails, says RedStone co-founder\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2JkZmQtZDRjNC03MWY4LWEwYjQtNjUyOWZhNjAyMzg2LmpwZw==.jpg\" /></p><p>RedStone co-founder Marcin Kaźmierczak says banks are splitting RWA infrastructure between private networks like Canton and public chains such as Ethereum.</p>",
+  "source_url": "https://cointelegraph.com/news/banks-rwas-two-blockchain-rails-redstone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T13:00:00+00:00",
+  "id": "7c2f9748-ae41-46cc-9c29-efc57007523e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

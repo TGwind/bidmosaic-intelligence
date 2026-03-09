@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP holders face $50B in unrealized losses as it trades below $1.40",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP holders face $50B in unrealized losses as it trades below $1.40\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVjOWQtNWI4MS03MDg1LWJhNTItNDc1YzBjYjM4NTVj.jpg\" /></p><p>60% of XRP's circulating supply trades underwater at $1.35, with spot ETF outflows and weak sentiment adding pressure on the bulls amid the current slump.</p>",
+  "source_url": "https://cointelegraph.com/news/xrp-holders-face-50b-unrealized-losses-price-below-1-40?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T15:05:18+00:00",
+  "id": "2c6fe371-4429-48e4-9e30-ac00b92de9f2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

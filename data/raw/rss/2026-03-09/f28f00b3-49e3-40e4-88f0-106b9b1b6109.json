@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Dynamic UI for dynamic AI: Inside the emerging A2UI model",
+  "raw_content": "<p>With agentic AI, businesses are conducting business more dynamically. Instead of traditional pre-programmed bots and static rules, agents can now “think” and invent alternate paths when unseen conditions arise. For instance, using a <a href=\"https://venturebeat.com/infrastructure/ontology-is-the-real-guardrail-how-to-stop-ai-agents-from-misunderstanding\">business domain ontology</a> like FIBO (financial industry business ontology) can help keep agents within guardrails and avoid unwanted behavior. </p><p>The bottleneck is now in the user experience (UX) layer. While agents are dynamic and transform with the data drift guided by ontology, the user interface is still very much static. These experiences with fixed fields and configurations can hamper the creative freedom given to agents. Modern standards like <a href=\"https://github.com/ag-ui-protocol/ag-ui\"><u>AG-UI (agent User interface)</u></a> help streamline communication between UX and agents — but still the screens must be pre-defined at design time.</p><p>A newer technology is taking this to the next level, dynamically allowing agents to render their desired user screen based on specific content. One is <a href=\"https://a2ui.org/\"><u>A2UI - agent to user interface</u></a>. With A2UI, we first define a UX schema for how components should be rendered. This loosely coupled schema allows agents to build screens as per the data. </p><p>Agents now communicate with a A2Ui compliant “renderer” that dynamically renders screens based on JSON content that agents produce dynamically. Screens are fully interactive and can communicate back with respective agents using AG-UI. Companies like <a href=\"https://www.copilotkit.ai/ag-ui-and-a2ui\"><u>Copilotkit</u></a> are actively building A2UI renderers that can dynamically build the UI from JSON spec and wire it together back to the agent via AG-Ui. </p><p>Moreover, using newer compression standards like <a href=\"https://github.com/toon-format/toon\"><u>token object notation (TOON)</u></a> can help obtain highly efficient compression and include schema like ontology and A2UI into context prompts. Of course, as models get smarter, they will also include capability to auto generate screens compliant with A2UI and AG-UI via pre-training. </p><p>The below schematic explains one view of this architecture.</p><p>As shown, the A2UI specification is complementary to a business ontology and focused on rendering logic for user interface components. Taking an example of loan approval, ontology will define business concepts like loans, parties, interest terms, covenants, or conditions. This data is usually in multiple source systems in different forms and a common business ontology helps unifies this into a common “language.&quot; The A2UI specification will define how user experience components will be rendered. </p><p>In the future, only the spec needs to change, rather than individual screens, because screens are generated with fresh content every time. Also, since A2UI uses AG-UI under the hood, screens maintain connection to the original agent that generated the content. So, events like button clicks and form submissions can be tracked and responded to. This entire experience happens inside of a single pane of glass — for instance, a <a href=\"https://venturebeat.com/technology/karpathys-march-of-nines-shows-why-90-ai-reliability-isnt-even-close-to\">traditional chatbot</a>.</p><p>The business deliverable is tying together ontology, agents, A2UI JSON, dynamic content screens and AG-UI message exchanges. Everything is driven by business logic and relations defined in the ontology, meaning less is left for interpretation by the UX designer and UI developer. We still need these roles on projects, but reusable components are defined and built just once. Rinse and repeat!</p><p>For example, you could define that any communication message sent to a user (error, info, warning) be rendered inside a panel with your company logo and be compliant with ISO 9241-110. With agentic AI and A2UI, a dedicated agent can validate these messages and construct them on screen per standards. </p><p>The chat interface still remains your primary interface for users, but A2UI components are rendered the same. More importantly, the existing user screens can be reused as templates to dynamically generate newer screens. This makes your business highly robust to business and regulatory changes.</p><p>Patterns like A2UI lessen dependency on user interface and complement the dynamic nature of business. Imagine a company undergoes an acquisition and must add new logos to thousands of forms. Now, this logic can be configured in the A2UI spec and ontology and UI changes will be propagated when users access forms. This helps businesses be dynamic and improve employee productivity. </p><p><i>Dattaraj Rao is innovation and R&amp;D architect at Persistent Systems. </i></p>",
+  "source_url": "https://venturebeat.com/technology/dynamic-ui-for-dynamic-ai-inside-the-emerging-a2ui-model",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-08T17:00:00+00:00",
+  "id": "f28f00b3-49e3-40e4-88f0-106b9b1b6109",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

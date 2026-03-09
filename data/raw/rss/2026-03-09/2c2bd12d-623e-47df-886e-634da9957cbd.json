@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy buys $1.3B in Bitcoin as holdings top 738,000 BTC",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Strategy buys $1.3B in Bitcoin as holdings top 738,000 BTC\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWZlMjEtZjI3My03MDFkLTkyZTUtMmZmNTMxYjAyY2Rh.jpg\" /></p><p>The purchase brings Strategy’s total Bitcoin reserves to nearly 739,000 BTC despite the asset trading below the company’s average acquisition price.</p>",
+  "source_url": "https://cointelegraph.com/news/michael-saylor-strategy-buys-17994-bitcoin-below-cost-basis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T12:47:31+00:00",
+  "id": "2c2bd12d-623e-47df-886e-634da9957cbd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

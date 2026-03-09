@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CoinDesk 20 Performance Update: Avalanche (AVAX) Gains 2% as Index Trades Flat",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-indices/2026/03/09/coindesk-20-performance-update-avalanche-avax-gains-2-as-index-trades-flat",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T13:22:43+00:00",
+  "id": "9268f5f7-62b2-4605-89a1-88ea5b57a8fb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
