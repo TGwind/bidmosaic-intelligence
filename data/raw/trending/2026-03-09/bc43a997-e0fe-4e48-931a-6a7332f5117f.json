@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "81岁儿子被100岁父亲检查书法超紧张",
+  "raw_content": "81岁儿子被100岁父亲检查书法超紧张",
+  "source_url": "https://www.toutiao.com/trending/7615131934859493382/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615131934859493382%22%2C%22hot_board_impr_id%22%3A%2220260310025523E13AF44B6299F874ED13%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2281%E5%B2%81%E5%84%BF%E5%AD%90%E8%A2%AB100%E5%B2%81%E7%88%B6%E4%BA%B2%E6%A3%80%E6%9F%A5%E4%B9%A6%E6%B3%95%E8%B6%85%E7%B4%A7%E5%BC%A0%22%7D&rank=&style_id=40132&topic_id=7615131934859493382",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-09T18:55:23.415508+00:00",
+  "id": "bc43a997-e0fe-4e48-931a-6a7332f5117f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9097437",
+    "platform": "toutiao"
+  }
+}
