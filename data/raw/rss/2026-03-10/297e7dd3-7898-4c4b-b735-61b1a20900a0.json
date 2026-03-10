@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stablecoin market expands, bitcoin rallies as Iran war panic cools",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/daybook-us/2026/03/10/stablecoin-market-expands-bitcoin-rallies-as-iran-war-panic-cools",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T11:33:43+00:00",
+  "id": "297e7dd3-7898-4c4b-b735-61b1a20900a0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

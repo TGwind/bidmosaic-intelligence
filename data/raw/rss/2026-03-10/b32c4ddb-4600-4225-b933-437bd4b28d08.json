@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Rethinking Personalization in Large Language Models at the Token Level",
+  "raw_content": "arXiv:2603.06595v1 Announce Type: new \nAbstract: With large language models (LLMs) now performing strongly across diverse tasks, there is growing demand for them to personalize outputs for individual users. Personalization is typically framed as an additional layer on top of a base NLP task, requiring model responses to meet user-specific needs while still accomplishing the underlying task. From a token-level perspective, different tokens in a response contribute to personalization to varying degrees. Tokens with higher personalization relevance should therefore receive greater emphasis when developing personalized LLMs. However, accurately estimating such personalization degrees remains challenging. To address this challenge, we propose PerContrast, a self-contrast method that estimates each output token's dependence on user-specific information through causal intervention. Building on this mechanism, we develop the PerCE loss, which adaptively upweights tokens with higher estimated personalization degrees during training via a bootstrap procedure, enabling the model to alternate between estimating and optimizing these tokens. Experiments on multiple LLMs demonstrate that PerCE substantially improves personalization performance with minimal additional cost, achieving average gains of over 10% and up to 68.04% on the LongLaMP dataset, along with strong cross-task and cross-scenario transferability. These results highlight the importance of token-level personalization modeling and establish token-aware training as a simple yet effective paradigm for advancing personalized LLMs.",
+  "source_url": "https://arxiv.org/abs/2603.06595",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "b32c4ddb-4600-4225-b933-437bd4b28d08",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

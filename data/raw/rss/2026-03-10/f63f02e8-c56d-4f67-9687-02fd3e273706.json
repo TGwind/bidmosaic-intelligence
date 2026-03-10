@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Olaf Sleijpen: Economic resilience in an uncertain world - implications for Europe and the Netherlands",
+  "raw_content": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the  annual EB NEXT! event, organised by the University of Amsterdam's Economics and Business department, Amsterdam, 17 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303k.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T13:18:27.782611+00:00",
+  "id": "f63f02e8-c56d-4f67-9687-02fd3e273706",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

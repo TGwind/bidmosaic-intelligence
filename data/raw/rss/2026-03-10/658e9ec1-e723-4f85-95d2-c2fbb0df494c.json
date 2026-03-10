@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Traders snapped up nearly 600,000 BTC as bitcoin dipped below $70,000, blockchain data show",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/10/traders-snapped-up-nearly-600-000-btc-as-bitcoin-dipped-below-usd70-000-blockchain-data-show",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T11:33:42+00:00",
+  "id": "658e9ec1-e723-4f85-95d2-c2fbb0df494c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

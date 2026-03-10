@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Symmetry-Constrained Language-Guided Program Synthesis for Discovering Governing Equations from Noisy and Partial Observations",
+  "raw_content": "arXiv:2603.06869v1 Announce Type: new \nAbstract: Discovering compact governing equations from experimental observations is one of the defining objectives of quantitative science, yet practical discovery pipelines routinely fail when measurements are noisy, relevant state variables are unobserved, or multiple symbolic structures explain the data equally well within statistical uncertainty. Here we introduce SymLang (Symmetry-constrained Language-guided equation discovery), a unified framework that brings together three previously separate ideas: (i) typed symmetry-constrained grammars that encode dimensional analysis, group-theoretic invariance, and parity constraints as hard production rules, eliminating on average 71.3% of candidate expression trees before any fitting; (ii) language-model-guided program synthesis in which a fine-tuned 7B-parameter proposer, conditioned on interpretable data descriptors, efficiently navigates the constrained search space; and (iii) MDL-regularized Bayesian model selection coupled with block-bootstrap stability analysis that quantifies structural uncertainty rather than committing to a single best equation. Across 133 dynamical systems spanning classical mechanics, electrodynamics, thermodynamics, population dynamics, and nonlinear oscillators, SymLang achieves an exact structural recovery rate of 83.7% under 10% observational noise - a 22.4 percentage-point improvement over the next-best baseline - while reducing out-of-distribution extrapolation error by 61% and near-eliminating conservation-law violations (3.1 x 10-3 vs. 187.3 x 10-3 physical drift for the closest competitor). In all tested regimes the framework correctly identifies structural degeneracy, reporting it explicitly rather than returning a confidently wrong single equation. The framework is fully open-source and reproducible, providing a principled pathway from raw data to interpretable, physically auditable symbolic laws.",
+  "source_url": "https://arxiv.org/abs/2603.06869",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "c3a05b5b-cd7d-4b16-bb64-55fe89ffc347",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
