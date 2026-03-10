@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "AI Is a 5-Layer Cake",
+  "raw_content": "AI is one of the most powerful forces shaping the world today. It is not a clever app or a single model; it is essential infrastructure, like electricity and the internet.",
+  "source_url": "https://blogs.nvidia.com/blog/ai-5-layer-cake/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T10:00:03+00:00",
+  "id": "18e1a9c3-e36f-4769-8151-ff06c71e0907",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T17:02:18.670041+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

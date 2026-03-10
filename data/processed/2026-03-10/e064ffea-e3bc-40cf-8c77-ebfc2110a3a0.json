@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy records biggest STRC issuance day with estimated 1,420 BTC buy",
+  "raw_content": "Strategy sold a record amount of STRC, estimated to fund 1,420 Bitcoin purchases in a single day after easing ATM sales restrictions.",
+  "source_url": "https://cointelegraph.com/news/strategy-strc-record-share-sales-atm-rule-change?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T13:14:10+00:00",
+  "id": "e064ffea-e3bc-40cf-8c77-ebfc2110a3a0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T17:02:18.817882+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Trust Wallet adds real-time scam address checks for crypto users",
+  "raw_content": "Trust Wallet launched address poisoning protection on 32 EVM chains, adding scam address screening as wallet security pressure intensifies.",
+  "source_url": "https://cointelegraph.com/news/trust-wallet-address-poisoning-protection-32-evm-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T14:18:31+00:00",
+  "id": "e6291545-4bf0-46e1-9edd-cefb88d3701d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T17:02:18.819472+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

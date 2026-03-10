@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+  "raw_content": "Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications. The post Multimodal reinforcement learning with agentic verifier for AI agents appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-01-20T17:00:00+00:00",
+  "id": "0c50e9e5-92bc-4e0b-b402-ee58870e3900",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T17:02:18.647857+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

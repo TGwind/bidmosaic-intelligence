@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CFTC chair backs blockchain-based prediction markets as ‘truth machines’",
+  "raw_content": "Michael Selig said blockchain-powered prediction markets could improve price discovery and public information, even as several US states challenge the platforms in court.",
+  "source_url": "https://cointelegraph.com/news/cftc-chair-backs-blockchain-prediction-markets-truth-machines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T13:38:19+00:00",
+  "id": "d9c0ef40-3a79-4ab0-99fc-46f07055aafc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T17:02:18.817076+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
