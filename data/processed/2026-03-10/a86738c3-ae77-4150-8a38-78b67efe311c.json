@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "把！分！给！我！",
+  "raw_content": "BGM：Montagem vou passar、人机战士的小曲、着魔、cjksosp lskjssd 本来中间部分也想用人机战士砍带土，加分数升级的，但是人机战士工作量比我想的大多了就放了，下期做百佩。",
+  "source_url": "https://www.bilibili.com/video/BV1RDPazGEgi",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-10T06:52:44.302456+00:00",
+  "id": "a86738c3-ae77-4150-8a38-78b67efe311c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T06:53:10.408036+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2516502,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《鸽羽》",
+  "raw_content": "《鸽羽》",
+  "source_url": "https://www.bilibili.com/video/BV1DFNTzPEAk",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-10T06:52:44.302401+00:00",
+  "id": "159f4a11-d0e5-4e15-9c20-6509c94c1fa9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T06:53:10.377071+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1648873,
+    "platform": "bilibili"
+  }
+}

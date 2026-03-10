@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "50岁女子在睡梦中粉碎性骨折",
+  "raw_content": "50岁女子在睡梦中粉碎性骨折",
+  "source_url": "https://www.toutiao.com/trending/7615178416271015987/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615178416271015987%22%2C%22hot_board_impr_id%22%3A%2220260310145243C24C38725EAB90AF95E3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2250%E5%B2%81%E5%A5%B3%E5%AD%90%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98%22%7D&rank=&style_id=40132&topic_id=7615178416271015987",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-10T06:52:43.263473+00:00",
+  "id": "96320c4d-d728-42d0-aef7-e5eef1661f07",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T06:53:10.405494+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9198616",
+    "platform": "toutiao"
+  }
+}

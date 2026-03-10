@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "因手机引发的博弈……",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV15QPazkERr",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-10T06:52:44.302489+00:00",
+  "id": "9dfaef8d-bd9a-4f35-a8f2-e1bb8aefbd22",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T06:53:10.405032+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1177773,
+    "platform": "bilibili"
+  }
+}

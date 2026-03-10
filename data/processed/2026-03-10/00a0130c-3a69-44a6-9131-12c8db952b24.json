@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "江西多地发公告：物业这些行为可举报",
+  "raw_content": "江西多地发公告：物业这些行为可举报",
+  "source_url": "https://www.toutiao.com/trending/7615228027388330047/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615228027388330047%22%2C%22hot_board_impr_id%22%3A%2220260310145243C24C38725EAB90AF95E3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B1%9F%E8%A5%BF%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%85%AC%E5%91%8A%EF%BC%9A%E7%89%A9%E4%B8%9A%E8%BF%99%E4%BA%9B%E8%A1%8C%E4%B8%BA%E5%8F%AF%E4%B8%BE%E6%8A%A5%22%7D&rank=&style_id=40132&topic_id=7615228027388330047",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-10T06:52:43.263415+00:00",
+  "id": "00a0130c-3a69-44a6-9131-12c8db952b24",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T06:53:10.377208+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18523739",
+    "platform": "toutiao"
+  }
+}

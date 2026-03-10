@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "“两高”工作报告十大看点",
-  "raw_content": "“两高”工作报告十大看点",
-  "source_url": "https://www.toutiao.com/article/7615186140345221678",
+  "raw_title": "两会今日看点",
+  "raw_content": "两会今日看点",
+  "source_url": "https://www.toutiao.com/article/7615398263717495347",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-10T02:05:47.024898+00:00",
-  "id": "2f9d7dfe-2f57-4df2-bacb-9417570cb4ce",
+  "collected_at": "2026-03-10T06:52:43.263365+00:00",
+  "id": "063425c0-c796-4449-8184-38e86e6b39ed",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-10T06:53:10.380004+00:00",
+  "processed_at": "2026-03-10T06:53:10.376664+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "30527777",
+    "hot_score": "30540482",
     "platform": "toutiao"
   }
 }
