@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《顶级活阎王》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1JVN5zBEqd",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-10T13:03:35.927573+00:00",
+  "id": "fc5b5bc8-2a73-4dd6-b2b6-f05bb4bd1000",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4078973,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "邻居喜欢我爸",
+  "raw_content": "邻居喜欢我爸",
+  "source_url": "https://www.bilibili.com/video/BV12uPYzFEC2",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-10T13:03:35.927548+00:00",
+  "id": "40e2220d-c179-4d69-9efe-c045fdeb231b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6585536,
+    "platform": "bilibili"
+  }
+}
