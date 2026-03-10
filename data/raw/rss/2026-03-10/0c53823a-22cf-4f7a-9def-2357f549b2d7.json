@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy",
+  "raw_content": "arXiv:2603.06801v1 Announce Type: new \nAbstract: Multi-Agent Debate (MAD) has emerged as a promising paradigm for enhancing large language model reasoning. However, recent work reveals a limitation:standard MAD cannot improve belief correctness beyond majority voting; we refer to this as the Martingale Curse. This curse arises because correlated errors cause agents to converge toward erroneous consensus, where debate merely reinforces collective mistakes rather than filtering noise. We propose AceMAD, a framework that breaks the Martingale Curse by harnessing asymmetric cognitive potential energy to transform MAD from a random walk into a directed convergence process with positive drift. Through a peer-prediction mechanism, agents predict their peers' belief distributions, revealing asymmetric cognitive potential: truth-holders not only know the correct answer but also anticipate the crowd's misconceptions, while the hallucinating majority remains blind to their collective error. This asymmetry creates a potential energy gap that we quantify via strictly proper scoring rules. We prove this cognitive potential manifests as information-theoretic superiority and, under nonlinear aggregation, converts into submartingale drift toward truth, directly breaking the Martingale Curse. Experiments on challenging subsets across six benchmarks show AceMAD recovers sparse truth signals even when initial majorities are incorrect, substantially outperforming baseline methods.",
+  "source_url": "https://arxiv.org/abs/2603.06801",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "0c53823a-22cf-4f7a-9def-2357f549b2d7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

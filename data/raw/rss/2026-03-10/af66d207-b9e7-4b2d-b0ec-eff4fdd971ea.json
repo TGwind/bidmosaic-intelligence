@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Wall Street funneled $540M into US Solana ETFs in Q4: Bloomberg",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Wall Street funneled $540M into US Solana ETFs in Q4: Bloomberg\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Q1YjEtYmI5NC03NDRlLWI0YmItOGUwZjgzODI0YzIxLmpwZw==.jpg\" /></p><p>Investment advisors were the biggest buyers of the US-based spot Solana ETFs at over $270 million, while hedge fund managers came in next at $186 million.</p>",
+  "source_url": "https://cointelegraph.com/news/financial-institutions-bought-540m-solana-etfs-q4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T05:21:29+00:00",
+  "id": "af66d207-b9e7-4b2d-b0ec-eff4fdd971ea",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
