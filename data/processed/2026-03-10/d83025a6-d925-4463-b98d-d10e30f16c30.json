@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Nvidia's Huang argues AI creates jobs, not destroys them, in rare official blog post",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/03/10/nvidia-s-huang-argues-ai-creates-jobs-not-destroys-them-in-rare-official-blog",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T11:31:49+00:00",
+  "id": "d83025a6-d925-4463-b98d-d10e30f16c30",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.895755+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

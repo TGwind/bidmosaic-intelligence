@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "A single crypto trader is sitting on a $194 million bet that bitcoin and ether will keep climbing",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/10/a-single-crypto-trader-is-sitting-on-a-usd194-million-bet-that-bitcoin-and-ether-will-keep-climbing",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T11:37:58+00:00",
+  "id": "a4858f6b-2b1a-4b80-a619-23004db3d85a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.882240+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

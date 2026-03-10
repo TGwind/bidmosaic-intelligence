@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Chiara Scotti: Programme for strengthening the central bank capacities in the Western Balkans with a view to the integration to the European System of Central Banks - Phase III",
+  "raw_content": "Welcome address by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the launch of the third EU-financed technical cooperation programme between the European System of Central Banks and central banks in the Western Balkans, Rome, 26 February 2026.",
+  "source_url": "https://www.bis.org/review/r260309a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T13:18:27.782569+00:00",
+  "id": "08985b4e-fa6b-404a-a7dc-23c877643936",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.732614+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

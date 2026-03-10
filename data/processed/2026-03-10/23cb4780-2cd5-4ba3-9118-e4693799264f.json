@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Uzbekistan’s Uzum valuation leaps over 50% in seven months to $2.3B",
+  "raw_content": "Uzum now reaches 20 million users and processes $11B in payments as it expands its e-commerce and fintech ecosystem across Uzbekistan.",
+  "source_url": "https://techcrunch.com/2026/03/10/uzbekistans-uzum-valuation-rises-1-5x-in-seven-months-to-2-3b/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-10T07:15:00+00:00",
+  "id": "23cb4780-2cd5-4ba3-9118-e4693799264f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.779931+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

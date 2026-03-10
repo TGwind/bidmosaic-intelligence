@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+  "raw_content": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
+  "source_url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-26T19:00:58+00:00",
+  "id": "1c9989ee-96ca-4640-abf0-2d80324ff327",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.768595+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

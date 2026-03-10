@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Is the Pentagon allowed to surveil Americans with AI?",
+  "raw_content": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-06T19:21:22+00:00",
+  "id": "3f478e57-a3c6-4cd2-9c34-fe89dd97f8ab",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.818599+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

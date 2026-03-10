@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "原油急跌，一度跌至81美元区间",
+  "raw_content": "2026/03/10 特朗普美国总统提及对伊朗的攻击可能很快结束。3月9日的美国金融市场行情逆转，原油期货遭到抛售，而美国股票和美国国债则出现买盘扩大…… 敬请登录以便观看全部文章 如果您已经是日经中文网会员，请点击此处，进行登录。 如果您还不是日经中文网会员，请点击此处，进行会员免费注册。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61713-2026-03-10-08-28-02.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T06:38:03+00:00",
+  "id": "07cee990-d73f-4696-8df2-5dc96bfe37bd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.733000+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

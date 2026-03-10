@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Building Telco Reasoning Models for Autonomous Networks with NVIDIA NeMo",
+  "raw_content": "Autonomous networks are quickly becoming one of the top priorities in telecommunications. According to the latest NVIDIA State of AI in Telecommunications...",
+  "source_url": "https://developer.nvidia.com/blog/building-telco-reasoning-models-for-autonomous-networks-with-nvidia-nemo/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-01T07:00:00+00:00",
+  "id": "6aa7b49c-c628-4bc0-8661-ae09a09b5edf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.864367+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+  "raw_content": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+  "source_url": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-10T05:00:00+00:00",
+  "id": "5cb31e90-44a2-4680-baa9-1adeda6a2fd6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.846473+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

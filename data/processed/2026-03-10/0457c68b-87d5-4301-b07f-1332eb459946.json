@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Statement by Pablo Hernández de Cos, BIS General Manager, on François Villeroy de Galhau",
+  "raw_content": "François Villeroy de Galhau, Governor of the Bank of France, today announced his decision to leave the Bank of France at the beginning of June to become President of the Fondation Apprentis d'Auteuil. Accordingly, he will step down from his position as Chair of the BIS Board of Directors.",
+  "source_url": "https://www.bis.org/press/p260209.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T13:18:27.333959+00:00",
+  "id": "0457c68b-87d5-4301-b07f-1332eb459946",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.725483+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

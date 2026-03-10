@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Adobe is debuting an AI assistant for Photoshop",
+  "raw_content": "Adobe is also adding new AI-powered image editing features to Firefly.",
+  "source_url": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-10T13:06:51+00:00",
+  "id": "c3ee801d-192e-448e-87cd-0186083f022a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.890589+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

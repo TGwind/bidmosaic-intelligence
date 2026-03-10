@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "French couple robbed of $1M in Bitcoin by criminals posing as police",
+  "raw_content": "A French couple was forced to transfer about $1 million in Bitcoin during a fake police home invasion as wrench attacks keep rising, local media reported.",
+  "source_url": "https://cointelegraph.com/news/france-bitcoin-wrench-attack-couple-fake-police-home-invasion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T12:45:37+00:00",
+  "id": "8bc1e265-9190-47e0-ac53-fb03704fede9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.876691+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

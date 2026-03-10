@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Anthropic is suing the U.S. government for allegedly blacklisting its AI",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/10/anthropic-is-suing-the-u-s-government-for-allegedly-blacklisting-its-ai",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T13:10:00+00:00",
+  "id": "b8b8fdcc-b4b9-48a8-bff4-1d7de6d6acdd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.887848+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

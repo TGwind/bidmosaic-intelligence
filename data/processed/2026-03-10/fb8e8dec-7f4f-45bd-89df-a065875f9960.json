@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Babylon-Ledger tie-up expands access to Bitcoin Vaults for collateral use",
+  "raw_content": "The integration allows Ledger devices to sign BTCVault transactions as Babylon develops infrastructure to use Bitcoin as collateral.",
+  "source_url": "https://cointelegraph.com/news/babylon-ledger-bitcoin-vaults-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T13:00:00+00:00",
+  "id": "fb8e8dec-7f4f-45bd-89df-a065875f9960",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.900837+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

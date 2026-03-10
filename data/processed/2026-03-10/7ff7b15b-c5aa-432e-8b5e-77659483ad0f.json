@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US lawmakers probe Trump family-linked firm over Chinese stock scams",
+  "raw_content": "Dominari Securities, tied to Eric Trump and Donald Trump Jr., is among the brokerages named in the congressional probe.",
+  "source_url": "https://cointelegraph.com/news/us-lawmakers-probe-trump-linked-firm-chinese-ipo-stock-manipulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T11:42:53+00:00",
+  "id": "7ff7b15b-c5aa-432e-8b5e-77659483ad0f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.870822+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

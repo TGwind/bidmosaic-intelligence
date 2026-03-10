@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "DeFi insurance is the final frontier of onchain finance",
+  "raw_content": "DeFi lacks its final primitive. Insurance turns hidden risks into priced, programmable coverage. Programmable insurance with uncorrelated capital creates TVC safety nets.",
+  "source_url": "https://cointelegraph.com/news/defi-insurance-for-onchain-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T12:30:00+00:00",
+  "id": "e7ce3746-40ff-4080-8a60-6eb0b8e9f552",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T13:19:01.898490+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
