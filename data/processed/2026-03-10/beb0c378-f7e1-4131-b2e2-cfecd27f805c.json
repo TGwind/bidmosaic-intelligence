@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本Proterial考虑在北美生产无需重稀土的磁铁",
+  "raw_content": "2026/03/10 日本Proterial公司（原日立金属）正考虑在北美等地生产不使用重稀土的纯电动汽车（EV）电机用磁铁。重稀土是对中国依赖度高的稀有资源。摆对中国的依赖、构建供应链的需求日益高涨，Proterial公司计划在靠近客户的地区高效供应磁铁。 Proterial公司的社长Sean M. Stack接受了《日本经济新闻》（中文版：日经中文网）的采访。EV的电机使用钕磁铁。为提升耐热性，要添加属于重稀土的镝、铽等，这些资源高度依赖中国。该公司正在日本和中国生产钕磁铁。 Proterial公司已于2025年开发出无需使用重稀土也能保持耐热性的磁铁。开发成功后，希望降低对中国磁铁依赖度的电机厂商、EV厂商等的咨询量大增。 日本Proterial的社长Sean M. Stack Sean M. Stack表示：“北美地区当然在考虑范围内，同时也在关注此前高度依赖中国产磁铁的其他地区”。他提到，部分国家出于经济安全等考虑希望确保替代供应来源，Proterial公司正在综合能否获得当地政府补贴等条件，研究投资地点。 另一方面，在现有技术下，含有重稀土的磁铁性能更优，因此也有客户愿意承担把中国纳入供应链的风险。Proterial公司的方针是：“为满足各类需求，自身工厂将同时生产（不使用/使用重稀土的）两种磁铁”。 Proterial公司不使用重稀土的磁铁通过控制磁铁晶粒边界的技术，实现了在不使用重稀土的情况下维持性能。有两种产品，其中一种已开始生产和出货，耐热性能进一步提升的产品也将从4月起供应。 关于使用重稀土的磁铁，中国政府在1月宣布将收紧两用物项的对日本出口管制，稀土也有可能包含在内。可能影响EV的生产等，日本需要重构供应链。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61707-2026-03-10-11-00-57.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T03:38:02+00:00",
+  "id": "beb0c378-f7e1-4131-b2e2-cfecd27f805c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T08:55:34.283639+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

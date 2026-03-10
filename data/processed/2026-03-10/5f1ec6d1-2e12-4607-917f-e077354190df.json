@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LEAD: Breaking the No-Recovery Bottleneck in Long-Horizon Reasoning",
+  "raw_content": "arXiv:2603.06870v1 Announce Type: new Abstract: Long-horizon execution in Large Language Models (LLMs) remains unstable even when high-level strategies are provided. Evaluating on controlled algorithmic puzzles, we demonstrate that while decomposition is essential for stability, extreme decomposition creates a \"no-recovery bottleneck\". We show that this bottleneck becomes critical due to highly non-uniform error distribution, where consistent errors on a few \"hard\" steps become irreversible. To address this, we propose Lookahead-Enhanced Atomic Decomposition (LEAD). By incorporating short-horizon future validation and aggregating overlapping rollouts, LEAD provides enough isolation to maintain stability while retaining enough local context to correct errors. This enables the o4-mini model to solve Checkers Jumping up to complexity $n=13$, whereas extreme decomposition fails beyond $n=11$.",
+  "source_url": "https://arxiv.org/abs/2603.06870",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "5f1ec6d1-2e12-4607-917f-e077354190df",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T08:55:34.227243+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

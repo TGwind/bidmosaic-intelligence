@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "\"Dark Triad\" Model Organisms of Misalignment: Narrow Fine-Tuning Mirrors Human Antisocial Behavior",
+  "raw_content": "arXiv:2603.06816v1 Announce Type: new Abstract: The alignment problem refers to concerns regarding powerful intelligences, ensuring compatibility with human preferences and values as capabilities increase. Current large language models (LLMs) show misaligned behaviors, such as strategic deception, manipulation, and reward-seeking, that can arise despite safety training. Gaining a mechanistic understanding of these failures requires empirical approaches that can isolate behavioral patterns in controlled settings. We propose that biological misalignment precedes artificial misalignment, and leverage the Dark Triad of personality (narcissism, psychopathy, and Machiavellianism) as a psychologically grounded framework for constructing model organisms of misalignment. In Study 1, we establish comprehensive behavioral profiles of Dark Triad traits in a human population (N = 318), identifying affective dissonance as a central empathic deficit connecting the traits, as well as trait-specific patterns in moral reasoning and deceptive behavior. In Study 2, we demonstrate that dark personas can be reliably induced in frontier LLMs through minimal fine-tuning on validated psychometric instruments. Narrow training datasets as small as 36 psychometric items resulted in significant shifts across behavioral measures that closely mirrored human antisocial profiles. Critically, models generalized beyond training items, demonstrating out-of-context reasoning rather than memorization. These findings reveal latent persona structures within LLMs that can be readily activated through narrow interventions, positioning the Dark Triad as a validated framework for inducing, detecting, and understanding misalignment across both biological and artificial intelligence.",
+  "source_url": "https://arxiv.org/abs/2603.06816",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "bbd4193b-fa77-4057-a203-6da09817a4ba",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T08:55:34.279311+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

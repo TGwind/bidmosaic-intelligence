@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bhutan moves $11.8M in BTC from its national stash: Arkham",
+  "raw_content": "Bhutan has accumulated around 13,000 Bitcoin since launching state-backed mining operations in 2019, primarily fueled by hydroelectric energy.",
+  "source_url": "https://cointelegraph.com/news/bhutan-moves-11-8m-btc-from-national-stash-arkham?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T06:10:02+00:00",
+  "id": "8af0b55a-a495-45b7-9695-3cdef3b54944",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T08:55:34.263748+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

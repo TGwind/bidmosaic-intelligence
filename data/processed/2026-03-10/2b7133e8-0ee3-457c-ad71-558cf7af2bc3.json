@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Henry F Saamoi: Keynote address - \"Opening Ceremony of the Meetings of the College of Supervisors of the West Africa Monetary Zone\"",
+  "raw_content": "Keynote address by Mr Henry F Saamoi, Executive Governor of the Central Bank of Liberia, at the Opening Ceremony of the Meetings of the College of Supervisors of the West Africa Monetary Zone (CSWAMZ), Monrovia, 4 February 2026.",
+  "source_url": "https://www.bis.org/review/r260303f.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T08:54:52.841142+00:00",
+  "id": "2b7133e8-0ee3-457c-ad71-558cf7af2bc3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T08:55:34.180580+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
