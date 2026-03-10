@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto hacks fall to $49M in February as attackers shift to phishing scams",
+  "raw_content": "Crypto theft slowed sharply last month after a spike in January, but security companies warn that scammers are increasingly exploiting wallet permissions and social engineering tactics.",
+  "source_url": "https://cointelegraph.com/news/crypto-hacks-fall-february-attackers-phishing-approval-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T19:06:02+00:00",
+  "id": "a9d06fcc-6316-4a92-9c85-667a7e9c8d51",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T20:43:57.008179+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
