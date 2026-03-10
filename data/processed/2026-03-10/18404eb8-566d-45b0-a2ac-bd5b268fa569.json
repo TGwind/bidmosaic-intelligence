@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Proton Mail Helped FBI Unmask Anonymous ‘Stop Cop City’ Protester",
+  "raw_content": "A court record reviewed by 404 Media shows privacy-focused email provider Proton Mail handed over payment data related to a Stop Cop City email account to the Swiss government, which handed it to the FBI.",
+  "source_url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T20:36:01+00:00",
+  "id": "18404eb8-566d-45b0-a2ac-bd5b268fa569",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T05:13:33.456262+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

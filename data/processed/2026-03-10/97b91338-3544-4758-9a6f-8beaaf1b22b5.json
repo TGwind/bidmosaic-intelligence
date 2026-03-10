@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "AI firm Anthropic sues Trump admin over ‘supply chain risk’ label",
+  "raw_content": "Anthropic is the first US company the Pentagon has labeled a risk to the military, with the AI company calling it “unprecedented and unlawful.”",
+  "source_url": "https://cointelegraph.com/news/ai-firm-anthropic-sues-trump-admin-over-supply-chain-risk-label?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T02:56:04+00:00",
+  "id": "97b91338-3544-4758-9a6f-8beaaf1b22b5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T05:13:33.549790+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

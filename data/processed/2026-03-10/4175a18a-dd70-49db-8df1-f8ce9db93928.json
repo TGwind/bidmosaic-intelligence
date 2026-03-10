@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment",
+  "raw_content": "arXiv:2603.06797v1 Announce Type: new Abstract: Inference-time alignment effectively steers large language models (LLMs) by generating multiple candidates from a reference model and selecting among them with an imperfect reward model. However, current strategies face a fundamental dilemma: ``optimistic'' approaches like Best-of-$N$ suffer from reward hacking, while ``pessimistic'' regularized methods often stifle the exploration needed to discover high-quality responses. In this work, we formalize this trade-off through the lens of regret minimization, demonstrating that the optimal strategy depends critically on the tail behavior of the reward distribution. We show theoretically that light-tailed regimes favor optimism to unearth high-quality outliers, whereas heavy-tailed regimes require pessimism to guard against reward mis-calibration in the extremes. Guided by this insight, we introduce Best-of-Tails (BoT), an adaptive inference-time alignment framework that uses Tsallis divergence as a tunable regularizer to provide a finer granularity of interpolation between these extremes. BoT uses the Hill estimator to characterize reward-tail heaviness on a per-prompt basis and dynamically adjusts its selection rule to balance exploration gains against alignment error. Across math, multiple-choice reasoning, and human-preference evaluations, BoT improves alignment performance across a range of reference and reward model configurations relative to fixed-strategy baselines.",
+  "source_url": "https://arxiv.org/abs/2603.06797",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "4175a18a-dd70-49db-8df1-f8ce9db93928",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T05:13:33.489965+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

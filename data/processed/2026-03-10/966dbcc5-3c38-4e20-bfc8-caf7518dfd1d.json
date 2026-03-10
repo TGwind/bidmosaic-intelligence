@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US banking lobby considers suing OCC over crypto bank charters: Report",
+  "raw_content": "The OCC has granted conditional approvals to several crypto firms since December, including BitGo, Ripple, Paxos, and Crypto.com, while others such as Zerohash have filed applications.",
+  "source_url": "https://cointelegraph.com/news/bank-policy-institute-occ-crypto-national-trust-bank-charters-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T02:52:17+00:00",
+  "id": "966dbcc5-3c38-4e20-bfc8-caf7518dfd1d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T05:13:33.555830+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

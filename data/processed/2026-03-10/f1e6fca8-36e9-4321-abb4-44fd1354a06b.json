@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Sharplink reports $735M loss in 2025 as Ethereum dived",
+  "raw_content": "Sharplink says it will continue to acquire Ether despite a brutal crypto market sell-off last year that led to a $616.2 million paper loss on its ETH holdings.",
+  "source_url": "https://cointelegraph.com/news/sharplink-reports-734m-loss-2025-as-ethereum-dived?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T05:06:33+00:00",
+  "id": "f1e6fca8-36e9-4321-abb4-44fd1354a06b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T05:13:33.579510+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

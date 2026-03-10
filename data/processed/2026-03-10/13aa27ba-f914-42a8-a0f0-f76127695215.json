@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Language Shapes Mental Health Evaluations in Large Language Models",
+  "raw_content": "arXiv:2603.06910v1 Announce Type: new Abstract: This study investigates whether large language models (LLMs) exhibit cross-linguistic differences in mental health evaluations. Focusing on Chinese and English, we examine two widely used models, GPT-4o and Qwen3, to assess whether prompt language systematically shifts mental health-related evaluations and downstream decision outcomes. First, we assess models' evaluative orientation toward mental health stigma using multiple validated measurement scales capturing social stigma, self-stigma, and professional stigma. Across all measures, both models produce higher stigma-related responses when prompted in Chinese than in English. Second, we examine whether these differences also manifest in two common downstream decision tasks in mental health. In a binary mental health stigma detection task, sensitivity to stigmatizing content varies across language prompts, with lower sensitivity observed under Chinese prompts. In a depression severity classification task, predicted severity also differs by prompt language, with Chinese prompts associated with more underestimation errors, indicating a systematic downward shift in predicted severity relative to English prompts. Together, these findings suggest that language context can systematically shape evaluative patterns in LLM outputs and shift decision thresholds in downstream tasks.",
+  "source_url": "https://arxiv.org/abs/2603.06910",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "13aa27ba-f914-42a8-a0f0-f76127695215",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T05:13:33.446434+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
