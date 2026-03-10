@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Periwinkle is making self-hosted social media on Bluesky’s AT Protocol even easier",
+  "raw_content": "Periwinkle offers managed hosting for AT Protocol users who want social media accounts on their own domains, with backups, storage, and migration tools.",
+  "source_url": "https://techcrunch.com/2026/03/09/periwinkle-at-protocol-bluesky-self-hosted-social-media/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-09T18:18:25+00:00",
+  "id": "656d23c7-8062-4661-8edd-c6ae626d5cc7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.084591+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

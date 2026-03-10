@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Publishes Data on Exchange Traded Funds and Fund Mergers; Updated Statistics on Municipal Advisors, Transfer Agents, and Security-Based Swap Dealers",
+  "raw_content": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) has published two new reports on exchange traded funds and fund mergers, and updated statistics and data visualizations on municipal advisors, transfer agents, and…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-17-sec-publishes-data-exchange-traded-funds-fund-mergers-updated-statistics-municipal-advisors-transfer",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-05T18:45:00+00:00",
+  "id": "2c6f3882-d7ca-40af-b84a-66d17d1338fe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.044013+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

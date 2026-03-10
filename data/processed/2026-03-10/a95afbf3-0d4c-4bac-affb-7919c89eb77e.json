@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "微软推出自动生成资料功能",
+  "raw_content": "2026/03/10 微软3月9日宣布，将在办公软件套件Microsoft 365中开始提供美国新兴企业Anthropic开发的人工智能（AI）工具“Cowork”。企业可基于保存在云端的电子邮件及各种文件数据，实现自动制作电子表格和演示文稿等资料。 微软将在Microsoft 365中加入新功能“Copilot Cowork”，并从当天起进行试验性提供。Anthropic开发的Cowork属于能够自主行动的“AI代理（AI Agent）”的一种。用户只需用口语发出指令，AI即可制作资料或分析数据，还能完成企业财务分析等复杂工作。 微软版Cowork将调用客户企业保存在云端的业务数据，例如电子邮件、商务沟通工具Microsoft Teams、日程表以及文档软件Microsoft Word等，由AI进行参考并用于资料制作。",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/61699-2026-03-10-08-28-07.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T01:38:03+00:00",
+  "id": "a95afbf3-0d4c-4bac-affb-7919c89eb77e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.118113+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

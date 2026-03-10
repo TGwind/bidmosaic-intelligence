@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "It looks like the DOJ isn’t going to break up Live Nation and Ticketmaster",
+  "raw_content": "The DOJ and Live Nation agreed to a tentative settlement, but dozens of state attorneys general don't want to drop the lawsuit.",
+  "source_url": "https://techcrunch.com/2026/03/09/it-looks-like-the-doj-isnt-going-to-break-up-live-nation-and-ticketmaster/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-09T18:49:48+00:00",
+  "id": "0c12f8c3-95c3-475f-81d0-1c9575aac1f7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.021828+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026",
+  "raw_content": "AI is everywhere and accelerating everything — becoming essential infrastructure to create the intelligence that will advance every industry. That’s why companies are increasingly focusing on the technology’s return on investment (ROI), as well as how to best apply AI to their own use cases. NVIDIA’s annual “State of AI” reports show how AI is [&#8230;]",
+  "source_url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-09T15:00:23+00:00",
+  "id": "a24806da-dcdb-45ed-8079-32e6155338f6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.124646+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

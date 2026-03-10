@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "OptiMind: A small language model with optimization expertise",
+  "raw_content": "OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimization software can solve. It reduces formulation time &#038; errors &#038; enables fast, privacy-preserving local use. The post OptiMind: A small language model with optimization expertise appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-01-15T14:00:00+00:00",
+  "id": "54e22d10-e755-424d-bffe-559e25b4757d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.074492+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

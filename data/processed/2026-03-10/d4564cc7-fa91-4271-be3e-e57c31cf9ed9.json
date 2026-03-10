@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Will Bitcoin follow oil’s historic surge and rally to $79K before the end of March?",
+  "raw_content": "Historical data shows that Bitcoin typically gains 20% within a month of major spikes in oil prices. Should traders prepare for a rally to $79,000?",
+  "source_url": "https://cointelegraph.com/news/will-bitcoin-follow-oil-historic-surge-and-rally-to-79k-before-end-of-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T22:07:11+00:00",
+  "id": "d4564cc7-fa91-4271-be3e-e57c31cf9ed9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.143507+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

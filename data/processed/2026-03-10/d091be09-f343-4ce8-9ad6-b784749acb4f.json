@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Aon tests stablecoin payments for insurance premiums with Paxos, Coinbase",
+  "raw_content": "The insurance broker is piloting stablecoin payments for premiums using USDC and PYUSD, testing blockchain settlement rails for faster payments in global insurance markets.",
+  "source_url": "https://cointelegraph.com/news/aon-stablecoin-payments-insurance-premiums-paxos-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-09T20:55:47+00:00",
+  "id": "d091be09-f343-4ce8-9ad6-b784749acb4f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.140002+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

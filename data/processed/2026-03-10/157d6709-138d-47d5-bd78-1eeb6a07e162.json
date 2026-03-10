@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Cultural Perspectives and Expectations for Generative AI: A Global Survey Approach",
+  "raw_content": "arXiv:2603.05723v1 Announce Type: new Abstract: There is a lack of empirical evidence about global attitudes around whether and how GenAI should represent cultures. This paper assesses understandings and beliefs about culture as it relates to GenAI from a large-scale global survey. We gathered data about what culture means to different groups, and about how GenAI should approach the representation of cultural artifacts, concepts, or values. We distill working definitions of culture directly from these communities to build an understanding of its conceptual complexities and how they relate to representations in Generative AI. We survey from across parts of Europe, North and South America, Asia, and Africa. We conclude with a set of recommendations for Culture and GenAI development. These include participatory approaches, prioritizing specific cultural dimensions beyond geography, such as religion and tradition, and a sensitivity framework for addressing cultural ``redlines''.",
+  "source_url": "https://arxiv.org/abs/2603.05723",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-09T04:00:00+00:00",
+  "id": "157d6709-138d-47d5-bd78-1eeb6a07e162",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.024216+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

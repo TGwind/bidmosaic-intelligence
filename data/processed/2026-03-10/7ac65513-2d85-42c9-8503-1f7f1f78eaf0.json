@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "G7财长会议讨论协调释放石油储备",
+  "raw_content": "2026/03/10 七国集团（G7）3月9日以线上方式召开财长会议，讨论协调释放石油储备的问题。会议联合文件写明：“为保障全球能源供应，包括释放储备在内，已准备采取必要措施”。 会后，日本财长片山皋月在财务省对记者表示：“就采取必要应对措施达成一致，是一项重大成果”。据称，国际能源署（IEA）署长法提赫·比罗尔也参加了会议，并呼吁尽快推进释放储备。 担任主席国的法国经济与财政部长罗兰·莱斯屈尔会后表示：“为了让全球市场安心，需要采取协调一致的行动”。但他说明，目前“尚未就协调释放达成协议”。 国际货币基金组织（IMF）、世界银行以及经济合作与发展组织（OECD）也参加了会议。片山皋月提议，各国财长应向各自主管能源等事务的部长进行沟通推动。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/economic-policy/61701-2026-03-10-09-20-56.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T01:38:03+00:00",
+  "id": "7ac65513-2d85-42c9-8503-1f7f1f78eaf0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:39:51.090161+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
