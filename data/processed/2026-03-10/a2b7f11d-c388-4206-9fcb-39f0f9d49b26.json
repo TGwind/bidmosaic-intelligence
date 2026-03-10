@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《顶级活阎王》",
+  "raw_title": "天大地大都是朋友~ 2026我们一起让世界变得更好",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1JVN5zBEqd",
+  "source_url": "https://www.bilibili.com/video/BV1vdPszdEkn",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-10T06:52:44.302480+00:00",
-  "id": "3514bb72-fa0c-4ef0-9b02-098a5d5a2846",
+  "collected_at": "2026-03-10T13:03:35.927565+00:00",
+  "id": "a2b7f11d-c388-4206-9fcb-39f0f9d49b26",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-10T13:04:00.552583+00:00",
+  "processed_at": "2026-03-10T13:04:00.559691+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3623616,
+    "hot_score": 1484010,
     "platform": "bilibili"
   }
 }

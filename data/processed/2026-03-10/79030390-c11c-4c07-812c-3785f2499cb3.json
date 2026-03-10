@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《顶级活阎王》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1JVN5zBEqd",
+  "raw_title": "最难绷【你画我猜】",
+  "raw_content": "一起瞎玩玩，看完不妨三连哦",
+  "source_url": "https://www.bilibili.com/video/BV1QoPazMEqZ",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-10T06:52:44.302480+00:00",
-  "id": "3514bb72-fa0c-4ef0-9b02-098a5d5a2846",
+  "collected_at": "2026-03-10T13:03:35.927557+00:00",
+  "id": "79030390-c11c-4c07-812c-3785f2499cb3",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-10T13:04:00.552583+00:00",
+  "processed_at": "2026-03-10T13:04:00.553122+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3623616,
+    "hot_score": 1575822,
     "platform": "bilibili"
   }
 }

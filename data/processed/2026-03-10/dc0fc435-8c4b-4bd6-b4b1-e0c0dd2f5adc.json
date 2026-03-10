@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "基础研究投入首破7%",
-  "raw_content": "基础研究投入首破7%",
-  "source_url": "https://www.toutiao.com/article/7615428016230957577",
+  "raw_title": "“代表通道”上的民生温度",
+  "raw_content": "“代表通道”上的民生温度",
+  "source_url": "https://www.toutiao.com/article/7615551973718377014",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-10T06:52:43.263423+00:00",
-  "id": "3ba0dd4f-1191-4a51-a744-44c2a62c81b3",
+  "collected_at": "2026-03-10T13:03:35.286687+00:00",
+  "id": "dc0fc435-8c4b-4bd6-b4b1-e0c0dd2f5adc",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-10T13:04:00.549037+00:00",
+  "processed_at": "2026-03-10T13:04:00.562755+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "16760972",
+    "hot_score": "43762199",
     "platform": "toutiao"
   }
 }
