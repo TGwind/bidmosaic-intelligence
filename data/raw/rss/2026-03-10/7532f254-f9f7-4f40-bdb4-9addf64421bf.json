@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning",
+  "raw_content": "arXiv:2603.06587v1 Announce Type: new \nAbstract: The deployment of autonomous AI agents in derivatives markets has widened a practical gap between static model calibration and realized hedging outcomes. We introduce two reinforcement learning frameworks, a novel Replication Learning of Option Pricing (RLOP) approach and an adaptive extension of Q-learner in Black-Scholes (QLBS), that prioritize shortfall probability and align learning objectives with downside sensitive hedging. Using listed SPY and XOP options, we evaluate models using realized path delta hedging outcome distributions, shortfall probability, and tail risk measures such as Expected Shortfall. Empirically, RLOP reduces shortfall frequency in most slices and shows the clearest tail-risk improvements in stress, while implied volatility fit often favors parametric models yet poorly predicts after-cost hedging performance. This friction-aware RL framework supports a practical approach to autonomous derivatives risk management as AI-augmented trading systems scale.",
+  "source_url": "https://arxiv.org/abs/2603.06587",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "7532f254-f9f7-4f40-bdb4-9addf64421bf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
