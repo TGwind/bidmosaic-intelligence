@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Kazuo Ueda: The new financial ecosystem and the role of central banks",
+  "raw_content": "Remarks by Mr Kazuo Ueda, Governor of the Bank of Japan, at the FIN/SUM 2026 \"The new financial ecosystem shaped by AI and blockchain\", Tokyo, 3 March 2026.",
+  "source_url": "https://www.bis.org/review/r260309i.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T17:01:37.418144+00:00",
+  "id": "13796104-6a44-4a78-a046-4599a08807a5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

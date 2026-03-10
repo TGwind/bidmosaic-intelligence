@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Reinforcing the World's Edge: A Continual Learning Problem in the Multi-Agent-World Boundary",
+  "raw_content": "arXiv:2603.06813v1 Announce Type: new \nAbstract: Reusable decision structure survives across episodes in reinforcement learning, but this depends on how the agent--world boundary is drawn. In stationary, finite-horizon MDPs, an invariant core: the (not-necessarily contiguous) subsequences of state--action pairs shared by all successful trajectories (optionally under a simple abstraction) can be constructed. Under mild goal-conditioned assumptions, it's existence can be proven and explained by how the core captures prototypes that transfer across episodes. When the same task is embedded in a decentralized Markov game and the peer agent is folded into the world, each peer-policy update induces a new MDP; the per-episode invariant core can shrink or vanish, even with small changes to the induced world dynamics, sometimes leaving only the individual task core or just nothing. This policy-induced non-stationarity can be quantified with a variation budget over the induced kernels and rewards, linking boundary drift to loss of invariants. The view that a continual RL problem arises from instability of the agent--world boundary (rather than exogenous task switches) in decentralized MARL suggests future work on preserving, predicting, or otherwise managing boundary drift.",
+  "source_url": "https://arxiv.org/abs/2603.06813",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "97fc0113-7c8c-409a-aeec-52c706cf699e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

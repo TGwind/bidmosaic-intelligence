@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Validation of a Small Language Model for DSM-5 Substance Category Classification in Child Welfare Records",
+  "raw_content": "arXiv:2603.06836v1 Announce Type: new \nAbstract: Background: Recent studies have demonstrated that large language models (LLMs) can perform binary classification tasks on child welfare narratives, detecting the presence or absence of constructs such as substance-related problems, domestic violence, and firearms involvement. Whether smaller, locally deployable models can move beyond binary detection to classify specific substance types from these narratives remains untested. Objective: To validate a locally hosted LLM classifier for identifying specific substance types aligned with DSM-5 categories in child welfare investigation narratives. Methods: A locally hosted 20-billion-parameter LLM classified child maltreatment investigation narratives from a Midwestern U.S. state. Records previously identified as containing substance-related problems were passed to a second classification stage targeting seven DSM-5 substance categories. Expert human review of 900 stratified cases assessed classification precision, recall, and inter-method reliability (Cohen's kappa). Test-retest stability was evaluated using approximately 15,000 independently classified records. Results: Five substance categories achieved almost perfect inter-method agreement (kappa = 0.94-1.00): alcohol, cannabis, opioid, stimulant, and sedative/hypnotic/anxiolytic. Classification precision ranged from 92% to 100% for these categories. Two low-prevalence categories (hallucinogen, inhalant) performed poorly. Test-retest agreement ranged from 92.1% to 99.1% across the seven categories. Conclusions: A small, locally hosted LLM can reliably classify substance types from child welfare administrative text, extending prior work on binary classification to multi-label substance identification.",
+  "source_url": "https://arxiv.org/abs/2603.06836",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "21650efc-e7ae-48c2-9314-33650b90f917",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
