@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "放心老爸，我会照顾好她们每一个人的。",
+  "raw_content": "放心老爸，我会照顾好她们每一个人的。",
+  "source_url": "https://www.bilibili.com/video/BV1fnPYzQEUL",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-10T06:52:44.302412+00:00",
+  "id": "e507c478-5927-4d86-9df7-5a372adeda84",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3108927,
+    "platform": "bilibili"
+  }
+}
