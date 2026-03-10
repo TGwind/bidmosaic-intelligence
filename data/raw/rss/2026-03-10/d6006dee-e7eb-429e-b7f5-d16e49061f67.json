@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Investment firm Multicoin bets 'Internet Labor Markets' will drive crypto’s next wave of adoption",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/10/investment-firm-multicoin-bets-internet-labor-markets-will-drive-crypto-s-next-wave-of-adoption",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T19:14:00+00:00",
+  "id": "d6006dee-e7eb-429e-b7f5-d16e49061f67",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

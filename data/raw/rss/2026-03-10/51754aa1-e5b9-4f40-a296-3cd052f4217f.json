@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Polymarket and Palantir team to protect integrity of sports betting as prediction markets face key moment",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/10/polymarket-and-palantir-team-up-to-protect-the-integrity-of-sports-betting-as-prediction-platforms-face-a-make-or-break-moment",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T18:38:13+00:00",
+  "id": "51754aa1-e5b9-4f40-a296-3cd052f4217f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

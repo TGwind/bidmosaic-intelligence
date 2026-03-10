@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CFTC chair highlights wide crypto agenda, including rules on DeFi, prediction markets",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/10/cftc-chair-highlights-wide-crypto-agenda-including-rules-on-defi-prediction-markets",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T15:45:24+00:00",
+  "id": "20c9c1f9-efaf-48ec-a956-2c0390abfd16",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
