@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "以高质量司法助力高水平开放",
+  "raw_content": "以高质量司法助力高水平开放",
+  "source_url": "https://www.toutiao.com/article/7615164215367647750",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-10T02:05:47.024944+00:00",
+  "id": "4134b248-cbf8-4024-aa09-622946448f48",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-10T02:06:11.265846+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16753999",
+    "platform": "toutiao"
+  }
+}
