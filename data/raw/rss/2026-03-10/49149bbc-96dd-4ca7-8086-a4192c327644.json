@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "伊藤忠设立新公司重组IP战略",
+  "raw_content": "<div>2026/03/10</div><div id=\"contentDiv\">\n<div></div>\n<div>      伊藤忠商事正在重组包括动漫在内的知识产权（IP）战略。公司近日成立一家新公司，统一管理动漫制作和周边商品销售等业务，并将与Sky Perfect JSAT共同出资运营的制作公司中的伊藤忠出资比例从17%提高至49%。通过提升从制作到发行、商品化的整体运作效率，以吸收不断扩大的全球动漫市场需求。</div>\n<div> </div>\n<div>      伊藤忠新设立了全资子公司IRights Port（IRP，东京港区），负责统筹IP业务。伊藤忠将所持动漫制作公司Sky Perfect Pictures（东京港区）的股份转移至IRP，并通过从Sky Perfect JSAT追加收购股份，将出资比例提高至49%。</div>\n<div> </div>\n<div>      伊藤忠还已把其持股38.5%、从事授权管理业务的香港公司Rights and Brands Asia（RBA），以及虚拟主播（Vtuber）经纪公司ANYCOLOR的股份转移至IRP。此外，在台湾开展跨境电商服务的PChome Vivian（东京港区）也计划在4月左右转移至该公司。</div>\n<div>  </div>\n<div>       通过把IP相关业务集中到新公司，将建立从动漫制作、发行到周边商品开发的一体化运营体制。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/industry/tradingretail/61700-2026-03-10-08-28-07.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-10T01:38:03+00:00",
+  "id": "49149bbc-96dd-4ca7-8086-a4192c327644",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

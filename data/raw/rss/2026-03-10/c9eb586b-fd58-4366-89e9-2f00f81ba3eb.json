@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Structured Multidimensional Representation Learning for Large Language Models",
+  "raw_content": "arXiv:2603.05727v1 Announce Type: new \nAbstract: Transformer architectures achieve state-of-the-art performance across a wide range of pattern recognition and natural language processing tasks, but their scaling is accompanied by substantial parameter growth and redundancy in the embedding dimension. In this work, we introduce a structured spectral factorization of the embedding space based on the L-product for third-order tensors. By reshaping token representations into spectral tensor slices and performing attention and feed-forward operations in the transform domain, we obtain a Tensor Transformer architecture that decomposes the encoder into p independent spectral sub-transformers while preserving standard Transformer semantics. We prove that the proposed L-Transformer is spectrally equivalent to p parallel Transformers operating on reduceddimensional embeddings, which yields approximately 1/p reduction (up to lower-order terms such as biases and normalization parameters) in encoder parameters under fixed total embedding size. When instantiated with a real-valued Discrete Cosine Transform (DCT), the method remains fully differentiable and compatible with existing training pipelines. Beyond compression, the spectral decomposition introduces an inductive bias over embedding frequencies, enabling slice-dependent frequency scaling that improves generalization. Experiments on IMDB and AG~News show that the proposed model can substantially reduce encoder parameters (up to 75\\% for p=4) while maintaining competitive accuracy. On IMDB, the tensorized encoder matches or improves upon the standard baseline under compression, whereas on AG~News at moderate width we observe a small accuracy decrease in exchange for a 4 times encoder reduction; at BERT-base width (d=768), performance returns to parity.",
+  "source_url": "https://arxiv.org/abs/2603.05727",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-09T04:00:00+00:00",
+  "id": "c9eb586b-fd58-4366-89e9-2f00f81ba3eb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
