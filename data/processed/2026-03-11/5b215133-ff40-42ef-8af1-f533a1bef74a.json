@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "European Central Bank unveils tokenized finance plan to bolster EU's financial autonomy",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/11/european-central-bank-unveils-tokenized-finance-plan-to-bolster-eu-s-financial-autonomy",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T15:11:42+00:00",
+  "id": "5b215133-ff40-42ef-8af1-f533a1bef74a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T20:42:03.797478+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Hollywood star-turned-skeptic releases trailer for anti-crypto doc",
+  "raw_content": "Ben McKenzie's film, “Everyone Is Lying to You for Money” touts interviews with former FTX CEO Sam Bankman-Fried on his political donations.",
+  "source_url": "https://cointelegraph.com/news/ben-mckenzie-crypto-skeptic-documentary-sbf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T17:13:46+00:00",
+  "id": "91c616d6-c3ad-4837-a462-ffe62714173f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T20:42:03.821017+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

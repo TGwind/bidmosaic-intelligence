@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Revolut obtains UK bank license, teases upcoming services",
+  "raw_content": "The financial tech company was granted a full UK banking license on Wednesday and has also applied for a federal bank charter in the United States.",
+  "source_url": "https://cointelegraph.com/news/revolut-obtains-uk-bank-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T20:19:06+00:00",
+  "id": "5e4fdf8b-4605-4619-bf0a-0c81eb2433ca",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T20:42:03.802551+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

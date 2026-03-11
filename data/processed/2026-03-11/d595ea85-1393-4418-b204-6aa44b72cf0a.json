@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Almost 40 new unicorns have been minted so far this year — here they are",
+  "raw_content": "With AI igniting an investor frenzy, more startups are achieving unicorn status every month.",
+  "source_url": "https://techcrunch.com/2026/03/11/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-11T18:00:00+00:00",
+  "id": "d595ea85-1393-4418-b204-6aa44b72cf0a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T20:42:03.834721+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

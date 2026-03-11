@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Breakout Ventures raises $114M fund to back AI science startups",
+  "raw_content": "Breakout Ventures is finding growing success by backing early-stage startups in scientific fields such as biology and chemistry.",
+  "source_url": "https://techcrunch.com/2026/03/11/breakout-ventures-raises-114m-fund-to-back-ai-science-startups/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-11T18:06:34+00:00",
+  "id": "5d32d968-2639-4a38-ae4a-2985a6eb4ec5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T20:42:03.800434+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Alternative app store AltStore PAL joins the fediverse",
+  "raw_content": "AltStore PAL now supports the fediverse, using its own Mastodon server to let iOS developers share app updates and alerts across platforms like Mastodon and Threads.",
+  "source_url": "https://techcrunch.com/2026/03/11/alternative-app-store-altstore-pal-joins-the-fediverse/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-11T20:26:48+00:00",
+  "id": "38ca97b5-a765-4a27-b04e-4b8964f48b37",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T20:42:03.771677+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
