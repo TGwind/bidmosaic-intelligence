@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "这么多真的受不了啊！2026年4月新番导视！【泛式】",
+  "raw_content": "2026年4月新番全资讯导视 求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连求三连2026年四月新番求三连求三连",
+  "source_url": "https://www.bilibili.com/video/BV1HPNgzFEoq",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T13:03:06.917977+00:00",
+  "id": "a34b71c8-681f-46a4-b4c5-82880eb8907d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T13:03:41.427360+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1456287,
+    "platform": "bilibili"
+  }
+}

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "“代表通道”上的民生温度",
-  "raw_content": "“代表通道”上的民生温度",
-  "source_url": "https://www.toutiao.com/article/7615551973718377014",
+  "raw_title": "两会聚焦增进民生福祉",
+  "raw_content": "两会聚焦增进民生福祉",
+  "source_url": "https://www.toutiao.com/article/7615843428522983936",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-11T02:04:49.952647+00:00",
-  "id": "7f4c77a1-b6f4-4cd6-94cb-8a4284a3a94c",
+  "collected_at": "2026-03-11T13:03:06.267461+00:00",
+  "id": "e673d4ef-10fc-4e01-9a95-f7c1ee1bd621",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-11T13:03:41.425032+00:00",
+  "processed_at": "2026-03-11T13:03:41.435104+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "32823680",
+    "hot_score": "11829213",
     "platform": "toutiao"
   }
 }
