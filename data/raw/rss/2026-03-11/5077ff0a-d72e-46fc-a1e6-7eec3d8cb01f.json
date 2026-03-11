@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Why banks are moving beyond single-provider stablecoin payment rails",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-news/2026/03/10/why-banks-are-moving-beyond-single-provider-stablecoin-payment-rails",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T17:01:18+00:00",
+  "id": "5077ff0a-d72e-46fc-a1e6-7eec3d8cb01f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

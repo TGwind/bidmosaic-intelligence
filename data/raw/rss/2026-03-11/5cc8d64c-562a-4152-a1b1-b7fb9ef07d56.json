@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "MedInjection-FR: Exploring the Role of Native, Synthetic, and Translated Data in Biomedical Instruction Tuning",
+  "raw_content": "arXiv:2603.06905v1 Announce Type: new \nAbstract: Instruction tuning has become essential for adapting large language models (LLMs) to follow domain-specific prompts. Yet, in specialized fields such as medicine, the scarcity of high-quality French instruction data limits effective supervision. To address this gap, we introduce MedInjection-FR, a large-scale French biomedical instruction dataset comprising 571K instruction-response pairs drawn from three complementary sources: native, synthetic, and translated data. We design a controlled experimental framework to systematically assess how data provenance affects instruction tuning, using Qwen-4B-Instruct fine-tuned across seven configurations combining these sources. Results show that native data yield the strongest performance, while mixed setups, particularly native and translated, provide complementary benefits. Synthetic data alone remains less effective but contributes positively when balanced with native supervision. Evaluation on open-ended QA combines automatic metrics, LLM-as-a-judge assessment, and human expert review; although LLM-based judgments correlate best with human ratings, they show sensitivity to verbosity. These findings highlight that data authenticity and diversity jointly shape downstream adaptation and that heterogeneous supervision can mitigate the scarcity of native French medical instructions.",
+  "source_url": "https://arxiv.org/abs/2603.06905",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "5cc8d64c-562a-4152-a1b1-b7fb9ef07d56",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
