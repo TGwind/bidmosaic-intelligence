@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Time, Identity and Consciousness in Language Model Agents",
+  "raw_content": "arXiv:2603.09043v1 Announce Type: new \nAbstract: Machine consciousness evaluations mostly see behavior. For language model agents that behavior is language and tool use. That lets an agent say the right things about itself even when the constraints that should make those statements matter are not jointly present at decision time. We apply Stack Theory's temporal gap to scaffold trajectories. This separates ingredient-wise occurrence within an evaluation window from co-instantiation at a single objective step. We then instantiate Stack Theory's Arpeggio and Chord postulates on grounded identity statements. This yields two persistence scores that can be computed from instrumented scaffold traces. We connect these scores to five operational identity metrics and map common scaffolds into an identity morphospace that exposes predictable tradeoffs. The result is a conservative toolkit for identity evaluation. It separates talking like a stable self from being organized like one.",
+  "source_url": "https://arxiv.org/abs/2603.09043",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-11T04:00:00+00:00",
+  "id": "a70bdc67-de72-495e-9eb4-0e07fc3b89f3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

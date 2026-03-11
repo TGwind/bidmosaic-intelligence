@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "云南体育局回应“运动员被索要奖金”事件：成立调查组全面开展调查",
+  "raw_content": "<div></div><div><p>近期，网上出现关于运动员王某对云南省松茂体育训练基地范某某有关举报信息。云南省体育局高度重视，第一时间成立调查组全面开展调查。根据调查结果，省体育局将依规依纪依法进行处理。衷心感谢社会各界对云南省体育局的关心和监督。 ​​​</p></div>",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_32178791",
+  "source_name": "澎湃新闻",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-12-15T06:23:04+00:00",
+  "id": "8cf95976-7e97-486d-880c-e1bb4f7883c7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/thepaper.xml",
+    "category": "china_finance",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
