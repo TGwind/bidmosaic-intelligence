@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本2月机床订单增24%，面向中国需求坚挺",
+  "raw_content": "2026/03/11 日本的机床相关展会 3月10日，日本工作机械工业会（简称日工会）公布了2月的机床订单额（快报值）为1467亿日元，同比增长24%。连续8个月增长。日工会表示，“虽然赶上了中国的春节假期，但面向海外市场的销售依然强劲”。 海外订单增长30%，达1095亿日元。津上的主力市场中国迎来了春节长假，但汽车、数据中心的冷却装置、智能手机等订单增长显著。牧野铣床制作所在中国和印度的汽车相关订单增长，在北美的航空航天领域订单增长。 日本国内订单增长10%，达372亿日元。芝浦机械表示，燃气轮机等能源相关和航空航天用大型机床实现增长。大隈因在2025年4月进行了调价，受抢搭末班车需求的回落影响，今年2月的订单额持平，但半导体制造设备领域的订单表现坚挺。",
+  "source_url": "http://cn.nikkei.com/industry/manufacturing/61730-2026-03-11-14-23-25.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T06:38:02+00:00",
+  "id": "ea199489-1783-4bb2-9a89-487771485327",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T08:54:46.030747+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

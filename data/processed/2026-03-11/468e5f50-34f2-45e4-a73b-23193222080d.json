@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee issues a consolidated version of its guidelines",
+  "raw_content": "The Basel Committee has published a consultation on a consolidated version of its guidelines and sound practices. The consolidated version aims to improve accessibility and substantially streamline guidance materials. Comments on the consultation are requested by 26 June 2026.",
+  "source_url": "https://www.bis.org/press/p260226.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T08:54:04.422631+00:00",
+  "id": "468e5f50-34f2-45e4-a73b-23193222080d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T08:54:45.968249+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

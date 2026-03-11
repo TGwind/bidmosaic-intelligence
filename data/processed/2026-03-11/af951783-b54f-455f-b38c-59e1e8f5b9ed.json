@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ripple to acquire Australian financial services license as APAC payments volume doubles",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/11/ripple-to-acquire-australian-financial-services-license-as-apac-payments-volume-doubles",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T05:23:14+00:00",
+  "id": "af951783-b54f-455f-b38c-59e1e8f5b9ed",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T08:54:46.021765+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

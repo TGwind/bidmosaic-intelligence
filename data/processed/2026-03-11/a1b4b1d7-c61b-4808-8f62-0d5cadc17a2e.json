@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "WAXAL: A large-scale open resource for African language speech technology",
+  "raw_content": "Natural Language Processing",
+  "source_url": "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-06T20:06:00+00:00",
+  "id": "a1b4b1d7-c61b-4808-8f62-0d5cadc17a2e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T08:54:46.022452+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}
