@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "EV startup Harbinger reveals a smaller work truck with electric and hybrid variants",
+  "raw_content": "The LA-based startup is trying to corner the commercial truck market with its electric and hybrid trucks that offer a lower cost of ownership and a better driving experience.",
+  "source_url": "https://techcrunch.com/2026/03/11/ev-startup-harbinger-reveals-a-smaller-work-truck-with-electric-and-hybrid-variants/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-11T15:29:13+00:00",
+  "id": "3eeb1b95-d34c-4cdb-a281-6b581c1ff48e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T17:02:28.756167+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

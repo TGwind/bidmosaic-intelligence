@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "India arrests Darwin Labs co-founder in GainBitcoin scam probe",
+  "raw_content": "Investigators say the GainBitcoin case involves about 8,000 investors and losses estimated at roughly 6,606 crore rupees ($790 million).",
+  "source_url": "https://cointelegraph.com/news/india-arrests-darwin-labs-co-founder-in-gainbitcoin-scam-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T13:53:58+00:00",
+  "id": "821d25a2-1d51-45e0-8048-29e79437ba27",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T17:02:28.819471+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

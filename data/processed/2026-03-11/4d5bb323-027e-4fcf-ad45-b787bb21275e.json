@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Former legal executives from crypto exchange OKX unveil DeFi connectivity, risk-rating service",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/11/former-okx-legal-execs-unveil-defi-connectivity-risk-rating-service",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T15:00:00+00:00",
+  "id": "4d5bb323-027e-4fcf-ad45-b787bb21275e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T17:02:28.774853+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

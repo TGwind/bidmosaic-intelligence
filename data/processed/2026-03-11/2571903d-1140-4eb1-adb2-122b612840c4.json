@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin reverses overnight losses, rising to above $70,000 as oil renews decline",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/11/bitcoin-reverses-overnight-losses-rising-to-above-usd70-000-as-oil-renews-decline",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T14:21:03+00:00",
+  "id": "2571903d-1140-4eb1-adb2-122b612840c4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T17:02:28.721345+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

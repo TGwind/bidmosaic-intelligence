@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price in most ‘challenging’ phase after repeated $72K rejections",
+  "raw_content": "Bitcoin enters its most psychologically challenging cycle phase as BTC sellers and rising losses signal prolonged uncertainty and potentially more pain ahead.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-most-challenging-phase-after-repeated-72k-rejections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T16:56:18+00:00",
+  "id": "05d32894-593f-4755-b3ff-ad62d496514b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T17:02:28.639626+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
