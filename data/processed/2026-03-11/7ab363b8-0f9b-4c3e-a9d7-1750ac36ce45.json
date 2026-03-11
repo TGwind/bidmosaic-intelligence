@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗逮捕81名“内鬼”",
+  "raw_content": "伊朗逮捕81名“内鬼”",
+  "source_url": "https://www.toutiao.com/trending/7615461159981813290/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615461159981813290%22%2C%22hot_board_impr_id%22%3A%222026031110044959D8B0050F1CD99BDF3D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E9%80%AE%E6%8D%9581%E5%90%8D%E2%80%9C%E5%86%85%E9%AC%BC%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7615461159981813290",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T02:04:49.952727+00:00",
+  "id": "7ab363b8-0f9b-4c3e-a9d7-1750ac36ce45",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T02:05:17.851027+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13345112",
+    "platform": "toutiao"
+  }
+}

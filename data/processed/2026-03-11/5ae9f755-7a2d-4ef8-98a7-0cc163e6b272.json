@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "济南共享菜园走红：出租率超90%",
+  "raw_content": "济南共享菜园走红：出租率超90%",
+  "source_url": "https://www.toutiao.com/trending/7614847945629417514/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227614847945629417514%22%2C%22hot_board_impr_id%22%3A%222026031110044959D8B0050F1CD99BDF3D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B5%8E%E5%8D%97%E5%85%B1%E4%BA%AB%E8%8F%9C%E5%9B%AD%E8%B5%B0%E7%BA%A2%EF%BC%9A%E5%87%BA%E7%A7%9F%E7%8E%87%E8%B6%8590%25%22%7D&rank=&style_id=40132&topic_id=7614847945629417514",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T02:04:49.952633+00:00",
+  "id": "5ae9f755-7a2d-4ef8-98a7-0cc163e6b272",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T02:05:17.827804+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "36275776",
+    "platform": "toutiao"
+  }
+}
