@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Circle shares surge as Bernstein sees upside from stablecoin adoption",
+  "raw_content": "Shares of the stablecoin issuer have seemingly decoupled from the broader crypto market, gaining 49% this year and doubling since early February.",
+  "source_url": "https://cointelegraph.com/news/circle-stock-surges-bernstein-stablecoin-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T21:13:08+00:00",
+  "id": "36be5667-d173-47d6-a23b-dbe3d755af7a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T02:40:11.745272+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

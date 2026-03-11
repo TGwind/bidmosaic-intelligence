@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Michele Bullock: Listening to Australians, interpreting the data and setting monetary policy",
+  "raw_content": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the Australian Financial Review Business Summit, Sydney, 3 March 2026.",
+  "source_url": "https://www.bis.org/review/r260309e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T02:38:30.353649+00:00",
+  "id": "4c3aae3a-1dd4-409f-b432-8e6200574a75",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T02:40:11.752027+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee consults on standard format for machine-readable disclosures",
+  "raw_content": "The Basel Committee has published a consultation on a standard format for machine-readable disclosures by banks. The proposed standard format would make existing disclosure by banks more accessible and easier to aggregate. Comments on the proposals are requested by 5 March 2026.",
+  "source_url": "https://www.bis.org/press/p251205.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T02:38:29.935132+00:00",
+  "id": "ee616d46-46ce-4c50-b3ee-e07f3e40763d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T02:40:11.843920+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

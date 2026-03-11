@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "ICE Phishing: Scammers Are Sending 'Support ICE' Emails to Steal Credentials",
+  "raw_content": "\"As part of our commitment to supporting ICE, we will be adding a ‘Support ICE’ donation button to the footer of every email sent through our platform.\"",
+  "source_url": "https://www.404media.co/ice-phishing-scammers-are-sending-support-ice-emails-to-steal-credentials/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-05T15:19:28+00:00",
+  "id": "f0e044d0-e8df-4c0f-bdfb-5dbd623ad2db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T02:40:11.844916+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

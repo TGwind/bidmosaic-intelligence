@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Hierarchical Latent Structures in Data Generation Process Unify Mechanistic Phenomena across Scale",
+  "raw_content": "arXiv:2603.06592v1 Announce Type: new Abstract: Contemporary studies have uncovered many puzzling phenomena in the neural information processing of Transformer-based language models. Building a robust, unified understanding of these phenomena requires disassembling a model within the scope of its training. While the intractable scale of pretraining corpora limits a bottom-up investigation in this direction, simplistic assumptions of the data generation process limit the expressivity and fail to explain complex patterns. In this work, we use probabilistic context-free grammars (PCFGs) to generate synthetic corpora that are faithful and computationally efficient proxies for web-scale text corpora. We investigate the emergence of three mechanistic phenomena: induction heads, function vectors, and the Hydra effect, under our designed data generation process, as well as in the checkpoints of real-world language models. Our findings suggest that hierarchical structures in the data generation process serve as the X-factor in explaining the emergence of these phenomena. We provide the theoretical underpinnings of the role played by hierarchy in the training dynamics of language models. In a nutshell, our work is the first of its kind to provide a unified explanation behind the emergence of seemingly unrelated mechanistic phenomena in LLMs, augmented with efficient synthetic tooling for future interpretability research.",
+  "source_url": "https://arxiv.org/abs/2603.06592",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T04:00:00+00:00",
+  "id": "3245b7aa-bbd7-4344-9d30-8e84907f28ee",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T02:40:11.731788+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

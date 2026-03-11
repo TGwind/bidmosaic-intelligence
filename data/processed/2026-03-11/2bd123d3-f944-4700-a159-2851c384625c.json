@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "美军为遏制伊朗无人机启用AI新武器",
+  "raw_content": "2026/03/11 美军将部署一种利用人工智能（AI）的新型武器，以拦截伊朗大量使用的低价攻击无人机。与拦截导弹相比，其生产成本可降至约1/400。伊朗正使用低价无人机对周边基地和设施进行反击，美国及其盟友希望借此摆脱消耗昂贵武器的局面。 新部署的是一种名为“梅洛普斯（Merops）”的小型无人机。它能够识别敌方攻击无人机并靠近目标。美国《华尔街日报》报道称，当距离目标约1英里（约1.6公里）时，该无人机将利用AI锁定目标，在极近距离爆炸将其击落。 该无人机的飞行速度可超过每小时180英里（约290公里），最高飞行高度可达约16000英尺（约4900米）。包括美联社在内的美国媒体报道称，美军最早将于10日把该武器投入针对伊朗的军事行动。美国中央司令部在接受《日本经济新闻》采访时未予否认。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61717-2026-03-11-08-04-34.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T01:08:03+00:00",
+  "id": "2bd123d3-f944-4700-a159-2851c384625c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T02:40:11.726838+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

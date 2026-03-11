@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Circle could rally 60% more on stablecoin adoption, AI agentic finance, Bernstein says",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/10/circle-could-rally-60-more-on-stablecoin-adoption-ai-agentic-finance-bernstein-says",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T18:32:25+00:00",
+  "id": "1b12ded9-4db5-4d3b-ab5b-74282c7e6168",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T02:40:11.717646+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
