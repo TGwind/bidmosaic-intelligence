@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "油价上演“百美元过山车”",
+  "raw_content": "油价上演“百美元过山车”",
+  "source_url": "https://www.toutiao.com/trending/7615935664181218879/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615935664181218879%22%2C%22hot_board_impr_id%22%3A%222026031121030515CFB36E910F509A262A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%BC%94%E2%80%9C%E7%99%BE%E7%BE%8E%E5%85%83%E8%BF%87%E5%B1%B1%E8%BD%A6%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7615935664181218879",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T13:03:06.267454+00:00",
+  "id": "a04a16e1-6ad8-44d7-9ea7-e82653d99a30",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13073302",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "不该让爷爷看b站的",
+  "raw_content": "在当今这个AI横行的年代 我们纪录片依旧使用真实拍摄\n这是我们对这些老资历的尊重\n现如今还有更多职业和手艺正在消失..\n下一集 我们将探访另一个正在消失的职业\n“擦边主播”",
+  "source_url": "https://www.bilibili.com/video/BV1xuPYzcEdo",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T13:03:06.917909+00:00",
+  "id": "e9cc1b72-152b-44f1-9007-6396830f6401",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 8489083,
+    "platform": "bilibili"
+  }
+}

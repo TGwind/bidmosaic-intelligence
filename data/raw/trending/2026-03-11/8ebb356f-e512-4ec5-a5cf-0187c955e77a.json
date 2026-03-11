@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "抄作业就能活：伊朗接下来怎么打，已经写在中国抗日和解放战争的历史里了",
+  "raw_content": "在损失越来越大的趋势下，接下来伊朗还能撑多久？",
+  "source_url": "https://www.bilibili.com/video/BV1P6NgzeEDW",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T13:03:06.917970+00:00",
+  "id": "8ebb356f-e512-4ec5-a5cf-0187c955e77a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3149175,
+    "platform": "bilibili"
+  }
+}
