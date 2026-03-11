@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin ETFs add $251M as Goldman Sachs tops XRP ETF holders",
+  "raw_content": "US spot Bitcoin ETFs continued their March rally, with cumulative monthly inflows reaching $1.56 billion, while XRP ETF selling eased as top holders were revealed.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-etf-inflow-xrp-selling-ease-goldman-sachs-top-holder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T09:03:02+00:00",
+  "id": "6f8a5f20-88f2-4a98-aeff-ad1476dd7287",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T13:18:33.107456+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

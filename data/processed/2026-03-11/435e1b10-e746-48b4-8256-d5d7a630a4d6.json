@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "U.S. February CPI matches forecasts, reinforcing expectations for no near-term rate cuts",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/11/u-s-february-inflation-data-matches-forecasts-reinforcing-expectations-for-no-near-term-rate-cuts",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T12:35:56+00:00",
+  "id": "435e1b10-e746-48b4-8256-d5d7a630a4d6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T13:18:33.083171+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

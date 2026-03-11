@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "ATLAS: Practical scaling laws for multilingual models",
+  "raw_content": "Generative AI",
+  "source_url": "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-01-27T18:58:00+00:00",
+  "id": "10c4cbc6-9d6b-496d-9f6f-5bbef92fb699",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T13:18:33.003957+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

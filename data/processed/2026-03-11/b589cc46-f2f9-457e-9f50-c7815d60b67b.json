@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Oracle jumps 11% premarket as AI demand challenges 'SaaS apocalypse' fears",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/11/oracle-jumps-11-premarket-as-ai-demand-challenges-saas-apocalypse-fears",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T10:10:46+00:00",
+  "id": "b589cc46-f2f9-457e-9f50-c7815d60b67b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T13:18:33.128508+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

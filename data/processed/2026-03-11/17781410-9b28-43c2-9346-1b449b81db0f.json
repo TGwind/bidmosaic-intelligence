@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Binance sues Wall Street Journal as newspaper says U.S. Dept. of Justice is investigating Iran transactions",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/11/binance-sues-wall-street-journal-as-newspaper-says-u-s-dept-of-justice-is-investigating-iran-transactions",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T12:29:14+00:00",
+  "id": "17781410-9b28-43c2-9346-1b449b81db0f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T13:18:33.024554+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

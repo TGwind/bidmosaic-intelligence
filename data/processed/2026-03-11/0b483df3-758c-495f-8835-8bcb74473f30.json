@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US seeks forfeiture of $3.4M in USDt tied to crypto investment scam",
+  "raw_content": "US prosecutors moved to forfeit $3.44 million in USDt allegedly tied to a crypto investment scam that tricked victims into sending Ether to wallets controlled by fraudsters.",
+  "source_url": "https://cointelegraph.com/news/us-seeks-forfeiture-3-4m-usdt-crypto-investment-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T10:25:42+00:00",
+  "id": "0b483df3-758c-495f-8835-8bcb74473f30",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T13:18:32.982737+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
