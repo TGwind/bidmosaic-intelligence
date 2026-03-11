@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "默茨警告以色列不要吞并约旦河西岸",
+  "raw_content": "默茨警告以色列不要吞并约旦河西岸",
+  "source_url": "https://www.toutiao.com/trending/7615239942167609407/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615239942167609407%22%2C%22hot_board_impr_id%22%3A%2220260311145614E408EE4A73AAEAA7A2B4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%98%E8%8C%A8%E8%AD%A6%E5%91%8A%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%8D%E8%A6%81%E5%90%9E%E5%B9%B6%E7%BA%A6%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%22%7D&rank=&style_id=40132&topic_id=7615239942167609407",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T06:56:15.199991+00:00",
+  "id": "5857472a-2ace-4d04-841b-31cf575ce1b6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T06:56:43.318955+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10657925",
+    "platform": "toutiao"
+  }
+}

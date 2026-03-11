@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "海关在旅客行李箱内查获18400支卷烟",
+  "raw_content": "海关在旅客行李箱内查获18400支卷烟",
+  "source_url": "https://www.toutiao.com/trending/7615509473444134938/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615509473444134938%22%2C%22hot_board_impr_id%22%3A%2220260311145614E408EE4A73AAEAA7A2B4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B5%B7%E5%85%B3%E5%9C%A8%E6%97%85%E5%AE%A2%E8%A1%8C%E6%9D%8E%E7%AE%B1%E5%86%85%E6%9F%A5%E8%8E%B718400%E6%94%AF%E5%8D%B7%E7%83%9F%22%7D&rank=&style_id=40132&topic_id=7615509473444134938",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T06:56:15.199966+00:00",
+  "id": "4f491727-9ddb-44c8-ac65-289826b8d43e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T06:56:43.321697+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14386694",
+    "platform": "toutiao"
+  }
+}
