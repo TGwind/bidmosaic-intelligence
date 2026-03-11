@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Understanding and Implementing Qwen3 From Scratch",
+  "raw_content": "A Detailed Look at One of the Leading Open-Source LLMs",
+  "source_url": "https://magazine.sebastianraschka.com/p/qwen3-from-scratch",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2025-09-06T11:10:21+00:00",
+  "id": "65fbfbd5-fa8b-4d16-95b0-c5fb0989b0cc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

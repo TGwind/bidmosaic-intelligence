@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin to $78K? Pro traders price in less than 17% odds of a breakout",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin to $78K? Pro traders price in less than 17% odds of a breakout\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RkZTctM2U1Zi03OTEwLWE5OTUtODdkMGQzZDQ0MzBkLmpwZw==.jpg\" /></p><p>Bitcoin remains under pressure as war and poor jobs data offset ETF inflows, shifting the $78,000 price target from late March to the coming months.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-to-78k-pro-traders-price-in-17-percent-odds-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T20:00:00+00:00",
+  "id": "fce3b81b-e2e4-413c-9f03-1a1bca46d563",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
