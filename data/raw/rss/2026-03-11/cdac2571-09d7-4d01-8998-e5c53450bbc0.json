@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日经上涨776点，软银领涨",
+  "raw_content": "<div>2026/03/11</div><div id=\"contentDiv\">\n<div></div>\n<div>      3月11日东京股市，日经平均股指继续上涨，较前一交易日上涨776点（2.1%），收于5万5025点，时隔3个交易日重新回到5万5000点关口。盘中涨幅一度超过1400点。领涨的是软银集团（SBG）。受甲骨文（Oracle）强劲业绩带动，其股价大幅上扬，收复了9日的跌幅。在中东局势紧张尚未缓解的情况下，市场仍显现出个人投资者强劲的买入意愿。</div>\n<div> </div>\n<div>      纽约原油期货价格下跌，使此前导致股市承压的通胀担忧有所缓解。七国集团（G7）能源部长10日对协调释放石油储备表示积极态度。此外，11日还传出国际能源署（IEA）提议进行该机构史上最大规模的石油储备释放。</div>\n<div> </div>\n<div>     当天，软银集团的暴涨尤为显眼，其股价上涨7.04%，仅这一只股票就将日经平均股指推高了205点。该股9日曾跌至3436点，创年初以来低点，但随着市场对中东局势恶化的担忧缓解，股价转而上升。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/61733-2026-03-11-15-31-43.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T07:38:02+00:00",
+  "id": "cdac2571-09d7-4d01-8998-e5c53450bbc0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

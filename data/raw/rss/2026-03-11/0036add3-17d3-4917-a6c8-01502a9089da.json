@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Former Apple engineer raises $5M for a note-taking pendant that only records your voice",
+  "raw_content": "Taya is trying to address privacy concerns around note-taking wearables with its device that can be worn as a pendant and records only the user's voice.",
+  "source_url": "https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-11T14:00:00+00:00",
+  "id": "0036add3-17d3-4917-a6c8-01502a9089da",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
