@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "曝美军方花900万美元买帝王蟹龙虾",
+  "raw_content": "曝美军方花900万美元买帝王蟹龙虾",
+  "source_url": "https://www.toutiao.com/trending/7615835834759151658/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615835834759151658%22%2C%22hot_board_impr_id%22%3A%22202603120255042418FD186044060FC52D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9B%9D%E7%BE%8E%E5%86%9B%E6%96%B9%E8%8A%B1900%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E5%B8%9D%E7%8E%8B%E8%9F%B9%E9%BE%99%E8%99%BE%22%7D&rank=&style_id=40132&topic_id=7615835834759151658",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T18:55:04.463581+00:00",
+  "id": "fa6a78bf-f156-4cd9-9f48-0473fe131d43",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T18:55:32.370404+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9122233",
+    "platform": "toutiao"
+  }
+}

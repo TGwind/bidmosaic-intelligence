@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "郑功成：“一刀切”调整养老金不现实",
+  "raw_content": "郑功成：“一刀切”调整养老金不现实",
+  "source_url": "https://www.toutiao.com/trending/7615983244659396150/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615983244659396150%22%2C%22hot_board_impr_id%22%3A%22202603120255042418FD186044060FC52D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E5%8A%9F%E6%88%90%EF%BC%9A%E2%80%9C%E4%B8%80%E5%88%80%E5%88%87%E2%80%9D%E8%B0%83%E6%95%B4%E5%85%BB%E8%80%81%E9%87%91%E4%B8%8D%E7%8E%B0%E5%AE%9E%22%7D&rank=&style_id=40132&topic_id=7615983244659396150",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T18:55:04.463590+00:00",
+  "id": "bbf33bae-23d3-49ff-b3cd-696bf0f90263",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T18:55:32.371209+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8254138",
+    "platform": "toutiao"
+  }
+}

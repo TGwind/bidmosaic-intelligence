@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "万斯的野心",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1cxNFzPEv7",
+  "raw_title": "《看来明天得买两份早餐了》",
+  "raw_content": "作词、翻唱：IPx的粉红豹 原曲：李荣浩《年少有为》 视频素材来自网络",
+  "source_url": "https://www.bilibili.com/video/BV1XiP9zwEwC",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-11T13:03:06.917991+00:00",
-  "id": "0208c54c-bc43-4db0-ac40-cce138509c4b",
+  "collected_at": "2026-03-11T18:55:05.403206+00:00",
+  "id": "02bdf156-ec4e-418d-882e-f2af91517181",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-11T18:55:32.344810+00:00",
+  "processed_at": "2026-03-11T18:55:32.344180+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2154826,
+    "hot_score": 6931698,
     "platform": "bilibili"
   }
 }

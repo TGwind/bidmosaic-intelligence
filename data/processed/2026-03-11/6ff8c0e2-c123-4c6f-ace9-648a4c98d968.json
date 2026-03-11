@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "从两高报告数据感受平安中国",
-  "raw_content": "从两高报告数据感受平安中国",
-  "source_url": "https://www.toutiao.com/article/7615626140341879348",
+  "raw_title": "多领域发力共促高质量发展",
+  "raw_content": "多领域发力共促高质量发展",
+  "source_url": "https://www.toutiao.com/article/7615896091824882185",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-11T06:56:15.199982+00:00",
-  "id": "3f402b29-40f0-4a7e-8d7b-350d46f290f7",
+  "collected_at": "2026-03-11T18:55:04.463599+00:00",
+  "id": "6ff8c0e2-c123-4c6f-ace9-648a4c98d968",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-11T18:55:32.358262+00:00",
+  "processed_at": "2026-03-11T18:55:32.359818+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "11778828",
+    "hot_score": "7468653",
     "platform": "toutiao"
   }
 }

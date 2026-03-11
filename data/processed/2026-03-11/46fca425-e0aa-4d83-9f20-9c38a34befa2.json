@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "万斯的野心",
+  "raw_title": "《顶级活阎王》",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1cxNFzPEv7",
+  "source_url": "https://www.bilibili.com/video/BV1JVN5zBEqd",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-11T13:03:06.917991+00:00",
-  "id": "0208c54c-bc43-4db0-ac40-cce138509c4b",
+  "collected_at": "2026-03-11T18:55:05.403186+00:00",
+  "id": "46fca425-e0aa-4d83-9f20-9c38a34befa2",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-11T18:55:32.344810+00:00",
+  "processed_at": "2026-03-11T18:55:32.364552+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2154826,
+    "hot_score": 4942138,
     "platform": "bilibili"
   }
 }
