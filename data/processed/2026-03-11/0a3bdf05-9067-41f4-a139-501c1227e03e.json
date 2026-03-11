@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Sharon Kozicki: Canada's monetary policy framework in a world of supply-driven trade-offs",
+  "raw_content": "Remarks by Ms Sharon Kozicki, Deputy Governor of the Bank of Canada, at the Norges Bank (Central Bank of Norway) Monetary Policy Mandate Conference, Oslo, 2 March 2026.",
+  "source_url": "https://www.bis.org/review/r260309g.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T05:14:39.610228+00:00",
+  "id": "0a3bdf05-9067-41f4-a139-501c1227e03e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T05:16:26.648537+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

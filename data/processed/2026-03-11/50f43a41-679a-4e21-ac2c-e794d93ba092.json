@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Ryozo Himino: Japan's economy and monetary policy",
+  "raw_content": "Speech by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, at a meeting with local leaders, Wakayama, 2 March 2026.",
+  "source_url": "https://www.bis.org/review/r260309b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T05:14:39.610501+00:00",
+  "id": "50f43a41-679a-4e21-ac2c-e794d93ba092",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T05:16:26.713082+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

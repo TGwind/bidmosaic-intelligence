@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stablecoin boom could eat into traditional banks' profits, warn Jefferies analysts",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/10/stablecoin-boom-could-eat-into-traditional-banks-profits-warn-jefferies-analysts",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-10T20:46:17+00:00",
+  "id": "4ae8bb7f-7683-492b-9231-4df04ff3abdf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-11T05:16:26.712217+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
