@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Health insurance startup Alan reaches €5B valuation",
+  "raw_content": "French health insurance startup Alan is now valued at €5 billion — approximately $5.83 billion, up from $4.5 billion in 2024.",
+  "source_url": "https://techcrunch.com/2026/03/11/health-insurance-startup-alan-reaches-e5b-valuation/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-11T10:00:00+00:00",
+  "id": "af0854e0-0614-4177-9eb7-678ed3e849e2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

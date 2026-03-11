@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Aave wstETH glitch forces $27M in liquidations and compensation",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave wstETH glitch forces $27M in liquidations and compensation\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RjMjktMWJjNC03Y2JhLThjZDAtM2VhMmFiZGY4MTJiLmpwZw==.jpg\" /></p><p>Capo, an external oracle solution used by Aave, triggered around $27 million in liquidations after a pricing glitch, but the lending platform said it is stepping in to cover the losses.</p>",
+  "source_url": "https://cointelegraph.com/news/aave-capo-oracle-glitch-27m-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T10:15:38+00:00",
+  "id": "7a1a4047-8e03-4f72-82d3-f2c316b2a8fc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
