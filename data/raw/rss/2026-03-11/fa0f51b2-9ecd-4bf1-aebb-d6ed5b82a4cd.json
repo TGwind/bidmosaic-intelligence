@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "BBC调查：尼泊尔年轻抗议者如何在街头被射杀",
+  "raw_content": "<div><div><div><noscript><div><div><strong>你的器材不支持播放多媒体材料</strong></div></div></noscript></div><span>BBC调查：尼泊尔年轻抗议者如何在街头被射杀</span></span></div></div><div><strong>BBC调查：尼泊尔年轻抗议者如何在街头被射杀</strong></div><div><time datetime=\"2026-03-02\">2026年3月2日</time></div><div><p>去年9月，尼泊尔爆发了示威活动，警方开枪射杀了19名Z世代抗议者。这场抗议引发全国动荡并导致政府垮台。</p></div><div><p>《BBC之眼》运用数千段影像、外泄的警方文件以及第一手证词，揭示了使警方得以对手无寸铁的抗议者使用实弹的指挥链条。</p></div>",
+  "source_url": "https://www.bbc.com/zhongwen/articles/ckg1xzx3eldo/simp#2",
+  "source_name": "BBC中文",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T05:13:02+00:00",
+  "id": "fa0f51b2-9ecd-4bf1-aebb-d6ed5b82a4cd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/bbc.xml",
+    "category": "china_news",
+    "source_type": "wire",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

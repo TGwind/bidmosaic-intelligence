@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "一名中国留学生，在美国当上了牛仔",
+  "raw_content": "<div><div><div><noscript><div><div><strong>你的器材不支持播放多媒体材料</strong></div></div></noscript></div><span>一名中国留学生，在美国当上了牛仔</span></span></div></div><div><strong>一名中国留学生，在美国当上了牛仔</strong></div><div><time datetime=\"2026-03-02\">2026年3月2日</time></div><div><p>一位中国留学生，在美国德州当上了牛仔。</p></div><div><p>尽管移民政策走向充满变数，布鲁斯·王（Bruce Wang）还是在美国找到了属于自己的社群，也在这片土地上，扎下了新的生活。</p></div>",
+  "source_url": "https://www.bbc.com/zhongwen/articles/cy035l33dggo/simp#2",
+  "source_name": "BBC中文",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-11T05:13:02+00:00",
+  "id": "5e022f76-33fe-4a79-9653-261aeab6755e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/bbc.xml",
+    "category": "china_news",
+    "source_type": "wire",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

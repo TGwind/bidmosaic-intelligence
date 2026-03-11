@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Caroline Abel: Closing remarks - \"Navigating risk and resilience - AML/CFT strategies for a transparent financial system for reporting entities in Seychelles\"",
+  "raw_content": "Closing remarks by Ms Caroline Abel, Governor of Central Bank of Seychelles, at the workshop on \"Navigating risk and resilience: AML/CFT strategies for a transparent financial system for reporting entities in Seychelles\", Beau Vallon, 4 February 2026.",
+  "source_url": "https://www.bis.org/review/r260309c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T05:14:39.610416+00:00",
+  "id": "704e85fe-f94b-467a-87be-35619d147142",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Sarah Hunter: Recent refinements to the dual mandate and navigating back to target",
+  "raw_content": "Remarks by Ms Sarah Hunter, Assistant Governor (Economic) of the Reserve Bank of Australia, at the Norges Bank (Central Bank of Norway) Monetary Policy Mandate Conference, Oslo, 2 March 2026.",
+  "source_url": "https://www.bis.org/review/r260309d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T05:14:39.610316+00:00",
+  "id": "3a5b55b3-1ca6-4707-8d2a-44938e2678cd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

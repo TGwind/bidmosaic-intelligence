@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Understanding Roblox’s Grooming Problem",
+  "raw_content": "Cecilia D’Anstasio on Roblox’s efforts to protect children from pedophiles.",
+  "source_url": "https://www.404media.co/understanding-robloxs-grooming-problem/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-09T15:36:54+00:00",
+  "id": "1e89e715-a053-43a1-addb-c1cc9c7d3a0e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
