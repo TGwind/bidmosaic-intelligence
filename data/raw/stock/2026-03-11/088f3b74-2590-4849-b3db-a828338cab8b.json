@@ -1,0 +1,41 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "亨通光电(600487) 今日涨1.62% 报50.80元",
+  "raw_content": "亨通光电(600487) 最新价 50.80元，涨1.62%，涨跌额 +0.81元，今开 51.00元，最高 54.30元，最低 50.63元，昨收 49.99元，成交额 87.75亿元，振幅 7.34%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh600487/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-11T10:34:34.884688+00:00",
+  "id": "088f3b74-2590-4849-b3db-a828338cab8b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [
+      "600487"
+    ],
+    "price_change": {
+      "price": 50.8,
+      "change_pct": 1.62,
+      "change_amt": 0.81
+    },
+    "indicators": {
+      "volume": 168100591.0,
+      "turnover": 8775463958.0,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 7.34,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}
