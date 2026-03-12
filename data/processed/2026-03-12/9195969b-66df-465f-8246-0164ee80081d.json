@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Lucid Motors shows off robotaxi concept called ‘Lunar’",
+  "raw_content": "The concept was a highlight of Lucid's investor day, in which the company detailed its ambitions to push deeper into autonomy while pumping out new, affordable EVs.",
+  "source_url": "https://techcrunch.com/2026/03/12/lucid-motors-shows-off-robotaxi-concept-called-lunar/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-12T17:19:20+00:00",
+  "id": "9195969b-66df-465f-8246-0164ee80081d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T20:44:47.758866+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

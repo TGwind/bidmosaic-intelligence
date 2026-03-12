@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CFTC chair opens prediction markets rulemaking to public comment",
+  "raw_content": "“This ends today,“ said CFTC Chair Michael Selig, who has been reiterating his position that the agency has exclusive jurisdiction overseeing prediction markets platforms.",
+  "source_url": "https://cointelegraph.com/news/cftc-chair-prediction-markets-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T17:06:53+00:00",
+  "id": "9b1a1193-e06d-4bcd-b529-54d281945f24",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T20:44:47.760900+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

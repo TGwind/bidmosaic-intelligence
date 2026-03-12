@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin funding rate flips negative: Are bears getting too confident?",
+  "raw_content": "While geopolitical tension and weak labor data are hurting market sentiment, institutional buying below $75,000 may soon exhaust sellers and spark a bull run.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-funding-rate-flips-negative-are-btc-bears-too-confident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T19:01:34+00:00",
+  "id": "8a805222-533e-46c0-9f28-d18084e2377c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T20:44:47.767359+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
