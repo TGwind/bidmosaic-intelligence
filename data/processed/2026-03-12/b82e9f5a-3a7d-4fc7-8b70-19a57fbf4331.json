@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "BoE open to scrapping stablecoin limit idea after backlash",
+  "raw_content": "Industry groups have criticized the UK’s proposed stablecoin holding limits, arguing they would signal that the UK is hostile to crypto and stifle innovation.",
+  "source_url": "https://cointelegraph.com/news/bank-of-england-sterling-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T05:14:23+00:00",
+  "id": "b82e9f5a-3a7d-4fc7-8b70-19a57fbf4331",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T08:56:25.640176+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

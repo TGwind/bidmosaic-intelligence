@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Netflix将400个生产集群的RDS PostgreSQL自动迁移到Aurora PostgreSQL",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/B4pa7kXcvKVpX1rVmFkG?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-12T16:00:00+00:00",
+  "id": "f5bbf920-b913-41db-a9e9-e9d669eb30cf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T08:56:25.650136+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

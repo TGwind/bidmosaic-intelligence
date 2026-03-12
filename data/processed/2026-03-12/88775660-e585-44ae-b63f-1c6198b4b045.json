@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "本田2025财年最多将亏损6900亿日元",
+  "raw_content": "2026/03/12 本田3月12日宣布，预计2025财年（截至2026年3月）的合并最终损益（国际会计准则）最多将出现6900亿日元亏损（上财年为8358亿日元盈利）。与此前预测的盈利3000亿日元（较上财年减少64%）相比，最多将下调9900亿日元。这将是本田上市以来首次最终亏损。本田已将随着电动汽车（EV）普及放缓而产生的投资损失等因素计入。 本田还估算，在下一财年及以后的合并业绩中，随着EV战略调整，可能计入额外费用或损失。若与2025财年的损失合计，最多可能达到2万5000亿日元。 鉴于此次的损失以及业绩预测的修正情况，本田同时宣布，部分高管将自愿返还2026财年（截至2027年3月）的部分报酬。其中，代表执行董事社长和代表执行董事副社长将返还月度报酬的30%（为期3个月）。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/industry/icar/61750-2026-03-12-15-20-52.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-12T07:38:03+00:00",
+  "id": "88775660-e585-44ae-b63f-1c6198b4b045",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T08:56:25.621738+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

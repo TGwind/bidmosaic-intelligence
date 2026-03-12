@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Meet LITRO: The tokenized crude project to start pilot testing soon for 2027 debut",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/12/meet-litro-the-tokenized-crude-project-to-start-pilot-testing-soon-for-2027-debut",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T07:15:22+00:00",
+  "id": "a1b9b1c4-931c-4b24-9b6e-cf0d07991688",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T08:56:25.631848+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

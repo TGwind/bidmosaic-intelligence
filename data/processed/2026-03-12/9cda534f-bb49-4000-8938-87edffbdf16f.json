@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "AI agent payment volumes lower than reported, but adoption is growing: a16z",
+  "raw_content": "Andreessen Horowitz partner Noah Levine says AI agents made $1.6 million in payments in the past month, which “is not a big number, but the infrastructure being built around it is.”",
+  "source_url": "https://cointelegraph.com/news/ai-agent-payment-volume-closer-to-1-6m-says-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T05:57:25+00:00",
+  "id": "9cda534f-bb49-4000-8938-87edffbdf16f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T08:56:25.637855+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

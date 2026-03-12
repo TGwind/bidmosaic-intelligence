@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "New Zealand regulator says NZDD stablecoin not a financial product",
+  "raw_content": "Law firm MinterEllisonRuddWatts, which acted on behalf of the stablecoin’s issuer, says the designation of the token is an important step for regulatory clarity.",
+  "source_url": "https://cointelegraph.com/news/nzdd-stablecoin-fma-regulatory-clarity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T06:34:16+00:00",
+  "id": "cd3b67d4-d802-4734-aecf-51387738a99a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T08:56:25.647499+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
