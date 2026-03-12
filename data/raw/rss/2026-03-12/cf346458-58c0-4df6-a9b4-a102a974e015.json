@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Binance says US midterms could boost Bitcoin and stocks",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance says US midterms could boost Bitcoin and stocks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UxYjYtMGI5YS03MWY2LTk0MTgtM2EzMzlmNWIwZGRhLmpwZw==.jpg\" /></p><p>Binance Research says US midterms could set up a rebound for Bitcoin and stocks, though oil shocks and Middle East tensions may weigh near term.</p>",
+  "source_url": "https://cointelegraph.com/news/us-midterm-elections-crypto-stock-recovery-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T12:45:40+00:00",
+  "id": "cf346458-58c0-4df6-a9b4-a102a974e015",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

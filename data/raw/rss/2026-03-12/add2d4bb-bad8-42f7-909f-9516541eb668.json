@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Honda scraps 3 EVs planned for the US, blaming tariffs and Chinese competition",
+  "raw_content": "The Japanese automaker said the change of plans will cost it up to $15.7 billion.",
+  "source_url": "https://techcrunch.com/2026/03/12/honda-scraps-3-evs-planned-for-the-us-blaming-tariffs-and-chinese-competition/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-12T14:00:58+00:00",
+  "id": "add2d4bb-bad8-42f7-909f-9516541eb668",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
