@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "校园躲猫猫大赛！失败就去北极生存100小时！",
+  "raw_content": "校园躲猫猫大赛！失败就去北极生存100小时！",
+  "source_url": "https://www.bilibili.com/video/BV1ocPXzTEvV",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-12T18:56:01.680091+00:00",
+  "id": "8915ca02-a435-4c4a-9bbe-e90b4c00f37f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 11868857,
+    "platform": "bilibili"
+  }
+}
