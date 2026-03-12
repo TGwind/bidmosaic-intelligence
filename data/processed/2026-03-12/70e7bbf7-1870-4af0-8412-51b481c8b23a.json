@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "乐山大佛被传是大禹雕像？假的",
+  "raw_content": "乐山大佛被传是大禹雕像？假的",
+  "source_url": "https://www.toutiao.com/trending/7615904876035653668/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615904876035653668%22%2C%22hot_board_impr_id%22%3A%2220260312145750CC19BF2EE01ACDA34C2A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E8%A2%AB%E4%BC%A0%E6%98%AF%E5%A4%A7%E7%A6%B9%E9%9B%95%E5%83%8F%EF%BC%9F%E5%81%87%E7%9A%84%22%7D&rank=&style_id=40132&topic_id=7615904876035653668",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-12T06:57:50.517645+00:00",
+  "id": "70e7bbf7-1870-4af0-8412-51b481c8b23a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T06:58:16.067429+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "6025052",
+    "platform": "toutiao"
+  }
+}

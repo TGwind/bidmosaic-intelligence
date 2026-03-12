@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "北方多地大到暴雪来袭",
+  "raw_content": "北方多地大到暴雪来袭",
+  "source_url": "https://www.toutiao.com/trending/7615986821545951274/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615986821545951274%22%2C%22hot_board_impr_id%22%3A%2220260312145750CC19BF2EE01ACDA34C2A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%AA%E6%9D%A5%E8%A2%AD%22%7D&rank=&style_id=40132&topic_id=7615986821545951274",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-12T06:57:50.517565+00:00",
+  "id": "f0bf2139-987c-425f-919b-e56591079344",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T06:58:16.072497+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10978362",
+    "platform": "toutiao"
+  }
+}

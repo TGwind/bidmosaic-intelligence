@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "政协委员这样热议",
-  "raw_content": "政协委员这样热议",
-  "source_url": "https://www.toutiao.com/article/7615911973071290886",
+  "raw_title": "2026年全国两会会风观察",
+  "raw_content": "2026年全国两会会风观察",
+  "source_url": "https://www.toutiao.com/article/7616061358798422537",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-12T02:11:17.458598+00:00",
-  "id": "3a67abb0-7eaa-4754-8698-4115dd64b661",
+  "collected_at": "2026-03-12T06:57:50.517514+00:00",
+  "id": "db7054dc-3434-4480-8749-39ad18a88624",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-12T06:58:16.048199+00:00",
+  "processed_at": "2026-03-12T06:58:16.069825+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "20289979",
+    "hot_score": "13409001",
     "platform": "toutiao"
   }
 }
