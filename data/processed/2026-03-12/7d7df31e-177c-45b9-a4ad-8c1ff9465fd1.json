@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "JPMorgan sued over alleged role in $328M crypto Ponzi scheme",
+  "raw_content": "Investors allege JPMorgan helped facilitate fund flows in a $328 million crypto Ponzi scheme, while a parallel federal case targets Goliath Ventures’ founder.",
+  "source_url": "https://cointelegraph.com/news/jpmorgan-328-million-crypto-ponzi-scheme-goliath?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T10:59:08+00:00",
+  "id": "7d7df31e-177c-45b9-a4ad-8c1ff9465fd1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T13:19:00.621371+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

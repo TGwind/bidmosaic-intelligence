@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Chang Yong Rhee: The future of Asia - can it remain the engine of global growth?",
+  "raw_content": "Keynote speech by Mr Chang Yong Rhee, Governor of the Bank of Korea, at the \"Asia in 2050 Conference\", organised by the International Monetary Fund and the Bank of Thailand, Bangkok, 5 March 2026.",
+  "source_url": "https://www.bis.org/review/r260310a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-12T13:18:24.329527+00:00",
+  "id": "3aaf97bb-6f1c-4dcc-8ada-8198a78c75c0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T13:19:00.570728+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
