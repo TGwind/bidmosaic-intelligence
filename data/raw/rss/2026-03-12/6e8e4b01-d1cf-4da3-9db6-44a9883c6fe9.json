@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto platform Bullish climbs past Coinbase to become third-largest crypto exchange by spot volume",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/11/crypto-platform-bullish-climbs-past-coinbase-to-become-third-largest-crypto-exchange-by-spot-volume",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T20:33:01+00:00",
+  "id": "6e8e4b01-d1cf-4da3-9db6-44a9883c6fe9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

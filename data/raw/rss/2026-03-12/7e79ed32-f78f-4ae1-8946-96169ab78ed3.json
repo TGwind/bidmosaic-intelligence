@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stablecoins won't get any kind of deposit insurance under GENIUS rules, says FDIC chief",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/11/stablecoins-won-t-get-any-kind-of-deposit-insurance-under-genius-rules-says-fdic-chief",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T16:08:56+00:00",
+  "id": "7e79ed32-f78f-4ae1-8946-96169ab78ed3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

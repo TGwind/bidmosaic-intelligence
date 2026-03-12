@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本释放两成石油储备",
+  "raw_content": "<div>2026/03/12</div><div id=\"contentDiv\">\n<div></div>\n<div>      日本首相高市早苗政府在IEA成员国决定之前，就已决定最快于3月16日开始释放国内储备石油，预计释放量约为日本国内储备的两成。同时，对价格高涨的汽油补贴也将从19日出货部分开始实施。在预计来自中东、驶往日本的油轮减少的情况下，此举旨在消除供需紧张的不安，并抑制燃料价格上涨。</div>\n<div> </div>\n<div>      截至2025年12月底，日本国家石油储备为146天份，民间储备为101天份，产油国共同储备为7天份，总计约4.7亿桶。此次决定释放的包括：国家储备约相当于21%的1个月用量，以及民间储备约15%的15天用量。</div>\n<div> </div>\n<div>      伊藤忠综合研究所的武田淳认为：“短期内不会马上出现原油短缺，储备也十分充足。即便如此仍提前宣布释放，目的在于向市场释放安心信号”。</div>\n<div> </div>\n<div>      日本原油对中东依赖度较高，因此容易受到无法通过霍尔木兹海峡的影响。是否释放石油储备，政府内部从上周起就已开始非公开讨论。首相还曾指示研究在各国中率先释放储备的方式。</div>\n<div></div><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61735-2026-03-12-08-08-27.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-12T01:08:04+00:00",
+  "id": "55fa0873-639e-438c-a335-e0c84aa8c5cc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

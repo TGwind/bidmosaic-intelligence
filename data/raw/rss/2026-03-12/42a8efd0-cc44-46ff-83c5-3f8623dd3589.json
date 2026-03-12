@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "原油升至90美元区间",
+  "raw_content": "<div>2026/03/12</div><div id=\"contentDiv\">\n<div></div>\n<div>      美国原油指标WTI（西得克萨斯中质原油）期货3月12日较前一日收盘价上涨6%，升至每桶90美元出头。尽管国际能源署（IEA）成员国决定实施史上最大规模的石油储备协同释放，但仍未能阻止油价上涨。市场认为协同释放难以弥补供应不足，再加上对战争长期化的担忧加剧。</div>\n<div>  </div>\n<div>      IEA成员国11日就释放创纪录规模的4亿桶石油储备达成一致。从七国集团（G7）开始行动到达成协议，仅用了3天时间。各国暂时搁置对美国和以色列攻击伊朗的批评，为稳定原油价格统一行动。</div>\n<div> </div>\n<div>      4亿桶的规模是俄罗斯入侵乌克兰时释放的1.8亿桶的两倍。据称，这相当于IEA成员国所持超过12亿桶公共石油储备的约四成。</div>\n<div>  </div>\n<div>      不过，稳定价格的效果有限。WTI价格在美国东部时间上午9时至10时各媒体报道IEA决定后，一度跌至82美元区间，但随后反弹。到上午11时已回到IEA决定前的水平，之后继续缓慢上升。</div>\n<div>  </div>\n<div></div><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61734-2026-03-12-08-08-28.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-12T00:38:03+00:00",
+  "id": "42a8efd0-cc44-46ff-83c5-3f8623dd3589",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
