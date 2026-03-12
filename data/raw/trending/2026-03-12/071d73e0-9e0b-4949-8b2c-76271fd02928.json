@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "十四届全国人大四次会议闭幕会",
+  "raw_content": "十四届全国人大四次会议闭幕会",
+  "source_url": "https://webcast-open.douyin.com/open/media_live/282773369501",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-12T06:57:50.517529+00:00",
+  "id": "071d73e0-9e0b-4949-8b2c-76271fd02928",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "12132966",
+    "platform": "toutiao"
+  }
+}
