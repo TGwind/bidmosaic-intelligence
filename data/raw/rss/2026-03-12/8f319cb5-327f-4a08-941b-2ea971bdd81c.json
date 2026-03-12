@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Coinbase execs deny lobbying against Bitcoin de minimis tax exemption",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase execs deny lobbying against Bitcoin de minimis tax exemption\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UyZTUtMDU4Yi03NWY1LWJjZjEtMjJjMTAzZmJjOGQzLmpwZw==.jpg\" /></p><p>US lawmakers are eyeing tax exemptions for US dollar stablecoins, which are pegged and do not change in value, but not other cryptocurrencies.</p>",
+  "source_url": "https://cointelegraph.com/news/coinbase-deny-lobby-bitcoin-tax-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T18:54:28+00:00",
+  "id": "8f319cb5-327f-4a08-941b-2ea971bdd81c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

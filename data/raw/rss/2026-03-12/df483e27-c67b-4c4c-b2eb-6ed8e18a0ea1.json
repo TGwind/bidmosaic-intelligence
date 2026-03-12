@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The System Hallucination Scale (SHS): A Minimal yet Effective Human-Centered Instrument for Evaluating Hallucination-Related Behavior in Large Language Models",
+  "raw_content": "arXiv:2603.09989v1 Announce Type: new \nAbstract: We introduce the System Hallucination Scale (SHS), a lightweight and human-centered measurement instrument for assessing hallucination-related behavior in large language models (LLMs). Inspired by established psychometric tools such as the System Usability Scale (SUS) and the System Causability Scale (SCS), SHS enables rapid, interpretable, and domain-agnostic evaluation of factual unreliability, incoherence, misleading presentation, and responsiveness to user guidance in model-generated text. SHS is explicitly not an automatic hallucination detector or benchmark metric; instead, it captures how hallucination phenomena manifest from a user perspective under realistic interaction conditions. A real-world evaluation with 210 participants demonstrates high clarity, coherent response behavior, and construct validity, supported by statistical analysis including internal consistency (Cronbach's alpha = 0.87$) and significant inter-dimension correlations (p < 0.001$). Comparative analysis with SUS and SCS reveals complementary measurement properties, supporting SHS as a practical tool for comparative analysis, iterative system development, and deployment monitoring.",
+  "source_url": "https://arxiv.org/abs/2603.09989",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-12T04:00:00+00:00",
+  "id": "df483e27-c67b-4c4c-b2eb-6ed8e18a0ea1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

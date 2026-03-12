@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Law enforcement shuts down botnet made of tens of thousands of hacked routers",
+  "raw_content": "An international law enforcement operation shut down a service called SocksEscort, which allegedly helped cybercriminals all over the world launch ransomware and DDoS attacks, as well as distribute child sexual abuse material.",
+  "source_url": "https://techcrunch.com/2026/03/12/law-enforcement-shuts-down-botnet-made-of-tens-of-thousands-of-hacked-routers/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-12T16:43:49+00:00",
+  "id": "18f165fa-68a8-4ed6-9208-614ab7d0d569",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
