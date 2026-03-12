@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Asia’s biggest bitcoin buyer now wants to build the BTC ecosystem",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/12/asia-s-biggest-bitcoin-buyer-now-wants-to-further-build-the-btc-ecosystem",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T06:55:28+00:00",
+  "id": "3b205ac2-2a3a-4903-9241-7aa12f16d5e6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

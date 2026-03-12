@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "FATF warns offshore crypto firms create money laundering and sanctions gaps",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"FATF warns offshore crypto firms create money laundering and sanctions gaps\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UxZTQtNWRkOC03YjRmLTkwMzQtY2U4MDcyMWEzMjQwLmpwZw==.jpg\" /></p><p>A new FATF report says crypto exchanges operating offshore can create gaps in AML enforcement, making it harder for regulators to track illicit activity.</p>",
+  "source_url": "https://cointelegraph.com/news/fatf-warns-offshore-crypto-platforms-illicit-finance-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T13:11:15+00:00",
+  "id": "72296fc0-43bf-42ac-ad69-3632e551131a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

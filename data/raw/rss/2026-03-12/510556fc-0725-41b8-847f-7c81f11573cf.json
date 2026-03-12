@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy’s STRC buys an estimated 7,000 bitcoin this week, but Two Prime CEO warns ‘no free lunch’",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/12/strategy-s-strc-buys-an-estimated-7-000-bitcoin-this-week-but-two-prime-ceo-warns-no-free-lunch",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T10:53:30+00:00",
+  "id": "510556fc-0725-41b8-847f-7c81f11573cf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
