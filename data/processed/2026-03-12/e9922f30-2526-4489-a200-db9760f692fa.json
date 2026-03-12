@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Tesla becomes a utility in the UK, setting up showdown with Octopus Energy",
+  "raw_content": "The new Tesla Energy Ventures division was approved by Ofgem to sell electricity directly to customers.",
+  "source_url": "https://techcrunch.com/2026/03/12/tesla-becomes-a-utility-in-the-uk-setting-up-showdown-with-octopus-energy/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-12T16:36:41+00:00",
+  "id": "e9922f30-2526-4489-a200-db9760f692fa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T17:06:52.872771+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

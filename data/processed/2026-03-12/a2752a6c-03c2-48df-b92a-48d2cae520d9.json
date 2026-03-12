@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ark Invest sees one-third of Bitcoin supply at risk from quantum threat",
+  "raw_content": "Ark and Unchained say about one-third of the Bitcoin supply remains exposed to future quantum threats, though the risk is still years away.",
+  "source_url": "https://cointelegraph.com/news/ark-bitcoin-quantum-risk-supply-bip-360?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T14:04:10+00:00",
+  "id": "a2752a6c-03c2-48df-b92a-48d2cae520d9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T17:06:52.852374+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

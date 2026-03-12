@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+  "raw_content": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+  "source_url": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-26T18:00:00+00:00",
+  "id": "1552047f-4475-4c87-bb3c-fe7046fefef4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T17:06:52.732560+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

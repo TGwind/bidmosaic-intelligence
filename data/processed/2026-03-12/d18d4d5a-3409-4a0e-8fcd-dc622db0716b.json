@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "U.S. Senate votes to ban CBDCs in housing bill that may face trouble in the House",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/12/u-s-senate-votes-to-ban-cbdcs-in-housing-bill-that-may-face-trouble-in-the-house",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T16:21:15+00:00",
+  "id": "d18d4d5a-3409-4a0e-8fcd-dc622db0716b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T17:06:52.865402+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
