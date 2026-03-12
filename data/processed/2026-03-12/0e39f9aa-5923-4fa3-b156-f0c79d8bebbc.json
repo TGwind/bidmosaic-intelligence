@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ripple to buy back $750M in shares through April: Report",
+  "raw_content": "Despite a decline in the price of XRP in the last year, Ripple is expected to reach a valuation 25% higher than reported after a November 2025 funding round.",
+  "source_url": "https://cointelegraph.com/news/ripple-buy-back-shares-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-11T21:19:53+00:00",
+  "id": "0e39f9aa-5923-4fa3-b156-f0c79d8bebbc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T02:44:46.576868+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
