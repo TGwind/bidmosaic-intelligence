@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "20颗死神辣椒下肚 评委差点原地飞升！《美国烧烤对决》顶级阳谋",
-  "raw_content": "新系列 兄弟们！用来拌饭太香了",
-  "source_url": "https://www.bilibili.com/video/BV1JvPDzKExq",
+  "raw_title": "《明日方舟：终末地》干员叙事 [汤汤：大当家，大气概]",
+  "raw_content": "要更帅气、更传奇，表现出我的威风——重来！",
+  "source_url": "https://www.bilibili.com/video/BV157cQzdEXu",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-12T13:02:52.492769+00:00",
-  "id": "705e2226-408b-4f2d-a563-d6444772f1eb",
+  "collected_at": "2026-03-12T18:56:01.680119+00:00",
+  "id": "559723c7-083a-4b4e-8a96-d2f88644d945",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-12T18:56:30.678544+00:00",
+  "processed_at": "2026-03-12T18:56:30.672166+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3366767,
+    "hot_score": 3603972,
     "platform": "bilibili"
   }
 }

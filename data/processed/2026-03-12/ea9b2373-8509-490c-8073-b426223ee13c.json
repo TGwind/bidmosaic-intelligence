@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "多领域发力共促高质量发展",
-  "raw_content": "多领域发力共促高质量发展",
-  "source_url": "https://www.toutiao.com/article/7615896091824882185",
+  "raw_title": "为全球发展注入稳定性和正能量",
+  "raw_content": "为全球发展注入稳定性和正能量",
+  "source_url": "https://www.toutiao.com/article/7616160786326487604",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-12T02:11:17.458652+00:00",
-  "id": "f81ad2c1-554a-4e69-b409-438cdcc42318",
+  "collected_at": "2026-03-12T18:56:01.058908+00:00",
+  "id": "ea9b2373-8509-490c-8073-b426223ee13c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-12T18:56:30.688017+00:00",
+  "processed_at": "2026-03-12T18:56:30.687552+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "11135376",
+    "hot_score": "22140067",
     "platform": "toutiao"
   }
 }

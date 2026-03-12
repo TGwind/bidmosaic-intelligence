@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "20颗死神辣椒下肚 评委差点原地飞升！《美国烧烤对决》顶级阳谋",
-  "raw_content": "新系列 兄弟们！用来拌饭太香了",
-  "source_url": "https://www.bilibili.com/video/BV1JvPDzKExq",
+  "raw_title": "人在柬埔寨，刚下飞机，现在跑还来得及吗？",
+  "raw_content": "《电子商务园区一日游，但是IP在柬埔寨》",
+  "source_url": "https://www.bilibili.com/video/BV1e9cfz5EKj",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-12T13:02:52.492769+00:00",
-  "id": "705e2226-408b-4f2d-a563-d6444772f1eb",
+  "collected_at": "2026-03-12T18:56:01.680154+00:00",
+  "id": "bb2107e9-dbc5-4561-b6a1-c7e4724b5a58",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-12T18:56:30.678544+00:00",
+  "processed_at": "2026-03-12T18:56:30.680122+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3366767,
+    "hot_score": 2467627,
     "platform": "bilibili"
   }
 }
