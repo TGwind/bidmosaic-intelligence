@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "多领域发力共促高质量发展",
-  "raw_content": "多领域发力共促高质量发展",
-  "source_url": "https://www.toutiao.com/article/7615896091824882185",
+  "raw_title": "两会经济热点快评",
+  "raw_content": "两会经济热点快评",
+  "source_url": "https://www.toutiao.com/article/7615958997208498715",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-12T02:11:17.458652+00:00",
-  "id": "f81ad2c1-554a-4e69-b409-438cdcc42318",
+  "collected_at": "2026-03-12T13:02:51.535367+00:00",
+  "id": "db00216a-30c4-4fae-86aa-707ba826c90d",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-12T13:03:18.147523+00:00",
+  "processed_at": "2026-03-12T13:03:18.149486+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "11135376",
+    "hot_score": "9145853",
     "platform": "toutiao"
   }
 }

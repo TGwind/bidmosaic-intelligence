@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "开拓者去欢愉打工然后丧失仅存的一丝梦想",
+  "raw_content": "这个任务可以拿30星琼非常值得 超级欢愉视频 部分火花配音来自up主 @红糖仓鼠 BGM来自：星铁花火的PV【独角戏】",
+  "source_url": "https://www.bilibili.com/video/BV1M5NFzrEKK",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-12T13:02:52.492744+00:00",
+  "id": "20236c90-40b4-4484-af31-67c06587553c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T13:03:18.133244+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1480906,
+    "platform": "bilibili"
+  }
+}

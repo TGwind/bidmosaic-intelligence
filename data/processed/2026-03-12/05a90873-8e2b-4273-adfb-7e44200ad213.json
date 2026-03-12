@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "一人买下全世界，连呼吸都要收费！资本主义的终极形态有多疯狂？【B站AI创作大赛-开放赛道】",
+  "raw_content": "大部分科幻最终的落脚点还是社会科学，不是么？ 是现实过于科幻，还是科幻过于现实？ 内容融合了部分《三体》和《赡养人类》的设定，也算是补全了《三体》中的一部分剧情，感谢刘慈欣老师~",
+  "source_url": "https://www.bilibili.com/video/BV12mP9z9Ec1",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-12T13:02:52.492778+00:00",
+  "id": "05a90873-8e2b-4273-adfb-7e44200ad213",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T13:03:18.127244+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2462634,
+    "platform": "bilibili"
+  }
+}
