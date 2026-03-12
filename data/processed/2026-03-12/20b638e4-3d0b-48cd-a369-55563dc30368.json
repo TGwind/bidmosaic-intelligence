@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "GhazalBench: Usage-Grounded Evaluation of LLMs on Persian Ghazals",
+  "raw_content": "arXiv:2603.09979v1 Announce Type: new Abstract: Persian poetry plays an active role in Iranian cultural practice, where verses by canonical poets such as Hafez are frequently quoted, paraphrased, or completed from partial cues. Supporting such interactions requires language models to engage not only with poetic meaning but also with culturally entrenched surface form. We introduce GhazalBench, a benchmark for evaluating how large language models (LLMs) interact with Persian ghazals under usage-grounded conditions. GhazalBench assesses two complementary abilities: producing faithful prose paraphrases of couplets and accessing canonical verses under varying semantic and formal cues. Across several proprietary and open-weight multilingual LLMs, we observe a consistent dissociation: models generally capture poetic meaning but struggle with exact verse recall in completion-based settings, while recognition-based tasks substantially reduce this gap. A parallel evaluation on English sonnets shows markedly higher recall performance, suggesting that these limitations are tied to differences in training exposure rather than inherent architectural constraints. Our findings highlight the need for evaluation frameworks that jointly assess meaning, form, and cue-dependent access to culturally significant texts. GhazalBench is available at https://github.com/kalhorghazal/GhazalBench.",
+  "source_url": "https://arxiv.org/abs/2603.09979",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-12T04:00:00+00:00",
+  "id": "20b638e4-3d0b-48cd-a369-55563dc30368",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T05:20:04.661061+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

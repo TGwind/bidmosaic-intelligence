@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "SEC, CFTC sign memo to regulate crypto, other markets in harmony",
+  "raw_content": "The SEC and CFTC said they would adopt a “minimum effective dose” regulatory strategy to foster innovation while maintaining market integrity and keep the US competitive globally.",
+  "source_url": "https://cointelegraph.com/news/sec-cftc-sign-memo-regulate-markets-harmony?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T00:22:55+00:00",
+  "id": "42c054cd-ec93-462d-a500-16a76953e7fe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T05:20:04.692370+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

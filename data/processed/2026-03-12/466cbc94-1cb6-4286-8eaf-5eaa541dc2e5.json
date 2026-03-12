@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Announces 45th Annual Small Business Forum to Improve Capital-Raising Policy",
+  "raw_content": "The Securities and Exchange Commission will host the agency’s 45th Annual Government Business Forum on Small Business Capital Formation at SEC headquarters in Washington, D.C., on March 9 from 1 p.m. to 5 p.m. ET. The event will be webcast live.&nbsp;…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-18-sec-announces-45th-annual-small-business-forum-improve-capital-raising-policy",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-13T15:45:00+00:00",
+  "id": "466cbc94-1cb6-4286-8eaf-5eaa541dc2e5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T05:20:04.698424+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

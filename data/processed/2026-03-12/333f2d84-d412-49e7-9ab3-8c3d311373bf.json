@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Prime brokers push Wall Street access to prediction markets: Report",
+  "raw_content": "Clear Street and Marex Group are planning to offer prediction markets to clients, with Kalshi’s CEO tipping it to become a “core pillar of the financial ecosystem.”",
+  "source_url": "https://cointelegraph.com/news/wall-street-brokers-offering-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T02:41:56+00:00",
+  "id": "333f2d84-d412-49e7-9ab3-8c3d311373bf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-12T05:20:04.682858+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
