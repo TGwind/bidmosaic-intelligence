@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "MediaTek patches bug enabling crypto seed theft in just 45 seconds",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MediaTek patches bug enabling crypto seed theft in just 45 seconds\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWU3NjItNmNlYi03YmMwLWI1YTktYjFkNzY0Zjk1NDg5.jpg\" /></p><p>Ledger’s white-hat security team said it found a flaw in MediaTek's secure boot chain that can be used to steal sensitive information from certain Android devices.</p>",
+  "source_url": "https://cointelegraph.com/news/crypto-seed-phrase-exploit-android-phones-ledger-mediatek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T04:06:33+00:00",
+  "id": "b0725157-7e2f-45f8-a28d-100f93bde9a0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

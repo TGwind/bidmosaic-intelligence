@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bonk.fun warns hackers hijacked domain in wallet-drainer attack",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bonk.fun warns hackers hijacked domain in wallet-drainer attack\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2UwZGYtYWU4MS03OWFkLTkxODMtMzkyM2I3OTgzYTM0LmpwZw==.jpg\" /></p><p>Bonk.fun warned users not to use its site after attackers hijacked the domain and pushed a fake wallet-draining prompt.</p>",
+  "source_url": "https://cointelegraph.com/news/bonk-fun-domain-hijack-wallet-drainer-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T07:37:23+00:00",
+  "id": "fe43101f-8e14-462d-86d5-e2ec3c00787e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
