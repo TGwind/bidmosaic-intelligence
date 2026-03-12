@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Binance.US names new CEO as crypto exchange eyes expansion",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Binance.US names new CEO as crypto exchange eyes expansion\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2RmN2UtOTNkZS03N2EyLWFiZmQtMDYyMWVhNWE0ODIzLmpwZw==.jpg\" /></p><p>Stephen Gregory, a former compliance executive at CEX.IO and Gemini, has taken over as CEO of Binance.US, a crypto exchange that was once a target of a long-running SEC lawsuit.</p>",
+  "source_url": "https://cointelegraph.com/news/binance-us-names-new-ceo-crypto-exchange-eyes-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T02:51:13+00:00",
+  "id": "d9b4e94d-a7a0-44f6-9502-b9b171d03658",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
