@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "特级飞行员万米高空击落不明空飘物",
+  "raw_content": "特级飞行员万米高空击落不明空飘物",
+  "source_url": "https://www.toutiao.com/trending/7616556533915254835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227616556533915254835%22%2C%22hot_board_impr_id%22%3A%22202603131455539C4841FF8CF51209C683%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E7%BA%A7%E9%A3%9E%E8%A1%8C%E5%91%98%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E5%87%BB%E8%90%BD%E4%B8%8D%E6%98%8E%E7%A9%BA%E9%A3%98%E7%89%A9%22%7D&rank=&style_id=40132&topic_id=7616556533915254835",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T06:55:53.465383+00:00",
+  "id": "7caec8bc-51da-4d6c-872a-496de904d79e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T06:56:19.477567+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20222111",
+    "platform": "toutiao"
+  }
+}

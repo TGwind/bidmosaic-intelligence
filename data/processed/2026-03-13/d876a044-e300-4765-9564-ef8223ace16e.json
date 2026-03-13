@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《看来明天得买两份早餐了》",
-  "raw_content": "作词、翻唱：IPx的粉红豹 原曲：李荣浩《年少有为》 视频素材来自网络",
-  "source_url": "https://www.bilibili.com/video/BV1XiP9zwEwC",
+  "raw_title": "当面一套，背后一套",
+  "raw_content": "下期该如何整蛊高斯呢？快给我出点招！ 点赞40W找高斯挑战下一期！：）",
+  "source_url": "https://www.bilibili.com/video/BV1BbwFznEpm",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-13T02:08:50.618455+00:00",
-  "id": "06990789-7cb2-4ad1-b95c-5c1316bfc9e7",
+  "collected_at": "2026-03-13T06:55:54.493114+00:00",
+  "id": "d876a044-e300-4765-9564-ef8223ace16e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-13T06:56:19.452203+00:00",
+  "processed_at": "2026-03-13T06:56:19.479355+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7923254,
+    "hot_score": 1741188,
     "platform": "bilibili"
   }
 }

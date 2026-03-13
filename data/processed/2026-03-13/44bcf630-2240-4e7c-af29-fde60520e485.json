@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美军向接近林肯号航母的伊朗船只开火",
+  "raw_content": "美军向接近林肯号航母的伊朗船只开火",
+  "source_url": "https://www.toutiao.com/trending/7615507046503252022/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615507046503252022%22%2C%22hot_board_impr_id%22%3A%22202603131455539C4841FF8CF51209C683%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%86%9B%E5%90%91%E6%8E%A5%E8%BF%91%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D%E7%9A%84%E4%BC%8A%E6%9C%97%E8%88%B9%E5%8F%AA%E5%BC%80%E7%81%AB%22%7D&rank=&style_id=40132&topic_id=7615507046503252022",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T06:55:53.465489+00:00",
+  "id": "44bcf630-2240-4e7c-af29-fde60520e485",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T06:56:19.474718+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7439299",
+    "platform": "toutiao"
+  }
+}

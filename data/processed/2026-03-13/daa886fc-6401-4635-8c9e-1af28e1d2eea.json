@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "两会现场速递",
-  "raw_content": "两会现场速递",
-  "source_url": "https://www.toutiao.com/article/7616334506483810831",
+  "raw_title": "全国两会“三大通道”呈现新气象",
+  "raw_content": "全国两会“三大通道”呈现新气象",
+  "source_url": "https://www.toutiao.com/article/7616339824286401058",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-13T02:08:49.825871+00:00",
-  "id": "3e8de276-9e62-4b47-a88c-cb49e6cb483f",
+  "collected_at": "2026-03-13T06:55:53.465399+00:00",
+  "id": "daa886fc-6401-4635-8c9e-1af28e1d2eea",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-13T06:56:19.454842+00:00",
+  "processed_at": "2026-03-13T06:56:19.483127+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "12251623",
+    "hot_score": "18297723",
     "platform": "toutiao"
   }
 }
