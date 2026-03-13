@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "China’s Alibaba joins stablecoin platform MetaComp’s $35M fundraise",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China’s Alibaba joins stablecoin platform MetaComp’s $35M fundraise\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U2MGItMDlmMS03ZTJkLThlNDMtOTViN2ZhM2NiZmE3LmpwZw==.jpg\" /></p><p>MetaComp’s Pre-A+ funding round, backed by Alibaba and Spark Venture, brings the total capital raised to $35 million, with aims to expand its StableX Network globally.</p>",
+  "source_url": "https://cointelegraph.com/news/alibaba-35-million-raise-stablecoin-platform-metacomp?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T08:50:00+00:00",
+  "id": "35f0f40a-8c18-4102-afa0-6a354171fe6b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
