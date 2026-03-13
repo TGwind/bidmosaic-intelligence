@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin holds above $71,000, defying rising dollar, oil and U.S. bond yields",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-holds-above-usd71-000-defying-rising-dollar-oil-and-u-s-bond-yields",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T09:32:45+00:00",
+  "id": "e36b920d-bf35-4bc5-a71b-6eae982a4d55",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T13:16:50.464193+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

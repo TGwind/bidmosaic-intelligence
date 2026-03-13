@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本2月进口EV销量涨43%，比亚迪增至2.1倍",
+  "raw_content": "2026/03/13 比亚迪的PHV“海狮6” 日本汽车进口商协会（JAIA）公布的数据显示，2月日本的进口车销量（不包括日本厂商的汽车）同比减少6%，降至1万7505辆。纯电动汽车（EV）增长43%，达到2675辆，占进口车整体的15%。销售EV的中国比亚迪（BYD）和韩国现代汽车的销量增至约2倍。 日本的EV销量连续2个月增长。比亚迪在2月增至2.1倍，达到466辆。从1月底左右开始交车的插电式混合动力车（PHV）“海狮6”实现增长。 比亚迪的负责人表示“海狮6占整体销量的4成，表现相当出色。相对于价格，配置的充实感得到好评”。由于乘积效应，EV车型“海狮7”的销量也在增加。现代汽车的销量为90辆，增至2.3倍。",
+  "source_url": "http://cn.nikkei.com/industry/icar/61766-2026-03-13-14-13-18.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-13T07:08:04+00:00",
+  "id": "40b5963b-f980-4245-9fdd-e441494ea0e3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T13:16:50.393973+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CoinDesk 20 performance update: index jumps 3.7% as all constituents climb higher",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-indices/2026/03/13/coindesk-20-performance-update-index-jumps-3-7-as-all-constituents-climb-higher",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T13:14:46+00:00",
+  "id": "707bf122-2426-4b56-acd4-6a64bd9de9a8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T13:16:50.439661+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
