@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "当面一套，背后一套",
-  "raw_content": "下期该如何整蛊高斯呢？快给我出点招！ 点赞40W找高斯挑战下一期！：）",
-  "source_url": "https://www.bilibili.com/video/BV1BbwFznEpm",
+  "raw_title": "🐧原来大家已经不喜欢凑企鹅了吗……？🐧【番外篇】",
+  "raw_content": "高松灯的梦……10年以内没人能看懂这集的艺术……",
+  "source_url": "https://www.bilibili.com/video/BV1sowFzwEs8",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-13T06:55:54.493114+00:00",
-  "id": "d876a044-e300-4765-9564-ef8223ace16e",
+  "collected_at": "2026-03-13T18:44:19.873760+00:00",
+  "id": "17ea4c8f-8e2f-40a7-bed3-c2c8988fea89",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-13T18:44:46.648012+00:00",
+  "processed_at": "2026-03-13T18:44:46.631278+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1741188,
+    "hot_score": 5707360,
     "platform": "bilibili"
   }
 }

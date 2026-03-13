@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "当面一套，背后一套",
-  "raw_content": "下期该如何整蛊高斯呢？快给我出点招！ 点赞40W找高斯挑战下一期！：）",
-  "source_url": "https://www.bilibili.com/video/BV1BbwFznEpm",
+  "raw_title": "万税爷左右互搏自说自话，想TACO但却没台阶下",
+  "raw_content": "万税爷左右互搏自说自话，想TACO但却没台阶下",
+  "source_url": "https://www.bilibili.com/video/BV1Dtc6zJEGy",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-13T06:55:54.493114+00:00",
-  "id": "d876a044-e300-4765-9564-ef8223ace16e",
+  "collected_at": "2026-03-13T18:44:19.873797+00:00",
+  "id": "020d9254-90ae-400a-b035-7cb35d028a82",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-13T18:44:46.648012+00:00",
+  "processed_at": "2026-03-13T18:44:46.621441+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1741188,
+    "hot_score": 2105585,
     "platform": "bilibili"
   }
 }

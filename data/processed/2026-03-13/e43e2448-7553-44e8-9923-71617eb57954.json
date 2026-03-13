@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "女子偶遇大雁列队排成ETC阵型北飞",
+  "raw_content": "女子偶遇大雁列队排成ETC阵型北飞",
+  "source_url": "https://www.toutiao.com/trending/7616153252207525914/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227616153252207525914%22%2C%22hot_board_impr_id%22%3A%222026031402441876815445A3BFA5919C55%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%90%E5%81%B6%E9%81%87%E5%A4%A7%E9%9B%81%E5%88%97%E9%98%9F%E6%8E%92%E6%88%90ETC%E9%98%B5%E5%9E%8B%E5%8C%97%E9%A3%9E%22%7D&rank=&style_id=40132&topic_id=7616153252207525914",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T18:44:19.022384+00:00",
+  "id": "e43e2448-7553-44e8-9923-71617eb57954",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T18:44:46.649471+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "12991461",
+    "platform": "toutiao"
+  }
+}
