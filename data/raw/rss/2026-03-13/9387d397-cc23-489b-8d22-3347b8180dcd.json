@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "美国表示允许购买部分俄罗斯原油",
+  "raw_content": "<div>2026/03/13</div><div id=\"contentDiv\">\n<div></div>\n<div>      美国财政部3月12日表示，将允许各国在大约一个月内购买目前正在海上运输中的俄罗斯原油及石油产品。此举是应对因攻击伊朗导致油价上涨的措施之一，将暂时放松对持续侵略乌克兰的俄罗斯所实施的制裁。</div>\n<div> </div>\n<div>      据认为，在伊朗遭攻击后滞留在海上的俄罗斯原油约有1.2亿桶，美国政府将优先推动这些原油重新进入市场流通。</div>\n<div> </div>\n<div>      美国财政部长贝森特12日在社交媒体上表示：“这项有限且短期的措施仅适用于运输中的原油，不会给俄罗斯政府带来重大的经济利益”。</div>\n<div> </div>\n<div>      特朗普政府3月5日也刚刚采取措施，允许印度在一个月内购买俄罗斯原油，此次进一步放松限制。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61761-2026-03-13-08-06-18.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-13T03:08:02+00:00",
+  "id": "9387d397-cc23-489b-8d22-3347b8180dcd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
