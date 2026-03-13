@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《明日方舟：终末地》干员叙事 [汤汤：大当家，大气概]",
+  "raw_content": "要更帅气、更传奇，表现出我的威风——重来！",
+  "source_url": "https://www.bilibili.com/video/BV157cQzdEXu",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T13:01:13.950250+00:00",
+  "id": "c101d863-d6ce-4785-be8e-d90439960f97",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3853103,
+    "platform": "bilibili"
+  }
+}
