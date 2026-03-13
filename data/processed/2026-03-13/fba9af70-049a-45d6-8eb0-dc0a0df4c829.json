@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "全国两会“三大通道”呈现新气象",
-  "raw_content": "全国两会“三大通道”呈现新气象",
-  "source_url": "https://www.toutiao.com/article/7616339824286401058",
+  "raw_title": "生态环境法典守护百姓美好生活",
+  "raw_content": "生态环境法典守护百姓美好生活",
+  "source_url": "https://www.toutiao.com/article/7616558053404361222",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-13T06:55:53.465399+00:00",
-  "id": "daa886fc-6401-4635-8c9e-1af28e1d2eea",
+  "collected_at": "2026-03-13T13:01:13.259500+00:00",
+  "id": "fba9af70-049a-45d6-8eb0-dc0a0df4c829",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-13T13:01:39.938781+00:00",
+  "processed_at": "2026-03-13T13:01:39.941325+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "18297723",
+    "hot_score": "21017148",
     "platform": "toutiao"
   }
 }
