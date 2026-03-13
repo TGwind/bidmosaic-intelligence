@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "KuCoin launches perpetual futures tracking Tesla and Strategy stocks",
+  "raw_content": "The USDt-settled contracts allow traders to speculate on the price movements of the two companies’ shares around the clock without owning the underlying stocks.",
+  "source_url": "https://cointelegraph.com/news/kucoin-perpetual-futures-tracking-tesla-strategy-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T16:38:18+00:00",
+  "id": "8558b9d3-538a-41f7-97a9-cff4a2753e0b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T16:53:04.339693+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

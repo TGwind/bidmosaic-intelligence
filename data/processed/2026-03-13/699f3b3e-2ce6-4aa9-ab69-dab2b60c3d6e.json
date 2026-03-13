@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "UK central bank is warming up to stablecoins, but says industry input is lacking",
+  "raw_content": "The Bank of England is open to fixes on its proposed stablecoin framework, but one official said it needs better feedback from crypto industry participants.",
+  "source_url": "https://cointelegraph.com/news/uk-central-bank-stablecoin-industry-input-lacking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T13:30:00+00:00",
+  "id": "699f3b3e-2ce6-4aa9-ab69-dab2b60c3d6e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T16:53:04.319813+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

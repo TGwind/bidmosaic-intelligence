@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin rises to one-month high of $73,800, continuing to outperform since start of Iran war",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/13/bitcoin-rises-to-usd73-300-continuing-to-outperform-since-iran-war-and-taking-aim-at-one-month-high",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T14:27:11+00:00",
+  "id": "63b3dfeb-63e0-455c-b701-e6c00c047d50",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T16:53:04.307503+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

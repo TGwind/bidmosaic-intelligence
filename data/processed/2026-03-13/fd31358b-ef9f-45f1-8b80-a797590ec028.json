@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin miners saw the AI power crunch coming — and the nuclear revival",
+  "raw_content": "AI-driven data center demand is reviving nuclear power across the US, and Bitcoin miners were among the first to tap nuclear energy to run high-performance computing operations.",
+  "source_url": "https://cointelegraph.com/news/ai-power-demand-nuclear-revival-bitcoin-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T15:40:40+00:00",
+  "id": "fd31358b-ef9f-45f1-8b80-a797590ec028",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T16:53:04.340779+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
