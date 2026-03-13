@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Sweden probes reported leak of e-government platform source code",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sweden probes reported leak of e-government platform source code\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U2NTMtNmYwNy03ZjVhLTkwOTctMzg2ODljMWQ4YjYxLmpwZw==.jpg\" /></p><p>Sweden is investigating a reported leak tied to CGI Sverige after hackers claimed they exposed source code from the country’s e-government platform.</p>",
+  "source_url": "https://cointelegraph.com/news/sweden-e-government-source-code-leak-cgi-sverige?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T09:24:39+00:00",
+  "id": "db28063b-4bfe-4a17-bdef-d737724b4be8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
