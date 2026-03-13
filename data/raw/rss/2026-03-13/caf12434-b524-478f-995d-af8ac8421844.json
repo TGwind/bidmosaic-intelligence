@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "IEA预测3月全球石油供应每天减少800万桶",
+  "raw_content": "<div>2026/03/13</div><div id=\"contentDiv\">\n<div></div>\n<div>      国际能源署（IEA）3月12日预测，3月全球石油供应量将减少每日800万桶。原因是海上运输要道霍尔木兹海峡事实上被封锁，以及伊朗的攻击导致中东海湾国家相继减产。</div>\n<div> </div>\n<div>      这一预测发布于其月度石油市场报告。尽管俄罗斯、哈萨克斯坦以及未参与“欧佩克+”的国家增产将在一定程度上抵消减量，但3月全球供应量预计为9880万桶/日，为2022年1—3月以来的低水平。</div>\n<div>  </div>\n<div>      IEA还将2026年全年石油供应预测下调至1亿720万桶/日，较2月预测减少140万桶。不过该机构仍认为，随着非欧佩克国家增产，产量将在今年下半年逐渐恢复，并维持2025年起供应量增加110万桶/日的预测。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61754-2026-03-13-08-06-24.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-13T01:08:04+00:00",
+  "id": "caf12434-b524-478f-995d-af8ac8421844",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

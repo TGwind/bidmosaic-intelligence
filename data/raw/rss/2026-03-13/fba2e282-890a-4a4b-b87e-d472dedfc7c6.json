@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Dems say they will oversee reported DOJ probe into Binance",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Dems say they will oversee reported DOJ probe into Binance\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U1NzMtZTJkYS03NGMyLWE0OWEtYjYxOGUyNTQ3YzAyLmpwZw==.jpg\" /></p><p>Senators Chris Van Hollen, Elizabeth Warren and Ruben Gallego have vowed to ensure that the Justice Department “conducts a serious investigation into Binance.”</p>",
+  "source_url": "https://cointelegraph.com/news/democrats-oversee-doj-probe-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T04:39:25+00:00",
+  "id": "fba2e282-890a-4a4b-b87e-d472dedfc7c6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
