@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Counterweights and Complementarities: The Convergence of AI and Blockchain Powering a Decentralized Future",
+  "raw_content": "arXiv:2603.11299v1 Announce Type: new Abstract: This editorial addresses the critical intersection of artificial intelligence (AI) and blockchain technologies, highlighting their contrasting tendencies toward centralization and decentralization, respectively. While AI, particularly with the rise of large language models (LLMs), exhibits a strong centralizing force due to data and resource monopolization by large corporations, blockchain offers a counterbalancing mechanism through its inherent decentralization, transparency, and security. The editorial argues that these technologies are not mutually exclusive but possess complementary strengths. Blockchain can mitigate AI's centralizing risks by enabling decentralized data management, computation, and governance, promoting greater inclusivity, transparency, and user privacy. Conversely, AI can enhance blockchain's efficiency and security through automated smart contract management, content curation, and threat detection. The core argument calls for the development of ``decentralized intelligence'' (DI) -- an interdisciplinary research area focused on creating intelligent systems that function without centralized control.",
+  "source_url": "https://arxiv.org/abs/2603.11299",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-13T04:00:00+00:00",
+  "id": "2d20b380-5cff-41cb-9ca5-0778b32e8d1c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T08:54:09.339177+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
