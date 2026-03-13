@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "热烈欢迎瞿颖姐姐！看看她带来多少便宜货！！",
+  "raw_content": "加更在@papi热烈欢迎",
+  "source_url": "https://www.bilibili.com/video/BV1nWwFz9EFY",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T02:08:50.618517+00:00",
+  "id": "afde9e1d-16ed-4947-9e88-14994e86a777",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T02:09:15.819710+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1069511,
+    "platform": "bilibili"
+  }
+}

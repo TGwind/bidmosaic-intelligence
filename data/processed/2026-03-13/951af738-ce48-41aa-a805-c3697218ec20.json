@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "特朗普：穆杰塔巴可能受伤但活着",
+  "raw_content": "特朗普：穆杰塔巴可能受伤但活着",
+  "source_url": "https://www.toutiao.com/trending/7616538009198054950/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227616538009198054950%22%2C%22hot_board_impr_id%22%3A%2220260313100849C2151E5D04867767AFE7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%AF%E8%83%BD%E5%8F%97%E4%BC%A4%E4%BD%86%E6%B4%BB%E7%9D%80%22%7D&rank=&style_id=40132&topic_id=7616538009198054950",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T02:08:49.825895+00:00",
+  "id": "951af738-ce48-41aa-a805-c3697218ec20",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T02:09:15.814368+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9076226",
+    "platform": "toutiao"
+  }
+}

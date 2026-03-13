@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "农民养老金提高至1000元分几步走",
+  "raw_content": "农民养老金提高至1000元分几步走",
+  "source_url": "https://www.toutiao.com/trending/7615837960902053395/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615837960902053395%22%2C%22hot_board_impr_id%22%3A%2220260313100849C2151E5D04867767AFE7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%86%9C%E6%B0%91%E5%85%BB%E8%80%81%E9%87%91%E6%8F%90%E9%AB%98%E8%87%B31000%E5%85%83%E5%88%86%E5%87%A0%E6%AD%A5%E8%B5%B0%22%7D&rank=&style_id=40132&topic_id=7615837960902053395",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T02:08:49.825919+00:00",
+  "id": "3b0a3395-7b6c-4190-93e5-c6900eb1201b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T02:09:15.797228+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "6723833",
+    "platform": "toutiao"
+  }
+}

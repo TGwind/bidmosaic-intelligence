@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "倒 反 天 罡【邵氏反转】",
+  "raw_content": "你是否在雪山上救过一个狐狸",
+  "source_url": "https://www.bilibili.com/video/BV1vJcQzsEBq",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T02:08:50.618533+00:00",
+  "id": "4c213861-9f95-46e6-8e59-8d9843e78234",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T02:09:15.810503+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3595673,
+    "platform": "bilibili"
+  }
+}
