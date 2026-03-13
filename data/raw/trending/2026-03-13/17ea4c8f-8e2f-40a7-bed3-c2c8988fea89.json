@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "🐧原来大家已经不喜欢凑企鹅了吗……？🐧【番外篇】",
+  "raw_content": "高松灯的梦……10年以内没人能看懂这集的艺术……",
+  "source_url": "https://www.bilibili.com/video/BV1sowFzwEs8",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T18:44:19.873760+00:00",
+  "id": "17ea4c8f-8e2f-40a7-bed3-c2c8988fea89",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5707360,
+    "platform": "bilibili"
+  }
+}

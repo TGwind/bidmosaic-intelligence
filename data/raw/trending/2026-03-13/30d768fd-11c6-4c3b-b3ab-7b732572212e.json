@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "慕沛灵巡回演唱会（瀚海沙漠站）",
+  "raw_content": "慕沛灵巡回演唱会·瀚海沙漠站\n黄沙漫卷，孤影伫立。她以歌声诉尽仙途孤寂，唱遍对韩立的执念、不甘与怀念。那些藏在落云宗药园的心事，那些未说出口的深情，都融进瀚海长风，在无边沙海之中，唱出属于她的动人回响。",
+  "source_url": "https://www.bilibili.com/video/BV1GhcdzYEfU",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-13T18:44:19.873789+00:00",
+  "id": "30d768fd-11c6-4c3b-b3ab-7b732572212e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2034148,
+    "platform": "bilibili"
+  }
+}
