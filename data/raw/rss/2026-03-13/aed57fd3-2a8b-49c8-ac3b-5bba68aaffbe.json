@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Unlearning Mirage: A Dynamic Framework for Evaluating LLM Unlearning",
+  "raw_content": "arXiv:2603.11266v1 Announce Type: new \nAbstract: Unlearning in Large Language Models (LLMs) aims to enhance safety, mitigate biases, and comply with legal mandates, such as the right to be forgotten. However, existing unlearning methods are brittle: minor query modifications, such as multi-hop reasoning and entity aliasing, can recover supposedly forgotten information. As a result, current evaluation metrics often create an illusion of effectiveness, failing to detect these vulnerabilities due to reliance on static, unstructured benchmarks. We propose a dynamic framework that stress tests unlearning robustness using complex structured queries. Our approach first elicits knowledge from the target model (pre-unlearning) and constructs targeted probes, ranging from simple queries to multi-hop chains, allowing precise control over query difficulty. Our experiments show that the framework (1) shows comparable coverage to existing benchmarks by automatically generating semantically equivalent Q&amp;A probes, (2) aligns with prior evaluations, and (3) uncovers new unlearning failures missed by other benchmarks, particularly in multi-hop settings. Furthermore, activation analyses show that single-hop queries typically follow dominant computation pathways, which are more likely to be disrupted by unlearning methods. In contrast, multi-hop queries tend to use alternative pathways that often remain intact, explaining the brittleness of unlearning techniques in multi-hop settings. Our framework enables practical and scalable evaluation of unlearning methods without the need for manual construction of forget test sets, enabling easier adoption for real-world applications. We release the pip package and the code at https://sites.google.com/view/unlearningmirage/home.",
+  "source_url": "https://arxiv.org/abs/2603.11266",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-13T04:00:00+00:00",
+  "id": "aed57fd3-2a8b-49c8-ac3b-5bba68aaffbe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "DOJ and Europol take down SocksEscort network tied to crypto fraud",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DOJ and Europol take down SocksEscort network tied to crypto fraud\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U3NDctZDljZi03ZWNmLTgwMDItNzQ4ZWE4YjIzNmU2LmpwZw==.jpg\" /></p><p>Law enforcement agencies seized 34 domains, 23 servers and froze $3.5 million in crypto linked to SocksEscort, a proxy service that hijacked 369,000 devices.</p>",
+  "source_url": "https://cointelegraph.com/news/doj-europol-dismantle-socks-escort-proxy-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T13:59:35+00:00",
+  "id": "c0088666-ed43-4100-816e-057fc77c95de",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

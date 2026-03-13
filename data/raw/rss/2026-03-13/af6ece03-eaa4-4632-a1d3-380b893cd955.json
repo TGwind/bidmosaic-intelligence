@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "U.S. sanctions 6 people, 2 companies that laundered $800 million in crypto for North Korea",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/13/u-s-sanctions-6-people-2-companies-that-laundered-usd800-million-in-crypto-for-north-korea",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T14:00:26+00:00",
+  "id": "af6ece03-eaa4-4632-a1d3-380b893cd955",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
