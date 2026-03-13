@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "BlackRock’s staked Ethereum ETF sees $15.5M volume on debut",
+  "raw_content": "The iShares Staked Ethereum Trust will distribute staking rewards on a monthly basis from institutional-grade Ethereum validators run by Figment, Galaxy Digital and Attestant.",
+  "source_url": "https://cointelegraph.com/news/blackrock-staked-ether-etf-ethb-15-million-debut-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T00:42:25+00:00",
+  "id": "931a5012-026e-4bf7-b658-363e4bc912f0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T02:43:47.125015+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

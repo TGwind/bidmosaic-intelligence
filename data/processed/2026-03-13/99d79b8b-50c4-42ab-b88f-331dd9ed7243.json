@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "罗姆与东芝就功率半导体业务整合展开谈判",
+  "raw_content": "2026/03/13 3月12日获悉，罗姆（ROHM）与东芝已开始就整合用于电动汽车（EV）和数据中心电力控制的功率半导体业务展开谈判。罗姆已对东芝进行投资，而2月还传出罗姆也收到电装的收购提案。如果与东芝的业务整合谈判推进，罗姆将需要在企业价值提升方案上与电装的收购提案展开竞争。 双方正在协商整合方式等细节。可能的方案包括设立合资公司，将双方的功率半导体业务转移至该公司。功率半导体的作用是控制电压和电流，例如改变电源送出的电压，或进行直流与交流之间的转换。 罗姆在使用碳化硅（SiC）的车载功率半导体方面具有优势，这类产品具有较高节能性能。功率半导体销售额约为1300亿日元，占公司整体销售额约三成。东芝则在目前主流的硅基功率半导体方面拥有广泛客户，主要应用于电力相关领域。双方希望通过融合设计、开发和销售方面的经验，推动产品开发和市场开拓，从而产生协同效应。",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/61753-2026-03-13-08-06-24.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-13T01:08:04+00:00",
+  "id": "99d79b8b-50c4-42ab-b88f-331dd9ed7243",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T02:43:47.143369+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

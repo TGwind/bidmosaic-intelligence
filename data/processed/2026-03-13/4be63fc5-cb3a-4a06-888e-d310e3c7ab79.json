@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Tiff Macklem: New players, old risks - financial stability in a changing landscape",
+  "raw_content": "Remarks by Mr Tiff Macklem, Governor of the Bank of Canada, at the Global Risk Institute (GRI), Toronto, Ontario, 4 March 2026.",
+  "source_url": "https://www.bis.org/review/r260310c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-13T02:42:11.977161+00:00",
+  "id": "4be63fc5-cb3a-4a06-888e-d310e3c7ab79",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T02:43:47.089613+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

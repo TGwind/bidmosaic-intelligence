@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Substack launches a built-in recording studio",
+  "raw_content": "Substack creators can pre-record video conversations with up to two guests, then publish directly on the platform.",
+  "source_url": "https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-12T18:24:18+00:00",
+  "id": "3a02c57d-ec1a-44e3-8262-4e49c43baaa1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T02:43:47.077150+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

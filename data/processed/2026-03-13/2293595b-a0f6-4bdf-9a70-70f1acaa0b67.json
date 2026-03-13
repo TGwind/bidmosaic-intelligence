@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日美欧国债利率上升",
+  "raw_content": "2026/03/13 日美欧的国债收益率正在急剧上升（债券价格大幅下跌）。在中东局势不稳定导致油价上涨的背景下，市场对通胀压力上升的担忧增强。尤其是能源依赖进口的欧洲，上升尤为明显。法国长期利率一度升至14年来高点，德国也达到约两年半以来的高位。 作为美国长期利率指标的10年期国债收益率在11日一度较前一日上升0.09个百分点，升至4.23%，达到约一个月以来的高位。日本方面，3月12日新发10年期国债收益率也一度升至2.185%，较前一日上升0.015个百分点。 国际能源署（IEA）11日决定协调释放石油储备，以应对霍尔木兹海峡封锁引发的能源供应担忧。消息公布后一度推动WTI期货价格下跌，但市场普遍认为释放储备只是权宜之计，油价随后再次上涨。 市场普遍预计油价将维持高位，天然气价格水平也显著上升。债券市场因此更加关注能源价格上涨带来的通胀压力，从而推动利率上升。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/efinance/61755-2026-03-13-08-06-21.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-13T01:08:04+00:00",
+  "id": "2293595b-a0f6-4bdf-9a70-70f1acaa0b67",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T02:43:47.062556+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
