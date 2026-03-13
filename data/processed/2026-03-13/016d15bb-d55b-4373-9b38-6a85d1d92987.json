@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "SEC's advisory group backs tokenized securities push, outlines how to keep it safe",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/12/sec-s-advisory-group-backs-push-for-tokenized-securities-outlines-how-to-keep-it-safe",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-12T21:56:40+00:00",
+  "id": "016d15bb-d55b-4373-9b38-6a85d1d92987",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-13T05:17:40.333427+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
