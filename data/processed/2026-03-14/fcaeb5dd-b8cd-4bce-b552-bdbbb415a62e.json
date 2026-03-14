@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "红外相机拍到一家子“四不像”",
+  "raw_content": "红外相机拍到一家子“四不像”",
+  "source_url": "https://www.toutiao.com/trending/7616648331952635958/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227616648331952635958%22%2C%22hot_board_impr_id%22%3A%22202603141450134C991B1F76B9E5D9C170%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BA%A2%E5%A4%96%E7%9B%B8%E6%9C%BA%E6%8B%8D%E5%88%B0%E4%B8%80%E5%AE%B6%E5%AD%90%E2%80%9C%E5%9B%9B%E4%B8%8D%E5%83%8F%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7616648331952635958",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T06:50:13.769712+00:00",
+  "id": "fcaeb5dd-b8cd-4bce-b552-bdbbb415a62e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-14T06:50:44.166293+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5868216",
+    "platform": "toutiao"
+  }
+}

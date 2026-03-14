@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "央美一等奖二维动画作品——《谱》",
+  "raw_content": "央美一等奖二维动画作品——《谱》 动画讲诉的是八分音符和十六分音符的冒险故事 声音，画面和剧情是构成画面的要素，时间和空间 是串联要素的灵魂 这个动画所要传达的不仅仅是剧情的跌宕起伏亦或 是画风的新颖，在于声音不再是“配音”而是叙事 本身，画面不再是“剧本的翻译”而是叙事本身， 剧本不再是孤立的剧本而是融入画面融入声音从制 作到观看同步输出。全片一镜到底，对应谱连续性 的特点。",
+  "source_url": "https://www.bilibili.com/video/BV1ezcDzXEUN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T06:50:14.588124+00:00",
+  "id": "be1eafe4-8f32-4e86-88fc-c684b13b4161",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-14T06:50:44.163914+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 624211,
+    "platform": "bilibili"
+  }
+}

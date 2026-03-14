@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《明日方舟：终末地》干员叙事 [汤汤：大当家，大气概]",
-  "raw_content": "要更帅气、更传奇，表现出我的威风——重来！",
-  "source_url": "https://www.bilibili.com/video/BV157cQzdEXu",
+  "raw_title": "🐧原来大家已经不喜欢凑企鹅了吗……？🐧【番外篇】",
+  "raw_content": "高松灯的梦……10年以内没人能看懂这集的艺术……",
+  "source_url": "https://www.bilibili.com/video/BV1sowFzwEs8",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-14T02:06:49.049188+00:00",
-  "id": "f2b7321d-c031-4519-8e26-dda7b717913c",
+  "collected_at": "2026-03-14T06:50:14.588073+00:00",
+  "id": "5226da8a-fcaa-4cbf-9977-2c64864eb23e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-14T06:50:44.165087+00:00",
+  "processed_at": "2026-03-14T06:50:44.157560+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3969307,
+    "hot_score": 6313685,
     "platform": "bilibili"
   }
 }
