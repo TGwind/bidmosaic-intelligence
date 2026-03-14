@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "万税爷左右互搏自说自话，想TACO但却没台阶下",
-  "raw_content": "万税爷左右互搏自说自话，想TACO但却没台阶下",
-  "source_url": "https://www.bilibili.com/video/BV1Dtc6zJEGy",
+  "raw_title": "《一蛙两吃》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1AKwNzrE45",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-14T02:06:49.049239+00:00",
-  "id": "29022875-10f8-416b-b1c0-9cf1f121a817",
+  "collected_at": "2026-03-14T18:40:18.430687+00:00",
+  "id": "0ff34848-08aa-449a-9ac3-7e1538c75835",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-14T18:40:43.921018+00:00",
+  "processed_at": "2026-03-14T18:40:43.916572+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2186020,
+    "hot_score": 3181812,
     "platform": "bilibili"
   }
 }
