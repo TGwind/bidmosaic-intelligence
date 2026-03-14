@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【终末地】赤石科技之佩佩EP",
+  "raw_content": "又有菲林又有冰，\n这才是真正的哈基米音乐（",
+  "source_url": "https://www.bilibili.com/video/BV1BVc6zfELW",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T12:54:32.820068+00:00",
+  "id": "ebdc753e-2b6d-45a2-85a5-f3578e261401",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1289906,
+    "platform": "bilibili"
+  }
+}
