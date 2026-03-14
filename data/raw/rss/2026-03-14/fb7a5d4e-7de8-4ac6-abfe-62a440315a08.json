@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee finds the United Kingdom largely compliant with its Net Stable Funding Ratio standard and its large exposures framework",
+  "raw_content": "",
+  "source_url": "https://www.bis.org/press/p251203.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-14T16:40:52.410529+00:00",
+  "id": "fb7a5d4e-7de8-4ac6-abfe-62a440315a08",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

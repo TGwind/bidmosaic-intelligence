@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "比亚迪将在埼玉川越开设关东地区最大门店",
+  "raw_content": "<div>2026/03/13</div><div id=\"contentDiv\">\n<div></div>\n<p><img height=\"375\" src=\"https://feedx.net/images/2026/03/0313/0313-05-L.jpg\" width=\"600\" /><br /><span><strong>“BYD AUTO川越”的示意图</strong></span></div>\n<div>   </div>\n<div>      3月12日，中国纯电动汽车（EV）制造商比亚迪（BYD）的日本法人发布消息称，将在埼玉县川越市开设关东地区面积规模最大的专卖店。这是一家店内最多可展示6辆车并附设维修工厂的大型门店。比亚迪将通过增开包括维修在内能够提供一条龙服务的门店，来获得更多顾客。</div>\n<div> </div>\n<div>      “BYD AUTO 川越”将于4月3日开业。店内将展示包括2025年12月上市的插电式混合动力车（PHV）“Sealion 6（海狮6）”在内的现行全部5款车型。4月3日至5日，还将展示预定于2026年夏季上市的日本专用纯电动轻型车“Racco（海獭）”。</div>\n<div> </div>\n<div>      在交车室，顾客可以体验将EV的电力供应给住宅的“Vehicle to Home（V2H，车到家）”功能。比亚迪将演示由车辆向处于断电状态的交车室供电的场景。</div>\n<div> </div>\n<div>      比亚迪正以在日本建立100家门店体制为目标，在各地不断开店。川越店将是第50家正规专卖店。如果包含可进行试乘试驾和购车咨询的开业准备室，比亚迪目前在日本已开设共计69个网点。为了销售纯电动轻型车，比亚迪还在推进在100家门店体系之外、面向地方城市开设小型门店的计划。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/china/ccompany/61763-2026-03-13-11-21-00.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-13T03:38:01+00:00",
+  "id": "6a6a31ad-503e-4e79-8896-7d6a334a184d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

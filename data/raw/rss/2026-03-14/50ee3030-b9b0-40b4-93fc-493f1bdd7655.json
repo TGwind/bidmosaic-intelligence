@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "ECB welcomes decision on new site for European School Frankfurt",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311_1~517a097089.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T12:00:00+00:00",
+  "id": "50ee3030-b9b0-40b4-93fc-493f1bdd7655",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

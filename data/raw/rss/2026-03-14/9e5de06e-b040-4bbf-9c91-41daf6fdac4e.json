@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock",
+  "raw_content": "We are excited to announce that NVIDIA’s Nemotron 3 Nano is now available as a fully managed and serverless model in Amazon Bedrock. This follows our earlier announcement at AWS re:Invent supporting NVIDIA Nemotron 2 Nano 9B and NVIDIA Nemotron 2 Nano VL 12B models. This post explores the technical characteristics of the NVIDIA Nemotron 3 Nano model and discusses potential application use cases. Additionally, it provides technical guidance to help you get started using this model for your generative AI applications within the Amazon Bedrock environment.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-09T20:48:46+00:00",
+  "id": "9e5de06e-b040-4bbf-9c91-41daf6fdac4e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

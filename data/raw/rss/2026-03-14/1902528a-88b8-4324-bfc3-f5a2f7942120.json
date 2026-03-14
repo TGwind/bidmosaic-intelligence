@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A new way to express yourself: Gemini can now create music",
+  "raw_content": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images.",
+  "source_url": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-18T16:01:38+00:00",
+  "id": "1902528a-88b8-4324-bfc3-f5a2f7942120",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}
