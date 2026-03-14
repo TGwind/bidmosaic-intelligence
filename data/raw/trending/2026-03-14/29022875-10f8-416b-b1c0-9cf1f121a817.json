@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "万税爷左右互搏自说自话，想TACO但却没台阶下",
+  "raw_content": "万税爷左右互搏自说自话，想TACO但却没台阶下",
+  "source_url": "https://www.bilibili.com/video/BV1Dtc6zJEGy",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T02:06:49.049239+00:00",
+  "id": "29022875-10f8-416b-b1c0-9cf1f121a817",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2186020,
+    "platform": "bilibili"
+  }
+}
