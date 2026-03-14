@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "敢不敢赌一次？",
+  "raw_content": "⛔禁止发布对本人造谣，诽谤，人身攻击，阴阳，污蔑等评论和视频。\n⛔请勿在他人作品中提及我，包括所有平台。\n⛔请勿相信其他任何自称是我（v猫星v）的言论或求助。\n⛔我方视频仅为个人分享，观点也仅代表个人\n⛔我方不会在任何社交平台上创建官方社群、交流频道、添加好友\n⛔请勿过度崇拜、攻击或排斥他人，保持理性和尊重。\n⛔请勿相信由人为模仿或人工智能生成关于我方（v猫星v）的任何内容。\n⛔视频仅供娱乐，与现实中任何事件无关，请勿代入并联想，请勿模仿\n⛔我方在所有平台创作的任何内容，未经授权，禁止转载！\n⚠️请认真阅",
+  "source_url": "https://www.bilibili.com/video/BV1wFwczFEsF",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T18:40:18.430641+00:00",
+  "id": "e308ae5f-837b-45ec-9649-5c308aade3b4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2626656,
+    "platform": "bilibili"
+  }
+}
