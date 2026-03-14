@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "人在柬埔寨，刚下飞机，现在跑还来得及吗？",
+  "raw_content": "《电子商务园区一日游，但是IP在柬埔寨》",
+  "source_url": "https://www.bilibili.com/video/BV1e9cfz5EKj",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T02:06:49.049214+00:00",
+  "id": "853d2674-55cd-4a60-8f3e-05747fc124b3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-14T02:07:11.537963+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3556486,
+    "platform": "bilibili"
+  }
+}

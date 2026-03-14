@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "6位人大代表话实干",
+  "raw_content": "6位人大代表话实干",
+  "source_url": "https://www.toutiao.com/article/7616585381026218542",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T02:06:48.289855+00:00",
+  "id": "06193f79-cfc7-4e2f-bc4d-4f19ef78dbff",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-14T02:07:11.516314+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10194815",
+    "platform": "toutiao"
+  }
+}

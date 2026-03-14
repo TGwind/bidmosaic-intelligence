@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "不该奖励他的……",
+  "raw_content": "下期该如何整蛊高斯呢？快给我出点招！ 点赞40W找高斯挑战下一期！：）",
+  "source_url": "https://www.bilibili.com/video/BV1BbwFznEpm",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T02:06:49.049133+00:00",
+  "id": "d32481dd-aab2-4d77-bf07-4101a016d626",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-14T02:07:11.538198+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2477828,
+    "platform": "bilibili"
+  }
+}

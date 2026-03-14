@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "一个能预防血栓形成的“黄金动作”",
+  "raw_content": "一个能预防血栓形成的“黄金动作”",
+  "source_url": "https://www.toutiao.com/trending/7615927903393546303/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227615927903393546303%22%2C%22hot_board_impr_id%22%3A%2220260314100647D694B43F19A53B2648A8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%80%E4%B8%AA%E8%83%BD%E9%A2%84%E9%98%B2%E8%A1%80%E6%A0%93%E5%BD%A2%E6%88%90%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E5%8A%A8%E4%BD%9C%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7615927903393546303",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T02:06:48.289954+00:00",
+  "id": "d4a13932-b800-41a5-bfbd-cee89fa840fa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-14T02:07:11.538093+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5062595",
+    "platform": "toutiao"
+  }
+}
