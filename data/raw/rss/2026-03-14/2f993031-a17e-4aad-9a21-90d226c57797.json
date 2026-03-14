@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Price predictions 3/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, XMR",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 3/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, XMR\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U4MTYtN2EzNy03N2Y1LWExYTAtZTM4NzI0NTI5NTAxLmpwZw==.jpg\" /></p><p>Bitcoin faced strong resistance at the $74,500 level, but the shallow price pullback could set the stage for a stronger breakout in BTC and altcoins.</p>",
+  "source_url": "https://cointelegraph.com/news/price-predictions-3-13-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T18:22:48+00:00",
+  "id": "2f993031-a17e-4aad-9a21-90d226c57797",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
