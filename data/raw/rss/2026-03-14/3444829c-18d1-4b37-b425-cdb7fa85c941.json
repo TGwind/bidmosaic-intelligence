@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How AI trained on birds is surfacing underwater mysteries",
+  "raw_content": "Climate & Sustainability",
+  "source_url": "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-09T18:38:00+00:00",
+  "id": "3444829c-18d1-4b37-b425-cdb7fa85c941",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin holds $71,000 despite Trump warning of strikes on Iran's oil-rich Kharg Island",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/14/bitcoin-holds-usd71-000-despite-trump-warning-after-iran-oil-strikes",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-14T06:08:27+00:00",
+  "id": "bdd93b24-6983-4727-a1ec-6092e82f9620",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

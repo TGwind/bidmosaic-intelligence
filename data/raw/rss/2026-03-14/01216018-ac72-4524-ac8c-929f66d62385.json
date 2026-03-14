@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Frank Elderson: Nature in decline, economy on the line: the importance of international cooperation for managing nature-related risks",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260309~6cfdbd02b7.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-09T09:30:00+00:00",
+  "id": "01216018-ac72-4524-ac8c-929f66d62385",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

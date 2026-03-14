@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Boris Johnson calling Bitcoin a ‘Ponzi’ draws rebuttal from Michael Saylor and others",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/14/boris-johnson-calling-bitcoin-a-ponzi-draws-rebuttal-from-michael-saylor-and-others",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-14T17:18:37+00:00",
+  "id": "ebf0e8e2-41cb-4c91-839f-8fd8bffdef9c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
