@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "陪看中国女足vs中国台北女足",
-  "raw_content": "陪看中国女足vs中国台北女足",
-  "source_url": "https://webcast-open.douyin.com/open/media_live/66869977125",
+  "raw_title": "“十五五”这些重要举措，满满安全感",
+  "raw_content": "“十五五”这些重要举措，满满安全感",
+  "source_url": "https://www.toutiao.com/article/7617048167251214902",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-14T06:50:13.769744+00:00",
-  "id": "a7ac8daf-4281-4798-8a83-bac1e16bd82d",
+  "collected_at": "2026-03-14T12:54:32.247236+00:00",
+  "id": "cc18bbef-76d3-4ac5-a296-3d23552ea7af",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-14T12:55:00.350228+00:00",
+  "processed_at": "2026-03-14T12:55:00.352809+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "3933583",
+    "hot_score": "11006171",
     "platform": "toutiao"
   }
 }

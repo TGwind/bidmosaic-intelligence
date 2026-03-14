@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "假如我也有一台F1赛车...",
-  "raw_content": "冲啊啊啊啊啊啊啊啊啊啊~~~！",
-  "source_url": "https://www.bilibili.com/video/BV19BcUzyExN",
+  "raw_title": "不该奖励他的……",
+  "raw_content": "下期该如何整蛊高斯呢？快给我出点招！ 点赞40W找高斯挑战下一期！：）",
+  "source_url": "https://www.bilibili.com/video/BV1BbwFznEpm",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-14T06:50:14.588095+00:00",
-  "id": "10940ca5-2467-4c6f-8406-4b693d179186",
+  "collected_at": "2026-03-14T12:54:32.819981+00:00",
+  "id": "10382d66-ebe2-4a31-8654-868e5acec9bf",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-14T12:55:00.332696+00:00",
+  "processed_at": "2026-03-14T12:55:00.335537+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2174540,
+    "hot_score": 3950729,
     "platform": "bilibili"
   }
 }

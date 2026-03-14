@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "充电宝是如何穿上假“3C认证”外衣的",
+  "raw_content": "充电宝是如何穿上假“3C认证”外衣的",
+  "source_url": "https://www.toutiao.com/trending/7616208828867297323/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227616208828867297323%22%2C%22hot_board_impr_id%22%3A%2220260314205432563BB4E7A7D08F69A845%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%85%85%E7%94%B5%E5%AE%9D%E6%98%AF%E5%A6%82%E4%BD%95%E7%A9%BF%E4%B8%8A%E5%81%87%E2%80%9C3C%E8%AE%A4%E8%AF%81%E2%80%9D%E5%A4%96%E8%A1%A3%E7%9A%84%22%7D&rank=&style_id=40132&topic_id=7616208828867297323",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T12:54:32.247299+00:00",
+  "id": "01aaf08c-74bd-4f08-9535-a193bf596e1b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-14T12:55:00.329558+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5465502",
+    "platform": "toutiao"
+  }
+}
