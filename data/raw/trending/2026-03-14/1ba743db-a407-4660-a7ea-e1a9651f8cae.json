@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "“十五五”规划纲要全文来了",
+  "raw_content": "“十五五”规划纲要全文来了",
+  "source_url": "https://www.toutiao.com/article/7616737378451702335",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-14T06:50:13.769660+00:00",
+  "id": "1ba743db-a407-4660-a7ea-e1a9651f8cae",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10692588",
+    "platform": "toutiao"
+  }
+}
