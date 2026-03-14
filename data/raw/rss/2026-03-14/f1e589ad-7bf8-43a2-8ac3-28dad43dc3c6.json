@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Olaf Sleijpen: Providing stability in an unstable world - the task of central banks",
+  "raw_content": "Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at the annual Congress of the Financial Study Association Groningen, Groningen, 3 March 2026.",
+  "source_url": "https://www.bis.org/review/r260310e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-14T05:13:50.423816+00:00",
+  "id": "f1e589ad-7bf8-43a2-8ac3-28dad43dc3c6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
