@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Circle‘s USDC overtook Tether‘s USDT in adjusted YTD volume: Mizuho",
+  "raw_content": "Analysts at the investment company said the change was significant because the stablecoin “winner” will be the one people use for everyday transactions.",
+  "source_url": "https://cointelegraph.com/news/circle-usdc-tether-usdt-adjusted-ytd-volume-mizuho?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T20:54:15+00:00",
+  "id": "0d1a0614-0d61-415f-a654-72ec4ee68531",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-14T02:41:28.528565+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

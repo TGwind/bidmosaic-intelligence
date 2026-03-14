@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Circle's USDC volumes top Tether's USDT for first time since 2019, prompting sell-side price target hike",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/13/circle-s-usdc-volumes-top-tether-s-usdt-for-first-time-since-2019-prompting-sell-side-price-target-hike",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-13T15:18:29+00:00",
+  "id": "206611bf-7522-4f0c-9908-b57ec8a94f91",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-14T02:41:28.533524+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
