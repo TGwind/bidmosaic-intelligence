@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee publishes analysis of synthetic risk transfers",
+  "raw_content": "The Basel Committee on Banking Supervision today published a report on synthetic risk transfer (SRT) transactions. The economic importance of SRT markets has grown rapidly over the last decade and they have become an important source of capital relief for corporate credit risk.",
+  "source_url": "https://www.bis.org/press/p260217.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-15T08:48:57.001677+00:00",
+  "id": "60b4b4cd-69b8-408d-b2f2-748a50c5236a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}
