@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "“割地、赔款”！伊朗的停火条件万税爷能忍？",
-  "raw_content": "“割地、赔款”！伊朗的停火条件万税爷能忍？",
-  "source_url": "https://www.bilibili.com/video/BV1wmwxzPEYr",
+  "raw_title": "国外大学食堂交响乐快闪，老哥们真会玩",
+  "raw_content": "国外大学食堂交响乐快闪，老哥们真会玩",
+  "source_url": "https://www.bilibili.com/video/BV1ZmcSz4EZx",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-15T12:55:53.760391+00:00",
-  "id": "cd248cf6-224b-4a1e-af65-6132aafb6026",
+  "collected_at": "2026-03-15T18:40:42.969594+00:00",
+  "id": "0e632aa1-6149-4894-a2ef-367d101c33f9",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-15T18:41:12.488428+00:00",
+  "processed_at": "2026-03-15T18:41:12.465057+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2647500,
+    "hot_score": 3693624,
     "platform": "bilibili"
   }
 }

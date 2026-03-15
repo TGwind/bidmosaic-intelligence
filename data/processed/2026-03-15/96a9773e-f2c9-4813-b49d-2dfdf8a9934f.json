@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "市监总局彻查315晚会曝光违法行为",
+  "raw_content": "市监总局彻查315晚会曝光违法行为",
+  "source_url": "https://www.toutiao.com/trending/7617486592181014062/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617486592181014062%22%2C%22hot_board_impr_id%22%3A%22202603160240427D6F6C0B57F994559829%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B8%82%E7%9B%91%E6%80%BB%E5%B1%80%E5%BD%BB%E6%9F%A5315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA%22%7D&rank=&style_id=40132&topic_id=7617486592181014062",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-15T18:40:42.271270+00:00",
+  "id": "96a9773e-f2c9-4813-b49d-2dfdf8a9934f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T18:41:12.481138+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "28699724",
+    "platform": "toutiao"
+  }
+}

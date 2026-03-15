@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美宜佳被查获非法卷烟139.99万支",
+  "raw_content": "美宜佳被查获非法卷烟139.99万支",
+  "source_url": "https://www.toutiao.com/trending/7617370414004813860/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617370414004813860%22%2C%22hot_board_impr_id%22%3A%22202603160240427D6F6C0B57F994559829%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%AE%9C%E4%BD%B3%E8%A2%AB%E6%9F%A5%E8%8E%B7%E9%9D%9E%E6%B3%95%E5%8D%B7%E7%83%9F139.99%E4%B8%87%E6%94%AF%22%7D&rank=&style_id=40132&topic_id=7617370414004813860",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-15T18:40:42.271336+00:00",
+  "id": "a165f869-a6a1-4b49-b710-e8171d69e23a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T18:41:12.479852+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "19238000",
+    "platform": "toutiao"
+  }
+}
