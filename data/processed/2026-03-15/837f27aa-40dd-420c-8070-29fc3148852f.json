@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Reliable AI Coding for Unreal Engine: Improving Accuracy and Reducing Token Costs",
+  "raw_content": "Agentic code assistants are moving into daily game development as studios build larger worlds, ship more DLCs, and support distributed teams. These assistants...",
+  "source_url": "https://developer.nvidia.com/blog/reliable-ai-coding-for-unreal-engine-improving-accuracy-and-reducing-token-costs/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-10T15:30:00+00:00",
+  "id": "837f27aa-40dd-420c-8070-29fc3148852f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T03:20:31.927985+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}

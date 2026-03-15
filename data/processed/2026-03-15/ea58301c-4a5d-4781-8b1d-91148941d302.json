@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Introducing Groundsource: Turning news reports into data with Gemini",
+  "raw_content": "Climate & Sustainability",
+  "source_url": "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-12T10:42:00+00:00",
+  "id": "ea58301c-4a5d-4781-8b1d-91148941d302",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T03:20:31.974650+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

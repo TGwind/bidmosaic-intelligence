@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Hoskinson might be wrong about the future of decentralized compute",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/opinion/2026/03/14/hoskinson-might-be-wrong-about-the-future-of-decentralized-compute",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-14T18:30:00+00:00",
+  "id": "9f886334-f4b2-4eac-bcba-b8f4de632f84",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T03:20:31.937955+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

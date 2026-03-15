@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国游客减少，日本关西5家百货商场减收",
+  "raw_content": "2026/03/13 高岛屋大阪店（大阪市中央区） 日本关西地区主要百货商场发布了2月的销售额（快报值），9家店中有5家低于上年同期。虽然2月有中华圈的春节长假，但受中日关系恶化影响，中国游客数量减少，对业绩造成了冲击。为弥补入境游客消费下滑的缺口，各家百货商场正在发力情人节商战，吸引日本国内顾客，从而抑制了营收降幅。 营收下滑的5家店铺为：阪急梅田总店（大阪市北区，同比下滑4.2%）、大丸梅田店（大阪市北区，下滑14.4%）、大丸心斋桥店（大阪市中央区，下滑8.2%）、高岛屋大阪店（大阪市中央区，下滑0.4%）、阿倍野HARUKAS近铁总店（大阪市阿倍野区，下滑4.4%）。大丸梅田店因为店内重新装修，部分卖场关闭也影响了业绩。 另一方面，阪神梅田总店（大阪市北区）因2025年大规模改装暂停的活动场地重新启用，举办了情人节活动与车站便当展销会，销售额大幅增长26.4%。 往年春节期间都会有大量中国游客到访关西。由于中国政府对前往日本发出避免出行提醒，2026年中国游客大幅减少。高岛屋大阪店春节长假期间（2月15日～23日共9天）的销售额比去年春节8天假期下滑4成。阿倍野HARUKAS近铁总店春节期间的到店总顾客人数也减少了3成。 位于道顿堀等外国人热门观光景点附近的大丸心斋桥店表示：“包括春节期间，来自中国内地的常客正在减少”。在此背景下，各门店都在注重争取日本国内顾客。 日本经济新闻（中文版：日经中文网）安藤健太 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/industry/tradingretail/61762-2026-03-13-10-55-10.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-13T03:08:02+00:00",
+  "id": "18171e1a-2df0-4cb9-ab28-42c62c0fd5f5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T03:20:31.880895+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

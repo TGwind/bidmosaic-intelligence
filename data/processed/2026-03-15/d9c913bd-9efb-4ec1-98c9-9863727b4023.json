@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Former UK Prime Minister Boris Johnson calls Bitcoin a ‘Ponzi scheme’",
+  "raw_content": "Johnson said that he could understand why gold and Pokémon cards have investment appeal but not Bitcoin, which he characterized as a scam.",
+  "source_url": "https://cointelegraph.com/news/boris-johnson-btc-ponzi-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-14T18:09:15+00:00",
+  "id": "d9c913bd-9efb-4ec1-98c9-9863727b4023",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T03:20:31.964601+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
