@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "你如何看待前中超球员送外卖",
+  "raw_content": "你如何看待前中超球员送外卖",
+  "source_url": "https://www.toutiao.com/trending/7616917840871899178/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227616917840871899178%22%2C%22hot_board_impr_id%22%3A%22202603151032038753E011A883CD837309%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%A0%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%89%8D%E4%B8%AD%E8%B6%85%E7%90%83%E5%91%98%E9%80%81%E5%A4%96%E5%8D%96%22%7D&rank=&style_id=40132&topic_id=7616917840871899178",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-15T02:32:03.880385+00:00",
+  "id": "b8b7850a-60c3-4042-85e2-cb393933d1ff",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T02:32:30.749745+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "6037871",
+    "platform": "toutiao"
+  }
+}

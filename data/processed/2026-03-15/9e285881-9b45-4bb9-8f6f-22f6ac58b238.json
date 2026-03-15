@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "以为是奶粉其实可能是豆粉",
+  "raw_content": "以为是奶粉其实可能是豆粉",
+  "source_url": "https://www.toutiao.com/trending/7617256700793572902/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617256700793572902%22%2C%22hot_board_impr_id%22%3A%22202603151032038753E011A883CD837309%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%A5%B6%E7%B2%89%E5%85%B6%E5%AE%9E%E5%8F%AF%E8%83%BD%E6%98%AF%E8%B1%86%E7%B2%89%22%7D&rank=&style_id=40132&topic_id=7617256700793572902",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-15T02:32:03.880297+00:00",
+  "id": "9e285881-9b45-4bb9-8f6f-22f6ac58b238",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T02:32:30.753188+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "11001719",
+    "platform": "toutiao"
+  }
+}
