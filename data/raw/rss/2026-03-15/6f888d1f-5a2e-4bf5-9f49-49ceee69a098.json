@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitwise’s Matt Hougan revisits $1 million bitcoin — analysts agree but debate his timeline",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/15/bitwise-s-matt-hougan-revisits-usd1-million-bitcoin-analysts-agree-but-debate-his-timeline",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-15T14:00:00+00:00",
+  "id": "6f888d1f-5a2e-4bf5-9f49-49ceee69a098",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

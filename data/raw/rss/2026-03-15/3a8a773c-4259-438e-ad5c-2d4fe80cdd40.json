@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "纽约原油再次逼近100美元",
+  "raw_content": "<div>2026/03/13</div><div id=\"contentDiv\">\n<div></div>\n<div>      3月12日的美国纽约市场上，国际原油指标WTI（西得克萨斯中质原油）期货一度较前一交易日收盘价上涨11%，升至每桶97.19美元，再次逼近100美元关口。中东地区的军事冲突看不到收敛迹象，对油轮的攻击和港口关闭正对实体经济产生负面影响。</div>\n<div> </div>\n<div>      原油价格近日持续剧烈波动。9日由于市场担忧战争长期化，WTI曾上涨至119美元。10日，美国能源部部长赖特在X（原推特）上发文称：“美国海军成功护送通过霍尔木兹海峡的石油油轮”。消息传出后，油价一度跌至70美元区间。</div>\n<div> </div>\n<div>      美国股市也因油价上涨引发对美国经济前景的担忧。道琼斯工业平均指数自早盘起大幅下跌，最终较前一交易日下跌739点，收于46677点。景气敏感股和消费相关股票遭到集中抛售。</div>\n<div>  </div>\n<div>      国际能源署（IEA）12日发布的月度石油市场报告指出：“中东地区的战争正在给国际石油市场带来史上最大的供应混乱”。IEA成员国已于11日决定协调释放石油储备，以缓解油价上涨压力，规模为历史最大。</div>\n<div>  </div>\n<div></div><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61752-2026-03-13-08-06-26.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-13T01:08:04+00:00",
+  "id": "3a8a773c-4259-438e-ad5c-2d4fe80cdd40",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
