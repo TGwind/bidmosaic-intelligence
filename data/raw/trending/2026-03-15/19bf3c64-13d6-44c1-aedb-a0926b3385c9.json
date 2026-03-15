@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "秦岭户外的中药材确实丰富",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV164wszZETV",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-15T18:40:42.969652+00:00",
+  "id": "19bf3c64-13d6-44c1-aedb-a0926b3385c9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2026905,
+    "platform": "bilibili"
+  }
+}
