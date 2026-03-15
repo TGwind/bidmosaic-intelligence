@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "The math behind Strategy’s path to 1 million bitcoin by the end of 2026",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/14/the-math-behind-strategy-s-path-to-1-million-bitcoin-by-the-end-of-2026",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-14T14:00:00+00:00",
+  "id": "3df59c30-0101-45b8-b26b-7135fffd70d3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T05:40:06.058364+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

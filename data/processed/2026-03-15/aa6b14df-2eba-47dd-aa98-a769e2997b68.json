@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin whales are starting to accumulate again at $71K: Santiment",
+  "raw_content": "Santiment says the recent uptick in Bitcoin whale accumulation is a \"positive reversal,\" and the platform is watching for retail selling to confirm a potential market bottom.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-whale-accumulation-btc-price-retail-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-15T05:30:21+00:00",
+  "id": "aa6b14df-2eba-47dd-aa98-a769e2997b68",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T05:40:06.121586+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
