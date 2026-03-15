@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "解放军亮舰震慑“台独”分裂势力",
+  "raw_content": "解放军亮舰震慑“台独”分裂势力",
+  "source_url": "https://www.toutiao.com/trending/7617310889540075583/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617310889540075583%22%2C%22hot_board_impr_id%22%3A%2220260315145905B4A5864E144027AF29D7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A7%A3%E6%94%BE%E5%86%9B%E4%BA%AE%E8%88%B0%E9%9C%87%E6%85%91%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%88%86%E8%A3%82%E5%8A%BF%E5%8A%9B%22%7D&rank=&style_id=40132&topic_id=7617310889540075583",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-15T06:59:05.198204+00:00",
+  "id": "ef65a387-18a6-4433-ac9a-63be2cc183a9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T06:59:35.552826+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10110584",
+    "platform": "toutiao"
+  }
+}

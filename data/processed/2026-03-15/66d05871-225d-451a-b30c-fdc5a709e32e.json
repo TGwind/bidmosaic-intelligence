@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "raw_content": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "source_url": "https://www.bilibili.com/video/BV1ZmcSz4EZx",
+  "raw_title": "第三套全国中学生广播体操【数学版】这套操有力气",
+  "raw_content": "学会这套体操，初高中常见函数便不在话下",
+  "source_url": "https://www.bilibili.com/video/BV1x7czzME6j",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-15T02:32:04.664808+00:00",
-  "id": "11a61b34-fbf8-4c13-9732-0f9ab4eb576c",
+  "collected_at": "2026-03-15T06:59:06.028533+00:00",
+  "id": "66d05871-225d-451a-b30c-fdc5a709e32e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-15T06:59:35.539399+00:00",
+  "processed_at": "2026-03-15T06:59:35.542152+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3054207,
+    "hot_score": 1743912,
     "platform": "bilibili"
   }
 }
