@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "【终末地】赤石科技之佩佩EP",
-  "raw_content": "又有菲林又有冰， 这才是真正的哈基米音乐（",
-  "source_url": "https://www.bilibili.com/video/BV1BVc6zfELW",
+  "raw_title": "不该奖励他的……",
+  "raw_content": "下期该如何整蛊高斯呢？快给我出点招！ 点赞40W找高斯挑战下一期！：）",
+  "source_url": "https://www.bilibili.com/video/BV1BbwFznEpm",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-15T06:59:06.028525+00:00",
-  "id": "1116dccc-e247-4c38-a9c0-dc60e9de01de",
+  "collected_at": "2026-03-15T12:55:53.760342+00:00",
+  "id": "1d9b8ef6-8fed-42fa-a05d-4b7b834bbf38",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-15T12:56:22.115165+00:00",
+  "processed_at": "2026-03-15T12:56:22.119160+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1401447,
+    "hot_score": 5838386,
     "platform": "bilibili"
   }
 }
