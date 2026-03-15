@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto broker Bitpanda bets on banks and tokenization to expand globally ahead of IPO plans",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/14/crypto-broker-bitpanda-bets-on-banks-and-tokenization-to-expand-globally-ahead-of-ipo-plans",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-14T20:00:00+00:00",
+  "id": "dff0e32a-d7b6-4231-a7b8-71c5eb06e8f9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
