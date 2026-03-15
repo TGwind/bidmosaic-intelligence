@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto’s age of hype is over, making way for the real infrastructure to be built",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/opinion/2026/03/15/crypto-s-age-of-hype-is-over-making-way-for-the-real-infrastructure-to-be-built",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-15T19:30:00+00:00",
+  "id": "48d99771-a76a-49ee-b3e1-0e57a1c77453",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T20:39:21.602356+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

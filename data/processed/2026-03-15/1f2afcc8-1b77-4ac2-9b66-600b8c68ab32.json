@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Isabel Schnabel: Navigating inflation and employment in an era of supply shocks and AI",
+  "raw_content": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at the 2026 US Monetary Policy Forum, New York City, 6 March 2026.",
+  "source_url": "https://www.bis.org/review/r260311e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-15T20:38:22.221714+00:00",
+  "id": "1f2afcc8-1b77-4ac2-9b66-600b8c68ab32",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-15T20:39:21.565352+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
