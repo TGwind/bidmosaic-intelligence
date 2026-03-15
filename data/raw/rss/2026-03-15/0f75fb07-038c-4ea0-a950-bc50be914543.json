@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Swaminathan J: Digitalisation for inclusive finance and sustainability - priorities for the next phase",
+  "raw_content": "Valedictory address by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at the International Conference on \"Digitalisation for inclusive finance and sustainability\", organised by the National Institute of Bank Management (NIBM) and the College of Agricultural Banking (CAB), Pune, 6 March 2026.",
+  "source_url": "https://www.bis.org/review/r260310h.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-15T13:09:29.029133+00:00",
+  "id": "0f75fb07-038c-4ea0-a950-bc50be914543",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
