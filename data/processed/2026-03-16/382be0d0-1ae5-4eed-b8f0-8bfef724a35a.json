@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "raw_content": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "source_url": "https://www.bilibili.com/video/BV1ZmcSz4EZx",
+  "raw_title": "“割地、赔款”！伊朗的停火条件万税爷能忍？",
+  "raw_content": "“割地、赔款”！伊朗的停火条件万税爷能忍？",
+  "source_url": "https://www.bilibili.com/video/BV1wmwxzPEYr",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-16T02:32:58.915973+00:00",
-  "id": "4e279f8a-34c9-4d73-9ff0-00ad0ab9e36e",
+  "collected_at": "2026-03-16T19:03:38.944037+00:00",
+  "id": "382be0d0-1ae5-4eed-b8f0-8bfef724a35a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-16T19:04:12.168791+00:00",
+  "processed_at": "2026-03-16T19:04:12.166065+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3738117,
+    "hot_score": 3684984,
     "platform": "bilibili"
   }
 }

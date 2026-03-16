@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "raw_content": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "source_url": "https://www.bilibili.com/video/BV1ZmcSz4EZx",
+  "raw_title": "假如我也有一台F1赛车...",
+  "raw_content": "冲啊啊啊啊啊啊啊啊啊啊~~~！",
+  "source_url": "https://www.bilibili.com/video/BV19BcUzyExN",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-16T02:32:58.915973+00:00",
-  "id": "4e279f8a-34c9-4d73-9ff0-00ad0ab9e36e",
+  "collected_at": "2026-03-16T19:03:38.944088+00:00",
+  "id": "2391e645-d0dd-45bb-aa6c-3f501f8565ca",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-16T19:04:12.168791+00:00",
+  "processed_at": "2026-03-16T19:04:12.164934+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3738117,
+    "hot_score": 5464251,
     "platform": "bilibili"
   }
 }
