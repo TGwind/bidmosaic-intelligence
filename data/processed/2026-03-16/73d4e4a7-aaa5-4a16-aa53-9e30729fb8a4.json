@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "被315点名亿丰电子已停止生产经营",
+  "raw_content": "被315点名亿丰电子已停止生产经营",
+  "source_url": "https://www.toutiao.com/trending/7617547350860595242/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617547350860595242%22%2C%22hot_board_impr_id%22%3A%2220260316211530DAB2A59C729F14C6C461%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A2%AB315%E7%82%B9%E5%90%8D%E4%BA%BF%E4%B8%B0%E7%94%B5%E5%AD%90%E5%B7%B2%E5%81%9C%E6%AD%A2%E7%94%9F%E4%BA%A7%E7%BB%8F%E8%90%A5%22%7D&rank=&style_id=40132&topic_id=7617547350860595242",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T13:15:30.835006+00:00",
+  "id": "73d4e4a7-aaa5-4a16-aa53-9e30729fb8a4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T13:16:01.124369+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "33186498",
+    "platform": "toutiao"
+  }
+}

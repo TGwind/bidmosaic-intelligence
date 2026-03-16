@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "树立和践行正确政绩观",
-  "raw_content": "树立和践行正确政绩观",
-  "source_url": "https://www.toutiao.com/article/7617076089157403174",
+  "raw_title": "我国商品和服务市场供给能力充足",
+  "raw_content": "我国商品和服务市场供给能力充足",
+  "source_url": "https://www.toutiao.com/article/7617692739748102698",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-16T07:19:35.029774+00:00",
-  "id": "d39b822b-93fe-4abd-94c6-df804ec4b5fd",
+  "collected_at": "2026-03-16T13:15:30.835057+00:00",
+  "id": "ce61d067-4b8c-436b-837d-d68849e96673",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-16T13:16:01.136402+00:00",
+  "processed_at": "2026-03-16T13:16:01.133793+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "32416760",
+    "hot_score": "27170807",
     "platform": "toutiao"
   }
 }

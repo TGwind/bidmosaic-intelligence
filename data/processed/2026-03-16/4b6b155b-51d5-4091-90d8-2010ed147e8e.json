@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "raw_content": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "source_url": "https://www.bilibili.com/video/BV1ZmcSz4EZx",
+  "raw_title": "和AI玩历史猜人物游戏，差点吵起来",
+  "raw_content": "跟风中",
+  "source_url": "https://www.bilibili.com/video/BV1PJwszeEFH",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-16T02:32:58.915973+00:00",
-  "id": "4e279f8a-34c9-4d73-9ff0-00ad0ab9e36e",
+  "collected_at": "2026-03-16T13:15:31.629842+00:00",
+  "id": "4b6b155b-51d5-4091-90d8-2010ed147e8e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-16T13:16:01.118604+00:00",
+  "processed_at": "2026-03-16T13:16:01.114577+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3738117,
+    "hot_score": 2827476,
     "platform": "bilibili"
   }
 }

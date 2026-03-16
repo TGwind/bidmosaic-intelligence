@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中越部长们合影时手紧紧挽在一起",
+  "raw_content": "中越部长们合影时手紧紧挽在一起",
+  "source_url": "https://www.toutiao.com/trending/7617423164625453082/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617423164625453082%22%2C%22hot_board_impr_id%22%3A%2220260316211530DAB2A59C729F14C6C461%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E8%B6%8A%E9%83%A8%E9%95%BF%E4%BB%AC%E5%90%88%E5%BD%B1%E6%97%B6%E6%89%8B%E7%B4%A7%E7%B4%A7%E6%8C%BD%E5%9C%A8%E4%B8%80%E8%B5%B7%22%7D&rank=&style_id=40132&topic_id=7617423164625453082",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T13:15:30.835043+00:00",
+  "id": "bff8b761-591e-4e43-ac73-4959ee89b3fe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T13:16:01.133145+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "30028386",
+    "platform": "toutiao"
+  }
+}
