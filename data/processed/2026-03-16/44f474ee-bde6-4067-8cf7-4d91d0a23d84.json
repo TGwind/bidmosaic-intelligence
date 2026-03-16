@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Korea fines Bithumb $24M, orders 6-month partial business suspension",
+  "raw_content": "Regulators found 6.65 million AML violations at Bithumb, including 45,772 crypto transfers involving 18 unregistered overseas VASPs.",
+  "source_url": "https://cointelegraph.com/news/south-korea-fines-bithumb-24-5m-six-month-partial-suspension-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T12:53:03+00:00",
+  "id": "44f474ee-bde6-4067-8cf7-4d91d0a23d84",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T13:44:17.968231+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

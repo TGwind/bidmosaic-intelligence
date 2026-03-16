@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Metaplanet raises $255M and adds warrant structure for Bitcoin buys",
+  "raw_content": "Metaplanet raised $255 million and launched new warrants to fund more Bitcoin purchases as it pushes toward a 210,000 BTC treasury target.",
+  "source_url": "https://cointelegraph.com/news/metaplanet-raises-255m-strike-warrant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T12:43:54+00:00",
+  "id": "5f9b4226-bfd9-4d12-9298-566c9fff6046",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T13:44:17.991716+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

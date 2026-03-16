@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Michael Saylor's Strategy made another huge buy of bitcoin, adding $1.57 billion worth last week",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/16/michael-saylor-s-strategy-made-another-huge-buy-of-bitcoin-adding-usd1-57-billion-worth-last-week",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T12:11:51+00:00",
+  "id": "d8bfd901-185b-4fef-bb7b-027bf51d0df0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T13:44:18.027951+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

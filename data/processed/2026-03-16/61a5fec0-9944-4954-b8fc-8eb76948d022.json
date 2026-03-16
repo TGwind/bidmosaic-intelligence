@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy buys $1.6B in Bitcoin as holdings surpass 761,000 BTC",
+  "raw_content": "Strategy bought 22,337 Bitcoin for $1.57 billion last week, lifting total holdings to 761,068 BTC as it funds purchases through record sales of its STRC preferred stock.",
+  "source_url": "https://cointelegraph.com/news/strategy-1-6-billion-bitcoin-buy-holdings-top-761k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T12:21:54+00:00",
+  "id": "61a5fec0-9944-4954-b8fc-8eb76948d022",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T13:44:17.997910+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
