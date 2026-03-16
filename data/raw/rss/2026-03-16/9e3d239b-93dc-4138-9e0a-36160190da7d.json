@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Korea fines Bithumb $24 million, orders 6-month partial suspension over money laundering violations",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/16/south-korea-fines-bithumb-usd24-million-orders-6-month-partial-suspension-over-aml-violations",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T12:04:06+00:00",
+  "id": "9e3d239b-93dc-4138-9e0a-36160190da7d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

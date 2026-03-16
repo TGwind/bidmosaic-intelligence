@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto funds add $1B as three-week inflow streak continues",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto funds add $1B as three-week inflow streak continues\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM3NzAtOGZjMi03ZmQ4LWE5MjAtNjY3MzRkOWRiYzVjLmpwZw==.jpg\" /></p><p>Crypto ETPs recorded $1.06 billion in inflows last week, led by Bitcoin and Ethereum, marking three straight weeks of gains despite geopolitical stress.</p>",
+  "source_url": "https://cointelegraph.com/news/crypto-etp-1-billion-inflows-three-straight-weeks-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T10:59:57+00:00",
+  "id": "0c70b1bc-cfd3-492b-95ab-c047e79454c7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
