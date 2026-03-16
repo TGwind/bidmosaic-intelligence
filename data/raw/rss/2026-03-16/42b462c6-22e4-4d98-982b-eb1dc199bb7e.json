@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US ban on stablecoin yield could see others fill the void: Ledger exec",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US ban on stablecoin yield could see others fill the void: Ledger exec\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U1ODctZmFlOS03M2NhLTljMjMtMWFmMjNkMDkwZWI3LmpwZw==.jpg\" /></p><p>Ledger’s Asia-Pacific lead, Takatoshi Shibayama, has added his take as crypto and banks continue to debate whether to allow third-party platforms to offer stablecoin yields.</p>",
+  "source_url": "https://cointelegraph.com/news/us-stablecoin-yield-ban-see-others-fill-void?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T04:05:57+00:00",
+  "id": "42b462c6-22e4-4d98-982b-eb1dc199bb7e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

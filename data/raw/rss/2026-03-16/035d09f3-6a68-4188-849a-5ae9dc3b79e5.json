@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Australia warns of AI, ‘finfluencers’ as Gen Z crypto ownership reaches 23%",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Australia warns of AI, ‘finfluencers’ as Gen Z crypto ownership reaches 23%\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjAwNGUtYWIwZS03NTM2LThmMzYtMjJmYTA1ZWRjNzk1.jpg\" /></p><p>Australia’s securities regulator said two-thirds of Gen Z are using social media to make decisions about their financial future, leading to “riskier” financial decisions. </p>",
+  "source_url": "https://cointelegraph.com/news/asic-warns-ai-finfluencers-gen-z-crypto-23-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T05:14:42+00:00",
+  "id": "035d09f3-6a68-4188-849a-5ae9dc3b79e5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
