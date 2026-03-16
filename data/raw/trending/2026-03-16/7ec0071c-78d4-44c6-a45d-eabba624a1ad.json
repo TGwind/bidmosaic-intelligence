@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "渝昆高铁7死4伤事故调查报告公布",
+  "raw_content": "渝昆高铁7死4伤事故调查报告公布",
+  "source_url": "https://www.toutiao.com/trending/7617775314529468459/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617775314529468459%22%2C%22hot_board_impr_id%22%3A%2220260316211530DAB2A59C729F14C6C461%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B8%9D%E6%98%86%E9%AB%98%E9%93%817%E6%AD%BB4%E4%BC%A4%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%8A%A5%E5%91%8A%E5%85%AC%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7617775314529468459",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T13:15:30.835086+00:00",
+  "id": "7ec0071c-78d4-44c6-a45d-eabba624a1ad",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20128629",
+    "platform": "toutiao"
+  }
+}

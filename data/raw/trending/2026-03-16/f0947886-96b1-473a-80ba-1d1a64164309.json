@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "假如我也有一台F1赛车...",
+  "raw_content": "冲啊啊啊啊啊啊啊啊啊啊~~~！",
+  "source_url": "https://www.bilibili.com/video/BV19BcUzyExN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T13:15:31.629886+00:00",
+  "id": "f0947886-96b1-473a-80ba-1d1a64164309",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5424731,
+    "platform": "bilibili"
+  }
+}
