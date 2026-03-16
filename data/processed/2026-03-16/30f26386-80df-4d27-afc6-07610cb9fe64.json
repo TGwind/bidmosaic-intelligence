@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin nears $75K as trader says BTC price squeeze 'changes nothing'",
+  "raw_content": "Bitcoin achieved new six-week highs at the week's first Wall Street open, but analysis stayed risk-off, arguing that the long-term BTC price downtrend was still in place.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-approaches-75k-trader-says-btc-price-squeeze-changes-nothing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T15:22:47+00:00",
+  "id": "30f26386-80df-4d27-afc6-07610cb9fe64",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T17:12:47.806675+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US, UK, Canada launch joint operation to disrupt crypto fraud",
+  "raw_content": "Dubbed “Operation Atlantic,“ the effort involves law enforcement agencies from the three countries and is aimed at preventing phishing attacks involving cryptocurrencies.",
+  "source_url": "https://cointelegraph.com/news/us-uk-canada-enforcement-operation-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T16:07:04+00:00",
+  "id": "157af64c-f79e-4db9-bab7-4d9802a5f33a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T17:12:47.763295+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

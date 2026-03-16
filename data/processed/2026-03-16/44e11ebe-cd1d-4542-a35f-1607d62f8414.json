@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "How a 2.85% price error triggered $27M in liquidations on Aave",
+  "raw_content": "A small pricing error in wstETH collateral caused $27 million in Aave liquidations, highlighting the critical role of price oracles and automated risk systems in DeFi.",
+  "source_url": "https://cointelegraph.com/news/how-a-2-85-price-error-triggered-27m-in-liquidations-on-aave?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T14:39:06+00:00",
+  "id": "44e11ebe-cd1d-4542-a35f-1607d62f8414",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T17:12:47.831923+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
