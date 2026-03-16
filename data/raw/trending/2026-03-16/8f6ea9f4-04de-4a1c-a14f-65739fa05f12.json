@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "为中华民族永续发展筑牢法治根基",
+  "raw_content": "为中华民族永续发展筑牢法治根基",
+  "source_url": "https://www.toutiao.com/article/7617659827912753700",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T19:03:37.904706+00:00",
+  "id": "8f6ea9f4-04de-4a1c-a14f-65739fa05f12",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "27425726",
+    "platform": "toutiao"
+  }
+}

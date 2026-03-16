@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "这就是你想要的长大吗？",
+  "raw_content": "时间转一圈又一圈\n将我们的从前 藏进故事哪一页?\n如果长大是场冒险\n是否还有勇气 再去遇见下张脸...\n\n伴奏：《烟圈》-功夫胖KUNGFU-PEN",
+  "source_url": "https://www.bilibili.com/video/BV1dScmz7ENx",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T19:03:38.943976+00:00",
+  "id": "3d2f0118-16fe-40a6-9af1-43401583f814",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4876511,
+    "platform": "bilibili"
+  }
+}
