@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "315曝光的鸡爪公司股东也在看晚会",
+  "raw_content": "315曝光的鸡爪公司股东也在看晚会",
+  "source_url": "https://www.toutiao.com/trending/7617682436520119846/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617682436520119846%22%2C%22hot_board_impr_id%22%3A%22202603161519344C04E81DC1311DD5AE8E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22315%E6%9B%9D%E5%85%89%E7%9A%84%E9%B8%A1%E7%88%AA%E5%85%AC%E5%8F%B8%E8%82%A1%E4%B8%9C%E4%B9%9F%E5%9C%A8%E7%9C%8B%E6%99%9A%E4%BC%9A%22%7D&rank=&style_id=40132&topic_id=7617682436520119846",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T07:19:35.029724+00:00",
+  "id": "64a000a7-90e5-4d76-82cf-13c655cdc9d2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T07:20:02.093408+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "39593920",
+    "platform": "toutiao"
+  }
+}

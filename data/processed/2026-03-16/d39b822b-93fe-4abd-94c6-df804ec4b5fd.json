@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "中国盾构机全球市场占有率第一",
-  "raw_content": "中国盾构机全球市场占有率第一",
-  "source_url": "https://www.toutiao.com/article/7617386839708418595",
+  "raw_title": "树立和践行正确政绩观",
+  "raw_content": "树立和践行正确政绩观",
+  "source_url": "https://www.toutiao.com/article/7617076089157403174",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-16T02:32:58.231435+00:00",
-  "id": "88c26c06-8c97-46cc-b2ec-3d4889b35a11",
+  "collected_at": "2026-03-16T07:19:35.029774+00:00",
+  "id": "d39b822b-93fe-4abd-94c6-df804ec4b5fd",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-16T07:20:02.101523+00:00",
+  "processed_at": "2026-03-16T07:20:02.101635+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "26989447",
+    "hot_score": "32416760",
     "platform": "toutiao"
   }
 }

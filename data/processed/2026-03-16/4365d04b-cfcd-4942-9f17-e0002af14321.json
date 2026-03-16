@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "民调：特朗普正将美国盟友推向中国",
+  "raw_content": "民调：特朗普正将美国盟友推向中国",
+  "source_url": "https://www.toutiao.com/trending/7617510305036795923/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617510305036795923%22%2C%22hot_board_impr_id%22%3A%22202603161519344C04E81DC1311DD5AE8E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B0%91%E8%B0%83%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%B0%86%E7%BE%8E%E5%9B%BD%E7%9B%9F%E5%8F%8B%E6%8E%A8%E5%90%91%E4%B8%AD%E5%9B%BD%22%7D&rank=&style_id=40132&topic_id=7617510305036795923",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T07:19:35.029841+00:00",
+  "id": "4365d04b-cfcd-4942-9f17-e0002af14321",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T07:20:02.086277+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "19661758",
+    "platform": "toutiao"
+  }
+}
