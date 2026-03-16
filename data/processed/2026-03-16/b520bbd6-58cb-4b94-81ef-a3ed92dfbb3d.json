@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "“割地、赔款”！伊朗的停火条件万税爷能忍？",
+  "raw_content": "“割地、赔款”！伊朗的停火条件万税爷能忍？",
+  "source_url": "https://www.bilibili.com/video/BV1wmwxzPEYr",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T02:32:58.916014+00:00",
+  "id": "b520bbd6-58cb-4b94-81ef-a3ed92dfbb3d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T02:33:25.659310+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3103678,
+    "platform": "bilibili"
+  }
+}

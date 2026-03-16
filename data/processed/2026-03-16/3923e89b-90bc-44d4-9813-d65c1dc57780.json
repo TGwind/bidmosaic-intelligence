@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "杨舒予谈女足女篮先后闯进世界杯",
+  "raw_content": "杨舒予谈女足女篮先后闯进世界杯",
+  "source_url": "https://www.toutiao.com/trending/7617473007942123583/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617473007942123583%22%2C%22hot_board_impr_id%22%3A%2220260316103257DC5D49DA233ACF1FBC7D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%A8%E8%88%92%E4%BA%88%E8%B0%88%E5%A5%B3%E8%B6%B3%E5%A5%B3%E7%AF%AE%E5%85%88%E5%90%8E%E9%97%AF%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%22%7D&rank=&style_id=40132&topic_id=7617473007942123583",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T02:32:58.231479+00:00",
+  "id": "3923e89b-90bc-44d4-9813-d65c1dc57780",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T02:33:25.654866+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16369927",
+    "platform": "toutiao"
+  }
+}

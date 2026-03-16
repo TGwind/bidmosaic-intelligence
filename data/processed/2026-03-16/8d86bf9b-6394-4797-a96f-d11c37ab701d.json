@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "我在雪山救了100只狐狸！",
+  "raw_content": "尝试制作的邵氏ai反转短剧，喜欢的话别忘记点个赞呀。",
+  "source_url": "https://www.bilibili.com/video/BV15EwWzLEwa",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T02:32:58.915964+00:00",
+  "id": "8d86bf9b-6394-4797-a96f-d11c37ab701d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T02:33:25.658977+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6007048,
+    "platform": "bilibili"
+  }
+}
