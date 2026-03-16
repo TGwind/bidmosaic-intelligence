@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Here is why Nasdaq and owner of NYSE are putting the $126 trillion equity market on blockchain",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/15/here-is-why-nasdaq-and-owner-of-nyse-are-putting-the-usd126-trillion-equity-market-on-blockchain",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-15T16:00:00+00:00",
+  "id": "32c8731e-a83b-4b69-b662-e87d091bb40f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T03:21:30.187327+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

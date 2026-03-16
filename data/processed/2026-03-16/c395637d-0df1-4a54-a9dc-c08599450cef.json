@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "纽约原油价格再次突破100美元",
+  "raw_content": "2026/03/16 原油价格再次站上每桶100美元。受中东局势紧张加剧影响，作为指标之一的WTI（西得克萨斯中质原油）期货在日本时间3月16日突破每桶100美元。时隔一周再次超过这一心理关口。美国对伊朗哈尔克岛的军事目标发动攻击后，市场重新意识到围绕海湾地区原油基础设施的风险。 目前尚未确认作为伊朗主要出口据点的哈尔克岛装船设施和储存设施遭到严重破坏，供应也并未立即中断。不过市场担忧，随着武装冲突加剧，运输和能源设施可能遭到攻击而停止运作，从而进一步削减供应。 在中东海湾国家中，除哈尔克岛外，还有沙特阿拉伯的拉斯塔努拉出口基地、阿布凯克原油处理设施，以及作为绕开霍尔木兹海峡运输路线要冲的阿联酋富查伊拉等海湾重要据点。市场普遍认为，一旦这些支撑全球原油供应的重要据点陷入瘫痪，影响可能进一步扩大。 围绕霍尔木兹海峡，伊朗革命卫队于3月2日宣布实施封锁，并在10日开始布设水雷。波斯湾针对油轮的攻击也接连发生。 国际能源署（IEA）12日公布的报告分析称，自军事冲突爆发以来，海湾产油国的石油产量已减少每日1000万桶。由于霍尔木兹海峡被封锁，石油无法运出，许多产油国被迫减产。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61771-2026-03-16-08-00-10.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-16T00:38:02+00:00",
+  "id": "c395637d-0df1-4a54-a9dc-c08599450cef",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T03:21:30.266108+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

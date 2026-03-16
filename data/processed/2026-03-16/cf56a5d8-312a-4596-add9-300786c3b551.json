@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "伊朗外长就霍尔木兹海峡问题称愿与第三国磋商",
+  "raw_content": "2026/03/16 伊朗外长阿拉格奇在3月15日播出的美国哥伦比亚广播公司（CBS）节目中表示，对于希望就霍尔木兹海峡船舶安全航行问题进行协商的第三国，伊朗持积极态度。他称“已收到许多国家的接触”。在持续攻击伊朗的特朗普政府要求日本、中国、法国等国派遣舰船以确保霍尔木兹海峡安全之际，伊朗此举意在施加影响。 据英国《金融时报》报道，法国等国已开始与伊朗展开谈判。 阿拉格奇在节目中表示，“我们从未要求停火或谈判”，并否认了美国总统特朗普“伊朗希望达成交易”的说法。 （kyodo）",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61772-2026-03-16-08-00-09.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-16T00:38:02+00:00",
+  "id": "cf56a5d8-312a-4596-add9-300786c3b551",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T03:21:30.278497+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

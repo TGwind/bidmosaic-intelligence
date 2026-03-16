@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price teases key support reclaims with weekly close above $70K",
+  "raw_content": "Bitcoin edged toward an important weekly close above $70,000 that would include a reclaim of an important 200-week trend line.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-teases-key-support-reclaims-weekly-close-above-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-15T15:12:03+00:00",
+  "id": "1a6500c0-f76a-4285-a9df-18dbf0694cff",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T03:21:30.171176+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
