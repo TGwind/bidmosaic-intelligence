@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
+  "raw_content": "Autonomous networks — intelligent, self-managing telecommunications operations — are moving from a future vision to a current priority for telecom operators. In the latest NVIDIA State of AI in Telecommunications report, network automation emerged as the top AI use case for investment and return on investment. Automation is different from autonomy. Beyond executing predefined workflows, [&#8230;]",
+  "source_url": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-01T07:00:45+00:00",
+  "id": "4be9237a-d0b3-4d2d-8c69-938175639a23",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Context is all you need: Towards autonomous model-based process design using agentic AI in flowsheet simulations",
+  "raw_content": "arXiv:2603.12813v1 Announce Type: new \nAbstract: Agentic AI systems integrating large language models (LLMs) with reasoning and tooluse capabilities are transforming various domains - in particular, software development. In contrast, their application in chemical process flowsheet modelling remains largely unexplored. In this work, we present an agentic AI framework that delivers assistance in an industrial flowsheet simulation environment. To this end, we show the capabilities of GitHub Copilot (GitHub, Inc., 2026), when using state-of-the-art LLMs, such as Claude Opus 4.6 (Anthropic, PBC, 2026), to generate valid syntax for our in-house process modelling tool Chemasim using the technical documentation and a few commented examples as context. Based on this, we develop a multi-agent system that decomposes process development tasks with one agent solving the abstract problem using engineering knowledge and another agent implementing the solution as Chemasim code. We demonstrate the effectiveness of our framework for typical flowsheet modelling examples, including (i) a reaction/separation process, (ii) a pressure-swing distillation, and (iii) a heteroazeotropic distillation including entrainer selection. Along these lines, we discuss current limitations of the framework and outline future research directions to further enhance its capabilities.",
+  "source_url": "https://arxiv.org/abs/2603.12813",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-16T04:00:00+00:00",
+  "id": "d21a6763-5b83-4e46-a250-fd15c91f6216",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

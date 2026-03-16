@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Aave to launch 'Aave Shield' after $50M token swap mishap",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave to launch 'Aave Shield' after $50M token swap mishap\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2YzODgtNGJiMi03NzI3LTg0MzgtMmY2YzE3MzVjNzAyLmpwZw==.jpg\" /></p><p>In a post-mortem of the incident, Aave clarified it was not slippage, but an illiquid market that caused the trader to lose over $50 million while swapping USDT for AAVE.</p>",
+  "source_url": "https://cointelegraph.com/news/aave-roll-out-aave-shield-after-50m-user-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T01:00:59+00:00",
+  "id": "e9c29740-46ac-4138-a888-1f4a49bf9f91",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
