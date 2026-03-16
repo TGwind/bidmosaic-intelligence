@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LWiAI Podcast #233 - Moltbot, Genie 3, Qwen3-Max-Thinking",
+  "raw_content": "Google adds Gemini AI-powered &#8216;auto browse&#8217; to Chrome, Users flock to open source Moltbot for always-on AI, Qwen3-Max-Thinking debuts, and more!",
+  "source_url": "https://lastweekin.ai/p/lwiai-podcast-233-moltbot-genie-3",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-06T05:06:04+00:00",
+  "id": "3fb75414-018f-465f-9e30-73d184444e56",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T05:54:12.410975+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
