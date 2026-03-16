@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Australian Senate committee backs new crypto platform licensing bill",
+  "raw_content": "Australia is moving closer to a new licensing regime that would bring crypto exchanges and tokenization platforms into the Australian Financial Services Licence regime.",
+  "source_url": "https://cointelegraph.com/news/australian-senate-committee-backs-new-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T08:33:10+00:00",
+  "id": "72b08a9e-4693-4f44-94ed-9dcd1236c216",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T09:08:42.837554+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

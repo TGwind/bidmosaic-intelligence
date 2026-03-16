@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping",
+  "raw_content": "arXiv:2603.12275v1 Announce Type: new Abstract: Unlearning knowledge is a pressing and challenging task in Large Language Models (LLMs) because of their unprecedented capability to memorize and digest training data at scale, raising more significant issues regarding safety, privacy, and intellectual property. However, existing works, including parameter editing, fine-tuning, and distillation-based methods, are all focused on flat sentence-level data but overlook the relational, multi-hop, and reasoned knowledge in naturally structured data. In response to this gap, this paper introduces Graph Oblivion and Node Erasure (GONE), a benchmark for evaluating knowledge unlearning over structured knowledge graph (KG) facts in LLMs. This KG-based benchmark enables the disentanglement of three effects of unlearning: direct fact removal, reasoning-based leakage, and catastrophic forgetting. In addition, Neighborhood-Expanded Distribution Shaping (NEDS), a novel unlearning framework, is designed to leverage graph connectivity and identify anchor correlated neighbors, enforcing a precise decision boundary between the forgotten fact and its semantic neighborhood. Evaluations on LLaMA-3-8B and Mistral-7B across multiple knowledge editing and unlearning methods showcase NEDS's superior performance (1.000 on unlearning efficacy and 0.839 on locality) on GONE and other benchmarks. Code is available at https://anonymous.4open.science/r/GONE-4679/.",
+  "source_url": "https://arxiv.org/abs/2603.12275",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-16T04:00:00+00:00",
+  "id": "667a0cad-0b64-46e2-81a0-87a3d8203bf8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T09:08:42.830093+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "岐阜和高知樱花开放，日本最早",
+  "raw_content": "2026/03/16 高知城三之丸的标本树上开放的染井吉野樱（3月16日上午，Kyodo） 岐阜和高知两个地方气象台3月16日发布消息称，岐阜市和高知市的樱花（染井吉野樱）已分别开花。这是日本全国的观测地点中最早开放的樱花。岐阜的开花时间比往年平均日期早9天，比2025年早9天，高知比往年早6天，比2025年早7天。高知已连续3年成为最早开花的地区。 在高知市，气象台的工作人员于日本时间上午10点左右观察了高知城三之丸的标本树，确认已有被视为开花标准的5朵以上樱花开放。预计约1周后将进入盛花期。气象台的相关负责人介绍称，“主要原因是降雨偏少，日照时间较长”。 Kyodo",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61784-2026-03-16-14-18-50.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-16T06:38:02+00:00",
+  "id": "a0c1d6bb-d2e7-45fb-b1b3-4b6c42039b0f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T09:08:42.859489+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

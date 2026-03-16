@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP climbs 3% past $1.47 as breakout extends on broad bitcoin-led move",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/16/xrp-climbs-3-past-usd1-47-as-breakout-extends-on-broad-bitcoin-led-move",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T05:30:22+00:00",
+  "id": "3e5096a9-dc17-4684-9602-eb99a56f1028",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T09:08:42.806120+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

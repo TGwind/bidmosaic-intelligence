@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "AI data center gold rush sparks debate over impact on Bitcoin mining",
+  "raw_content": "Crypto trader Ran Neuner said Bitcoin could be at risk if AI continues to pull miners away from the network, but others disagree.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-miner-pivot-ai-threat-or-opportunity-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T06:46:17+00:00",
+  "id": "afe2671e-2ead-4ea3-95a4-218148efdf72",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T09:08:42.858358+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

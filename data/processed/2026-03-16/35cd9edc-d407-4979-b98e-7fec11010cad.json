@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "72% of subsea cables would need to fail to impact Bitcoin, study shows",
+  "raw_content": "The past 11 years have shown that Bitcoin has been resilient to random intercontinental subsea cable failures, but could be susceptible to targeted attacks.",
+  "source_url": "https://cointelegraph.com/news/72-percent-submarine-internet-cables-will-need-to-fail-to-impact-bitcoin-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T03:57:49+00:00",
+  "id": "35cd9edc-d407-4979-b98e-7fec11010cad",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T09:08:42.789913+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
