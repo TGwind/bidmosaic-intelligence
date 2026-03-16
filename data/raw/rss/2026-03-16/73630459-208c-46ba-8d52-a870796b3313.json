@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Michelle W Bowman: Liquidity resiliency, financial stability, and the role of the Federal Reserve",
+  "raw_content": "Speech by Ms Michelle W Bowman, Vice Chair for Supervision of the Board of Governors of the Federal Reserve System, at the Roundtable on Liquidity and Lender of Last Resort, sponsored by the Committee on Capital Markets Regulation, Washington DC, 3 March 2026.",
+  "source_url": "https://www.bis.org/review/r260310d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-16T03:20:59.025507+00:00",
+  "id": "73630459-208c-46ba-8d52-a870796b3313",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

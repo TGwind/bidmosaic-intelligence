@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普政府撤回一项AI半导体出口管制方案",
+  "raw_content": "<div>2026/03/16</div><div id=\"contentDiv\">\n<div></div>\n<div>      据路透社等媒体13日报道，美国特朗普政府已撤回一项关于人工智能（AI）半导体出口的新管制方案。该方案可能与政府希望促进AI出口的方针相矛盾，且内容与前拜登政府时期的管制方案相似，这些问题成为主要原因。</div>\n<div>  </div>\n<div>      根据美国行政管理和预算局（OMB）网站的信息，13日一项与AI相关的管制方案已被撤回。美国商务部今年2月刚向各政府部门出示草案并启动跨部门协商，但在正式讨论全面展开之前便已撤回。</div>\n<div>  </div>\n<div>      根据该方案，AI半导体出口需依据出口规模决定审批流程。</div>\n<div>  </div>\n<div>      美国英伟达和美国超威半导体（AMD）生产的半导体原本计划被纳入管制对象。针对为建设数据中心而希望大量采购两家公司AI半导体的贸易伙伴国，美国政府设想将对美投资作为批准出口的条件。</div>\n<div>  </div>\n<div>      根据AI半导体出口数量差异设定不同管制内容的机制，前拜登政府也曾研究过。2025年5月，特朗普政府以可能对外交关系造成影响为由将其撤回。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/economic-policy/61773-2026-03-16-08-00-08.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-16T00:38:02+00:00",
+  "id": "90bed89f-fb9a-4dd5-ab94-4de3631f33b1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

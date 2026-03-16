@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Venus Protocol hit by $3.7M in 'supply cap' attack",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Venus Protocol hit by $3.7M in 'supply cap' attack\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2YyY2EtNTk1NC03YTBkLTkxYTgtMTFhN2VlMzkwMmUzLmpwZw==.jpg\" /></p><p>The threat actor manipulated the platform by using Thena tokens to bypass the maximum supply cap and borrow several different digital assets.</p>",
+  "source_url": "https://cointelegraph.com/news/venus-protocol-3-7-million-supply-cap-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-15T19:30:20+00:00",
+  "id": "797ffd09-e11b-4a7d-bc03-a2a3e605de2a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
