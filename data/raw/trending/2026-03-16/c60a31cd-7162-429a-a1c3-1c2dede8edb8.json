@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "成都查封315曝光涉事企业",
+  "raw_content": "成都查封315曝光涉事企业",
+  "source_url": "https://www.toutiao.com/trending/7617492337876664363/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617492337876664363%22%2C%22hot_board_impr_id%22%3A%2220260316103257DC5D49DA233ACF1FBC7D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%90%E9%83%BD%E6%9F%A5%E5%B0%81315%E6%9B%9D%E5%85%89%E6%B6%89%E4%BA%8B%E4%BC%81%E4%B8%9A%22%7D&rank=&style_id=40132&topic_id=7617492337876664363",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-16T02:32:58.231535+00:00",
+  "id": "c60a31cd-7162-429a-a1c3-1c2dede8edb8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8129065",
+    "platform": "toutiao"
+  }
+}
