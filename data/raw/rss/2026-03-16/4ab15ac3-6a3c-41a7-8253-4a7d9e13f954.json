@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "The billionaires made a promise — now some want out",
+  "raw_content": "An increasing number of billionaires are turning away from Bill Gates and Warren Buffett's Giving Pledge as wealth once again concentrates at the top.",
+  "source_url": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-16T04:40:24+00:00",
+  "id": "4ab15ac3-6a3c-41a7-8253-4a7d9e13f954",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

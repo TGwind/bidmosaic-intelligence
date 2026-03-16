@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines",
+  "raw_content": "arXiv:2603.12733v1 Announce Type: new \nAbstract: Catastrophic failures of marine engines imply severe loss of functionality and destroy or damage the systems irreversibly. Being sudden and often unpredictable events, they pose a severe threat to navigation, crew, and passengers. The abrupt nature makes early detection the only effective countermeasure. However, research has concentrated on modeling the gradual degradation of components, with limited attention to sudden and anomalous phenomena. This work proposes a new method for early detection of catastrophic failures. Based on real data from a failed engine, the approach evaluates the derivatives of the deviation between actual sensor readings and expected values of engine variables. Predictions are obtained by a Random Forest, which is the most suitable Machine Learning algorithm among the tested ones. Traditional methods focus on deviations of monitored signals, whereas the proposed approach employs the derivatives of the deviations to provide earlier indications of abnormal dynamics, and to alert that a rapid and dangerous event is breaking out within the system. The method allows the detection of anomalies before measurements reach critical thresholds and alarms are triggered, which is the common method in industry. Consequently, operators can be warned in advance and shut down the engine, then prevent damage and unexpected power loss. Moreover, they have the time to safely change the ship route and avoid potential obstacles. Simulation results conf irm the effectiveness of the proposed approach in anticipating occurrence of catastrophic failures. Validation on real-world data further reinforces the robustness and practical applicability of the method. It is worth noting that data acquisition to train the predictive algorithm is not a problem, since a Deep Learning-based data augmentation procedure is used.",
+  "source_url": "https://arxiv.org/abs/2603.12733",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-16T04:00:00+00:00",
+  "id": "0244ff7a-05e8-4753-aa94-d695f34ca6af",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
