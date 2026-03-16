@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国企业占EV电池全球份额的7成",
+  "raw_content": "2026/03/16 中国企业在EV电池的份额2025年超过7成，与2021年的近5成相比，垄断进一步加强。在全球EV需求放缓的背景下，最大企业宁德时代在中国和欧洲扩大订单，刷新利润新高。形成对照的是，韩国企业明显陷入苦战…… 敬请登录以便观看全部文章 如果您已经是日经中文网会员，请点击此处，进行登录。 如果您还不是日经中文网会员，请点击此处，进行会员免费注册。",
+  "source_url": "http://cn.nikkei.com/china/ccompany/61777-2026-03-16-09-06-26.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-16T02:08:03+00:00",
+  "id": "60bcf5c1-8ada-4e34-aff5-0199a8c52883",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-16T20:50:34.199602+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
