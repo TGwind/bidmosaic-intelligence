@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "NVIDIA and ComfyUI Streamline Local AI Video Generation for Game Developers and Creators at GDC",
+  "raw_content": "Game developers and artists are building cinematic worlds and iconic characters — raising the bar for immersive experiences on NVIDIA RTX AI PCs.  At the Game Developers Conference (GDC) in San Francisco this week, NVIDIA announced a suite of updates that streamline AI video generation for concept development and storyboarding on RTX GPUs and the [&#8230;]",
+  "source_url": "https://blogs.nvidia.com/blog/rtx-ai-garage-flux-ltx-video-comfyui-gdc/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T15:30:05+00:00",
+  "id": "f1ecad5e-a426-41bb-b701-e215e4d07893",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

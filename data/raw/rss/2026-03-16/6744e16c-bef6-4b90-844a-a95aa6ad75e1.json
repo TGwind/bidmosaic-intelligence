@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Samsung bets this island startup can tame the grid with software and batteries",
+  "raw_content": "GridBeyond's hardware and software coordinates several gigawatts of supply and demand to help balance the flow of electricity on the grid. The idea has attracted investors like Samsung Ventures.",
+  "source_url": "https://techcrunch.com/2026/03/16/samsung-bets-this-island-startup-can-tame-the-grid-with-software-and-batteries/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-16T20:00:00+00:00",
+  "id": "6744e16c-bef6-4b90-844a-a95aa6ad75e1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

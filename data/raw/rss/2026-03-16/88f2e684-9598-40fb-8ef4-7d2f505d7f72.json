@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Meeting of 4-5 February 2026",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260305~4a9b7afe1c.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-05T12:30:00+00:00",
+  "id": "88f2e684-9598-40fb-8ef4-7d2f505d7f72",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}
