@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "印度两艘油轮通过霍尔木兹海峡",
+  "raw_content": "2026/03/17 印度外长苏杰生3月在16日之前透露，该国有两艘油轮已通过霍尔木兹海峡。他主张，这是与封锁海峡的伊朗直接磋商取得的“成果”。相关表态是在接受《金融时报》采访时作出的。 据印度政府称，已于14日确认两艘印度籍液化石油气（LPG）运输船通过了霍尔木兹海峡。这两艘船预计将分别于3月16日和17日抵达印度西部古吉拉特邦的港口。 苏杰生明确表示：“从印度的立场来看，通过对话、加强协调并找到解决方案，远比一无所获要好”。他强调，使经由霍尔木兹海峡的船舶恢复航行的最有效方式，是“与伊朗进行直接对话”。 此番发言被认为是针对特朗普14日就保障霍尔木兹海峡安全，表达希望日本、中国、英国等派遣舰船的言论。 苏杰生还表示，并不存在针对印度籍船舶的“全面安排”，并否认向伊朗提供任何形式的回报。他指出：“两国长期以来的关系历史，正是我开展谈判的依据”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61789-2026-03-17-08-11-57.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-17T00:38:03+00:00",
+  "id": "1a8ca7ad-e2d8-4f65-b620-a8f289e5adce",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T05:24:49.634561+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

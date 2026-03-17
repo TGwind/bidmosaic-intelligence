@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "SEC seeks comment on crypto handling in OTC broker-dealer rule",
+  "raw_content": "The SEC has proposed narrowing Rule 15c2-11 to equity securities only, and is now seeking comment on whether it should apply to certain crypto assets, among other questions.",
+  "source_url": "https://cointelegraph.com/news/sec-rule-broker-dealer-amendment-will-it-affect-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T04:46:11+00:00",
+  "id": "051e5ffe-6bc5-469a-8f73-16787c9dbb14",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T05:24:49.602308+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

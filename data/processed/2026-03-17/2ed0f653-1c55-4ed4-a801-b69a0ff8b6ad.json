@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Trump ups pressure for Fed chair Powell to cut rates ‘right now’",
+  "raw_content": "“What’s a better time to cut interest rates than now? A third-grade student would know that,” said US President Donald Trump.",
+  "source_url": "https://cointelegraph.com/news/fed-should-hold-special-meeting-cut-rates-now-trump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T04:04:49+00:00",
+  "id": "2ed0f653-1c55-4ed4-a801-b69a0ff8b6ad",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T05:24:49.655289+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

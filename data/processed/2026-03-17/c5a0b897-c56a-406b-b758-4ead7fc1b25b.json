@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Wife used CCTV to steal $176M of husband’s crypto, UK court told",
+  "raw_content": "Justice Cotter said in his judgment that the husband in the case has a high chance of succeeding, given the available evidence and recommended an early trial.",
+  "source_url": "https://cointelegraph.com/news/uk-wife-accused-stealing-176m-bitcoin-cctv-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T03:58:19+00:00",
+  "id": "c5a0b897-c56a-406b-b758-4ead7fc1b25b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T05:24:49.752645+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
