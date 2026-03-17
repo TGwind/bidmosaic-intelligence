@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "共情到底是诅咒还是奖励？",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1V2w4z9EMn",
+  "raw_title": "【牛牛勇气王】 牛哥~😱我也要死吗....9张桌子36个人 谁会靠着胆子最后留下？",
+  "raw_content": "请选择你的桌子",
+  "source_url": "https://www.bilibili.com/video/BV1okw7zeEcc",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-17T07:05:53.926595+00:00",
-  "id": "36103825-535a-48ec-bf23-627567e6efda",
+  "collected_at": "2026-03-17T13:15:00.665975+00:00",
+  "id": "3d463314-fa80-46fe-8524-e7921eeebc1d",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-17T13:15:28.872534+00:00",
+  "processed_at": "2026-03-17T13:15:28.875790+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1225440,
+    "hot_score": 4062651,
     "platform": "bilibili"
   }
 }

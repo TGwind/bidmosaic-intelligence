@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "长沙要连下40天雨？非精确预报",
+  "raw_content": "长沙要连下40天雨？非精确预报",
+  "source_url": "https://www.toutiao.com/trending/7617721799715668009/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617721799715668009%22%2C%22hot_board_impr_id%22%3A%2220260317211459024F0D62838D0D495144%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%95%BF%E6%B2%99%E8%A6%81%E8%BF%9E%E4%B8%8B40%E5%A4%A9%E9%9B%A8%EF%BC%9F%E9%9D%9E%E7%B2%BE%E7%A1%AE%E9%A2%84%E6%8A%A5%22%7D&rank=&style_id=40132&topic_id=7617721799715668009",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-17T13:14:59.711313+00:00",
+  "id": "e19bd3e3-e853-4151-a677-7f99f885138c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T13:15:28.882175+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "11222917",
+    "platform": "toutiao"
+  }
+}

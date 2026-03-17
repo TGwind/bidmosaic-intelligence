@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "共情到底是诅咒还是奖励？",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1V2w4z9EMn",
+  "raw_title": "和AI玩历史猜人物游戏，差点吵起来",
+  "raw_content": "跟风中",
+  "source_url": "https://www.bilibili.com/video/BV1PJwszeEFH",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-17T07:05:53.926595+00:00",
-  "id": "36103825-535a-48ec-bf23-627567e6efda",
+  "collected_at": "2026-03-17T13:15:00.666003+00:00",
+  "id": "26693c93-76d5-4121-9951-5b14588f03b1",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-17T13:15:28.872534+00:00",
+  "processed_at": "2026-03-17T13:15:28.866495+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1225440,
+    "hot_score": 3094270,
     "platform": "bilibili"
   }
 }
