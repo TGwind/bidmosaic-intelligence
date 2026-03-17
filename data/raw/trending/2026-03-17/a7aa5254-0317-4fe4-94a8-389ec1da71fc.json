@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "埃博拉：丝影杀机与未曾终结的血战",
+  "raw_content": "埃博拉病毒至今仍附着在某只果蝠的细胞里，在丛林深处安静等待下一次机会。而人类也在等——带着疫苗、抗体、用半个世纪鲜血换来的所有知识...\n参考文献：\n[1]Hennessen W. Epidemiology of “Marburg Virus” Disease [M]//Marburg Virus Disease. Springer Berlin Heidelberg, 1971: 161–165.\n[2]Majid M U, Tahir M S, Ali Q, et al. Nature and His",
+  "source_url": "https://www.bilibili.com/video/BV1w9w8z1EUf",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-17T19:04:07.263303+00:00",
+  "id": "a7aa5254-0317-4fe4-94a8-389ec1da71fc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2870594,
+    "platform": "bilibili"
+  }
+}

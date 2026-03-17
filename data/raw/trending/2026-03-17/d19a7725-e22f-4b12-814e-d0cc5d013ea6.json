@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "和AI玩历史猜人物游戏，差点吵起来",
+  "raw_content": "跟风中",
+  "source_url": "https://www.bilibili.com/video/BV1PJwszeEFH",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-17T19:04:07.263355+00:00",
+  "id": "d19a7725-e22f-4b12-814e-d0cc5d013ea6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3183006,
+    "platform": "bilibili"
+  }
+}

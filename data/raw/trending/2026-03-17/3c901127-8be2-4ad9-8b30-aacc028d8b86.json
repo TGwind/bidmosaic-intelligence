@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "我后悔带朋友去大坝了【三角洲动画】",
+  "raw_content": "猎哥天天爱猛攻，结果代价是破产，苦苦哀求想赚钱，我一推二拒三答应，谁知她也吃了瘪，只能说，玩归玩闹归闹，别拿你大坝哥开玩笑。",
+  "source_url": "https://www.bilibili.com/video/BV1uqwtzUEMc",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-17T19:04:07.263346+00:00",
+  "id": "3c901127-8be2-4ad9-8b30-aacc028d8b86",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2967341,
+    "platform": "bilibili"
+  }
+}
