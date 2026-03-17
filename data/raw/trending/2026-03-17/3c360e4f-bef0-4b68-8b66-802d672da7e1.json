@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "共情到底是诅咒还是奖励？",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1V2w4z9EMn",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-17T13:15:00.666019+00:00",
+  "id": "3c360e4f-bef0-4b68-8b66-802d672da7e1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1369927,
+    "platform": "bilibili"
+  }
+}
