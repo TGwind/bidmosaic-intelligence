@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "“药王”半年给两女儿分2.8亿元股份",
+  "raw_content": "“药王”半年给两女儿分2.8亿元股份",
+  "source_url": "https://www.toutiao.com/trending/7618166739913752619/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618166739913752619%22%2C%22hot_board_impr_id%22%3A%2220260318030406261871CC63AC75F2F61F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E8%8D%AF%E7%8E%8B%E2%80%9D%E5%8D%8A%E5%B9%B4%E7%BB%99%E4%B8%A4%E5%A5%B3%E5%84%BF%E5%88%862.8%E4%BA%BF%E5%85%83%E8%82%A1%E4%BB%BD%22%7D&rank=&style_id=40132&topic_id=7618166739913752619",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-17T19:04:06.558998+00:00",
+  "id": "6a2ec369-64cb-4a43-bb71-8ddb664eee0c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T19:04:39.246156+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "17328717",
+    "platform": "toutiao"
+  }
+}

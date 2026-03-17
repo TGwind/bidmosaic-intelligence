@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "我国消费有望持续稳定增长",
-  "raw_content": "我国消费有望持续稳定增长",
-  "source_url": "https://www.toutiao.com/article/7617783640642077230",
+  "raw_title": "中国经济强劲开局",
+  "raw_content": "中国经济强劲开局",
+  "source_url": "https://www.toutiao.com/article/7618053992190312996",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-17T07:05:53.266225+00:00",
-  "id": "8b12a357-f460-4372-8e90-7b0f594aeb57",
+  "collected_at": "2026-03-17T19:04:06.559011+00:00",
+  "id": "a0745c7a-64db-487b-951c-1d74a1e1ad9a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-17T19:04:39.244874+00:00",
+  "processed_at": "2026-03-17T19:04:39.247584+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "24421197",
+    "hot_score": "15679671",
     "platform": "toutiao"
   }
 }

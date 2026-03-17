@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "raw_content": "国外大学食堂交响乐快闪，老哥们真会玩",
-  "source_url": "https://www.bilibili.com/video/BV1ZmcSz4EZx",
+  "raw_title": "雪山救狐狸，但是是酱板鸭救!",
+  "raw_content": "内容ai生成，仅供娱乐",
+  "source_url": "https://www.bilibili.com/video/BV1VDwKz8Ea6",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-17T02:11:28.814127+00:00",
-  "id": "07479b4e-7d8f-4768-915f-19e838139751",
+  "collected_at": "2026-03-17T19:04:07.263373+00:00",
+  "id": "9c9eaf17-fcba-4b93-9aed-35dfce6c404e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-17T19:04:39.224828+00:00",
+  "processed_at": "2026-03-17T19:04:39.250003+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4352338,
+    "hot_score": 4823879,
     "platform": "bilibili"
   }
 }
