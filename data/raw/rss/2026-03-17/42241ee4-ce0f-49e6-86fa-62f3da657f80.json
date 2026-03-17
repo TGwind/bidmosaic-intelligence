@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Preconditioned Test-Time Adaptation for Out-of-Distribution Debiasing in Narrative Generation",
+  "raw_content": "arXiv:2603.13683v1 Announce Type: new \nAbstract: Although debiased LLMs perform well on known bias patterns, they often fail to generalize to unfamiliar bias prompts, producing toxic outputs. We first validate that such high-bias prompts constitute a \\emph{distribution shift} via OOD detection, and show static models degrade under this shift. To adapt on-the-fly, we propose \\textbf{CAP-TTA}, a test-time adaptation framework that performs context-aware LoRA updates only when the bias-risk \\emph{trigger} exceeds a threshold, using a precomputed diagonal \\emph{preconditioner} for fast and stable updates. Across toxic-prompt settings and benchmarks, CAP-TTA reduces bias (confirmed by human evaluation) while achieving much lower update latency than AdamW/SGD; it also mitigates catastrophic forgetting by significantly improving narrative fluency over SOTA debiasing baseline while maintaining comparable debiasing effectiveness.",
+  "source_url": "https://arxiv.org/abs/2603.13683",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "42241ee4-ce0f-49e6-86fa-62f3da657f80",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

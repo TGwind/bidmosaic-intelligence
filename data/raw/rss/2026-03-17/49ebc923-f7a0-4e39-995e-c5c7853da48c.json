@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin just surged past $75,000. Derivatives seem to be driving the rally.",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/17/bitcoin-just-surged-past-usd75-000-derivatives-are-driving-the-move",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T01:53:36+00:00",
+  "id": "49ebc923-f7a0-4e39-995e-c5c7853da48c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "ManiBench: A Benchmark for Testing Visual-Logic Drift and Syntactic Hallucinations in Manim Code Generation",
+  "raw_content": "arXiv:2603.13251v1 Announce Type: new \nAbstract: Traditional benchmarks like HumanEval and MBPP test logic and syntax effectively, but fail when code must produce dynamic, pedagogical visuals. We introduce ManiBench, a specialized benchmark evaluating LLM performance in generating Manim CE code, where temporal fidelity and version-aware API correctness are critical. ManiBench targets two key failure modes: Syntactic Hallucinations (valid Python referencing non-existent or deprecated Manim APIs) and Visual-Logic Drift (generated visuals diverging from intended mathematical logic through timing errors or missing causal relationships). The benchmark comprises 150-200 problems across five difficulty levels spanning calculus, linear algebra, probability, topology, and AI, grounded in analysis of 3Blue1Brown's ManimGL source (53,000 lines, 143 scene classes). Evaluation uses a four-tier framework measuring Executability, Version-Conflict Error Rate, Alignment Score, and Coverage Score. An open-source framework automates evaluation across multiple models and prompting strategies. Code, data and benchmark suite are available at https://github.com/nabin2004/ManiBench. and the dataset is hosted on https://huggingface.co/datasets/nabin2004/ManiBench.",
+  "source_url": "https://arxiv.org/abs/2603.13251",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "807d2aa6-16da-4e57-99f8-6f283f764b6e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

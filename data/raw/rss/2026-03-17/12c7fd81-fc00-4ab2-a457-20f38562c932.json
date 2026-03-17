@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Design and evaluation of an agentic workflow for crisis-related synthetic tweet datasets",
+  "raw_content": "arXiv:2603.13625v1 Announce Type: new \nAbstract: Twitter (now X) has become an important source of social media data for situational awareness during crises. Crisis informatics research has widely used tweets from Twitter to develop and evaluate artificial intelligence (AI) systems for various crisis-relevant tasks, such as extracting locations and estimating damage levels from tweets to support damage assessment. However, recent changes in Twitter's data access policies have made it increasingly difficult to curate real-world tweet datasets related to crises. Moreover, existing curated tweet datasets are limited to past crisis events in specific contexts and are costly to annotate at scale. These limitations constrain the development and evaluation of AI systems used in crisis informatics. To address these limitations, we introduce an agentic workflow for generating crisis-related synthetic tweet datasets. The workflow iteratively generates synthetic tweets conditioned on prespecified target characteristics, evaluates them using predefined compliance checks, and incorporates structured feedback to refine them in subsequent iterations. As a case study, we apply the workflow to generate synthetic tweet datasets relevant to post-earthquake damage assessment. We show that the workflow can generate synthetic tweets that capture their target labels for location and damage level. We further demonstrate that the resulting synthetic tweet datasets can be used to evaluate AI systems on damage assessment tasks like geolocalization and damage level prediction. Our results indicate that the workflow offers a flexible and scalable alternative to real-world tweet data curation, enabling the systematic generation of synthetic social media data across diverse crisis events, societal contexts, and crisis informatics applications.",
+  "source_url": "https://arxiv.org/abs/2603.13625",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "12c7fd81-fc00-4ab2-a457-20f38562c932",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
