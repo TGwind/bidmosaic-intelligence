@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC’s Division of Enforcement Announces Updates to Enforcement Manual",
+  "raw_content": "The Securities and Exchange Commission’s Division of Enforcement today announced significant updates to its Enforcement Manual. These updates underscore the Commission’s ongoing commitment to fairness, transparency, and efficiency in the investigations…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-20-secs-division-enforcement-announces-updates-enforcement-manual",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-24T13:55:52+00:00",
+  "id": "065b0cc0-802b-4793-909b-180c53c004a7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}
