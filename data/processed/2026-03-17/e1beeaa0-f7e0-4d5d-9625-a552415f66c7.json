@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "20斤排骨炖好放门口被大爷整盆端走",
+  "raw_content": "20斤排骨炖好放门口被大爷整盆端走",
+  "source_url": "https://www.toutiao.com/trending/7618037772867420214/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618037772867420214%22%2C%22hot_board_impr_id%22%3A%2220260317150552F4A9F5AF15876DBBC383%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2220%E6%96%A4%E6%8E%92%E9%AA%A8%E7%82%96%E5%A5%BD%E6%94%BE%E9%97%A8%E5%8F%A3%E8%A2%AB%E5%A4%A7%E7%88%B7%E6%95%B4%E7%9B%86%E7%AB%AF%E8%B5%B0%22%7D&rank=&style_id=40132&topic_id=7618037772867420214",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-17T07:05:53.266234+00:00",
+  "id": "e1beeaa0-f7e0-4d5d-9625-a552415f66c7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T07:06:23.756591+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "22097213",
+    "platform": "toutiao"
+  }
+}
