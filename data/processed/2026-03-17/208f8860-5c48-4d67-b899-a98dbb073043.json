@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "John C Williams: Two sides of a coin",
+  "raw_content": "Remarks by Mr John C Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, at the America's Credit Unions Governmental Affairs Conference 2026, Washington DC, 3 March 2026.",
+  "source_url": "https://www.bis.org/review/r260310f.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-17T02:44:22.391002+00:00",
+  "id": "208f8860-5c48-4d67-b899-a98dbb073043",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T02:45:52.615860+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

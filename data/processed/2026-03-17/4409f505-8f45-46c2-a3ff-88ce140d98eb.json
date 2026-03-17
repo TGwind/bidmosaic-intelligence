@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "ODRL Policy Comparison Through Normalisation",
+  "raw_content": "arXiv:2603.12926v1 Announce Type: new Abstract: The ODRL language has become the standard for representing policies and regulations for digital rights. However its complexity is a barrier to its usage, which has caused many related theoretical and practical works to focus on different, and not interoperable, fragments of ODRL. Moreover, semantically equivalent policies can be expressed in numerous different ways, which makes comparing them and processing them harder. Building on top of a recently defined semantics, we tackle these problems by proposing an approach that involves a parametrised normalisation of ODRL policies into its minimal components which reformulates policies with permissions and prohibitions into policies with permissions exclusively, and simplifies complex logic constraints into simple ones. We provide algorithms to compute a normal form for ODRL policies and simplifying numerical and symbolic constraints. We prove that these algorithms preserve the semantics of policies, and analyse the size complexity of the result, which is exponential on the number of attributes and linear on the number of unique values for these attributes. We show how this makes complex policies representable in more basic fragments of ODRL, and how it reduces the problem of policy comparison to the simpler problem of checking if two rules are identical.",
+  "source_url": "https://arxiv.org/abs/2603.12926",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-16T04:00:00+00:00",
+  "id": "4409f505-8f45-46c2-a3ff-88ce140d98eb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T02:45:52.630893+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

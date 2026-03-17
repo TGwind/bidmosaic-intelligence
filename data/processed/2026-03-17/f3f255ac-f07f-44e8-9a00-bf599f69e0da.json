@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Price predictions 3/16: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, ADA, HYPE",
+  "raw_content": "Bitcoin opened the week by rallying straight into a key resistance level. If it holds, BTC and altcoins could embark on the next leg of the crypto bull market.",
+  "source_url": "https://cointelegraph.com/news/price-predictions-3-16-spx-dxy-btc-eth-bnb-xrp-sol-doge-ada-hype?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T22:00:00+00:00",
+  "id": "f3f255ac-f07f-44e8-9a00-bf599f69e0da",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T02:45:52.705349+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

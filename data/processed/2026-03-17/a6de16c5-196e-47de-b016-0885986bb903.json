@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "T. Rowe Price amends S-1 for actively managed crypto ETF",
+  "raw_content": "New SEC filing names Anchorage Digital Bank as the crypto custodian and adds SUI to the list of eligible tokens in the proposed fund that aims for direct digital asset exposure.",
+  "source_url": "https://cointelegraph.com/news/t-rowe-price-amends-sec-filing-active-crypto-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T21:10:36+00:00",
+  "id": "a6de16c5-196e-47de-b016-0885986bb903",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T02:45:52.676260+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

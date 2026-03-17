@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitmine speeds pace of Ethereum buys, boosting treasury to 4.6M ETH",
+  "raw_content": "About two-thirds of the company’s tokens are currently staked, generating an estimated $180 million in annualized revenue.",
+  "source_url": "https://cointelegraph.com/news/bitmine-buys-5-000-eth-from-ethereum-foundation-brings-holdings-to-4-6m-tokens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T20:31:04+00:00",
+  "id": "8af23d27-c807-4de6-98bc-07573b7a6d6b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T02:45:52.677612+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

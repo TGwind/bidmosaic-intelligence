@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Man accuses wife of using CCTV cameras to steal $172 million bitcoin from his hardware wallet",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/16/man-accuses-wife-of-using-cctv-cameras-to-steal-usd172-million-bitcoin-from-his-hardware-wallet",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-16T21:57:22+00:00",
+  "id": "e37f571a-9cb0-4bf7-bc6c-da49e05df5ba",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T02:45:52.708465+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
