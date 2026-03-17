@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Robinhood’s new venture fund just snapped up stakes in Stripe and ElevenLabs",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/17/robinhood-s-new-venture-fund-just-snapped-up-stakes-in-stripe-and-elevenlabs",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T14:33:31+00:00",
+  "id": "ebfb8cc7-1f38-4838-a906-edc09186fbb5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T17:13:00.507394+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
