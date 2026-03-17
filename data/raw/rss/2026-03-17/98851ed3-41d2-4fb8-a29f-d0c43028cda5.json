@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems",
+  "raw_content": "arXiv:2603.13237v1 Announce Type: new \nAbstract: High-frequency banking environments face a critical trade-off between low-latency fraud detection and the regulatory explainability demanded by GDPR. Traditional rule-based and discriminative models struggle with \"zero-day\" attacks due to extreme class imbalance and the lack of historical precedents. This paper proposes a Dual-Path Generative Framework that decouples real-time anomaly detection from offline adversarial training. The architecture employs a Variational Autoencoder (VAE) to establish a legitimate transaction manifold based on reconstruction error, ensuring <50ms inference latency. In parallel, an asynchronous Wasserstein GAN with Gradient Penalty (WGAN-GP) synthesizes high-entropy fraudulent scenarios to stress-test the detection boundaries. Crucially, to address the non-differentiability of discrete banking data (e.g., Merchant Category Codes), we integrate a Gumbel-Softmax estimator. Furthermore, we introduce a trigger-based explainability mechanism where SHAP (Shapley Additive Explanations) is activated only for high-uncertainty transactions, reconciling the computational cost of XAI with real-time throughput requirements.",
+  "source_url": "https://arxiv.org/abs/2603.13237",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "98851ed3-41d2-4fb8-a29f-d0c43028cda5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

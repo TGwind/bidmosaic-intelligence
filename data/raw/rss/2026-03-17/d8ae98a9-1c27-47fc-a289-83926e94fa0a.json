@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Mastercard agrees to acquire BVNK in $1.8B stablecoin deal",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Mastercard agrees to acquire BVNK in $1.8B stablecoin deal\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2ZiZWYtYTYzYi03OTY3LTg1OGQtMzQ2MGM3NTA5YjZiLmpwZw==.jpg\" /></p><p>Mastercard agreed to acquire BVNK for up to $1.8 billion as it expands further into stablecoin and blockchain-based payments.</p>",
+  "source_url": "https://cointelegraph.com/news/mastercard-to-acquire-bvnk-in-1-8b-stablecoin-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T14:13:15+00:00",
+  "id": "d8ae98a9-1c27-47fc-a289-83926e94fa0a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

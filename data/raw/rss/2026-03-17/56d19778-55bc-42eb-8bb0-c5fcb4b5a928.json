@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin analysis sees $68K support as gold slips at key $5K level",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin analysis sees $68K support as gold slips at key $5K level\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUxZTAtZjEyMy03ZTc1LTljNzAtOThjY2E1NGZmNGI0.jpg\" /></p><p>Bitcoin consolidated recent gains in the face of blanket skepticism over its rebound, while gold threatened to give up $5,000 support.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-analysis-sees-68k-support-gold-slips-from-key-5k-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T16:54:45+00:00",
+  "id": "56d19778-55bc-42eb-8bb0-c5fcb4b5a928",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

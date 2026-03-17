@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Theo closes $100M facility backing gold-linked yield stablecoin",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Theo closes $100M facility backing gold-linked yield stablecoin\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2ZjMzctYmM4Mi03ODJlLWEyMjktMmM2ZmFhZmJlYzk5LmpwZw==.jpg\" /></p><p>A new gold-linked yield stablecoin aims to tap commodity markets for returns as institutions explore alternatives to Treasury-backed tokens.</p>",
+  "source_url": "https://cointelegraph.com/news/theo-100m-vault-gold-linked-yield-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T16:23:04+00:00",
+  "id": "3c8cda50-7caf-46ac-98a2-83e1a032beea",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
