@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Distilling Deep Reinforcement Learning into Interpretable Fuzzy Rules: An Explainable AI Framework",
+  "raw_content": "arXiv:2603.13257v1 Announce Type: new \nAbstract: Deep Reinforcement Learning (DRL) agents achieve remarkable performance in continuous control but remain opaque, hindering deployment in safety-critical domains. Existing explainability methods either provide only local insights (SHAP, LIME) or employ over-simplified surrogates failing to capture continuous dynamics (decision trees). This work proposes a Hierarchical Takagi-Sugeno-Kang (TSK) Fuzzy Classifier System (FCS) distilling neural policies into human-readable IF-THEN rules through K-Means clustering for state partitioning and Ridge Regression for local action inference. Three quantifiable metrics are introduced: Fuzzy Rule Activation Density (FRAD) measuring explanation focus, Fuzzy Set Coverage (FSC) validating vocabulary completeness, and Action Space Granularity (ASG) assessing control mode diversity. Dynamic Time Warping (DTW) validates temporal behavioral fidelity. Empirical evaluation on \\textit{Lunar Lander(Continuous)} shows the Triangular membership function variant achieves 81.48\\% $\\pm$ 0.43\\% fidelity, outperforming Decision Trees by 21 percentage points. The framework exhibits statistically superior interpretability (FRAD = 0.814 vs. 0.723 for Gaussian, $p < 0.001$) with low MSE (0.0053) and DTW distance (1.05). Extracted rules such as ``IF lander drifting left at high altitude THEN apply upward thrust with rightward correction'' enable human verification, establishing a pathway toward trustworthy autonomous systems.",
+  "source_url": "https://arxiv.org/abs/2603.13257",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "2a186760-b025-4e81-b81f-588c04f1c924",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

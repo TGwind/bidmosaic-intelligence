@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CFTC issues 'no-action' letter for crypto wallet provider Phantom",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC issues 'no-action' letter for crypto wallet provider Phantom\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjBiNzQtZDQ5YS03ZGQyLWE1ZDItZDA0OWI1Yzc1OGU1.jpg\" /></p><p>The no-action position taken by the US regulator under Chair Michael Selig will allow the company to engage in certain activities without registering as a broker.</p>",
+  "source_url": "https://cointelegraph.com/news/cftc-no-action-letter-crypto-wallet-phantom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T16:42:06+00:00",
+  "id": "5d19358b-449e-4b87-ba3e-d9dbb181027f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

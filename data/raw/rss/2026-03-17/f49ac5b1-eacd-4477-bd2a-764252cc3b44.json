@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "When Alpha Breaks: Two-Level Uncertainty for Safe Deployment of Cross-Sectional Stock Rankers",
+  "raw_content": "arXiv:2603.13252v1 Announce Type: new \nAbstract: Cross-sectional ranking models are often deployed as if point predictions were sufficient: the model outputs scores and the portfolio follows the induced ordering. Under non-stationarity, rankers can fail during regime shifts. In the AI Stock Forecaster, a LightGBM ranker performs well overall at a 20-day horizon, yet the 2024 holdout coincides with an AI thematic rally and sector rotation that breaks the signal at longer horizons and weakens 20d. This motivates treating deployment as two decisions: (i) whether the strategy should trade at all, and (ii) how to control risk within active trades. We adapt Direct Epistemic Uncertainty Prediction (DEUP) to ranking by predicting rank displacement and defining an epistemic uncertainty signal ehat relative to a point-in-time (PIT-safe) baseline. Empirically, ehat is structurally coupled with signal strength (median correlation between ehat and absolute score is about 0.6 across 1,865 dates), so inverse-uncertainty sizing de-levers the strongest signals and degrades performance. To address this, we propose a two-level deployment policy: a strategy-level regime-trust gate G(t) that decides whether to trade (AUROC around 0.72 overall and 0.75 in FINAL) and a position-level epistemic tail-risk cap that reduces exposure only for the most uncertain predictions. The operational policy, trade only when G(t) is at least 0.2, apply volatility sizing on active dates, and cap the top epistemic tail, improves risk-adjusted performance in the 20d policy comparison and indicates DEUP adds value mainly as a tail-risk guard rather than a continuous sizing denominator.",
+  "source_url": "https://arxiv.org/abs/2603.13252",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "f49ac5b1-eacd-4477-bd2a-764252cc3b44",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

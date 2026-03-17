@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning",
+  "raw_content": "arXiv:2603.13243v1 Announce Type: new \nAbstract: Diffusion large language models (dLLMs) generate text via iterative denoising but consistently underperform on multi-step reasoning. We hypothesize this gap stems from a coordination problem: AR models build coherence token-by-token, while diffusion models must coordinate all positions simultaneously. We propose plan conditioning, a training-free method that prepends a short (~100-token) natural-language plan from an AR model to the diffusion model's prompt. The plan serves as a frozen scaffold -- globally visible context that every token position can attend to from the first denoising step. On GSM8K, plan conditioning improves LLaDA-8B-Instruct from 75.6% to 87.2% (+11.6 percentage points), matching a same-size AR model (LLaMA 3.1 8B, 87.7%) despite a 6.4pp weaker baseline. On HumanEval, the gain is +12.8pp (37.2% to 50.0%), showing plans generalize to code. The same plans improve LLaMA by only +5.7pp on GSM8K and +1.3pp on HumanEval -- diffusion models benefit 2-10x more, supporting the coordination-problem hypothesis. Across 5 random seeds, plan-conditioned GSM8K accuracy has zero standard deviation, making diffusion inference highly stable. Ablations reveal the model follows plan strategy (wrong-strategy plans cause -16.3pp) but is robust to plan values (perturbed numbers: -1.1pp), and that planner quality has a sharp threshold: smaller Llama-class plans hurt (-1.6 to -6.8pp) while frontier plans provide the full lift. Attention analysis confirms the mechanism: plan tokens receive 1.8x excess attention during early denoising, declining to uniform as completion tokens solidify. Plan conditioning costs ~$0.002 per problem and adds ~2s of latency.",
+  "source_url": "https://arxiv.org/abs/2603.13243",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "5a418c2e-ec1b-4676-94ca-f42fe898aa05",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
