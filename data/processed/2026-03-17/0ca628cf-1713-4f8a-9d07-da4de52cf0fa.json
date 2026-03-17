@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How AI tools can redefine universal design to increase accessibility",
+  "raw_content": "Education Innovation",
+  "source_url": "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-05T08:28:00+00:00",
+  "id": "0ca628cf-1713-4f8a-9d07-da4de52cf0fa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T09:01:44.406737+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

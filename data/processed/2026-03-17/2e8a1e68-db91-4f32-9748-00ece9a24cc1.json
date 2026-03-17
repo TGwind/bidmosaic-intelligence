@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Polymarket bettors threatened journalist over Iran missile report",
+  "raw_content": "Critics have been warning that prediction markets tied to wars could incentivize insider trading, which lawmakers in the US and abroad have moved to regulate.",
+  "source_url": "https://cointelegraph.com/news/polymarket-users-threaten-journalist-change-iran-missile-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T02:27:05+00:00",
+  "id": "2e8a1e68-db91-4f32-9748-00ece9a24cc1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T09:01:44.465568+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

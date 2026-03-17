@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP flips BNB as open interest builds back toward pre-crash levels",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/17/xrp-flips-bnb-as-open-interest-builds-back-toward-pre-crash-levels",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T06:40:09+00:00",
+  "id": "7b37af76-914f-4ca8-8802-c27040fc78aa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T09:01:44.538175+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

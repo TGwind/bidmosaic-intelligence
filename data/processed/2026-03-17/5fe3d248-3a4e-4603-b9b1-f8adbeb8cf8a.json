@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto.com taps KG Inicis for tourist crypto payments in South Korea",
+  "raw_content": "The partnership targets foreign travelers in South Korea, adding real-world merchant access through a major local payments processor.",
+  "source_url": "https://cointelegraph.com/news/crypto-com-kg-inicis-south-korea-tourist-crypto-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T08:41:26+00:00",
+  "id": "5fe3d248-3a4e-4603-b9b1-f8adbeb8cf8a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T09:01:44.518863+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
