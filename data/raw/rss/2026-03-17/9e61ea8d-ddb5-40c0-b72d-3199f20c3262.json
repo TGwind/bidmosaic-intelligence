@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Multi-Axis Trust Modeling for Interpretable Account Hijacking Detection",
+  "raw_content": "arXiv:2603.13246v1 Announce Type: new \nAbstract: This paper proposes a Hadith-inspired multi-axis trust modeling framework, motivated by a structurally analogous problem in classical Hadith scholarship: assessing the trustworthiness of information sources using interpretable, multidimensional criteria rather than a single anomaly score. We translate five trust axes - long-term integrity (adalah), behavioral precision (dabt), contextual continuity (isnad), cumulative reputation, and anomaly evidence - into a compact set of 26 semantically meaningful behavioral features for user accounts. In addition, we introduce lightweight temporal features that capture short-horizon changes in these trust signals across consecutive activity windows. We evaluate the framework on the CLUE-LDS cloud activity dataset with injected account hijacking scenarios. On 23,094 sliding windows, a Random Forest trained on the trust features achieves near-perfect detection performance, substantially outperforming models based on raw event counts, minimal statistical baselines, and unsupervised anomaly detection. Temporal features provide modest but consistent gains on CLUE-LDS, confirming their compatibility with the static trust representation. To assess robustness under more challenging conditions, we further evaluate the approach on the CERT Insider Threat Test Dataset r6.2, which exhibits extreme class imbalance and sparse malicious behavior. On a 500-user CERT subset, temporal features improve ROC-AUC from 0.776 to 0.844. On a leakage-controlled 4,000-user configuration, temporal modeling yields a substantial and consistent improvement over static trust features alone (ROC-AUC 0.627 to 0.715; PR-AUC 0.072 to 0.264).",
+  "source_url": "https://arxiv.org/abs/2603.13246",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "9e61ea8d-ddb5-40c0-b72d-3199f20c3262",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

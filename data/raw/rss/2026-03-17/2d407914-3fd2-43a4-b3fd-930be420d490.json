@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Apple acquires video editing software company MotionVFX",
+  "raw_content": "The move could help Apple better compete with Adobe Premiere Pro and the Adobe Creative Cloud suite.",
+  "source_url": "https://techcrunch.com/2026/03/16/apple-acquires-video-editing-software-company-motionvfx/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-16T19:23:44+00:00",
+  "id": "2d407914-3fd2-43a4-b3fd-930be420d490",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
