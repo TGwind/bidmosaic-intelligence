@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中美结束第六轮部长级贸易磋商",
+  "raw_content": "2026/03/17 美国财长贝森特（左）与USTR代表格里尔在结束中美部长级磋商后举行记者会（3月16日，巴黎） 中美两国政府3月16日结束了在巴黎进行的有关贸易问题的部长级磋商。美国解释了替代对等关税的新关税，中方对由此造成的不确定性表达关注。为了扩大两国贸易，双方还讨论了建立协议框架。 中美的部长级磋商是继2025年10月在马来西亚之后的第6次，美国派出财政部长贝森特和贸易代表办公室（USTR）代表格里尔，中国派出负责经济政策的副总理何立峰和中国商务部国际贸易谈判代表兼副部长李成钢。 格里尔在磋商后接受记者采访时表示，美国要求中国扩大进口美国农产品和能源，推进顺利出口稀土类产品等。 磋商中还讨论了为扩大两国间贸易设立“中美贸易委员会”。 美方就应对美国联邦最高法院判决特朗普关税违宪向中国进行了说明。还围绕替代关税“进行了详细讨论”（格里尔）。 美国2月根据《贸易法》第122条对各国征收10%的额外关税，为期150天。到期后将根据《贸易法》第301条征收惩罚性关税。 中国的李成钢在3月16日磋商后表示，双方讨论了建立促进双边贸易投资合作的工作机制的设想。他解释称，双方同意共同致力于保持双边经贸关系的稳定。 日本经济新闻（中文版：日经中文网）北松圆香 巴黎报道",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/investtrade/61803-2026-03-17-15-28-44.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-17T08:08:03+00:00",
+  "id": "07a16af5-2a51-4f29-ab9f-73844d2711df",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T20:50:33.036866+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

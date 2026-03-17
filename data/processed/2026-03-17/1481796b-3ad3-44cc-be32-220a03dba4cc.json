@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "英伟达新型AI芯片电力效率最高提升至35倍",
+  "raw_content": "2026/03/17 英伟达披露的新型AI芯片（16日、美国加利福尼亚州） 美国英伟达于当地时间3月16日宣布，将在2026年下半年向市场投放面向新型人工智能（AI）的芯片。电力效率最高可达以往的35倍。将扩充有助于业务自动化的“AI智能体”所必需的高效率芯片。英伟达还表示，AI芯片依然表现强劲，截至2027年的采购订单额达1万亿美元。 英伟达在美国加利福尼亚州圣何塞举行年度技术活动“GTC”，发布了预示今年AI技术趋势的新技术。 英伟达的首席执行官（CEO）黄仁勋在开场的主题演讲中强调称，“AI终于可以胜任生产力工作了”。关于AI“推理”，他表示“转折点已经到来”。 面向广泛代理人类工作的AI智能体的芯片需求正在扩大。黄仁勋表示，截至2027年，“Rubin”和“Blackwell”这两款最新AI芯片的采购订单达到1万亿美元。 日本经济新闻（中文版：日经中文网）清水孝辅 硅谷 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/61802-2026-03-17-14-59-39.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-17T07:08:02+00:00",
+  "id": "1481796b-3ad3-44cc-be32-220a03dba4cc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T20:50:33.076191+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
