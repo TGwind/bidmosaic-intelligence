@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How Transformers Reject Wrong Answers: Rotational Dynamics of Factual Constraint Processing",
+  "raw_content": "arXiv:2603.13259v1 Announce Type: new \nAbstract: When a language model is fed a wrong answer, what happens inside the network? Current understanding treats truthfulness as a static property of individual-layer representations-a direction to be probed, a feature to be extracted. Less is known about the dynamics: how internal representations diverge across the full depth of the network when the model processes correct versus incorrect continuations.\n  We introduce forced-completion probing, a method that presents identical queries with known correct and incorrect single-token continuations and tracks five geometric measurements across every layer of four decoder-only models(1.5B-13B parameters). We report three findings. First, correct and incorrect paths diverge through rotation, not rescaling: displacement vectors maintain near-identical magnitudes while their angular separation increases, meaning factual selection is encoded in direction on an approximate hypersphere. Second, the model does not passively fail on incorrect input-it actively suppresses the correct answer, driving internal probability away from the right token. Third, both phenomena are entirely absent below a parameter threshold and emerge at 1.6B, suggesting a phase transition in factual processing capability.\n  These results show that factual constraint processing has a specific geometric character-rotational, not scalar; active, not passive-that is invisible to methods based on single-layer probes or magnitude comparisons.",
+  "source_url": "https://arxiv.org/abs/2603.13259",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "df875a7b-5998-49c0-94f0-1cb3d9424e55",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
