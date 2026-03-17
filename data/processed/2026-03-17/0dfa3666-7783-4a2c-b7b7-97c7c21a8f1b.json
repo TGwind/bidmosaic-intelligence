@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "As Open Models Spark AI Boom, NVIDIA Jetson Brings It to Life at the Edge",
+  "raw_content": "The Cat 306 CR mini-excavator weighs just under eight tons and fits inside a standard shipping container. It’s the machine a contractor rents when the job site is tight: a utility trench near a foundation, a basement dig in a dense neighborhood. The cab is roughly the size of a phone booth. The operator sits [&#8230;]",
+  "source_url": "https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-10T16:43:40+00:00",
+  "id": "0dfa3666-7783-4a2c-b7b7-97c7c21a8f1b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T13:42:05.165127+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

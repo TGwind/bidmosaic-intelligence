@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Cango reports $285M Q4 loss as Bitcoin mining costs surge in 2025",
+  "raw_content": "Cango shares fell from about $4.50 in October to around $0.68, declining more than 84% over six months amid losses and restructuring.",
+  "source_url": "https://cointelegraph.com/news/cango-q4-loss-285m-mining-revenue-costs-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T13:04:27+00:00",
+  "id": "841ffe27-48d5-494d-b74c-31793d842adb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T13:42:05.261392+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Argentina joins growing list of countries blocking Polymarket access",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/17/argentina-joins-growing-list-of-countries-blocking-polymarket-access",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T12:44:59+00:00",
+  "id": "ba7a8a0c-67ac-4245-b350-b3ba2c00f0df",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T13:42:05.278103+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

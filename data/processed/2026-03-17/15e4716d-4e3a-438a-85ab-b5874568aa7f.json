@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Automating Document Intelligence in Statutory City Planning",
+  "raw_content": "arXiv:2603.13245v1 Announce Type: new Abstract: UK planning authorities face a legislative conflict between the Planning Act, which mandates public access to application documents, and the Data Protection Act, which requires protection of personal information. This situation creates a manually intensive workload for processing large document volumes, diverting planning officers to administrative tasks and creating legal compliance risks. This paper presents an integrated AI system designed to address these challenges. The system automates the identification and redaction of personal information, extracts key metadata from planning documents, and analyzes architectural drawings for specified features. It operates with an AI-in-the-Loop (AI2L) design, presenting all suggestions for review and confirmation by planning officers directly within their existing software; no action is committed without explicit human approval. The system is designed to improve its performance over time by learning from this human oversight through active learning prioritization rather than autoapproval. The system is currently being piloted at four diverse UK local authorities. The paper details the system design, the AI2L workflow, and the evaluation framework used in the pilot. Additionally, it describes a preliminary Return on Investment (ROI) model developed to quantify potential savings and secure partner participation. This work provides a case study on deploying AI to reduce administrative burden and manage compliance risk in a public sector environment.",
+  "source_url": "https://arxiv.org/abs/2603.13245",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "15e4716d-4e3a-438a-85ab-b5874568aa7f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T13:42:05.179943+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

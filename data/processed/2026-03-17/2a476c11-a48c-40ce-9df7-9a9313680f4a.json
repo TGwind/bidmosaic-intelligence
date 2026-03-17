@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日产将反向进口美国生产的“Murano”",
+  "raw_content": "2026/03/17 日产汽车3月17日宣布，将从2027年初开始在日本进口销售于美国生产的SUV“Murano”（中国名：楼兰）。此举是基于政府简化了美国生产车辆认证手续，从而扩大面向日本市场的销售车型。 从海外进口的日本品牌汽车被称为“反向进口车”。Murano在日产位于美国田纳西州士麦那工厂生产，将以美国规格的左舵车型直接进口。 Murano曾在日本销售，但已于2015年停售。若2027年恢复销售，将是时隔约12年的“复活”。 日产在日本市场销售低迷。销售一线甚至有“可卖的车型太少”的声音，扩大产品线成为当务之急。 目前日产在日本销售的SUV还有“X-Trail（奇骏）”。Murano尺寸大于X-Trail，公司判断其在日本国内消费者中也具备一定需求。",
+  "source_url": "http://cn.nikkei.com/industry/icar/61797-2026-03-17-08-11-54.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-17T05:38:04+00:00",
+  "id": "2a476c11-a48c-40ce-9df7-9a9313680f4a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T13:42:05.204961+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

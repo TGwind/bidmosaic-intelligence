@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Cango is selling off its bitcoin stash to pay down debt and fund an AI makeover",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/17/cango-is-selling-off-its-bitcoin-stash-to-pay-down-debt-and-fund-an-ai-makeover",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T11:00:13+00:00",
+  "id": "7cef61a5-0108-4ed8-8945-965a6457756b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-17T13:42:05.258799+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
