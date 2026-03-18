@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Stryker says it’s restoring systems after pro-Iran hackers wiped thousands of employee devices",
+  "raw_content": "The hack, which brought ongoing widespread disruption to the company's operations, is thought to be the first major cyberattack in the United States in response to the Trump administration's war in Iran.",
+  "source_url": "https://techcrunch.com/2026/03/17/stryker-says-its-restoring-systems-after-pro-iran-hackers-wiped-thousands-of-employee-devices/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-17T15:52:50+00:00",
+  "id": "fb52abc7-419e-4075-8528-54c4e9e3b79d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "ILION: Deterministic Pre-Execution Safety Gates for Agentic AI Systems",
+  "raw_content": "arXiv:2603.13247v1 Announce Type: new \nAbstract: The proliferation of autonomous AI agents capable of executing real-world actions - filesystem operations, API calls, database modifications, financial transactions - introduces a class of safety risk not addressed by existing content-moderation infrastructure. Current text-safety systems evaluate linguistic content for harm categories such as violence, hate speech, and sexual content; they are architecturally unsuitable for evaluating whether a proposed action falls within an agent's authorized operational scope. We present ILION (Intelligent Logic Identity Operations Network), a deterministic execution gate for agentic AI systems. ILION employs a five-component cascade architecture - Transient Identity Imprint (TII), Semantic Vector Reference Frame (SVRF), Identity Drift Control (IDC), Identity Resonance Score (IRS) and Consensus Veto Layer (CVL) - to classify proposed agent actions as BLOCK or ALLOW without statistical training or API dependencies. The system requires zero labeled data, operates in sub-millisecond latency, and produces fully interpretable verdicts. We evaluate ILION on ILION-Bench v2, a purpose-built benchmark of 380 test scenarios across eight attack categories with 39% hard-difficulty adversarial cases and a held-out development split. ILION achieves F1 = 0.8515, precision = 91.0%, and a false positive rate of 7.9% at a mean latency of 143 microseconds. Comparative evaluation against three baselines - Lakera Guard (F1 = 0.8087), OpenAI Moderation API (F1 = 0.1188), and Llama Guard 3 (F1 = 0.0105) - demonstrates that existing text-safety infrastructure systematically fails on agent execution safety tasks due to a fundamental task mismatch. ILION outperforms the best commercial baseline by 4.3 F1 points while operating 2,000 times faster with a false positive rate four times lower.",
+  "source_url": "https://arxiv.org/abs/2603.13247",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "45321410-dbc4-4ab0-84b7-36a9d668b72f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
