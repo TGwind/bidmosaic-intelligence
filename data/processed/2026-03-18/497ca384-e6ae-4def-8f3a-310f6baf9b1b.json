@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《你以为我荡秋千呢》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1ZJwtzcEV1",
+  "raw_title": "【牛牛勇气王】 牛哥~😱我也要死吗....9张桌子36个人 谁会靠着胆子最后留下？",
+  "raw_content": "请选择你的桌子",
+  "source_url": "https://www.bilibili.com/video/BV1okw7zeEcc",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-18T02:23:30.348543+00:00",
-  "id": "3f771e9c-23bd-4c14-973c-1cee61e99ba6",
+  "collected_at": "2026-03-18T07:03:19.289164+00:00",
+  "id": "497ca384-e6ae-4def-8f3a-310f6baf9b1b",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-18T07:03:50.093012+00:00",
+  "processed_at": "2026-03-18T07:03:50.093586+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3189352,
+    "hot_score": 5354457,
     "platform": "bilibili"
   }
 }

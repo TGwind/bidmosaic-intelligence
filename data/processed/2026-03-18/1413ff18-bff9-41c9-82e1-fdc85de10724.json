@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "“妈妈，我将为了所有人，献出自己的「心」”【游戏巨辩】",
+  "raw_content": "游戏名：地球冒险，或者mother2 大家好啊，今天给大家更新个1分13秒的短视频，惹啊！",
+  "source_url": "https://www.bilibili.com/video/BV1Tnw7zSEnA",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-18T07:03:19.289254+00:00",
+  "id": "1413ff18-bff9-41c9-82e1-fdc85de10724",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T07:03:50.066703+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1536915,
+    "platform": "bilibili"
+  }
+}

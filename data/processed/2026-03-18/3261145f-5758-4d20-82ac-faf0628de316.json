@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《你以为我荡秋千呢》",
+  "raw_title": "共情到底是诅咒还是奖励？",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1ZJwtzcEV1",
+  "source_url": "https://www.bilibili.com/video/BV1V2w4z9EMn",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-18T02:23:30.348543+00:00",
-  "id": "3f771e9c-23bd-4c14-973c-1cee61e99ba6",
+  "collected_at": "2026-03-18T07:03:19.289194+00:00",
+  "id": "3261145f-5758-4d20-82ac-faf0628de316",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-18T07:03:50.093012+00:00",
+  "processed_at": "2026-03-18T07:03:50.094058+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3189352,
+    "hot_score": 1580141,
     "platform": "bilibili"
   }
 }

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《你以为我荡秋千呢》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1ZJwtzcEV1",
+  "raw_title": "雪山救狐狸，但是是酱板鸭救!",
+  "raw_content": "内容ai生成，仅供娱乐",
+  "source_url": "https://www.bilibili.com/video/BV1VDwKz8Ea6",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-18T02:23:30.348543+00:00",
-  "id": "3f771e9c-23bd-4c14-973c-1cee61e99ba6",
+  "collected_at": "2026-03-18T07:03:19.289236+00:00",
+  "id": "391329fe-dec7-4b0c-a342-9380e68859d3",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-18T07:03:50.093012+00:00",
+  "processed_at": "2026-03-18T07:03:50.091461+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3189352,
+    "hot_score": 5059431,
     "platform": "bilibili"
   }
 }

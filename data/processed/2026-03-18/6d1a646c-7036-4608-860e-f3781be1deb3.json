@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "中国经济强劲开局",
-  "raw_content": "中国经济强劲开局",
-  "source_url": "https://www.toutiao.com/article/7618053992190312996",
+  "raw_title": "26年继续实施更加积极的财政政策",
+  "raw_content": "26年继续实施更加积极的财政政策",
+  "source_url": "https://www.toutiao.com/video/7618407051538055720",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-18T02:23:29.517814+00:00",
-  "id": "1385134f-49a3-4d63-a730-0501020866fc",
+  "collected_at": "2026-03-18T07:03:14.292940+00:00",
+  "id": "6d1a646c-7036-4608-860e-f3781be1deb3",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-18T07:03:50.065399+00:00",
+  "processed_at": "2026-03-18T07:03:50.094436+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "25057197",
+    "hot_score": "10806644",
     "platform": "toutiao"
   }
 }
