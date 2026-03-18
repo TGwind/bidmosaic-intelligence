@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP hovers near $14 million options battleground that could sway trading",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/18/xrp-hovers-near-usd14-million-options-battleground-that-could-sway-trading",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T05:58:28+00:00",
+  "id": "17b553bf-9e57-4778-80dc-be33e77bcb72",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T09:00:13.824971+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

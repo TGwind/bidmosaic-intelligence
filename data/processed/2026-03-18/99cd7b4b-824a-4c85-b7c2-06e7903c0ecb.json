@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
+  "raw_content": "Roche's new deployment spans more than 3,500 NVIDIA Blackwell GPUs across its worldwide operations and embedded across the entire value chain, massively scaling R&#038;D productivity, next-generation diagnostics and manufacturing efficiencies.",
+  "source_url": "https://blogs.nvidia.com/blog/roche-ai-factories-omniverse/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-16T20:30:59+00:00",
+  "id": "99cd7b4b-824a-4c85-b7c2-06e7903c0ecb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T09:00:13.926707+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

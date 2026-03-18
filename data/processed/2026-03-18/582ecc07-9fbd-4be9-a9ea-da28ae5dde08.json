@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin inflows to exchanges spike as BTC hits resistance at $75K",
+  "raw_content": "Spikes in large deposits to exchanges have been associated with increased selling pressure, according to analysts at CryptoQuant.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-inflows-exchanges-spike-resistance-75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T05:42:58+00:00",
+  "id": "582ecc07-9fbd-4be9-a9ea-da28ae5dde08",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T09:00:13.887655+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
