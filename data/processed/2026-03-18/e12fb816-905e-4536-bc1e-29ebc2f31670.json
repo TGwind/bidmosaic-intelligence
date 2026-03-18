@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "S&P Dow Jones licenses S&P 500 perpetual futures for Hyperliquid",
+  "raw_content": "The new derivative allows eligible non-US users to trade leveraged exposure to the index around the clock using official data on a decentralized platform.",
+  "source_url": "https://cointelegraph.com/news/s-p-dow-jones-licenses-first-s-p-500-perpetuals-for-onchain-trading-on-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T17:44:54+00:00",
+  "id": "e12fb816-905e-4536-bc1e-29ebc2f31670",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T20:49:41.221167+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
