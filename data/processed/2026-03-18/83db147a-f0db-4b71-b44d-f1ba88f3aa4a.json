@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US lawmakers introduce bill to crack down on prediction markets war bets",
+  "raw_content": "The BETS OFF Act from two Democratic lawmakers came in response to several “highly unusual bets” on the US-Israel conflict with Iran, suggesting insider information.",
+  "source_url": "https://cointelegraph.com/news/us-lawmakers-prediction-market-bets-war-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T20:58:25+00:00",
+  "id": "83db147a-f0db-4b71-b44d-f1ba88f3aa4a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T05:38:50.422691+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

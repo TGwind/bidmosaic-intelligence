@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本在日美首脑会谈时将表示扩大进口美国原油",
+  "raw_content": "2026/03/18 日本政府计划在3月19日于华盛顿举行的日美首脑会谈上，向美方表达扩大从阿拉斯加等地进口美国原油的意向。日本原油约九成依赖中东，在霍尔木兹海峡事实上被封锁、供应出现不安的情况下，拟推动采购多元化。 日本首相高市早苗与美国总统特朗普的会谈中，经济安全保障合作将成为议题之一。2025年日本原油进口中，美国产占比为3.8%。日本意在增加从美国的采购，降低对中东原油的依赖；而希望扩大原油出口的美国也被认为将从中受益。 日本国内对原油供应不足的担忧正在加剧。由于2月底对伊朗的攻击，霍尔木兹海峡事实上处于封锁状态。来自中东的油轮抵达日本大约需要20天，因此预计自3月20日前后起，中东原油进口将大幅减少。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61807-2026-03-18-08-08-39.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-18T01:08:03+00:00",
+  "id": "2dc767d3-ef9a-4142-a718-6a4b8c94d1e4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T05:38:50.345368+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
