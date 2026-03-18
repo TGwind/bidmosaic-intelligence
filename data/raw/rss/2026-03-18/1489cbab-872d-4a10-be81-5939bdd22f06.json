@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitrefill accuses North Korea-linked Lazarus hacker group for compromising 18,500 purchase records",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/18/bitrefill-accuses-north-korea-linked-lazarus-hacker-group-for-compromising-18-500-purchase-records",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T07:17:53+00:00",
+  "id": "1489cbab-872d-4a10-be81-5939bdd22f06",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

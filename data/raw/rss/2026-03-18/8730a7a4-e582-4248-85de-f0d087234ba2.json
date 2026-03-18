@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Alberto Naudon: Chile's economic outlook",
+  "raw_content": "Speech by Mr Alberto Naudon, Deputy Governor of the Central Bank of Chile, at the Bradesco BBI Seminar, Santiago de Chile, 29 January 2026.",
+  "source_url": "https://www.bis.org/review/r260312a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-18T08:59:33.928442+00:00",
+  "id": "8730a7a4-e582-4248-85de-f0d087234ba2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
