@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Connecticut suspends Bitcoin Depot as 2026 revenue outlook worsens",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Connecticut suspends Bitcoin Depot as 2026 revenue outlook worsens\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDAwMzQtZGNiMC03ZDQ2LTg1NzgtODkxOWFhMzk4ZGI1LmpwZw==.jpg\" /></p><p>Connecticut halts Bitcoin Depot’s operations, with the company expecting lower revenue in 2026 amid mounting regulatory pressure and a steep decline in its stock price.</p>",
+  "source_url": "https://cointelegraph.com/news/connecticut-bitcoin-depot-license-halt-stock-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T11:27:59+00:00",
+  "id": "b96c7aae-fbae-434f-8ebe-c81a76100d9d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin stalls at $76K: Key BTC price levels to watch ahead of FOMC",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin stalls at $76K: Key BTC price levels to watch ahead of FOMC\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDAwNTMtODNmNS03ZDkxLTgzZjYtYzI0MDcwMDcyZjQ4LmpwZw==.jpg\" /></p><p>Bitcoin price traded at $74,000 as investors braced for Jerome Powell’s post-FOMC speech that could see volatile swings toward key BTC price levels.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-stalls-76k-key-btc-price-levels-to-watch-ahead-fomc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T10:19:06+00:00",
+  "id": "bd00c604-f111-4858-8bc6-9bd67109188a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

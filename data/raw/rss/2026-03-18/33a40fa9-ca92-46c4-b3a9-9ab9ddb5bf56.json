@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "UK lawmakers urge ‘immediate moratorium’ on crypto political donations",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/18/uk-lawmakers-urge-immediate-moratorium-on-crypto-political-donations",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T11:57:12+00:00",
+  "id": "33a40fa9-ca92-46c4-b3a9-9ab9ddb5bf56",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
