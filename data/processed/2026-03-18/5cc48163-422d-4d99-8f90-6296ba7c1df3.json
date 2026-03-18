@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Japan’s SBI VC Trade launches retail USDC lending as stablecoin use grows",
+  "raw_content": "SBI VC Trade said users could lend assets directly to its platform, but added that the company may re-lend funds as part of its operations.",
+  "source_url": "https://cointelegraph.com/news/japan-s-sbi-vc-trade-launches-retail-usdc-lending-as-stablecoin-use-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T14:42:53+00:00",
+  "id": "5cc48163-422d-4d99-8f90-6296ba7c1df3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T17:12:23.452889+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

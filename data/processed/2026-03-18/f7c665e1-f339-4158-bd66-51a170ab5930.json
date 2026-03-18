@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto industry ties were a liability in Illinois primary",
+  "raw_content": "Ties to the crypto industry became a vector for attack in a recent Democratic primary election in the state of Illinois.",
+  "source_url": "https://cointelegraph.com/news/crypto-industry-ties-liability-illinois-primary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T14:20:36+00:00",
+  "id": "f7c665e1-f339-4158-bd66-51a170ab5930",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T17:12:23.503620+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

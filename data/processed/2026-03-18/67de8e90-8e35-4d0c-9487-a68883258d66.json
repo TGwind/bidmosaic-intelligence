@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "74% of institutions expect crypto prices to rise in 12 months: Survey",
+  "raw_content": "A Coinbase-EY study reveals institutional investors plan to boost crypto allocations in 2026, favoring regulated products as stablecoins and tokenization gain traction.",
+  "source_url": "https://cointelegraph.com/news/institutional-investors-crypto-exposure-new-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T14:00:00+00:00",
+  "id": "67de8e90-8e35-4d0c-9487-a68883258d66",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T17:12:23.466588+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
