@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "她真的很可爱",
+  "raw_content": "她真的很可爱",
+  "source_url": "https://www.bilibili.com/video/BV1UvwNzDEPr",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-18T19:01:36.023519+00:00",
+  "id": "80bda864-cffc-42c6-ada2-58a45dbc2be2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3026362,
+    "platform": "bilibili"
+  }
+}
