@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "她真的很可爱",
-  "raw_content": "她真的很可爱",
-  "source_url": "https://www.bilibili.com/video/BV1UvwNzDEPr",
+  "raw_title": "雪山救狐狸，但是有100万个农夫",
+  "raw_content": "雪山救狐狸，但是有100万个农夫",
+  "source_url": "https://www.bilibili.com/video/BV1kQwjzzEo7",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-18T02:23:30.348560+00:00",
-  "id": "767742e1-2640-40de-85e7-46addbcfd649",
+  "collected_at": "2026-03-18T13:15:56.650319+00:00",
+  "id": "4fc82fd7-99c3-426b-b0f2-83896280e469",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-18T13:16:26.768418+00:00",
+  "processed_at": "2026-03-18T13:16:26.755730+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2577600,
+    "hot_score": 3570608,
     "platform": "bilibili"
   }
 }

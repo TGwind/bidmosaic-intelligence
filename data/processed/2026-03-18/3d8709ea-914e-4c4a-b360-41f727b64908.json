@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "她真的很可爱",
-  "raw_content": "她真的很可爱",
-  "source_url": "https://www.bilibili.com/video/BV1UvwNzDEPr",
+  "raw_title": "【牛牛勇气王】 牛哥~😱我也要死吗....9张桌子36个人 谁会靠着胆子最后留下？",
+  "raw_content": "请选择你的桌子",
+  "source_url": "https://www.bilibili.com/video/BV1okw7zeEcc",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-18T02:23:30.348560+00:00",
-  "id": "767742e1-2640-40de-85e7-46addbcfd649",
+  "collected_at": "2026-03-18T13:15:56.650300+00:00",
+  "id": "3d8709ea-914e-4c4a-b360-41f727b64908",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-18T13:16:26.768418+00:00",
+  "processed_at": "2026-03-18T13:16:26.769859+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2577600,
+    "hot_score": 5908530,
     "platform": "bilibili"
   }
 }
