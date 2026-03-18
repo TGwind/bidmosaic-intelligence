@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "雪山救狐狸，但是是酱板鸭救!",
+  "raw_content": "内容ai生成，仅供娱乐",
+  "source_url": "https://www.bilibili.com/video/BV1VDwKz8Ea6",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-18T02:23:30.348613+00:00",
+  "id": "c87753f6-54f7-4903-8f85-e9e413527683",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4923285,
+    "platform": "bilibili"
+  }
+}
