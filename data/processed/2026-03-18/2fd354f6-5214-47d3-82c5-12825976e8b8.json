@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Google’s data center power playbook comes into focus",
+  "raw_content": "Google has long procured clean power for its operations and data centers, but recent deals show the company is changing tactics.",
+  "source_url": "https://techcrunch.com/2026/03/17/googles-data-center-power-playbook-comes-into-focus/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-17T16:46:02+00:00",
+  "id": "2fd354f6-5214-47d3-82c5-12825976e8b8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T13:43:34.552402+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

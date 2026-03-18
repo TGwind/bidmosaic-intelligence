@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Australian crypto shopping surges, but so do banking blocks: Survey",
+  "raw_content": "Online shopping was the leading real-world use case for crypto among Australians, followed by paying for services such as freelancing and video game purchases.",
+  "source_url": "https://cointelegraph.com/news/australia-crypto-payments-rise-banking-blocks-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T06:42:45+00:00",
+  "id": "8e5b056b-91ca-4bff-b35e-2e02ede4d45d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T13:43:34.622238+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

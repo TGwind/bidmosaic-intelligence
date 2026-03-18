@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stratton wins Illinois Senate primary, defeating crypto-backed Krishnamoorthi",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/17/stratton-wins-illinois-senate-primary-defeating-crypto-backed-krishnamoorthi",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T03:03:07+00:00",
+  "id": "1694d94e-ee54-4a51-bf2a-a401cd40be12",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T13:43:34.519516+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

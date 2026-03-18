@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "RedotPay executive turnover clouds crypto payments firm's $4 billion U.S. IPO ambition",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/18/redotpay-executive-turnover-clouds-crypto-payments-firm-s-usd4-billion-u-s-ipo-ambition",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T13:01:14+00:00",
+  "id": "17f4ea3c-73a5-48d6-9343-0fefd949a615",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T13:43:34.525748+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
