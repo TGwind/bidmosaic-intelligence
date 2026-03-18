@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "我在雪山救了100只狐狸！",
-  "raw_content": "尝试制作的邵氏ai反转短剧，喜欢的话别忘记点个赞呀。",
-  "source_url": "https://www.bilibili.com/video/BV15EwWzLEwa",
+  "raw_title": "战况不利开始摇人？特朗普欲组万国护航联盟",
+  "raw_content": "战况不利开始摇人？特朗普欲组万国护航联盟",
+  "source_url": "https://www.bilibili.com/video/BV1mCwXzDEKM",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-18T07:03:19.289211+00:00",
-  "id": "524191ea-48d6-4d69-97e6-c2ac5bd8e58b",
+  "collected_at": "2026-03-18T19:01:36.023568+00:00",
+  "id": "bf4e726b-7644-4ed9-a2e2-88c7b3b07c58",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-18T19:02:06.832787+00:00",
+  "processed_at": "2026-03-18T19:02:06.845128+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 8354129,
+    "hot_score": 1771492,
     "platform": "bilibili"
   }
 }

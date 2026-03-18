@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "我在雪山救了100只狐狸！",
-  "raw_content": "尝试制作的邵氏ai反转短剧，喜欢的话别忘记点个赞呀。",
-  "source_url": "https://www.bilibili.com/video/BV15EwWzLEwa",
+  "raw_title": "第一次见家长需要注意什么",
+  "raw_content": "纯爱战士最喜欢的一集",
+  "source_url": "https://www.bilibili.com/video/BV1mmwRzdEbs",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-18T07:03:19.289211+00:00",
-  "id": "524191ea-48d6-4d69-97e6-c2ac5bd8e58b",
+  "collected_at": "2026-03-18T19:01:36.023560+00:00",
+  "id": "817ba508-c7ec-4cd5-8a78-580055e8f047",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-18T19:02:06.832787+00:00",
+  "processed_at": "2026-03-18T19:02:06.841492+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 8354129,
+    "hot_score": 2270328,
     "platform": "bilibili"
   }
 }
