@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《你以为我荡秋千呢》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1ZJwtzcEV1",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-18T13:15:56.650361+00:00",
+  "id": "95907a40-2b88-48c2-ae69-c14eab950259",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3347121,
+    "platform": "bilibili"
+  }
+}
