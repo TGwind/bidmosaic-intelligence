@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "VersaBank expands tokenized deposits with cross-border FX use case",
+  "raw_content": "The Canadian bank added USD–CAD conversion to its tokenized deposits, enabling real-time cross-border transactions as banks test blockchain-based settlement systems.",
+  "source_url": "https://cointelegraph.com/news/versabank-tokenized-deposits-fx-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T18:29:40+00:00",
+  "id": "a409325a-f632-4e7b-be6e-89db9eb9c6a9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T02:52:41.140986+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "以色列称已杀害伊朗政策核心人物",
+  "raw_content": "2026/03/18 以色列3月17日宣布，已杀害负责统筹伊朗国防与外交政策的最高安全保障委员会（SNSC）秘书长拉里贾尼。该人不仅协调各机构工作，还负责核谈判，是深受已故最高领袖哈梅内伊信任的重要实务型领导人。失去这一政策核心人物，使刚刚成立的新体制遭受打击。 据以色列媒体等报道，拉里贾尼于16日晚至17日期间在伊朗首都德黑兰遭遇空袭身亡。 据信，拉里贾尼是自2月28日哈梅内伊遇刺以来，在美以一系列攻击中死亡的最高级别人物。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61806-2026-03-18-08-08-38.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-18T00:38:03+00:00",
+  "id": "94c81dba-b4ed-4b4e-8233-1d4e90762fa3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T02:52:41.159546+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

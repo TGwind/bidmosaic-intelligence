@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Mastercard's $1.8 billion deal 'a clear answer' to a massive shift in the global payment war",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/17/mastercard-s-usd1-8-billion-deal-a-clear-answer-to-a-massive-shift-in-the-global-payment-war",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T19:00:27+00:00",
+  "id": "e415481d-db9f-441e-91cd-6d6f448eb01b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T02:52:41.178040+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

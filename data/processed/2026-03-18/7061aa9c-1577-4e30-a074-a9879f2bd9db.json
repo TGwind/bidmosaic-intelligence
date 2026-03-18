@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Arizona AG files charges against Kalshi over ‘illegal gambling‘",
+  "raw_content": "A Kalshi spokesperson said that the criminal case was based on ”paper-thin arguments” and claimed the company was exclusively under federal jurisdiction.",
+  "source_url": "https://cointelegraph.com/news/arizona-criminal-charges-kalshi-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T18:53:06+00:00",
+  "id": "7061aa9c-1577-4e30-a074-a9879f2bd9db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T02:52:41.119224+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts",
+  "raw_content": "arXiv:2603.13239v1 Announce Type: new Abstract: Smart contracts play a central role in blockchain systems by encoding financial and operational logic. Still, their susceptibility to subtle security flaws poses significant risks of financial loss and erosion of trust. LLMs create new opportunities for automating vulnerability detection, yet the effectiveness of different prompting strategies and model choices in real-world contexts remains uncertain. This paper evaluates state-of-the-art LLMs on Solidity smart contract analysis using a balanced dataset of 400 contracts under two tasks: (i) Error Detection, where the model performs binary classification to decide whether a contract is vulnerable, and (ii) Error Classification, where the model must assign the predicted issue to a specific vulnerability category. Models are evaluated using zero-shot prompting strategies, including zero-shot, zero-shot Chain-of-Thought (CoT), and zero-shot Tree-of-Thought (ToT). In the Error Detection task, CoT and ToT substantially increase recall (often approaching $\\approx 95$--$99\\%$), but typically reduce precision, indicating a more sensitive decision regime with more false positives. In the Error Classification task, Claude 3 Opus attains the best Weighted F1-score (90.8) under the ToT prompt, followed closely by its CoT.",
+  "source_url": "https://arxiv.org/abs/2603.13239",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-17T04:00:00+00:00",
+  "id": "95d31922-b1db-4df2-b73f-5b1dcb0f0e81",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T02:52:41.135874+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

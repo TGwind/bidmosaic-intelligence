@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Moody’s brings credit ratings onchain with Canton Network integration",
+  "raw_content": "The move marks an early step toward embedding traditional risk assessment into blockchain-based financial infrastructure.",
+  "source_url": "https://cointelegraph.com/news/moody-s-brings-credit-ratings-onchain-with-canton-network-integration?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-17T20:41:44+00:00",
+  "id": "ca8a5cff-52d8-444c-bae8-b005a11a7922",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T02:52:41.159920+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
