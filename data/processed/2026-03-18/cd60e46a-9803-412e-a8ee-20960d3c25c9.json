@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【牛牛勇气王】 牛哥~😱我也要死吗....9张桌子36个人 谁会靠着胆子最后留下？",
+  "raw_content": "请选择你的桌子",
+  "source_url": "https://www.bilibili.com/video/BV1okw7zeEcc",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-18T02:23:30.348496+00:00",
+  "id": "cd60e46a-9803-412e-a8ee-20960d3c25c9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T02:23:58.383335+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4986861,
+    "platform": "bilibili"
+  }
+}

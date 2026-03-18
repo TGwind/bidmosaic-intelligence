@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "内蒙古一洗浴店涉卖淫嫖娼 2人被抓",
+  "raw_content": "内蒙古一洗浴店涉卖淫嫖娼 2人被抓",
+  "source_url": "https://www.toutiao.com/trending/7618057905933549619/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618057905933549619%22%2C%22hot_board_impr_id%22%3A%2220260318102329C513AF30C94E7357AC8C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E6%B4%97%E6%B5%B4%E5%BA%97%E6%B6%89%E5%8D%96%E6%B7%AB%E5%AB%96%E5%A8%BC+2%E4%BA%BA%E8%A2%AB%E6%8A%93%22%7D&rank=&style_id=40132&topic_id=7618057905933549619",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-18T02:23:29.518014+00:00",
+  "id": "30118450-8a31-4c28-a57c-bf0a6b407fe9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T02:23:58.379361+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9218027",
+    "platform": "toutiao"
+  }
+}

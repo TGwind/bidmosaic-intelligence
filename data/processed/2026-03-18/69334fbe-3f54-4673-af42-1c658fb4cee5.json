@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "宇树创始人称今年机器人会快过博尔特",
+  "raw_content": "宇树创始人称今年机器人会快过博尔特",
+  "source_url": "https://www.toutiao.com/trending/7617456243996885038/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227617456243996885038%22%2C%22hot_board_impr_id%22%3A%2220260318102329C513AF30C94E7357AC8C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%87%E6%A0%91%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E4%BB%8A%E5%B9%B4%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%9A%E5%BF%AB%E8%BF%87%E5%8D%9A%E5%B0%94%E7%89%B9%22%7D&rank=&style_id=40132&topic_id=7617456243996885038",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-18T02:23:29.517747+00:00",
+  "id": "69334fbe-3f54-4673-af42-1c658fb4cee5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-18T02:23:58.381905+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "30604929",
+    "platform": "toutiao"
+  }
+}
