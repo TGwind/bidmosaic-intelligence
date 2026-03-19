@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "普通家庭攒钱有哪些好方法",
+  "raw_content": "普通家庭攒钱有哪些好方法",
+  "source_url": "https://www.toutiao.com/trending/7618214620709224502/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618214620709224502%22%2C%22hot_board_impr_id%22%3A%2220260319102436C2F7C0EC8815B81A905D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E6%94%92%E9%92%B1%E6%9C%89%E5%93%AA%E4%BA%9B%E5%A5%BD%E6%96%B9%E6%B3%95%22%7D&rank=&style_id=40132&topic_id=7618214620709224502",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T02:24:36.612150+00:00",
+  "id": "1bd0423e-4abe-4493-9845-43ce66a5a348",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15355265",
+    "platform": "toutiao"
+  }
+}
