@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "蔡磊妻子从“破冰驿站”走到台前",
+  "raw_content": "蔡磊妻子从“破冰驿站”走到台前",
+  "source_url": "https://www.toutiao.com/trending/7618484150697345043/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618484150697345043%22%2C%22hot_board_impr_id%22%3A%22202603191500199935AACDEDE723AC6F7B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%94%A1%E7%A3%8A%E5%A6%BB%E5%AD%90%E4%BB%8E%E2%80%9C%E7%A0%B4%E5%86%B0%E9%A9%BF%E7%AB%99%E2%80%9D%E8%B5%B0%E5%88%B0%E5%8F%B0%E5%89%8D%22%7D&rank=&style_id=40132&topic_id=7618484150697345043",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T07:00:19.748164+00:00",
+  "id": "6a60d773-2276-44d0-ba9a-7f08e3a8eebe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "24400491",
+    "platform": "toutiao"
+  }
+}
