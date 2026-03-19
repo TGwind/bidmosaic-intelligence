@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "夫妻因长期“趁热吃喝”确诊食管癌",
+  "raw_content": "夫妻因长期“趁热吃喝”确诊食管癌",
+  "source_url": "https://www.toutiao.com/trending/7618570397286711339/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618570397286711339%22%2C%22hot_board_impr_id%22%3A%2220260319102436C2F7C0EC8815B81A905D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AB%E5%A6%BB%E5%9B%A0%E9%95%BF%E6%9C%9F%E2%80%9C%E8%B6%81%E7%83%AD%E5%90%83%E5%96%9D%E2%80%9D%E7%A1%AE%E8%AF%8A%E9%A3%9F%E7%AE%A1%E7%99%8C%22%7D&rank=&style_id=40132&topic_id=7618570397286711339",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T02:24:36.612121+00:00",
+  "id": "c7c8a85a-a255-42ef-b41e-03fc9a89779d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T02:25:10.198258+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "22907364",
+    "platform": "toutiao"
+  }
+}
