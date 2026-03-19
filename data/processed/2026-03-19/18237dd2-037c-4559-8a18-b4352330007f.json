@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Coinbase Commerce page requests seed phrases, raising security concerns",
+  "raw_content": "A Coinbase subdomain linked to its Commerce tool reportedly directed users to a withdrawal page asking to enter their seed phrases, raising concerns among security observers.",
+  "source_url": "https://cointelegraph.com/news/coinbase-subdomain-seed-phrase-security-concern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T14:05:06+00:00",
+  "id": "18237dd2-037c-4559-8a18-b4352330007f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T17:05:08.552451+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
