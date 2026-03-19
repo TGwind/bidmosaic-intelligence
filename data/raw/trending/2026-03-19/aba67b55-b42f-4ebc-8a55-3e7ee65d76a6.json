@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "非遗体验引领文旅新风尚",
+  "raw_content": "非遗体验引领文旅新风尚",
+  "source_url": "https://www.toutiao.com/trending/7618868785889529385/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618868785889529385%22%2C%22hot_board_impr_id%22%3A%2220260319210742A65E03C50BBC78607C53%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9D%9E%E9%81%97%E4%BD%93%E9%AA%8C%E5%BC%95%E9%A2%86%E6%96%87%E6%97%85%E6%96%B0%E9%A3%8E%E5%B0%9A%22%7D&rank=&style_id=40132&topic_id=7618868785889529385",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T13:07:42.742302+00:00",
+  "id": "aba67b55-b42f-4ebc-8a55-3e7ee65d76a6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "44497990",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "正直播CBA：福建浔兴vs北京首钢",
+  "raw_content": "正直播CBA：福建浔兴vs北京首钢",
+  "source_url": "https://www.toutiao.com/trending/7618286819642916902/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618286819642916902%22%2C%22hot_board_impr_id%22%3A%2220260319210742A65E03C50BBC78607C53%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AD%A3%E7%9B%B4%E6%92%ADCBA%EF%BC%9A%E7%A6%8F%E5%BB%BA%E6%B5%94%E5%85%B4vs%E5%8C%97%E4%BA%AC%E9%A6%96%E9%92%A2%22%7D&rank=&style_id=40132&topic_id=7618286819642916902",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T13:07:42.742469+00:00",
+  "id": "3d1019a8-a168-42f4-9a84-c9cd23790a39",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13402537",
+    "platform": "toutiao"
+  }
+}
