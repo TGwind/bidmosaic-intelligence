@@ -1,0 +1,41 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "麦格米特(002851) 今日跌5.38% 报104.06元",
+  "raw_content": "麦格米特(002851) 最新价 104.06元，跌5.38%，涨跌额 -5.92元，今开 106.50元，最高 108.00元，最低 103.53元，昨收 109.98元，成交额 18.17亿元，振幅 4.06%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz002851/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-19T10:35:40.259733+00:00",
+  "id": "f5ab8135-4cd2-4e47-b26b-3e5ad0b5a12f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T10:36:06.248450+00:00",
+  "market_data": {
+    "symbols": [
+      "002851"
+    ],
+    "price_change": {
+      "price": 104.06,
+      "change_pct": -5.38,
+      "change_amt": -5.92
+    },
+    "indicators": {
+      "volume": 17257525.0,
+      "turnover": 1817169125.19,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 4.06,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}
