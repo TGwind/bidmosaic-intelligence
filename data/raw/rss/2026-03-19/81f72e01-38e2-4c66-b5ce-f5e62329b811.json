@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本和新加坡首脑会谈，在AI和半导体领域合作",
+  "raw_content": "<div>2026/03/19</div><div id=\"contentDiv\">\n<div></div>\n<div>      日本首相高市早苗3月18日在首相官邸会见新加坡总理黄循财。双方同意提升两国外交关系，将其定义为“战略伙伴关系”，并发表了写明全面合作内容的联合声明，纳入了包括人工智能（AI）和半导体等数字领域在内的5大支柱。</div>\n<div> </div>\n<div>      据新加坡政府介绍，全球生产的半导体芯片中有10%是在新加坡制造的。日本希望在研发等方面推进合作。</div>\n<div> </div>\n<div>      新加坡还表示，今后5年将向AI研究投入约1240亿日元。日本则将围绕AI治理和安全保障寻求与新加坡加强协作。</div>\n<div> </div>\n<div>      两国领导人还强调推动自由贸易。高市在会谈开头表示：“两国都是共同维护并推动基于规则的自由开放国际秩序和自由贸易的同志国家”。黄循财回应在分裂和破坏正在发生的背景下，应该推进合作。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61825-2026-03-19-08-06-14.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-19T01:08:03+00:00",
+  "id": "81f72e01-38e2-4c66-b5ce-f5e62329b811",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

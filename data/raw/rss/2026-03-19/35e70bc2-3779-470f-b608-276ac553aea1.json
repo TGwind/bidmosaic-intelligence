@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本第二轮对美投资聚焦核电和天然气发电",
+  "raw_content": "<div>2026/03/19</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"375\" src=\"https://feedx.net/images/2026/03/0319/0319-02-1-L.jpg\" width=\"600\" />\n\n\n\n\n\n\n<div>　</div>\n<div>　　日本经济新闻（中文版：日经中文网）3月18日获悉，日美在关税谈判中达成协议的5500亿美元（约87万亿日元）对美投融资计划的第二轮，正朝着合计10万亿日元规模的方向展开协调。预计将列入新一代核电站以及天然气火力发电设施的建设项目等内容。</div>\n<div>  　　</div>\n<div>　　两国计划在3月19日于华盛顿举行日美首脑会谈期间发布联合文件。预计将包括建设新一代核电小型模块化反应堆（SMR）、建设两处天然气火力发电设施的项目等。</div>\n<div>  　　</div>\n<div>　　此外，双方还将就联合开发稀土、锂和铜达成协议。认定三菱材料和三井物产在美国国内参与的4个项目，由日美共同强化供应链。今后还将探讨让三菱重工、东芝及IHI等日本企业参与美国西屋电气的大型核反应堆项目。</div>\n<div> 　　　</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/investtrade/61827-2026-03-19-08-44-11.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-19T01:08:03+00:00",
+  "id": "35e70bc2-3779-470f-b608-276ac553aea1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
