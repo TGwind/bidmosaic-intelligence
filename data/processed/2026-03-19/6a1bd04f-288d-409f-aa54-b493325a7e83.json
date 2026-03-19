@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本央行决定政策利率维持在0.75%",
+  "raw_content": "2026/03/19 日本银行（央行）在3月19日召开的货币政策会议上决定，将作为政策利率的无担保隔夜拆借利率目标维持在0.75%。继2025年12月会议决定加息后，已连续两次会议维持利率不变。 日本央行将继续评估中东局势紧张引发的油价上涨对经济和物价带来的影响。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/economic-policy/61835-2026-03-19-11-06-11.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-19T03:38:03+00:00",
+  "id": "6a1bd04f-288d-409f-aa54-b493325a7e83",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T05:25:42.685497+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

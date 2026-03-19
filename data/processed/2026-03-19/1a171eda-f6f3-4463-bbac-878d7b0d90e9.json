@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "美联储维持利率不变",
+  "raw_content": "2026/03/19 美国联邦储备委员会（FRB）3月18日召开联邦公开市场委员会（FOMC）会议，决定维持政策利率不变。当天公布的经济展望显示，对年内追加降息次数的预估中值仍为1次，与3个月前的上次预测相同。由于中东霍尔木兹海峡事实上被封锁，原油价格飙升，通胀前景被上调。 作为政策利率指标的联邦基金（FF）利率维持在3.5%至3.75%不变，这是连续第二次会议按兵不动。理事米兰与1月会议时一样，主张降息并投下反对票。上次持反对意见的理事沃勒此次则赞成维持利率不变。 在记者会上，鲍威尔主席表示：“中东局势发展将给美国经济带来何种影响仍不明朗”。他暗示，未来前景的不确定性再次上升。他指出，这可能会对个人消费和就业形成下行压力，但同时也表示，现在判断能源价格上涨影响的范围及持续时间还为时尚早。 受油价上涨影响，截至18日，全美普通汽油平均价格已升至每加仑（约4升）3.8美元，较伊朗遇袭前上涨了约1美元。中东局势紧张短期内看不到缓和前景。鲍威尔强调，“非常担忧”高通胀常态化这一看法在人们当中扩散。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/economic-policy/61823-2026-03-19-08-06-16.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-19T01:08:03+00:00",
+  "id": "1a171eda-f6f3-4463-bbac-878d7b0d90e9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T05:25:42.622606+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
