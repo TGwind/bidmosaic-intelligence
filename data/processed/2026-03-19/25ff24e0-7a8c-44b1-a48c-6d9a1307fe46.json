@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Singapore-based Ryde adopts crypto treasury strategy",
+  "raw_content": "The carpool and ride-sharing platform, which already accepted Bitcoin for customer payment, moves to crypto treasury despite challenges of price declines.",
+  "source_url": "https://cointelegraph.com/news/singapore-ryde-crypto-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T17:46:05+00:00",
+  "id": "25ff24e0-7a8c-44b1-a48c-6d9a1307fe46",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T20:50:23.032453+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Wall Street heavyweight Cantor among investment banks pitching FalconX for its potential IPO",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/18/wall-street-heavyweight-cantor-among-investment-banks-pitching-falconx-for-its-potential-ipo",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T19:23:09+00:00",
+  "id": "2238a3db-1faa-470c-b925-1a55488a2928",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T20:50:23.019094+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin drops 10% to threaten new retest of 'unreliable' BTC price support",
+  "raw_content": "Bitcoin brought its latest correction from local highs to near 10% as skepticism over long-term BTC price support grew louder.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-drops-10-threaten-retest-unreliable-btc-price-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T17:09:53+00:00",
+  "id": "b536a9f4-a75e-4a8d-8e52-bb6509a7b40c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T20:50:23.117721+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

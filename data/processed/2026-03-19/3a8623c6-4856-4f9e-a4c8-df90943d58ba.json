@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "ClickHouse 不再只有一个主索引：投影正式进化为真正的二级索引，查询提速 90%",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/qlqzZhgDNtM7eeuNsgGm?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-19T12:07:46+00:00",
+  "id": "3a8623c6-4856-4f9e-a4c8-df90943d58ba",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T20:50:23.059286+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

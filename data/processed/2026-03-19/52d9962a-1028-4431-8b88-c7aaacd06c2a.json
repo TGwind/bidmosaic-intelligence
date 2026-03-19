@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin bull market vibes emerge, but confirmation is missing: Glassnode",
+  "raw_content": "Bitcoin markets have started to turn bullish again, but data shows that a key “bull market threshold” has not been established yet.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-bull-market-vibes-emerge-but-confirmation-is-missing-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T18:30:00+00:00",
+  "id": "52d9962a-1028-4431-8b88-c7aaacd06c2a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T20:50:23.085257+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
