@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "François Villeroy de Galhau: Private markets - three conditions to get the good without the bad or the ugly",
+  "raw_content": "Speech by Mr François Villeroy de Galhau, Governor of the Bank of France, at the Bloomberg Forum Future of Finance, Paris, 12 March 2026.",
+  "source_url": "https://www.bis.org/review/r260317a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-19T08:54:07.622971+00:00",
+  "id": "46246933-947f-44b4-8ded-5f42c96ed1fc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T08:54:47.497999+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
