@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "K2 to launch its first high-powered satellite for space compute",
+  "raw_content": "K2's Gravitas is an ambitious project that aims to demonstrate the tech needed to build data centers in space.",
+  "source_url": "https://techcrunch.com/2026/03/19/k2-to-launch-its-first-high-powered-satellite-for-space-compute/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-19T14:00:00+00:00",
+  "id": "07629506-8792-4e2d-b37a-e90fda680599",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

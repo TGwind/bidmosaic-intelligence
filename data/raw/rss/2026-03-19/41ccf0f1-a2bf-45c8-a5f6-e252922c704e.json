@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee publishes principles for the sound management of third-party risk",
+  "raw_content": "The Basel Committee has published principles for the sound management of third-party risk in the banking sector.\nThe principles establish a common baseline for banks and supervisors for the sound management of third-party risk.\nThe Committee will continue to monitor developments related to the digitalisation of finance and financial technology from a prudential perspective.",
+  "source_url": "https://www.bis.org/press/p251210.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-19T17:04:24.842864+00:00",
+  "id": "41ccf0f1-a2bf-45c8-a5f6-e252922c704e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}
