@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "女子发现免费纸巾里有不明点点",
+  "raw_content": "女子发现免费纸巾里有不明点点",
+  "source_url": "https://www.toutiao.com/trending/7618805926078070838/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618805926078070838%22%2C%22hot_board_impr_id%22%3A%2220260319210742A65E03C50BBC78607C53%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%AD%90%E5%8F%91%E7%8E%B0%E5%85%8D%E8%B4%B9%E7%BA%B8%E5%B7%BE%E9%87%8C%E6%9C%89%E4%B8%8D%E6%98%8E%E7%82%B9%E7%82%B9%22%7D&rank=&style_id=40132&topic_id=7618805926078070838",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T13:07:42.742442+00:00",
+  "id": "c9b1b34d-a86a-424b-903b-67b8b721ca60",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T13:08:16.901448+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16369895",
+    "platform": "toutiao"
+  }
+}

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《鸣潮》的成功为什么是二游奇迹？",
-  "raw_content": "献给过去自己的一封情书",
-  "source_url": "https://www.bilibili.com/video/BV1XQw7ztE3P",
+  "raw_title": "阳光，走了17万年才到你脸上，为什么？【B站AI创作大赛-开放赛道】",
+  "raw_content": "阳光，走了17万年才到你脸上，为什么？【B站AI创作大赛-开放赛道】",
+  "source_url": "https://www.bilibili.com/video/BV1SzwDz1EKt",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-19T07:00:20.327353+00:00",
-  "id": "0c6ee445-8f00-45b2-9bbb-cc7dffcb5fd0",
+  "collected_at": "2026-03-19T13:07:43.349823+00:00",
+  "id": "35e1964f-bf75-40c6-bb3e-2dd82981bd77",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-19T13:08:16.894321+00:00",
+  "processed_at": "2026-03-19T13:08:16.892982+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 595736,
+    "hot_score": 2066552,
     "platform": "bilibili"
   }
 }

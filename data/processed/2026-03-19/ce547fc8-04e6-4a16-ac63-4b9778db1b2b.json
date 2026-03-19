@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "什么？？这个人用了一年的时间徒手画了一部电影？？",
+  "raw_content": "手绘动画致敬周星驰经典电影《唐伯虎点秋香》精彩片段大合集。总时长31分钟，手绘约2-3万帧。",
+  "source_url": "https://www.bilibili.com/video/BV1Dfw7z9EFF",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T13:07:43.349873+00:00",
+  "id": "ce547fc8-04e6-4a16-ac63-4b9778db1b2b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T13:08:16.901799+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 683573,
+    "platform": "bilibili"
+  }
+}
