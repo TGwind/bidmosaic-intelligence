@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Agnès Bénassy-Quéré: Speech - \"Research conference on climate- and nature-related risks in the economic and financial systems\"",
+  "raw_content": "Speech by Ms Agnès Bénassy-Quéré, Second Deputy Governor of the Bank of France, at the Research conference on climate- and nature-related risks in the economic and financial systems, Paris, 12 March 2026.",
+  "source_url": "https://www.bis.org/review/r260317b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-19T08:54:07.623094+00:00",
+  "id": "f4eb6a2d-68c2-47d1-9ee1-844090d001b5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

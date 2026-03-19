@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "零安装的\"云养虾\"：ArkClaw 使用指南",
+  "raw_content": "一、引言 大家这两天，有没有被\"龙虾\"（OpenClaw）刷屏？...",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/03/arkclaw.html",
+  "source_name": "阮一峰科技爱好者周刊",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-12T08:01:06+00:00",
+  "id": "01720315-6086-4959-902d-0afef45995bd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "china_tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
