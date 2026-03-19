@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "今年三伏天会很热吗",
+  "raw_content": "今年三伏天会很热吗",
+  "source_url": "https://www.toutiao.com/trending/7618729830037209130/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618729830037209130%22%2C%22hot_board_impr_id%22%3A%22202603191500199935AACDEDE723AC6F7B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BB%8A%E5%B9%B4%E4%B8%89%E4%BC%8F%E5%A4%A9%E4%BC%9A%E5%BE%88%E7%83%AD%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7618729830037209130",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T07:00:19.748100+00:00",
+  "id": "71a020b7-6ba3-489b-9c42-bf0417da10dd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T07:00:46.030342+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "54304292",
+    "platform": "toutiao"
+  }
+}

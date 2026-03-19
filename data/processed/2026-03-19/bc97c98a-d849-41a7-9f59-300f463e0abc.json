@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "7只狗狗被偷掉落高速 跋涉17公里返家",
+  "raw_content": "7只狗狗被偷掉落高速 跋涉17公里返家",
+  "source_url": "https://www.toutiao.com/trending/7618110786008662025/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618110786008662025%22%2C%22hot_board_impr_id%22%3A%22202603191500199935AACDEDE723AC6F7B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%227%E5%8F%AA%E7%8B%97%E7%8B%97%E8%A2%AB%E5%81%B7%E6%8E%89%E8%90%BD%E9%AB%98%E9%80%9F+%E8%B7%8B%E6%B6%8917%E5%85%AC%E9%87%8C%E8%BF%94%E5%AE%B6%22%7D&rank=&style_id=40132&topic_id=7618110786008662025",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T07:00:19.748137+00:00",
+  "id": "bc97c98a-d849-41a7-9f59-300f463e0abc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T07:00:46.034304+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "36401255",
+    "platform": "toutiao"
+  }
+}

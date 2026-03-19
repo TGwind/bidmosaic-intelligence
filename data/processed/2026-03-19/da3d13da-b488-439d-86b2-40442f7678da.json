@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "阳光，走了17万年才到你脸上，为什么？【B站AI创作大赛-开放赛道】",
+  "raw_content": "阳光，走了17万年才到你脸上，为什么？【B站AI创作大赛-开放赛道】",
+  "source_url": "https://www.bilibili.com/video/BV1SzwDz1EKt",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T07:00:20.327330+00:00",
+  "id": "da3d13da-b488-439d-86b2-40442f7678da",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T07:00:46.033993+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1985976,
+    "platform": "bilibili"
+  }
+}

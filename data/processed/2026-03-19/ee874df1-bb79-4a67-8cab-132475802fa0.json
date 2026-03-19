@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "小米超强钢获得国家级科技一等奖",
+  "raw_content": "小米超强钢获得国家级科技一等奖",
+  "source_url": "https://www.toutiao.com/trending/7618129522013847561/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618129522013847561%22%2C%22hot_board_impr_id%22%3A%22202603191500199935AACDEDE723AC6F7B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E7%B1%B3%E8%B6%85%E5%BC%BA%E9%92%A2%E8%8E%B7%E5%BE%97%E5%9B%BD%E5%AE%B6%E7%BA%A7%E7%A7%91%E6%8A%80%E4%B8%80%E7%AD%89%E5%A5%96%22%7D&rank=&style_id=40132&topic_id=7618129522013847561",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-19T07:00:19.748069+00:00",
+  "id": "ee874df1-bb79-4a67-8cab-132475802fa0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T07:00:46.034164+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "60015524",
+    "platform": "toutiao"
+  }
+}
