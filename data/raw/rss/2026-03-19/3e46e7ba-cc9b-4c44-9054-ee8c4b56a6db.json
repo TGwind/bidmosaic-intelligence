@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto.com cuts 12% of staff as it accelerates AI push",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto.com cuts 12% of staff as it accelerates AI push\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDA2MDItYzU4ZS03MzI5LTg3NzMtMDViOTA2M2JlNjIxLmpwZw==.jpg\" /></p><p>Crypto.com CEO Kris Marszalek announced a 12% workforce reduction due to AI integrations, warning that companies “that do not make this pivot immediately will fail.”</p>",
+  "source_url": "https://cointelegraph.com/news/crypto-com-cuts-staff-ai-pivot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T12:39:16+00:00",
+  "id": "3e46e7ba-cc9b-4c44-9054-ee8c4b56a6db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
