@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "OP_NET launches Bitcoin DeFi push without bridges or wrapped BTC",
+  "raw_content": "OP_NET has launched a “SlowFi” DeFi stack that runs smart contracts directly in standard Bitcoin transactions with BTC as the only gas asset, avoiding bridges and wrapped BTC.",
+  "source_url": "https://cointelegraph.com/news/opnet-brings-native-defi-to-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T13:00:23+00:00",
+  "id": "850559e5-ece1-4f73-953d-9c82a2aa2d25",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T13:25:09.530567+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

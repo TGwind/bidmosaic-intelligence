@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Arc expands into electric commercial and defense boats with $50M raise",
+  "raw_content": "The Los Angeles startup raised $50 million from Eclipse, a16z, Menlo Ventures, and others as it seeks to expand beyond sport boats.",
+  "source_url": "https://techcrunch.com/2026/03/19/arc-expands-into-electric-commercial-and-defense-boats-with-50m-raise/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-19T13:00:00+00:00",
+  "id": "b80c68f9-5c64-44f7-98c4-36df2e279784",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T13:25:09.541682+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

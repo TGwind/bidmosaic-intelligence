@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin ETF inflow streak snaps with $164M outflows amid BTC dip",
+  "raw_content": "US Bitcoin and altcoin ETFs saw notable outflows on Wednesday as BTC dipped below $71,000 and investor sentiment returned to extreme fear.",
+  "source_url": "https://cointelegraph.com/news/spot-bitcoin-etf-end-inflow-streak-164-million-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T12:22:02+00:00",
+  "id": "e6f122e5-a588-4eb6-b60a-d8ebc5a4fc8b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T13:25:09.548970+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

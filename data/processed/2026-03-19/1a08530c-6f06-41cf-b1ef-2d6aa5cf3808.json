@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Sabine Mauderer: Navigating climate risks in Southern Africa - the role of central banks",
+  "raw_content": "Speech by Dr Sabine Mauderer, First Deputy Governor of the Deutsche Bundesbank, at the South African Reserve Bank (SARB)-Network for Greening the Financial System (NGFS) Research Conference \"Navigating climate risks in Southern Africa\", hosted by the SARB, Pretoria, 11 March 2026.",
+  "source_url": "https://www.bis.org/review/r260317d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-19T13:23:01.058121+00:00",
+  "id": "1a08530c-6f06-41cf-b1ef-2d6aa5cf3808",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T13:25:09.429510+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
