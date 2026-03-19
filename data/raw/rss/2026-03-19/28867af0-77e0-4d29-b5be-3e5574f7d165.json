@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin falls under $71K but data shows BTC’s bullish momentum holding",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin falls under $71K but data shows BTC’s bullish momentum holding\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDAyN2YtZGZiOC03YjE1LTg3OGUtYmNhMGM3MDBjOGE1LmpwZw==.jpg\" /></p><p>Bitcoin dropped below $71,000, but the market’s tilt toward bulls holds as spot ETF inflows and BTC buying from Strategy boost investor sentiment.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-falls-under-71k-but-data-shows-btc-s-bullish-momentum-holding?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-18T23:23:32+00:00",
+  "id": "28867af0-77e0-4d29-b5be-3e5574f7d165",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
