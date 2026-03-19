@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日法将共享卫星数据，在太空防务领域合作",
+  "raw_content": "2026/03/19 日本和法国将加强在太空防务领域的合作。法国军方太空司令部将接收来自日本航空自卫队的人员，并把共享卫星数据纳入合作视野。太空防务方面，美军处于领先地位，在打击伊朗行动中也显示出存在感。日法将强化应对通信干扰等行为的体制。 法国航空航天军太空司令部司令文森特·舒索于3月中旬访日，并与日本防卫省、自卫队高层以及航空自卫队宇宙作战群协商今后的合作计划。 舒索在访日前向《日本经济新闻》表示，设想的合作内容包括“共享双边卫星数据、军事行动以及联合演习等”。他还评价称：“日本在太空防务领域正迅速增强实力，技术能力也很扎实”。 法国航空航天军目前运用军用侦察卫星和通信卫星。日本防卫省也在运用3颗用于指挥控制等任务的X波段防卫通信卫星。双方将共享各自卫星在轨道上收集到的地面、海上态势以及有关敌对卫星的信息，以帮助规避通信干扰等风险。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61826-2026-03-19-08-06-12.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-19T01:08:03+00:00",
+  "id": "e9630098-ff4f-44b0-bce8-434201f8d354",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-19T02:52:57.991748+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
