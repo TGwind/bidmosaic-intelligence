@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "油价上涨 卫生巾纸尿裤价格或受影响",
+  "raw_content": "油价上涨 卫生巾纸尿裤价格或受影响",
+  "source_url": "https://www.toutiao.com/trending/7618512019314475059/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618512019314475059%22%2C%22hot_board_impr_id%22%3A%222026032021021458278AF065DF9452B564%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8+%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%BA%B8%E5%B0%BF%E8%A3%A4%E4%BB%B7%E6%A0%BC%E6%88%96%E5%8F%97%E5%BD%B1%E5%93%8D%22%7D&rank=&style_id=40132&topic_id=7618512019314475059",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T13:02:14.519032+00:00",
+  "id": "f8dccd25-7ed2-4202-ad8f-2367662d5b34",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T13:02:47.239137+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "24149190",
+    "platform": "toutiao"
+  }
+}

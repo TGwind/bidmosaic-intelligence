@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "战况不利开始摇人？特朗普欲组万国护航联盟",
-  "raw_content": "战况不利开始摇人？特朗普欲组万国护航联盟",
-  "source_url": "https://www.bilibili.com/video/BV1mCwXzDEKM",
+  "raw_title": "楚 门 下 播",
+  "raw_content": "楚门秀下播事件始末。",
+  "source_url": "https://www.bilibili.com/video/BV1vRwYzrE9s",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-20T06:57:47.064341+00:00",
-  "id": "15e8bddd-977e-4490-bf9e-c0ea6ef0d197",
+  "collected_at": "2026-03-20T13:02:15.429600+00:00",
+  "id": "1eefdb66-20c0-4c84-9608-9003dc78231e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-20T13:02:47.213311+00:00",
+  "processed_at": "2026-03-20T13:02:47.219160+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2249878,
+    "hot_score": 2424238,
     "platform": "bilibili"
   }
 }
