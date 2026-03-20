@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin vs gold shows potential bottom signals as BTC bulls defend $70K",
+  "raw_content": "Technical indicators hint at a possible reversal in BTC’s relative performance, as traders watch whether key support levels can hold.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-vs-gold-flashes-multiple-bottom-signals-btc-bulls-defend-70k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-20T10:38:42+00:00",
+  "id": "ca726c37-a06d-42b2-ac04-1a19833c674c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T13:17:01.394473+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

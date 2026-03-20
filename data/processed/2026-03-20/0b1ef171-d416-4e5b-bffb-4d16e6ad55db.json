@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Access Controlled Website Interaction for Agentic AI with Delegated Critical Tasks",
+  "raw_content": "arXiv:2603.18197v1 Announce Type: new Abstract: Recent studies reveal gaps in delegating critical tasks to agentic AI that accesses websites on the user's behalf, primarily due to limited access control mechanisms on websites designed for agentic AI. In response, we propose a design of website-based interaction for AI agents with fine-grained access control for delegated critical tasks. Our approach encompasses a website design and implementation, as well as modifications to the access grant protocols in an open-source authorization service to tailor it to agentic AI, with delegated critical tasks on the website. The evaluation of our approach demonstrates the capabilities of our access-controlled website used by AI agents.",
+  "source_url": "https://arxiv.org/abs/2603.18197",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-20T04:00:00+00:00",
+  "id": "0b1ef171-d416-4e5b-bffb-4d16e6ad55db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T13:17:01.251037+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

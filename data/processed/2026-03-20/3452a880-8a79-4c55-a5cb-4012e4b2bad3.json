@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "澳大利亚稀土巨头莱纳斯成功分离钐",
+  "raw_content": "2026/03/20 澳大利亚稀土巨头莱纳斯稀土公司3月19日宣布，已首次成功分离重稀土元素钐。这意味着摆脱对迄今几乎掌握全部供应的中国的依赖，取得了进展。 该公司在位于马来西亚的工厂成功实现了分离。首席执行官阿曼达·拉卡泽斯在声明中表示，“这是一个非常重要的里程碑”。原本计划于4月开始生产，但此次提前实现了目标。 钐是高性能钐钴磁体的原料。由于能够耐受300摄氏度以上的高温，因此在战斗机、导弹制导系统，以及核反应堆和航天产业等领域都不可或缺。与之同样使用稀土的钕磁体，耐热温度则仅在约80摄氏度左右。 由于对中国依赖度很高，美国地质调查局（USGS）将其视为供应风险最高的关键矿产。",
+  "source_url": "http://cn.nikkei.com/industry/manufacturing/61853-2026-03-20-11-13-55.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-20T03:38:02+00:00",
+  "id": "3452a880-8a79-4c55-a5cb-4012e4b2bad3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T13:17:01.321869+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
