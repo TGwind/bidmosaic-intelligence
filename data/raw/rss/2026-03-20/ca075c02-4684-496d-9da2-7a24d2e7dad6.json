@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普拥抱迎接高市，在融洽气氛中会谈",
+  "raw_content": "<div>2026/03/20</div><div id=\"contentDiv\">\n<div></div>\n<p><span><img height=\"375\" src=\"https://feedx.net/images/2026/03/0320/0320-02-L-reuters.jpg\" width=\"600\" /><strong>日美首脑在融洽气氛中会谈（19日，华盛顿，reuters）</strong></span></div>\n<div>          </div>\n<div>       日本首相高市早苗于3月19日（北京时间20日凌晨）抵达华盛顿的白宫时，与前来迎接的美国总统特朗普进行了拥抱。美国白宫的官方X（原推特）发布了两位首脑见面的视频。</div>\n<div> </div>\n<div>       特朗普在会谈开场提到了2月自民党在众议院选举中大获全胜。他称赞道：“这是一场历史性的选举大胜，与我有共同之处。她是一位受欢迎的女性，非常了不起”。此前略显紧张的高市神情随之放松，会谈在良好氛围中开始。</div>\n<div> </div>\n<div>       高市用英语表示：“唐纳德，感谢你邀请我来到白宫”。当中途高市的英语表达出现卡顿时，特朗普立刻体贴地说：“有翻译在，可以用日语说”。</div>\n<div> </div>\n<div>       当两位首脑的开场发言结束、进入日美媒体问答环节时，特朗普在回答提问的过程中询问高市：“没有翻译也没问题吗”。高市点头回应。</div>\n<div> </div>\n<div>       关于事实上被封锁的中东霍尔木兹海峡的应对问题，特朗普表示：“日本和北大西洋公约组织（NATO）不同”，日本方面的与会人员纷纷露出安心的神情。</div>\n<div> </div>\n<div>       高市注视着正在应对媒体的特朗普，一边不时点头，一边认真聆听其回答。</div>\n<div> </div>\n<div>       <strong>日本经济新闻（中文版：日经中文网）三木理惠子 华盛顿</strong></div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61844-2026-03-20-08-53-15.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-20T01:08:04+00:00",
+  "id": "ca075c02-4684-496d-9da2-7a24d2e7dad6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "As crypto trading platforms race to deploy AI agents, here's what a Nasdaq executive is seeing",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/19/crypto-trading-platforms-race-to-deploy-ai-agents-job-losses-to-artificial-intelligence-will-continue-to-mount",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T16:16:26+00:00",
+  "id": "0db37cd5-4481-4281-a323-b241d26a6478",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Using Simulation to Build Robotic Systems for Hospital Automation",
+  "raw_content": "<img alt=\"PeritasAI trains a DexMate Humanoid Robot at Advent Health hospital for sterilizing tools at a nursing station\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/image1-copy-768x432.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" title=\"Using Simulation to Build Robotic Systems for Hospital Automation\" width=\"768\" />Healthcare faces a structural demand–capacity crisis: a projected global shortfall of ~10 million clinicians by 2030, billions of diagnostic exams annually...",
+  "source_url": "https://developer.nvidia.com/blog/using-simulation-to-build-robotic-systems-for-hospital-automation/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-16T22:00:00+00:00",
+  "id": "fd7d9e48-671d-4e73-a544-32db9adadb6e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}
