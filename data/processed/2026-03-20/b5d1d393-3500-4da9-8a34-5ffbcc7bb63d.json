@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "8岁女孩跟着爸爸户外吹唢呐",
+  "raw_content": "8岁女孩跟着爸爸户外吹唢呐",
+  "source_url": "https://www.toutiao.com/trending/7618027157529133110/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227618027157529133110%22%2C%22hot_board_impr_id%22%3A%22202603201010094A56141230F95649B256%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%228%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%B7%9F%E7%9D%80%E7%88%B8%E7%88%B8%E6%88%B7%E5%A4%96%E5%90%B9%E5%94%A2%E5%91%90%22%7D&rank=&style_id=40132&topic_id=7618027157529133110",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T02:10:10.086497+00:00",
+  "id": "b5d1d393-3500-4da9-8a34-5ffbcc7bb63d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T02:10:39.597758+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20120034",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "雪山救狐狸，但是有100万个农夫",
+  "raw_content": "雪山救狐狸，但是有100万个农夫",
+  "source_url": "https://www.bilibili.com/video/BV1kQwjzzEo7",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T02:10:10.921843+00:00",
+  "id": "8d3f6f6d-6cb3-459c-8433-d751b77c29c3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T02:10:39.597971+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4302054,
+    "platform": "bilibili"
+  }
+}

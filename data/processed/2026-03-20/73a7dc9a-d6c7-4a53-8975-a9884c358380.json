@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "非遗体验引领文旅新风尚",
+  "raw_content": "非遗体验引领文旅新风尚",
+  "source_url": "https://www.toutiao.com/article/7618842903960224271",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T02:10:10.086441+00:00",
+  "id": "73a7dc9a-d6c7-4a53-8975-a9884c358380",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T02:10:39.592546+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "36661093",
+    "platform": "toutiao"
+  }
+}
