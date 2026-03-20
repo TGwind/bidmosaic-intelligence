@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Korea tax agency seeks private crypto custodian after security lapses",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea tax agency seeks private crypto custodian after security lapses\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5Yzc1YWEtZjQwOS03ZDI3LTlmOWQtYTViZjBhNjI1NGFhLmpwZw==.jpg\" /></p><p>South Korea’s tax agency is seeking a private custodian for seized crypto after a wallet seed phrase leak exposed government-held assets.</p>",
+  "source_url": "https://cointelegraph.com/news/south-korea-tax-agency-private-crypto-custody-seed-phrase-leak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-20T10:47:45+00:00",
+  "id": "f9b61f04-50d7-41f7-afb6-f6a4bd4f0cac",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

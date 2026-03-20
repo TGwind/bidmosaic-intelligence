@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Iran war volatility is driving oil trading boom on Hyperliquid, says JPMorgan",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/20/iran-war-volatility-is-driving-oil-trading-boom-on-hyperliquid-says-jpmorgan",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-20T12:45:45+00:00",
+  "id": "403d6e15-cc68-423d-a843-40907438ab04",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

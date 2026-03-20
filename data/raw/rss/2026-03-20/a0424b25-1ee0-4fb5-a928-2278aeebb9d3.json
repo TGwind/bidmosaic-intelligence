@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Quantum risk real, but not all crypto wallets equally vulnerable: Galaxy",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Quantum risk real, but not all crypto wallets equally vulnerable: Galaxy\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzFjOWEtZDg0NC03ZDdlLWE5NGMtYzU5MTRiMDdkZDQxLmpwZw==.jpg\" /></p><p>Galaxy Digital’s Will Owens says most crypto wallets aren’t exposed to quantum risks, with vulnerabilities limited to cases where public keys are revealed.</p>",
+  "source_url": "https://cointelegraph.com/news/quantum-risk-bitcoin-wallets-not-all-vulnerable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-20T06:27:16+00:00",
+  "id": "a0424b25-1ee0-4fb5-a928-2278aeebb9d3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

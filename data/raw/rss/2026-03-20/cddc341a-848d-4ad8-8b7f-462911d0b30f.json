@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
+  "raw_content": "Setting up AI factories in simulation — decreasing deployment time from months to days — is  accelerating the next industrial revolution.  Nowhere was that more apparent than at GTC 2026, in San Jose, where NVIDIA founder and CEO Jensen Huang introduced NVIDIA DSX Air. Part of NVIDIA DSX Sim in the DSX platform, NVIDIA’s blueprint [&#8230;]",
+  "source_url": "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-16T20:00:48+00:00",
+  "id": "cddc341a-848d-4ad8-8b7f-462911d0b30f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

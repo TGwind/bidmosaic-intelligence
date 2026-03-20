@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Learned but Not Expressed: Capability-Expression Dissociation in Large Language Models",
+  "raw_content": "arXiv:2603.18013v1 Announce Type: new \nAbstract: Large language models (LLMs) demonstrate the capacity to reconstruct and trace learned content from their training data under specific elicitation conditions, yet this capability does not manifest in standard generation contexts. This empirical observational study examines the expression of non-causal, non-implementable solution types across 300 prompt-response generations spanning narrative and problem-solving task contexts. Drawing on recent findings regarding memorization contiguity and alignment-induced discourse priors, we document a systematic dissociation between learned capability and expressed output. Across three distinct LLMs, ten task scenarios, and both creative narrative and practical advisory contexts, we documented zero instances of non-causal solution frames in generated outputs (0%, 95% CI: [0%, 1.2%]), despite verified reconstruction capability under conditional extraction. These findings challenge the prevailing assumption that training data presence directly predicts output probability, demonstrating instead that task-conditioned generation policies can comprehensively suppress learned content across diverse contexts. The results offer implications for understanding generation dynamics, output distribution control, and the behavioral boundaries of contemporary LLMs.",
+  "source_url": "https://arxiv.org/abs/2603.18013",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-20T04:00:00+00:00",
+  "id": "be2b0015-2566-41d8-8e29-cae287fb7ce0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
