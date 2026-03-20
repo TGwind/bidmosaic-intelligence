@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin whale holding $147M wakes after 13 years, makes tiny $56 transfer",
+  "raw_content": "A Bitcoin wallet inactive since 2012 has moved $56 worth of BTC, spotlighting a stash now valued at roughly $147 million after more than 13 years dormant.",
+  "source_url": "https://cointelegraph.com/news/dormant-bitcoin-wallet-wakes-up-after-13-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-20T13:40:27+00:00",
+  "id": "2fb0f092-4fb3-4ab8-af2a-1927a66e0cf0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T16:55:54.299973+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
