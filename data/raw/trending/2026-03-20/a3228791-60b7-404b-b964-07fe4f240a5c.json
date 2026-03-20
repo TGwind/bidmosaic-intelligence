@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "真是一场酣畅淋漓的相亲",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1hiwXzxEfe",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T02:10:10.921807+00:00",
+  "id": "a3228791-60b7-404b-b964-07fe4f240a5c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5689690,
+    "platform": "bilibili"
+  }
+}

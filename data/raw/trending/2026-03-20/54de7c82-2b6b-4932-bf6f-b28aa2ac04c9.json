@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "楚 门 下 播",
+  "raw_content": "楚门秀下播事件始末。",
+  "source_url": "https://www.bilibili.com/video/BV1vRwYzrE9s",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T02:10:10.921860+00:00",
+  "id": "54de7c82-2b6b-4932-bf6f-b28aa2ac04c9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2032550,
+    "platform": "bilibili"
+  }
+}
