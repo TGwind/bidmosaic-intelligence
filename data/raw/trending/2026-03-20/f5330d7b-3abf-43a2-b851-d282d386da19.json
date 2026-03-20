@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "在性产业“合法”的地方，我们看到了...",
+  "raw_content": "在绝大多数地方，性产业一直是法律的红线，如果它被贴上了“合法”的标签，又会发生什么？\n*本期内容不建议18岁以下未成年人观看。",
+  "source_url": "https://www.bilibili.com/video/BV1k9wDzKEvS",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T13:02:15.429545+00:00",
+  "id": "f5330d7b-3abf-43a2-b851-d282d386da19",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5695359,
+    "platform": "bilibili"
+  }
+}
