@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Jorgovanka Tabakovi&#263;: Industrial policy supporting Serbia's long-term economic growth",
+  "raw_content": "Speech by Dr Jorgovanka Tabakovi&#263;, Governor of the National Bank of Serbia, at the 33rd Kopaonik Business Forum, Kopaonik, 2 March 2026.",
+  "source_url": "https://www.bis.org/review/r260309f.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-20T05:18:27.251067+00:00",
+  "id": "82cad82a-ba5d-40c5-b571-c0b2350e32ba",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
