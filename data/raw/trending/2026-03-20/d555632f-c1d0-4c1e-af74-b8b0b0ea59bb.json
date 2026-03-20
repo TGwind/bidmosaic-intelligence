@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《举手之牢》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1PrwZztEG5",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T06:57:47.064358+00:00",
+  "id": "d555632f-c1d0-4c1e-af74-b8b0b0ea59bb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2966545,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "第一次见家长需要注意什么",
+  "raw_content": "纯爱战士最喜欢的一集",
+  "source_url": "https://www.bilibili.com/video/BV1mmwRzdEbs",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T06:57:47.064349+00:00",
+  "id": "4960ce57-82cc-423d-9300-a2d36d38315b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4171112,
+    "platform": "bilibili"
+  }
+}
