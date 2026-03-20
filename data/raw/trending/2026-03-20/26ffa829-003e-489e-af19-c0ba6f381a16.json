@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "乡村振兴 连点成片",
+  "raw_content": "乡村振兴 连点成片",
+  "source_url": "https://www.toutiao.com/article/7619140371540476459",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-20T18:52:43.068106+00:00",
+  "id": "26ffa829-003e-489e-af19-c0ba6f381a16",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "37408754",
+    "platform": "toutiao"
+  }
+}
