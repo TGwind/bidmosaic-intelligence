@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Mapping Google's Unmappable City",
+  "raw_content": "How filmmaker Chris Parr put North Oaks, Minnesota on the map.",
+  "source_url": "https://www.404media.co/mapping-googles-unmappable-city/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-19T13:28:55+00:00",
+  "id": "cb4a9039-30ac-4485-abd3-e1f92f7a4bf9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T02:44:48.367386+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

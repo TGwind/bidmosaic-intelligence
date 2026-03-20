@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Market maker IMC Trading hires Alex Casimo as chief commercial officer for its crypto business",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/19/market-maker-imc-trading-hires-alex-casimo-as-chief-commercial-officer-for-its-crypto-business",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T18:34:40+00:00",
+  "id": "244b8982-4ed6-4cfd-8d14-544aa4771f97",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T02:44:48.265000+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "SOL treasury Forward industries buys back shares using crypto-backed debt",
+  "raw_content": "The company is leveraging its crypto treasury to fund a share buyback, reducing outstanding shares and potentially boosting per-share value following a six-month slide.",
+  "source_url": "https://cointelegraph.com/news/forward-industries-solana-loan-share-buyback-galaxy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T21:36:32+00:00",
+  "id": "128e0bd9-42ac-409d-8b86-5c04655c47b2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T02:44:48.249652+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
