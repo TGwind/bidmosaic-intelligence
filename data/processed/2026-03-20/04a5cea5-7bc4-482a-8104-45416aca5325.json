@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Solana DApps revenue falls to 18-month low as SOL price risks $80 retest",
+  "raw_content": "Weakening onchain activity and bearish derivatives data suggest that a SOL price recovery will take longer than most investors anticipate.",
+  "source_url": "https://cointelegraph.com/news/solana-dapps-revenue-falls-to-18-month-low-as-sol-price-risks-80-retest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-20T02:44:43+00:00",
+  "id": "04a5cea5-7bc4-482a-8104-45416aca5325",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T05:19:10.365928+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

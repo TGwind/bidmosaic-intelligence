@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Build an AI-Powered A/B testing engine using Amazon Bedrock",
+  "raw_content": "This post shows you how to build an AI-powered A/B testing engine using&nbsp;Amazon Bedrock,&nbsp;Amazon Elastic Container Service,&nbsp;Amazon DynamoDB, and the Model Context Protocol (MCP). The system improves traditional A/B testing by analyzing user context&nbsp; to make smarter variant assignment decisions during the experiment.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-a-b-testing-engine-using-amazon-bedrock/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-18T15:31:40+00:00",
+  "id": "c75fdbe6-8ab7-44f4-b700-eb3c84418307",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T05:19:10.522259+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

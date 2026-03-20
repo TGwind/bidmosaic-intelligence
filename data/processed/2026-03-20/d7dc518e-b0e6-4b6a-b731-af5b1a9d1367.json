@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How Confident Is the First Token? An Uncertainty-Calibrated Prompt Optimization Framework for Large Language Model Classification and Understanding",
+  "raw_content": "arXiv:2603.18009v1 Announce Type: new Abstract: With the widespread adoption of large language models (LLMs) in natural language processing, prompt engineering and retrieval-augmented generation (RAG) have become mainstream to enhance LLMs' performance on complex tasks. However, LLMs generate outputs autoregressively, leading to inevitable output uncertainty. Since model performance is highly sensitive to prompt design, precise uncertainty measurement is crucial for reliable prompt optimization. For multi-class multiple-choice (understanding) tasks, conventional uncertainty measures (e.g., entropy) based on output probabilities treat all classes equally and ignore class prior differences in pretraining corpora. This failure to distinguish spurious confidence (from priors) from true certainty (from contextual understanding) results in poor confidence calibration. To address this, we propose Log-Scale Focal Uncertainty (LSFU), a first-token-based metric inspired by focal loss. LSFU incorporates label prior probabilities as a risk-modulation factor to suppress noise from high-frequency classes and emphasize risk for low-frequency long-tail classes, with a dynamic weighting mechanism unifying the measurement scale. Based on LSFU, we further propose the uncertainty-calibrated prompt optimization framework (UCPOF), which leverages the first token of model outputs to select high-quality exemplars and dynamically optimize prompts. Comprehensive evaluations show UCPOF improves average accuracy by 6.03% over few-shot baselines, surpasses always-on full RAG by 5.75% in overall average accuracy, and reduces the average retrieval trigger rate by 50.66%. By adaptively triggering RAG only for high-uncertainty samples, our framework significantly lowers computational costs while maintaining state-of-the-art performance.",
+  "source_url": "https://arxiv.org/abs/2603.18009",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-20T04:00:00+00:00",
+  "id": "d7dc518e-b0e6-4b6a-b731-af5b1a9d1367",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T05:19:10.528786+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

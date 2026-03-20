@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Gemini shares surge 6% after hours on Q4 earnings",
+  "raw_content": "Gemini reported its fourth quarter revenues were $60.3 million, which co-founders Cameron and Tyler Winklevoss say is its highest quarterly revenue in three years.",
+  "source_url": "https://cointelegraph.com/news/gemini-shares-up-after-hours-on-q4-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-20T04:15:03+00:00",
+  "id": "32c94257-9a53-4331-bf70-6d6bce868f9c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T05:19:10.429506+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

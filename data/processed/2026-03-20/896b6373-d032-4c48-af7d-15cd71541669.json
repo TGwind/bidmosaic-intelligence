@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "BPI sounds alarm on 'backdoor' for hardware wallets in Kentucky crypto bill",
+  "raw_content": "Provisions in the state legislation violate the core ethos and value proposition of Bitcoin as an asset that can be held in self-custody, the trade group said.",
+  "source_url": "https://cointelegraph.com/news/bpi-backdoor-hardware-wallets-kentucky-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T21:46:49+00:00",
+  "id": "896b6373-d032-4c48-af7d-15cd71541669",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T05:19:10.497296+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

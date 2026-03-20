@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Quadruple witching arrives tomorrow as markets brace for potential bitcoin volatility",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/10/quadruple-witching-arrives-tomorrow-as-markets-brace-for-potential-bitcoin-volatility",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-19T16:40:01+00:00",
+  "id": "16dafe5d-2c17-47a7-8342-10c49b5f0f8d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-20T05:19:10.399880+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
