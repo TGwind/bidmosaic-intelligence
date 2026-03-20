@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Amazon working on new smartphone with Alexa at its core, report says",
+  "raw_content": "The device is being developed by the company's Devices and Services division, and it would feature personalized features aimed at making it easier to use Amazon's suite of apps, including Amazon shopping, Prime Video, and Prime Music, according to Reuters.",
+  "source_url": "https://techcrunch.com/2026/03/20/amazon-working-on-new-smartphone-with-alexa-at-its-core-report-says/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-20T14:51:30+00:00",
+  "id": "6fe221a1-8d63-48a4-bf18-27b725bbf953",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

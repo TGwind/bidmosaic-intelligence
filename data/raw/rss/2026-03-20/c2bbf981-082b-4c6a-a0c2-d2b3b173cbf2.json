@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A Computationally Efficient Learning of Artificial Intelligence System Reliability Considering Error Propagation",
+  "raw_content": "arXiv:2603.18201v1 Announce Type: new \nAbstract: Artificial Intelligence (AI) systems are increasingly prominent in emerging smart cities, yet their reliability remains a critical concern. These systems typically operate through a sequence of interconnected functional stages, where upstream errors may propagate to downstream stages, ultimately affecting overall system reliability. Quantifying such error propagation is essential for accurate modeling of AI system reliability. However, this task is challenging due to: i) data availability: real-world AI system reliability data are often scarce and constrained by privacy concerns; ii) model validity: recurring error events across sequential stages are interdependent, violating the independence assumptions of statistical inference; and iii) computational complexity: AI systems process large volumes of high-speed data, resulting in frequent and complex recurrent error events that are difficult to track and analyze. To address these challenges, this paper leverages a physics-based autonomous vehicle simulation platform with a justifiable error injector to generate high-quality data for AI system reliability analysis. Building on this data, a new reliability modeling framework is developed to explicitly characterize error propagation across stages. Model parameters are estimated using a computationally efficient, theoretically guaranteed composite likelihood expectation - maximization algorithm. Its application to the reliability modeling for autonomous vehicle perception systems demonstrates its predictive accuracy and computational efficiency.",
+  "source_url": "https://arxiv.org/abs/2603.18201",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-20T04:00:00+00:00",
+  "id": "c2bbf981-082b-4c6a-a0c2-d2b3b173cbf2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

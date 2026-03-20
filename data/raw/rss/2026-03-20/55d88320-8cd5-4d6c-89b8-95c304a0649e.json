@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ripple data reveals stablecoins are becoming the go-to tool for corporate treasury",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/20/ripple-s-survey-shows-banks-fintechs-and-corporates-are-all-in-on-digital-assets-prioritizing-stablecoins-and-custody",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-20T08:48:22+00:00",
+  "id": "55d88320-8cd5-4d6c-89b8-95c304a0649e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
