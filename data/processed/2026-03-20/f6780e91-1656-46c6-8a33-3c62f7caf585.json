@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《举手之牢》",
+  "raw_title": "“子弹要飞多久 才能变成和平的白鸽”",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1PrwZztEG5",
+  "source_url": "https://www.bilibili.com/video/BV1PbwQzGErf",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-20T13:02:15.429633+00:00",
-  "id": "1888c234-6197-4eb8-8236-55c3795e1aba",
+  "collected_at": "2026-03-20T18:52:43.907037+00:00",
+  "id": "f6780e91-1656-46c6-8a33-3c62f7caf585",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-20T18:53:13.551302+00:00",
+  "processed_at": "2026-03-20T18:53:13.581401+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3345205,
+    "hot_score": 1604256,
     "platform": "bilibili"
   }
 }

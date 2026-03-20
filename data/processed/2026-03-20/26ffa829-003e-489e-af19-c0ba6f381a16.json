@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "非遗体验引领文旅新风尚",
-  "raw_content": "非遗体验引领文旅新风尚",
-  "source_url": "https://www.toutiao.com/article/7618842903960224271",
+  "raw_title": "乡村振兴 连点成片",
+  "raw_content": "乡村振兴 连点成片",
+  "source_url": "https://www.toutiao.com/article/7619140371540476459",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-20T02:10:10.086441+00:00",
-  "id": "73a7dc9a-d6c7-4a53-8975-a9884c358380",
+  "collected_at": "2026-03-20T18:52:43.068106+00:00",
+  "id": "26ffa829-003e-489e-af19-c0ba6f381a16",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-20T18:53:13.563522+00:00",
+  "processed_at": "2026-03-20T18:53:13.552737+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "36661093",
+    "hot_score": "37408754",
     "platform": "toutiao"
   }
 }
