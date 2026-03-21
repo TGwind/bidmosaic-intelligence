@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Do Large Language Models Possess a Theory of Mind? A Comparative Evaluation Using the Strange Stories Paradigm",
+  "raw_content": "arXiv:2603.18007v1 Announce Type: new \nAbstract: The study explores whether current Large Language Models (LLMs) exhibit Theory of Mind (ToM) capabilities -- specifically, the ability to infer others' beliefs, intentions, and emotions from text. Given that LLMs are trained on language data without social embodiment or access to other manifestations of mental representations, their apparent social-cognitive reasoning raises key questions about the nature of their understanding. Are they capable of robust mental-state attribution indistinguishable from human ability in its output, or do their outputs merely reflect superficial pattern completion? To address this question, we tested five LLMs and compared their performance to that of human controls using an adapted version of a text-based tool widely used in human ToM research. The test involves answering questions about the beliefs, intentions, and emotions of story characters. The results revealed a performance gap between the models. Earlier and smaller models were strongly affected by the number of relevant inferential cues available and, to some extent, were also vulnerable to the presence of irrelevant or distracting information in the texts. In contrast, GPT-4o demonstrated high accuracy and strong robustness, performing comparably to humans even in the most challenging conditions. This work contributes to ongoing debates about the cognitive status of LLMs and the boundary between genuine understanding and statistical approximation.",
+  "source_url": "https://arxiv.org/abs/2603.18007",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-20T04:00:00+00:00",
+  "id": "a54b8eb9-ddad-40cd-86c0-919a51ff7802",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
