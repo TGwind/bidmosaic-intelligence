@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "美国发表日美首脑会谈成果文件：台海和平与稳定不可或缺",
+  "raw_content": "<div>2026/03/20</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"400\" src=\"https://feedx.net/images/2026/03/0320/0320-WZ-05-L-reuters.jpg\" width=\"600\" />\n\n\n<strong><span>日本首相高市早苗与美国总统特朗普在晚宴上（3月19日，华盛顿，Reuters）</span></strong>\n\n\n\n<div> </div>\n<div>      美国白宫3月19日以文件形式公布了日美首脑会谈成果。文件写道，日本首相高市早苗与美国总统特朗普在当天会谈中一致认为，“台湾海峡的和平与稳定是地区安全保障和世界繁荣不可或缺的要素”。</div>\n<div>  </div>\n<div>      文件还写入了“反对试图以武力或胁迫等方式单方面改变现状”的表述。特朗普与高市曾于2025年10月在东京举行会谈，但当时美国政府并未就台湾问题发出明确表态。</div>\n<div>  </div>\n<div>      此次成果文件中围绕台湾问题的措辞，基本沿用了2025年2月特朗普与时任日本首相石破茂会谈时所发表联合声明的表述。</div>\n<div></div>\n<div>  <strong>日本经济新闻（中文版：日经中文网）飞田临太郎</strong></div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61855-2026-03-20-12-57-16.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-20T05:08:02+00:00",
+  "id": "cdf93d43-36f2-4377-8e77-deea67f0d36b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
+  "raw_content": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and even user harm. As LLMs serve as sources of guidance, emotional support, and even informal therapy, these risks are poised to escalate. However, studying the mechanisms underlying harmful human-AI interactions presents significant methodological challenges, where organic harmful interactions typically develop over sustained engagement, requiring extensive conversational context that are difficult to simulate in controlled settings. To address this gap, we developed a Multi-Trait Subspace Steering (MultiTraitsss) framework that leverages established crisis-associated traits and novel subspace steering framework to generate Dark models that exhibits cumulative harmful behavioral patterns. Single-turn and multi-turn evaluations show that our dark models consistently produce harmful interaction and outcomes. Using our Dark models, we propose protective measure to reduce harmful outcomes in Human-AI interactions.",
+  "source_url": "https://arxiv.org/abs/2603.18085",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-21T04:00:00+00:00",
+  "id": "78a963ab-d57e-405d-b9c5-12fe585fced0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
