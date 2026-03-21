@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "为什么大厂都盯上了Token生意？",
+  "raw_content": "<img src=\"https://img.huxiucdn.com/article/cover/202603/18/221421016086.jpg\" />\n<p>最近关注养虾的朋友，应该都熟悉了一个词：Token。它是AI处理信息的最小语义单位，你可以理解为给Agent发的工资。在中文世界里，生成100个汉字大概要消耗130~150个Token。</p><p><a href=\"http://huxiu.link/ulxE\"><strong>下载虎嗅APP</strong></a>，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动</p>",
+  "source_url": "http://www.huxiu.com/article/4843210.html?f=wangzhan",
+  "source_name": "虎嗅网",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-19T02:40:00+00:00",
+  "id": "69bca921-1410-4594-afa5-933bf0adc24f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.huxiu.com/rss/0.xml",
+    "category": "china_tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
