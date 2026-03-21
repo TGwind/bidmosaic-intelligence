@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "“子弹要飞多久 才能变成和平的白鸽”",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1PbwQzGErf",
+  "raw_title": "⚡对 对 子 战 神⚡",
+  "raw_content": "BGM：UwU Funk",
+  "source_url": "https://www.bilibili.com/video/BV1bXAJz8EYC",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-21T06:46:19.072280+00:00",
-  "id": "1d00ec13-acc0-4892-9981-b7728550bf95",
+  "collected_at": "2026-03-21T12:52:23.114800+00:00",
+  "id": "6a470c90-def4-47b5-b249-599c60a831ef",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-21T12:52:56.467387+00:00",
+  "processed_at": "2026-03-21T12:52:56.479654+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2491951,
+    "hot_score": 5700701,
     "platform": "bilibili"
   }
 }

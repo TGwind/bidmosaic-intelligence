@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "女儿相中599元的鞋 母亲纠结后买下",
+  "raw_content": "女儿相中599元的鞋 母亲纠结后买下",
+  "source_url": "https://www.toutiao.com/trending/7619247982893940742/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227619247982893940742%22%2C%22hot_board_impr_id%22%3A%2220260321205221A222F8F796836E7ABD85%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%84%BF%E7%9B%B8%E4%B8%AD599%E5%85%83%E7%9A%84%E9%9E%8B+%E6%AF%8D%E4%BA%B2%E7%BA%A0%E7%BB%93%E5%90%8E%E4%B9%B0%E4%B8%8B%22%7D&rank=&style_id=40132&topic_id=7619247982893940742",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-21T12:52:22.206546+00:00",
+  "id": "5684eadc-b9e9-47fc-9726-6d758a456f5c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-21T12:52:56.472436+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10855434",
+    "platform": "toutiao"
+  }
+}
