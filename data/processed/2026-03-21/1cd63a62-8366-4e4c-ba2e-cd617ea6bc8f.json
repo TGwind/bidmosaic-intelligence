@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy set for second-biggest bitcoin buying quarter despite BTC price slide",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/21/strategy-set-for-second-biggest-bitcoin-buying-quarter-despite-btc-price-slide",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-21T14:00:00+00:00",
+  "id": "1cd63a62-8366-4e4c-ba2e-cd617ea6bc8f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-21T16:39:53.013490+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
