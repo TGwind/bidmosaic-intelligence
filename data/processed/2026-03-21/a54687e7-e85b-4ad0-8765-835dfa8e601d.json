@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Russian Intelligence Services Target Commercial Messaging Application Accounts",
+  "raw_content": "CISA and the Federal Bureau of Investigation released a Public Service Announcement (PSA) warning about ongoing phishing campaigns by cyber actors associated with the Russian Intelligence Services targeting commercial messaging applications (CMAs). These campaigns aim to bypass encryption to compromise to individual user accounts with targets including current and former U.S. government officials, military personnel, political figures, and journalists.&nbsp;&nbsp; Evidence shows that cyber actors have been able to compromise individual CMA accounts, but not encryption of the applications themselves. The actors’ global campaigns have resulted in unauthorized access to thousands of individual CMA accounts to view the victims’ messages and contact lists, send messages, and conduct additional phishing against other CMA accounts. &nbsp; CISA and FBI urge CMA users to review the PSA, follow recommended cybersecurity practices, and remain vigilant for suspicious activity.",
+  "source_url": "https://www.cisa.gov/resources-tools/resources/russian-intelligence-services-target-commercial-messaging-application-accounts",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-20T12:00:00+00:00",
+  "id": "a54687e7-e85b-4ad0-8765-835dfa8e601d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-21T05:11:42.908456+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
