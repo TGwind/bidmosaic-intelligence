@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "字节跳动413亿元出售沐瞳科技",
+  "raw_content": "字节跳动413亿元出售沐瞳科技",
+  "source_url": "https://www.toutiao.com/trending/7619266987387633710/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227619266987387633710%22%2C%22hot_board_impr_id%22%3A%2220260321100437F81B303BF975D24874CF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8413%E4%BA%BF%E5%85%83%E5%87%BA%E5%94%AE%E6%B2%90%E7%9E%B3%E7%A7%91%E6%8A%80%22%7D&rank=&style_id=40132&topic_id=7619266987387633710",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-21T02:04:37.454742+00:00",
+  "id": "6f73f2c1-1aea-4869-b836-10db8a523231",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "21768504",
+    "platform": "toutiao"
+  }
+}
