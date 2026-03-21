@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "贺龙诞辰女儿贺晓明回桑植",
+  "raw_content": "贺龙诞辰女儿贺晓明回桑植",
+  "source_url": "https://www.toutiao.com/trending/7619335547618279478/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227619335547618279478%22%2C%22hot_board_impr_id%22%3A%2220260321205221A222F8F796836E7ABD85%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B4%BA%E9%BE%99%E8%AF%9E%E8%BE%B0%E5%A5%B3%E5%84%BF%E8%B4%BA%E6%99%93%E6%98%8E%E5%9B%9E%E6%A1%91%E6%A4%8D%22%7D&rank=&style_id=40132&topic_id=7619335547618279478",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-21T12:52:22.206479+00:00",
+  "id": "3d096d45-f49a-4b4a-9728-c620e5a98c0a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "21860159",
+    "platform": "toutiao"
+  }
+}
