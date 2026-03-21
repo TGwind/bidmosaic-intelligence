@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin mining difficulty falls 7.7% as miner pressure persists",
+  "raw_content": "Bitcoin’s mining difficulty just logged its second sizeable cut of 2026, easing conditions for remaining miners as competition from artificial intelligence data centers rises.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-drops-7-7-miner-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-21T11:58:18+00:00",
+  "id": "60fed742-1537-42db-aa06-c42674dd6bb4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-21T13:06:20.258531+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
