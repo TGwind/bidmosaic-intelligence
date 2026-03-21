@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "“子弹要飞多久  才能变成和平的白鸽”",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1PbwQzGErf",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-21T06:46:19.072280+00:00",
+  "id": "1d00ec13-acc0-4892-9981-b7728550bf95",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2491951,
+    "platform": "bilibili"
+  }
+}
