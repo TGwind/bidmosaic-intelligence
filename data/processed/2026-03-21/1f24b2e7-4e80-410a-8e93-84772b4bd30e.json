@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Controllable Evidence Selection in Retrieval-Augmented Question Answering via Deterministic Utility Gating",
+  "raw_content": "arXiv:2603.18011v1 Announce Type: new Abstract: Many modern AI question-answering systems convert text into vectors and retrieve the closest matches to a user question. While effective for topical similarity, similarity scores alone do not explain why some retrieved text can serve as evidence while other equally similar text cannot. When many candidates receive similar scores, systems may select sentences that are redundant, incomplete, or address different conditions than the question requires. This paper presents a deterministic evidence selection framework for retrieval-augmented question answering. The approach introduces Meaning-Utility Estimation (MUE) and Diversity-Utility Estimation (DUE), fixed scoring and redundancy-control procedures that determine evidence admissibility prior to answer generation. Each sentence or record is evaluated independently using explicit signals for semantic relatedness, term coverage, conceptual distinctiveness, and redundancy. No training or fine-tuning is required. In the prototype, a unit is accepted only if it explicitly states the fact, rule, or condition required by the task. Units are not merged or expanded. If no unit independently satisfies the requirement, the system returns no answer. This deterministic gating produces compact, auditable evidence sets and establishes a clear boundary between relevant text and usable evidence.",
+  "source_url": "https://arxiv.org/abs/2603.18011",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-20T04:00:00+00:00",
+  "id": "1f24b2e7-4e80-410a-8e93-84772b4bd30e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-21T02:38:18.928408+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

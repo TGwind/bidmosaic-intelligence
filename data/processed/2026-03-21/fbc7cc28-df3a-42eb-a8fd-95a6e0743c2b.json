@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Eurosystem Unveils Appia Roadmap for Europe’s Tokenised Finance",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260311~14ddf51a77.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-11T09:00:00+00:00",
+  "id": "fbc7cc28-df3a-42eb-a8fd-95a6e0743c2b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-21T02:38:19.049596+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

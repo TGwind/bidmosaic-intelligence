@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Behind the Blog: Marathon and the Metaverse",
+  "raw_content": "This week, we discuss unfortunately checking Twitter for news, the closure of the metaverse, and being vulnerable in Marathon.",
+  "source_url": "https://www.404media.co/behind-the-blog-marathon-and-the-metaverse/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-20T15:00:00+00:00",
+  "id": "700950ee-7cf8-4675-8bd1-1f8a3fed3189",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-21T02:38:18.983355+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
