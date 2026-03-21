@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "乡村振兴 连点成片",
-  "raw_content": "乡村振兴 连点成片",
-  "source_url": "https://www.toutiao.com/article/7619140371540476459",
+  "raw_title": "我国多领域成果密集“上新”",
+  "raw_content": "我国多领域成果密集“上新”",
+  "source_url": "https://www.toutiao.com/article/7619456127654199854",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-21T02:04:37.454722+00:00",
-  "id": "7b11c862-6ba4-4413-b4e9-cb88e5614f2b",
+  "collected_at": "2026-03-21T06:46:18.219558+00:00",
+  "id": "36bdef77-a75d-4738-ba17-02a28c8713bc",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-21T06:46:49.752372+00:00",
+  "processed_at": "2026-03-21T06:46:49.744652+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "26588111",
+    "hot_score": "17698185",
     "platform": "toutiao"
   }
 }

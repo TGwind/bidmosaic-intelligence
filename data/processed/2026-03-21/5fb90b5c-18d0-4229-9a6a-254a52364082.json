@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "你认为人生最好的活法是什么",
+  "raw_content": "你认为人生最好的活法是什么",
+  "source_url": "https://www.toutiao.com/trending/7619168887872847882/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227619168887872847882%22%2C%22hot_board_impr_id%22%3A%22202603211446183A7FB2067FBE33EC8FCA%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%A0%E8%AE%A4%E4%B8%BA%E4%BA%BA%E7%94%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E6%B4%BB%E6%B3%95%E6%98%AF%E4%BB%80%E4%B9%88%22%7D&rank=&style_id=40132&topic_id=7619168887872847882",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-21T06:46:18.219619+00:00",
+  "id": "5fb90b5c-18d0-4229-9a6a-254a52364082",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-21T06:46:49.754888+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13111138",
+    "platform": "toutiao"
+  }
+}

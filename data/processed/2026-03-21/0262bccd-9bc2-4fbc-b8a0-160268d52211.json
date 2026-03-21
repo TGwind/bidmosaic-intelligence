@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "这首热门歌曲献给每一位童年坎坷的人 | 《Without You》现已上线",
+  "raw_content": "我和一位朋友在加利福尼亚州洛杉矶跨越我最喜欢的那座桥时，录制了这支我最爱歌曲的MV！真希望有朝一日，我也能在中国拍摄一段这样的视频。",
+  "source_url": "https://www.bilibili.com/video/BV1GowkzwE5c",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-21T06:46:19.072289+00:00",
+  "id": "0262bccd-9bc2-4fbc-b8a0-160268d52211",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-21T06:46:49.738270+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1133572,
+    "platform": "bilibili"
+  }
+}
