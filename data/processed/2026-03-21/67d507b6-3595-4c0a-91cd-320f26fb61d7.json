@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "乡村振兴 连点成片",
-  "raw_content": "乡村振兴 连点成片",
-  "source_url": "https://www.toutiao.com/article/7619140371540476459",
+  "raw_title": "中国生活方式为何成为世界潮流",
+  "raw_content": "中国生活方式为何成为世界潮流",
+  "source_url": "https://www.toutiao.com/article/7619586913867825664",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-21T02:04:37.454722+00:00",
-  "id": "7b11c862-6ba4-4413-b4e9-cb88e5614f2b",
+  "collected_at": "2026-03-21T18:38:11.995960+00:00",
+  "id": "67d507b6-3595-4c0a-91cd-320f26fb61d7",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-21T18:38:40.998324+00:00",
+  "processed_at": "2026-03-21T18:38:41.003395+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "26588111",
+    "hot_score": "17532299",
     "platform": "toutiao"
   }
 }

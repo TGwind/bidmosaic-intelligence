@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "真是一场酣畅淋漓的相亲",
+  "raw_title": "当我对日本人用不知火舞语录！！！",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1hiwXzxEfe",
+  "source_url": "https://www.bilibili.com/video/BV1YowkzwEab",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-21T06:46:19.072246+00:00",
-  "id": "732504f3-e41e-4fbb-afdf-e07ccc3091c4",
+  "collected_at": "2026-03-21T18:38:12.505659+00:00",
+  "id": "8a31881c-7e3b-4b3c-8a8e-24687f4516da",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-21T18:38:41.000860+00:00",
+  "processed_at": "2026-03-21T18:38:41.000176+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7977840,
+    "hot_score": 3032180,
     "platform": "bilibili"
   }
 }

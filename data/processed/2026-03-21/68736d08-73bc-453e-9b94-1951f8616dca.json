@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "真是一场酣畅淋漓的相亲",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1hiwXzxEfe",
+  "raw_title": "《有毒啊》",
+  "raw_content": "Tips：实则放回去是正常流程 为了二次确认",
+  "source_url": "https://www.bilibili.com/video/BV1K5AJzxEFi",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-21T06:46:19.072246+00:00",
-  "id": "732504f3-e41e-4fbb-afdf-e07ccc3091c4",
+  "collected_at": "2026-03-21T18:38:12.505756+00:00",
+  "id": "68736d08-73bc-453e-9b94-1951f8616dca",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-21T18:38:41.000860+00:00",
+  "processed_at": "2026-03-21T18:38:41.002087+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7977840,
+    "hot_score": 3936198,
     "platform": "bilibili"
   }
 }

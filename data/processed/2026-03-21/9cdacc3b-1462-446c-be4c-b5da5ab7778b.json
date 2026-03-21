@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "真是一场酣畅淋漓的相亲",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1hiwXzxEfe",
+  "raw_title": "文 字 游 戏",
+  "raw_content": "文字游戏",
+  "source_url": "https://www.bilibili.com/video/BV1CfwCzUEga",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-21T06:46:19.072246+00:00",
-  "id": "732504f3-e41e-4fbb-afdf-e07ccc3091c4",
+  "collected_at": "2026-03-21T18:38:12.505789+00:00",
+  "id": "9cdacc3b-1462-446c-be4c-b5da5ab7778b",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-21T18:38:41.000860+00:00",
+  "processed_at": "2026-03-21T18:38:41.001174+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7977840,
+    "hot_score": 3692188,
     "platform": "bilibili"
   }
 }
