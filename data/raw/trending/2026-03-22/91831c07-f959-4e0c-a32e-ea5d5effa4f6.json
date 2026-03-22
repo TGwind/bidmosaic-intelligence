@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "文 字 游 戏",
+  "raw_content": "文字游戏",
+  "source_url": "https://www.bilibili.com/video/BV1CfwCzUEga",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-22T18:39:05.099982+00:00",
+  "id": "91831c07-f959-4e0c-a32e-ea5d5effa4f6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4067811,
+    "platform": "bilibili"
+  }
+}
