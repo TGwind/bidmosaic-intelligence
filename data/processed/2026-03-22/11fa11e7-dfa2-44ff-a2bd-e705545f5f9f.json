@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "IEA公布各国石油储备释放量，日美合计占六成",
+  "raw_content": "2026/03/20 国际能源机构（IEA）3月19日公布了各成员国就启动史上最大规模、约4亿桶石油储备协同释放的国别释放量。日本释放7980万桶，约占总量的两成。释放量仅次于美国的1亿7220万桶，位居第二，日本和美国合计约占整体的六成。 加拿大以2360万桶位居第三，韩国以2250万桶位居第四，德国以1950万桶位居第五。IEA说明，在总计约4亿桶的协同释放中，原油约占3亿桶，其余为石油制品。 这是自IEA成立以来第6次实施协同释放。国际能源署署长比罗尔表示，如果随着能源运输要冲霍尔木兹海峡事实上被封锁而引发的供应混乱长期化，将考虑追加释放。 （Kyodo）",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/61852-2026-03-20-10-45-29.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-20T03:08:03+00:00",
+  "id": "11fa11e7-dfa2-44ff-a2bd-e705545f5f9f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T02:55:03.115197+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
