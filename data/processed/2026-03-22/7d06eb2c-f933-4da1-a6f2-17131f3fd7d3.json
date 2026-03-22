@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "网民造谣重庆立交桥垮塌被拘",
+  "raw_content": "网民造谣重庆立交桥垮塌被拘",
+  "source_url": "https://www.toutiao.com/trending/7619265570215280682/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227619265570215280682%22%2C%22hot_board_impr_id%22%3A%2220260323023904849CF08C34B964017BE5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E6%B0%91%E9%80%A0%E8%B0%A3%E9%87%8D%E5%BA%86%E7%AB%8B%E4%BA%A4%E6%A1%A5%E5%9E%AE%E5%A1%8C%E8%A2%AB%E6%8B%98%22%7D&rank=&style_id=40132&topic_id=7619265570215280682",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-22T18:39:04.438788+00:00",
+  "id": "7d06eb2c-f933-4da1-a6f2-17131f3fd7d3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T18:39:36.959149+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10384282",
+    "platform": "toutiao"
+  }
+}

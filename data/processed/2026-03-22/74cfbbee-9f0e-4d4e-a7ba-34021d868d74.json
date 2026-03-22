@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "文 字 游 戏",
-  "raw_content": "文字游戏",
-  "source_url": "https://www.bilibili.com/video/BV1CfwCzUEga",
+  "raw_title": "当我对日本人用不知火舞语录！！！",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1YowkzwEab",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-22T12:54:40.842223+00:00",
-  "id": "2618ee27-f417-456a-b077-24ca380fb0c4",
+  "collected_at": "2026-03-22T18:39:05.099933+00:00",
+  "id": "74cfbbee-9f0e-4d4e-a7ba-34021d868d74",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-22T18:39:36.944762+00:00",
+  "processed_at": "2026-03-22T18:39:36.955510+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4010087,
+    "hot_score": 3911383,
     "platform": "bilibili"
   }
 }

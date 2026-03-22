@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "文 字 游 戏",
-  "raw_content": "文字游戏",
-  "source_url": "https://www.bilibili.com/video/BV1CfwCzUEga",
+  "raw_title": "你可能不认识我们，但一定听过我们的歌（Vicetone）",
+  "raw_content": "你可能不认识我们，但一定听过我们的歌（Vicetone）",
+  "source_url": "https://www.bilibili.com/video/BV1D2AJzYE5H",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-22T12:54:40.842223+00:00",
-  "id": "2618ee27-f417-456a-b077-24ca380fb0c4",
+  "collected_at": "2026-03-22T18:39:05.099924+00:00",
+  "id": "3a3feae7-ef58-415f-bddb-2db0e3849567",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-22T18:39:36.944762+00:00",
+  "processed_at": "2026-03-22T18:39:36.948211+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4010087,
+    "hot_score": 2768845,
     "platform": "bilibili"
   }
 }
