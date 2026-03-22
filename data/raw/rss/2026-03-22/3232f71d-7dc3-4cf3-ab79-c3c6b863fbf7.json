@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Where wild things roam: Identifying wildlife with SpeciesNet",
+  "raw_content": "Climate & Sustainability",
+  "source_url": "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-06T17:59:38+00:00",
+  "id": "3232f71d-7dc3-4cf3-ab79-c3c6b863fbf7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}
