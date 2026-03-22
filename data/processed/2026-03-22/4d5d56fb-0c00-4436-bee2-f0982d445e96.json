@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "How to Build Deep Agents for Enterprise Search with NVIDIA AI-Q and LangChain",
+  "raw_content": "While consumer AI offers powerful capabilities, workplace tools often suffer from disjointed data and limited context. Built with LangChain, the NVIDIA AI-Q...",
+  "source_url": "https://developer.nvidia.com/blog/how-to-build-deep-agents-for-enterprise-search-with-nvidia-ai-q-and-langchain/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-18T16:00:00+00:00",
+  "id": "4d5d56fb-0c00-4436-bee2-f0982d445e96",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T05:22:19.654603+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}
