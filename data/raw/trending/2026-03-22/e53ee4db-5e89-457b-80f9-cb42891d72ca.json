@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "当我对日本人用不知火舞语录！！！",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1YowkzwEab",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-22T06:54:25.179200+00:00",
+  "id": "e53ee4db-5e89-457b-80f9-cb42891d72ca",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3405810,
+    "platform": "bilibili"
+  }
+}
