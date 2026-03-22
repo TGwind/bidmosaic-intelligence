@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Resolv says no assets lost as DeFi protocols respond to $24M USR exploit",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Resolv says no assets lost as DeFi protocols respond to $24M USR exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDE1YWEtYjMwMi03YjE4LThiYmItN2E5NDcyZmE2YWE4LmpwZw==.jpg\" /></p><p>USR issuer Resolv Labs says its collateral pool remains intact after an exploit on Sunday that minted 80 million unbacked tokens and drove the US dollar stablecoin as low as $0.14.</p>",
+  "source_url": "https://cointelegraph.com/news/resolv-says-no-assets-lost-as-defi-partners-respond-to-usr-depeg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-22T14:06:37+00:00",
+  "id": "4a3af756-6e1b-4033-a406-98e5dd3eedea",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
