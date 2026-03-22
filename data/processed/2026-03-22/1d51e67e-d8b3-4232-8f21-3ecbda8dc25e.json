@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "⚡对 对 子 战 神⚡",
-  "raw_content": "BGM：UwU Funk",
-  "source_url": "https://www.bilibili.com/video/BV1bXAJz8EYC",
+  "raw_title": "《有毒啊》",
+  "raw_content": "Tips：实则放回去是正常流程 为了二次确认",
+  "source_url": "https://www.bilibili.com/video/BV1K5AJzxEFi",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-22T02:24:47.221815+00:00",
-  "id": "0c1d8e32-3ef2-4431-a424-569181a31298",
+  "collected_at": "2026-03-22T06:54:25.179225+00:00",
+  "id": "1d51e67e-d8b3-4232-8f21-3ecbda8dc25e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-22T06:54:55.262303+00:00",
+  "processed_at": "2026-03-22T06:54:55.264762+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 6935112,
+    "hot_score": 4285705,
     "platform": "bilibili"
   }
 }

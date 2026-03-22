@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "汉马跑完后武汉长江大桥上沸腾了",
+  "raw_content": "汉马跑完后武汉长江大桥上沸腾了",
+  "source_url": "https://www.toutiao.com/trending/7619857144858329115/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227619857144858329115%22%2C%22hot_board_impr_id%22%3A%2220260322145423E02303009FEBB4BAB8B1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B1%89%E9%A9%AC%E8%B7%91%E5%AE%8C%E5%90%8E%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E4%B8%8A%E6%B2%B8%E8%85%BE%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7619857144858329115",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-22T06:54:24.356112+00:00",
+  "id": "eef3865e-56c9-40db-831a-08a15b8a2264",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T06:54:55.281614+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14912988",
+    "platform": "toutiao"
+  }
+}

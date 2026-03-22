@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "物业学习胖东来 物业费收缴率升至90%",
+  "raw_content": "物业学习胖东来 物业费收缴率升至90%",
+  "source_url": "https://www.toutiao.com/trending/7619920997332008979/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227619920997332008979%22%2C%22hot_board_impr_id%22%3A%2220260322145423E02303009FEBB4BAB8B1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%A9%E4%B8%9A%E5%AD%A6%E4%B9%A0%E8%83%96%E4%B8%9C%E6%9D%A5+%E7%89%A9%E4%B8%9A%E8%B4%B9%E6%94%B6%E7%BC%B4%E7%8E%87%E5%8D%87%E8%87%B390%25%22%7D&rank=&style_id=40132&topic_id=7619920997332008979",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-22T06:54:24.356093+00:00",
+  "id": "1cb632e4-7e2e-4e05-ade0-049a6c40c4d3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T06:54:55.263985+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18214765",
+    "platform": "toutiao"
+  }
+}
