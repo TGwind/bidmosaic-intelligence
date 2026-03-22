@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "⚡对 对 子 战 神⚡",
+  "raw_content": "BGM：UwU Funk",
+  "source_url": "https://www.bilibili.com/video/BV1bXAJz8EYC",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-22T02:24:47.221815+00:00",
+  "id": "0c1d8e32-3ef2-4431-a424-569181a31298",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T02:25:16.509261+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6935112,
+    "platform": "bilibili"
+  }
+}

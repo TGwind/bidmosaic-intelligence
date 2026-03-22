@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "卡片上铭刻着我们的灵魂！【水无月菌】",
+  "raw_content": "感谢观看！喜欢记得三连点个关注！ 非竞技构筑和竞技对局，制作于劲敌包卡表公布前，希望大家看得开心！！！",
+  "source_url": "https://www.bilibili.com/video/BV1ajAjz4EUa",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-22T02:24:47.221897+00:00",
+  "id": "8a61f033-e8fd-4535-9f45-957d6fefafd2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T02:25:16.517290+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1589169,
+    "platform": "bilibili"
+  }
+}
