@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Fundi Tshazibana: Building climate resilience amid structural shocks and policy divergence",
+  "raw_content": "Address by Ms Fundi Tshazibana, Deputy Governor of the South African Reserve Bank and Chief Executive Officer of the Prudential Authority, at the South African Reserve Bank (SARB)-Network for Greening the Financial System (NGFS) Research Conference \"Navigating climate risks in Southern Africa\", hosted by the SARB, Pretoria, 11 March 2026.",
+  "source_url": "https://www.bis.org/review/r260316g.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-22T02:53:06.238487+00:00",
+  "id": "37c8433a-f67d-49d8-8b1d-a01f73fbf54d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

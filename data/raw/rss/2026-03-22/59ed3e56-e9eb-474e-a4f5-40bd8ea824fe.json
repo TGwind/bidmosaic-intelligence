@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Russian Intelligence Services Target Commercial Messaging Application Accounts",
+  "raw_content": "<p>CISA and the Federal Bureau of Investigation released a <a href=\"https://www.ic3.gov/PSA/2026/PSA260320\" target=\"_blank\">Public Service Announcement (PSA)</a> warning about ongoing phishing campaigns by cyber actors associated with the Russian Intelligence Services targeting commercial messaging applications (CMAs). These campaigns aim to bypass encryption to compromise to individual user accounts with targets including current and former U.S. government officials, military personnel, political figures, and journalists.&nbsp;&nbsp;</p>\n<p>Evidence shows that cyber actors have been able to compromise individual CMA accounts, but not encryption of the applications themselves. The actors’ global campaigns have resulted in unauthorized access to thousands of individual CMA accounts to view the victims’ messages and contact lists, send messages, and conduct additional phishing against other CMA accounts. &nbsp;</p>\n<p>CISA and FBI urge CMA users to review the PSA, follow recommended cybersecurity practices, and remain vigilant for suspicious activity.</p>",
+  "source_url": "https://www.cisa.gov/resources-tools/resources/russian-intelligence-services-target-commercial-messaging-application-accounts",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-20T12:00:00+00:00",
+  "id": "59ed3e56-e9eb-474e-a4f5-40bd8ea824fe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
