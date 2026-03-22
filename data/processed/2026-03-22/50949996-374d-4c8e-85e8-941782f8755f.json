@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto liquidations near $400M after $68K Bitcoin price dip",
+  "raw_content": "Bitcoin fell over the weekend to set up another visit to \"unreliable\" support, but analysis flagged a new BTC price golden cross.",
+  "source_url": "https://cointelegraph.com/news/crypto-liquidations-near-400m-after-68k-bitcoin-price-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-22T18:32:30+00:00",
+  "id": "50949996-374d-4c8e-85e8-941782f8755f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T20:37:47.432296+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
