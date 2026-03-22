@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "中国大市场活力加速释放",
-  "raw_content": "中国大市场活力加速释放",
-  "source_url": "https://www.toutiao.com/article/7619676864604357183",
+  "raw_title": "跨越千年的治水智慧",
+  "raw_content": "跨越千年的治水智慧",
+  "source_url": "https://www.toutiao.com/article/7620009039958852136",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-22T02:24:46.571712+00:00",
-  "id": "536aa537-b068-479a-a25e-5e6eb1358d5b",
+  "collected_at": "2026-03-22T12:54:40.008439+00:00",
+  "id": "0ce55cc5-db28-4140-a091-67222b380a66",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-22T12:55:12.594470+00:00",
+  "processed_at": "2026-03-22T12:55:12.591127+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "25877685",
+    "hot_score": "17073863",
     "platform": "toutiao"
   }
 }

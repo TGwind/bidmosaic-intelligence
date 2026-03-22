@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "走进贵州大山，给山里的孩子们添一份快乐与守护，祝愿他们健康快乐茁壮成长",
+  "raw_content": "走进贵州大山，给山里的孩子们添一份快乐与守护，祝愿他们健康快乐茁壮成长",
+  "source_url": "https://www.bilibili.com/video/BV1crwkzVETa",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-22T12:54:40.842208+00:00",
+  "id": "6addce1c-f5d7-4717-a420-a1b0ef614d9b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T12:55:12.596049+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1422974,
+    "platform": "bilibili"
+  }
+}
