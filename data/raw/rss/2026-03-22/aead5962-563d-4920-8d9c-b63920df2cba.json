@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Joachim Nagel: Presentation of the Deutsche Bundesbank's Annual Report 2025",
+  "raw_content": "Introductory statement by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the press conference presenting the Annual Report 2025, Frankfurt am Main, 5 March 2026.",
+  "source_url": "https://www.bis.org/review/r260316b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-22T16:39:37.688798+00:00",
+  "id": "aead5962-563d-4920-8d9c-b63920df2cba",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
