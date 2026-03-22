@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Hong Kong retiree loses $840K in triple ‘crypto expert’ scam",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hong Kong retiree loses $840K in triple ‘crypto expert’ scam\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmMwNjgtYzdiYi03MjY0LTk3NmQtN2ZjYWY5ODNjOWEwLmpwZw==.jpg\" /></p><p>Hong Kong police say a 66-year-old retiree was duped three times in six months by self-styled “crypto investment experts,” as scammers promised easy gains and help to recover losses.</p>",
+  "source_url": "https://cointelegraph.com/news/hong-kong-retiree-loses-840k-triple-scam?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-21T13:43:41+00:00",
+  "id": "95302a6f-cc5e-42a8-91b0-7f48723c2040",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Why enterprises are replacing generic AI with tools that know their users",
+  "raw_content": "<p>The future of AI isn’t just agentic; it’s deep personalization. </p><p>Rather than simple recommender systems that correlate user behavior to identify patterns and apply those to individual workflows, large language models (LLMs) and AI agents can analyze users directly to create deeply personalized experiences. </p><p>It’s this kind of aggressive customization users are increasingly demanding — and the savviest enterprises who provide it (and soon) will win. </p><p>The goal is: “Don&#x27;t try to randomize, or guess who I am. I tell you, this is what I care about,” Lijuan Qin, head of product, at Zoom AI, explains in a new <a href=\"https://youtu.be/X3r8hiUM57s?si=Wntg3xYbd9W7qrwH\"><u>Beyond the Pilot podcast</u></a>.  </p><div></div><h2><b>How Zoom is incorporating personalization</b></h2><p>Zoom is one company that has adapted to this trend: Its generative assistant, AI Companion, goes beyond basic summarization, smart recordings, and after-meeting action items to opinion divergence and user alignment tracking. </p><p>Users can customize meeting summaries based on their specific interests, and create targeted templates for follow-up emails to different personas (whether it be a salesperson or account executive). The AI assistant can then automatically populate these documents post-call. Meanwhile, a custom dictionary in Zoom AI Studio can process unique enterprise terminology and vocabulary for more relevant AI outputs, and a deep research mode can quickly deliver comprehensive analyses based on “internal expertise and external insights.”</p><p>Control is key here; the human can be “very specific [and] nail down” agent permissioning, Qin explained. They have “very clear controls” on follow-up actions, such as: Can the agent automatically send emails to specific recipients? Or will it trigger a verification step when it recognizes transcripts contain sensitive information (as dictated by the user)? </p><p>Knowing that AI can go off the rails at times, human users can track agent behavior in Zoom, enable and disable features, and control data access. This can help prevent outputs that are inaccurate or off-target.  </p><p>“The most important thing is we do not assume AI is smart enough to get everything right,” Qin emphasized. </p><h2><b>Getting context right</b></h2><p>In this new agentic AI age, there is essentially a “land grab for context,” Sam Witteveen, co-founder of Red Dragon AI and Beyond the Pilot host, explains in the podcast. </p><p>“Definitely knowing your users is the big thing, right? Knowing what apps they are living in, what day-to-day tasks are they constantly doing?,” he said. “Companies realize the more they have about you, the better the [AI] memory can get, the better they can customize.”</p><p>Claude Cowork is one app that is “really shining” at this, Witteveen says; OpenClaw is another. Models are good enough that they can begin to make decisions for users and respond to directions like: &quot;You know a bunch of things about me. You&#x27;ve got all this context. Go and generate the skills that are going to help me do a better job.&quot;</p><p>“With something like OpenClaw, you can customize it in any way you want, right? You can chat with it, you can tell it, ‘Hey, at 4 o&#x27;clock I want you to do this,’” Witteveen said. </p><p>However, token usage and security must always be taken into account, he advised. OpenClaw has been <a href=\"https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert\">plagued by security issue</a>s since its launch. This has prompted many enterprises to uninstall the autonomous agent or outright ban its use; however, these uninstalls must be done correctly so that IT leaders don’t inadvertently delete their entire enterprise stack. </p><p>Meanwhile, in terms of token budget, personalization can run up costs. “You need to think about the metrics you are tracking,” Witteveen said. “This is very different from product to product, but metrics around these things are gonna be key.&quot;</p><p><b>Watch the podcast to hear more about: </b></p><ul><li><p>Why the companies that don&#x27;t experiment with AI skills right now &quot;may be toast&quot;</p></li><li><p>How Zoom built an AI companion that tracks opinion divergence — not just action items — in your meetings</p></li><li><p>Why the build vs. buy question just got a lot more urgent for enterprise software</p></li><li><p>Why &quot;skills&quot; may matter more than MCP for the future of enterprise AI</p></li></ul><p><b>You can also listen and subscribe to </b><a href=\"https://beyondthepilot.ubpages.com/\"><b>Beyond the Pilot</b></a><b> on </b><a href=\"https://open.spotify.com/show/4Zti73yb4hmiTNa7pEYls4\"><b>Spotify</b></a><b>, </b><a href=\"https://podcasts.apple.com/us/podcast/beyond-the-pilot-enterprise-ai-in-action/id1839285239\"><b>Apple</b></a><b> or wherever you get your podcasts.</b></p><p></p>",
+  "source_url": "https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-19T21:10:00+00:00",
+  "id": "c5630baa-a7f3-47e2-bd16-4ee2a7f19878",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
