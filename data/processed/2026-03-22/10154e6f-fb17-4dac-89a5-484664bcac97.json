@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Coinbase-backed CoinDCX founders questioned in fraud case: Report",
+  "raw_content": "Indian crypto exchange CoinDCX says the fraud complaint is part of a wider impersonation scam, citing more than 1,200 fake sites using its brand.",
+  "source_url": "https://cointelegraph.com/news/coinbase-backed-coindcx-founders-questioned-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-22T09:19:00+00:00",
+  "id": "10154e6f-fb17-4dac-89a5-484664bcac97",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-22T13:08:33.397317+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
