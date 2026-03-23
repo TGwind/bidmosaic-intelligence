@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "2026中国两会：北京如何定义未来五年？",
+  "raw_content": "<div><div><div><noscript><div><div><strong>你的器材不支持播放多媒体材料</strong></div></div></noscript></div><span>2026中国两会：北京如何定义未来五年？</span></span></div></div><div><strong>2026中国两会：北京如何定义未来五年？</strong></div><div><time datetime=\"2026-03-04\">2026年3月4日</time></div><div><p>一年一度的中国“两会”在北京拉开帷幕。尽管全国人大与政协会议不会做出实际决策，但其被视为观察中国政治经济走向的重要视窗。</p></div><div><p>今年的会议不仅将涉及年度政治议程，更将启动中国新的五年规划。换言之，它既要回答“今年怎么办”，也要交代“未来五年怎么走”。</p></div><div><p>BBC中文记者为你介绍今年中国“两会”的五个关注焦点。</p></div>",
+  "source_url": "https://www.bbc.com/zhongwen/articles/cj9882x0908o/simp#2",
+  "source_name": "BBC中文",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-22T04:43:02+00:00",
+  "id": "71d3b97d-23f7-4a77-99d0-9b79376c972f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/bbc.xml",
+    "category": "china_news",
+    "source_type": "wire",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}
