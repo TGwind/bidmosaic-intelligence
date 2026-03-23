@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "雷军回应李斌魏建军缺席新SU7发布会",
+  "raw_content": "雷军回应李斌魏建军缺席新SU7发布会",
+  "source_url": "https://www.toutiao.com/trending/7619357901429313067/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227619357901429313067%22%2C%22hot_board_impr_id%22%3A%2220260323151242F463D397581A382EE0E6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%9D%8E%E6%96%8C%E9%AD%8F%E5%BB%BA%E5%86%9B%E7%BC%BA%E5%B8%AD%E6%96%B0SU7%E5%8F%91%E5%B8%83%E4%BC%9A%22%7D&rank=&style_id=40132&topic_id=7619357901429313067",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-23T07:12:42.821993+00:00",
+  "id": "5797d8f1-dc0d-4895-bb01-387395024138",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T07:13:11.720780+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14473473",
+    "platform": "toutiao"
+  }
+}

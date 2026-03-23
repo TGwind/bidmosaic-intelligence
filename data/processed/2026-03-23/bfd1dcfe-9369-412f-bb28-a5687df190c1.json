@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "你赞同武汉建观光大桥吗",
+  "raw_content": "你赞同武汉建观光大桥吗",
+  "source_url": "https://www.toutiao.com/trending/7620038780058943542/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227620038780058943542%22%2C%22hot_board_impr_id%22%3A%2220260323151242F463D397581A382EE0E6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%A0%E8%B5%9E%E5%90%8C%E6%AD%A6%E6%B1%89%E5%BB%BA%E8%A7%82%E5%85%89%E5%A4%A7%E6%A1%A5%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7620038780058943542",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-23T07:12:42.822034+00:00",
+  "id": "bfd1dcfe-9369-412f-bb28-a5687df190c1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T07:13:11.726224+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8778605",
+    "platform": "toutiao"
+  }
+}

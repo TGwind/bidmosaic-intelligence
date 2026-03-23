@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "文 字 游 戏",
-  "raw_content": "文字游戏",
-  "source_url": "https://www.bilibili.com/video/BV1CfwCzUEga",
+  "raw_title": "失传术法？五行铠甲真正该有的战斗方式！（AI铠甲勇士外传微电影）",
+  "raw_content": "还原千年前铠甲勇士的战斗方式",
+  "source_url": "https://www.bilibili.com/video/BV129AJzZEtL",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-23T02:25:36.408710+00:00",
-  "id": "0675eed4-5088-4a13-8617-45a507adab50",
+  "collected_at": "2026-03-23T07:12:43.549576+00:00",
+  "id": "626db21d-f7e2-46b3-a823-2cc3a7a1e1e7",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-23T07:13:11.717590+00:00",
+  "processed_at": "2026-03-23T07:13:11.727068+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4086735,
+    "hot_score": 1770586,
     "platform": "bilibili"
   }
 }
