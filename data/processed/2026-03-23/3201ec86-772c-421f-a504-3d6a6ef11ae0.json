@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《有毒啊》",
-  "raw_content": "Tips：实则放回去是正常流程 为了二次确认",
-  "source_url": "https://www.bilibili.com/video/BV1K5AJzxEFi",
+  "raw_title": "⚡对 对 子 战 神⚡",
+  "raw_content": "BGM：UwU Funk",
+  "source_url": "https://www.bilibili.com/video/BV1bXAJz8EYC",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-23T07:12:43.549523+00:00",
-  "id": "37656529-fc6f-4f91-94e8-6b73f11c72ef",
+  "collected_at": "2026-03-23T13:10:41.494720+00:00",
+  "id": "3201ec86-772c-421f-a504-3d6a6ef11ae0",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-23T13:11:15.451095+00:00",
+  "processed_at": "2026-03-23T13:11:15.455520+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4810921,
+    "hot_score": 9248003,
     "platform": "bilibili"
   }
 }

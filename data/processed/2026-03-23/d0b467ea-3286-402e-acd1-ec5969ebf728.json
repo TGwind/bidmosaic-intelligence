@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "财政政策将聚焦扩大内需",
-  "raw_content": "财政政策将聚焦扩大内需",
-  "source_url": "https://www.toutiao.com/article/7620052393107063339",
+  "raw_title": "科技春耕与春日经济共绘希望田野",
+  "raw_content": "科技春耕与春日经济共绘希望田野",
+  "source_url": "https://www.toutiao.com/article/7620146226276680228",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-23T02:25:35.599121+00:00",
-  "id": "59ac8204-a518-40f0-bb9e-e4254527d26a",
+  "collected_at": "2026-03-23T13:10:40.608933+00:00",
+  "id": "d0b467ea-3286-402e-acd1-ec5969ebf728",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-23T13:11:15.458155+00:00",
+  "processed_at": "2026-03-23T13:11:15.464327+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "21993943",
+    "hot_score": "29423845",
     "platform": "toutiao"
   }
 }
