@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "梅姨多年难抓或因长相太普通",
+  "raw_content": "梅姨多年难抓或因长相太普通",
+  "source_url": "https://webcast-open.douyin.com/open/media_live/684938926972",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-23T02:25:35.599109+00:00",
+  "id": "f2ef4720-7777-4aab-82f9-5a1dc46bc353",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T02:26:08.045160+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "24307066",
+    "platform": "toutiao"
+  }
+}
