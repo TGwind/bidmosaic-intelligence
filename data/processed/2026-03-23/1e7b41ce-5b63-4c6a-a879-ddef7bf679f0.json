@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Traders say Bitcoin still due for ‘next leg lower’ targeting $46K BTC price",
+  "raw_content": "BTC price action looked weaker after Sunday's weekly close below the 200-week MA, with Bitcoin market participants bracing for lower levels.",
+  "source_url": "https://cointelegraph.com/news/traders-bitcoin-still-due-next-leg-lower-targeting-46k-btc-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T17:20:09+00:00",
+  "id": "1e7b41ce-5b63-4c6a-a879-ddef7bf679f0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T20:46:56.135762+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

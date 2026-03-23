@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin spot volumes fall to 2023 lows as BTC rallies remain news-led",
+  "raw_content": "Bitcoin price topped $71,600 at the US market open, but the rally lacked sustained spot volumes. Can the bulls hold BTC above $70,000?",
+  "source_url": "https://cointelegraph.com/news/bitcoin-spot-volumes-fall-to-2023-lows-as-btc-rallies-remain-news-led?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T18:21:50+00:00",
+  "id": "c78a07ce-7520-40a3-81e1-e9d395ad4c89",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T20:46:56.236979+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

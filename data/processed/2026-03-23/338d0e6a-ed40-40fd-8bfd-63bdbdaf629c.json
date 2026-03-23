@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Adnan Zaylani Mohamad Zahid: Opening remarks - Financing Sectoral Engagements (FSE) inaugural session",
+  "raw_content": "Opening remarks by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Financing Sectoral Engagements (FSE) inaugural session, Kuala Lumpur, 6 March 2026.",
+  "source_url": "https://www.bis.org/review/r260319a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T20:46:10.380041+00:00",
+  "id": "338d0e6a-ed40-40fd-8bfd-63bdbdaf629c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T20:46:56.168581+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

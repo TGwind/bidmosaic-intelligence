@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "MoonPay releases open-source wallet standard for AI agents",
+  "raw_content": "The framework aims to let AI agents hold funds and execute transactions across blockchains, addressing fragmented wallets and key management.",
+  "source_url": "https://cointelegraph.com/news/moonpay-releases-open-source-wallet-standard-for-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T18:18:33+00:00",
+  "id": "f00af0cf-cbbe-4a79-8d62-ab2c0f30dad9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T20:46:56.235254+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
