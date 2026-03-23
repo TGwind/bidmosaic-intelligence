@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "任天堂Switch 2欧盟版可自行更换电池",
+  "raw_content": "<div>2026/03/23</div><div id=\"contentDiv\">\n<div></div>\n<div>      任天堂将在游戏机“Nintendo Switch 2”上应对“修理权”，以减轻环境负担。首先将配合欧盟（EU）的立法，对产品规格进行调整，使消费者能够轻松更换主机电池。今后，如果日本和美国消费者对修理权的意识提高，公司也可能采取相应措施。</div>\n<div> </div>\n<div>      任天堂将逐步调整在欧盟域内销售的Switch 2主机以及可拆卸控制器“Joy-Con”所搭载的锂离子电池的产品规格，使消费者能够安全地将电池从设备中取出。日本市场暂时仍按现行规格销售。</div>\n<div> </div>\n<div>      电子设备内置的锂离子电池在长期使用后往往会出现续航能力下降等情况，因此需要更换。在任天堂产品中，也曾确认出现电池鼓胀等案例。</div>\n<div> </div>\n<div>      欧盟在2023年制定的《欧洲电池法规》规定，自2027年2月起，原则上凡是内置便携式电池的产品，都必须采用便于消费者轻松拆卸或更换电池的设计。</div>\n<div> </div>\n<div>      目前，电池更换通常由厂商的维修服务完成，一般不建议消费者自行更换。近年来，以欧美为中心，围绕修理权的讨论不断推进。修理权在智能手机领域已率先推动厂商采取行动，美国苹果公司已经将产品改为更容易拆卸电池的设计。</div>\n<div>  </div>\n<div>     也有观点指出，厂商对维修的垄断可能诱导消费者购买新产品，并增加维修费用负担，从而损害消费者利益。 </div>\n<div> </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/61873-2026-03-23-11-07-00.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T03:38:02+00:00",
+  "id": "5116ab04-41af-46d5-89f9-76dd222d46a0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

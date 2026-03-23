@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin clings to monthly gains, historic losing streak still in play",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/23/bitcoin-clings-to-monthly-gains-historic-losing-streak-still-in-play",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T10:46:59+00:00",
+  "id": "d0a16521-a754-474c-9c99-def636428f7b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

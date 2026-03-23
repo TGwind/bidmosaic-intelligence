@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LARFT: Closing the Cognition-Action Gap for Length Instruction Following in Large Language Models",
+  "raw_content": "arXiv:2603.19255v1 Announce Type: new \nAbstract: Despite the strong performance of Large Language Models (LLMs) on complex instruction-following tasks, precise control of output length remains a persistent challenge. Existing methods primarily attempt to enforce length constraints by externally imposing length signals or optimization objectives, while largely overlooking the underlying limitation: the model's intrinsic deficit in length cognition. To address this, we propose LARFT (Length-Aware Reinforcement Fine-Tuning), a training framework that aligns the model's length cognition with its action. Specifically, LARFT integrates length-oriented reinforcement learning with a hindsight length awareness. By transforming on-policy data into hindsight self-awareness tasks where the model learns to identify the actual length of its own generation, LARFT jointly optimizes the model's internal representation of length information and refines its policy to satisfy length constraints, thereby achieving precise and reliable length instruction following. Extensive experiments across four base models demonstrate that LARFT outperforms existing baselines, achieving an average improvement of +20.92 points across three length instruction following benchmarks with only a marginal decline of -1.45 points on four general capability benchmarks.",
+  "source_url": "https://arxiv.org/abs/2603.19255",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-23T04:00:00+00:00",
+  "id": "485ec85d-d649-453b-8997-bacbe04998dc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
