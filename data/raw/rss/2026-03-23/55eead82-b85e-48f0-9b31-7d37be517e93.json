@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Spelling Correction in Healthcare Query-Answer Systems: Methods, Retrieval Impact, and Empirical Evaluation",
+  "raw_content": "arXiv:2603.19249v1 Announce Type: new \nAbstract: Healthcare question-answering (QA) systems face a persistent challenge: users submit queries with spelling errors at rates substantially higher than those found in the professional documents they search. This paper presents the first controlled study of spelling correction as a retrieval preprocessing step in healthcare QA using real consumer queries. We conduct an error census across two public datasets -- the TREC 2017 LiveQA Medical track (104 consumer health questions) and HealthSearchQA (4,436 health queries from Google autocomplete) -- finding that 61.5% of real medical queries contain at least one spelling error, with a token-level error rate of 11.0%. We evaluate four correction methods -- conservative edit distance, standard edit distance (Levenshtein), context-aware candidate ranking, and SymSpell -- across three experimental conditions: uncorrected queries against an uncorrected corpus (baseline), uncorrected queries against a corrected corpus, and fully corrected queries against a corrected corpus. Using BM25 and TF-IDF cosine retrieval over 1,935 MedQuAD answer passages with TREC relevance judgments, we find that query correction substantially improves retrieval -- edit distance and context-aware correction achieve MRR improvements of +9.2% and NDCG@10 improvements of +8.3% over the uncorrected baseline. Critically, correcting only the corpus without correcting queries yields minimal improvement (+0.5% MRR), confirming that query-side correction is the key intervention. We complement these results with a 100-sample error analysis categorising correction outcomes per method and provide evidence-based recommendations for practitioners.",
+  "source_url": "https://arxiv.org/abs/2603.19249",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-23T04:00:00+00:00",
+  "id": "55eead82-b85e-48f0-9b31-7d37be517e93",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "RIP Metaverse, an $80 Billion Dumpster Fire Nobody Wanted",
+  "raw_content": "Who could have possibly predicted this, besides everyone?",
+  "source_url": "https://www.404media.co/rip-metaverse-an-80-billion-dumpster-fire-nobody-wanted/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-19T17:38:27+00:00",
+  "id": "2ead7c78-8884-400c-a1ec-5e6dba485492",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
