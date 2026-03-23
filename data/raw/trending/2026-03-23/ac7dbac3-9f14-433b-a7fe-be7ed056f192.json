@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《有毒啊》",
+  "raw_content": "Tips：实则放回去是正常流程 为了二次确认",
+  "source_url": "https://www.bilibili.com/video/BV1K5AJzxEFi",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-23T02:25:36.408682+00:00",
+  "id": "ac7dbac3-9f14-433b-a7fe-be7ed056f192",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4709711,
+    "platform": "bilibili"
+  }
+}
