@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Netflix发现了在现代CPU上扩展容器时的内核级瓶颈",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/ssaAohmSCrr8J2BcFgh2?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-23T14:00:00+00:00",
+  "id": "f402f69c-47b1-48dd-a372-0fe0b5b72412",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T09:09:37.642993+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
