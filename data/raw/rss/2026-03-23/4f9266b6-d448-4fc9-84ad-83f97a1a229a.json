@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Martin Schlegel, Antoine Martin, Petra Tschudin: Introductory remarks by the Governing Board, Swiss National Bank news conference",
+  "raw_content": "Introductory remarks by Mr Martin Schlegel, Chairman of the Governing Board of the SNB, Mr Antoine Martin, Vice Chairman of the Governing Board of the SNB, and Ms Petra Tschudin, Member of the Governing Board of the SNB, at the Media News Conference of the Swiss National Bank, Zurich, 19 March 2026.",
+  "source_url": "https://www.bis.org/review/r260323c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T17:01:44.234235+00:00",
+  "id": "4f9266b6-d448-4fc9-84ad-83f97a1a229a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Michael Atingi-Ego: Remarks - Town Hall Meeting - Kamuli District Leaders and Community",
+  "raw_content": "Remarks by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Town Hall Meeting - Kamuli District Leaders and Community, Kamuli District, 7 March 2026.",
+  "source_url": "https://www.bis.org/review/r260316c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T17:01:44.234429+00:00",
+  "id": "491e9706-41d5-4584-a3c6-2832915631b6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

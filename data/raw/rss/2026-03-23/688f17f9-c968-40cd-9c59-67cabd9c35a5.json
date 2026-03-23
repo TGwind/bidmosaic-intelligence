@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin rebounds to $71K as oil drops after Trump signals pause on Iran strikes",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin rebounds to $71K as oil drops after Trump signals pause on Iran strikes\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDFhYWQtYTJjYS03Njc3LTg5YTEtMTg2ODNlMzQxMzYxLmpwZw==.jpg\" /></p><p>Bitcoin moved back above $71,000 after US President Donald Trump postponed Iran strike for five days, sending oil price crashing below $100.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-taco-pumps-71k-oil-crashes-trump-pauses-iran-strikes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T13:08:15+00:00",
+  "id": "688f17f9-c968-40cd-9c59-67cabd9c35a5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

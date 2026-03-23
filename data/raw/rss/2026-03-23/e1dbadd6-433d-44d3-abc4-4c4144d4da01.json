@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto ETF inflows slow to $230M as Fed caution dents momentum: CoinShares",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto ETF inflows slow to $230M as Fed caution dents momentum: CoinShares\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDFhYWMtOWRmNS03MmQyLTlkM2QtNzFjZWMxOGU3YmIyLmpwZw==.jpg\" /></p><p>Weekly crypto ETP inflows reached $230 million despite $405 million in post-FOMC outflows, as Bitcoin led gains and Ether ended a three-week inflow streak, CoinShares reported.</p>",
+  "source_url": "https://cointelegraph.com/news/crypto-fund-inflows-slow-230-million-fed-hits-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T13:19:43+00:00",
+  "id": "e1dbadd6-433d-44d3-abc4-4c4144d4da01",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
