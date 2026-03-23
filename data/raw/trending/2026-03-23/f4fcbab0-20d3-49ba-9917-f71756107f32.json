@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "以“共赢思维”服务好新就业群体",
+  "raw_content": "以“共赢思维”服务好新就业群体",
+  "source_url": "https://www.toutiao.com/article/7620288408354652710",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-23T07:12:42.821931+00:00",
+  "id": "f4fcbab0-20d3-49ba-9917-f71756107f32",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "29145996",
+    "platform": "toutiao"
+  }
+}
