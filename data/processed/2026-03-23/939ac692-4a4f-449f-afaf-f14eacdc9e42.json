@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Brazil’s finance minister delays divisive crypto tax plan",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/23/brazil-s-finance-minister-delays-divisive-crypto-tax-plan",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T11:55:06+00:00",
+  "id": "939ac692-4a4f-449f-afaf-f14eacdc9e42",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T13:30:30.983360+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

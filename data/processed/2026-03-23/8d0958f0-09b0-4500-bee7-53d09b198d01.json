@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日股大跌1857点，市场担忧原油供应停滞长期化",
+  "raw_content": "2026/03/23 3月23日，东京股市的日经平均股价指数大幅连续下跌，较前一交易日下跌1857.04点（3.48%），收于51515.49点。受中东局势紧张影响，市场对原油供应停滞长期化的担忧成为主要利空因素。盘中一度下跌超过2600点，跌幅约达5%。 日经平均股指一度跌破作为心理关口的51000点，创下自2025年12月30日以来、约3个月的新低。爱德万测试、Tokyo Electron等半导体相关股票，以及运营优衣库等服装品牌的迅销等权重股普遍下跌。 投资者纷纷转向规避风险。反映日经平均股指预期波动率的“日经波动率指数（VI）”升至50以上，远高于通常被视为市场不安情绪上升的20的水平。 美国总统特朗普于21日通过社交媒体（SNS）表示，如果伊朗未能在48小时内开放霍尔木兹海峡，美国将攻击其发电设施。另有报道称，伊朗方面回应称，一旦发电站遭攻击，将作为报复“完全封锁该海峡”。这一紧张局势进一步加重了投资者的担忧情绪。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/61877-2026-03-23-14-57-37.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T07:38:03+00:00",
+  "id": "8d0958f0-09b0-4500-bee7-53d09b198d01",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T13:30:30.979945+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

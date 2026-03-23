@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "H100 eyes Europe’s largest bitcoin treasury with 3,500 BTC in proposed acquistions",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/23/h100-eyes-europe-s-largest-bitcoin-treasury-with-3-500-btc-in-proposed-acquistions",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T12:35:19+00:00",
+  "id": "7888bcc5-0039-4b35-80c3-2a9317ba8986",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T13:30:30.977899+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

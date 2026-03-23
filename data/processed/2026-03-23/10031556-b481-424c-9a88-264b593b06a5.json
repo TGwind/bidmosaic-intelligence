@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Sweden’s H100 targets Norwegian firms in all-stock Bitcoin deal",
+  "raw_content": "H100 signed a letter of intent to acquire two Bitcoin treasury companies and their BTC holdings, which could make it the second-largest Bitcoin treasury company in Europe.",
+  "source_url": "https://cointelegraph.com/news/h100-acquire-bitcoin-treasury-surpass-3-500-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T09:52:20+00:00",
+  "id": "10031556-b481-424c-9a88-264b593b06a5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T13:30:30.872458+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
