@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Federal immigration agents filmed making airport arrests as Trump calls in ICE to ease security line delays",
+  "raw_content": "The Trump administration has deployed ICE agents to over a dozen U.S. airports amid an ongoing federal shutdown that's causing long wait times. Eyewitnesses have already recorded at least one arrest in San Francisco's airport.",
+  "source_url": "https://techcrunch.com/2026/03/23/federal-immigration-agents-filmed-making-airport-arrests-as-trump-calls-in-ice-to-ease-security-line-delays/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-23T14:23:33+00:00",
+  "id": "75f84c09-7836-4714-86e1-d0dee8397a14",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T17:02:39.257509+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

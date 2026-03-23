@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Siren token surges 340% in 7 days, draws scrutiny over concentrated supply",
+  "raw_content": "Arkham data shows a wallet cluster holding 644 million SIREN, about 88% of the 728 million circulating supply, raising manipulation concerns.",
+  "source_url": "https://cointelegraph.com/news/siren-token-340-percent-surge-wallet-concentration-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T12:42:15+00:00",
+  "id": "060d5f9c-e74e-44dc-9fb0-d13e8af6e258",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T17:02:39.122511+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Primo&#382; Dolenc: Opening address - \"Stablecoins and their impact on financial stability\"",
+  "raw_content": "Opening address by Mr Primo&#382; Dolenc, Acting Governor of Banka Slovenije, at the event \"Stablecoins and their impact on financial stability\", Split, 26 February 2026.",
+  "source_url": "https://www.bis.org/review/r260319e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T17:01:44.234524+00:00",
+  "id": "c49e6559-6e3a-4616-ba8e-0c6885d76a01",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T17:02:39.263986+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
