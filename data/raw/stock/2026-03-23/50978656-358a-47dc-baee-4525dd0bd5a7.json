@@ -1,0 +1,41 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "易点天下(301171) 今日跌6.07% 报42.70元",
+  "raw_content": "易点天下(301171) 最新价 42.70元，跌6.07%，涨跌额 -2.76元，今开 45.00元，最高 45.42元，最低 42.41元，昨收 45.46元，成交额 9.51亿元，振幅 6.62%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz301171/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-03-23T10:49:59.672139+00:00",
+  "id": "50978656-358a-47dc-baee-4525dd0bd5a7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [
+      "301171"
+    ],
+    "price_change": {
+      "price": 42.7,
+      "change_pct": -6.07,
+      "change_amt": -2.76
+    },
+    "indicators": {
+      "volume": 21774854.0,
+      "turnover": 951495114.51,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 6.62,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}
