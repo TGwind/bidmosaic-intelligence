@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "51岁男子21年前被越南妻子感染HIV",
+  "raw_content": "51岁男子21年前被越南妻子感染HIV",
+  "source_url": "https://www.toutiao.com/trending/7620443657674080310/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227620443657674080310%22%2C%22hot_board_impr_id%22%3A%22202603240256510B4D9E3FF6036928347C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2251%E5%B2%81%E7%94%B7%E5%AD%9021%E5%B9%B4%E5%89%8D%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%A6%BB%E5%AD%90%E6%84%9F%E6%9F%93HIV%22%7D&rank=&style_id=40132&topic_id=7620443657674080310",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-23T18:56:51.844235+00:00",
+  "id": "541a1d3c-4041-46b5-b5b0-404d3a991ce6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "26189487",
+    "platform": "toutiao"
+  }
+}
