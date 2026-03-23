@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本的幸福指数降至全球第61，中国排第65",
+  "raw_content": "<div>2026/03/23</div><div id=\"contentDiv\">\n<div></div>\n<div><strong><span><img height=\"375\" src=\"https://feedx.net/images/2026/03/0323/0323-07-L.jpg\" width=\"600\" /></span></strong></div>\n<p><strong><span>东京街头的上班族（资料图）</span></strong></div>\n<div>  </div>\n<div>       联合国和英国牛津大学等日前发表了2026年版《全球幸福指数报告》。芬兰连续9年位居榜首，日本则从2025年的第55位下滑至第61位。报告指出，在欧美等一些国家，社交网络的过度使用可能成为年轻人幸福指数下降的原因之一。</div>\n<div> </div>\n<div>       报告显示，在半数以上的国家，25岁以下年轻人的幸福指数比20年前提高。另一方面，美国、加拿大、澳大利亚和西欧等则有所下降。过度使用社交网络被认为是原因之一。</div>\n<div> </div>\n<div>       该报告以在147个国家和地区进行调查的自我评价生活满意度为基础进行排名，并结合人均国内生产总值（GDP）和健康寿命进行分析。第2位是冰岛，第3位是丹麦，第4位是中美洲的哥斯达黎加。美国排在第23位，中国排在第65位，阿富汗垫底。</div>\n<div> </div>\n<div>       关于年轻人的社交网络限制，澳大利亚2025年12月首次在国家层面实施了禁止未满16岁人士使用的法律。</div>\n<div> </div>\n<div>      <strong> Kyodo</strong></div>\n<div><strong> </strong></div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61869-2026-03-23-10-32-04.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T02:38:03+00:00",
+  "id": "f20752ac-1e21-4f83-93e0-4dd436dee464",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日产将在中国上市“NX8”，最高续航1450公里",
+  "raw_content": "<div>2026/03/23</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"375\" src=\"https://feedx.net/images/2026/03/0323/0323-06-L.jpg\" width=\"600\" />\n\n\n<span><strong>在中国开启预售的日产SUV“NX8”（3月20日、广州市）</strong></span>\n\n\n\n<div>   <br />      日产汽车3月20日发布消息称，已在中国启动SUV新款车“NX8”的预售。除纯电动汽车（EV）外，还推出了配备全新电动系统、续航里程达1450公里的版本。计划借此满足对纯电动车的续航存在顾虑的消费者的需求。</div>\n<div>  </div>\n<div>      NX8将由日产在中国的合资品牌“东风日产”于4月正式上市。将销售两个版本：一是纯电动汽车（EV），二是配备小型的发电用发动机、延长续航里程的增程式电动车（EREV）。这是日产首次推出增程式电动车。NX8利用满充电的车载电池和发电的合计续航里程（中国自主的CLTC模式）可达1450公里。</div>\n<div>  </div>\n<div>      日产在快速发展的新能源汽车转型中已落后。</div>\n<div>  </div>\n<div>      日产的在华销量从2018年的156万辆下滑至2025年的65万辆，降幅接近6成。日产希望通过NX8扩充新能源汽车产品线，遏制在华销量持续下滑的态势。</div>\n<div>  </div>\n<div>      <strong>日本经济新闻（中文版：日经中文网）田边静 广州报道</strong></div>\n<div></div><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "http://cn.nikkei.com/product/automobile/61871-2026-03-23-10-35-03.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T03:08:03+00:00",
+  "id": "4619fd6b-5d1c-43a5-8303-bba3b2075c05",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Spain arrests suspect in 2025 kidnapping of Ledger co-founder",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spain arrests suspect in 2025 kidnapping of Ledger co-founder\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDFhYWEtZTgxNi03MmYzLTg0NGYtZDJhNzEzODkxOWI0LmpwZw==.jpg\" /></p><p>Spain’s Civil Guard detained a suspect wanted by France over the 2025 kidnapping of Ledger co-founder David Balland, in a case tied to a wider wave of crypto-targeted abductions.</p>",
+  "source_url": "https://cointelegraph.com/news/spain-arrests-suspect-ledger-cofounder-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T13:41:11+00:00",
+  "id": "d16bd255-47b3-40bd-a897-757a85199c13",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Fabio Panetta: Introductory remarks &#8211; conference \"Laying the groundwork for jobs in Africa: core infrastructure and business environments\"",
+  "raw_content": "Introductory remarks by Mr Fabio Panetta, Governor of the Bank of Italy, at the conference \"Laying the goundwork for jobs in Africa: core infrastructure and business environments\", organised by the Bank of Italy, Rome, 4 March 2026.",
+  "source_url": "https://www.bis.org/review/r260310b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T20:46:10.379955+00:00",
+  "id": "62e3a1d0-b89b-4872-83b5-1affd77034de",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
