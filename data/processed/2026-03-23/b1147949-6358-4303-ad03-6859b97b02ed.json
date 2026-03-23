@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Antoine Martin: Emphase Ltd to design new banknote series - the Swiss National Bank exhibits all 12 concepts from the design competition",
+  "raw_content": "Remarks by Mr Antoine Martin, Vice Chairman of the Governing Board of the Swiss National Bank, and Mr Sébastien Kraenzlin, Alternate Member of the Governing Board of the Swiss National Bank, at the Swiss National Bank's news conference, Zurich, 4 March 2026.",
+  "source_url": "https://www.bis.org/review/r260316a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T02:53:14.788481+00:00",
+  "id": "b1147949-6358-4303-ad03-6859b97b02ed",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T02:54:49.173057+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

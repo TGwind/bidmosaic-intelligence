@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
+  "raw_content": "AI can help generate medical image reports, but today’s models struggle with varying reporting schemes. Learn how UniRG uses reinforcement learning to boost performance of medical vision-language models. The post UniRG: Scaling medical imaging report generation with multimodal reinforcement learning appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-01-27T17:00:00+00:00",
+  "id": "5d14f222-1b73-4645-bdba-0bce8b76c2e6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T02:54:49.127704+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "How fusion power works and the startups pursuing it",
+  "raw_content": "Fusion power promises to generate large amounts of clean electricity from nearly limitless fuel. This article explains the main approaches and the companies that use them.",
+  "source_url": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-21T14:00:00+00:00",
+  "id": "fd2d608a-1578-491a-8e04-ffec64dc895c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T02:54:49.202697+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

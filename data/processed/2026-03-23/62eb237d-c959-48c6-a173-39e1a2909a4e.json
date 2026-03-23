@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin options signal extreme fear as downside protection premium hits new all-time high, says VanEck",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/21/bitcoin-options-signal-extreme-fear-as-downside-protection-premium-hits-new-all-time-high-says-vaneck",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-21T18:54:23+00:00",
+  "id": "62eb237d-c959-48c6-a173-39e1a2909a4e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T02:54:49.132283+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

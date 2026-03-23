@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "It’s been 20 years since the first tweet",
+  "raw_content": "On March 21, 2006, Jack Dorsey posted a simple message: “just setting up my twittr”.",
+  "source_url": "https://techcrunch.com/2026/03/21/its-been-20-years-since-the-first-tweet/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-21T20:30:47+00:00",
+  "id": "0ed4d881-0f33-4808-ad5c-fa1d2df6709e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-23T02:54:49.075606+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
