@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "BitGo, Susquehanna roll out institutional OTC access to prediction markets",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitGo, Susquehanna roll out institutional OTC access to prediction markets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIwNmEtNzFmOC03ZjlkLWE2NzktNDU1ZGJlMDhlNzMwLmpwZw==.jpg\" /></p><p>The offering allows institutional investors to trade event-based contracts using crypto collateral, as regulatory scrutiny of prediction markets intensifies in the United States.</p>",
+  "source_url": "https://cointelegraph.com/news/bitgo-susquehanna-roll-out-institutional-otc-access-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-24T16:31:58+00:00",
+  "id": "f1a8f69b-4954-48a1-a275-faacb9df0a8f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

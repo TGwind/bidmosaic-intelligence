@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Resolv temporarily halts protocol to ‘contain the impact’ of 80M USR exploit",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Resolv temporarily halts protocol to ‘contain the impact’ of 80M USR exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2U2NTMtNmYwNy03ZjVhLTkwOTctMzg2ODljMWQ4YjYxLmpwZw==.jpg\" /></p><p>Resolv’s USR dollar stablecoin is trading at just $0.24 after an attacker minted 80 million unbacked tokens, forcing a full protocol pause and reopening fears over stablecoin risk.</p>",
+  "source_url": "https://cointelegraph.com/news/resolv-protocol-temporarily-halted-80m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-24T13:57:49+00:00",
+  "id": "948eeb03-8f28-42a0-8607-f6d1df542a63",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
