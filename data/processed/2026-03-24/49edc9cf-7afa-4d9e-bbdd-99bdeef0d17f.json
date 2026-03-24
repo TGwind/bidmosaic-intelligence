@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "关于主人的问题.....",
+  "raw_content": "先得罪到这了，攥一攥 后面再说",
+  "source_url": "https://www.bilibili.com/video/BV1TcAsz6EEH",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-24T02:10:20.393840+00:00",
+  "id": "49edc9cf-7afa-4d9e-bbdd-99bdeef0d17f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T02:10:52.125878+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3029982,
+    "platform": "bilibili"
+  }
+}

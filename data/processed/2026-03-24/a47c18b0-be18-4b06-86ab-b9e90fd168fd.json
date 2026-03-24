@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "有请下一位求助",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1k4AczeEkz",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-24T02:10:20.393832+00:00",
+  "id": "a47c18b0-be18-4b06-86ab-b9e90fd168fd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T02:10:52.129784+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2955726,
+    "platform": "bilibili"
+  }
+}
