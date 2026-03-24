@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "拥有法天象地但是用了就会嘎？！",
+  "raw_content": "拥有法天象地但是用了就会嘎？！",
+  "source_url": "https://www.bilibili.com/video/BV1WKAFzFERN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-24T02:10:20.393850+00:00",
+  "id": "ed03f24e-a771-4a2c-8ec1-dcf82cbd448c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3633363,
+    "platform": "bilibili"
+  }
+}
