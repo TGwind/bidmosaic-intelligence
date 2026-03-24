@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Wall Street will eventually submit to the rules of DeFi",
+  "raw_content": "Wall Street won’t tame DeFi. Regulation creates compliant tiers atop permissionless liquidity, forcing TradFi to adopt DeFi’s superior speed and composability.",
+  "source_url": "https://cointelegraph.com/news/wall-street-will-submit-to-defi-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-24T12:30:00+00:00",
+  "id": "c00d9c47-2a95-4c4a-8872-94192a48c46c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T13:41:41.884942+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

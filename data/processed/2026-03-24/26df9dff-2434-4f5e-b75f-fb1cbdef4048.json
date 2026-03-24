@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Siren token slides 70% after analysts flag concentrated holdings",
+  "raw_content": "Onchain analyst EmberCN warned that Siren’s rally may stem from one party cornering spot supply to profit via derivatives.",
+  "source_url": "https://cointelegraph.com/news/urgency-level-for-cover-news-title-siren-token-drops-63-a-day-after-wallet-concentration-drew-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-24T10:56:26+00:00",
+  "id": "26df9dff-2434-4f5e-b75f-fb1cbdef4048",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T13:41:41.789783+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
