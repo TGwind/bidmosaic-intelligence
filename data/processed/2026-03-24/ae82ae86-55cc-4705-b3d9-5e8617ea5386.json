@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "三菱电机向中国人形机器人初创企业出资",
+  "raw_content": "2026/03/24 三菱电机在中国的工厂自动化设备制造基地 三菱电机将向从事人形机器人研发与制造的中国初创企业出资。三菱电机计划将其工厂自动化（FA）设备与人形机器人相结合，提供面向制造一线的省人化与无人化解决方案。 三菱电机将通过负责中国FA业务的子公司，于3月内完成出资。出资对象为成立于2024年的中国初创企业鹿明机器人科技（Lumos Robotics Technology，简称：鹿明机器人）。该公司在面向制造业应用的人形机器人领域具有优势，不仅开展硬件开发，还拥有能够高效收集用于机器人训练的作业数据的独有技术。 三菱电机正在其中国制造基地使用鹿明机器人的人形机器人开展实证测试。",
+  "source_url": "http://cn.nikkei.com/industry/manufacturing/61889-2026-03-24-13-54-55.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-24T06:08:03+00:00",
+  "id": "ae82ae86-55cc-4705-b3d9-5e8617ea5386",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T09:02:08.184884+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "As mass adoption approaches, crypto has forgotten its roots",
+  "raw_content": "Mass adoption risks crypto’s cypherpunk roots. Privacy as a permissionless foundation must reclaim DeFi from surveillance, TradFi and memecoin casinos.",
+  "source_url": "https://cointelegraph.com/news/crypto-has-forgotten-roots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-24T08:00:00+00:00",
+  "id": "2e0f94fd-9747-4e33-866d-d9809fa5a4d8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T09:02:08.101938+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
