@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "你可能不认识我们，但一定听过我们的歌（Vicetone）",
+  "raw_content": "你可能不认识我们，但一定听过我们的歌（Vicetone）",
+  "source_url": "https://www.bilibili.com/video/BV1D2AJzYE5H",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-24T07:05:43.988917+00:00",
+  "id": "a7642e49-d634-43ca-9190-4c5c0540f8f6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3421963,
+    "platform": "bilibili"
+  }
+}

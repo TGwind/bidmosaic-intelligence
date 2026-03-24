@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "走过路过，不要错过！我们的品质，普普通通，我们的价格，没有极限，欢迎来到——富人直播间！（纯属虚构，如有冒犯，先道歉🙇🏻‍♀️",
+  "raw_content": "走过路过，不要错过！我们的品质，普普通通，我们的价格，没有极限，欢迎来到——富人直播间！（纯属虚构，如有冒犯，先道歉🙇🏻‍♀️",
+  "source_url": "https://www.bilibili.com/video/BV1ZbwCzuEL7",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-24T07:05:43.988909+00:00",
+  "id": "75edf9a4-3529-45b3-82de-10ce868f030a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5811575,
+    "platform": "bilibili"
+  }
+}
