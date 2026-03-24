@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Polymarket tightens rules to curb manipulation, insider trading risks",
+  "raw_content": "The prediction bourse rolls out stricter trading safeguards and market limits across its platforms as it seeks regulatory alignment and addresses concerns over fairness.",
+  "source_url": "https://cointelegraph.com/news/polymarket-rules-update-manipulation-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-23T18:21:59+00:00",
+  "id": "54faca33-54b0-4808-8beb-60e8b43e799d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T02:46:42.968980+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

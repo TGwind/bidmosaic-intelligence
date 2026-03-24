@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "印度放宽对中国等邻国的直接投资限制",
+  "raw_content": "2026/03/24 印度政府表示，将通过放宽限制，促进外国直接投资（FDI）以及与全球供应链的融合（reuters） 印度最近放宽了限制中国对本国国内企业投资的限制。这显示出，因2020年发生伤亡的边境冲突而恶化的中印两国关系正在持续走向改善。 印度政府今后将在60天内就接壤国家的投资提议做出决定，对象包括生产资料、电子零部件、光伏面板材料多晶硅以及半导体材料硅晶圆等领域。 成为投资对象的企业的控制权必须由印度企业或个人持有。不过，对于来自邻国且出资比例在10%以下的投资，则无需政府的审批。 在2020年4月起实施的以往的规定中，为了防止外国资本趁着新冠疫情带来的混乱收购印度企业，投资需要得到印度政府的批准。这一措施的背景是，中国人民银行（央行）对印度最大的民营银行HDFC银行的出资比率从0.8%提高到1.1%，一度在印度国内引发反对。 印度政府在一份声明中强调称，随着放宽限制，将促进外国直接投资（FDI）以及与全球供应链的融合，提高印度作为制造基地的竞争力。 印度政府还表示：“FDI的流入增加或补充国内资本，支撑‘自力更生印度(Atmanirbhar Bharat)’的目标，加速经济整体增长”。 日本经济新闻（中文版：日经中文网）SAYAN CHAKRABORTY 班加罗尔",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/investtrade/61875-2026-03-24-05-00-03.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T21:08:02+00:00",
+  "id": "2c0f8472-e24b-42af-8b58-3593fac7e9f1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T02:46:42.939422+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普称“本周内继续与伊朗磋商”",
+  "raw_content": "2026/03/24 特朗普对记者表示，两国代表“很快将会直接会面”。而 伊朗外交部否认正在与美国进行谈判的说法…… 敬请登录以便观看全部文章 如果您已经是日经中文网会员，请点击此处，进行登录。 如果您还不是日经中文网会员，请点击此处，进行会员免费注册。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61878-2026-03-24-08-28-49.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-24T00:38:02+00:00",
+  "id": "49d48689-562a-4f66-be1e-055af34f2999",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T02:46:42.961009+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
