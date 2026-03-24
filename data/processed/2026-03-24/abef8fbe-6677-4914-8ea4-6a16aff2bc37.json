@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "科技春耕与春日经济共绘希望田野",
-  "raw_content": "科技春耕与春日经济共绘希望田野",
-  "source_url": "https://www.toutiao.com/article/7620146226276680228",
+  "raw_title": "一组对比图看雄安巨变",
+  "raw_content": "一组对比图看雄安巨变",
+  "source_url": "https://www.toutiao.com/article/7620645773046219291",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-24T02:10:19.498604+00:00",
-  "id": "baaa025c-309d-483e-9257-d6cd53947ad9",
+  "collected_at": "2026-03-24T13:15:02.686063+00:00",
+  "id": "abef8fbe-6677-4914-8ea4-6a16aff2bc37",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-24T13:15:49.542298+00:00",
+  "processed_at": "2026-03-24T13:15:49.536608+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "41892336",
+    "hot_score": "56408111",
     "platform": "toutiao"
   }
 }

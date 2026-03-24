@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "最害怕的一集",
-  "raw_content": "游戏：The Dark Rites of Arkham 如果喜欢的话，可以三联一下吗？这对我很重要！谢谢！",
-  "source_url": "https://www.bilibili.com/video/BV1G9AWzLEMU",
+  "raw_title": "姐姐真漂亮",
+  "raw_content": "姐姐真漂亮",
+  "source_url": "https://www.bilibili.com/video/BV1h4AnzKEUx",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-24T02:10:20.393816+00:00",
-  "id": "628563f4-a7df-4647-b070-1a8ddc35dfcc",
+  "collected_at": "2026-03-24T13:15:03.721190+00:00",
+  "id": "12d515d5-d4d1-4ec3-83d9-6f0e5b9205b7",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-24T13:15:49.534784+00:00",
+  "processed_at": "2026-03-24T13:15:49.519953+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2413741,
+    "hot_score": 2840097,
     "platform": "bilibili"
   }
 }
