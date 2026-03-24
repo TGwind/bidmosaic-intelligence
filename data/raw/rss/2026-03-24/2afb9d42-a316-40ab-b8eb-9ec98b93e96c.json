@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本外务省调查：东南亚最重视的国家是中国",
+  "raw_content": "<div>2026/03/24</div><div id=\"contentDiv\">\n<div></div>\n<div><img height=\"375\" src=\"https://feedx.net/images/2025/06/0625/0625-03-L.jpg\" width=\"600\" /></div>\n<div> </div>\n<div>       日本外务省日前公布了在美国、东盟、印度实施的对日舆论调查结果。在问及东盟成员国“今后将成为重要伙伴的国家和机构”（可多选）时，中国以52%居首，日本以45%位列第二。在印度，俄罗斯以59%居首，日本以57%紧随其后。</div>\n<div> </div>\n<div>       这一结果反映出，对于日本正着力构建关系的东盟和印度而言，中国和俄罗斯仍具有一定的影响力。</div>\n<div>   </div>\n<div>       在美国，向有识之士询问了“在亚洲及周边地区最重要的伙伴”。结果日本以50%居首，其后是中国17%、印度16%、澳大利亚8%、韩国3%。</div>\n<div> </div>\n<div>       此项调查于2025年10~11月通过网络实施。调查对象为东盟3000人、印度2200人、美国200人。</div>\n<div> </div>\n<div>      <strong>Kyodo</strong></div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61801-2026-03-24-09-51-02.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-24T02:08:03+00:00",
+  "id": "2afb9d42-a316-40ab-b8eb-9ec98b93e96c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
