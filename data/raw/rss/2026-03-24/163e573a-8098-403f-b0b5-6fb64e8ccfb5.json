@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
+  "raw_content": "arXiv:2603.19429v1 Announce Type: new \nAbstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners ground these representations to simplify reasoning, this can cause an exponential blowup in size. Recent approaches instead operate directly on the lifted level to avoid full grounding. We explore a middle ground between fully lifted and fully grounded planning by introducing three SAT encodings that keep actions lifted while partially grounding predicates. Unlike previous SAT encodings, which scale quadratically with plan length, our approach scales linearly, enabling better performance on longer plans. Empirically, our best encoding outperforms the state of the art in length-optimal planning on hard-to-ground domains.",
+  "source_url": "https://arxiv.org/abs/2603.19429",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-23T04:00:00+00:00",
+  "id": "163e573a-8098-403f-b0b5-6fb64e8ccfb5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

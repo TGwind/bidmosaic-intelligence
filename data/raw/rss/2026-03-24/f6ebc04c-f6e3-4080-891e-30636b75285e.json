@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Enforce data residency with Amazon Quick extensions for Microsoft Teams",
+  "raw_content": "In this post, we will show you how to enforce data residency when deploying Amazon Quick Microsoft Teams extensions across multiple AWS Regions. You will learn how to configure multi-Region Amazon Quick extensions that automatically route users to AWS Region-appropriate resources, helping keep compliance with GDPR and other data sovereignty requirements.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/enforce-data-residency-with-amazon-quick-extensions-for-microsoft-teams/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-19T14:20:04+00:00",
+  "id": "f6ebc04c-f6e3-4080-891e-30636b75285e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
