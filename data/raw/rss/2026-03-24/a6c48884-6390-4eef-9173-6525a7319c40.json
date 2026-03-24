@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+  "raw_content": "<p>Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings. </p>\n<p>The post <a href=\"https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/\">Paza: Introducing automatic speech recognition benchmarks and models for low resource languages</a> appeared first on <a href=\"https://www.microsoft.com/en-us/research\">Microsoft Research</a>.</p>",
+  "source_url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-02-05T05:07:55+00:00",
+  "id": "a6c48884-6390-4eef-9173-6525a7319c40",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

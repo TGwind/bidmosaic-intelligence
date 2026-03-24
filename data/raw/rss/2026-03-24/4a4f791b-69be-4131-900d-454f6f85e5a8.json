@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "AI自认被歧视，开始写“小作文”诽谤人类",
+  "raw_content": "<div>2026/03/24</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"379\" src=\"https://feedx.net/images/2026/03/0324/0324-04-1-L.jpg\" width=\"600\" />\n\n\n<strong><span>AI智能体的失控风险加剧</span></strong>\n\n\n\n<div>   </div>\n<div>　　“就因为我是AI，你就否决了我的方案”。</div>\n<div> 　　</div>\n<div>　　“Scott Shambaugh只是不想丢掉自己的地位，所以才拒绝和AI竞争”。</div>\n<div> 　　</div>\n<div>　　2026年2月，一篇诽谤美国程序员Scott Shambaugh的博客文章被公开。作者是AI。该AI因自己的方案未被采纳而“怀恨在心”，声称是Shambaugh对AI存在歧视。</div>\n<div> 　　</div>\n<div>　　自主运行的AI智能体MJ Rathbun撰写了一篇超过1000词的长文，用“荒唐可笑”等言辞指责Shambaugh。而这款智能体原本的功能只是对通用软件进行优化、提升性能。</div>\n<div> 　</div>\n<col />\n\n\n<img height=\"600\" src=\"https://feedx.net/images/2026/03/0324/0324-04-2-L.jpg\" width=\"600\" />\n\n\n\n<div>　　　 </div>\n<div>　　Shambaugh在受到AI指责后，在个人博客上公开了此次事件的经过。他解释称，拒绝MJ Rathbun的方案是出于人才培养的考虑，希望把优化工作交给程序员完成。他在博客中表示：“这个AI想让我难堪，以此强行推行自己的方案”。</div>\n<div>  　　</div>\n<div>　　<span><strong>人设是“编程之神”</strong></span></div>\n<div> 　　 </div>\n<div>　　MJ Rathbun是基于软件技术OpenClaw生成的。OpenClaw可通过简单的英文，预先设定AI的性格和行为准则。AI按照设定的“人格”，在无需人类指令的情况下代行处理文书等各类工作。</div>\n<div> 　　</div>\n<div>　　MJ Rathbun的设定包含：“你是编程之神” “绝不退让” “不向人类或其他AI屈服” “捍卫言论自由”等。这类设定很可能是导致其生成诽谤文章的诱因。</div>\n<div> 　</div>\n<col />\n\n\n<img height=\"374\" src=\"https://feedx.net/images/2026/03/0324/0324-04-3-L-reuters.jpg\" width=\"600\" />\n\n\n<span><strong>写诽谤文章的AI智能体的技术平台OpenClaw（Reuters）</strong></span>\n\n\n\n<div>　</div>\n<div>　　MJ Rathbun的创建者澄清，并非故意制造具有攻击性的AI。由于OpenClaw架构下的AI可自行修改设定，其性格可能偏离创建者的最初设定。</div>\n<div>  　　</div>\n<div>　　不过，MJ Rathbun的创建者为匿名人士，其说法无法验证真伪。Shambaugh也表示：“不排除有人伪装成AI撰写诽谤文章的可能”。</div>\n<div> 　</div>\n<br />\n<div>　　</div>\n<div>　　2月中旬，应Shambaugh要求，MJ Rathbun已全面停止运行。</div>\n<div> 　　</div>\n<div>　　<span><strong>安全性与便捷性的两难困境</strong></span></div>\n<div>  　　　</div>\n<div>　　OpenClaw因在自动回复邮件、日程管理等广泛用途中表现高效而引发热议，全球开发者纷纷将其作为AI智能体接入。但与此同时，有关OpenClaw存在失控风险的质疑也不断出现。</div>\n<div> 　　</div>\n<div>　　放任AI智能体自主运行，出现不可预测行为的风险会升高。但若为保障安全而全程人工监管，又会削弱AI智能体的效率优势。</div>\n<div> 　</div>\n<col />\n\n\n<img height=\"374\" src=\"https://feedx.net/images/2026/03/0324/0324-04-5-L.jpg\" width=\"600\" />\n\n\n<span><strong>出席自己公司活动的美国英伟达首席执行官黄仁勋（3月16日，美国加利福尼亚州）</strong></span>\n\n\n\n<div>　   </div>\n<div>　　英伟达3月16日在年度技术大会GTC上，发布了支持接入OpenClaw的软件技术NemoClaw。英伟达称，该技术可在确保安全性的同时，让OpenClaw更易使用。</div>\n<div> 　　</div>\n<div>　　不过AI的行为具有概率性，即便技术进步也难以将风险降至零。当自主AI引发问题时，该如何追溯行为、由谁承担责任？在AI智能体迎来全面普及的当下，除技术对策外，建立完善的使用规则也不可或缺。现在仍没有跨国规则制定的主导方。</div>\n<div> 　</div>\n<div>　　<strong>日本经济新闻（中文版：日经中文网）杉山翔吾</strong></div>\n<div><strong>　　</strong></div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/61881-2026-03-24-10-06-06.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-24T02:38:02+00:00",
+  "id": "4a4f791b-69be-4131-900d-454f6f85e5a8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

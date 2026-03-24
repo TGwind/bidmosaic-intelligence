@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Apple Maps may be about to get ads",
+  "raw_content": "Apple Maps may soon serve ads in top results when users search on terms like \"restaurants.\"",
+  "source_url": "https://techcrunch.com/2026/03/23/apple-maps-may-be-about-to-get-ads/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-23T22:33:03+00:00",
+  "id": "5c0ebe39-c871-43d9-99a9-95bd1972325f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

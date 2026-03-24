@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Luis de Guindos: Interview with El Mundo",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260323~b893c61107.en.html",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-23T06:00:00+00:00",
+  "id": "bf9301c4-979e-47e4-9a77-d69cc5a3bec1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}
