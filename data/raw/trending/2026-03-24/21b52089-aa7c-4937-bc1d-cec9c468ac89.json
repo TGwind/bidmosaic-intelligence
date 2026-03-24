@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "现在能继续为你服务了吗_",
+  "raw_content": "无广",
+  "source_url": "https://www.bilibili.com/video/BV1KHQQBDEtU",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-24T13:15:03.721241+00:00",
+  "id": "21b52089-aa7c-4937-bc1d-cec9c468ac89",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1716162,
+    "platform": "bilibili"
+  }
+}
