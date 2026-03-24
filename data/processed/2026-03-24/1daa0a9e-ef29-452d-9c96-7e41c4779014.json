@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "伯克希尔首次与日系金融机构开展业务合作",
+  "raw_content": "2026/03/24 日本东京海上控股公司3月23日发布消息称，与美国投资公司伯克希尔·哈撒韦进行资本业务合作。将于4月接受伯克希尔的2874亿日元出资，出资比例为2.5%。除了以保险公司等为对象联合推进并购之外，还将在再保险领域进行合作。将利用伯克希尔的全球网络，扩大海外业务。 伯克希尔以往对日本企业的投资以大型商社为主。截至2025年12月底，已对三菱商事和三井物产等出资约10%。参股商社是押注企业增长带来股价上涨的投资。在业务方面与日资金融机构展开合作尚属首次。 将由伯克希尔的子公司、从事再保险业务的美国国民保险公司（NICO）出资，收购东京海上控股持有的自有股份。合作期限为10年。在没有东京海上控股董事会事先批准的情况下，伯克希尔收购股份的比例无法超过9.9%。 业务合作的核心是并购和再保险。两家公司将寻找保险公司和相关领域的投资对象，联合实施并购。 通过与拥有丰富并购信息的伯克希尔合作，东京海上能够大幅增加投资选项。 在再保险方面，东京海上控股也从美国国民保险公司购买服务。再保险是保险公司将承担的合同的一部分转移到其他保险公司、降低保险金支付风险的商品。 国民保险公司将财产保险居日本国内第一位的东京海上控股变为客户，有助于业绩的稳定。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/efinance/61883-2026-03-24-10-33-40.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-24T02:38:02+00:00",
+  "id": "1daa0a9e-ef29-452d-9c96-7e41c4779014",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T05:27:52.106530+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Last Week in AI #337 - Anthropic Risk, QuitGPT, ChatGPT 5.4",
+  "raw_content": "Anthropic officially told by DOD that it&#8217;s a supply chain risk, &#8216;cancel ChatGPT&#8217; trend is growing after OpenAI signs a deal with the US military, and more!",
+  "source_url": "https://lastweekin.ai/p/last-week-in-ai-337-anthropic-risk",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-09T07:15:45+00:00",
+  "id": "19bf582f-4efa-4075-a6fa-2a9057d4c160",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T05:27:52.103998+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

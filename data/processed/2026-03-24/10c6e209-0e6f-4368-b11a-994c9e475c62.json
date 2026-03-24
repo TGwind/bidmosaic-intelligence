@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本首相高市早苗：从26日起释放国家石油储备",
+  "raw_content": "2026/03/24 日本政府3月24日上午在首相官邸召开了有关中东局势的相关阁僚会议首次会议。日本首相高市早苗表示：“为避免石油产品供应出现问题，将从26日起开始释放国家石油储备”。她还表示，由产油国参与的共同石油储备也预计将在本月内开始释放。 高市早苗指示相关阁僚根据石脑油等相关产品的全球供应状况以及国内库存情况，汇总应对措施。 此次相关阁僚会议是在美国和以色列对伊朗发动攻击后召开，旨在讨论能源保障等对策。除首相外，官房长官木原稔、外相茂木敏充、农相铃木宪和、经济产业相赤泽亮正、国土交通相金子恭之以及防卫相小泉进次郎等出席会议。 高市早苗强调，就包括霍尔木兹海峡在内的中东局势稳定而言，“从能源稳定供应的角度来看，这对包括日本在内的国际社会极为重要”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61888-2026-03-24-08-28-56.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-24T05:08:03+00:00",
+  "id": "10c6e209-0e6f-4368-b11a-994c9e475c62",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T05:27:52.100380+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

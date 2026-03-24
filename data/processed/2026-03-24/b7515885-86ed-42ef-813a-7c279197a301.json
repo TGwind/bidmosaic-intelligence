@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
+  "raw_content": "arXiv:2603.20260v1 Announce Type: new Abstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative reasoning. However, this collec-tive intelligence is inherently fragile, as a single logical fallacy can rapidly propagate and lead to system-wide failure. Most current research re-lies on post-hoc failure analysis, thereby hinder-ing real-time intervention. To address this, we propose PROMAS, a proactive framework utiliz-ing Markov transitions for predictive error anal-ysis. PROMAS extracts Causal Delta Features to capture semantic displacement, mapping them to a quantized Vector Markov Space to model reasoning as probabilistic transitions. By inte-grating a Proactive Prediction Head with Jump Detection, the method localizes errors via risk acceleration rather than static thresholds. On the Who&amp;When benchmark, PROMAS achieves 22.97% step-level accuracy while processing only 27% of reasoning logs. This performance rivals reactive monitors like MASC while reducing data overhead by 73%. Although this strategy entails an accuracy trade-off compared to post-hoc meth-ods, it significantly improves intervention latency, balancing diagnostic precision with the real-time demands of autonomous reasoning.",
+  "source_url": "https://arxiv.org/abs/2603.20260",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-24T04:00:00+00:00",
+  "id": "b7515885-86ed-42ef-813a-7c279197a301",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T05:27:52.189093+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
