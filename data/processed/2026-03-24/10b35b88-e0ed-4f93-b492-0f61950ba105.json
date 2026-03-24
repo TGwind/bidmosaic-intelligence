@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "⚡对 对 子 战 神⚡",
-  "raw_content": "BGM：UwU Funk",
-  "source_url": "https://www.bilibili.com/video/BV1bXAJz8EYC",
+  "raw_title": "关于主人的问题.....",
+  "raw_content": "先得罪到这了，攥一攥 后面再说",
+  "source_url": "https://www.bilibili.com/video/BV1TcAsz6EEH",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-24T02:10:20.393738+00:00",
-  "id": "1f4e5c31-44ef-45a9-bfcc-b56e094a621f",
+  "collected_at": "2026-03-24T07:05:43.988982+00:00",
+  "id": "10b35b88-e0ed-4f93-b492-0f61950ba105",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-24T07:06:13.508220+00:00",
+  "processed_at": "2026-03-24T07:06:13.496893+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 9798150,
+    "hot_score": 3071434,
     "platform": "bilibili"
   }
 }
