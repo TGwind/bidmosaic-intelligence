@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "The one question everyone should be asking after OpenAI’s deal with the Pentagon",
+  "raw_content": "“In terms of safety guardrails for ‘high-stake decisions’ or surveillance, the existing guardrails for generative AI are deeply lacking, and it has been shown how easily compromised they are, intentionally or inadvertently,” Heidy Khlaaf, the chief AI scientist at the nonprofit AI Now Institute, told me. “It’s highly doubtful that if they cannot guard their systems against benign cases, they’d be able to do so for complex military and surveillance operations.” The post The one question everyone should be asking after OpenAI’s deal with the Pentagon appeared first on AI Now Institute.",
+  "source_url": "https://ainowinstitute.org/news/12263",
+  "source_name": "AI Now Institute",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-06T01:39:28+00:00",
+  "id": "182ead17-9058-4215-9a10-dc3500c714d8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-24T17:11:55.449141+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://ainowinstitute.org/category/news/feed",
+    "category": "policy",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
