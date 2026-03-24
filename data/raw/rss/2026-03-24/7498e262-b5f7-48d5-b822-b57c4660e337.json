@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "What happens to Bitcoin if US bond yields soar above 5%?",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"What happens to Bitcoin if US bond yields soar above 5%?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDFhNjMtZGQ2Ny03NWJiLWE4MTctNDM2MjNkMmNhZTU2LmpwZw==.jpg\" /></p><p>Past oil-war shocks lifted inflation and hurt risk appetite, which raises the risk of Bitcoin falling below $50,000 in 2026.</p>",
+  "source_url": "https://cointelegraph.com/news/what-happens-bitcoin-bond-yields-above-5percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-24T10:55:56+00:00",
+  "id": "7498e262-b5f7-48d5-b822-b57c4660e337",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
