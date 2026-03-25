@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Kevin Greenidge: Shared seas, shared struggles - a Caribbean perspective on the challenges facing small island developing states",
+  "raw_content": "Speech by Dr Kevin Greenidge, Governor of the Central Bank of Barbados, at the IMF Pacific Island High-Level Conference, Bridgetown, 12 March 2026.",
+  "source_url": "https://www.bis.org/review/r260319c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T05:26:11.120434+00:00",
+  "id": "b7315d88-89e2-41fd-85fb-095a354b7ea5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
