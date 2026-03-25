@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Maximum Entropy Relaxation of Multi-Way Cardinality Constraints for Synthetic Population Generation",
+  "raw_content": "arXiv:2603.22558v1 Announce Type: new \nAbstract: Generating synthetic populations from aggregate statistics is a core component of microsimulation, agent-based modeling, policy analysis, and privacy-preserving data release. Beyond classical census marginals, many applications require matching heterogeneous unary, binary, and ternary constraints derived from surveys, expert knowledge, or automatically extracted descriptions. Constructing populations that satisfy such multi-way constraints simultaneously poses a significant computational challenge. We consider populations where each individual is described by categorical attributes and the target is a collection of global frequency constraints over attribute combinations. Exact formulations scale poorly as the number and arity of constraints increase, especially when the constraints are numerous and overlapping. Grounded in methods from statistical physics, we propose a maximum-entropy relaxation of this problem. Multi-way cardinality constraints are matched in expectation rather than exactly, yielding an exponential-family distribution over complete population assignments and a convex optimization problem over Lagrange multipliers. We evaluate the approach on NPORS-derived scaling benchmarks with 4 to 40 attributes and compare it primarily against generalized raking. The results show that MaxEnt becomes increasingly advantageous as the number of attributes and ternary interactions grows, while raking remains competitive on smaller, lower-arity instances.",
+  "source_url": "https://arxiv.org/abs/2603.22558",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "2f00ff52-cdf4-4d1c-a095-0437ec1e5ae1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
