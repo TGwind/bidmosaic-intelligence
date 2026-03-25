@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Irish police open Bitcoin wallet years after keys were apparently lost",
+  "raw_content": "A crypto wallet tied to a convicted drug dealer thought to have lost his wallet keys transferred 500 Bitcoin to Coinbase on Tuesday.",
+  "source_url": "https://cointelegraph.com/news/irish-police-recover-bitcoin-wallet-clifton-collins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T06:21:56+00:00",
+  "id": "c818be7a-fb63-47ff-b0a1-9541a49c14a2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T09:01:49.572877+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

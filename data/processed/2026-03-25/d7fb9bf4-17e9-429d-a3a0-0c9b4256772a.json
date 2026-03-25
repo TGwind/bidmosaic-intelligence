@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto giant debuts oil trading, but it's a different model to Hyperliquid's perps",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/25/crypto-giant-debuts-oil-trading-but-it-s-a-different-model-to-hyperliquid-s-perps",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T06:13:15+00:00",
+  "id": "d7fb9bf4-17e9-429d-a3a0-0c9b4256772a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T09:01:49.567773+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Intelligence Inertia: Physical Principles and Applications",
+  "raw_content": "arXiv:2603.22347v1 Announce Type: new Abstract: While Landauer's principle establishes the fundamental thermodynamic floor for information erasure and Fisher Information provides a metric for local curvature in parameter space, these classical frameworks function effectively only as approximations within regimes of sparse rule-constraints. They fail to explain the super-linear, and often explosive, computational and energy costs incurred when maintaining symbolic interpretability during the reconfiguration of advanced intelligent systems. This paper introduces the property of intelligence inertia and its underlying physical principles as foundational characteristics for quantifying the computational weight of intelligence. We demonstrate that this phenomenon is not merely an empirical observation but originates from the fundamental non-commutativity between rules and states, a root cause we have formally organized into a rigorous mathematical framework. By analyzing the growing discrepancy between actual adaptation costs and static information-theoretic estimates, we derive a non-linear cost formula that mirrors the Lorentz factor, characterizing a relativistic J-shaped inflation curve -- a \"computational wall\" that static models are blind to. The validity of these physical principles is examined through a trilogy of decisive experiments: (1) a comparative adjudication of this J-curve inflation against classical Fisher Information models, (2) a geometric analysis of the \"Zig-Zag\" trajectory of neural architecture evolution, and (3) the implementation of an inertia-aware scheduler wrapper that optimizes the training of deep networks by respecting the agent's physical resistance to change. Our results suggest a unified physical description for the cost of structural adaptation, offering a first-principle explanation for the computational and interpretability-maintenance overhead in intelligent agents.",
+  "source_url": "https://arxiv.org/abs/2603.22347",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "79638512-5570-4803-a49a-4dff0083c947",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T09:01:49.540433+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
