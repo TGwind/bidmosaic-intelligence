@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "全新奥迪A6L上市",
+  "raw_content": "全新奥迪A6L上市",
+  "source_url": "https://www.toutiao.com/trending/7620400951362489862/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227620400951362489862%22%2C%22hot_board_impr_id%22%3A%22202603252113338816F905E3A17F03636F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%85%A8%E6%96%B0%E5%A5%A5%E8%BF%AAA6L%E4%B8%8A%E5%B8%82%22%7D&rank=&style_id=40132&topic_id=7620400951362489862",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T13:13:33.863199+00:00",
+  "id": "4ef5cae7-dde2-40f7-add9-8ee0445c9801",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "118162043",
+    "platform": "toutiao"
+  }
+}

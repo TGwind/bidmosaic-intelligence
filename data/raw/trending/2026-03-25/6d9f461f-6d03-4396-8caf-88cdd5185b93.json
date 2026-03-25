@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "生活化减脂餐 云朵番茄炒蛋超详细做法来啦",
+  "raw_content": "希望我的视频能对你有一点点帮助",
+  "source_url": "https://www.bilibili.com/video/BV178AMz1EaN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T13:13:34.410097+00:00",
+  "id": "6d9f461f-6d03-4396-8caf-88cdd5185b93",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2415880,
+    "platform": "bilibili"
+  }
+}

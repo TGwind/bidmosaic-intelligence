@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "广西某地倡议视频缅怀先人系22年旧闻",
+  "raw_content": "广西某地倡议视频缅怀先人系22年旧闻",
+  "source_url": "https://www.toutiao.com/trending/7621040410656604187/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227621040410656604187%22%2C%22hot_board_impr_id%22%3A%22202603252113338816F905E3A17F03636F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B9%BF%E8%A5%BF%E6%9F%90%E5%9C%B0%E5%80%A1%E8%AE%AE%E8%A7%86%E9%A2%91%E7%BC%85%E6%80%80%E5%85%88%E4%BA%BA%E7%B3%BB22%E5%B9%B4%E6%97%A7%E9%97%BB%22%7D&rank=&style_id=40132&topic_id=7621040410656604187",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T13:13:33.863232+00:00",
+  "id": "52fb3d29-a638-4bac-a2ca-0d85e61a5d89",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "79206386",
+    "platform": "toutiao"
+  }
+}
