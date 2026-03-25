@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "张雪峰最后一次直播画面",
+  "raw_content": "张雪峰最后一次直播画面",
+  "source_url": "https://www.toutiao.com/trending/7620787776200867886/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227620787776200867886%22%2C%22hot_board_impr_id%22%3A%2220260325102259FAC627CB6D54B5129CAB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E5%B3%B0%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E7%9B%B4%E6%92%AD%E7%94%BB%E9%9D%A2%22%7D&rank=&style_id=40132&topic_id=7620787776200867886",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T02:22:59.420575+00:00",
+  "id": "20a6a8c5-35f1-40d4-bdec-a5ed1b7777cf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T02:23:30.676358+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "30850743",
+    "platform": "toutiao"
+  }
+}

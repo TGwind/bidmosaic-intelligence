@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "携刀闯中使馆日本男子身份披露",
+  "raw_content": "携刀闯中使馆日本男子身份披露",
+  "source_url": "https://www.toutiao.com/trending/7620754972015378470/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227620754972015378470%22%2C%22hot_board_impr_id%22%3A%2220260325102259FAC627CB6D54B5129CAB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%90%BA%E5%88%80%E9%97%AF%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BB%BD%E6%8A%AB%E9%9C%B2%22%7D&rank=&style_id=40132&topic_id=7620754972015378470",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T02:22:59.420429+00:00",
+  "id": "5ec62a83-df62-470b-9151-3c84227f39be",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T02:23:30.677143+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "92680754",
+    "platform": "toutiao"
+  }
+}
