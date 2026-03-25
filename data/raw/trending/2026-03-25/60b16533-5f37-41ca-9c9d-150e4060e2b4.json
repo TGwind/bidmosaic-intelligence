@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "等你们老了就这样，出走半生，归来仍是二次元",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1tTAKzXEfm",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T07:03:53.048333+00:00",
+  "id": "60b16533-5f37-41ca-9c9d-150e4060e2b4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3435276,
+    "platform": "bilibili"
+  }
+}
