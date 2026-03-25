@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "打开海南自贸港旅文“朋友圈”",
-  "raw_content": "打开海南自贸港旅文“朋友圈”",
-  "source_url": "https://www.toutiao.com/article/7620969906360336932",
+  "raw_title": "我国氢能与核聚变能产业加速突破",
+  "raw_content": "我国氢能与核聚变能产业加速突破",
+  "source_url": "https://www.toutiao.com/article/7621004767350768134",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-25T02:22:59.420479+00:00",
-  "id": "3c5803bd-f184-43bd-9a72-ae30faf41666",
+  "collected_at": "2026-03-25T18:57:04.559332+00:00",
+  "id": "b7f600fe-3d49-4f54-b062-0b2f1b2055f6",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-25T18:57:34.931727+00:00",
+  "processed_at": "2026-03-25T18:57:34.946695+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "75880583",
+    "hot_score": "182197550",
     "platform": "toutiao"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "国台办回应蔡正元将于近期入狱服刑",
+  "raw_content": "国台办回应蔡正元将于近期入狱服刑",
+  "source_url": "https://www.toutiao.com/trending/7620365836347867177/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227620365836347867177%22%2C%22hot_board_impr_id%22%3A%2220260326025704D519A3A9A9B356F72669%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%94%A1%E6%AD%A3%E5%85%83%E5%B0%86%E4%BA%8E%E8%BF%91%E6%9C%9F%E5%85%A5%E7%8B%B1%E6%9C%8D%E5%88%91%22%7D&rank=&style_id=40132&topic_id=7620365836347867177",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T18:57:04.559342+00:00",
+  "id": "a0da37c0-df44-4531-badc-e1fd2830eba3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T18:57:34.944237+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "164859161",
+    "platform": "toutiao"
+  }
+}
