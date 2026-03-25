@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Pump.fun adds one-time cap on creator fee redirects to curb post-launch changes",
+  "raw_content": "The update allows one fee redirect per token, after which settings are permanently locked to prevent repeated post-launch changes.",
+  "source_url": "https://cointelegraph.com/news/pump-fun-creator-fee-cap-update-memecoin-model?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T09:46:48+00:00",
+  "id": "61364a32-88f6-49b3-a596-8f5c07ead503",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T13:28:42.223814+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

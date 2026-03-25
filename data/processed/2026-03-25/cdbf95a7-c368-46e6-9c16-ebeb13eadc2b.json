@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Philip R. Lane: The outlook for the euro area economy",
+  "raw_content": "",
+  "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260325_1~6b0b29cdd4.en.pdf",
+  "source_name": "ECB Press and Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T09:15:00+00:00",
+  "id": "cdbf95a7-c368-46e6-9c16-ebeb13eadc2b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T13:28:42.272805+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/press.html",
+    "category": "finance",
+    "source_type": "central_bank",
+    "quality_tier": "authoritative",
+    "authority_score": 93
+  }
+}

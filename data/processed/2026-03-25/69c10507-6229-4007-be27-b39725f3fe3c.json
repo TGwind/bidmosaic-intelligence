@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Governments need CBDCs to improve financial inclusion among citizens",
+  "raw_content": "CBDCs bridge the 1.3 billion unbanked cash-digital divide. Governments must actively promote them as trusted, low-cost gateways to formal financial inclusion.",
+  "source_url": "https://cointelegraph.com/news/governments-cbdcs-financial-inclusion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T12:30:00+00:00",
+  "id": "69c10507-6229-4007-be27-b39725f3fe3c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T13:28:42.231664+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

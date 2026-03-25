@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Arinna raises $4M seed round to solve the space power problem",
+  "raw_content": "Arinna builds solar cells specifically for spacecraft and has developed an ultrathin new material that it expects to be far more flexible and more efficient than current technology.",
+  "source_url": "https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-25T13:00:00+00:00",
+  "id": "d8c8b96b-1beb-4a19-820b-14a7996043a5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T13:28:42.272753+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin retakes $71K as US sends Iran 15-point ceasefire plan",
+  "raw_content": "Bitcoin bounced back above $71,000 after US President Donald Trump’s administration sent a proposal to Iran aimed at ending the war.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-retakes-71k-us-sends-iran-15-point-ceasefire-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T10:54:33+00:00",
+  "id": "6343c8e0-3882-412f-b226-9f0758ac4ab5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T13:28:42.225218+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

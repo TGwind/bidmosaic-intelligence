@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto broker Bitpanda launches blockchain to connect EU banks with tokenized assets",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/25/crypto-broker-bitpanda-launches-blockchain-to-connect-eu-banks-with-tokenized-assets",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T09:00:00+00:00",
+  "id": "8a73fc68-f598-4401-a715-a6b97abfe582",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T13:28:42.250127+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "STS Digital unveils structured crypto platform with Kraken as distribution partner",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/25/sts-digital-unveils-structured-crypto-platform-with-kraken-as-distribution-partner",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T11:00:00+00:00",
+  "id": "bdaff204-9dc3-4690-aaca-846786b2f224",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T13:28:42.266982+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
