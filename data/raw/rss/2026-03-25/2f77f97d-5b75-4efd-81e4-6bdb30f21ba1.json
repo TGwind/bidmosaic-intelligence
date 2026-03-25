@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Chiara Scotti: Financial stability and regulation in an age of transformation - how economic research can help reorient navigation",
+  "raw_content": "Welcome address by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the 5th Bank of Italy, Bocconi University, Einaudi Institute for Economics and Finance (EIEF) and Centre for Economic Policy Research (CEPR) conference \"Financial stability and regulation\", Rome, 23 March 2026.",
+  "source_url": "https://www.bis.org/review/r260324e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T13:27:48.310244+00:00",
+  "id": "2f77f97d-5b75-4efd-81e4-6bdb30f21ba1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

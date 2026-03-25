@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Indian court says ‘no case’ against CoinDCX founders in impersonation fraud",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Indian court says ‘no case’ against CoinDCX founders in impersonation fraud\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIzZTQtOGY0MS03MGRiLWIyMmItZTljZTk1OGY3N2VjLmpwZw==.jpg\" /></p><p>A Thane judge granted bail to CoinDCX co-founders Sumit Surendra Gupta and Niraj Ashok Khandelwal, finding no case against them.</p>",
+  "source_url": "https://cointelegraph.com/news/indian-court-says-no-case-against-coindcx-founders-in-impersonation-linked-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T08:35:34+00:00",
+  "id": "6d1e6eba-2e45-4f0e-b423-d948d6893eb2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

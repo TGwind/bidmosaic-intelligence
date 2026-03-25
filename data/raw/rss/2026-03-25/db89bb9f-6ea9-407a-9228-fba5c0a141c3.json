@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本官房长官就自卫队员闯中国使馆表态",
+  "raw_content": "<div>2026/03/25</div><div id=\"contentDiv\">\n<div></div>\n<div>      日本内阁官房长官木原稔在3月25日的记者会上，就日本陆上自卫队队员闯入东京都内的中国大使馆遭并被逮捕一事表示：“本应遵守法律的自卫队员却因涉嫌非法侵入建筑物被捕，实在令人感到遗憾”。他说明，将就中方提出的交涉，采取包括防止再次发生此类情况在内的应对措施。</div>\n<div>  </div>\n<div>      木原表示，中方向日方交涉并提出防止类似事件再次发生。日方已做出回应，表示对此事感到遗憾，包括防止此类情况再次发生在内，将依据相关国际法及日本国内法律法规，由有关部门协同合作，妥善应对。</div>\n<div>   </div>\n<div>      木原还表示，日本警方为查明事件真相，正在推进调查。也将基于通过调查查明的事项，为防止再次发生而采取必要应对措施。他同时称，已增派警力对驻日中国大使馆进行警备等，正加强警戒措施。</div>\n<div></div>\n<div>     中国外交部24日向在中国的日本大使馆提出了交涉。</div>\n<div></div>\n<div>   </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61906-2026-03-25-13-04-14.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T05:38:03+00:00",
+  "id": "db89bb9f-6ea9-407a-9228-fba5c0a141c3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

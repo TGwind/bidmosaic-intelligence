@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日股大涨1497点，受对和平的期待推动",
+  "raw_content": "<div>2026/03/25</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"375\" src=\"https://feedx.net/images/2026/03/0325/0325-CW-6-L.jpg\" width=\"600\" />\n\n\n\n\n\n\n<div>   </div>\n<div>      3月25日，东京股市上的日经平均股价指数连续上涨。收盘较前一交易日上涨1497点（2.87%），报5万3749点。围绕伊朗局势，对冲突长期化的担忧暂时缓解，成为利好因素。盘中涨幅一度扩大至1770日元。以对指数影响较大的大型股为中心，众多股票上涨，其中保险、银行以及汽车股的买盘尤为明显。</div>\n<div>   </div>\n<div>      推动25日股市上涨的是对中东和平的期待。美国《纽约时报》24日报道称，“美国已向伊朗提出包含15项内容的和平方案”。路透社也报道称，“美国正在探讨为期一个月的停火”。</div>\n<div>  </div>\n<div>      原油价格承压下行，提高了投资者的风险承受意愿。在东京交易时段，美国西得克萨斯中质原油期货一度下跌至每桶86美元区间。日本Resona控股策略师武居大晖表示：“市场对冲突趋于平息的期待较昨日进一步升温”。</div>\n<div>   </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/61909-2026-03-25-14-54-27.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T07:08:02+00:00",
+  "id": "32eda190-fdc4-4e22-a59d-43708aa5ce1a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
