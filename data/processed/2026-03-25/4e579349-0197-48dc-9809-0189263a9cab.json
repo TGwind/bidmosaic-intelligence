@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "跑步会不会导致猝死",
-  "raw_content": "跑步会不会导致猝死",
-  "source_url": "https://webcast-open.douyin.com/open/media_live/684938926972",
+  "raw_title": "陪看U23国足vs泰国",
+  "raw_content": "陪看U23国足vs泰国",
+  "source_url": "https://webcast-open.douyin.com/open/media_live/66869977125",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-25T02:22:59.420509+00:00",
-  "id": "9ecab63c-34a7-4287-bd0a-b086532ecaaf",
+  "collected_at": "2026-03-25T13:13:33.863172+00:00",
+  "id": "4e579349-0197-48dc-9809-0189263a9cab",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-25T13:14:11.935277+00:00",
+  "processed_at": "2026-03-25T13:14:11.919485+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "56213718",
+    "hot_score": "159502075",
     "platform": "toutiao"
   }
 }

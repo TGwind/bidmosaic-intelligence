@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《超级大串》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1jwQ9BGEBB",
+  "raw_title": "师傅，头晕是正常的吗？【原神整活】",
+  "raw_content": "我为永冻队而感到喜悦！！ 至冬女王形象参考：水系神之眼贩卖机",
+  "source_url": "https://www.bilibili.com/video/BV1bLAGzrENa",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-25T07:03:53.048342+00:00",
-  "id": "4fed26d4-1989-4a61-a655-33ab7155b327",
+  "collected_at": "2026-03-25T13:13:34.410227+00:00",
+  "id": "a8758ff2-2e5a-4db3-ba3b-9a1ddc047009",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-25T13:14:11.920873+00:00",
+  "processed_at": "2026-03-25T13:14:11.930948+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3191415,
+    "hot_score": 1686506,
     "platform": "bilibili"
   }
 }

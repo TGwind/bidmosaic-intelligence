@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "伊朗战争，和全球能源格局",
+  "raw_content": "伊朗战争开打后，原油价格从65美元一度暴涨到超过110美元。 咱们今天，就来聊聊这次战争，然后再更深入一点，顺便来看看后俄乌战争时期，全球整体是一个什么能源格局。",
+  "source_url": "https://www.bilibili.com/video/BV1QGXABxEbq",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T13:13:34.410244+00:00",
+  "id": "c5b0c2b0-445f-434c-bebd-09695852cbd6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T13:14:11.934525+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1507717,
+    "platform": "bilibili"
+  }
+}

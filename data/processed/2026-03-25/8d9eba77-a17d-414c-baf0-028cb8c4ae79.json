@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "收集了100个人的梦，我们发现了奇怪的关联…",
+  "raw_content": "100多个人在一个共同的空间里面协作，会梦到近似的东西吗？如果我们把梦里的场景可视化，到底能观测到什么？如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！",
+  "source_url": "https://www.bilibili.com/video/BV1PyQzB7ER5",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T13:13:34.410114+00:00",
+  "id": "8d9eba77-a17d-414c-baf0-028cb8c4ae79",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T13:14:11.930589+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2489576,
+    "platform": "bilibili"
+  }
+}
