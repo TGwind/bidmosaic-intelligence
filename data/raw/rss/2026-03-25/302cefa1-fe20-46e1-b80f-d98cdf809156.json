@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Waymo relies on firefighters and police to bail out stuck robotaxis",
+  "raw_content": "In at least six instances identified by TechCrunch, first responders have had to take control of Waymo vehicles and move them out of traffic during emergency situations.",
+  "source_url": "https://techcrunch.com/2026/03/25/waymo-relies-on-firefighters-and-police-to-bail-out-stuck-robotaxis/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-25T16:30:37+00:00",
+  "id": "302cefa1-fe20-46e1-b80f-d98cdf809156",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

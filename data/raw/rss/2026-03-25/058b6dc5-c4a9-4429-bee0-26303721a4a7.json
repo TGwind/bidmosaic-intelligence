@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin pinned under $72K as four network metrics show 'weaker demand'",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin pinned under $72K as four network metrics show 'weaker demand'\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI1YTgtMWQ0ZC03ODZkLTlmMjAtZDRkOGU1MGY5YzhhLmpwZw==.jpg\" /></p><p>Bitcoin price remains stuck below $72,000, as investor distribution, low whale activity, and declining network growth cast doubt on BTC's short term prospects.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-pinned-under-74k-four-metrics-weaker-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T16:24:08+00:00",
+  "id": "058b6dc5-c4a9-4429-bee0-26303721a4a7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
