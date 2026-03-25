@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Sony and Honda give up on their joint EV project",
+  "raw_content": "The Sony-Honda joint venture has killed plans for its Afeela sedan and SUV electric vehicles. The news comes shortly after Honda reversed its plans to launch more electric vehicles in the U.S.",
+  "source_url": "https://techcrunch.com/2026/03/25/sony-honda-mobility-afeela-ev-project/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-25T14:14:48+00:00",
+  "id": "e95f36c4-5249-4e52-982f-8684e4d770d6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T17:14:42.922331+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

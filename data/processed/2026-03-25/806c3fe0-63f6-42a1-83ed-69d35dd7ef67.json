@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Franklin Templeton puts its $1.7 trillion weight behind Ondo to bring 24/7 stock trading to the blockchain",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/25/franklin-templeton-puts-its-usd1-7-trillion-weight-behind-ondo-to-bring-24-7-stock-trading-to-the-blockchain",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T15:15:57+00:00",
+  "id": "806c3fe0-63f6-42a1-83ed-69d35dd7ef67",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T17:14:42.905871+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

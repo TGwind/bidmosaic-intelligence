@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin rebounds during Iran war, but safe haven role unproven",
+  "raw_content": "Bitcoin is beating gold during the Iran war, but its dependence on liquidity cycles keeps the safe haven narrative in question.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-iran-war-behaves-like-risk-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T13:24:32+00:00",
+  "id": "f6c47f9d-3e07-4eb6-a494-7785fcc69781",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T17:14:42.925075+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Whether, Not Which: Mechanistic Interpretability Reveals Dissociable Affect Reception and Emotion Categorization in LLMs",
+  "raw_content": "arXiv:2603.22295v1 Announce Type: new Abstract: Large language models appear to develop internal representations of emotion -- \"emotion circuits,\" \"emotion neurons,\" and structured emotional manifolds have been reported across multiple model families. But every study making these claims uses stimuli signalled by explicit emotion keywords, leaving a fundamental question unanswered: do these circuits detect genuine emotional meaning, or do they detect the word \"devastated\"? We present the first clinical validity test of emotion circuit claims using mechanistic interpretability methods grounded in clinical psychology -- clinical vignettes that evoke emotions through situational and behavioural cues alone, emotion keywords removed. Across six models (Llama-3.2-1B, Llama-3-8B, Gemma-2-9B; base and instruct variants), we apply four convergent mechanistic interpretability methods -- linear probing, causal activation patching, knockout experiments, and representational geometry -- and discover two dissociable emotion processing mechanisms. Affect reception -- detecting emotionally significant content -- operates with near-perfect accuracy (AUROC 1.000), consistent with early-layer saturation, and replicates across all six models. Emotion categorization -- mapping affect to specific emotion labels -- is partially keyword-dependent, dropping 1-7% without keywords and improving with scale. Causal activation patching confirms keyword-rich and keyword-free stimuli share representational space, transferring affective salience rather than emotion-category identity. These findings falsify the keyword-spotting hypothesis, establish a novel mechanistic dissociation, and introduce clinical stimulus methodology as a rigorous standard for testing emotion processing claims in large language models -- with direct implications for AI safety evaluation and alignment. All stimuli, code, and data are released for replication.",
+  "source_url": "https://arxiv.org/abs/2603.22295",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "33341dc4-343d-414b-a3db-bf5c42aef503",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T17:14:42.836273+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
