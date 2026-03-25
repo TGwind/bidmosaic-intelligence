@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "AI Mental Models: Learned Intuition and Deliberation in a Bounded Neural Architecture",
+  "raw_content": "arXiv:2603.22561v1 Announce Type: new \nAbstract: This paper asks whether a bounded neural architecture can exhibit a meaningful division of labor between intuition and deliberation on a classic 64-item syllogistic reasoning benchmark. More broadly, the benchmark is relevant to ongoing debates about world models and multi-stage reasoning in AI. It provides a controlled setting for testing whether a learned system can develop structured internal computation rather than only one-shot associative prediction. Experiment 1 evaluates a direct neural baseline for predicting full 9-way human response distributions under 5-fold cross-validation. Experiment 2 introduces a bounded dual-path architecture with separate intuition and deliberation pathways, motivated by computational mental-model theory (Khemlani & Johnson-Laird, 2022). Under cross-validation, bounded intuition reaches an aggregate correlation of r = 0.7272, whereas bounded deliberation reaches r = 0.8152, and the deliberation advantage is significant across folds (p = 0.0101). The largest held-out gains occur for NVC, Eca, and Oca, suggesting improved handling of rejection responses and c-a conclusions. A canonical 80:20 interpretability run and a five-seed stability sweep further indicate that the deliberation pathway develops sparse, differentiated internal structure, including an Oac-leaning state, a dominant workhorse state, and several weakly used or unused states whose exact indices vary across runs. These findings are consistent with reasoning-like internal organization under bounded conditions, while stopping short of any claim that the model reproduces full sequential processes of model construction, counterexample search, and conclusion revision.",
+  "source_url": "https://arxiv.org/abs/2603.22561",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "8c5210c5-dc8c-4238-9a9b-d54a1cd71b8f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

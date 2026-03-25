@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Piero Cipollone: Building the rails for Europe's tokenised financial markets",
+  "raw_content": "Keynote speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at an event \"Building Europe's integrated digital asset ecosystem: from vision to implementation\", hosted by the House of the Euro, Brussels, 23 March 2026.",
+  "source_url": "https://www.bis.org/review/r260324d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T09:00:00.136338+00:00",
+  "id": "1869d7d0-43de-41cf-8cbc-db01b3f6eaed",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

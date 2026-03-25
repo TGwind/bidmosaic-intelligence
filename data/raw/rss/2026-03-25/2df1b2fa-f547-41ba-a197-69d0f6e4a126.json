@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Elizabeth Genia: Presentation of the March 2026 economic outlook, inflation and monetary policy",
+  "raw_content": "Opening remarks by Ms Elizabeth Genia, Governor of the Bank of Papua New Guinea, on the March 2026 Outlook on the Economy, Inflation and Monetary Policy, Port Moresby, 9 March 2026.",
+  "source_url": "https://www.bis.org/review/r260323d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T09:00:00.136207+00:00",
+  "id": "2df1b2fa-f547-41ba-a197-69d0f6e4a126",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

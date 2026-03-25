@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "OpenAI kills off AI video app Sora after 6 months",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"OpenAI kills off AI video app Sora after 6 months\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDIyNmMtODU2YS03ZGM3LTgzZDYtN2VlZDIzNTRkNzU2LmpwZw==.jpg\" /></p><p>OpenAI CEO Sam Altman reportedly said all its text-to-video models would be shuttered, and a $1 billion investment from Disney has also been cancelled.</p>",
+  "source_url": "https://cointelegraph.com/news/openai-sora-video-app-shutdown-six-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T03:18:36+00:00",
+  "id": "bebabf98-40a4-4dac-99f4-b333e05fd2ba",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

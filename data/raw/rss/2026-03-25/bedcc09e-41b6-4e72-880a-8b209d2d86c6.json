@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LLM-guided headline rewriting for clickability enhancement without clickbait",
+  "raw_content": "arXiv:2603.22459v1 Announce Type: new \nAbstract: Enhancing reader engagement while preserving informational fidelity is a central challenge in controllable text generation for news media. Optimizing news headlines for reader engagement is often conflated with clickbait, resulting in exaggerated or misleading phrasing that undermines editorial trust. We frame clickbait not as a separate stylistic category, but as an extreme outcome of disproportionate amplification of otherwise legitimate engagement cues. Based on this view, we formulate headline rewriting as a controllable generation problem, where specific engagement-oriented linguistic attributes are selectively strengthened under explicit constraints on semantic faithfulness and proportional emphasis. We present a guided headline rewriting framework built on a large language model (LLM) that uses the Future Discriminators for Generation (FUDGE) paradigm for inference-time control. The LLM is steered by two auxiliary guide models: (1) a clickbait scoring model that provides negative guidance to suppress excessive stylistic amplification, and (2) an engagement-attribute model that provides positive guidance aligned with target clickability objectives. Both guides are trained on neutral headlines drawn from a curated real-world news corpus. At the same time, clickbait variants are generated synthetically by rewriting these original headlines using an LLM under controlled activation of predefined engagement tactics. By adjusting guidance weights at inference time, the system generates headlines along a continuum from neutral paraphrases to more engaging yet editorially acceptable formulations. The proposed framework provides a principled approach for studying the trade-off between attractiveness, semantic preservation, and clickbait avoidance, and supports responsible LLM-based headline optimization in journalistic settings.",
+  "source_url": "https://arxiv.org/abs/2603.22459",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "bedcc09e-41b6-4e72-880a-8b209d2d86c6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
