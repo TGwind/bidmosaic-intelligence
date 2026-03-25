@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "一日本自卫队队员涉嫌闯入中国大使馆被捕",
+  "raw_content": "2026/03/25 位于东京都港区的中国驻日本大使馆门前 3月24日上午，一名闯入位于东京都港区的中国驻日本大使馆馆内的男子被当场制服。该男子之后被移交东京警视厅。当晚，东京警视厅以涉嫌非法侵入建筑物为由，逮捕了该男子。男子是隶属于日本陆上自卫队虾野驻屯地（宫崎县虾野市）的三等陆尉村田晃大（23岁）。中国驻日使馆馆内工作人员无人受伤。 据警视厅介绍，村田供述称：“确实是我闯入的。我是为了与中国大使会面，表达希望停止强硬言论的意见”。村田还在大使馆院内的绿化带中藏匿了一把刀刃长18厘米的刀具。他供述称：“如果意见不被接受，就打算自杀”。 日本陆上自卫队表示：“正在确认事实关系，将配合警方调查”。中国外交部24日表示：“中方对这一事件深感震惊，已向日方严正交涉、提出强烈抗议”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61894-2026-03-25-08-49-29.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T01:08:03+00:00",
+  "id": "af74bc17-20fc-4097-a476-a09180ac8fbb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T02:51:23.655185+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

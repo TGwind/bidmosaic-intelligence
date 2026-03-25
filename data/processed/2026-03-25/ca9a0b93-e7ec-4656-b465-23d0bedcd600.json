@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "丰田阵营完成对丰田自动织机TOB",
+  "raw_content": "2026/03/25 以丰田汽车和丰田不动产等为核心的丰田阵营于24日宣布，对丰田自动织机实施的TOB（公开要约收购）已经成立。丰田自动织机将在召开临时股东大会后退市。 此次收购总额约为5.9万亿日元，成为日本企业之间并购（M&amp;A）史上规模最大的一笔交易。这也将推动作为日本代表性企业集团的丰田集团内部交叉持股的解消。 此次TOB截至23日结束，应募比例达到63.60%，超过了最低收购比例（42.01%）。今后将通过临时股东大会审议包括股份合并在内的私有化相关议案。 此次TOB的收购价格从最初公布的每股1万6300日元起实施了两度上调，最终为2万600日元。持股约7%的激进投资者——美国埃利奥特投资管理公司（Elliott Investment Management）也参与了此次要约收购。 退市后，丰田自动织机的表决权将由丰田不动产实际持有99.5%，丰田汽车董事长丰田章男持有0.5%。丰田则通过无表决权的优先股出资8000亿日元。据日本并购数据公司乐科夫数据统计，此次并购交易的总额达5.9万亿日元，创下日本企业之间历史最大规模。",
+  "source_url": "http://cn.nikkei.com/industry/icar/61898-2026-03-25-09-43-32.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T02:08:03+00:00",
+  "id": "ca9a0b93-e7ec-4656-b465-23d0bedcd600",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T02:51:23.671998+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
