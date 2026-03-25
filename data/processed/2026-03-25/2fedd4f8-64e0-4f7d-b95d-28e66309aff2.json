@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Lombard taps Bitwise to offer Bitcoin yield and lending to institutional custody",
+  "raw_content": "Lombard CEO Jacob Phillips announced at the Digital Asset Summit that the platform enables institutions to earn yield and borrow against Bitcoin without moving assets out of custody.",
+  "source_url": "https://cointelegraph.com/news/lombard-taps-bitwise-to-bring-bitcoin-yield-and-lending-to-institutional-custody-embargo-tuesday-2-30-et?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-24T18:15:00+00:00",
+  "id": "2fedd4f8-64e0-4f7d-b95d-28e66309aff2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T05:28:13.100030+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

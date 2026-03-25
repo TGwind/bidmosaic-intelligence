@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Ai2 releases MolmoWeb, an open-weight visual web agent with 30K human task trajectories and a full training stack",
+  "raw_content": "Engineers building browser agents today face a choice between closed APIs they cannot inspect and open-weight frameworks with no trained model underneath them. Ai2 is now offering a third option.The Seattle-based nonprofit behind the open-source OLMo language models and Molmo vision-language family today is releasing MolmoWeb, an open-weight visual web agent available in 4 billion and 8 billion parameter sizes. Until now, no open-weight visual web agent shipped with the training data and pipeline needed to audit or reproduce it. MolmoWeb does. MolmoWebMix, the accompanying dataset, includes 30,000 human task trajectories across more than 1,100 websites, 590,000 individual subtask demonstrations and 2.2 million screenshot question-answer pairs — which Ai2 describes as the largest publicly released collection of human web-task execution ever assembled.&quot;Can you go from just passively understanding images, describing them and captioning them, to actually making them take action in some environment?&quot; Tanmay Gupta, senior research scientist at Ai2, told VentureBeat. &quot;That is exactly what MolmoWeb is.&quot;How it works: It sees what you seeMolmoWeb operates entirely from browser screenshots. It does not parse HTML or rely on accessibility tree representations of a page. At each step it receives a task instruction, the current screenshot, a text log of previous actions and the current URL and page title. It produces a natural-language thought describing its reasoning, then executes the next browser action — clicking at screen coordinates, typing text, scrolling, navigating to a URL or switching tabs.The model is browser-agnostic. It requires only a screenshot, which means it runs against local Chrome, Safari or a hosted browser service. The hosted demo uses Browserbase, a cloud browser infrastructure startup. The dataset that makes it workThe model weights are only part of what Ai2 is releasing. MolmoWebMix, the accompanying training dataset, is the core differentiator from every other open-weight agent available today.&quot;The data basically looks like a sequence of screenshots and actions paired with instructions for what the intent behind that sequence of screenshots was,&quot; Gupta said.MolmoWebMix combines three components.Human demonstrations. Human annotators completed browsing tasks using a custom Chrome extension that recorded actions and screenshots across more than 1,100 websites. The result is 30,000 task trajectories spanning more than 590,000 individual subtask demonstrations.Synthetic trajectories. To scale beyond what human annotation alone can provide, Ai2 generated additional trajectories using text-based accessibility-tree agents — single-agent runs filtered for task success, multi-agent pipelines that decompose tasks into subgoals and deterministic navigation paths across hundreds of websites. Critically, no proprietary vision agents were used. The synthetic data came from text-only systems, not from OpenAI Operator or Anthropic&#x27;s computer use API.GUI perception data. A third component trains the model to read and reason about page content directly from images. It includes more than 2.2 million screenshot question-answer pairs drawn from nearly 400 websites, covering element grounding and screenshot-based reasoning tasks.&quot;If you are able to perform a task and you&#x27;re able to record a trajectory from that, you should be able to train the web agent on that trajectory to do the exact same task,&quot; Gupta said.How MolmoWeb stacks up against the competitionIn Gupta&#x27;s view, there are two categories of technologies in the browser agent market.The first is API-only systems, capable but closed, with no visibility into training or architecture. OpenAI Operator, Anthropic&#x27;s computer use API and Google&#x27;s Gemini computer use fall into this group. The second is open-weight models, a significantly smaller category. Browser-use, the most widely adopted open alternative, is a framework rather than a trained model. It requires developers to supply their own LLM and build the agent layer on top.MolmoWeb sits in the second category as a fully trained open-weight vision model. Ai2 reports it leads that group across four live-website benchmarks: WebVoyager, Online-Mind2Web, DeepShop and WebTailBench. According to Ai2, it also outperforms older API-based agents built on GPT-4o with accessibility tree plus screenshot input.Ai2 documents several current limitations in the release. The model makes occasional errors reading text from screenshots, drag-and-drop interactions remain unreliable and performance degrades on ambiguous or heavily constrained instructions. The model was also not trained on tasks requiring logins or financial transactions.Enterprise teams evaluating browser agents are not just choosing a model. They are deciding whether they can audit what they are running, fine-tune it on internal workflows, and avoid a per-call API dependency.",
+  "source_url": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-24T15:00:00+00:00",
+  "id": "bd8a5e62-27b6-4c6c-a0fe-3b51de4d2fc1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T05:28:13.176903+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

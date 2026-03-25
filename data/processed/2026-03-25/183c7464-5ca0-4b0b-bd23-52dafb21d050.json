@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Functional Component Ablation Reveals Specialization Patterns in Hybrid Language Model Architectures",
+  "raw_content": "arXiv:2603.22473v1 Announce Type: new Abstract: Hybrid language models combining attention with state space models (SSMs) or linear attention offer improved efficiency, but whether both components are genuinely utilized remains unclear. We present a functional component ablation framework applied to two sub-1B hybrid models -- Qwen3.5-0.8B (sequential: Gated DeltaNet + softmax attention) and Falcon-H1-0.5B (parallel: Mamba-2 + attention) -- with a pure Transformer control (Qwen2.5-0.5B). Through group ablations, layer-wise sweeps, positional ablations, matched random controls, and perplexity analysis across five benchmarks, we establish four findings: (1) both component types are essential and neither is bypassed; (2) the alternative component (linear attention or SSM) is the primary language modeling backbone, causing >35,000x perplexity degradation when removed versus ~82x for attention; (3) component importance follows a positional gradient, with early layers being disproportionately critical; and (4) hybrid architectures exhibit 20-119x greater resilience to random layer removal than pure Transformers, revealing built-in functional redundancy between component types. These results provide actionable guidance for hybrid model compression, architecture design, and fault-tolerant deployment.",
+  "source_url": "https://arxiv.org/abs/2603.22473",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "183c7464-5ca0-4b0b-bd23-52dafb21d050",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T05:28:13.076138+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

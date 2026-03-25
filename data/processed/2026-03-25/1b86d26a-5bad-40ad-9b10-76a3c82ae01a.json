@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+  "raw_content": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+  "source_url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-24T23:57:55+00:00",
+  "id": "1b86d26a-5bad-40ad-9b10-76a3c82ae01a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T05:28:13.080940+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

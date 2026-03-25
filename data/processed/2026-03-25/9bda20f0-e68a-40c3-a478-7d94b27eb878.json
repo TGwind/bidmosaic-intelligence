@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ethereum devs up security efforts with new ‘Post-Quantum’ team",
+  "raw_content": "The Ethereum Foundation-linked Post-Quantum team says while the quantum threat isn’t imminent, deploying a full solution without disrupting the network will take years.",
+  "source_url": "https://cointelegraph.com/news/ethereum-devs-up-security-efforts-post-quantum-team?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T02:10:15+00:00",
+  "id": "9bda20f0-e68a-40c3-a478-7d94b27eb878",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T05:28:13.162020+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

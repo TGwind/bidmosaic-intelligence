@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing",
+  "raw_content": "arXiv:2603.22289v1 Announce Type: new Abstract: Knowledge Tracing (KT) models students' evolving knowledge states to predict future performance, serving as a foundation for personalized education. While traditional deep learning models achieve high accuracy, they often lack interpretability. Large Language Models (LLMs) offer strong reasoning capabilities but struggle with limited context windows and hallucinations. Furthermore, existing LLM-based methods typically require expensive fine-tuning, limiting scalability and adaptability to new data. We propose MERIT (Memory-Enhanced Retrieval for Interpretable Knowledge Tracing), a training-free framework combining frozen LLM reasoning with structured pedagogical memory. Rather than updating parameters, MERIT transforms raw interaction logs into an interpretable memory bank. The framework uses semantic denoising to categorize students into latent cognitive schemas and constructs a paradigm bank where representative error patterns are analyzed offline to generate explicit Chain-of-Thought (CoT) rationales. During inference, a hierarchical routing mechanism retrieves relevant contexts, while a logic-augmented module applies semantic constraints to calibrate predictions. By grounding the LLM in interpretable memory, MERIT achieves state-of-the-art performance on real-world datasets without gradient updates. This approach reduces computational costs and supports dynamic knowledge updates, improving the accessibility and transparency of educational diagnosis.",
+  "source_url": "https://arxiv.org/abs/2603.22289",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "bbd074a3-ef7b-4325-a9dc-a978bb803ddf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T05:28:13.176582+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

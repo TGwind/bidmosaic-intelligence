@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Robinhood announces $1.5B share buyback as stock struggles in 2026",
+  "raw_content": "Shares in Robinhood fell to their lowest level this year on Tuesday as crypto and tech stocks are battered by geopolitical headwinds.",
+  "source_url": "https://cointelegraph.com/news/robinhood-approves-share-buyback-stock-struggles-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T04:07:54+00:00",
+  "id": "e4b66cad-0970-49d4-8a34-4c4d372e2b1a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T05:28:13.183925+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

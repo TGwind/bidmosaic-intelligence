@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "OpenAI is shutting down Sora, its powerful AI video model, app and API",
+  "raw_content": "OpenAI is shuttering Sora, its stand-alone AI video generation app and social network, and the availability for developers to access the Sora 2 video model family through its application programming interface (API) to rely on it for their own products or video generation pipelines.The announcement came abruptly this afternoon with OpenAI posting a message on X and not giving an exact shutdown date for the services, instead promising &quot;timelines for the app and API and details on preserving your work.&quot;Sora wowed the world with its highly realistic scene-crafting when it was first previewed by OpenAI in February 2024, more than two years ago now, only to be released to mixed reception as an updated Sora Turbo model 10 months later, at which point, many other competing video AI model providers such as Runway, Luma, and Chinese AI companies Kling and Minimax had already shipped impressive rivals.But OpenAI seemed intent on continuing to build out the video model and enabling creators until just now, releasing a Sora 2 model over API and apps for iOS, then Android in the latter half of 2025 — and the iOS app briefly hit number one in downloads on the Apple App Store. The application itself was designed to be a social network where users could insert AI generated lifelike versions of themselves and their friends into videos. The company released updates to Sora on a regular cadence all the way through this week, making the news of the shutdown even more abrupt.And Sora was even so enticing for a while that entertainment giant Disney signed a $1 billion equity investment deal with OpenAI announced in December 2025, just four months ago, to bring popular Disney characters to Sora, allowing users to generate new videos with them that Disney planned to share through Disney+, its streaming TV service. As that announcement read:&quot;Under the license, fans will be able to watch curated selections of Sora-generated videos on Disney+, and OpenAI and Disney will collaborate to utilize OpenAI’s models to power new experiences for Disney + subscribers, furthering innovative and creative ways to connect with Disney’s stories and characters. Sora and ChatGPT Images are expected to start generating fan-inspired videos with Disney’s multi-brand licensed characters in early 2026&quot;Based on today&#x27;s news, its unclear if that will happen in any fashion or if OpenAI&#x27;s deal with Disney is even still on the table. We&#x27;ve reached out to OpenAI for more information and will update if and when we receive it.The move comes as OpenAI has openly stated its intent to focus on building a &quot;super app&quot; that would fold in some or all of the capabilities of its various products including chatbot ChatGPT, AI coding model and application Codex, and others into one interface. Reports from The Wall Street Journal and other outlets suggest the strategy shift is an effort at refocusing the entire company to take on the rise of competitor Anthropic and its Claude family, especially with regards to enterprises and software developers — as Claude has seen rapid adoption and enterprise usage in the last few months, according to data from SimilarWeb and Ramp, driven by its prowess at coding and autonomously completing digital tasks. The news of Sora&#x27;s demise came amid a restructuring of OpenAI&#x27;s leadership and non-profit Foundation arm and a promise for the latter to invest $1 billion &quot;across life sciences and curing diseases, jobs and economic impact, AI resilience, and community programs,&quot; suggesting a shift in focus away from AI-generated content and media.",
+  "source_url": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-24T21:20:00+00:00",
+  "id": "2218a7a6-703e-4f91-a23d-275f9bcc86dc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T05:28:13.096011+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
