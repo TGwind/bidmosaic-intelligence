@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "放心，头晕是正常的【原神整活】",
+  "raw_content": "我为永冻队而感到喜悦！！ 至冬女王形象参考：水系神之眼贩卖机",
+  "source_url": "https://www.bilibili.com/video/BV1bLAGzrENa",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T07:03:53.048375+00:00",
+  "id": "b0f4ee1b-0f76-4c10-b204-d652131000ee",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T07:04:29.169291+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1628864,
+    "platform": "bilibili"
+  }
+}

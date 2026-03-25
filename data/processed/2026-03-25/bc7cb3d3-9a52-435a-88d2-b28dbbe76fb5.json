@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗被曝拒绝与威特科夫和库什纳谈判",
+  "raw_content": "伊朗被曝拒绝与威特科夫和库什纳谈判",
+  "source_url": "https://www.toutiao.com/trending/7620940390632620095/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227620940390632620095%22%2C%22hot_board_impr_id%22%3A%2220260325150351C7440A610392FC9019F0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%9B%9D%E6%8B%92%E7%BB%9D%E4%B8%8E%E5%A8%81%E7%89%B9%E7%A7%91%E5%A4%AB%E5%92%8C%E5%BA%93%E4%BB%80%E7%BA%B3%E8%B0%88%E5%88%A4%22%7D&rank=&style_id=40132&topic_id=7620940390632620095",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-25T07:03:51.864801+00:00",
+  "id": "bc7cb3d3-9a52-435a-88d2-b28dbbe76fb5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T07:04:29.168932+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "39725584",
+    "platform": "toutiao"
+  }
+}
