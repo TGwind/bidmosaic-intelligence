@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Leveraging Natural Language Processing and Machine Learning for Evidence-Based Food Security Policy Decision-Making in Data-Scarce Making",
+  "raw_content": "arXiv:2603.20425v1 Announce Type: new \nAbstract: Food security policy formulation in data-scarce regions remains a critical challenge due to limited structured datasets, fragmented textual reports, and demographic bias in decision-making systems. This study proposes ZeroHungerAI, an integrated Natural Language Processing (NLP) and Machine Learning (ML) framework designed for evidence-based food security policy modeling under extreme data scarcity. The system combines structured socio-economic indicators with contextual policy text embeddings using a transfer learning based DistilBERT architecture. Experimental evaluation on a 1200-sample hybrid dataset across 25 districts demonstrates superior predictive performance, achieving 91 percent classification accuracy, 0.89 precision, 0.85 recall, and an F1 score of 0.86 under imbalanced conditions. Comparative analysis shows a 13 percent performance improvement over classical SVM and 17 percent over Logistic Regression models. Precision Recall evaluation confirms robust minority class detection (average precision around 0.88). Fairness aware optimization reduces demographic parity difference to 3 percent, ensuring equitable rural urban policy inference. The results validate that transformer based contextual learning significantly enhances policy intelligence in low resource governance environments, enabling scalable and bias aware hunger prediction systems.",
+  "source_url": "https://arxiv.org/abs/2603.20425",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-24T04:00:00+00:00",
+  "id": "b2e95859-f398-4863-af68-9e54d4433ca3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普：一个新的集团正在领导伊朗",
+  "raw_content": "<div>2026/03/25</div><div id=\"contentDiv\">\n<div></div>\n<div>      美国总统特朗普于3月24日就与伊朗的停火谈判表示：“我们正在与合适的对象进行交易”。他还解释道，一个“新的集团”正在领导伊朗，并主张“由于领导人已经完全不同于最初，这就是体制更迭”。</div>\n<div>  <br />      特朗普在白宫对记者发表了上述言论，但未提及具体人物姓名。他表示谈判仍在进行中，在此基础上透露称，除一直参与的中东问题特使史蒂夫·维特科夫及其女婿库什纳外，副总统万斯和国务卿鲁比奥也已加入谈判。</div>\n<div>  </div>\n<div>      据美国华尔街日报的报道，美方认定为对美谈判关键人物的伊朗议会议长卡利巴夫表示，如果对方不是万斯，可能不会参加会谈。美国政治网站Axios则报道称，相关方面正探讨最早于26日举行会谈。</div>\n<div>  </div>\n<div>      特朗普还声称：“今天收到了（来自伊朗方面）的礼物”，暗示伊朗在石油和天然气相关领域出现了让步，但未透露具体内容。他再次表示，伊朗方面已同意不拥有核武器。</div>\n<div>  </div>\n<div>      <strong>日本经济新闻（中文版：日经中文网）华盛顿 飞田临太郎、开罗 岐部秀光</strong></div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61896-2026-03-25-09-23-02.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T01:38:03+00:00",
+  "id": "ef02de70-394e-4d92-a437-89012ebcdcb8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
