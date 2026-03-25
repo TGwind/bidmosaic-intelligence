@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Evaluating Large Language Models' Responses to Sexual and Reproductive Health Queries in Nepali",
+  "raw_content": "arXiv:2603.22291v1 Announce Type: new Abstract: As Large Language Models (LLMs) become integrated into daily life, they are increasingly used for personal queries, including Sexual and Reproductive Health (SRH), allowing users to chat anonymously without fear of judgment. However, current evaluation methods primarily focus on accuracy, often for objective queries in high-resource languages, and lack criteria to assess usability and safety, especially for low-resource languages and culturally sensitive domains like SRH. This paper introduces LLM Evaluation Framework (LEAF), that conducts assessments across multiple criteria: accuracy, language, usability gaps (including relevance, adequacy, and cultural appropriateness), and safety gaps (safety, sensitivity, and confidentiality). Using the LEAF framework, we assessed 14K SRH queries in Nepali from over 9K users. Responses were manually annotated by SRH experts according to the framework. Results revealed that only 35.1% of the responses were \"proper\", meaning they were accurate, adequate and had no major usability or safety related gaps. Insights include differences in performance between ChatGPT versions, such as similar accuracy but varying usability and safety aspects. This evaluation highlights significant limitations of current LLMs and underscores the need for improvement. The LEAF Framework is adaptable across domains and languages, particularly where usability and safety are critical, offering a pathway to better address sensitive topics.",
+  "source_url": "https://arxiv.org/abs/2603.22291",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "633092c3-2941-4149-9ff4-a0bae4e40459",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T20:50:20.414692+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

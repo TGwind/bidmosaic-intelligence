@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitmine launches institutional Ethereum staking platform",
+  "raw_content": "The MAVAN platform extends Bitmine’s staking operations to external clients as institutional demand for validator infrastructure accelerates.",
+  "source_url": "https://cointelegraph.com/news/bitmine-launches-mavan-an-institutional-ethereum-staking-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T17:09:11+00:00",
+  "id": "e2b51c67-379d-4ab1-ae80-05012396637b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T20:50:20.442284+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

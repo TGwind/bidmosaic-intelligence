@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Brad Jones: After Acacia - the next era of financial system innovation?",
+  "raw_content": "Remarks by Mr Brad Jones, Assistant Governor (Financial System) of the Reserve Bank of Australia, at the Australian Payments Plus \"Beyond Tomorrow\" Forum, Sydney, 25 March 2026.",
+  "source_url": "https://www.bis.org/review/r260325d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-25T20:49:40.625533+00:00",
+  "id": "597f4800-66ce-4afd-aca7-1fc380e437a4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T20:50:20.401924+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

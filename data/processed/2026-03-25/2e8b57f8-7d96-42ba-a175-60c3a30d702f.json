@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "U.S. lawmakers dig into tokenizing securities as Trump ties muddy waters",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/25/u-s-lawmakers-dig-into-tokenizing-securities-as-trump-ties-muddy-waters",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T17:55:16+00:00",
+  "id": "2e8b57f8-7d96-42ba-a175-60c3a30d702f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-25T20:50:20.358041+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
