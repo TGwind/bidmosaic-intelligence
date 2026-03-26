@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP price risks 50% drop despite Goldman Sachs' $152M ETF exposure",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"XRP price risks 50% drop despite Goldman Sachs' $152M ETF exposure\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWVjOWQtNWI4MS03MDg1LWJhNTItNDc1YzBjYjM4NTVj.jpg\" /></p><p>Goldman Sachs revealed a $152 million exposure to spot XRP ETFs, while volatility contracted to levels seen ahead of strong price moves.</p>",
+  "source_url": "https://cointelegraph.com/news/xrp-price-risks-50-drop-despite-goldman-sachs-152m-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T14:39:31+00:00",
+  "id": "aef89597-c510-4050-a02e-2a95e0a5e878",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

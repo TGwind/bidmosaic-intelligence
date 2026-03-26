@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "MARA sells $1.1B in Bitcoin to buy back debt at 9% discount",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"MARA sells $1.1B in Bitcoin to buy back debt at 9% discount\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUzYzAtY2Y0My03ZTQ3LWExNmEtYTc4OTlmZWEwYWU0.jpg\" /></p><p>MARA Holdings sold 15,133 Bitcoin for roughly $1.1 billion in March to buy back $1 billion of zero-coupon convertible notes at a discount, reducing its convertible debt by roughly 30%.</p>",
+  "source_url": "https://cointelegraph.com/news/mara-sells-1-1b-btc-in-march-to-purchase-debt-at-a-discount?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T13:43:51+00:00",
+  "id": "73dcc853-3c81-4720-9dbc-b6dee577d766",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

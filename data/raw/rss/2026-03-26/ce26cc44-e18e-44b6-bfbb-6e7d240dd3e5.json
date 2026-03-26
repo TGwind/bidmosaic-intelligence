@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Euro stablecoins dominate non-dollar market, Visa-backed report finds",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Euro stablecoins dominate non-dollar market, Visa-backed report finds\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWUwOGUtM2Q2ZS03YTkwLWEyMWYtMmY2Nzk2NTE2ZDk0.jpg\" /></p><p>Euro stablecoins now make up more than 80% of non-dollar supply, with EURC leading volumes as MiCA and payment-rail integrations support adoption.</p>",
+  "source_url": "https://cointelegraph.com/news/euro-stablecoins-non-dollar-market-visa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T14:44:21+00:00",
+  "id": "ce26cc44-e18e-44b6-bfbb-6e7d240dd3e5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

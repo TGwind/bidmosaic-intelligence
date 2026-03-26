@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Announces Roundtable on Private Markets Valuation As Retail Investor Access Accelerates",
+  "raw_content": "The Securities and Exchange Commission today announced it will hold a roundtable on March 4 to discuss private market valuations and responsible retailization.The roundtable will be hosted by the Division of Investment Management from 1 p.m. to 3 p.m. ET…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-21-sec-announces-roundtable-private-markets-valuation-retail-investor-access-accelerates",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-26T14:38:00+00:00",
+  "id": "0ca7fe0d-e9ab-4995-bfec-7a1f007b750d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

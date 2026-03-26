@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Mamba Explained",
+  "raw_content": "Is Attention all you need? Mamba, a novel AI model based on State Space Models (SSMs), emerges as a formidable alternative to the widely used Transformer models, addressing their inefficiency in processing long sequences.",
+  "source_url": "https://thegradient.pub/mamba-explained/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2024-03-28T01:24:43+00:00",
+  "id": "e2d61ded-be8c-4cc9-abd8-d096a5d804e0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
