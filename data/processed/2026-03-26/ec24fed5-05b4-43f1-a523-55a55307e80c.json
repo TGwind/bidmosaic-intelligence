@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【塞尔达】看好了！这才是游戏史上最伟大的物理引擎！第六期",
+  "raw_content": "审核大大辛苦！拖更好久啦，祝所有人看的开心，玩的开心，生活天天开心!",
+  "source_url": "https://www.bilibili.com/video/BV1vZQqBfEcn",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-26T02:29:13.720561+00:00",
+  "id": "ec24fed5-05b4-43f1-a523-55a55307e80c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T02:29:45.131275+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2431828,
+    "platform": "bilibili"
+  }
+}
