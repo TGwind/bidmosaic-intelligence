@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Price predictions 3/25: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK",
+  "raw_content": "Bitcoin bulls are attempting to seize control of the market, but they are expected to face strong resistance in the $72,000 to $74,500 zone.",
+  "source_url": "https://cointelegraph.com/news/price-predictions-3-25-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T18:44:00+00:00",
+  "id": "eb01ce92-2ead-4530-8afe-79ab9949a3f1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T02:58:34.833290+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

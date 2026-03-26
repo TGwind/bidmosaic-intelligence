@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US lawmakers hash out tokenized securities concerns in latest hearing",
+  "raw_content": "Industry executives told US lawmakers that existing investor protection and financial surveillance regulations should apply to tokenized securities.",
+  "source_url": "https://cointelegraph.com/news/us-lawmakers-tokenized-securities-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T21:12:45+00:00",
+  "id": "1fc4a1aa-2432-46a5-a5ec-ac8f4e36f007",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T02:58:34.746771+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Towards Automated Community Notes Generation with Large Vision Language Models for Combating Contextual Deception",
+  "raw_content": "arXiv:2603.22453v1 Announce Type: new Abstract: Community Notes have emerged as an effective crowd-sourced mechanism for combating online deception on social media platforms. However, its reliance on human contributors limits both the timeliness and scalability. In this work, we study the automated Community Notes generation method for image-based contextual deception, where an authentic image is paired with misleading context (e.g., time, entity, and event). Unlike prior work that primarily focuses on deception detection (i.e., judging whether a post is true or false in a binary manner), Community Notes-style systems need to generate concise and grounded notes that help users recover the missing or corrected context. This problem remains underexplored due to three reasons: (i) datasets that support the research are scarce; (ii) methods must handle the dynamic nature of contextual deception; (iii) evaluation is difficult because standard metrics do not capture whether notes actually improve user understanding. To address these gaps, we curate a real-world dataset, XCheck, comprising X posts with associated Community Notes and external contexts. We further propose the Automated Context-Corrective Note generation method, named ACCNote, which is a retrieval-augmented, multi-agent collaboration framework built on large vision-language models. Finally, we introduce a new evaluation metric, Context Helpfulness Score (CHS), that aligns with user study outcomes rather than relying on lexical overlap. Experiments on our XCheck dataset show that the proposed ACCNote improves both deception detection and note generation performance over baselines, and exceeds a commercial tool GPT5-mini. Together, our dataset, method, and metric advance practical automated generation of context-corrective notes toward more responsible online social networks.",
+  "source_url": "https://arxiv.org/abs/2603.22453",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "5022a11b-e028-4a21-9e10-4d2f5f3cfe2b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T02:58:34.754090+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

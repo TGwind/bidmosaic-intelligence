@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates",
+  "raw_content": "arXiv:2603.22350v1 Announce Type: new Abstract: Deterministic pre-execution safety gates evaluate whether individual agent actions are compatible with their assigned roles. While effective at per-action authorization, these systems are structurally blind to distributed attacks that decompose harmful intent across multiple individually-compliant steps. This paper introduces Session Risk Memory (SRM), a lightweight deterministic module that extends stateless execution gates with trajectory-level authorization. SRM maintains a compact semantic centroid representing the evolving behavioral profile of an agent session and accumulates a risk signal through exponential moving average over baseline-subtracted gate outputs. It operates on the same semantic vector representation as the underlying gate, requiring no additional model components, training, or probabilistic inference. We evaluate SRM on a multi-turn benchmark of 80 sessions containing slow-burn exfiltration, gradual privilege escalation, and compliance drift scenarios. Results show that ILION+SRM achieves F1 = 1.0000 with 0% false positive rate, compared to stateless ILION at F1 = 0.9756 with 5% FPR, while maintaining 100% detection rate for both systems. Critically, SRM eliminates all false positives with a per-turn overhead under 250 microseconds. The framework introduces a conceptual distinction between spatial authorization consistency (evaluated per action) and temporal authorization consistency (evaluated over trajectory), providing a principled basis for session-level safety in agentic systems.",
+  "source_url": "https://arxiv.org/abs/2603.22350",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "e02e695b-4f31-44da-a833-a45235bf921e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T02:58:34.828743+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

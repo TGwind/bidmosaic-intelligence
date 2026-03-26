@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "SBI, Sony back Startale’s $63 million push to expand Japan’s tokenized finance stack",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/25/sbi-sony-back-startale-s-usd63-million-push-to-expand-japan-s-tokenized-finance-stack",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T17:00:00+00:00",
+  "id": "96662988-316f-4104-890b-cd05cb7c22ed",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T02:58:34.801410+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

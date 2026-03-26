@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Sabine Mauderer: Preserving stability in a fragmented and uncertain world",
+  "raw_content": "Speech by Dr Sabine Mauderer, First Deputy Governor of the Deutsche Bundesbank, at the 3rd International Conference on the Climate-Macro-Finance Interface \"Emerging macroeconomic, financial, and environmental policy challenges in an era of polycrisis and rising uncertainties,\" Frankfurt am Main, 23 March 2026.",
+  "source_url": "https://www.bis.org/review/r260325b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-26T02:56:37.345854+00:00",
+  "id": "5c529862-194a-43ec-ab8f-a7c9ad831e4a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T02:58:34.770643+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
