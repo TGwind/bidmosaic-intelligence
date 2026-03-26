@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Brazil passes law allowing seized crypto to be used for public security",
+  "raw_content": "Aimed at fighting organized crime groups, the new law allows confiscated assets including crypto to be used for ”police re-equipment, training, and special operations.”",
+  "source_url": "https://cointelegraph.com/news/brazil-law-seized-crypto-public-security?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T17:29:03+00:00",
+  "id": "5edd55b8-32c3-4584-92eb-cd21d4c5caaf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T20:43:25.320383+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

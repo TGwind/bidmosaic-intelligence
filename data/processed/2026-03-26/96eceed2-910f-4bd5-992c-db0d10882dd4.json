@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CFTC chair Selig says blockchain could help verify AI-generated content",
+  "raw_content": "The regulator views timestamps and onchain identifiers as tools to distinguish real media from synthetic content, while calling for a light-touch approach to regulating AI agents.",
+  "source_url": "https://cointelegraph.com/news/cftc-chairman-mike-selig-says-blockchain-could-help-verify-ai-generated-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T18:17:41+00:00",
+  "id": "96eceed2-910f-4bd5-992c-db0d10882dd4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T20:43:25.353434+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

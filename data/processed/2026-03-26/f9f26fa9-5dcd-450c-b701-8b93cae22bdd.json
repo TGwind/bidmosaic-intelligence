@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Mezo taps Aerodrome to support token trading on Base in Bitcoin DeFi push",
+  "raw_content": "The Bitcoin lending protocol will allocate 2.25% of its token supply to Aerodrome users as it looks to expand activity for its token and stablecoin.",
+  "source_url": "https://cointelegraph.com/news/mezo-aerodrome-base-token-trading-bitcoin-defi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T17:01:44+00:00",
+  "id": "f9f26fa9-5dcd-450c-b701-8b93cae22bdd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T20:43:25.365594+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
