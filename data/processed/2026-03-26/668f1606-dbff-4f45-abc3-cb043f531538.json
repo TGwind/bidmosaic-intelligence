@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Berta: an open-source, modular tool for AI-enabled clinical documentation",
+  "raw_content": "arXiv:2603.23513v1 Announce Type: new Abstract: Commercial AI scribes cost \\$99-600 per physician per month, operate as opaque systems, and do not return data to institutional infrastructure, limiting organizational control over data governance, quality improvement, and clinical workflows. We developed Berta, an open-source modular scribe platform for AI-enabled clinical documentation, and deployed a customized implementation within Alberta Health Services (AHS) integrated with their existing Snowflake AI Data Cloud infrastructure. The system combines automatic speech recognition with large language models while retaining all clinical data within the secure AHS environment. During eight months (November 2024 to July 2025), 198 emergency physicians used the system in 105 urban and rural facilities, generating 22148 clinical sessions and more than 2800 hours of audio. The use grew from 680 to 5530 monthly sessions. Operating costs averaged less than \\$30 per physician per month, a 70-95% reduction compared to commercial alternatives. AHS has since approved expansion to 850 physicians. This is the first provincial-scale deployment of an AI scribe integrated with existing health system infrastructure. By releasing Berta as open source, we provide a reproducible, cost-effective alternative that health systems can adapt to their own secure environments, supporting data sovereignty and informed evaluation of AI documentation technology.",
+  "source_url": "https://arxiv.org/abs/2603.23513",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-26T04:00:00+00:00",
+  "id": "668f1606-dbff-4f45-abc3-cb043f531538",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T09:10:12.255880+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

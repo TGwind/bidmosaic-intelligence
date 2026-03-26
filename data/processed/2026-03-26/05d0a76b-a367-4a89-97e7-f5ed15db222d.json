@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "UK pushes ahead with temporary ban on political crypto donations",
+  "raw_content": "The government plans to implement the ban by amending the Representation of the People Bill, with changes taking \"retrospective effect\" from Wednesday.",
+  "source_url": "https://cointelegraph.com/news/uk-forges-ahead-political-crypto-donations-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T06:07:46+00:00",
+  "id": "05d0a76b-a367-4a89-97e7-f5ed15db222d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T09:10:12.160036+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
