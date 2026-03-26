@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本磁悬浮中央新干线建设出现进展",
+  "raw_content": "<div>2026/03/26</div><div id=\"contentDiv\">\n<div></div>\n<div>       日本磁悬浮中央新干线建设有了新进展，围绕最大的难点静冈施工区段，静冈县与JR东海的协商于3月26日实际上已完成。围绕南阿尔卑斯山周边环境保护等问题，静冈县提出的条件已基本得到满足，知事铃木康友预计将在年内同意开工。尽管仍面临物价上涨和施工难度大等课题，但最早于2036年实现品川至名古屋段开业已进入视野。</div>\n<div> </div>\n<div>      自静冈县前知事川胜平太2017年以静冈县中部大井川流域水资源问题为由表明反对开工以来，双方经过9年终于达成一致。今后将向流域居民和地方政府说明相关对策，同时推进根据《县自然环境保护条例》签订协议等法律程序。</div>\n<div> </div>\n<div>      负责讨论南阿尔卑斯山周边环境保护的县专家小组26日在静冈县政府召开会议。会议认可了JR东海提出的对策，即如果施工造成自然环境损失，将开展超过损失规模的环境贡献活动作为补偿。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61930-2026-03-26-15-50-05.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-26T08:08:02+00:00",
+  "id": "e494bc79-f941-4fe6-b228-1518243a3484",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "AGI Is Not Multimodal",
+  "raw_content": "<blockquote>&quot;In projecting language back as the model for thought, we lose sight of the tacit embodied understanding that undergirds our intelligence.&quot; &#x2013;Terry Winograd</blockquote><p>The recent successes of generative AI models have convinced some that AGI is imminent. While these models appear to capture the essence of human</p>",
+  "source_url": "https://thegradient.pub/agi-is-not-multimodal/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2025-06-04T14:00:29+00:00",
+  "id": "1ab8eaf9-3d74-4675-8702-4ac9373fb596",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

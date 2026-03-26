@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "White House clears review of proposal to allow crypto in 401(k) retirement plans",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"White House clears review of proposal to allow crypto in 401(k) retirement plans\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2I2OTAtNmUyZC03YWFiLWI1MGYtMTY4OTJmNDQ4YmQwLmpwZw==.jpg\" /></p><p>A White House review has cleared a Labor Department proposal that could widen the path for crypto-linked exposure in 401(k) retirement plans.</p>",
+  "source_url": "https://cointelegraph.com/news/white-house-review-greenlights-crypto-401-k-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T13:09:50+00:00",
+  "id": "266d7b5f-d4fd-4601-8fc1-6cd45dafd56d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

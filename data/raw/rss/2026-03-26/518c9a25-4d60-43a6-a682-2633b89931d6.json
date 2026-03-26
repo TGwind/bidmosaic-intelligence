@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Everyone's calling bitcoin resilient, may be it's just complacent",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/daybook-us/2026/03/26/everyone-s-calling-bitcoin-resilient-may-be-it-s-just-complacent",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T11:16:47+00:00",
+  "id": "518c9a25-4d60-43a6-a682-2633b89931d6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

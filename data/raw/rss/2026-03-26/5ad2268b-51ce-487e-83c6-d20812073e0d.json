@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "DepthCharge: A Domain-Agnostic Framework for Measuring Depth-Dependent Knowledge in Large Language Models",
+  "raw_content": "arXiv:2603.23514v1 Announce Type: new \nAbstract: Large Language Models appear competent when answering general questions but often fail when pushed into domain-specific details. No existing methodology provides an out-of-the-box solution for measuring how deeply LLMs can sustain accurate responses under adaptive follow-up questioning across arbitrary domains.\n  We present DepthCharge, a domain-agnostic framework that measures knowledge depth through three innovations: adaptive probing that generates follow-up questions based on concepts the model actually mentions, on-demand fact verification from authoritative sources, and survival statistics with constant sample sizes at every depth level. The framework can be deployed on any knowledge domain with publicly verifiable facts, without requiring pre-constructed test sets or domain-specific expertise. DepthCharge results are relative to the evaluator model used for answer checking, making the framework a tool for comparative evaluation rather than absolute accuracy certification.\n  Empirical validation across four diverse domains (Medicine, Constitutional Law, Ancient Rome, and Quantum Computing) with five frontier models demonstrates that DepthCharge reveals depth-dependent performance variation hidden by standard benchmarks. Expected Valid Depth (EVD) ranges from 3.45 to 7.55 across model-domain combinations, and model rankings vary substantially by domain, with no single model dominating all areas. Cost-performance analysis further reveals that expensive models do not always achieve deeper knowledge, suggesting that domain-specific evaluation is more informative than aggregate benchmarks for model selection in professional applications.",
+  "source_url": "https://arxiv.org/abs/2603.23514",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-26T04:00:00+00:00",
+  "id": "5ad2268b-51ce-487e-83c6-d20812073e0d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
