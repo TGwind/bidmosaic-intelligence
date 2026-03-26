@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "普京发现女士没酒杯后让出自己的",
+  "raw_content": "普京发现女士没酒杯后让出自己的",
+  "source_url": "https://www.toutiao.com/trending/7620626419873366035/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227620626419873366035%22%2C%22hot_board_impr_id%22%3A%2220260326211908BD97DDC6BABC95E25273%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%AE%E4%BA%AC%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%A3%AB%E6%B2%A1%E9%85%92%E6%9D%AF%E5%90%8E%E8%AE%A9%E5%87%BA%E8%87%AA%E5%B7%B1%E7%9A%84%22%7D&rank=&style_id=40132&topic_id=7620626419873366035",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-26T13:19:08.773584+00:00",
+  "id": "888082e5-b442-4bd5-8888-ed4e81badbaf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "62073810",
+    "platform": "toutiao"
+  }
+}
