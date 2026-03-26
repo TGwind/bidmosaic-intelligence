@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "研究员：“更危险的日本”正在冒头",
+  "raw_content": "研究员：“更危险的日本”正在冒头",
+  "source_url": "https://www.toutiao.com/trending/7621334200951701547/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227621334200951701547%22%2C%22hot_board_impr_id%22%3A%22202603261029135C5B2081215C24BFD616%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A0%94%E7%A9%B6%E5%91%98%EF%BC%9A%E2%80%9C%E6%9B%B4%E5%8D%B1%E9%99%A9%E7%9A%84%E6%97%A5%E6%9C%AC%E2%80%9D%E6%AD%A3%E5%9C%A8%E5%86%92%E5%A4%B4%22%7D&rank=&style_id=40132&topic_id=7621334200951701547",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-26T02:29:13.190917+00:00",
+  "id": "268ac849-4dc9-49c5-859a-2aed3f107fbc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "46436503",
+    "platform": "toutiao"
+  }
+}

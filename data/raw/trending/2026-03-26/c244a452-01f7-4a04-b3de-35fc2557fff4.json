@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【太阳之子 | 官方MV 】周杰伦 太阳，所到之处即带来光，随性挥洒无与伦比的音乐创意 万众期盼！雨过天晴",
+  "raw_content": "万众瞩目！\n周杰伦「太阳之子」MV媲美好莱坞大片 \n携手世界顶级视觉创意团队Wētā Workshop 单支MV总成本逼近1亿元！\n打造华语乐坛史上最贵MV MV宛如电影般的精致动画与后制令人叹为观止！ \n最新专辑「太阳之子」3月25日数位全球发行 ！",
+  "source_url": "https://www.bilibili.com/video/BV162QqBTE8G",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-26T02:29:13.720511+00:00",
+  "id": "c244a452-01f7-4a04-b3de-35fc2557fff4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 7343555,
+    "platform": "bilibili"
+  }
+}
