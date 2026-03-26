@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Google targets 2029 post-quantum migration as threats draw nearer",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Google targets 2029 post-quantum migration as threats draw nearer\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDI2ZjEtZmE5OC03ZmQ2LThhYWMtMDljNzE0OGI1ODk2LmpwZw==.jpg\" /></p><p>Google has urged others to accelerate post-quantum efforts as it continues to develop Willow, one of the most powerful superconducting quantum processors today.</p>",
+  "source_url": "https://cointelegraph.com/news/google-sets-quantum-migration-deadline-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T00:48:12+00:00",
+  "id": "d608696a-fc79-4e0b-a86c-35597beac0fb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

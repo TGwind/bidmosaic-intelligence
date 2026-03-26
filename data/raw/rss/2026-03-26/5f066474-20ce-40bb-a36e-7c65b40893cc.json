@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Yannis Stournaras: The Greek economy ten years after the crisis - lessons for national economies, the eurozone and future challenges",
+  "raw_content": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the \"American Hellenic Educational Progressive Association\" event, Frankfurt am Main, 19 March 2026.",
+  "source_url": "https://www.bis.org/review/r260324b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-26T05:44:14.523662+00:00",
+  "id": "5f066474-20ce-40bb-a36e-7c65b40893cc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
