@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "高端日料没人吃了？",
+  "raw_content": "全球好大哥最严厉的父亲，中国农业最叛逆的儿子？日料才是中国农业的海外体验店——鳗鱼、蛤蜊、鱼子酱、姜、山葵，几乎全靠中国供应......下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+  "source_url": "http://www.huxiu.com/article/4843942.html?f=wangzhan",
+  "source_name": "虎嗅网",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-24T11:00:00+00:00",
+  "id": "ce8f7c74-fd8c-4c2d-b1cb-3db8d2b53e49",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T05:44:58.537507+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.huxiu.com/rss/0.xml",
+    "category": "china_tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

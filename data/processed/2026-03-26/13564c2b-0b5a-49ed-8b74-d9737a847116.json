@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Swan Bitcoin seeks to subpoena Cantor Fitzgerald, ex-CEO in ex-staff dispute",
+  "raw_content": "Swan Bitcoin claims that Howard Lutnick likely knew about its failed Tether mining venture, after which employees allegedly stole documents, resigned and launched a rival firm.",
+  "source_url": "https://cointelegraph.com/news/swan-bitcoin-subpoena-howard-lutnick-cantor-fitzgerald-tether-mining-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T04:48:54+00:00",
+  "id": "13564c2b-0b5a-49ed-8b74-d9737a847116",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T05:44:58.409901+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

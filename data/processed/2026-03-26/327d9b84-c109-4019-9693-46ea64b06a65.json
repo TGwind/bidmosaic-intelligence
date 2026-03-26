@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Trailer: The Shape of Things to Come",
+  "raw_content": "Microsoft research lead Doug Burger introduces his new podcast series, \"The Shape of Things to Come\", an exploration into the fundamental truths about AI and how the technology will reshape the future. The post Trailer: The Shape of Things to Come appeared first on Microsoft Research.",
+  "source_url": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+  "source_name": "Microsoft Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-03T13:00:18+00:00",
+  "id": "327d9b84-c109-4019-9693-46ea64b06a65",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T05:44:58.454378+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.microsoft.com/en-us/research/feed",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 88
+  }
+}

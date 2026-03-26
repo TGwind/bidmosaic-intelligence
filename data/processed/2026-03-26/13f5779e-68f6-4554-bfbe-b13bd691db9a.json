@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Australia's central bank backs tokenization as pilot finds $16.7B upside",
+  "raw_content": "Tokenized finance and related infrastructure upgrades will be “revolutionary,” said Reserve Bank of Australia Assistant Governor Brad Jones.",
+  "source_url": "https://cointelegraph.com/news/australian-central-bank-backs-rwa-tokenisation-explores-digital-finance-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T04:16:54+00:00",
+  "id": "13f5779e-68f6-4554-bfbe-b13bd691db9a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T05:44:58.415309+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

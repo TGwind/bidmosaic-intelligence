@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "白宫：中美首脑会谈5月14～15日于北京举行",
+  "raw_content": "2026/03/26 2025年10月会晤时的美国总统特朗普（左）与中国国家主席习近平（REUTERS） 美国白宫发言人卡罗琳·莱维特3月25日发布消息称，美国总统特朗普将于5月14日～15日在中国北京与中国国家主席习近平举行会谈。随后，习近平也将访问华盛顿。 此前，中美两国政府原定3月31日～4月2日安排特朗普访华。美方以针对伊朗的军事行动为由，提出推迟行程。据莱维特透露，习近平访问华盛顿的日程将在年内公布。 当有记者问及，特朗普访华之时对伊朗军事行动是否已结束时，莱维特回应：“我们预计此次行动将持续4至6周。请大家自行推算” 。对伊朗的打击行动始于2月28日。 特朗普在其个人社交账号上发帖称，习近平访问美国预计将在今年下半年。他写道：“两国相关人员正为这些历史性访问做最后准备”，并强调“我非常期待”。 如果特朗普访华成行，将是其第二次上台以后的首次访华。特朗普与习近平曾于2025年10月在韩国举行会谈。5月的下一轮会谈议题可能涉及台湾问题及贸易等。 特朗普政府有意将此次访华作为11月美国中期选举前恢复支持率的催化剂。试图从中国方面争取扩大对美国农产品的购买，以吸引作为共和党的票仓的农村选民。 日本经济新闻（中文版：日经中文网）飞田临太郎 华盛顿报道",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61919-2026-03-26-10-20-49.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-26T02:38:02+00:00",
+  "id": "9da27024-fffa-49ee-a576-544f01d74f1e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T05:44:58.521244+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

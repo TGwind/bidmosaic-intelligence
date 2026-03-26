@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Data points to accelerating Ether supply crunch: Will ETH price follow?",
+  "raw_content": "The number of Ether staked continues to rise while ETH outflows from exchanges are increasing. Will the phenomenon have a positive or negative impact on ETH price?",
+  "source_url": "https://cointelegraph.com/news/data-points-to-accelerating-ether-supply-crunch-will-eth-price-follow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T21:15:00+00:00",
+  "id": "11a71d2c-6408-4981-9886-a9b733211f4e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T05:44:58.413026+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
