@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Some bitcoin indicators are still going the wrong way, challenging the bullish $70,000 holdout story",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/26/some-bitcoin-indicators-are-still-going-the-wrong-way-challenging-the-bullish-usd70-000-holdout-story",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T06:12:12+00:00",
+  "id": "511776b6-c593-4adc-9c82-5a2c01489d10",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto Long & Short: Prediction Markets Don’t Just Forecast Power - They Reshape It",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-indices/2026/03/25/crypto-long-and-short-prediction-markets-don-t-just-forecast-power-they-reshape-it",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T18:36:03+00:00",
+  "id": "4790721a-90ea-43f3-aa6c-28c29f6a8c65",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

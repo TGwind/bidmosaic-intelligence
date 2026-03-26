@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "This Web Tool Sabotages AI Chatbots By Making Them Really, Really Slow",
+  "raw_content": "Artist Sam Lavigne created ‘Slow LLM’ to make people question their dependence on tools like Claude and ChatGPT. Or at least, make them super annoying to use.",
+  "source_url": "https://www.404media.co/this-web-tool-sabotages-ai-chatbots-by-making-them-really-really-slow/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-23T15:20:26+00:00",
+  "id": "4190c7c2-25ef-4325-8664-7d9117c886cf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "BitGo teams with ZKsync to build tokenized deposit infrastructure to bring banks onchain",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/25/bitgo-teams-with-zksync-to-build-tokenized-deposit-infrastructure-to-bring-banks-onchain",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-25T20:00:00+00:00",
+  "id": "8d8dc413-c02a-41c8-8a5f-8b17be3b8126",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
