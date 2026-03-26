@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "DISCO: Document Intelligence Suite for COmparative Evaluation",
+  "raw_content": "arXiv:2603.23511v1 Announce Type: new Abstract: Document intelligence requires accurate text extraction and reliable reasoning over document content. We introduce \\textbf{DISCO}, a \\emph{Document Intelligence Suite for COmparative Evaluation}, that evaluates optical character recognition (OCR) pipelines and vision-language models (VLMs) separately on parsing and question answering across diverse document types, including handwritten text, multilingual scripts, medical forms, infographics, and multi-page documents. Our evaluation shows that performance varies substantially across tasks and document characteristics, underscoring the need for complexity-aware approach selection. OCR pipelines are generally more reliable for handwriting and for long or multi-page documents, where explicit text grounding supports text-heavy reasoning, while VLMs perform better on multilingual text and visually rich layouts. Task-aware prompting yields mixed effects, improving performance on some document types while degrading it on others. These findings provide empirical guidance for selecting document processing strategies based on document structure and reasoning demands.",
+  "source_url": "https://arxiv.org/abs/2603.23511",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-26T04:00:00+00:00",
+  "id": "30267d9d-f9ea-4174-98ff-cbd3c9780b80",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T17:13:20.308223+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
