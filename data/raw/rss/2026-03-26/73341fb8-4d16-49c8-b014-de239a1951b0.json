@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis",
+  "raw_content": "arXiv:2603.22312v1 Announce Type: new \nAbstract: This paper computationally investigates whether thought requires a language-like format, as posited by the Language of Thought (LoT) hypothesis. We introduce the ``AI Private Language'' thought experiment: if two artificial agents develop an efficient, inscrutable communication protocol via multi-agent reinforcement learning (MARL), and their performance declines when forced to use a human-comprehensible language, this Efficiency Attenuation Phenomenon (EAP) challenges the LoT. We formalize this in a cooperative navigation task under partial observability. Results show that agents with an emergent protocol achieve 50.5\\% higher efficiency than those using a pre-defined, human-like symbolic protocol, confirming the EAP. This suggests optimal collaborative cognition in these systems is not mediated by symbolic structures but is naturally coupled with sub-symbolic computations. The work bridges philosophy, cognitive science, and AI, arguing for pluralism in cognitive architectures and highlighting implications for AI ethics.",
+  "source_url": "https://arxiv.org/abs/2603.22312",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T04:00:00+00:00",
+  "id": "73341fb8-4d16-49c8-b014-de239a1951b0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "$18.6B in Bitcoin options expire Friday: Should traders prepare for $75K BTC?",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"$18.6B in Bitcoin options expire Friday: Should traders prepare for $75K BTC?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2IxZjktNzNiYS03ZmRkLWI3YmMtZjIyMzc2MWNjZTJhLmpwZw==.jpg\" /></p><p>Bitcoin bulls face an uphill battle to turn the March options expiry in their favor, requiring a 6% price rally to $75,000 before Friday.</p>",
+  "source_url": "https://cointelegraph.com/news/18-6b-in-bitcoin-options-expire-friday-should-traders-prepare-for-75k-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T00:31:28+00:00",
+  "id": "b3e7dc9b-7bea-4370-b7e0-cb20b20aadaf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
