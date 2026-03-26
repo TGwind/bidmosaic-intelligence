@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "“湖南两名外卖小哥跳桥自杀”不实",
+  "raw_content": "“湖南两名外卖小哥跳桥自杀”不实",
+  "source_url": "https://www.toutiao.com/trending/7621547335964790282/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227621547335964790282%22%2C%22hot_board_impr_id%22%3A%2220260326211908BD97DDC6BABC95E25273%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E6%B9%96%E5%8D%97%E4%B8%A4%E5%90%8D%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%B7%B3%E6%A1%A5%E8%87%AA%E6%9D%80%E2%80%9D%E4%B8%8D%E5%AE%9E%22%7D&rank=&style_id=40132&topic_id=7621547335964790282",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-26T13:19:08.773642+00:00",
+  "id": "f44a7acd-e59a-4fbe-94ff-752f6ce566b1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-26T13:19:45.889514+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "30824941",
+    "platform": "toutiao"
+  }
+}

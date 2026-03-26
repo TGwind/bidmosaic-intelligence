@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "看体验经济新潜力",
-  "raw_content": "看体验经济新潜力",
-  "source_url": "https://www.toutiao.com/article/7621166679489380900",
+  "raw_title": "中国造光缆吸引全球订单",
+  "raw_content": "中国造光缆吸引全球订单",
+  "source_url": "https://www.toutiao.com/article/7621482093914096171",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-26T07:11:23.475914+00:00",
-  "id": "d4235521-f0fe-4840-8c24-e496a1527b30",
+  "collected_at": "2026-03-26T13:19:08.773574+00:00",
+  "id": "7900848c-082e-4117-9c52-2e549dd8a731",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-26T13:19:45.887694+00:00",
+  "processed_at": "2026-03-26T13:19:45.882270+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "92817532",
+    "hot_score": "68602169",
     "platform": "toutiao"
   }
 }
