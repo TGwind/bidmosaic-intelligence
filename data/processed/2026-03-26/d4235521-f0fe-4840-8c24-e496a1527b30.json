@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "我国氢能与核聚变能产业加速突破",
-  "raw_content": "我国氢能与核聚变能产业加速突破",
-  "source_url": "https://www.toutiao.com/article/7621004767350768134",
+  "raw_title": "看体验经济新潜力",
+  "raw_content": "看体验经济新潜力",
+  "source_url": "https://www.toutiao.com/article/7621166679489380900",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-26T02:29:13.190833+00:00",
-  "id": "26f18806-4615-4bd7-954e-72096f044475",
+  "collected_at": "2026-03-26T07:11:23.475914+00:00",
+  "id": "d4235521-f0fe-4840-8c24-e496a1527b30",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-26T07:11:57.922456+00:00",
+  "processed_at": "2026-03-26T07:11:57.937601+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "76560850",
+    "hot_score": "92817532",
     "platform": "toutiao"
   }
 }
