@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US federal judge temporarily blocks Pentagon's Anthropic ban",
+  "raw_content": "Judge Rita Lin said it was not until Anthropic raised concerns about how its technology could be used that the US government announced a plan to \"cripple Anthropic.\"",
+  "source_url": "https://cointelegraph.com/news/us-court-temporarily-blocks-trump-supply-chain-risk-against-anthropic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T05:02:04+00:00",
+  "id": "04a69c57-6de4-420b-aae2-fba8d3262bd5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T13:25:41.450411+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

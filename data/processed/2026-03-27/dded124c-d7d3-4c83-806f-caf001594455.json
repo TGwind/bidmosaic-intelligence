@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin ETFs log biggest outflows in 3 weeks as Iran war fears rise",
+  "raw_content": "US Bitcoin ETFs saw significant outflows of $171 million on Thursday as market participants feared another weekend escalation in the US-Israel conflict with Iran.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-etfs-sell-off-investors-fear-weekend-escalation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T09:36:19+00:00",
+  "id": "dded124c-d7d3-4c83-806f-caf001594455",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T13:25:41.624319+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
