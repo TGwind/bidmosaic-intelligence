@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Synthetic Rewriting as a Quality Multiplier: Evidence from Portuguese Continued Pretraining",
+  "raw_content": "arXiv:2603.24826v1 Announce Type: new \nAbstract: Synthetic data generation through document rewriting has emerged as a promising technique for improving language model pretraining, yet most studies focus on English and do not systematically control for the quality of the source data being rewritten. We present a controlled study of how synthetic rewriting interacts with source data quality in the context of Portuguese continued pretraining. Starting from ClassiCC-PT, a Portuguese corpus annotated with STEM and Educational quality scores, we construct two 10B-token subsets at different quality levels and rewrite each into four styles using a 7B instruction-tuned model, producing approximately 40B tokens of synthetic data per condition. We train two English-centric base models (1.1B and 7B parameters) on each condition and evaluate on PoETa V2, a comprehensive 44-task Portuguese benchmark. At the 7B scale, rewriting high-quality data yields a +3.4 NPM gain over the same data unmodified, while rewriting low-quality data provides only +0.5 NPM. At the 1.1B scale, this interaction is weaker, with unmodified low-quality data performing comparably to rewritten high-quality data. Our results demonstrate that synthetic rewriting acts primarily as a quality multiplier rather than a substitute for data curation, and that this effect is scale-dependent.",
+  "source_url": "https://arxiv.org/abs/2603.24826",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-27T04:00:00+00:00",
+  "id": "f1dc00f8-0df0-4499-b031-683c83745e57",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
