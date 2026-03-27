@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "GameStop didn't sell its 4,710 Bitcoin after all, filing shows",
+  "raw_content": "GameStop has revealed that it pledged nearly all of its Bitcoin, worth $325 million, as collateral on Coinbase as part of a covered-call strategy.",
+  "source_url": "https://cointelegraph.com/news/gamestop-didnt-sell-368m-bitcoin-after-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T00:19:48+00:00",
+  "id": "2d225b43-5553-48e9-8890-830794fe6a41",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T05:46:57.685401+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Tether hires KPMG for USDT audit, brings in PwC as it gears up for U.S. expansion",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/27/tether-hires-kpmg-for-usdt-audit-brings-in-pwc-as-it-gears-up-for-u-s-expansion",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T04:16:30+00:00",
+  "id": "35386fc9-2e3a-4e51-918a-ffbd867a4541",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T05:46:57.696084+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
