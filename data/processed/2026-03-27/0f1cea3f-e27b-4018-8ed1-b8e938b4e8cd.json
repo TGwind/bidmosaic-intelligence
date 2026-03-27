@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《洛克王国：世界》启程PV | 魔法学院，欢迎小洛克入学！",
+  "raw_content": "阿官温馨提示： 《洛克王国：世界》现已全平台正式上线！S1赛季同步开启！ *游戏支持PC/安卓/鸿蒙/iOS多端游玩，全平台数据互通",
+  "source_url": "https://www.bilibili.com/video/BV1hNQSB9EiY",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T18:57:59.542990+00:00",
+  "id": "0f1cea3f-e27b-4018-8ed1-b8e938b4e8cd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T18:58:30.584754+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3766719,
+    "platform": "bilibili"
+  }
+}

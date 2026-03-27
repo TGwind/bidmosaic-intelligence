@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "美杜莎三千年从未停止过凝视~",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1inXsB8Et3",
+  "raw_title": "用2011年的方式跳了千本樱…老资历还在发力",
+  "raw_content": "原创编舞出自紫音リア，歌曲出自黒うさP/初音ミク。",
+  "source_url": "https://www.bilibili.com/video/BV1VcQSB4E8i",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-27T13:09:38.608259+00:00",
-  "id": "c82c739b-1d9d-4b27-8d13-a45a3eee2cb9",
+  "collected_at": "2026-03-27T18:57:59.542980+00:00",
+  "id": "9e38cfb6-84a4-49cb-8eb3-3a98873f99e1",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-27T18:58:30.605733+00:00",
+  "processed_at": "2026-03-27T18:58:30.601995+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3072782,
+    "hot_score": 1219507,
     "platform": "bilibili"
   }
 }
