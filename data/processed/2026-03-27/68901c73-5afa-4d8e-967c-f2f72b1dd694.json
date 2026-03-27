@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "天塌了我来扛，爱你老妈！",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1dYQmBdEdc",
+  "raw_title": "给路人整个帅的",
+  "raw_content": "给路人整个帅的",
+  "source_url": "https://www.bilibili.com/video/BV1zMQqBPEDx",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-27T07:10:11.920435+00:00",
-  "id": "7145e512-a163-4e6e-bd69-3e7af82e9066",
+  "collected_at": "2026-03-27T13:09:38.608226+00:00",
+  "id": "68901c73-5afa-4d8e-967c-f2f72b1dd694",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-27T13:10:14.758604+00:00",
+  "processed_at": "2026-03-27T13:10:14.748741+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1115551,
+    "hot_score": 2496969,
     "platform": "bilibili"
   }
 }

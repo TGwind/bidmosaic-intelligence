@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "天塌了我来扛，爱你老妈！",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1dYQmBdEdc",
+  "raw_title": "生活化减脂餐 云朵番茄炒蛋超详细做法来啦",
+  "raw_content": "希望我的视频能对你有一点点帮助",
+  "source_url": "https://www.bilibili.com/video/BV178AMz1EaN",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-27T07:10:11.920435+00:00",
-  "id": "7145e512-a163-4e6e-bd69-3e7af82e9066",
+  "collected_at": "2026-03-27T13:09:38.608249+00:00",
+  "id": "6b530662-35d6-44ac-bc8b-2a376501c1b8",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-27T13:10:14.758604+00:00",
+  "processed_at": "2026-03-27T13:10:14.752968+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1115551,
+    "hot_score": 3535704,
     "platform": "bilibili"
   }
 }
