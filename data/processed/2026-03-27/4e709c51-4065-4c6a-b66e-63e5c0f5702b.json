@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin dips under $66K as oil sparks 'unsustainable' US inflation risk",
+  "raw_content": "Bitcoin joined a risk-asset rout as oil-supply nerves sparked major US inflation warnings, with $70,000 in place as new BTC price resistance.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-dips-under-66k-oil-sparks-unsustainable-inflation-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T14:26:04+00:00",
+  "id": "4e709c51-4065-4c6a-b66e-63e5c0f5702b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T17:04:31.427928+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "NYSE parent ICE completes new $600M investment in Polymarket",
+  "raw_content": "ICE completed a new $600 million investment in Polymarket, advancing its $2 billion funding deal as prediction markets face growing scrutiny.",
+  "source_url": "https://cointelegraph.com/news/ice-600m-polymarket-investment-prediction-markets-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T14:07:34+00:00",
+  "id": "b1319c2e-a7cf-4135-b72a-eb5ea96bb89b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T17:04:31.458815+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

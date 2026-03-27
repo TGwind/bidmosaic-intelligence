@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ondo, Canton sidestep macro concerns with institutional deals as bitcoin, ether slide",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/daybook-us/2026/03/27/ondo-canton-sidestep-macro-concerns-with-institutional-deals-as-bitcoin-ether-slide",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T11:36:18+00:00",
+  "id": "aeaa120c-bc19-48cb-8d55-cd343316956a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T17:04:31.461446+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

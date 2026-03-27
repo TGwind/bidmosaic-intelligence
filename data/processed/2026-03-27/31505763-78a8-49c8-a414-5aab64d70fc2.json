@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "ECB paper questions if DeFi DAOs are decentralized enough to sit outside MiCA",
+  "raw_content": "An ECB working paper found DeFi governance remains highly concentrated, complicating efforts to identify who should fall under MiCA oversight.",
+  "source_url": "https://cointelegraph.com/news/ecb-paper-says-defi-governance-highly-concentrated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T13:36:54+00:00",
+  "id": "31505763-78a8-49c8-a414-5aab64d70fc2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T17:04:31.388025+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
