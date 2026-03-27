@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "陪看国足VS库拉索",
+  "raw_content": "陪看国足VS库拉索",
+  "source_url": "https://webcast-open.douyin.com/open/media_live/66869977125",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T07:10:10.859586+00:00",
+  "id": "4713750e-1fa0-431f-a76e-b39b87136824",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T07:10:46.497695+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "45425675",
+    "platform": "toutiao"
+  }
+}

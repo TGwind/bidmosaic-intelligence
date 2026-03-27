@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "吴京面部被按压后出现缓慢回弹凹陷",
+  "raw_content": "吴京面部被按压后出现缓慢回弹凹陷",
+  "source_url": "https://www.toutiao.com/trending/7620956177690542126/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227620956177690542126%22%2C%22hot_board_impr_id%22%3A%222026032715101097B0F30F1D068B88950A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%90%B4%E4%BA%AC%E9%9D%A2%E9%83%A8%E8%A2%AB%E6%8C%89%E5%8E%8B%E5%90%8E%E5%87%BA%E7%8E%B0%E7%BC%93%E6%85%A2%E5%9B%9E%E5%BC%B9%E5%87%B9%E9%99%B7%22%7D&rank=&style_id=40132&topic_id=7620956177690542126",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T07:10:10.859663+00:00",
+  "id": "c7c8684a-27db-4928-8460-f48b6a3e26a9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T07:10:46.500987+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18468701",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【AI 周杰伦】《那天下雨了》+5Key 升调版",
+  "raw_content": "AI声源：周杰伦 原唱：周杰伦 推理来源：那天下雨了 - 周杰伦 免责声明：本作品仅作为娱乐目的发布，可能造成的后果与使用的音声转换项目的作者、贡献者无关，本视频使用AI合成技术，视频中演唱人声并非周杰伦本人如有侵权告知删除",
+  "source_url": "https://www.bilibili.com/video/BV1daQ1BUEm2",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T07:10:11.920451+00:00",
+  "id": "1b901842-d932-4a9b-bada-69a99c259c3b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T07:10:46.491486+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2305318,
+    "platform": "bilibili"
+  }
+}

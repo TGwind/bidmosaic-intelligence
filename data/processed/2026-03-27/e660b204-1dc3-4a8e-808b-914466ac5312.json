@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "科技自立自强迈出新步伐",
+  "raw_content": "科技自立自强迈出新步伐",
+  "source_url": "https://www.toutiao.com/article/7621580980775617024",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T07:10:10.859565+00:00",
+  "id": "e660b204-1dc3-4a8e-808b-914466ac5312",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T07:10:46.501659+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "55483045",
+    "platform": "toutiao"
+  }
+}
