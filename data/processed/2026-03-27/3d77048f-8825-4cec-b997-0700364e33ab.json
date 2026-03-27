@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美股标普纳指创开战后最大单日跌幅",
+  "raw_content": "美股标普纳指创开战后最大单日跌幅",
+  "source_url": "https://www.toutiao.com/trending/7621704767055597083/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227621704767055597083%22%2C%22hot_board_impr_id%22%3A%222026032710304094779BA545EC77864EC7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E8%82%A1%E6%A0%87%E6%99%AE%E7%BA%B3%E6%8C%87%E5%88%9B%E5%BC%80%E6%88%98%E5%90%8E%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85%22%7D&rank=&style_id=40132&topic_id=7621704767055597083",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T02:30:41.239354+00:00",
+  "id": "3d77048f-8825-4cec-b997-0700364e33ab",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T02:31:11.472280+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "48252140",
+    "platform": "toutiao"
+  }
+}
