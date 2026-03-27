@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "英国禁止中国明阳智能的风力涡轮机",
+  "raw_content": "2026/03/27 英国政府3月26日表示，将禁止中国大型风力发电设备企业明阳智能（Mingyang Smart Energy）的涡轮机用于海上风电项目，并指出“存在安全保障方面的风险”。这一问题此前已在英国国内以及美国特朗普政府中引发担忧。 2024年成立的英国工党政府、由首相斯塔默领导，采取对华缓和路线，已批准在2026年1月在伦敦市中心新建一座大型中国大使馆，斯塔默也以英国首相身份时隔8年再次访问中国。即便如此，英国政府此次仍更加重视安全风险。 英国政府发言人26日表示：“经过慎重审查后，我们得出结论，在英国海上风电项目中使用明阳智能的涡轮机存在令人担忧的问题”。 最新型风力涡轮机通常连接互联网或专用通信网络，制造商可以远程进行控制。据称理论上也可能通过强制停机使电网陷入瘫痪。 明阳智能发表声明表示，对于不允许使用世界顶级技术的决定感到失望。该公司曾在2025年10月宣布，计划投资最多15亿英镑在英国北部苏格兰新建涡轮机工厂，该计划预计将被迫重新评估。",
+  "source_url": "http://cn.nikkei.com/china/ccompany/61933-2026-03-27-08-16-00.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-27T01:08:04+00:00",
+  "id": "1f062699-cfeb-4f52-a65d-e0921055da59",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T03:19:28.053557+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "OECD预测G20通胀率加速至4%",
+  "raw_content": "2026/03/27 经济合作与发展组织（OECD）3月26日发布经济展望报告，将2026年二十国集团（G20）的通胀率预测为4.0%。考虑到伊朗危机导致能源价格上涨，这一数字较2025年12月的上次预测大幅上调1.2个百分点。 OECD认为，尽管人工智能（AI）投资旺盛等因素带来利好，但仍不足以抵消能源冲击，预计2026年全球经济增长率为2.9%，低于2025年的3.3%。 这是美国和以色列对伊朗发动攻击后，主要国际机构首次公布经济前景预测。 目前，由于重要航运通道霍尔木兹海峡被封锁，原油价格正大幅上涨。 OECD指出，对中东地区石油和液化天然气（LNG）依赖程度较高的亚洲将受到特别大的影响，并警告称：“考虑到能源市场的全球性，一旦供应出现混乱，其影响很可能迅速扩散”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/epolitics/61934-2026-03-27-08-16-21.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-27T01:08:04+00:00",
+  "id": "fc73ee18-1423-4474-9143-75cc22305957",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T03:19:28.207597+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

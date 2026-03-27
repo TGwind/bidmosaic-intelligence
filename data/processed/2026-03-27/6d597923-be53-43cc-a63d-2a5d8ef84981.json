@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Visuospatial Perspective Taking in Multimodal Language Models",
+  "raw_content": "arXiv:2603.23510v1 Announce Type: new Abstract: As multimodal language models (MLMs) are increasingly used in social and collaborative settings, it is crucial to evaluate their perspective-taking abilities. Existing benchmarks largely rely on text-based vignettes or static scene understanding, leaving visuospatial perspective-taking (VPT) underexplored. We adapt two evaluation tasks from human studies: the Director Task, assessing VPT in a referential communication paradigm, and the Rotating Figure Task, probing perspective-taking across angular disparities. Across tasks, MLMs show pronounced deficits in Level 2 VPT, which requires inhibiting one's own perspective to adopt another's. These results expose critical limitations in current MLMs' ability to represent and reason about alternative perspectives, with implications for their use in collaborative contexts.",
+  "source_url": "https://arxiv.org/abs/2603.23510",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-26T04:00:00+00:00",
+  "id": "6d597923-be53-43cc-a63d-2a5d8ef84981",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-27T03:19:28.116408+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
