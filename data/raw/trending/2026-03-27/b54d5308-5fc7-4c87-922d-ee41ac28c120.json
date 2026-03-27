@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "啥也不说了，上才艺",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1VFQmBJEyt",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T18:57:59.542965+00:00",
+  "id": "b54d5308-5fc7-4c87-922d-ee41ac28c120",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1523880,
+    "platform": "bilibili"
+  }
+}

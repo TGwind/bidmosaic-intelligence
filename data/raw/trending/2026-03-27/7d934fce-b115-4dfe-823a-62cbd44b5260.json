@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "“建议查查尹正，不像演的！”",
+  "raw_content": "“建议查查尹正，不像演的！”",
+  "source_url": "https://www.bilibili.com/video/BV1gLQ9BYE7X",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T18:57:59.542957+00:00",
+  "id": "7d934fce-b115-4dfe-823a-62cbd44b5260",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 7140856,
+    "platform": "bilibili"
+  }
+}
