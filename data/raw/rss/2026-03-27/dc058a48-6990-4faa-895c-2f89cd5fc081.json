@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin holders show ‘stronger’ conviction despite BTC price losing $68K level",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holders show ‘stronger’ conviction despite BTC price losing $68K level\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDJlZGMtMTlmMi03YTcyLWI4NWItZjdiZGU2N2M1NjQyLmpwZw==.jpg\" /></p><p>Bitcoin long-term holders continued to expand their holdings, while increased withdrawal from exchanges flashed a classic supply shock warning.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-holders-show-stronger-conviction-despite-btc-price-losing-68k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T12:39:03+00:00",
+  "id": "dc058a48-6990-4faa-895c-2f89cd5fc081",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin nears lowest in three weeks as BTC price targets drop to $41K",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin nears lowest in three weeks as BTC price targets drop to $41K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzJlMDUtYjcyMC03N2FlLTlmOWEtY2UxZWNjZTA1ODFkLmpwZw==.jpg\" /></p><p>Bitcoin grabbed downside liquidity as oil-supply pressure sent BTC price action below $66,500 to its lowest levels since March 9.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-nears-lowest-in-three-weeks-btc-price-targets-drop-41k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T12:41:01+00:00",
+  "id": "f23fff7d-72c7-440c-a762-1f1b9ad78b18",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
