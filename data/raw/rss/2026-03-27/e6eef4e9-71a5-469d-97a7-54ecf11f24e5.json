@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "超微电脑联合创始人涉走私英伟达半导体被美国起诉",
+  "raw_content": "<div>2026/03/27</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"400\" src=\"https://feedx.net/images/2026/03/0327/0327-CW-1-L.jpg\" width=\"600\" />\n\n\n\n\n\n\n<div>  </div>\n<div>      美国司法部以非法向中国出口美国英伟达生产的人工智能（AI）半导体为由，起诉了美国服务器大企业Super Micro Computer（美国超微电脑）的联合创始人等3人。涉案销售金额达数十亿美元，在被起诉的AI半导体走私案件中属于规模最大的一起。</div>\n<div>  </div>\n<div>      美国当局以涉嫌违反《出口管制改革法》等为由，在纽约州联邦地区法院对3人提起诉讼。起诉书称，通过非法出口获得的销售额在2024年前后至少达到约25亿美元，在2025年春季也实现了5.1亿美元的销售。</div>\n<div>  </div>\n<div>      这些AI半导体通过经由东南亚的“迂回出口”方式，最终交付给中国客户。被非法销售的产品中包括NVIDIA的尖端半导体“Blackwell”。为遏制中国的AI发展，美国政府已禁止将包括Blackwell在内的尖端半导体出口到中国。</div>\n<div>  </div>\n<div>      超微电脑方面表示已收到有关起诉的通知，并强调“公司本身并未被列为被告”。被起诉的是该公司的联合创始人兼高级副总裁廖益贤 (Wally Liaw)，以及一名销售人员和一名合同员工共3人。</div>\n<div>   </div>\n<div>      该公司已对廖某及相关员工作出停职处理，并终止了与合同员工的合同。</div>\n<div>  </div>\n<div>      <strong>日本经济新闻（中文版：日经中文网）清水孝辅 硅谷</strong></div>\n<div></div><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61936-2026-03-27-09-09-58.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-27T01:38:03+00:00",
+  "id": "e6eef4e9-71a5-469d-97a7-54ecf11f24e5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
