@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "脑袋要坏掉惹:p",
+  "raw_content": "bgm：「ブレインロット (脑蚀)」\n原创振付：porush",
+  "source_url": "https://www.bilibili.com/video/BV1fYQSBeE8f",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T13:09:38.608132+00:00",
+  "id": "680311f3-85f3-452e-b1f9-6824fae2635e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2881504,
+    "platform": "bilibili"
+  }
+}
