@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Top Democrat on House committee questions Kraken's Federal Reserve account",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/26/top-democrat-on-house-committee-questions-kraken-s-federal-reserve-account",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-26T22:17:35+00:00",
+  "id": "74fb46a8-0eae-489b-addf-0cb937e32755",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
