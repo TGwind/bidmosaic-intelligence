@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Apple says no one using Lockdown Mode has been hacked with spyware",
+  "raw_content": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting users running devices with older software.",
+  "source_url": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-27T14:27:32+00:00",
+  "id": "cbdce98d-f714-4bec-893e-cabaa85d6d70",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
