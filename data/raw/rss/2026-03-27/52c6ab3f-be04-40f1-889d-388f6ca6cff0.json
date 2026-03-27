@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US lawmaker presses Kansas Fed over Kraken master account approval",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US lawmaker presses Kansas Fed over Kraken master account approval\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzY4ZWMtNTg0Zi03YzVmLTk2MDgtYTBmYzBhMDAwODBkLmpwZw==.jpg\" /></p><p>Kraken's Wyoming-chartered banking unit became the first crypto-native company to secure a Federal Reserve Master Account in March.</p>",
+  "source_url": "https://cointelegraph.com/news/us-lawmaker-questions-kraken-fed-master-account-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T01:55:15+00:00",
+  "id": "52c6ab3f-be04-40f1-889d-388f6ca6cff0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
