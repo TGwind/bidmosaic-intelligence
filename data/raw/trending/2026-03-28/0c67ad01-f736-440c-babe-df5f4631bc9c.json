@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "“张雪峰老师走时，把我叫醒了”",
+  "raw_content": "“张雪峰老师走时，把我叫醒了”",
+  "source_url": "https://www.bilibili.com/video/BV1EJXsBwENK",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-28T18:42:16.375421+00:00",
+  "id": "0c67ad01-f736-440c-babe-df5f4631bc9c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1642832,
+    "platform": "bilibili"
+  }
+}

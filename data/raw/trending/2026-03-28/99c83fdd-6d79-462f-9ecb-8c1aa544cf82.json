@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "清雨毁号案线下真实！后续来袭~",
+  "raw_content": "清雨毁号案线下真实！后续来袭~",
+  "source_url": "https://www.bilibili.com/video/BV1y3XKB9ES2",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-28T18:42:16.375397+00:00",
+  "id": "99c83fdd-6d79-462f-9ecb-8c1aa544cf82",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3124153,
+    "platform": "bilibili"
+  }
+}
