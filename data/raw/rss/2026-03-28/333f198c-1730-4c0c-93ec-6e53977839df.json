@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Dimitar Radev: The euro and the banking sector - readiness to participate and shared responsibility",
+  "raw_content": "Publication by Mr Dimitar Radev, Governor of the Bulgarian National Bank, n the Bulletin of the Association of Banks in Bulgaria, issue 83, 12 February 2026.",
+  "source_url": "https://www.bis.org/review/r260319b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-28T13:11:19.943645+00:00",
+  "id": "333f198c-1730-4c0c-93ec-6e53977839df",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
