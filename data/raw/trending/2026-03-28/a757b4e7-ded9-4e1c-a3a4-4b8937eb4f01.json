@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "华强买瓜，但过于学术",
+  "raw_content": "参考文献\n[1] 刘华强。青年气盛博弈论 [M]. 方老虎出\n版社，2006.\n\n[2] 封飙。机会不中用行为学 [J]. 黑道心理研\n究，2008.\n\n[3] 华强。生瓜识别与劈瓜技术手册 [S]. 果蔬\n欺诈防控中心，2025.",
+  "source_url": "https://www.bilibili.com/video/BV1rAQqBqE6A",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-28T02:13:34.640253+00:00",
+  "id": "a757b4e7-ded9-4e1c-a3a4-4b8937eb4f01",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1769884,
+    "platform": "bilibili"
+  }
+}
