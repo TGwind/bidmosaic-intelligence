@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中国人工智能走在世界前列",
+  "raw_content": "中国人工智能走在世界前列",
+  "source_url": "https://www.toutiao.com/article/7621750859756618274",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-28T02:13:33.826178+00:00",
+  "id": "b5c14301-ea2c-4852-89f7-27177accbfed",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-28T02:14:03.966900+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "28628296",
+    "platform": "toutiao"
+  }
+}
