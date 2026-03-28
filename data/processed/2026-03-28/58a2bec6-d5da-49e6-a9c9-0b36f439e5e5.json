@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Apple Gives FBI a User’s Real Name Hidden Behind ’Hide My Email’ Feature",
+  "raw_content": "The move isn't surprising, but shows what data is available to authorities when paying Apple customers use the Hide My Email feature.",
+  "source_url": "https://www.404media.co/apple-gives-fbi-a-users-real-name-hidden-behind-hide-my-email-feature/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-26T19:38:04+00:00",
+  "id": "58a2bec6-d5da-49e6-a9c9-0b36f439e5e5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-28T02:50:35.385844+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

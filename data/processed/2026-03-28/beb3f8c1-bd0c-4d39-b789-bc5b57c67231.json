@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Morgan Stanley sets 0.14% Bitcoin ETF fee, lowest in market if approved",
+  "raw_content": "Bloomberg ETF analyst Eric Balchunas said Morgan Stanley’s 16,000 financial advisors, who manage $6.2 trillion in client assets, would have no problem recommending the product at such low fees.",
+  "source_url": "https://cointelegraph.com/news/morgan-stanley-sets-ultra-low-fee-for-bitcoin-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-28T00:06:16+00:00",
+  "id": "beb3f8c1-bd0c-4d39-b789-bc5b57c67231",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-28T02:50:35.448988+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
