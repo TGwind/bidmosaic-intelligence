@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Police Used Flock to Give a Man a Traffic Ticket",
+  "raw_content": "“CAPTURED ON FLOCK CAMERA 31 MM 1 HOLDING PHONE IN LEFT HAND.”",
+  "source_url": "https://www.404media.co/police-used-flock-to-give-a-man-a-traffic-ticket/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-26T15:04:32+00:00",
+  "id": "b6a87886-9982-45a5-965e-36ca62885bd8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
