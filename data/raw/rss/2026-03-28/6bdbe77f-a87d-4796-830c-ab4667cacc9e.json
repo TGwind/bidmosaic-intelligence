@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Waymo’s skyrocketing ridership in one chart",
+  "raw_content": "Waymo's weekly paid robotaxi trips have increased tenfold in less than two years.",
+  "source_url": "https://techcrunch.com/2026/03/27/waymo-skyrocketing-ridership-in-one-chart/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-27T19:11:10+00:00",
+  "id": "6bdbe77f-a87d-4796-830c-ab4667cacc9e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

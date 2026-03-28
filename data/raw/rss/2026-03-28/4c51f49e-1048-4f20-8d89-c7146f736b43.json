@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments",
+  "raw_content": "arXiv:2603.23638v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled agentic systems that can reason, plan, and act across complex tasks, but it remains unclear whether they can allocate resources effectively under uncertainty. Unlike short-horizon reactive decisions, allocation requires committing scarce resources over time while balancing competing objectives and preserving flexibility for future needs. We introduce EnterpriseArena, the first benchmark for evaluating agents on long-horizon enterprise resource allocation. It instantiates CFO-style decision-making in a 132-month enterprise simulator combining firm-level financial data, anonymized business documents, macroeconomic and industry signals, and expert-validated operating rules. The environment is partially observable and reveals the state only through budgeted organizational tools, forcing agents to trade off information acquisition against conserving scarce resources. Experiments on eleven advanced LLMs show that this setting remains highly challenging: only 16% of runs survive the full horizon, and larger models do not reliably outperform smaller ones. These results identify long-horizon resource allocation under uncertainty as a distinct capability gap for current LLM agents.",
+  "source_url": "https://arxiv.org/abs/2603.23638",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-27T04:00:00+00:00",
+  "id": "4c51f49e-1048-4f20-8d89-c7146f736b43",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

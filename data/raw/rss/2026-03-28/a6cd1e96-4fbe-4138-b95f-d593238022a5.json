@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Price predictions 3/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 3/27: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, BCH, LINK\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDMwNTktODhlNy03Mzc1LTliMGMtMDBiYTkyNmU1MmYwLmpwZw==.jpg\" /></p><p>Bitcoin and select major altcoins have turned down sharply, indicating that the bears are trying to take charge of the market.</p>",
+  "source_url": "https://cointelegraph.com/news/price-predictions-3-27-btc-eth-bnb-xrp-sol-doge-hype-ada-bch-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-27T20:06:32+00:00",
+  "id": "a6cd1e96-4fbe-4138-b95f-d593238022a5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

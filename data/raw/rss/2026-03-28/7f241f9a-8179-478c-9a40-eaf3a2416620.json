@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "From DeepSeek V3 to V3.2: Architecture, Sparse Attention, and RL Updates",
+  "raw_content": "Understanding How DeepSeek's Flagship Open-Weight Models Evolved",
+  "source_url": "https://magazine.sebastianraschka.com/p/technical-deepseek",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2025-12-03T12:03:33+00:00",
+  "id": "7f241f9a-8179-478c-9a40-eaf3a2416620",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

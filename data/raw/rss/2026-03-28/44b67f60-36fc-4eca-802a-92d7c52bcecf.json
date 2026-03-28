@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Podcast: The Company Secretly Turning Your Zoom Meetings into Podcasts",
+  "raw_content": "A company is listening to Zoom meetings en masse and making AI podcasts; the multi-millionaire who wanted to become a cocaine kingpin; and RIP the metaverse.",
+  "source_url": "https://www.404media.co/podcast-the-company-secretly-turning-your-zoom-meetings-into-podcasts/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-25T13:32:29+00:00",
+  "id": "44b67f60-36fc-4eca-802a-92d7c52bcecf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
