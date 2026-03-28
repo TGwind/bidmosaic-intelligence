@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "The People Left Behind by the Metaverse",
+  "raw_content": "\"The way they have behaved here is profoundly harmful and I would deem it a type of psychological torture from corprotate neglect.\"",
+  "source_url": "https://www.404media.co/the-people-left-behind-by-the-metaverse/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-25T13:47:39+00:00",
+  "id": "32c9e2f4-b8dd-46aa-a8fa-51a1bd5ce964",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
