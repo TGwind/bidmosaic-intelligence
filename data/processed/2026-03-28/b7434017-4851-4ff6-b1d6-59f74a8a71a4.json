@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Delivery Robot Drives Through Bus Stop Shelter, Shattering Glass Everywhere",
+  "raw_content": "A Serve Robotics robot crashed through a Chicago bus shelter.",
+  "source_url": "https://www.404media.co/delivery-robot-drives-through-bus-stop-sh-shattering-glass-everywhere/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-24T17:02:25+00:00",
+  "id": "b7434017-4851-4ff6-b1d6-59f74a8a71a4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-28T05:26:29.087284+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
