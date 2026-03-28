@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "中国人工智能走在世界前列",
-  "raw_content": "中国人工智能走在世界前列",
-  "source_url": "https://www.toutiao.com/article/7621750859756618274",
+  "raw_title": "“未来之城”科技点亮智慧生活",
+  "raw_content": "“未来之城”科技点亮智慧生活",
+  "source_url": "https://www.toutiao.com/article/7622220993192280617",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-28T02:13:33.826178+00:00",
-  "id": "b5c14301-ea2c-4852-89f7-27177accbfed",
+  "collected_at": "2026-03-28T12:57:58.367229+00:00",
+  "id": "2aea516a-6f4c-4dc5-b562-dcef8565fd1a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-28T12:58:30.024063+00:00",
+  "processed_at": "2026-03-28T12:58:30.011569+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "28628296",
+    "hot_score": "22107759",
     "platform": "toutiao"
   }
 }
