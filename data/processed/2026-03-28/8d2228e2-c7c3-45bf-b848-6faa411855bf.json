@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "啥也不说了，上才艺",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1VFQmBJEyt",
+  "raw_title": "城市大富翁（3）",
+  "raw_content": "城市大富翁第三期来了！全新超大地图！ 超刺激的6小时极限赚钱挑战！！ 点赞30W，出发拍摄下一期！！",
+  "source_url": "https://www.bilibili.com/video/BV1CqXuBYEvi",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-28T07:00:25.266990+00:00",
-  "id": "b857fd7b-a6e6-4d0d-9ee3-d6c571ffa3a6",
+  "collected_at": "2026-03-28T18:42:16.375452+00:00",
+  "id": "8d2228e2-c7c3-45bf-b848-6faa411855bf",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-28T18:42:52.136032+00:00",
+  "processed_at": "2026-03-28T18:42:52.130034+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1541251,
+    "hot_score": 1016442,
     "platform": "bilibili"
   }
 }

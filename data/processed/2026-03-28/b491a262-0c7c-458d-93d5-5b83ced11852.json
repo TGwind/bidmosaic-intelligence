@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗称打击美军隐匿据点致严重伤亡",
+  "raw_content": "伊朗称打击美军隐匿据点致严重伤亡",
+  "source_url": "https://www.toutiao.com/trending/7622240315532906026/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622240315532906026%22%2C%22hot_board_impr_id%22%3A%222026032902421515D485AA2426009E2D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E9%9A%90%E5%8C%BF%E6%8D%AE%E7%82%B9%E8%87%B4%E4%B8%A5%E9%87%8D%E4%BC%A4%E4%BA%A1%22%7D&rank=&style_id=40132&topic_id=7622240315532906026",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-28T18:42:15.511922+00:00",
+  "id": "b491a262-0c7c-458d-93d5-5b83ced11852",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-28T18:42:52.138952+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8992232",
+    "platform": "toutiao"
+  }
+}
