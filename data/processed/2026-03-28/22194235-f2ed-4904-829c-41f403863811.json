@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "José Luis Escrivá: Inauguration of the Applied Technology Laboratory and Experimentation Department",
+  "raw_content": "Speech by Mr José Luis Escrivá, Governor of the Bank of Spain, at the inauguration of the Applied Technology Laboratory and Experimentation Department (DELTA), Barcelona, 6 March 2026.",
+  "source_url": "https://www.bis.org/review/r260325g.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-28T20:40:00.761175+00:00",
+  "id": "22194235-f2ed-4904-829c-41f403863811",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-28T20:42:38.231970+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

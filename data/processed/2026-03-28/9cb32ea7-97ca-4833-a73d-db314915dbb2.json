@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Tokenized platform xStocks brings new private shares fund on-chain",
+  "raw_content": "The closed-end Fundrise Innovation Fund holds stakes in private technology companies including Anthropic, Databricks and SpaceX, and came public earlier this month.",
+  "source_url": "https://cointelegraph.com/news/tokeniz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-28T19:43:14+00:00",
+  "id": "9cb32ea7-97ca-4833-a73d-db314915dbb2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-28T20:42:38.283759+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
