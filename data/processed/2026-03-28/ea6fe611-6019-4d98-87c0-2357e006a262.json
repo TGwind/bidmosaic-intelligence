@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美国民众：对美政府行径感到愤怒",
+  "raw_content": "美国民众：对美政府行径感到愤怒",
+  "source_url": "https://www.toutiao.com/trending/7622149530897154090/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622149530897154090%22%2C%22hot_board_impr_id%22%3A%222026032815002429F34011592E2E59689A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%EF%BC%9A%E5%AF%B9%E7%BE%8E%E6%94%BF%E5%BA%9C%E8%A1%8C%E5%BE%84%E6%84%9F%E5%88%B0%E6%84%A4%E6%80%92%22%7D&rank=&style_id=40132&topic_id=7622149530897154090",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-28T07:00:24.430982+00:00",
+  "id": "ea6fe611-6019-4d98-87c0-2357e006a262",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-28T07:00:55.967096+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10962085",
+    "platform": "toutiao"
+  }
+}

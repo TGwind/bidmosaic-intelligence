@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "小吃培训机构里的“科技与狠活”",
+  "raw_content": "小吃培训机构里的“科技与狠活”",
+  "source_url": "https://www.toutiao.com/trending/7621830571160993835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227621830571160993835%22%2C%22hot_board_impr_id%22%3A%222026032815002429F34011592E2E59689A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E5%90%83%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E9%87%8C%E7%9A%84%E2%80%9C%E7%A7%91%E6%8A%80%E4%B8%8E%E7%8B%A0%E6%B4%BB%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7621830571160993835",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-28T07:00:24.430904+00:00",
+  "id": "277fa49f-7f77-48bf-8a80-5087e5693437",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-28T07:00:55.952715+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "29798036",
+    "platform": "toutiao"
+  }
+}
