@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Let’s take a look at the retro tech making a comeback",
+  "raw_content": "Boomboxes, instant cameras, and even landlines are making a comeback. Here are the coolest retro-inspired devices available.",
+  "source_url": "https://techcrunch.com/2026/03/28/lets-take-a-look-at-the-retro-tech-making-a-comeback/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-28T13:00:00+00:00",
+  "id": "2ab2e6b4-c9a8-4f21-8af8-196934467d35",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-29T08:54:31.981530+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

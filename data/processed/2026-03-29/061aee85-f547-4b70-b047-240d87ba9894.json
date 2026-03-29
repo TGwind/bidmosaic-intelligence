@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Future US governments could crack down on crypto without clear rules: Coin Center",
+  "raw_content": "The CLARITY Act stalled in the Senate after banks, crypto firms, and lawmakers failed to reach an agreement on key provisions like allowing stablecoin yields.",
+  "source_url": "https://cointelegraph.com/news/crypto-future-us-crackdowns-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-29T06:11:46+00:00",
+  "id": "061aee85-f547-4b70-b047-240d87ba9894",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-29T08:54:31.927708+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
