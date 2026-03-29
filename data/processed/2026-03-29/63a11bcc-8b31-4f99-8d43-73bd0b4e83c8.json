@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Institutions are paying Bitcoin custodians for the privilege of added risk",
+  "raw_content": "Institutions pay custodians for illusory safety. Bitcoin's onchain governance eliminates counterparty risk that traditional models reintroduce.",
+  "source_url": "https://cointelegraph.com/news/institutions-bitcoin-custodians-added-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-29T12:30:00+00:00",
+  "id": "63a11bcc-8b31-4f99-8d43-73bd0b4e83c8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-29T13:14:41.806430+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

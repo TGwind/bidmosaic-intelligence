@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Onchain commodity trading is here to stay, but liquidity remains an issue",
+  "raw_content": "Rising oil and gold volumes signal growing demand for onchain macro trading, but limited liquidity and depth still keep traditional markets in control.",
+  "source_url": "https://cointelegraph.com/news/onchain-commodity-trading-liquidity-gap-tradfi-depth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-29T10:51:21+00:00",
+  "id": "612b5232-049c-4a81-89e4-9f86f265198a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-29T13:14:41.804595+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
