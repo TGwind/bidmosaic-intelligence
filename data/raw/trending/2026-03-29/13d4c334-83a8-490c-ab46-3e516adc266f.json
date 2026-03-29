@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "内存条价格出现断崖式下跌",
+  "raw_content": "内存条价格出现断崖式下跌",
+  "source_url": "https://www.toutiao.com/trending/7621850422521249846/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227621850422521249846%22%2C%22hot_board_impr_id%22%3A%2220260329205850CA2EEB06377E3439F6C6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%86%85%E5%AD%98%E6%9D%A1%E4%BB%B7%E6%A0%BC%E5%87%BA%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C%22%7D&rank=&style_id=40132&topic_id=7621850422521249846",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-29T12:58:50.759581+00:00",
+  "id": "13d4c334-83a8-490c-ab46-3e516adc266f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "40095785",
+    "platform": "toutiao"
+  }
+}
