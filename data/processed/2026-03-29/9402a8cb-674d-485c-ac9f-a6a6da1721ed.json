@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本4月起收紧外国人入籍审查，需居住10年以上",
+  "raw_content": "2026/03/27 日本法务省3月27日宣布，从4月1日起，加严对外国人取得日本国籍的“归化”的审查。在日本居住年限的条件从现在的“5年以上”调整为“10年以上”，同时加强纳税情况的确认。 日本政府在1月汇总的“综合对策”中提出方针称，从确保与永住许可审查的一致性的角度出发，讨论加强归化审查。 日本《国籍法》规定，“归化”的条件之一是在日本居住5年以上。没有取得国籍也允许不受时间限制地在日本居住的“永住许可”的取得条件原则为10年以上。“归化”的居住年限条件比“永住许可”更短。 日本法相对是否批准归化申请具有裁量权。本次不修改《国籍法》，仅调整审查的执行方式。4月1日以后实施判断的许可申请将适用新标准。 取得日本国籍除了居住年限的条件之外，法律还规定了“品行善良”、“能维持生计”、“遵守宪法”等条件。具备不影响日常生活的日语能力也作为方针被提出，但在法律中没有写入。 关于确认申请者的纳税状况，也将修改适用标准。以前要求提交最近1年的证明文件，今后扩大到5年。 日本法务省的统计显示，2025年共有1万4103件归化申请。其中，9258件已获批准。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61951-2026-03-27-14-20-43.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-27T07:08:03+00:00",
+  "id": "9402a8cb-674d-485c-ac9f-a6a6da1721ed",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-29T03:25:00.597898+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
