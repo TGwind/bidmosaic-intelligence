@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "AWS Load Balancer Controller 正式发布，带来 Kubernetes Gateway API 支持",
+  "raw_content": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/FFA1jSeBh45YZQRdFSSW?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+  "source_url": "https://www.infoq.cn/article/FFA1jSeBh45YZQRdFSSW?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-28T11:00:00+00:00",
+  "id": "546283ca-d854-4ce0-9930-85dbb9340b4e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

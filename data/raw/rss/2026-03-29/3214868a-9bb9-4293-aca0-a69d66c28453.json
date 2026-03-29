@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "美股遭遇伊朗战争以来最大单日跌幅",
+  "raw_content": "<address>JOE RENNISON</address><time datetime=\"2026-03-27 08:55:54\">2026年3月27日</time><figure><img height=\"711\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/03/26/business/26biz-stocks-oil-gas-promo/26biz-stocks-oil-gas-promo-master1050.png\" width=\"1050\" /><figcaption> <cite>The New York Times</cite></figcaption></figure><section><p>随着特朗普总统加大对伊朗施压，要求其接受结束战争的条件，油价大幅上涨，华尔街股市周四遭遇了自对伊朗开战以来最大单日跌幅。</p><p>“我们会继续毫无阻碍、毫不间断地打击他们，”特朗普在战争开始后的首次内阁会议上表示。尽管标准普尔500指数周四开盘时已现跌势，但在会议结束后跌幅进一步扩大。</p><p>该指数周四下跌1.7%，创下自1月份以来最大单日跌幅，并有可能录得四年来首次连续第五周下跌。亚洲和欧洲的股市当天也普遍收跌。</p><p>全球油价基准布伦特原油价格上涨约5.7%，至每桶108.01美元，创下本周最高水平。</p><p>投资者和分析师一直密切关注<a href=\"https://www.nytimes.com/interactive/2026/03/25/business/energy-environment/strait-hormuz-oil-gas.html\">霍尔木兹海峡</a>，这是位于伊朗和阿曼之间的一条狭窄水道，是石油和天然气的重要贸易通道，通常承载着全球多达五分之一的石油供应。自2月28日战争爆发以来，通过该海峡进出波斯湾的航运已基本中断，导致能源价格飙升，并引发战争可能造成持久损害的担忧。</p><p>特朗普周四下午表示，他尚未决定是否延长此前设定的最后期限，要求伊朗在周五前全面开放该海峡，否则美国<a href=\"https://www.nytimes.com/2026/03/24/us/politics/trump-iran-power-stations.html\">将“摧毁”当地的发电设施</a>。</p><p>但就在股市收跌数分钟后，特朗普宣布将最后期限延长10天。他在Truth Social上发帖称，暂停是“应伊朗政府的要求”。</p><p>这并非特朗普第一次在针对伊朗电力基础设施的威胁上退让。他<a href=\"https://www.nytimes.com/2026/03/23/business/oil-stocks-gas-prices-iran.html\">周一也曾作出退让表态</a>，当时引发了油价下跌和股市上涨，这也再次显示出金融市场对其政策走向的影响力。</p><p>这场战争也持续给债券收益率带来压力，引发了人们对住房负担能力以及整体通胀的担忧。</p><p>决定消费者和企业借贷成本的政府债券收益率周四上涨，其中10年期美国国债收益率升至去年7月以来的最高水平。债券收益率的飙升已经开始对房地产市场造成压力，抵押贷款利率也随之上升：房地美周四表示，30年期固定利率抵押贷款的平均利率攀升至6.38%，为去年9月第一周以来的<a href=\"https://www.nytimes.com/2026/03/26/business/mortgage-rates-middle-east-war.html\">最高水平</a>。</p><p>随着油价上涨，利率也随之走高，投资者担心能源成本可能再次推高通胀。美联储此前已表示，在确信通胀得到控制之前，可能会维持较高利率。</p><p>同样在周四，<a href=\"https://www.oecd.org/en/publications/oecd-economic-outlook-interim-report-march-2026_d4623013-en.html\" rel=\"noopener noreferrer\" target=\"_blank\">经合组织</a>预测，美国今年的通胀率平均为4.2%，比去年底的预测高出1个百分点以上。</p><p>牛津经济研究院本周在一份报告中<a href=\"https://www.oecd.org/en/publications/oecd-economic-outlook-interim-report-march-2026_d4623013-en.html\" rel=\"noopener noreferrer\" target=\"_blank\">预计</a>能源价格将逐步回落，但也警告称，“霍尔木兹海峡航运长期中断或石油和天然气设施持续关闭，可能导致更为严重的后果。”</p></section><footer><p><a href=\"https://www.nytimes.com/by/joe-rennison\" rel=\"nofollow\" target=\"_blank\">Joe Rennison</a>撰写有关金融市场的文章，包括记录股市的变幻莫测、解释华尔街内部人士常常难以理解的交易决策等。</p><p>翻译：纽约时报中文网</p><p><a href=\"https://www.nytimes.com/2026/03/26/business/oil-stock-gas-prices-iran.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
+  "source_url": "https://cn.nytimes.com/business/20260327/oil-stock-gas-prices-iran/",
+  "source_name": "纽约时报中文网",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-27T01:07:01+00:00",
+  "id": "3214868a-9bb9-4293-aca0-a69d66c28453",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nytimes.xml",
+    "category": "china_news",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 86
+  }
+}
