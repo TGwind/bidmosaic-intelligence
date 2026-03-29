@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "长护险为失能老人托底解忧",
+  "raw_content": "长护险为失能老人托底解忧",
+  "source_url": "https://www.toutiao.com/article/7622071246334755363",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-29T02:33:31.710871+00:00",
+  "id": "f977f292-d9b5-4443-9bbf-1d41ae134a9b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "27089161",
+    "platform": "toutiao"
+  }
+}

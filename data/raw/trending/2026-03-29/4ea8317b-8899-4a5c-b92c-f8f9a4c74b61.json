@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊议长：强力反击将加速以政权崩溃",
+  "raw_content": "伊议长：强力反击将加速以政权崩溃",
+  "source_url": "https://www.toutiao.com/trending/7621579339914608683/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227621579339914608683%22%2C%22hot_board_impr_id%22%3A%222026032910333192677FBB1C9538A699DE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E8%AE%AE%E9%95%BF%EF%BC%9A%E5%BC%BA%E5%8A%9B%E5%8F%8D%E5%87%BB%E5%B0%86%E5%8A%A0%E9%80%9F%E4%BB%A5%E6%94%BF%E6%9D%83%E5%B4%A9%E6%BA%83%22%7D&rank=&style_id=40132&topic_id=7621579339914608683",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-29T02:33:31.710946+00:00",
+  "id": "4ea8317b-8899-4a5c-b92c-f8f9a4c74b61",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "11013631",
+    "platform": "toutiao"
+  }
+}
