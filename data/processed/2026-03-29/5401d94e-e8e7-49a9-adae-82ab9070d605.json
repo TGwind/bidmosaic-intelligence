@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "城市大富翁（3）",
+  "raw_content": "城市大富翁第三期来了！全新超大地图！ 超刺激的6小时极限赚钱挑战！！ 点赞30W，出发拍摄下一期！！",
+  "source_url": "https://www.bilibili.com/video/BV1CqXuBYEvi",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-29T07:05:49.666802+00:00",
+  "id": "5401d94e-e8e7-49a9-adae-82ab9070d605",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-29T07:06:24.146284+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1504755,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "南非一运钞车被劫匪炸毁碎片飞上天",
+  "raw_content": "南非一运钞车被劫匪炸毁碎片飞上天",
+  "source_url": "https://www.toutiao.com/trending/7622274163663880228/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622274163663880228%22%2C%22hot_board_impr_id%22%3A%2220260329150548D9D8E1B483DC335E0844%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%97%E9%9D%9E%E4%B8%80%E8%BF%90%E9%92%9E%E8%BD%A6%E8%A2%AB%E5%8A%AB%E5%8C%AA%E7%82%B8%E6%AF%81%E7%A2%8E%E7%89%87%E9%A3%9E%E4%B8%8A%E5%A4%A9%22%7D&rank=&style_id=40132&topic_id=7622274163663880228",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-29T07:05:48.824770+00:00",
+  "id": "bc1b84e1-8a73-44ad-b623-e30cf571b96c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-29T07:06:24.156154+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18184584",
+    "platform": "toutiao"
+  }
+}

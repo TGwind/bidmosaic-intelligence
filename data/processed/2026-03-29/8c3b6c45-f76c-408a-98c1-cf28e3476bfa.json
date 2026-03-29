@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "用2011年的方式跳了千本樱…老资历还在发力",
+  "raw_content": "原创编舞出自紫音リア，歌曲出自黒うさP/初音ミク。",
+  "source_url": "https://www.bilibili.com/video/BV1VcQSB4E8i",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-29T07:05:49.666851+00:00",
+  "id": "8c3b6c45-f76c-408a-98c1-cf28e3476bfa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-29T07:06:24.148731+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1836896,
+    "platform": "bilibili"
+  }
+}
