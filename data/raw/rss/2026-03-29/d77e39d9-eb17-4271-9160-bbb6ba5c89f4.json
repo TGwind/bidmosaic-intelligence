@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "BNP Paribas adds six Bitcoin, Ether ETNs for retail clients in France",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BNP Paribas adds six Bitcoin, Ether ETNs for retail clients in France\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWY4MGYtYWY0ZS03NzJlLWI0OWYtMDAxZDdmOTFlNTFh.jpg\" /></p><p>Crypto ETN adoption is spreading across Europe as banks expand offerings and the UK reopens retail access after lifting its ban.</p>",
+  "source_url": "https://cointelegraph.com/news/bnp-paribas-bitcoin-ether-etns-france-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-29T08:05:18+00:00",
+  "id": "d77e39d9-eb17-4271-9160-bbb6ba5c89f4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
