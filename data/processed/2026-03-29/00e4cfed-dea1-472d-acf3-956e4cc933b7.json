@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "美杜莎三千年从未停止过凝视~",
+  "raw_title": "天塌了我来扛，爱你老妈！",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1inXsB8Et3",
+  "source_url": "https://www.bilibili.com/video/BV1dYQmBdEdc",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-29T07:05:49.666786+00:00",
-  "id": "1fe7694b-6e0e-4c23-afdb-59f6b4d02030",
+  "collected_at": "2026-03-29T12:58:51.723067+00:00",
+  "id": "00e4cfed-dea1-472d-acf3-956e4cc933b7",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-29T12:59:23.534899+00:00",
+  "processed_at": "2026-03-29T12:59:23.533454+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 5906388,
+    "hot_score": 2599184,
     "platform": "bilibili"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "评分9.0！杀死那个夜之城人！重看《赛博朋克：边缘行者》！为何还是那么令人难忘？【瓶子君152】",
+  "raw_content": "点个关注！点个关注！点个关注！点个关注！点个关注！点个关注！ 点个关注！点个关注！点个关注！点个关注！点个关注！点个关注！ 点个关注！点个关注！点个关注！点个关注！点个关注！点个关注！",
+  "source_url": "https://www.bilibili.com/video/BV1xpX5BEEE7",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-29T12:58:51.723157+00:00",
+  "id": "72b6741c-ac9f-4e51-9966-8f7818df45b7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-29T12:59:23.547198+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1504774,
+    "platform": "bilibili"
+  }
+}
