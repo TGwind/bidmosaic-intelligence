@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Approves Amendment to NMS Plan to Further Reduce the Costs of the Consolidated Audit Trail",
+  "raw_content": "The Securities and Exchange Commission today approved an amendment to the National Market System Plan governing the Consolidated Audit Trail (“CAT”) and provided exemptive relief from certain requirements of Rule 17a-1 under the Securities Exchange Act…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-31-sec-approves-amendment-nms-plan-further-reduce-costs-consolidated-audit-trail",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-27T20:04:54+00:00",
+  "id": "1d811d4f-48d8-4365-90ba-cef3e16410fb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

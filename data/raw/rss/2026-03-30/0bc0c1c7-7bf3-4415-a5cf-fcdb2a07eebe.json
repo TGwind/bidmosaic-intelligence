@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Lido DAO proposes $20M LDO buyback to reverse historic price fall",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Lido DAO proposes $20M LDO buyback to reverse historic price fall\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDNiOWUtMjdlYi03ZjljLTkyNDgtYjc2OTViNTJjNmY3LmpwZw==.jpg\" /></p><p>The LDO token is down 95.9% from its all-time high, with a $255 million market cap, even as Lido’s staking protocol still accounts for the largest share of staked Ether at 23.2%.</p>",
+  "source_url": "https://cointelegraph.com/news/lido-dao-weights-20m-ldo-buyback-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T02:08:24+00:00",
+  "id": "0bc0c1c7-7bf3-4415-a5cf-fcdb2a07eebe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
