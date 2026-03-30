@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Prediction market transactions surge on geopolitical bets, media coverage",
+  "raw_content": "Monthly notional trading volume for prediction markets has reached roughly $23.7 billion so far in March, up sharply from $1.9 billion at the same time last year.",
+  "source_url": "https://cointelegraph.com/news/prediction-market-transactions-growth-march-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T03:35:41+00:00",
+  "id": "addf7b1a-6b6b-4fc2-9550-07b52bda0b44",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T09:24:59.787857+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

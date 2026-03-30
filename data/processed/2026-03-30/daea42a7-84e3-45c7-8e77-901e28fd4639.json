@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ethereum Foundation accelerates 70,000 ETH staking plan after BitMine sale",
+  "raw_content": "The Ethereum Foundation deployed $46.2 million in ETH across 11 deposits as it accelerates a 70,000 ETH staking plan.",
+  "source_url": "https://cointelegraph.com/news/ethereum-foundation-stakes-46m-eth-after-bitmine-sale-accelerates-70k-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T08:45:59+00:00",
+  "id": "daea42a7-84e3-45c7-8e77-901e28fd4639",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T09:24:59.793005+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
