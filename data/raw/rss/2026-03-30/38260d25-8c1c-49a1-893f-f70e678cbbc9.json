@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Coinbase survey finds over half of investors don’t understand crypto tax",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/30/coinbase-survey-finds-over-half-of-customers-don-t-understand-crypto-tax",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T10:30:23+00:00",
+  "id": "38260d25-8c1c-49a1-893f-f70e678cbbc9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
