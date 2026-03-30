@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本在留外国人首超400万",
+  "raw_content": "<div>2026/03/30</div><div id=\"contentDiv\">\n<div></div>\n<div></div>\n<col />\n\n\n<img height=\"375\" src=\"https://feedx.net/images/2026/03/0330/0330-04-L.jpg\" width=\"600\" />\n\n\n<span><strong>大阪市的大阪出入国在留管理局</strong></span>\n\n\n\n<div>         </div>\n<div>      日本出入国在留管理厅3月27日发布的数据显示，截至2025年底，在留外国人人数达到412万人，创历史新高。比上年增加35万人，首次超过400万人。补充劳动一线人手短缺的在留资格——“特定技能”的接纳有所扩大。</div>\n<div>  </div>\n<div>      在留外国人不包括访日外国人等3个月以下的短期停留者。1年间增加的35万人规模相当于奈良市和长野市等自治体的人口。</div>\n<div>  </div>\n<div>      按国籍和地区来看，中国大陆为93万人，人数最多。排在第二位的越南为68万人。尼泊尔（30万人）比上年增加6万7000人，增长显著。</div>\n<div>  </div>\n<div>      按在留资格来看，“永住者”增加约3万人，达到94万人，人数最多。其次是具有专业性的“技术、人文知识、国际业务”，增加5.7万人，达47万人。“留学”为46万人，增加6.2万人。</div>\n<div>  </div>\n<div>      以技术转移为目的的“技能实习”已决定废止，与上年基本持平，为45万人。</div>\n<div>  </div>\n<div>      在人手短缺产业接纳劳动力的“特定技能”总计超过39万人。在过去一年里增加近10万人。该制度从2019年开始实施，连续6年增加。</div>\n<div>   </div>\n<div>      特定技能分为在留期间最长5年的“1号”和签证更新没有上限的2号。熟练度更高的“2号”约为8000人，增至上年的近10倍。制度开始近7年，从1号转为2号的人出现增加。</div>\n<div>    </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61957-2026-03-30-09-29-33.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-30T02:08:02+00:00",
+  "id": "d609ba12-feab-49e4-a2c4-dc12d856cb88",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
