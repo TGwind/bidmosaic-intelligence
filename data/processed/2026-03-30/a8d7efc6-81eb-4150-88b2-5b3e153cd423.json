@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本财务官就日元贬值表示：需要果断措施",
+  "raw_content": "2026/03/30 日本财务省财务官三村淳3月30日就外汇市场日元贬值、美元升值表示：“如果这种状况持续，很快需要采取果断措施”。他指出，“不仅是原油期货市场，外汇市场中的投机行为也在加剧”。 三村淳是在财务省接受记者采访时作出上述表态的。30日清晨东京外汇市场上，日元一度跌至1美元兑160日元中段，创下1年8个月以来的新低。 自2024年7月上任以来，三村淳首次使用“果断措施”这一表述，被视为对市场的警告，暗示可能进行干预。 他还表示：“我们此前已说过将从各方面应对，目前我们的关注覆盖所有方向”。日本财务省23日还就是否干预原油期货市场，对多家金融机构进行了调研。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/61953-2026-03-30-08-31-56.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-30T01:08:03+00:00",
+  "id": "a8d7efc6-81eb-4150-88b2-5b3e153cd423",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T06:05:23.655579+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

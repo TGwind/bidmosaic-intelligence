@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "DeFi lending giant Aave launches on OKX's Ethereum L2, X Layer",
+  "raw_content": "OKX’s X Layer is the 21st blockchain to integrate Aave, which recently surpassed the $1 trillion mark in cumulative lending volume.",
+  "source_url": "https://cointelegraph.com/news/okx-integrates-aave-on-eth-l2-x-layer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T04:15:20+00:00",
+  "id": "5ec3ca72-3c16-48ba-8bd7-ecc930219390",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T06:05:23.621469+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
