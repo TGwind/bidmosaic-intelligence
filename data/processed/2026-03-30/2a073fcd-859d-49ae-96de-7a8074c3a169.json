@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "习近平欢迎并邀请郑丽文率团来访",
+  "raw_content": "习近平欢迎并邀请郑丽文率团来访",
+  "source_url": "https://www.toutiao.com/article/7622862664565457454",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-30T02:36:18.367880+00:00",
+  "id": "2a073fcd-859d-49ae-96de-7a8074c3a169",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T02:36:55.050350+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "25508896",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "大国重器上新，一周惊喜不断！",
+  "raw_content": "大国重器上新，一周惊喜不断！",
+  "source_url": "https://www.toutiao.com/article/7622332710849200703",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-30T02:36:18.367928+00:00",
+  "id": "3ad33257-f42e-43bb-af23-2e4ac6a1bf01",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T02:36:55.056679+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20884917",
+    "platform": "toutiao"
+  }
+}

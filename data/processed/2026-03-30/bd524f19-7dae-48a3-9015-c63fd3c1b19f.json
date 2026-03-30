@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "美杜莎三千年从未停止过凝视~",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1inXsB8Et3",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-30T02:36:19.343687+00:00",
+  "id": "bd524f19-7dae-48a3-9015-c63fd3c1b19f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T02:36:55.059053+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6457713,
+    "platform": "bilibili"
+  }
+}
