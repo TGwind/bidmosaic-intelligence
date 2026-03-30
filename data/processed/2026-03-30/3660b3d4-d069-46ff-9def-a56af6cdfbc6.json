@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "美杜莎三千年从未停止过凝视~",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1inXsB8Et3",
+  "raw_title": "城市大富翁（3）",
+  "raw_content": "城市大富翁第三期来了！全新超大地图！ 超刺激的6小时极限赚钱挑战！！ 点赞30W，出发拍摄下一期！！",
+  "source_url": "https://www.bilibili.com/video/BV1CqXuBYEvi",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-30T02:36:19.343687+00:00",
-  "id": "bd524f19-7dae-48a3-9015-c63fd3c1b19f",
+  "collected_at": "2026-03-30T07:43:52.984003+00:00",
+  "id": "3660b3d4-d069-46ff-9def-a56af6cdfbc6",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-30T07:44:27.417885+00:00",
+  "processed_at": "2026-03-30T07:44:27.410650+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 6457713,
+    "hot_score": 2127457,
     "platform": "bilibili"
   }
 }

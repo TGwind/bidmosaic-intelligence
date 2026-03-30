@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "美杜莎三千年从未停止过凝视~",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1inXsB8Et3",
+  "raw_title": "海湾陷落，全球断裂，美以伊战争后的世界会如何？",
+  "raw_content": "一键三连推荐给更多朋友！",
+  "source_url": "https://www.bilibili.com/video/BV1wZXKBpEv9",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-30T02:36:19.343687+00:00",
-  "id": "bd524f19-7dae-48a3-9015-c63fd3c1b19f",
+  "collected_at": "2026-03-30T07:43:52.984018+00:00",
+  "id": "036354a4-6c5b-476f-a991-ed28846a3c92",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-30T07:44:27.417885+00:00",
+  "processed_at": "2026-03-30T07:44:27.396919+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 6457713,
+    "hot_score": 2790114,
     "platform": "bilibili"
   }
 }

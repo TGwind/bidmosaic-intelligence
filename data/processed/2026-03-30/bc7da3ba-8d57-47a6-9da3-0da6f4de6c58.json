@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "耗时180天制作！这才是你该知道的AI常识！",
+  "raw_content": "这是我们的第一期AI视频，花了几个月制作和修改，大家如果觉得有用的话，希望能三连支持一下！ 有什么想看的AI选题，也欢迎评论区告诉我们！",
+  "source_url": "https://www.bilibili.com/video/BV1bFXKBwECC",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-30T07:43:52.984107+00:00",
+  "id": "bc7da3ba-8d57-47a6-9da3-0da6f4de6c58",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T07:44:27.417494+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2152805,
+    "platform": "bilibili"
+  }
+}
