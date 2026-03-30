@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "周锡玮：郑丽文访陆要做3件事",
+  "raw_content": "周锡玮：郑丽文访陆要做3件事",
+  "source_url": "https://www.toutiao.com/trending/7622284876758142506/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622284876758142506%22%2C%22hot_board_impr_id%22%3A%2220260330212257683BAE0DDE23FD9857AE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%91%A8%E9%94%A1%E7%8E%AE%EF%BC%9A%E9%83%91%E4%B8%BD%E6%96%87%E8%AE%BF%E9%99%86%E8%A6%81%E5%81%9A3%E4%BB%B6%E4%BA%8B%22%7D&rank=&style_id=40132&topic_id=7622284876758142506",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-30T13:22:57.566222+00:00",
+  "id": "7864a767-4f0f-4c15-8e77-0642ca0adc38",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7645192",
+    "platform": "toutiao"
+  }
+}

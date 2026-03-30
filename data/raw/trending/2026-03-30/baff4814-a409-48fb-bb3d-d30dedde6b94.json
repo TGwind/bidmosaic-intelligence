@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "因为胸部大自卑了30年，所以我决定…",
+  "raw_content": "真心的很感谢大家的支持和喜欢，让我有能力、机会和勇气去接触到这些有意义的事情。\n让我们一起，把这个世界变得更美好一点，哪怕只有一点点。",
+  "source_url": "https://www.bilibili.com/video/BV1MBXPBtEbk",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-30T13:22:58.155632+00:00",
+  "id": "baff4814-a409-48fb-bb3d-d30dedde6b94",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4897337,
+    "platform": "bilibili"
+  }
+}
