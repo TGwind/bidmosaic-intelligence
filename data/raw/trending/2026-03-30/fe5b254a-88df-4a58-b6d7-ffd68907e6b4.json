@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "开头和结尾连在一起你就会得到一个30秒纯享rap",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1McXKBaEBn",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-30T02:36:19.343660+00:00",
+  "id": "fe5b254a-88df-4a58-b6d7-ffd68907e6b4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2238709,
+    "platform": "bilibili"
+  }
+}
