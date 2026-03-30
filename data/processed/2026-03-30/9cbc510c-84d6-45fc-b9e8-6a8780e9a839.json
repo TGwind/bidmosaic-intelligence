@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Disney's Sora Disaster Shows AI Will Not Revolutionize Hollywood",
+  "raw_content": "It turns out when you try to serve slop on a product people pay for, no one wants it.",
+  "source_url": "https://www.404media.co/disneys-openai-sora-disaster-shows-ai-will-not-save-hollywood/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-25T14:15:58+00:00",
+  "id": "9cbc510c-84d6-45fc-b9e8-6a8780e9a839",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T03:27:21.489385+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

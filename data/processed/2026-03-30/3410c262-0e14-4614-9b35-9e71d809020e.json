@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP tests $1.33 as rising leverage and weak price action create unstable setup",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/29/xrp-tests-usd1-33-as-rising-leverage-and-weak-price-action-create-unstable-setup",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-29T13:38:56+00:00",
+  "id": "3410c262-0e14-4614-9b35-9e71d809020e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T03:27:21.440492+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Uber 推出流式优先数据湖 IngestionNext ，将延迟和计算量降低 25%",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/cVKUGhBJrUTyumX4iHf8?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-28T10:00:00+00:00",
+  "id": "eaf44c1a-970b-4c5a-b2a5-706977bb3b84",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T03:27:21.517460+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

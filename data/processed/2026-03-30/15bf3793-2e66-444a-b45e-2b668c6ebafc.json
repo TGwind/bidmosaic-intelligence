@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "No one is 100% happy with the stablecoin yield agreement: State of Crypto",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/29/no-one-is-100-happy-with-the-stablecoin-yield-agreement-state-of-crypto",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-29T18:00:00+00:00",
+  "id": "15bf3793-2e66-444a-b45e-2b668c6ebafc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T03:27:21.431345+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ethereum builders propose ‘economic zone’ to tackle L2 fragmentation",
+  "raw_content": "Developers from Gnosis and Zisk propose a framework to connect fragmented rollups, amid growing debate over Ethereum’s scaling model and interoperability challenges.",
+  "source_url": "https://cointelegraph.com/news/ethereum-builders-propose-economic-zone-to-tackle-l2-fragmentation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-29T16:00:00+00:00",
+  "id": "081827a6-4952-4e87-a25d-d95af41afdf9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T03:27:21.418794+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
