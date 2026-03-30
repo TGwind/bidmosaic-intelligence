@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "How Hong Kong is turning tokenized bonds into real market infrastructure",
+  "raw_content": "Hong Kong plans to integrate tokenized bond issuance and settlement into its financial system, building scalable infrastructure for digital capital markets.",
+  "source_url": "https://cointelegraph.com/news/hong-kong-tokenized-bond-strategy-explained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T13:14:14+00:00",
+  "id": "1426fa78-d051-4200-9b10-8d58567f8de2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T13:53:49.603220+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

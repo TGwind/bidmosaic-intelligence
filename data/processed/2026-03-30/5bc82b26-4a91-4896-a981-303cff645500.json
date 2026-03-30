@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Midas raises $50 million to tackle pain point for tokenized asset investors",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/30/midas-raises-usd50-million-to-tackle-pain-point-for-tokenized-asset-investors",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T11:00:00+00:00",
+  "id": "5bc82b26-4a91-4896-a981-303cff645500",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T13:53:49.688750+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price models point to $40K–$50K as potential BTC bottom",
+  "raw_content": "Bitcoin remains in a bear market despite a bounce to $67,000, with onchain metrics and models pointing to a potential bottom below $50,000.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-predictions-40k-final-bottom-for-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T11:06:40+00:00",
+  "id": "657a8a95-882f-4955-a7f8-80989b6926d2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T13:53:49.693744+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
