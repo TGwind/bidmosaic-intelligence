@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin accumulation addresses absorb 67K BTC as miner-led selling falls: Data",
+  "raw_content": "Onchain data shows inflows to accumulation addresses topping 67,000 BTC, while total outflows from Bitcoin miners fell to levels not seen since 2024.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-accumulators-buy-67k-btc-as-miners-slow-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T18:39:08+00:00",
+  "id": "eb9036cb-925a-47bc-bd47-a740c269dbc9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T20:58:09.505055+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

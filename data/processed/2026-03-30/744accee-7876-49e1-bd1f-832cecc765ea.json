@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Mitsubishi adopts JPMorgan blockchain for corporate payments",
+  "raw_content": "JPMorgan’s Kinexys network is gaining traction among corporations as blockchain-based payment rails scale toward $10 billion in daily transaction volume.",
+  "source_url": "https://cointelegraph.com/news/mitsubishi-jpmorgan-kinexys-blockchain-corporate-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T19:39:32+00:00",
+  "id": "744accee-7876-49e1-bd1f-832cecc765ea",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T20:58:09.487383+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

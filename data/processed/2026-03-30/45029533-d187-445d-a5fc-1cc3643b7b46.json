@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Nearly half of all circulating bitcoin is underwater as long-term holders sell at a loss",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/30/nearly-half-of-all-circulating-bitcoin-is-underwater-as-long-term-holders-sell-at-a-loss",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T13:53:45+00:00",
+  "id": "45029533-d187-445d-a5fc-1cc3643b7b46",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T20:58:09.462079+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

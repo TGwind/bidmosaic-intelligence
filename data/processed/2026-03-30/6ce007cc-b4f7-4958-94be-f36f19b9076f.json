@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "NVIDIA IGX Thor Powers Industrial, Medical, and Robotics Edge AI Applications",
+  "raw_content": "Industrial and medical systems are rapidly increasing the use of high-performance AI to improve worker productivity, human-machine interaction, and downtime...",
+  "source_url": "https://developer.nvidia.com/blog/nvidia-igx-thor-powers-industrial-medical-and-robotics-edge-ai-applications/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-23T20:24:17+00:00",
+  "id": "6ce007cc-b4f7-4958-94be-f36f19b9076f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T20:58:09.483357+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}
