@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "无限方块，无尽旅途",
+  "raw_content": "这里是简介，看简介看简介~ 本期视频耗时大约两个多月，两个多月！！花费了非常多的精力，由 HYN 和 Twilight暮绪 共同完成 所以如果你喜欢的话可以一键三连，我们真的非常需要qwq —————分割线————— 游戏版本1.20.1，1.20.4 BGM：【Heroes 2.0 - RJ Pasin】 Mod：BBS CML MOD，Axiom，Physics Mod 光影：ComplementaryUnbound_r5.3 + EuphoriaPatches ，iterationT+3.2.0 材",
+  "source_url": "https://www.bilibili.com/video/BV19jXTBuEMS",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-30T13:22:58.155716+00:00",
+  "id": "955eb44d-d684-4260-b255-371dda0c3e65",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-30T13:23:35.118396+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1359250,
+    "platform": "bilibili"
+  }
+}
