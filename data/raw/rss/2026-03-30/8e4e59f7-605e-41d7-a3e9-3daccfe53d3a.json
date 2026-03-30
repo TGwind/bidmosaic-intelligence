@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin recovers to $67,400 after dipping below $65,200 as Houthis enter Iran war",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/30/bitcoin-recovers-to-usd67-400-after-dipping-below-usd65-200-as-houthis-enter-iran-war",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T05:27:00+00:00",
+  "id": "8e4e59f7-605e-41d7-a3e9-3daccfe53d3a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
