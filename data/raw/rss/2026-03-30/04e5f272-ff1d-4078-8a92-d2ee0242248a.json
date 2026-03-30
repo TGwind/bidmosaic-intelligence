@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "巴基斯坦外长称伊朗已许可20艘船通过霍尔木兹海峡",
+  "raw_content": "<div>2026/03/30</div><div id=\"contentDiv\">\n<div></div>\n<div>      巴基斯坦外长达尔3月28日在X（原推特）表示，对于被伊朗事实上封锁的能源运输要道霍尔木兹海峡，伊朗已允许20艘巴基斯坦籍船只通行。预计每天可通行2艘。</div>\n<div> </div>\n<div>      他表示：“这是和平的迹象，有助于实现地区稳定。”</div>\n<div> </div>\n<div>      巴基斯坦外交部29日称，达尔与伊朗外长阿拉格齐进行了电话会谈，双方强调结束美以与伊朗冲突的重要性，并表示将继续推动缓和紧张局势的外交努力。</div>\n<div> </div>\n<div>      伊朗外交部表示，阿拉格齐谴责针对基础设施、学校和医院的攻击是“极其恶劣的犯罪行为”。</div>\n<div>  </div>\n<div>      此外，截至29日，土耳其、沙特阿拉伯和埃及外长已抵达巴基斯坦首都伊斯兰堡。四国外长预计将在29日至30日就伊朗局势展开磋商。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61952-2026-03-30-08-31-57.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-30T01:08:03+00:00",
+  "id": "04e5f272-ff1d-4078-8a92-d2ee0242248a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
