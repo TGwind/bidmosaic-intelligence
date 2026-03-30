@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "城市大富翁（3）",
-  "raw_content": "城市大富翁第三期来了！全新超大地图！ 超刺激的6小时极限赚钱挑战！！ 点赞30W，出发拍摄下一期！！",
-  "source_url": "https://www.bilibili.com/video/BV1CqXuBYEvi",
+  "raw_title": "增进友谊小游戏",
+  "raw_content": "#好朋友整蛊大赏 #四人游戏局的爆笑瞬间 #搞笑研究所 #高能#搞笑",
+  "source_url": "https://www.bilibili.com/video/BV1UjX5BpE8W",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-30T07:43:52.984003+00:00",
-  "id": "3660b3d4-d069-46ff-9def-a56af6cdfbc6",
+  "collected_at": "2026-03-30T19:01:46.936363+00:00",
+  "id": "6dd6b3cc-a654-4656-a325-9e4eb03e08ff",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-30T19:02:19.561141+00:00",
+  "processed_at": "2026-03-30T19:02:19.569239+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2127457,
+    "hot_score": 3049537,
     "platform": "bilibili"
   }
 }
