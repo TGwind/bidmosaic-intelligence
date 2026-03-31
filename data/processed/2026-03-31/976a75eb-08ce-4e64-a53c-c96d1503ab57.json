@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "3月全国各地经济社会发展观察",
-  "raw_content": "3月全国各地经济社会发展观察",
-  "source_url": "https://www.toutiao.com/article/7623236753863885358",
+  "raw_title": "明天起，这些新规将影响你的生活",
+  "raw_content": "明天起，这些新规将影响你的生活",
+  "source_url": "https://www.toutiao.com/article/7623276214597255695",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-31T07:17:11.867315+00:00",
-  "id": "65fd37e0-349a-4a03-8ca7-051496650919",
+  "collected_at": "2026-03-31T13:21:29.058027+00:00",
+  "id": "976a75eb-08ce-4e64-a53c-c96d1503ab57",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-31T13:22:05.184497+00:00",
+  "processed_at": "2026-03-31T13:22:05.192494+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "49596092",
+    "hot_score": "32773895",
     "platform": "toutiao"
   }
 }

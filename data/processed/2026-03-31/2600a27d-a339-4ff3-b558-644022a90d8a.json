@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "不同人类打喷嚏🗣︎Remix",
-  "raw_content": "额~~亚雷亚雷鸭啊啊啊啊~~~ 做完后整个人力竭了 bgm：'BRASILIA' UK Drill Type Beat",
-  "source_url": "https://www.bilibili.com/video/BV1jyX5BPE4v",
+  "raw_title": "剧院演奏尖叫鸡版《波西米亚狂想曲》",
+  "raw_content": "在圣保罗的剧院里，我给观众现场表演了尖叫鸡演奏皇后乐队的经典曲目《波西米亚狂想曲》",
+  "source_url": "https://www.bilibili.com/video/BV1bGXyBqErH",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-31T02:31:15.798234+00:00",
-  "id": "89bf852b-a89d-4229-bac2-f4cec46cb05e",
+  "collected_at": "2026-03-31T13:21:30.099029+00:00",
+  "id": "2600a27d-a339-4ff3-b558-644022a90d8a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-31T13:22:05.189023+00:00",
+  "processed_at": "2026-03-31T13:22:05.168660+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3301229,
+    "hot_score": 3238183,
     "platform": "bilibili"
   }
 }

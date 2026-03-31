@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "不同人类打喷嚏🗣︎Remix",
-  "raw_content": "额~~亚雷亚雷鸭啊啊啊啊~~~ 做完后整个人力竭了 bgm：'BRASILIA' UK Drill Type Beat",
-  "source_url": "https://www.bilibili.com/video/BV1jyX5BPE4v",
+  "raw_title": "《踢球是你的谎言》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV13UX2BDEeN",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-31T02:31:15.798234+00:00",
-  "id": "89bf852b-a89d-4229-bac2-f4cec46cb05e",
+  "collected_at": "2026-03-31T13:21:30.099046+00:00",
+  "id": "0bfee697-22c6-49bb-82c0-5129c44297f1",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-31T13:22:05.189023+00:00",
+  "processed_at": "2026-03-31T13:22:05.167436+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3301229,
+    "hot_score": 3397485,
     "platform": "bilibili"
   }
 }

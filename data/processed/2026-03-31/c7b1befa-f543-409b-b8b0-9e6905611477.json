@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "正直播CBA焦点战：广东vs江苏",
+  "raw_content": "正直播CBA焦点战：广东vs江苏",
+  "source_url": "https://www.toutiao.com/trending/7622796708300832804/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622796708300832804%22%2C%22hot_board_impr_id%22%3A%2220260331212128ECC9E77E839D9DC946B0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AD%A3%E7%9B%B4%E6%92%ADCBA%E7%84%A6%E7%82%B9%E6%88%98%EF%BC%9A%E5%B9%BF%E4%B8%9Cvs%E6%B1%9F%E8%8B%8F%22%7D&rank=&style_id=40132&topic_id=7622796708300832804",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T13:21:29.058118+00:00",
+  "id": "c7b1befa-f543-409b-b8b0-9e6905611477",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T13:22:05.195001+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10909482",
+    "platform": "toutiao"
+  }
+}

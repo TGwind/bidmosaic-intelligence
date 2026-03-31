@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "意外导致视野缺损，我靠画画走出了创作阴影",
+  "raw_content": "从四五岁起，我的人生就没离开过眼科检查。 2022年意外导致视野缺损后续没有治愈，影响却越来越大。 眼睛的缺陷，从来没挡住我画画，反而让我更专注，更珍惜每一次能拿起画笔的机会，逼着我把创作效率提到了最高。原来困住我的从来不是缺陷，是我们非要盯着那个缺口看的执念。那些打不倒你的，终会让你找到新的路。",
+  "source_url": "https://www.bilibili.com/video/BV1vKX5BFE6v",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T13:21:30.098986+00:00",
+  "id": "90d84b33-f535-45e5-96e9-451bbc51bc76",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T13:22:05.186749+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1353476,
+    "platform": "bilibili"
+  }
+}

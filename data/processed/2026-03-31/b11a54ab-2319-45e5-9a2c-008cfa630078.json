@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "明日起后排乘客未系安全带将被处罚",
+  "raw_content": "明日起后排乘客未系安全带将被处罚",
+  "source_url": "https://www.toutiao.com/trending/7622507837072523306/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622507837072523306%22%2C%22hot_board_impr_id%22%3A%2220260331212128ECC9E77E839D9DC946B0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%98%8E%E6%97%A5%E8%B5%B7%E5%90%8E%E6%8E%92%E4%B9%98%E5%AE%A2%E6%9C%AA%E7%B3%BB%E5%AE%89%E5%85%A8%E5%B8%A6%E5%B0%86%E8%A2%AB%E5%A4%84%E7%BD%9A%22%7D&rank=&style_id=40132&topic_id=7622507837072523306",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T13:21:29.058055+00:00",
+  "id": "b11a54ab-2319-45e5-9a2c-008cfa630078",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T13:22:05.187785+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "24279498",
+    "platform": "toutiao"
+  }
+}
