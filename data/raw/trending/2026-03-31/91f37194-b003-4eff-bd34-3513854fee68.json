@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "剧院演奏尖叫鸡版《波西米亚狂想曲》",
+  "raw_content": "在圣保罗的剧院里，我给观众现场表演了尖叫鸡演奏皇后乐队的经典曲目《波西米亚狂想曲》",
+  "source_url": "https://www.bilibili.com/video/BV1bGXyBqErH",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T07:17:12.710393+00:00",
+  "id": "91f37194-b003-4eff-bd34-3513854fee68",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3117493,
+    "platform": "bilibili"
+  }
+}
