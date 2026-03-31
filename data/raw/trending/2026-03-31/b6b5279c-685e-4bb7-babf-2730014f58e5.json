@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【IGN】《鸣潮》共鸣者「绯雪」、「达妮娅」演示",
+  "raw_content": "《鸣潮》3.3版本即将登场的全新共鸣者「绯雪」、「达妮娅」的部分战斗效果实机演示。演示内容为游戏测试版本，不代表最终效果。",
+  "source_url": "https://www.bilibili.com/video/BV1nLXBB3Ew6",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T13:21:30.099054+00:00",
+  "id": "b6b5279c-685e-4bb7-babf-2730014f58e5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2212394,
+    "platform": "bilibili"
+  }
+}

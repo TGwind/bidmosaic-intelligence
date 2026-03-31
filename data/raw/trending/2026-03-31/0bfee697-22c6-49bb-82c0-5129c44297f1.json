@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《踢球是你的谎言》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV13UX2BDEeN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T13:21:30.099046+00:00",
+  "id": "0bfee697-22c6-49bb-82c0-5129c44297f1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3397485,
+    "platform": "bilibili"
+  }
+}

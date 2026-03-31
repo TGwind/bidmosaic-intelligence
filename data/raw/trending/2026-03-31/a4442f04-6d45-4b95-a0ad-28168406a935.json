@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《 Cos 商 鞅 》",
+  "raw_content": "《 Cos 商 鞅 》",
+  "source_url": "https://www.bilibili.com/video/BV1yyXmBGEeo",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T13:21:30.099021+00:00",
+  "id": "a4442f04-6d45-4b95-a0ad-28168406a935",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2691563,
+    "platform": "bilibili"
+  }
+}
