@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国国际航空恢复北京平壤航线",
+  "raw_content": "<div>2026/03/31</div><div id=\"contentDiv\">\n<div></div>\n<div>      中国国际航空3月30日恢复了北京至朝鲜平壤的直航航班。受新冠疫情扩散影响，该航线已中断6年多。直航航班抵达平壤后，中国驻朝鲜大使王亚军等人迎接了乘客。</div>\n<div>  </div>\n<div>      一名曾多次访问朝鲜的中国男性在出发前于北京机场接受中国媒体采访时表示，期待中朝之间的往来能够增加。</div>\n<div> </div>\n<div>      北京—平壤直航航线此前已在2023年由朝鲜高丽航空率先恢复运营。中朝之间的国际旅客列车也已恢复运行，但朝鲜方面尚未全面接纳中国游客。</div>\n<div> </div>\n<div>      中国国际航空最初表示计划每周运营一班，但目前4月以后的机票已无法购买，原因不明。外交消息人士称，在新冠疫情中断之前，如果乘客较少、难以盈利，航班有时也会暂停运营。</div>\n<div> </div>\n<div>  （kyodo）</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/china/ccompany/61971-2026-03-31-08-03-20.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-31T01:08:03+00:00",
+  "id": "afff2724-ff4b-4036-a829-a7a489e88f05",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

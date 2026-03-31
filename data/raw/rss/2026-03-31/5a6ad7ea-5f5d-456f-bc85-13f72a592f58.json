@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US senators float ‘Mined in America Act’ to boost BTC mining, codify reserve",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US senators float ‘Mined in America Act’ to boost BTC mining, codify reserve\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQwYTgtNTFhNy03YTliLTkyM2UtMTQ2NWUzYjJiYTM2LmpwZw==.jpg\" /></p><p>While the US hosts 38% of Bitcoin’s hashrate, 97% of mining machines are made by two Chinese companies, according to a Bitcoin policy advocate.</p>",
+  "source_url": "https://cointelegraph.com/news/senators-bill-bitcoin-mining-manufacturing-usa?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T00:35:01+00:00",
+  "id": "5a6ad7ea-5f5d-456f-bc85-13f72a592f58",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
