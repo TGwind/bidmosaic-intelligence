@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CoinDCX plans anti-fraud push after founders cleared in impersonation case",
+  "raw_content": "After an Indian court found no case against CoinDCX’s founders, the Coinbase-backed exchange said it will roll out an anti-fraud network to tackle impersonation and cyber fraud.",
+  "source_url": "https://cointelegraph.com/news/coindcx-plans-11-million-fraud-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T11:30:43+00:00",
+  "id": "931f5f94-03ca-45b9-b485-2e40ab4227ca",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T13:53:03.650036+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

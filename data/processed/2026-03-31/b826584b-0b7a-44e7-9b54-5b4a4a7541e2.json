@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "OpenFX raises $94M to speed up cross-border payments with stablecoins",
+  "raw_content": "OpenFX raised $94 million in a Series A round to expand its stablecoin-based FX network, as firms explore faster cross-border payment infrastructure.",
+  "source_url": "https://cointelegraph.com/news/openfx-raises-94m-stablecoin-fx-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T13:27:10+00:00",
+  "id": "b826584b-0b7a-44e7-9b54-5b4a4a7541e2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T13:53:03.664005+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

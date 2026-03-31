@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Standard Chartered says faster stablecoin turnover could curb demand",
+  "raw_content": "Stablecoin turnover has doubled in the past two years as AI payments and traditional finance use cases grow, though Standard Chartered still sees the market reaching $2 trillion.",
+  "source_url": "https://cointelegraph.com/news/standard-chartered-rising-stablecoin-velocity-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T12:28:14+00:00",
+  "id": "ee29d1fb-d54c-45ab-9274-ef78c50bdacc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T13:53:03.665142+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
