@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ethereum bulls must hold $2K: Volatility metric hints at ‘strong’ move next",
+  "raw_content": "A sharp drop in Ether’s realized volatility could result in significant ETH price moves if history repeats, making $2,000 a key support level to keep an eye on.",
+  "source_url": "https://cointelegraph.com/news/ethereum-bulls-must-hold-2k-volatility-hints-strong-price-move?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T16:39:01+00:00",
+  "id": "cbc4de6e-0906-4eaf-9755-7af19aadfc5e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T17:10:34.792223+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

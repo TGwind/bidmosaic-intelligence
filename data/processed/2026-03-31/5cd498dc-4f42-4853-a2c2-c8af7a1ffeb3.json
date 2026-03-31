@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Uber increases stake in WeRide as robotaxi partnership ramps up in Dubai",
+  "raw_content": "Uber and WeRide have launched robotaxi operations without a human safety operator in Dubai as part of a broader expansion in the Middle East.",
+  "source_url": "https://techcrunch.com/2026/03/31/uber-increases-stake-in-weride-as-robotaxi-partnership-ramps-up-in-dubai/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-31T16:26:26+00:00",
+  "id": "5cd498dc-4f42-4853-a2c2-c8af7a1ffeb3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T17:10:34.740064+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

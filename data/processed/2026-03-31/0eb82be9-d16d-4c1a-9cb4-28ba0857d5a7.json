@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ethereum’s EEZ and the attempt to rebuild one Ethereum",
+  "raw_content": "The Ethereum Economic Zone promises to stitch fragmented rollups back into a single system, but a similar model struggled to gain traction on Cosmos.",
+  "source_url": "https://cointelegraph.com/news/ethereum-eez-attempt-rebuild-one-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T13:03:33+00:00",
+  "id": "0eb82be9-d16d-4c1a-9cb4-28ba0857d5a7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T17:10:34.603083+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

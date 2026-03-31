@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Rivian spinoff Also will build autonomous delivery vehicles for DoorDash",
+  "raw_content": "DoorDash joins Greenoaks Capital in another $200 million funding round for Also, bringing its total funding to more than $500 million.",
+  "source_url": "https://techcrunch.com/2026/03/31/rivian-spinoff-also-will-build-autonomous-delivery-vehicles-for-doordash/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-31T14:32:08+00:00",
+  "id": "c901b729-b4da-463f-8300-e82d75c63760",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T17:10:34.783926+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
