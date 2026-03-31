@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Iran Is Winning the AI Slop Propaganda War",
+  "raw_content": "“White House videos—AI or otherwise—are like group-chat in-jokes aimed at keeping cohesion.”",
+  "source_url": "https://www.404media.co/iran-is-winning-the-ai-slop-propaganda-war/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-27T14:30:29+00:00",
+  "id": "c483cf6d-7e29-4507-97a3-69cdb20d026c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

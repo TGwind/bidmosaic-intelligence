@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
+  "raw_content": "arXiv:2603.26838v1 Announce Type: new \nAbstract: This paper surveys uncertainty-aware explainable artificial intelligence (UAXAI), examining how uncertainty is incorporated into explanatory pipelines and how such methods are evaluated. Across the literature, three recurring approaches to uncertainty quantification emerge (Bayesian, Monte Carlo, and Conformal methods), alongside distinct strategies for integrating uncertainty into explanations: assessing trustworthiness, constraining models or explanations, and explicitly communicating uncertainty. Evaluation practices remain fragmented and largely model centered, with limited attention to users and inconsistent reporting of reliability properties (e.g., calibration, coverage, explanation stability). Recent work leans towards calibration, distribution free techniques and recognizes explainer variability as a central concern. We argue that progress in UAXAI requires unified evaluation principles that link uncertainty propagation, robustness, and human decision-making, and highlight counterfactual and calibration approaches as promising avenues for aligning interpretability with reliability.",
+  "source_url": "https://arxiv.org/abs/2603.26838",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "3a8c5d49-2692-454b-8957-ba54294dd111",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

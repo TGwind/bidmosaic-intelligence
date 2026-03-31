@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning",
+  "raw_content": "arXiv:2603.26944v1 Announce Type: new \nAbstract: Predictive modeling on sequential event data is critical for fraud detection and healthcare monitoring. Existing data-driven approaches learn correlations from historical data but fail to incorporate domain-specific sequential constraints and logical rules governing event relationships, limiting accuracy and regulatory compliance. For example, healthcare procedures must follow specific sequences, and financial transactions must adhere to compliance rules. We present a neuro-symbolic approach integrating domain knowledge as differentiable logical constraints using Logic Networks (LTNs). We formalize control-flow, temporal, and payload knowledge using Linear Temporal Logic and first-order logic. Our key contribution is a two-stage optimization strategy addressing LTNs' tendency to satisfy logical formulas at the expense of predictive accuracy. The approach uses weighted axiom loss during pretraining to prioritize data learning, followed by rule pruning that retains only consistent, contributive axioms based on satisfaction dynamics. Evaluation on four real-world event logs shows that domain knowledge injection significantly improves predictive performance, with the two-stage optimization proving essential knowledge (without it, knowledge can severely degrade performance). The approach excels particularly in compliance-constrained scenarios with limited compliant training examples, achieving superior performance compared to purely data-driven baselines while ensuring adherence to domain constraints.",
+  "source_url": "https://arxiv.org/abs/2603.26944",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "5169729b-8a60-4b57-8489-b70b686458dd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
