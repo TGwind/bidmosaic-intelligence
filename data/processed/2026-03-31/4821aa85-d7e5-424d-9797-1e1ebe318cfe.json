@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "具身智能领域首份行业标准发布",
-  "raw_content": "具身智能领域首份行业标准发布",
-  "source_url": "https://www.toutiao.com/article/7622875429908660772",
+  "raw_title": "陪伴观赛国足VS喀麦隆",
+  "raw_content": "陪伴观赛国足VS喀麦隆",
+  "source_url": "https://webcast-open.douyin.com/open/media_live/238099515779",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-31T02:31:15.181763+00:00",
-  "id": "dd6e6705-9a07-4ec1-ac9a-67bef858916d",
+  "collected_at": "2026-03-31T07:17:11.867270+00:00",
+  "id": "4821aa85-d7e5-424d-9797-1e1ebe318cfe",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-31T07:17:53.530315+00:00",
+  "processed_at": "2026-03-31T07:17:53.517200+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "46970702",
+    "hot_score": "60576804",
     "platform": "toutiao"
   }
 }

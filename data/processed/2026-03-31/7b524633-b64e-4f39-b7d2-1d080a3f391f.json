@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "开头和结尾连在一起你就会得到一个30秒纯享rap",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1McXKBaEBn",
+  "raw_title": "清雨毁号案线下真实！后续来袭~",
+  "raw_content": "清雨毁号案线下真实！后续来袭~",
+  "source_url": "https://www.bilibili.com/video/BV1y3XKB9ES2",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-03-31T02:31:15.798171+00:00",
-  "id": "2b3fba14-f3ce-4426-ba82-d2779c84be9d",
+  "collected_at": "2026-03-31T07:17:12.710376+00:00",
+  "id": "7b524633-b64e-4f39-b7d2-1d080a3f391f",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-03-31T07:17:53.514273+00:00",
+  "processed_at": "2026-03-31T07:17:53.525097+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2556629,
+    "hot_score": 5006400,
     "platform": "bilibili"
   }
 }

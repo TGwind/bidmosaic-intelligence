@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "张雪机车一战封神 浙江资本也赢了",
+  "raw_content": "张雪机车一战封神 浙江资本也赢了",
+  "source_url": "https://www.toutiao.com/trending/7623085051236433926/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623085051236433926%22%2C%22hot_board_impr_id%22%3A%2220260331151711338BE48B1796B99E624B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E4%B8%80%E6%88%98%E5%B0%81%E7%A5%9E+%E6%B5%99%E6%B1%9F%E8%B5%84%E6%9C%AC%E4%B9%9F%E8%B5%A2%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7623085051236433926",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T07:17:11.867324+00:00",
+  "id": "382ad76e-71d2-4570-a459-710a2b2826ae",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T07:17:53.513983+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "44876400",
+    "platform": "toutiao"
+  }
+}
