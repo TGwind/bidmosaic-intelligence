@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Massachusetts city to weigh crypto ATM ban, citing financial risks",
+  "raw_content": "Haverhill City Council, following other jurisdictions, is set to consider an ordinance banning crypto ATMs viewed as enabling financial fraud and money laundering.",
+  "source_url": "https://cointelegraph.com/news/massachusetts-haverhill-crypto-atm-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T17:12:55+00:00",
+  "id": "fbb9de52-7cf5-4ebe-aad7-79d2d5365aa8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T20:54:25.754550+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

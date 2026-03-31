@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Galaxy expands retail platform with SOL staking, targeting 6.5% yield",
+  "raw_content": "GalaxyOne adds Solana staking with variable rewards and zero-fee incentives, extending institutional validator infrastructure to retail users.",
+  "source_url": "https://cointelegraph.com/news/galaxy-solana-staking-galaxyone-retail-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T16:39:58+00:00",
+  "id": "08877eef-669b-4c99-91c6-34ff4cb6e4e0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T20:54:25.599841+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
