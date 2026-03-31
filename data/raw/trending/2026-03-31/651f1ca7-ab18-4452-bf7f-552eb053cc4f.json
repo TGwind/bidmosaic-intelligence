@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "真是一场势均力敌的相亲",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1SZXNBYEdh",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T02:31:15.798218+00:00",
+  "id": "651f1ca7-ab18-4452-bf7f-552eb053cc4f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6772269,
+    "platform": "bilibili"
+  }
+}

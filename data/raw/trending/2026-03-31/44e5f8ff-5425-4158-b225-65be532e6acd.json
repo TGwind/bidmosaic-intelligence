@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "韩国向中国14个城市发放十年签",
+  "raw_content": "韩国向中国14个城市发放十年签",
+  "source_url": "https://www.toutiao.com/trending/7621978651006353427/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227621978651006353427%22%2C%22hot_board_impr_id%22%3A%22202603311031145B391CF54A34E32B0382%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9F%A9%E5%9B%BD%E5%90%91%E4%B8%AD%E5%9B%BD14%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%8F%91%E6%94%BE%E5%8D%81%E5%B9%B4%E7%AD%BE%22%7D&rank=&style_id=40132&topic_id=7621978651006353427",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T02:31:15.181719+00:00",
+  "id": "44e5f8ff-5425-4158-b225-65be532e6acd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "57370145",
+    "platform": "toutiao"
+  }
+}

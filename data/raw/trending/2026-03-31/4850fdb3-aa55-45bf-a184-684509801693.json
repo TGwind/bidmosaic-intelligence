@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "增进友谊小游戏",
+  "raw_content": "#好朋友整蛊大赏 #四人游戏局的爆笑瞬间 #搞笑研究所 #高能#搞笑",
+  "source_url": "https://www.bilibili.com/video/BV1UjX5BpE8W",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T02:31:15.798211+00:00",
+  "id": "4850fdb3-aa55-45bf-a184-684509801693",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3085411,
+    "platform": "bilibili"
+  }
+}
