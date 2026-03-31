@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Price of Meaning: Why Every Semantic Memory System Forgets",
+  "raw_content": "arXiv:2603.27116v1 Announce Type: new \nAbstract: Every major AI memory system in production today organises information by meaning. That organisation enables generalisation, analogy, and conceptual retrieval -- but it comes at a price. We prove that the same geometric structure enabling semantic generalisation makes interference, forgetting, and false recall inescapable. We formalise this tradeoff for \\textit{semantically continuous kernel-threshold memories}: systems whose retrieval score is a monotone function of an inner product in a semantic feature space with finite local intrinsic dimension.\n  Within this class we derive four results: (1) semantically useful representations have finite effective rank; (2) finite local dimension implies positive competitor mass in retrieval neighbourhoods; (3) under growing memory, retention decays to zero, yielding power-law forgetting curves under power-law arrival statistics; (4) for associative lures satisfying a $\\delta$-convexity condition, false recall cannot be eliminated by threshold tuning.\n  We test these predictions across five architectures: vector retrieval, graph memory, attention-based context, BM25 filesystem retrieval, and parametric memory. Pure semantic systems express the vulnerability directly as forgetting and false recall. Reasoning-augmented systems partially override these symptoms but convert graceful degradation into catastrophic failure. Systems that escape interference entirely do so by sacrificing semantic generalisation.\n  The price of meaning is interference, and no architecture we tested avoids paying it.",
+  "source_url": "https://arxiv.org/abs/2603.27116",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "8e654c28-36e9-4014-a03c-2e3a0133c1f6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

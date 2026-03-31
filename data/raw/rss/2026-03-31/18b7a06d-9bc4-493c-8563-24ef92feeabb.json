@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LogicDiff: Logic-Guided Denoising Improves Reasoning in Masked Diffusion Language Models",
+  "raw_content": "arXiv:2603.26771v1 Announce Type: new \nAbstract: Masked diffusion language models (MDLMs) generate text by iteratively unmasking tokens from a fully masked sequence, offering parallel generation and bidirectional context. However, their standard confidence-based unmasking strategy systematically defers high-entropy logical connective tokens, the critical branching points in reasoning chains, leading to severely degraded reasoning performance. We introduce LogicDiff, an inference-time method that replaces confidence-based unmasking with logic-role-guided unmasking. A lightweight classification head (4.2M parameters, 0.05% of the base model) predicts the logical role of each masked position (premise, connective, derived step, conclusion, or filler) from the base model's hidden states with 98.4% accuracy. A dependency-ordered scheduler then unmasks tokens in logical dependency order: premises first, then connectives, then derived steps, then conclusions. Without modifying a single parameter of the base model and without any reinforcement learning or task-specific training, LogicDiff improves LLaDA-8B-Instruct accuracy from 22.0% to 60.7% on GSM8K (+38.7 percentage points) and from 23.6% to 29.2% on MATH-500 (+5.6 pp), with less than 6% speed overhead. Our results demonstrate that a substantial portion of the reasoning deficit in MDLMs is attributable to suboptimal token unmasking order, not to limitations of the model's learned representations.",
+  "source_url": "https://arxiv.org/abs/2603.26771",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "18b7a06d-9bc4-493c-8563-24ef92feeabb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

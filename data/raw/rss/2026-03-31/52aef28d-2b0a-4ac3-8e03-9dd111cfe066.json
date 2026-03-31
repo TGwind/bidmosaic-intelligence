@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Beyond Standard LLMs",
+  "raw_content": "Linear Attention Hybrids, Text Diffusion, Code World Models, and Small Recursive Transformers",
+  "source_url": "https://magazine.sebastianraschka.com/p/beyond-standard-llms",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2025-11-04T13:06:07+00:00",
+  "id": "52aef28d-2b0a-4ac3-8e03-9dd111cfe066",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
