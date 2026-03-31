@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本与印尼首脑会谈确认经济与安全领域加强合作",
+  "raw_content": "<div>2026/03/31</div><div id=\"contentDiv\">\n<div></div>\n<div>      日本首相高市早苗3月31日在东京与印度尼西亚总统普拉博沃举行会谈，双方确认将在经济与安全等领域深化合作。日方还表示，将在人工智能（AI）领域的政府开发援助（ODA）、防灾以及脱碳等方面加强合作。</div>\n<div> </div>\n<div>      高市早苗在会谈开始时表示，希望“为实现‘自由开放的印度太平洋（FOIP）’，两国共同推动地区更加繁荣与强大”。普拉博沃则表示，“在全球局势日益复杂的情况下，两国应成为有助于解决问题的重要力量”。</div>\n<div> </div>\n<div>      这是普拉博沃自2024年10月就任总统以来首次正式访问日本。两国领导人在东京元赤坂的迎宾馆举行会谈，随后举行联合记者会，并共进午餐。</div>\n<div> </div>\n<div>      双方还就海洋安全保障领域的合作进行了协调。印度尼西亚推行全方位外交，正寻求在不过度依赖美国或中国的情况下保持平衡立场。</div>\n<div> </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61984-2026-03-31-14-04-57.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-31T06:08:03+00:00",
+  "id": "38ca5e7b-1b71-4f63-ba7c-0a07c41b0a62",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

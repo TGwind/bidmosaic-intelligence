@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A large corpus of lucid and non-lucid dream reports",
+  "raw_content": "arXiv:2603.26992v1 Announce Type: new \nAbstract: All varieties of dreaming remain a mystery. Lucid dreams in particular, or those characterized by awareness of the dream, are notoriously difficult to study. Their scarce prevalence and resistance to deliberate induction make it difficult to obtain a sizeable corpus of lucid dream reports. The consequent lack of clarity around lucid dream phenomenology has left the many purported applications of lucidity under-realized. Here, a large corpus of 55k dream reports from 5k contributors is curated, described, and validated for future research. Ten years of publicly available dream reports were scraped from an online forum where users share anonymous dream journals. Importantly, users optionally categorize their dream as lucid, non-lucid, or a nightmare, offering a user-provided labeling system that includes 10k lucid and 25k non-lucid, and 2k nightmare labels. After characterizing the corpus with descriptive statistics and visualizations, construct validation shows that language patterns in lucid-labeled reports are consistent with known characteristics of lucid dreams. While the entire corpus has broad value for dream science, the labeled subset is particularly powerful for new discoveries in lucid dream studies.",
+  "source_url": "https://arxiv.org/abs/2603.26992",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "e22272b0-ec2f-4697-8d6f-fd3083ffb47f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
