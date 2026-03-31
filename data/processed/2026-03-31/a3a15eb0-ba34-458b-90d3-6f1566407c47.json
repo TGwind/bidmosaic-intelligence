@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Dubai sets formal rules for crypto exchange-traded derivatives",
+  "raw_content": "Dubai’s VARA has set formal rules for crypto exchange-traded derivatives, allowing retail access under suitability checks, margin controls and leverage limits.",
+  "source_url": "https://cointelegraph.com/news/dubai-vara-crypto-derivatives-framework-retail-leverage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T06:00:00+00:00",
+  "id": "a3a15eb0-ba34-458b-90d3-6f1566407c47",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T09:13:55.410003+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

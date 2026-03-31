@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto exchange KuCoin agrees to $500K settlement, ending CFTC case",
+  "raw_content": "KuCoin’s parent will pay $500,000 to settle CFTC charges following a separate $300 million penalty in a DOJ case over similar conduct.",
+  "source_url": "https://cointelegraph.com/news/kucoin-fined-500k-as-cftc-cases-ends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T06:49:14+00:00",
+  "id": "94d36bcc-3b54-4921-8664-0e3d518c22df",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T09:13:55.404111+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

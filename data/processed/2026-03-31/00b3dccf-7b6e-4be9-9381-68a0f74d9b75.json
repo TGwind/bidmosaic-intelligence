@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitmine scoops $147M of ETH in its biggest week of buying this year",
+  "raw_content": "Bitmine bought over 71,000 Ether over the past week, adding to the 238,244 Ether it acquired over the previous four weeks.",
+  "source_url": "https://cointelegraph.com/news/bitmine-extends-ether-buying-streak-five-weeks-147-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T05:45:55+00:00",
+  "id": "00b3dccf-7b6e-4be9-9381-68a0f74d9b75",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T09:13:55.256388+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

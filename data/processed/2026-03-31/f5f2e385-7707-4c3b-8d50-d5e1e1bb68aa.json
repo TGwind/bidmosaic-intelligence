@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin holds $67,500 as Trump signals he may end Iran war with Hormuz still shut",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-holds-usd67-500-as-trump-signals-he-may-end-iran-war-with-hormuz-still-shut",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T05:48:37+00:00",
+  "id": "f5f2e385-7707-4c3b-8d50-d5e1e1bb68aa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T09:13:55.430607+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Democrats press CFTC, ethics watchdog on prediction market insider trading",
+  "raw_content": "Prediction markets are facing increasing scrutiny over allegations of insider trading, prompting Kalshi and Polymarket to plan guardrails to curb potential incidents.",
+  "source_url": "https://cointelegraph.com/news/us-lawmakers-insider-trading-prediction-markets-cftc-stock-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T07:11:55+00:00",
+  "id": "68181e22-7c96-418a-9b56-583231c8a8a8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T09:13:55.383805+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

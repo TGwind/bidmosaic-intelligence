@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Democrats urge warnings to federal officials against insider bets on prediction markets",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/03/30/democrats-urge-warnings-to-federal-officials-against-insider-bets-on-prediction-markets",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-30T21:37:35+00:00",
+  "id": "386e8352-f8c6-482c-a712-e02424f92854",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T09:13:55.332338+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
