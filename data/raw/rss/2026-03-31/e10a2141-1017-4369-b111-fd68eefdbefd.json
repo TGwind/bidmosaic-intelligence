@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
+  "raw_content": "arXiv:2603.27150v1 Announce Type: new \nAbstract: Large language models (LLMs) have revolutionized medical reasoning tasks, yet single-agent systems often falter on complex, interdisciplinary problems requiring robust handling of uncertainty and conflicting evidence. Multi-agent systems (MAS) leveraging LLMs enable collaborative intelligence, but prevailing centralized architectures suffer from scalability bottlenecks, single points of failure, and role confusion in resource-constrained environments. Decentralized MAS (D-MAS) promise enhanced autonomy and resilience via peer-to-peer interactions, but their application to high-stakes healthcare domains remains underexplored. We introduce MediHive, a novel decentralized multi-agent framework for medical question answering that integrates a shared memory pool with iterative fusion mechanisms. MediHive deploys LLM-based agents that autonomously self-assign specialized roles, conduct initial analyses, detect divergences through conditional evidence-based debates, and locally fuse peer insights over multiple rounds to achieve consensus. Empirically, MediHive outperforms single-LLM and centralized baselines on MedQA and PubMedQA datasets, attaining accuracies of 84.3% and 78.4%, respectively. Our work advances scalable, fault-tolerant D-MAS for medical AI, addressing key limitations of centralized designs while demonstrating superior performance in reasoning-intensive tasks.",
+  "source_url": "https://arxiv.org/abs/2603.27150",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "e10a2141-1017-4369-b111-fd68eefdbefd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

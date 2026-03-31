@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Arithmetic OOD Failure Unfolds in Stages in Minimal GPTs",
+  "raw_content": "arXiv:2603.26828v1 Announce Type: new \nAbstract: Arithmetic benchmarks are often reduced to a single held-out score, but that score can conflate qualitatively different failures. We study a controlled minimal GPT trained on exhaustive 2-digit addition, where all local digit transitions are already present in training, and ask why 3-digit generalization still fails. The failure is staged. First, there is a layout barrier: a learned absolute-position model collapses under a pure 3-digit layout shift, and mixed-layout exposure is the only intervention that materially weakens this barrier. Second, after layout repair, the hundreds position behaves like a carry flag rather than a semantic hundreds digit; targeted carry probes reverse the relevant logit margin, whereas a matched extra-data control does not. Third, after carry repair, the main remaining bottleneck is conditional recomposition: high-conditioned tail data outperforms a matched control, high-only data, and tail-only data on all true-3-digit suites, and the same ordering reappears in a larger 2-layer bridge experiment. The residual errors after recomposition are then overwhelmingly tens-only, and a separate 10-seed late-stage study shows that a sign-aware tens repair raises exact match on the hardest thousands-carry suite from 0.664 to 0.822. We therefore provide an experimentally testable decomposition of arithmetic OOD failure into layout, carry-semantics, recomposition, and late tens-residual stages.",
+  "source_url": "https://arxiv.org/abs/2603.26828",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "9948284b-0445-4d24-8f5d-578e75d56f95",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

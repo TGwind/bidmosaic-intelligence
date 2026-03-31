@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Uber and WeRide ramp up robotaxi operations in Dubai",
+  "raw_content": "Uber and WeRide have launched robotaxi operations without a human safety operator in Dubai as part of a broader expansion in the Middle East.",
+  "source_url": "https://techcrunch.com/2026/03/31/uber-weride-dubai-robotaxi-partnership-equity/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-31T16:26:26+00:00",
+  "id": "bdaea449-fc64-4776-99bc-ef796c513503",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
