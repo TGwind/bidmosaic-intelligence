@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Nakamoto sells $20 million in Bitcoin and cuts Metaplanet stake",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Nakamoto sells $20 million in Bitcoin and cuts Metaplanet stake\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQyZDktOGVlNi03MTc0LTkwNDUtMjg1MGI3Nzk3OGM1LmpwZw==.jpg\" /></p><p>David Bailey's Nakamoto plans to wind down healthcare operations as it shifts focus to integrating BTC Inc and UTXO Management.</p>",
+  "source_url": "https://cointelegraph.com/news/nakamoto-sells-20m-bitcoin-metaplanet-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T08:36:46+00:00",
+  "id": "1f39a057-fb4f-4965-a055-e458f3de907b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

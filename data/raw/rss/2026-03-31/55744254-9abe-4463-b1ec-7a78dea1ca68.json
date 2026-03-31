@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Cohere's open-weight ASR model hits 5.4% word error rate — low enough to replace speech APIs in production pipelines",
+  "raw_content": "<p>Enterprises building voice-enabled workflows have had limited options for production-grade transcription: closed APIs with data residency risks, or open models that trade accuracy for deployability. Cohere&#x27;s new open-weight ASR model, Transcribe, is built to compete on all four key differentiators — contextual accuracy, latency, control and cost.</p><p>Cohere says that Transcribe outperforms current leaders on accuracy — and unlike closed APIs, it can run on an organization&#x27;s own infrastructure.</p><p>Cohere, which can be accessed via an API or in Cohere’s Model Vault as cohere-transcribe-03-2026, has 2 billion parameters and is licensed under Apache-2.0. The company said Transcribe has an average word error rate (WER) of just 5.42%, so it makes fewer mistakes than similar models.</p><p>It’s trained on 14 languages: English, French, German, Italian, Spanish, Greek, Dutch, Polish, Portuguese, Chinese, Japanese, Korean, Vietnamese and Arabic. The company did not specify which Chinese dialect the model was trained on. </p><p>Cohere said it trained the model “with a deliberate focus on minimizing WER, while keeping production readiness top-of-mind.” According to Cohere, the result is a model that enterprises can plug directly into voice-powered automations, transcription pipelines, and audio search workflows.</p><h2>Self-hosted transcription for production pipelines</h2><p>Until recently, enterprise transcription has been a trade-off — closed APIs offered accuracy but locked in data; open models offered control but lagged on performance. Unlike Whisper, which launched as a research model under MIT license, Transcribe is available for commercial use from release and can run on an organization&#x27;s own local GPU infrastructure. Early users flagged the commercial-ready open-weight approach as meaningful for enterprise deployments.</p><div></div><p>Organizations can bring Transcribe to their own local instances, since Cohere said the model has a more manageable inference footprint for local GPUs. The company said they were able to do this because the model “extends the Pareto frontier, delivering state-of-the-art accuracy (low WER) while sustaining best-in-class throughput (high RTFx) within the 1B+ parameter model cohort.”</p><h2>How Transcribe stacks up</h2><p>Transcribe outperformed speech-model stalwarts, including Whisper from OpenAI, which powers the voice feature of ChatGPT, and ElevenLabs, which many big retail brands deploy. It currently tops the <a href=\"https://huggingface.co/models?pipeline_tag=automatic-speech-recognition\"><u>Hugging Face ASR leaderboard</u></a>, leading with an average word error rate of 5.42%, outperforming Whisper Large v3 at 7.44%, ElevenLabs Scribe v2 at 5.83%, and Qwen3-ASR-1.7B at 5.76%.</p><p>Based on other datasets tested by Hugging Face, Transcribe also performed well. The AMI dataset, which measures meeting understanding and dialogue analysis, Transcribe logged a score of 8.15%. For the Voxpopuli dataset that tests understanding of different accents, the model scored 5.87%, beaten only by Zoom Scribe.</p><p>Early users have flagged accuracy and local deployment as the standout factors — particularly for teams that have been routing audio data through external APIs and want to bring that workload in-house.</p><div></div><p></p><div></div><p></p><div></div><p>\n<!-- -->For engineering teams building RAG pipelines or agent workflows with audio inputs, Transcribe offers a path to production-grade transcription without the data residency and latency penalties of closed APIs.<!-- -->\n</p>",
+  "source_url": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-30T18:00:00+00:00",
+  "id": "55744254-9abe-4463-b1ec-7a78dea1ca68",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

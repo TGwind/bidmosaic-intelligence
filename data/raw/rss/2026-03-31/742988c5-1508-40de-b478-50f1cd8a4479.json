@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "When Verification Hurts: Asymmetric Effects of Multi-Agent Feedback in Logic Proof Tutoring",
+  "raw_content": "arXiv:2603.27076v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for automated tutoring, but their reliability in structured symbolic domains remains unclear. We study step-level feedback for propositional logic proofs, which require precise symbolic reasoning aligned with a learner's current proof state. We introduce a knowledge-graph-grounded benchmark of 516 unique proof states with step-level annotations and difficulty metrics. Unlike prior tutoring evaluations that rely on model self-assessment or binary correctness, our framework enables fine-grained analysis of feedback quality against verified solution paths. We evaluate three role-specialized pipelines with varying solution access: Tutor (partial solution access), Teacher (full derivation access), and Judge (verification of Tutor feedback). Our results reveal a striking asymmetry: verification improves outcomes when upstream feedback is error-prone (<70% accuracy), but degrades performance by 4-6 percentage points through over-specification when feedback is already reliable (>85%). Critically, we identify a shared complexity ceiling; no model or pipeline reliably succeeds on proof states exceeding complexity 4-5. These findings challenge the assumption that adding verifiers or richer context universally improves tutoring, motivating adaptive, difficulty-aware architectures that route problems by estimated complexity and upstream reliability.",
+  "source_url": "https://arxiv.org/abs/2603.27076",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "742988c5-1508-40de-b478-50f1cd8a4479",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

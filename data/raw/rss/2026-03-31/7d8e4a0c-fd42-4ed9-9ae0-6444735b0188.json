@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Quantum computers need fewer qubits to crack crypto than thought: Google",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Quantum computers need fewer qubits to crack crypto than thought: Google\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQyNWQtNDlmMC03ZDMwLTlmMmEtOTI1YTFmNmRjNGQxLmpwZw==.jpg\" /></p><p>Google has updated its estimates of the quantum computing resources needed to break elliptic curve cryptography.</p>",
+  "source_url": "https://cointelegraph.com/news/quantum-computers-need-far-less-power-crack-crypto-says-google?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T06:27:02+00:00",
+  "id": "7d8e4a0c-fd42-4ed9-9ae0-6444735b0188",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
