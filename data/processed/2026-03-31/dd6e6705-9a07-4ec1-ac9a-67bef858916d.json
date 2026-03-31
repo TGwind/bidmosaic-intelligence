@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "具身智能领域首份行业标准发布",
+  "raw_content": "具身智能领域首份行业标准发布",
+  "source_url": "https://www.toutiao.com/article/7622875429908660772",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T02:31:15.181763+00:00",
+  "id": "dd6e6705-9a07-4ec1-ac9a-67bef858916d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T02:31:50.654433+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "46970702",
+    "platform": "toutiao"
+  }
+}

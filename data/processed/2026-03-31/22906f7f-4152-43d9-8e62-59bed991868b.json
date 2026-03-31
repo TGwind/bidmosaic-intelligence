@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "预计2035年中国不孕不育夫妇7440万对",
+  "raw_content": "预计2035年中国不孕不育夫妇7440万对",
+  "source_url": "https://www.toutiao.com/trending/7622737197472464959/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622737197472464959%22%2C%22hot_board_impr_id%22%3A%22202603311031145B391CF54A34E32B0382%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A2%84%E8%AE%A12035%E5%B9%B4%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2%E5%A4%AB%E5%A6%877440%E4%B8%87%E5%AF%B9%22%7D&rank=&style_id=40132&topic_id=7622737197472464959",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T02:31:15.181800+00:00",
+  "id": "22906f7f-4152-43d9-8e62-59bed991868b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T02:31:50.646837+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "31485403",
+    "platform": "toutiao"
+  }
+}

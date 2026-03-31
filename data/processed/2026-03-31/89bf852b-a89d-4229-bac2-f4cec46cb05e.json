@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "不同人类打喷嚏🗣︎Remix",
+  "raw_content": "额~~亚雷亚雷鸭啊啊啊啊~~~ 做完后整个人力竭了 bgm：'BRASILIA' UK Drill Type Beat",
+  "source_url": "https://www.bilibili.com/video/BV1jyX5BPE4v",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-03-31T02:31:15.798234+00:00",
+  "id": "89bf852b-a89d-4229-bac2-f4cec46cb05e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T02:31:50.656307+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3301229,
+    "platform": "bilibili"
+  }
+}
