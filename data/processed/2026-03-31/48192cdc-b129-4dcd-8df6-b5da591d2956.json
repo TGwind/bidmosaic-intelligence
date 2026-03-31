@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Oil hits three-year high above $105: Will Bitcoin crash again?",
+  "raw_content": "Historical data shows Bitcoin bear markets deepening when oil prices rally to record highs. Will Monday’s $105 WTI price lead to a BTC crash?",
+  "source_url": "https://cointelegraph.com/news/oil-prices-hit-3-year-high-above-dollar105-will-bitcoin-crash-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T01:27:21+00:00",
+  "id": "48192cdc-b129-4dcd-8df6-b5da591d2956",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T03:17:30.133304+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国远洋海运集团货船通过霍尔木兹海峡",
+  "raw_content": "2026/03/31 中国远洋海运集团（COSCO）的大型集装箱船3月30日被确认通过处于事实封锁状态的霍尔木兹海峡，驶出波斯湾。该消息来自船舶信息分析服务“MarineTraffic”的公开数据。 按集装箱船总运力计算，中国远洋海运集团位列全球第四。MarineTraffic表示，自美国和以色列对伊朗发动攻击以来，“这是首次确认大型集装箱运输企业的船舶通过霍尔木兹海峡”。 通过海峡的是两艘可装载2万TEU（TEU为20英尺标准集装箱单位）的超大型集装箱船。第一艘在日本时间3月30日下午5时47分通过霍尔木兹海峡，另一艘约30分钟后通过。 根据可获得的航行轨迹数据，船只经过了靠近伊朗本土的拉拉克岛附近海域，该岛被认为是伊朗革命卫队设立要塞的地点之一。尚不清楚是否通过了伊朗在拉拉克岛与格什姆岛之间设立的所谓“安全走廊”。 这两艘大型集装箱船原计划于3月中旬离开波斯湾前往马来西亚，但因局势紧张一直停留在海湾内。3月27日曾一度驶向安全走廊，但途中折返。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61972-2026-03-31-08-03-19.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-31T01:08:03+00:00",
+  "id": "4a1ab290-afbd-468f-8a09-04a0742f2f1c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T03:17:30.135019+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
