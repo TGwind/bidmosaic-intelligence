@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本企业经营者66%反对消费税降为零",
+  "raw_content": "2026/03/31 对于高市早苗政府计划实施的食品消费税降为零，日本主要企业的经营者普遍持否定态度。在日本经济新闻的“100名社长调查”中，66.3%的受访者表示“反对”。他们对这一政策作为应对物价上涨措施的效果持怀疑态度，同时对财政恶化的风险保持强烈警惕。另一方面，作为收入再分配手段的“附带补贴的税额抵扣”则获得了较多支持。 该调查于3月2日至19日面向日本主要企业社长（包括董事长等）实施，共有143家企业作出回答。 高市政府提出对食品类商品实行消费税为零的方针，并在首相主导、跨党派参与的“社会保障国民会议”上推进制度设计。不过，消费税为零被定位为仅限两年的“过渡措施”，之后计划引入从所得税额中扣除一定金额，并结合现金补贴的“附带补贴的税额抵扣”。 调查结果显示，对于消费税降为零，12.0%的受访者表示“反对”，54.3%表示“比较反对”。33.7%表示“比较赞成”，没有人选择“赞成”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/economic-policy/61970-2026-03-31-08-03-18.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-31T01:08:03+00:00",
+  "id": "75979ebb-e736-4f62-ac11-9b528467aaa9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-03-31T05:49:58.691262+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
