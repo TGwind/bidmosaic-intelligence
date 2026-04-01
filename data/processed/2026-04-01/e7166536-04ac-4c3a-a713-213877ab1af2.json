@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Token voting is crypto’s broken incentive system",
+  "raw_content": "Token voting fails crypto governance with low participation and whale dominance. Decision markets price conviction to fix broken DAO incentives.",
+  "source_url": "https://cointelegraph.com/news/token-voting-broken-incentive-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T15:00:00+00:00",
+  "id": "e7166536-04ac-4c3a-a713-213877ab1af2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T17:07:56.160623+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
