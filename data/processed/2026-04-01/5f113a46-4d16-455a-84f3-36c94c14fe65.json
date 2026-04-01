@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Galaxy Digital's testnet suffers hack but no client funds or information were compromised",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/01/galaxy-digital-suffers-hack-but-no-client-funds-or-information-were-compromised",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T17:48:13+00:00",
+  "id": "5f113a46-4d16-455a-84f3-36c94c14fe65",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T20:57:15.397006+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

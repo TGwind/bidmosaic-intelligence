@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Drift Protocol warns users to pause deposits amid 'unusual' trading activity",
+  "raw_content": "The reported incident could be a $200 million exploit of the decentralized crypto exchange due to a leak of a crypto wallet private key.",
+  "source_url": "https://cointelegraph.com/news/drift-protocol-pause-deposit-unusual-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T18:42:50+00:00",
+  "id": "4ae085f6-1591-41fa-8b19-15ae4575ed71",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T20:57:15.388178+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
