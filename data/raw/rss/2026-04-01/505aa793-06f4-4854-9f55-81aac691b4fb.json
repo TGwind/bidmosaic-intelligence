@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Download: the internet’s best weather app, and why people freeze their brains",
+  "raw_content": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a couple of ski bums built the internet’s best weather app&#160; The best snow-forecasting app for skiers&#160;isn’t&#160;a&#160;federally-funded&#160;service or a big-name brand.&#160;It’s&#160;OpenSnow, a startup that uses government data, its own AI&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-27T12:32:54+00:00",
+  "id": "505aa793-06f4-4854-9f55-81aac691b4fb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Slopaganda and Sora, lol",
+  "raw_content": "This week, we discuss touching grass and Sora's demise.",
+  "source_url": "https://www.404media.co/slopaganda-and-sora-lol-2/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-27T15:31:04+00:00",
+  "id": "a2cdfb9c-4b51-46ec-8a9a-4eba81de46a0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
