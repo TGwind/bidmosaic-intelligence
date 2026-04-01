@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《归环》「一周目测试」招募实机PV",
+  "raw_content": "《归环》「一周目测试」招募开启 速来报名：https://www.biligame.com/detail/?id=112227 你已回到起点，命运在此分岔——归还者，请再次跃入时间之环。",
+  "source_url": "https://www.bilibili.com/video/BV1JEAwzfEsj",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T07:22:47.953383+00:00",
+  "id": "1dcdefcb-17d2-47df-8a39-0f054be1f06c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T07:23:20.744577+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3155343,
+    "platform": "bilibili"
+  }
+}

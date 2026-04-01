@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《踢球是你的谎言》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV13UX2BDEeN",
+  "raw_title": "鸟，为什么会飞？",
+  "raw_content": "他们说烧鸟也是鸟。",
+  "source_url": "https://www.bilibili.com/video/BV1eRXrB3EQ7",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-01T02:42:25.843259+00:00",
-  "id": "50fab368-aa0d-44b4-bf5f-e2882b157f5b",
+  "collected_at": "2026-04-01T07:22:47.953424+00:00",
+  "id": "1e030e5a-3a66-4372-8536-029ca3196890",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-01T07:23:20.751516+00:00",
+  "processed_at": "2026-04-01T07:23:20.746196+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3522534,
+    "hot_score": 1003215,
     "platform": "bilibili"
   }
 }

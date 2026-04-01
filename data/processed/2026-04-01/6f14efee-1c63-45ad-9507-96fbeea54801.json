@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《踢球是你的谎言》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV13UX2BDEeN",
+  "raw_title": "GEN先锋赛单曲《爆笑》",
+  "raw_content": "原曲：《咆哮》 原唱：EXO 混音：益辉 填词/翻唱/和声/视频：蔚蓝边际",
+  "source_url": "https://www.bilibili.com/video/BV1RvX9BkErm",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-01T02:42:25.843259+00:00",
-  "id": "50fab368-aa0d-44b4-bf5f-e2882b157f5b",
+  "collected_at": "2026-04-01T07:22:47.953408+00:00",
+  "id": "6f14efee-1c63-45ad-9507-96fbeea54801",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-01T07:23:20.751516+00:00",
+  "processed_at": "2026-04-01T07:23:20.749258+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3522534,
+    "hot_score": 1752061,
     "platform": "bilibili"
   }
 }
