@@ -1,0 +1,54 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "A股大盘行情速览",
+  "raw_content": "A股大盘行情：上证指数 3948.55 ↑1.46%；沪深300 4526.07 ↑1.71%；深证成指 13706.52 ↑1.70%；创业板指 3247.52 ↑1.96%",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sh000001/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-04-01T10:50:50.376326+00:00",
+  "id": "c1000f26-27fd-4258-9011-6c633ad683be",
+  "generated_title": "A股大盘行情速览",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T10:51:20.939293+00:00",
+  "market_data": {
+    "symbols": [
+      "000001",
+      "000300",
+      "399001",
+      "399006"
+    ],
+    "price_change": {},
+    "indicators": {
+      "000001": {
+        "name": "上证指数",
+        "price": 3948.55,
+        "change_pct": 1.46
+      },
+      "000300": {
+        "name": "沪深300",
+        "price": 4526.07,
+        "change_pct": 1.71
+      },
+      "399001": {
+        "name": "深证成指",
+        "price": 13706.52,
+        "change_pct": 1.7
+      },
+      "399006": {
+        "name": "创业板指",
+        "price": 3247.52,
+        "change_pct": 1.96
+      }
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}
