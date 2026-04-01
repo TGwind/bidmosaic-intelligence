@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "人民日报：饭圈不能成捧杀棒杀的怪圈",
+  "raw_content": "人民日报：饭圈不能成捧杀棒杀的怪圈",
+  "source_url": "https://www.toutiao.com/trending/7623004716636618771/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623004716636618771%22%2C%22hot_board_impr_id%22%3A%2220260401104224AEF1F5869F62156EAC02%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E9%A5%AD%E5%9C%88%E4%B8%8D%E8%83%BD%E6%88%90%E6%8D%A7%E6%9D%80%E6%A3%92%E6%9D%80%E7%9A%84%E6%80%AA%E5%9C%88%22%7D&rank=&style_id=40132&topic_id=7623004716636618771",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T02:42:25.245354+00:00",
+  "id": "c955fc3c-c3d4-420a-bb7a-9262441774de",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10369116",
+    "platform": "toutiao"
+  }
+}
