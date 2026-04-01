@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Texas Lt. Gov. lists crypto, prediction markets in charges for lawmakers",
+  "raw_content": "The #2 Texas state official called on lawmakers to study “the sudden inundation of prediction market gambling“ as other jurisdictions take the platforms to court.",
+  "source_url": "https://cointelegraph.com/news/texas-dan-patrick-crypto-prediction-markets-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T21:48:00+00:00",
+  "id": "9616cfef-4cd2-4b20-b36e-d8491ceb6f32",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T03:32:03.810235+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

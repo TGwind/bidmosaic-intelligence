@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
+  "raw_content": "arXiv:2603.26948v1 Announce Type: new Abstract: Existing approaches for predictive process monitoring are sub-symbolic, meaning that they learn correlations between descriptive features and a target feature fully based on data, e.g., predicting the surgical needs of a patient based on historical events and biometrics. However, such approaches fail to incorporate domain-specific process constraints (knowledge), e.g., surgery can only be planned if the patient was released more than a week ago, limiting the adherence to compliance and providing less accurate predictions. In this paper, we present a neuro-symbolic approach for predictive process monitoring, leveraging Logic Tensor Networks (LTNs) to inject process knowledge into predictive models. The proposed approach follows a structured pipeline consisting of four key stages: 1) feature extraction; 2) rule extraction; 3) knowledge base creation; and 4) knowledge injection. Our evaluation shows that, in addition to learning the process constraints, the neuro-symbolic model also achieves better performance, demonstrating higher compliance and improved accuracy compared to baseline approaches across all compliance-aware experiments.",
+  "source_url": "https://arxiv.org/abs/2603.26948",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "c1687548-f583-4dc9-b85c-ecd5e6d3cbc5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T03:32:03.827481+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

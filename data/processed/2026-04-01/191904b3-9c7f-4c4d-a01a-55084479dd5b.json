@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普：对伊朗的攻击不会长期持续",
+  "raw_content": "2026/04/01 美国总统特朗普3月31日就对伊朗的军事打击表示，“没有必要持续很长时间”。距离白宫新闻秘书莱维特此前所称“自2月28日开始的军事行动最长6周”这一期限结束仅剩约10天，外界认为特朗普已开始探寻结束行动的方式。 特朗普当天还表示，军事行动预计将在2至3周内结束，并称“在此之前也可能达成（停火）协议”。 特朗普还说：“只要（伊朗）无法继续进行核开发，无论是否达成协议，我们都会撤军”，并补充称，“他们未来很多年都无法制造核武器。如果在相当遥远的将来能够制造核武器，像我这样的美国总统还会再次把他们彻底击溃”。 特朗普在31日接受美国报纸纽约邮报采访时强调伊朗军力“已经被完全摧毁，我们没有必要长期驻留”。在伊朗仍持续抵抗的情况下，有观点认为特朗普正试图尽早结束这场军事行动。 关于伊朗事实上持续封锁的霍木兹海峡，特朗普主张，一旦美军结束在中东的军事行动，“就会自动开放”。这也暗示即便封锁仍未解除，美军也可能优先结束作战行动。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61990-2026-04-01-08-40-51.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-01T01:08:03+00:00",
+  "id": "191904b3-9c7f-4c4d-a01a-55084479dd5b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T03:32:03.738984+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "世界主要稀土企业111家，中国超50家",
+  "raw_content": "2026/04/01 日本经济新闻社基于日本国内外的新闻以及纳入交易型开放式指数基金（ETF）的股票，筛选出了全球111家主要稀土相关企业。从资源开发到产品加工，中国企业超过50家，碾压日本、美国和欧洲。 中国篇 中国拥有众多从开采到产品化涉足产业全流程的企业。 （未完、下页为日本篇） 日本篇 日本企业的优势在于节省稀土的使用及替代技术。 （未完、下页为美国、澳大利亚、加拿大、英国、智利篇） 美国、澳大利亚、加拿大、英国、智利篇 美国为摆脱对中国依赖，正在重构稀土供应链。澳大利亚是仅次于中国的全球主要供应国。加拿大与美国合作，正在加强开采与冶炼。英国通过在非洲的开发，提升行业影响力。智利积极推进在南美的开发。各国均具备各自的优势。 日本经济新闻（中文版：日经中文网）山田周吾、田村峻久、张勇祥",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/61987-2026-04-01-08-49-05.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-01T01:08:03+00:00",
+  "id": "a9b67d7d-5d30-46d1-97a6-8caead2051f2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T03:32:03.821418+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

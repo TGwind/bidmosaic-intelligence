@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "富士通1.4纳米半导体将委托给Rapidus制造",
+  "raw_content": "2026/04/01 富士通将开发搭载于服务器等设备、专门用于人工智能处理的AI半导体（NPU）。该产品采用1.4纳米（纳米为十亿分之一米）电路线宽的最先进技术，特点是完全日本国产且节能，并计划委托给以量产先进半导体为目标的Rapidus公司制造。 日本经济产业省预计也将为研发费用提供部分支持。在经济安全保障背景下，这是日本为应对全球由各国主导建立本国AI技术体系趋势而迈出的重要一步。 此次开发的是被称为“NPU（神经处理单元）”的专用AI处理半导体，主要用于AI回答问题时的“推理”运算，具有很高的电力效率。 该NPU将与为日本国家核心超级计算机富岳NEXT等开发的CPU（中央处理器）集成在同一封装中。由大型企业主导、从研发到制造全部在日本国内完成的纯国产AI半导体预计尚属首次。",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/61989-2026-04-01-08-01-50.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-01T01:08:03+00:00",
+  "id": "79975fb7-89d6-4a3a-9419-4acd53f76f23",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T03:32:03.796311+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
