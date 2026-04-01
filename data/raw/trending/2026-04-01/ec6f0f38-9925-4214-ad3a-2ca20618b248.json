@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "李荣浩手撕单依纯！老实人真被逼急了！",
+  "raw_content": "李荣浩手撕单依纯！老实人真被逼急了！",
+  "source_url": "https://www.bilibili.com/video/BV1RYXQBKEEd",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T07:22:47.953297+00:00",
+  "id": "ec6f0f38-9925-4214-ad3a-2ca20618b248",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 7524019,
+    "platform": "bilibili"
+  }
+}
