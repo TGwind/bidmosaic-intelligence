@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Some quantum-resistant tokens jump 50% as Google flags risks to Bitcoin security",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/01/the-first-winners-of-the-quantum-crypto-debate-are-already-clear-and-some-of-them-are-up-50",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T05:59:35+00:00",
+  "id": "7f968967-d774-4b3a-8477-129269da8d5d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T09:19:53.338714+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

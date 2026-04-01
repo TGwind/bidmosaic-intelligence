@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy's STRC keeps dividend payout steady at 11.5% after seven straight increases",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/01/strc-keeps-dividend-payout-steady-at-11-5-after-seven-straight-increases",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T08:19:21+00:00",
+  "id": "6133ef2e-e03f-4a8d-a2d1-853dd87fb435",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T09:19:53.325915+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
