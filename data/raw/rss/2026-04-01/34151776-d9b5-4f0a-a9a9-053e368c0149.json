@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Smart money is hedging bitcoin more aggressively than ether :Crypto Daybook Americas",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/daybook-us/2026/04/01/smart-money-is-hedging-bitcoin-more-aggressively-than-ether-crypto-daybook-americas",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T11:15:00+00:00",
+  "id": "34151776-d9b5-4f0a-a9a9-053e368c0149",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

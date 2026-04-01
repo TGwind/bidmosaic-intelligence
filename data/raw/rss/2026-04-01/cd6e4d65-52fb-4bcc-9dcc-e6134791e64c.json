@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CoinShares stock makes US debut on Nasdaq following SPAC merger",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CoinShares stock makes US debut on Nasdaq following SPAC merger\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ0ZDEtYzljNS03ZjE1LTk3MDAtOTY5ZDhlN2EwZDhkLmpwZw==.jpg\" /></p><p>Shares of the European crypto asset manager are set to start trading today, marking a venue shift as digital asset companies navigate a weaker market backdrop.</p>",
+  "source_url": "https://cointelegraph.com/news/coinshares-nasdaq-debut-spac-vine-hill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T11:00:00+00:00",
+  "id": "cd6e4d65-52fb-4bcc-9dcc-e6134791e64c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

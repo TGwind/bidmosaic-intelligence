@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Fed’s Barr backs stablecoin clarity but warns of run risks",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Fed’s Barr backs stablecoin clarity but warns of run risks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmM4MzktMzdkZS03YzNmLWI2MjYtN2U1MTUxYzFlN2E3LmpwZw==.jpg\" /></p><p>US Fed Governor Michael Barr said clearer US rules could help the market grow, but warned that GENIUS Act implementation must still guard against runs, weak reserves and illicit finance.</p>",
+  "source_url": "https://cointelegraph.com/news/fed-barr-calls-for-balanced-stablecoin-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T09:52:13+00:00",
+  "id": "f99e6bdc-4f68-4f35-bae9-b76e74434c57",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

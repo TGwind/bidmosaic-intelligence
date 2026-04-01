@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Podcast: Inside the AI Slop Propaganda Wars",
+  "raw_content": "Iran's AI and LEGO-focused propaganda; drama in the world of baseball; and perhaps one of the worst sex apps ever.",
+  "source_url": "https://www.404media.co/podcast-inside-the-ai-slop-propaganda-wars/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-01T13:07:19+00:00",
+  "id": "32daadab-1890-427d-83c5-1516e281062c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
