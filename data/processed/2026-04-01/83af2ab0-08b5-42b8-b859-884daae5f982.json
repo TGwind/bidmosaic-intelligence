@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "有梦想就去追 因为勇敢 我的人生更精彩！ 2006年湖南卫视《晚间新闻》 采访怀化麻阳小伙张雪 完整版",
+  "raw_content": "有梦想就去追 因为勇敢 我的人生更精彩！ 2006年湖南卫视《晚间新闻》 采访怀化麻阳小伙张雪 完整版",
+  "source_url": "https://www.bilibili.com/video/BV1CNXeBaEe8",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T02:42:25.843283+00:00",
+  "id": "83af2ab0-08b5-42b8-b859-884daae5f982",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T02:43:01.059232+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1400577,
+    "platform": "bilibili"
+  }
+}

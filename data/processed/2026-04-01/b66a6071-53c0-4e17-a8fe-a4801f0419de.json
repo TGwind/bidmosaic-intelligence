@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "你们要的《爱情公寓》！！！终于来了！",
+  "raw_content": "设计原型：《爱情公寓》拍摄场景 长宽高尺寸：67cmx80cmx19cm 重量8.5kg 零件数量：6256 pcs 图案打印：安克eufyMake E1 UV打印机 设计软件：乐高LDD",
+  "source_url": "https://www.bilibili.com/video/BV1qaXhBjE5d",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T02:42:25.843267+00:00",
+  "id": "b66a6071-53c0-4e17-a8fe-a4801f0419de",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T02:43:01.056841+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1748829,
+    "platform": "bilibili"
+  }
+}

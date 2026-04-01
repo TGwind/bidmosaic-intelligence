@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "“4月1号才是情人节，2月14号才是愚人节”",
+  "raw_content": "喜欢记得一键三连+关注~（加入特别关注第一时间收到更新） 音乐：「Mr. \"Broken Heart\" (Instrumental)- 松下優也」 「Mr. \"Broken Heart\" - 松下優也」 无损音频@只剪亿点点 素材详细看置顶热评↓↓↓",
+  "source_url": "https://www.bilibili.com/video/BV1PdXQBHEv9",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T02:42:25.843308+00:00",
+  "id": "2eac6b09-9170-4c9f-86f2-391c45a92f09",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T02:43:01.050417+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1361110,
+    "platform": "bilibili"
+  }
+}
