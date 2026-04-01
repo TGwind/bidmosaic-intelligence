@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "GEN先锋赛单曲《爆笑》",
+  "raw_content": "原曲：《咆哮》\n原唱：EXO\n混音：益辉\n填词/翻唱/和声/视频：蔚蓝边际",
+  "source_url": "https://www.bilibili.com/video/BV1RvX9BkErm",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T13:25:10.039103+00:00",
+  "id": "a9789b95-d0a1-4796-abb7-8c97560a3128",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1792469,
+    "platform": "bilibili"
+  }
+}
