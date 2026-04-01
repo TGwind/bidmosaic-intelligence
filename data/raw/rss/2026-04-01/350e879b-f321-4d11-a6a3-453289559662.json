@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Known Intents, New Combinations: Clause-Factorized Decoding for Compositional Multi-Intent Detection",
+  "raw_content": "arXiv:2603.28929v1 Announce Type: new \nAbstract: Multi-intent detection papers usually ask whether a model can recover multiple intents from one utterance. We ask a harder and, for deployment, more useful question: can it recover new combinations of familiar intents? Existing benchmarks only weakly test this, because train and test often share the same broad co-occurrence patterns. We introduce CoMIX-Shift, a controlled benchmark built to stress compositional generalization in multi-intent detection through held-out intent pairs, discourse-pattern shift, longer and noisier wrappers, held-out clause templates, and zero-shot triples. We also present ClauseCompose, a lightweight decoder trained only on singleton intents, and compare it to whole-utterance baselines including a fine-tuned tiny BERT model. Across three random seeds, ClauseCompose reaches 95.7 exact match on unseen intent pairs, 93.9 on discourse-shifted pairs, 62.5 on longer/noisier pairs, 49.8 on held-out templates, and 91.1 on unseen triples. WholeMultiLabel reaches 81.4, 55.7, 18.8, 15.5, and 0.0; the BERT baseline reaches 91.5, 77.6, 48.9, 11.0, and 0.0. We also add a 240-example manually authored SNIPS-style compositional set with five held-out pairs; there, ClauseCompose reaches 97.5 exact match on unseen pairs and 86.7 under connector shift, compared with 41.3 and 10.4 for WholeMultiLabel. The results suggest that multi-intent detection needs more compositional evaluation, and that simple factorization goes surprisingly far once evaluation asks for it.",
+  "source_url": "https://arxiv.org/abs/2603.28929",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-01T04:00:00+00:00",
+  "id": "350e879b-f321-4d11-a6a3-453289559662",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
