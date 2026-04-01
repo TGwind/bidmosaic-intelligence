@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "These catalysts could bump bitcoin as Trump hands three-week target to end Iran war",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/01/these-catalysts-could-bump-bitcoin-as-trump-hands-three-week-target-to-end-iran-war",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T05:19:11+00:00",
+  "id": "c7c02865-1193-404f-8034-ec9b0e0b9ba0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T06:02:41.322568+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

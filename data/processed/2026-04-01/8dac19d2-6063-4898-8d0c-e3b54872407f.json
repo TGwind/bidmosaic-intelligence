@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP holds $1.34 as supply tightens but price fails to break higher",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/01/xrp-holds-usd1-34-as-supply-tightens-but-price-fails-to-break-higher",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T04:59:52+00:00",
+  "id": "8dac19d2-6063-4898-8d0c-e3b54872407f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T06:02:41.305908+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

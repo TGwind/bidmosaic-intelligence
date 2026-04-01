@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "New Hampshire’s Bitcoin-backed bond gets Moody's rating",
+  "raw_content": "Moody's assigned a provisional Ba2 rating to New Hampshire’s bond project, placing it below investment grade, as it cited Bitcoin’s volatility.",
+  "source_url": "https://cointelegraph.com/news/new-hampshire-s-bitcoin-backed-municipal-bond-edges-closer-to-launch-after-moodys-rating?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T04:52:20+00:00",
+  "id": "869d3c86-c36e-4781-a734-9ca68fea5ae1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T06:02:41.298110+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
