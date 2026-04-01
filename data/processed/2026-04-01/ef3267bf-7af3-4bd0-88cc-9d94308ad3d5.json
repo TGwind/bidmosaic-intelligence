@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "不同人类打喷嚏🗣︎Remix",
-  "raw_content": "额~~亚雷亚雷鸭啊啊啊啊~~~ 做完后整个人力竭了 bgm：'BRASILIA' UK Drill Type Beat",
-  "source_url": "https://www.bilibili.com/video/BV1jyX5BPE4v",
+  "raw_title": "【忘崽有内涵】最新视频来袭，快来看看吧！",
+  "raw_content": "天若收我拦不住.天不收我我谢天！",
+  "source_url": "https://www.bilibili.com/video/BV1NiXaBYE8E",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-01T07:22:47.953415+00:00",
-  "id": "8aee899e-15fd-47d5-8f16-764c01ebc41e",
+  "collected_at": "2026-04-01T13:25:10.039095+00:00",
+  "id": "ef3267bf-7af3-4bd0-88cc-9d94308ad3d5",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-01T13:25:48.600784+00:00",
+  "processed_at": "2026-04-01T13:25:48.604746+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3958204,
+    "hot_score": 2556139,
     "platform": "bilibili"
   }
 }

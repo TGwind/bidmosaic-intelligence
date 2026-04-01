@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "不同人类打喷嚏🗣︎Remix",
-  "raw_content": "额~~亚雷亚雷鸭啊啊啊啊~~~ 做完后整个人力竭了 bgm：'BRASILIA' UK Drill Type Beat",
-  "source_url": "https://www.bilibili.com/video/BV1jyX5BPE4v",
+  "raw_title": "特朗普总能整出新花样",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV15ZXaBEEuy",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-01T07:22:47.953415+00:00",
-  "id": "8aee899e-15fd-47d5-8f16-764c01ebc41e",
+  "collected_at": "2026-04-01T13:25:10.039111+00:00",
+  "id": "30932f23-b01f-4c35-b73f-82e95906373f",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-01T13:25:48.600784+00:00",
+  "processed_at": "2026-04-01T13:25:48.587189+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3958204,
+    "hot_score": 2202241,
     "platform": "bilibili"
   }
 }

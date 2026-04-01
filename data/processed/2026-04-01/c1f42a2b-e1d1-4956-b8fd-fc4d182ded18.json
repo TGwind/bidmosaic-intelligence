@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "为正能量搭台 让好内容更“出圈”",
-  "raw_content": "为正能量搭台 让好内容更“出圈”",
-  "source_url": "https://www.toutiao.com/article/7623375063730930203",
+  "raw_title": "未来产业会解锁哪些新职业",
+  "raw_content": "未来产业会解锁哪些新职业",
+  "source_url": "https://www.toutiao.com/article/7623600096622412329",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-01T07:22:47.229523+00:00",
-  "id": "fb660806-3d0f-4225-b81d-e7c4effd3b69",
+  "collected_at": "2026-04-01T13:25:09.106175+00:00",
+  "id": "c1f42a2b-e1d1-4956-b8fd-fc4d182ded18",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-01T13:25:48.606521+00:00",
+  "processed_at": "2026-04-01T13:25:48.604422+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "34305252",
+    "hot_score": "26710682",
     "platform": "toutiao"
   }
 }

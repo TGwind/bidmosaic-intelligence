@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "熟食店老板娘展示中华武术",
+  "raw_content": "熟食店老板娘展示中华武术",
+  "source_url": "https://www.toutiao.com/trending/7623394246044925961/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623394246044925961%22%2C%22hot_board_impr_id%22%3A%22202604012125084FEE6503B4AB4C44FB75%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%86%9F%E9%A3%9F%E5%BA%97%E8%80%81%E6%9D%BF%E5%A8%98%E5%B1%95%E7%A4%BA%E4%B8%AD%E5%8D%8E%E6%AD%A6%E6%9C%AF%22%7D&rank=&style_id=40132&topic_id=7623394246044925961",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T13:25:09.106227+00:00",
+  "id": "d3e5c94f-72e0-49af-bb22-23e116a1b227",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T13:25:48.605732+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14659133",
+    "platform": "toutiao"
+  }
+}

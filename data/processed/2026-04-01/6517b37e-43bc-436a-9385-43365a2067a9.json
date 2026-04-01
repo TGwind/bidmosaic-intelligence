@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "英国冻结一中国人涉及7.38亿元房产",
+  "raw_content": "英国冻结一中国人涉及7.38亿元房产",
+  "source_url": "https://www.toutiao.com/trending/7623653683580207131/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623653683580207131%22%2C%22hot_board_impr_id%22%3A%22202604012125084FEE6503B4AB4C44FB75%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8B%B1%E5%9B%BD%E5%86%BB%E7%BB%93%E4%B8%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B6%89%E5%8F%8A7.38%E4%BA%BF%E5%85%83%E6%88%BF%E4%BA%A7%22%7D&rank=&style_id=40132&topic_id=7623653683580207131",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T13:25:09.106130+00:00",
+  "id": "6517b37e-43bc-436a-9385-43365a2067a9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T13:25:48.605093+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "32624501",
+    "platform": "toutiao"
+  }
+}
