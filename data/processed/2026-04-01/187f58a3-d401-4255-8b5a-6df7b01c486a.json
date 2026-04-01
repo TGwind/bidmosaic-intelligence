@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "雷军投的“中年人泡泡玛特”上市了",
+  "raw_content": "雷军投的“中年人泡泡玛特”上市了",
+  "source_url": "https://www.toutiao.com/trending/7623658574400458267/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623658574400458267%22%2C%22hot_board_impr_id%22%3A%222026040203035984AEDCDEC6A20EB4C6E9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9B%B7%E5%86%9B%E6%8A%95%E7%9A%84%E2%80%9C%E4%B8%AD%E5%B9%B4%E4%BA%BA%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E2%80%9D%E4%B8%8A%E5%B8%82%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7623658574400458267",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-01T19:03:59.942095+00:00",
+  "id": "187f58a3-d401-4255-8b5a-6df7b01c486a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T19:04:36.517281+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18101529",
+    "platform": "toutiao"
+  }
+}

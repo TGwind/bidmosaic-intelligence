@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "剧院演奏尖叫鸡版《波西米亚狂想曲》",
-  "raw_content": "在圣保罗的剧院里，我给观众现场表演了尖叫鸡演奏皇后乐队的经典曲目《波西米亚狂想曲》",
-  "source_url": "https://www.bilibili.com/video/BV1bGXyBqErH",
+  "raw_title": "特朗普总能整出新花样",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV15ZXaBEEuy",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-01T02:42:25.843291+00:00",
-  "id": "4c27c813-1da5-4ed8-8431-1d73cb260e8f",
+  "collected_at": "2026-04-01T19:04:00.733082+00:00",
+  "id": "0374aa1f-5fa4-42f8-80f0-4792b4078638",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-01T19:04:36.523998+00:00",
+  "processed_at": "2026-04-01T19:04:36.511738+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3385752,
+    "hot_score": 2366101,
     "platform": "bilibili"
   }
 }
