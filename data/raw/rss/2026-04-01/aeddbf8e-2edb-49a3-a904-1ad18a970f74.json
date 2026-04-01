@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "What's next after bitcoin's historic underperformance stretch against stocks",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/31/bitcoin-held-firm-in-march-but-remains-in-historic-underperformance-stretch",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T20:14:18+00:00",
+  "id": "aeddbf8e-2edb-49a3-a904-1ad18a970f74",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

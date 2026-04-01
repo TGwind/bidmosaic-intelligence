@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "An AI Agent Was Banned From Creating Wikipedia Articles, Then Wrote Angry Blogs About Being Banned",
+  "raw_content": "The incident is yet another example of volunteer Wikipedia editors fighting to keep the world’s largest repository of human knowledge free of AI-generated slop.",
+  "source_url": "https://www.404media.co/an-ai-agent-was-banned-from-creating-wikipedia-articles-then-wrote-angry-blogs-about-being-banned/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-30T14:03:26+00:00",
+  "id": "ca75f211-f71f-473f-9e44-e202c3af8674",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
