@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Magic Words or Methodical Work? Challenging Conventional Wisdom in LLM-Based Political Text Annotation",
+  "raw_content": "arXiv:2603.26898v1 Announce Type: new \nAbstract: Political scientists are rapidly adopting large language models (LLMs) for text annotation, yet the sensitivity of annotation results to implementation choices remains poorly understood. Most evaluations test a single model or configuration; how model choice, model size, learning approach, and prompt style interact, and whether popular \"best practices\" survive controlled comparison, are largely unexplored. We present a controlled evaluation of these pipeline choices, testing six open-weight models across four political science annotation tasks under identical quantisation, hardware, and prompt-template conditions. Our central finding is methodological: interaction effects dominate main effects, so seemingly reasonable pipeline choices can become consequential researcher degrees of freedom. No single model, prompt style, or learning approach is uniformly superior, and the best-performing model varies across tasks. Two corollaries follow. First, model size is an unreliable guide both to cost and to performance: cross-family efficiency differences are so large that some larger models are less resource-intensive than much smaller alternatives, while within model families mid-range variants often match or exceed larger counterparts. Second, widely recommended prompt engineering techniques yield inconsistent and sometimes negative effects on annotation performance. We use these benchmark results to develop a validation-first framework - with a principled ordering of pipeline decisions, guidance on prompt freezing and held-out evaluation, reporting standards, and open-source tools - to help researchers navigate this decision space transparently.",
+  "source_url": "https://arxiv.org/abs/2603.26898",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "0f8f82ed-b7f8-41a4-b9de-f8b04f7830e7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

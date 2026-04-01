@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitfarms loss widens to $285M as Bitcoin fell, but shares jump anyway",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitfarms loss widens to $285M as Bitcoin fell, but shares jump anyway\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5ZDQ2MDYtNGZjMy03YWViLWExY2UtY2RhMzlmMWEwODYyLmpwZw==.jpg\" /></p><p>Bitfarms said it was impacted by a decline in Bitcoin prices last year. The company is now five months into its pivot from Bitcoin mining to HPC and AI.</p>",
+  "source_url": "https://cointelegraph.com/news/bitfarms-shares-rise-despite-285-million-net-loss-amid-ai-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T01:30:48+00:00",
+  "id": "9fffdcfb-5ef4-4c3c-a47d-d2ba96be1525",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

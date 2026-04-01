@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Do Multilingual VLMs Reason Equally? A Cross-Lingual Visual Reasoning Audit for Indian Languages",
+  "raw_content": "arXiv:2603.26742v1 Announce Type: new \nAbstract: Vision-language models score well on mathematical, scientific, and spatial reasoning benchmarks, yet these evaluations are overwhelmingly English. I present the first cross-lingual visual reasoning audit for Indian languages. 980 questions from MathVista, ScienceQA, and MMMU are translated into Hindi, Tamil, Telugu, Bengali, Kannada, and Marathi using IndicTrans2, with Gemini 2.0 Flash cross-verification on 50 samples per language (inter-translator agreement 0.79-0.84). Eight VLMs, from 7B open-source models to GPT-4o, are evaluated across all seven languages, yielding 68,600 inference records that include text-only and chain-of-thought ablations. I find accuracy drops of 9.8-25 percentage points when switching from English to an Indian language, with Dravidian languages suffering up to 13.2 pp more than Indo-Aryan. Chain-of-thought prompting degrades Bengali (-14.4 pp) and Kannada (-11.4 pp) rather than helping, exposing English-centric reasoning chains. Aya-Vision-8B, built for 23 languages, still drops 28.5 pp on Dravidian scripts; multilingual pretraining alone does not transfer visual reasoning. I release the translated benchmark and all model outputs.",
+  "source_url": "https://arxiv.org/abs/2603.26742",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T04:00:00+00:00",
+  "id": "73d47dec-c7cc-4650-8e6e-42a956dcaf1c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

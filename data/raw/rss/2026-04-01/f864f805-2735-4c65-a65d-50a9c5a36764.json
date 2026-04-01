@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Why 12 European banks are teaming up to save the euro from digital dollarization",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/03/31/europe-faces-digital-dollarization-without-a-euro-stablecoin-of-its-own-warns-qivalis-ceo",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-03-31T15:50:38+00:00",
+  "id": "f864f805-2735-4c65-a65d-50a9c5a36764",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
