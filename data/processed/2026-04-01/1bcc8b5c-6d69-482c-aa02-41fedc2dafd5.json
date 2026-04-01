@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Franklin Templeton launches crypto division with 250 Digital acquisition",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/01/franklin-templeton-launches-crypto-division-with-250-digital-acquisition",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T13:47:35+00:00",
+  "id": "1bcc8b5c-6d69-482c-aa02-41fedc2dafd5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T13:56:34.683971+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

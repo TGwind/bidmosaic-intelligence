@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Australia passes digital asset bill bringing crypto platforms under licensing",
+  "raw_content": "Australia passes a law requiring crypto exchanges and custodians to obtain financial services licenses as the country moves to regulate digital asset platforms.",
+  "source_url": "https://cointelegraph.com/news/australia-pass-bill-mandate-crypto-exchange-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T10:58:46+00:00",
+  "id": "ad4c5653-5976-4bd3-b06d-d3bd20cde474",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T13:56:34.789274+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

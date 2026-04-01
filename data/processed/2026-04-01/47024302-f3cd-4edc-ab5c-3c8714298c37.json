@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Lucid Motors recalls over 4,000 Gravity SUVs citing improperly welded seat belts",
+  "raw_content": "The company struggled with quality issues when Gravity production started last year, and the new recall shows it's not out of the woods yet.",
+  "source_url": "https://techcrunch.com/2026/04/01/lucid-motors-recalls-over-4000-gravity-suvs-citing-improperly-welded-seat-belts/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-01T13:40:23+00:00",
+  "id": "47024302-f3cd-4edc-ab5c-3c8714298c37",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T13:56:34.740816+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

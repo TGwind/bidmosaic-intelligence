@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Future of AI is Many, Not One",
+  "raw_content": "arXiv:2603.29075v1 Announce Type: new Abstract: The way we're thinking about generative AI right now is fundamentally individual. We see this not just in how users interact with models but also in how models are built, how they're benchmarked, and how commercial and research strategies using AI are defined. We argue that we should abandon this approach if we're hoping for AI to support groundbreaking innovation and scientific discovery. Drawing on research and formal results in complex systems, organizational behavior, and philosophy of science, we show why we should expect deep intellectual breakthroughs to come from epistemically diverse groups of AI agents working together rather than singular superintelligent agents. Having a diverse team broadens the search for solutions, delays premature consensus, and allows for the pursuit of unconventional approaches. Developing diverse AI teams also addresses AI critics' concerns that current models are constrained by past data and lack the creative insight required for innovation. The upshot, we argue, is that the future of transformative transformer-based AI is fundamentally many, not one.",
+  "source_url": "https://arxiv.org/abs/2603.29075",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-01T04:00:00+00:00",
+  "id": "33a12830-68e2-4b76-9c73-2b182ced7655",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T13:56:34.719277+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

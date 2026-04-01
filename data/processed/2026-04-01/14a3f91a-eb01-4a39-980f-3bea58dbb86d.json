@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Grayscale’s research head says tokenization will happen in waves and explains how to play it",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/01/grayscale-s-research-head-says-tokenization-will-happen-in-waves-and-explains-how-to-play-it",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T11:47:07+00:00",
+  "id": "14a3f91a-eb01-4a39-980f-3bea58dbb86d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T13:56:34.674600+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

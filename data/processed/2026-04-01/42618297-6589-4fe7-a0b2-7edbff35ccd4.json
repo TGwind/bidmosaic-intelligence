@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日法将就稀土联合采购达成协议",
+  "raw_content": "2026/04/01 日法两国政府将4月1日的首脑会谈中，将就制定有关重要矿产采购的路线图达成一致。为确保稀土等，将共同致力于采购来源的多元化。还将促进两国企业在太空领域的合作。 在日本首相高市早苗与法国总统马克龙将发表的联合声明中，考虑到中国，将纳入“对重要矿产的出口管制可能会产生重大负面影响”这一担忧。 作为官民合作项目，日法两国政府正在法国西南部建设稀土精炼工厂，力争2026年底投产。将生产用于纯电动汽车（EV）马达等的重稀土。 双方将确认通过上述合作项目建立不依赖中国稀土的供应链的方针。 在太空领域，两国企业将签署清除太空垃圾、发射火箭等合作项目的备忘录（MOU）。政府和民间将携手促进对太空领域的投资，以提高国际竞争力。 合作项目包括(1)清除太空垃圾(2)火箭发射(3)卫星数据合作(4)通信(5)太空实证实验等5类共12项。 日本政府的准备资料显示，日本的太空初创公司等将参加。将确认IHI旗下IHI太空公司(IHI Aerospace)与法国企业联合开展太空安全监测的项目、以及测量服务巨头PASCO与欧洲空中客车在卫星数据方面的合作等。 此外，日本宇宙航空研究开发机构(JAXA)和法国国家空间研究中心（CNES）将为企业的太空技术开发提供资金支持。 关于日法企业的联合开发，JAXA和CNES将分别优先向日本企业和法国企业提供资金支援。将就有前途的项目交换信息，进行有效支援。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/61996-2026-04-01-09-53-16.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-01T02:38:26+00:00",
+  "id": "42618297-6589-4fe7-a0b2-7edbff35ccd4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T13:56:34.735629+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

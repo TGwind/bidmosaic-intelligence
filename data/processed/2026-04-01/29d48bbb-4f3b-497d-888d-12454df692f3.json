@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Gen Z turns Bitcoin into a solid portfolio diversifier",
+  "raw_content": "Gen Z embraces Bitcoin despite acknowledged volatility. Younger investors treat crypto risk as portfolio diversification rather than pure speculation.",
+  "source_url": "https://cointelegraph.com/news/gen-z-bitcoin-portfolio-diversifier?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T12:30:00+00:00",
+  "id": "29d48bbb-4f3b-497d-888d-12454df692f3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-01T13:56:34.705107+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
