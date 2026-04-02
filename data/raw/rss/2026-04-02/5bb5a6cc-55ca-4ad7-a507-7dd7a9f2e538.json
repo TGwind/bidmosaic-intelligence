@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin hits weekly low on oil fears as analyst teases $10K BTC price target",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin hits weekly low on oil fears as analyst teases $10K BTC price target\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhmMmItODg3Yy03NjBkLTk3OTUtMTRhMzEwYThjZDM1LmpwZw==.jpg\" /></p><p>Analysis warned that Bitcoin risked falling to $10,000 in the long term as BTC price action fell with US stocks thanks to oil-supply concerns.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-weekly-low-oil-fears-analyst-teases-10k-btc-price-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T14:40:19+00:00",
+  "id": "5bb5a6cc-55ca-4ad7-a507-7dd7a9f2e538",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
