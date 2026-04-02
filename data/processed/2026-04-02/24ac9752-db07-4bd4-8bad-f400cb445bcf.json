@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Details matter – how loan pricing affects monetary policy transmission in the euro area",
+  "raw_content": "We present novel empirical evidence on lending practices across all euro area countries, using AnaCredit data covering nearly seven million new loans issued to non-financial corporations in 2022-23. We document substantial variation in (a) the prevalence of fixed versus floating-rate loans, (b) rate fixation periods, and (c) reference rates. This variation results in lending rates being exposed to different segments of the risk-free rate yield curve which, in turn, influences their sensitivity to monetary policy changes. We show that loans priced using shorter-term relevant risk-free rates experience more pronounced monetary pass-through. Importantly, this effect is not purely mechanical, as part of the effect is offset by adjustments in the premium, revealing previously less explored heterogeneity in the pass-through to lending rates.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb251009~423b3ea674.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-10-09T06:00:00+00:00",
+  "id": "24ac9752-db07-4bd4-8bad-f400cb445bcf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T09:12:01.936749+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

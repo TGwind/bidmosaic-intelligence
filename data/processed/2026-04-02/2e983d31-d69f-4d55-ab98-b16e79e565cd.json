@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Soledad Núñez: Sustainability, competitiveness and geopolitics - new dimensions shaping the prudential framework",
+  "raw_content": "Speech by Ms Soledad Núñez, Deputy Governor of the Bank of Spain, at the Annual Assembly of FINRESP (el Centro de Finanzas Sostenibles y Responsables de España), Madrid, 2 March 2026.",
+  "source_url": "https://www.bis.org/review/r260326b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-02T09:09:17.413793+00:00",
+  "id": "2e983d31-d69f-4d55-ab98-b16e79e565cd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T09:12:01.949551+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
