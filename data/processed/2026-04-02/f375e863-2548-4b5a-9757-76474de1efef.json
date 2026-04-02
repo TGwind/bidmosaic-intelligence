@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "有线耳机被淘汰10年翻红 销量暴涨",
+  "raw_content": "有线耳机被淘汰10年翻红 销量暴涨",
+  "source_url": "https://www.toutiao.com/trending/7622897692520726582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227622897692520726582%22%2C%22hot_board_impr_id%22%3A%2220260403025832BE31C9BDB0B45EEBD312%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E8%A2%AB%E6%B7%98%E6%B1%B010%E5%B9%B4%E7%BF%BB%E7%BA%A2+%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8%22%7D&rank=&style_id=40132&topic_id=7622897692520726582",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-02T18:58:32.643115+00:00",
+  "id": "f375e863-2548-4b5a-9757-76474de1efef",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T18:59:08.272367+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "41917305",
+    "platform": "toutiao"
+  }
+}

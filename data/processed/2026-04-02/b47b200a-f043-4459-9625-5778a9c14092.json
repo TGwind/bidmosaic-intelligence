@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "已完结【一口气看完】《诡界—槐荫中学》合集",
+  "raw_content": "已完结【一口气看完】《诡界—槐荫中学》合集",
+  "source_url": "https://www.bilibili.com/video/BV1fjezzCEpT",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-02T18:58:33.292227+00:00",
+  "id": "b47b200a-f043-4459-9625-5778a9c14092",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T18:59:08.267861+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2236307,
+    "platform": "bilibili"
+  }
+}

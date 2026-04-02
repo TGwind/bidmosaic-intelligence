@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "特朗普总能整出新花样",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV15ZXaBEEuy",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-02T18:58:33.292212+00:00",
+  "id": "f6becb0e-b0d7-4b12-8d23-55cb2a924162",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T18:59:08.274886+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2757232,
+    "platform": "bilibili"
+  }
+}
