@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US Treasury seeks public input for state-level stablecoin regulations",
+  "raw_content": "The Treasury published its notice of proposed rulemaking as the market capitalization of dollar-pegged stablecoins neared $300 billion.",
+  "source_url": "https://cointelegraph.com/news/us-treasury-state-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T21:31:34+00:00",
+  "id": "011bc49d-44b2-41bc-82a9-5fcdc4097844",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T02:56:06.357063+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Cango raises capital as it faces NYSE delisting risk with shares below $1",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/01/cango-raises-capital-as-it-faces-nyse-delisting-risk-with-shares-below-usd1",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-01T15:42:19+00:00",
+  "id": "393f3dcf-fe71-4197-8d1f-b9e2a3d2fdb4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T02:56:06.398922+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
