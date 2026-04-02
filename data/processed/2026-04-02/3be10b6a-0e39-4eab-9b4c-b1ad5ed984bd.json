@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普称对伊朗压倒性胜利，攻击将持续2至3周",
+  "raw_content": "2026/04/02 美国总统特朗普4月1日下午（日本时间2日上午）就对伊朗的军事行动向美国民众发表讲话，强调“美军取得了压倒性的胜利”。他提到“今后2至3周”的期限，并表示将同时推进军事行动与停火谈判。 特朗普在演讲中表示，美国的军事行动将“使伊朗军队陷入瘫痪，摧毁其支持恐怖势力的能力，并剥夺其制造核弹的能力”。他还强调，“我很高兴看到核心战略目标几乎已经完成”。 他表示：“我们打算把这项工作完成，而且会非常迅速地完成”。对于伊朗事实上封锁的霍尔木兹海峡，他称“困难的部分已经结束，因此接下来应该很容易。一旦冲突结束，海峡自然就会重新开放”。 白宫在预告此次演讲的声明中称，军事行动“已经取得成功”。据路透社报道，特朗普还将在演讲中再次说明将在“2至3周内”结束战斗的时间表。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62014-2026-04-02-10-39-48.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-02T03:08:02+00:00",
+  "id": "3be10b6a-0e39-4eab-9b4c-b1ad5ed984bd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T13:46:47.888658+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

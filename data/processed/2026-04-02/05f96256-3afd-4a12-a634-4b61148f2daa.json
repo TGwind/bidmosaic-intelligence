@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Europe's first blockchain IPO is here: France’s new exchange is taking aerospace firm public onchain",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/02/france-s-new-stock-exchange-is-taking-an-aerospace-giant-public-onchain",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T11:45:45+00:00",
+  "id": "05f96256-3afd-4a12-a634-4b61148f2daa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T13:46:47.802335+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

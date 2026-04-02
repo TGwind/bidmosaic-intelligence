@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Drift explains $280M exploit as critics question Circle over USDC freeze",
+  "raw_content": "Drift said a durable nonce attack helped drive its Solana exploit, as critics questioned why stolen USDC moved for hours without a freeze.",
+  "source_url": "https://cointelegraph.com/news/drift-280-million-hack-questions-circle-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T10:13:27+00:00",
+  "id": "b94385c3-8019-4b1c-b19a-ba33492f5de9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T13:46:47.961601+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

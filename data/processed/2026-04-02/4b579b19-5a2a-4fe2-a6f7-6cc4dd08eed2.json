@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Liquidity, not novelty, determines tokenization’s value",
+  "raw_content": "High-demand assets enable continuous settlement, collateralization, and network effects. Programmability on dollars and bonds compresses financial frictions where trillions already flow.",
+  "source_url": "https://cointelegraph.com/news/liquidity-determines-tokenization-value?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T12:30:00+00:00",
+  "id": "4b579b19-5a2a-4fe2-a6f7-6cc4dd08eed2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T13:46:47.906419+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

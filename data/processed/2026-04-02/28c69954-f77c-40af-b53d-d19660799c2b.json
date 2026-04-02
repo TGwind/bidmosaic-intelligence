@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LWiAI Podcast #235 - Sonnet 4.6, Deep-thinking tokens, Anthropic vs Pentagon",
+  "raw_content": "Anthropic releases Sonnet 4.6, Google Rolls Out Gemini 3.1 Pro, Anthropic CEO Amodei says Pentagon&#8217;s threats &#8216;do not change our position&#8217; on AI",
+  "source_url": "https://lastweekin.ai/p/lwiai-podcast-235-sonnet-46-deep",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-05T08:42:21+00:00",
+  "id": "28c69954-f77c-40af-b53d-d19660799c2b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T13:46:47.871000+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
