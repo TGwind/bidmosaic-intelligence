@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Decision-Centric Design for LLM Systems",
+  "raw_content": "arXiv:2604.00414v1 Announce Type: new \nAbstract: LLM systems must make control decisions in addition to generating outputs: whether to answer, clarify, retrieve, call tools, repair, or escalate. In many current architectures, these decisions remain implicit within generation, entangling assessment and action in a single model call and making failures hard to inspect, constrain, or repair. We propose a decision-centric framework that separates decision-relevant signals from the policy that maps them to actions, turning control into an explicit and inspectable layer of the system. This separation supports attribution of failures to signal estimation, decision policy, or execution, and enables modular improvement of each component. It unifies familiar single-step settings such as routing and adaptive inference, and extends naturally to sequential settings in which actions alter the information available before acting. Across three controlled experiments, the framework reduces futile actions, improves task success, and reveals interpretable failure modes. More broadly, it offers a general architectural principle for building more reliable, controllable, and diagnosable LLM systems.",
+  "source_url": "https://arxiv.org/abs/2604.00414",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-02T04:00:00+00:00",
+  "id": "1dc2b14d-eadb-4d95-bd5f-da37401c38ff",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

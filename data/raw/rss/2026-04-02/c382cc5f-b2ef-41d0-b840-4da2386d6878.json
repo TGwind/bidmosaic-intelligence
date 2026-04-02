@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin holders face $600B in unrealized losses as BTC price slips to $66K",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holders face $600B in unrealized losses as BTC price slips to $66K\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Q4NDYtZTY5Zi03MjFlLWFiNWItYTk5NzljODhlOTljLmpwZw==.jpg\" /></p><p>About 44% of Bitcoin's circulating supply trades underwater at $66,000 with weak spot demand weighing on market sentiment.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-holders-face-600b-unrealized-losses-btc-price-66k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T15:47:44+00:00",
+  "id": "c382cc5f-b2ef-41d0-b840-4da2386d6878",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
