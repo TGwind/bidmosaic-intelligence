@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "未来产业会解锁哪些新职业",
-  "raw_content": "未来产业会解锁哪些新职业",
-  "source_url": "https://www.toutiao.com/article/7623600096622412329",
+  "raw_title": "加快打造智能经济新形态",
+  "raw_content": "加快打造智能经济新形态",
+  "source_url": "https://www.toutiao.com/article/7623926609040409131",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-02T02:27:42.650644+00:00",
-  "id": "40ddd1dc-19dc-4f07-bd00-02958d30dcfd",
+  "collected_at": "2026-04-02T07:15:04.798773+00:00",
+  "id": "891e4f2b-264e-4349-b481-36a7db843c48",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-02T07:15:40.727288+00:00",
+  "processed_at": "2026-04-02T07:15:40.736092+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "25044914",
+    "hot_score": "24994221",
     "platform": "toutiao"
   }
 }
