@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "你如何看待钓鱼佬炫耀大鱼",
+  "raw_content": "你如何看待钓鱼佬炫耀大鱼",
+  "source_url": "https://www.toutiao.com/trending/7623735700269039657/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623735700269039657%22%2C%22hot_board_impr_id%22%3A%222026040221164431F8B6826C64721D8875%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%A0%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%92%93%E9%B1%BC%E4%BD%AC%E7%82%AB%E8%80%80%E5%A4%A7%E9%B1%BC%22%7D&rank=&style_id=40132&topic_id=7623735700269039657",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-02T13:16:44.604117+00:00",
+  "id": "4d0b8814-9802-4a84-9ab3-af8f849cff32",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T13:17:28.275900+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13352174",
+    "platform": "toutiao"
+  }
+}
