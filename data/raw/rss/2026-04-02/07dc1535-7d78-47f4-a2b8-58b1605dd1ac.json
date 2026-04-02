@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Intuit's AI agents hit 85% repeat usage. The secret was keeping humans involved",
+  "raw_content": "<p>When Intuit shipped AI agents to 3 million customers, 85% came back. The reason, according to the company&#x27;s EVP and GM: combining AI with human expertise turned out to matter more than anyone expected — not less.</p><p>Marianna Tessel, the financial software company’s EVP and GM, calls this AI-HI combination a “massive ask” from its customers, noting that it provides another level of confidence and trust. </p><p>“One of the things we learned that has been fascinating is really the combination of human intelligence and artificial intelligence,” Tessel said in a new <a href=\"https://youtu.be/gIyfhKyIlFM?si=4yAwbt7GbNqJ5mmS\">VB Beyond the Pilot podcast</a>. “Sometimes it&#x27;s the combination of AI and HI that gives you better results.”</p><div></div><h2><b>Chatbots alone aren’t the answer </b></h2><p>Intuit — the parent company of QuickBooks, TurboTax, MailChimp and other widely-used financial products — was one of the first major enterprises to go all in on generative AI with its <a href=\"https://investors.intuit.com/news-events/press-releases/detail/1254/intuit-supercharges-genos-for-delivery-of-done-for-you-agentic-ai-experiences-to-~100-million-consumers-businesses\"><u>GenOS platform</u></a> last June (long before fears of the &quot;<a href=\"https://venturebeat.com/infrastructure/intuit-is-betting-its-40-years-of-small-business-data-can-outlast-the\"><u>SaaSpocalypse</u></a>&quot; had SaaS companies scrambling to rethink their strategies). </p><p>Quickly, though, the company recognized that chatbots alone weren’t the answer in enterprise environments, and pivoted to what it now calls <a href=\"https://investors.intuit.com/news-events/press-releases/detail/1277/intuit-unveils-revolutionary-system-of-intelligence-to-help-businesses-grow-in-the-ai-era\"><u>Intuit Intelligence</u></a>. The dashboard-like platform features specialized AI agents for sales, tax, payroll, accounting and project management that users can interact with using natural language to gain insights on their data, automate tasks, and generate reports. </p><p>Customers report invoices are being paid 90% in full and five days faster, and that manual work has been reduced by 30%. AI agents help close books, categorize transactions, run payroll, automate invoice reminders and surface discrepancies.</p><p>For instance, one Intuit customer uncovered fraud after interacting with AI agents and asking questions about amounts that didn’t add up. “In the beginning it was like, ‘Is that an error? And as he dug in, he discovered very significant fraud,” Tessel said. </p><h2><b>Why humans are still in the loop</b></h2><p>Still, Intuit operates on the principle that humans are “always accessible,” Tessel said. Platforms are built in a way that users can ask questions of a human expert when they’re not getting what they need from the AI agent, or want a human to bounce ideas off of. </p><p>“I&#x27;m not talking about product experts,” Tessel said. “I&#x27;m talking about an actual accounting expert or tax expert or payroll expert.”</p><p>The platform has also been built to suggest human involvement in “high stakes” decision-making scenarios. AI goes to a certain level, then human experts review and categorize the rest. This provides a level of confidence, according to Tessel. </p><p>“We actually believe it becomes more needed and more powerful at the right moments,” she said. “The expert still provides things that are unique.”</p><p>The next step is giving customers the tools to perform next-gen tasks like vibe coding — but with simple architectures to reduce the burden for customers. “What we’re testing is this idea of, you can actually do coding without realizing that that&#x27;s what you are doing,” Tessel said. </p><p>For example, a merchant running a flower shop wants to ensure that they have the right amount of inventory in stock for Mother’s Day. They can vibe code an agent that analyzes previous years’ sales and creates purchase orders where stock is low. That agent could then be instructed to automatically perform that task for future Mother’s Days and other big holidays. </p><p>Some users will be more sophisticated and want the ability to dive deeper into the technology. “But some just want to express what they want to have happen,” Tessel said. “Because all they want to do is run their business.” </p><p>Listen to the full podcast to hear about: </p><ul><li><p>Why first-party data can create a &quot;moat&quot; for SaaS companies.</p></li><li><p>Why showing AI&#x27;s logic matters more than a polished interface.</p></li><li><p>Why 600,000 data points per customer changes what AI can tell you about your business.</p></li></ul><p><b>You can also listen and subscribe to </b><a href=\"https://beyondthepilot.ubpages.com/\"><b>Beyond the Pilot</b></a><b> on </b><a href=\"https://open.spotify.com/show/4Zti73yb4hmiTNa7pEYls4\"><b>Spotify</b></a><b>, </b><a href=\"https://podcasts.apple.com/us/podcast/beyond-the-pilot-enterprise-ai-in-action/id1839285239\"><b>Apple</b></a><b> or wherever you get your podcasts.</b></p>",
+  "source_url": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-01T21:24:08+00:00",
+  "id": "07dc1535-7d78-47f4-a2b8-58b1605dd1ac",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

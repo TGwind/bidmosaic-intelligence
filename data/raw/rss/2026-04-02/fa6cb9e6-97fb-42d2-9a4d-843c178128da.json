@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Stephen I Miran: Prospects for shrinking the Federal Reserve Bank's balance sheet",
+  "raw_content": "Speech by Mr Stephen I Miran, Member of the Board of Governors of the Federal Reserve System, at the Economic Club of Miami, Miami, Florida, 26 March 2026.",
+  "source_url": "https://www.bis.org/review/r260331c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-02T02:54:32.355755+00:00",
+  "id": "fa6cb9e6-97fb-42d2-9a4d-843c178128da",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
