@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Helping disaster response teams turn AI into action across Asia",
+  "raw_content": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+  "source_url": "https://openai.com/index/helping-disaster-response-teams-asia",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-29T22:15:00+00:00",
+  "id": "b5811a3e-3fa6-4387-9dd3-5cd88feb100b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "伊朗外长称已准备6个月作战",
+  "raw_content": "<div>2026/04/02</div><div id=\"contentDiv\">\n<div></div>\n<div>      在与美国和以色列发生军事冲突之际，伊朗展现出不惜打长期战的姿态。伊朗外长阿巴斯·阿拉格齐3月31日在接受中东卫星电视台半岛电视台采访时表示，伊朗至少已准备好进行6个月的战斗。</div>\n<div> </div>\n<div>      美国总统特朗普则表示，军事行动可能在未来2至3周内结束。阿拉格齐的表态与被认为正在寻求尽早结束战事的美国方面立场相对立。</div>\n<div> </div>\n<div>      阿拉格齐称，美国为推动停火谈判向伊朗提出的15项条件，“伊朗尚未作出任何回应”。至于外界称伊朗向美国提出的5项要求，他仅表示“那只是媒体的猜测”。</div>\n<div> </div>\n<div>      特朗普将于日本时间4月2日10时向美国民众发表演讲。在此之前，他在社交媒体上发文称伊朗方面已经提出停火请求。</div>\n<div>  </div>\n<div>      不过，伊朗外交部发言人1日表示，特朗普称伊朗要求停火的说法“是错误的，毫无根据”。伊朗媒体对此进行了报道。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62004-2026-04-02-08-41-13.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-02T01:08:03+00:00",
+  "id": "5a9456a1-6636-4a57-82ba-6845b0b2fb5f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
