@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《明日方舟》SideStory「人们，我们」活动宣传PV",
+  "raw_content": "《明日方舟》SideStory「人们，我们」活动即将开启\n\n举起你的拳头，\n点燃这个时代！\n\n————————————\n更多活动详情内容详见官网、游戏内相关公告。",
+  "source_url": "https://www.bilibili.com/video/BV1CR9WB3EFH",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-02T18:58:33.292237+00:00",
+  "id": "8f31df00-b12f-45f5-8ca5-7f59f5b3c148",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1817772,
+    "platform": "bilibili"
+  }
+}
