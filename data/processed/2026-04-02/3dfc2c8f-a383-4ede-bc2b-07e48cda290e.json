@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Lise to host tokenized IPO for French defense supplier ST Group",
+  "raw_content": "French blockchain-based stock exchange Lise plans to host what it describes as a fully onchain IPO for ST Group.",
+  "source_url": "https://cointelegraph.com/news/lise-host-tokenized-ipo-french-defense-supplier-st-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T14:36:28+00:00",
+  "id": "3dfc2c8f-a383-4ede-bc2b-07e48cda290e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T17:06:28.636656+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

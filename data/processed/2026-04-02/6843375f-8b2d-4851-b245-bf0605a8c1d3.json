@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "DeFi is optimizing for gas, not for markets",
+  "raw_content": "DeFi prioritizes gas efficiency over market resilience. Simplified financial logic fails under volatility due to computational constraints.",
+  "source_url": "https://cointelegraph.com/news/defi-optimizes-for-gas-not-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T15:00:00+00:00",
+  "id": "6843375f-8b2d-4851-b245-bf0605a8c1d3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T17:06:28.662012+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

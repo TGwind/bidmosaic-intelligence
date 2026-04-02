@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Wallet in Telegram launches perpetual futures trading with Lighter",
+  "raw_content": "Wallet in Telegram rolls out perpetual futures via Lighter DEX, enabling leveraged trading on crypto, stocks and commodities directly inside the messaging app.",
+  "source_url": "https://cointelegraph.com/news/wallet-in-telegram-perpetual-future-lighter-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T13:35:38+00:00",
+  "id": "cad0cd3b-8992-429c-b9f6-fe4bcecf5309",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T17:06:28.681371+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

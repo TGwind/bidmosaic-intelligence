@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Coinbase receives conditional approval for US trust charter",
+  "raw_content": "Chief legal officer Paul Grewal announced the approval on Thursday, thanking OCC head Jonathan Gould, who took office less than a year ago.",
+  "source_url": "https://cointelegraph.com/news/coinbase-conditional-approval-national-trust-charter-occ?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T16:01:49+00:00",
+  "id": "c8b8183e-5a46-4a7b-8a2e-a8c72b1f62b7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T17:06:28.681132+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
