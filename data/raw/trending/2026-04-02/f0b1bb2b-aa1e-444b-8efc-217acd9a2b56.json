@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "人类50多年后重返月球轨道",
+  "raw_content": "人类50多年后重返月球轨道",
+  "source_url": "https://www.toutiao.com/trending/7623465038518730758/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623465038518730758%22%2C%22hot_board_impr_id%22%3A%2220260402102742E4A7DB36A76B96145CE1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E7%B1%BB50%E5%A4%9A%E5%B9%B4%E5%90%8E%E9%87%8D%E8%BF%94%E6%9C%88%E7%90%83%E8%BD%A8%E9%81%93%22%7D&rank=&style_id=40132&topic_id=7623465038518730758",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-02T02:27:42.650663+00:00",
+  "id": "f0b1bb2b-aa1e-444b-8efc-217acd9a2b56",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20505041",
+    "platform": "toutiao"
+  }
+}
