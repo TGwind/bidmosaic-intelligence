@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Elon Musk's SpaceX quietly files for IPO, seeking mammoth debut",
+  "raw_content": "An IPO and valuation above $1.75 trillion would make SpaceX a top-10 public company by market capitalization, above the likes of Meta and Tesla.",
+  "source_url": "https://cointelegraph.com/news/elon-musks-spacex-files-confidential-ipo-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T00:02:15+00:00",
+  "id": "02d633d2-c546-4ae5-880c-28d24a8a183f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-02T05:46:30.483293+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
