@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Genius Group liquidates Bitcoin treasury to pay $8.5M of debt",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Genius Group liquidates Bitcoin treasury to pay $8.5M of debt\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDRiZWUtYWZiOS03NTczLTkzZDYtODQwNTU2NzczNWU2LmpwZw==.jpg\" /></p><p>The AI and crypto company has added to a pattern of Bitcoin treasuries offloading this year, with Michael Saylor's Strategy bucking that trend.</p>",
+  "source_url": "https://cointelegraph.com/news/genius-group-triples-revenue-but-liquidates-entire-bitcoin-stash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T04:36:44+00:00",
+  "id": "8f0776a7-a007-4b6d-9a3a-913c927885ce",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ripple Treasury puts XRP and RLUSD inside corporate finance for the first time",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/02/ripple-treasury-puts-xrp-and-rlusd-inside-corporate-finance-for-the-first-time",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T06:36:26+00:00",
+  "id": "24998f29-2515-43e3-8311-6ae6ad8d3fea",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

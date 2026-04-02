@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "科技爱好者周刊（第 389 期）：未来如何招聘程序员",
+  "raw_content": "这里记录每周值得分享的科技内容，周五发布。...",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/03/weekly-issue-389.html",
+  "source_name": "阮一峰科技爱好者周刊",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-19T23:59:16+00:00",
+  "id": "e7526f2c-c847-47f8-af3b-d63f87c6c948",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "china_tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
