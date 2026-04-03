@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Drift sends onchain message to wallets tied to $280M exploit",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Drift sends onchain message to wallets tied to $280M exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDUyODMtMDczYS03YWZkLTkwYWMtYzQwMDg4NDgzMTdjLmpwZw==.jpg\" /></p><p>Drift Protocol initiated onchain contact with wallets tied to the $280 million exploit as an unknown sender also attempts to pressure the attacker.</p>",
+  "source_url": "https://cointelegraph.com/news/drift-protocol-contact-hacker-onchain-message?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-03T10:26:17+00:00",
+  "id": "82a21efb-a7d6-4cbe-a0fe-d15660738237",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

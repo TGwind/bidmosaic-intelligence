@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stablecoins flip automated clearing house volume in February",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Stablecoins flip automated clearing house volume in February\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmU3YmUtOTYwZS03OWU1LWI3ODktYjE0ZTE3ZDU5YWNiLmpwZw==.jpg\" /></p><p>Stablecoin monthly transaction volume hit $7.2 trillion in February, surpassing the $6.8 trillion processed by the Automated Clearing House network.</p>",
+  "source_url": "https://cointelegraph.com/news/stablecoins-flip-ach-monthly-volume-in-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-03T04:08:43+00:00",
+  "id": "47b4187f-df81-45cd-8947-52fd1a3f94ec",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
