@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "东京八重洲办公楼租金上涨三成",
+  "raw_content": "2026/04/03 东京中心部八重洲的办公楼市场十分活跃。随着再开发带来大量新供应，企业之间争夺办公空间，大型办公楼租金持续上涨。八重洲周边大型办公楼的平均租金在一年内上涨约三成，已超过丸之内周边水平。 办公中介公司三幸エステート（东京中央区）数据显示，截至2月，京桥、八重洲和日本桥地区大型办公楼（单层面积200坪以上）的平均挂牌租金为每坪（约3.3平方米）4万9527日元（约合人民币2135元），比去年同期上涨26.3%（1万309日元），刷新自2010年12月有统计以来的最高水平。一年涨幅首次超过1万日元。 长期引领日本办公楼市场的丸之内、大手町地区大型办公楼租金同比上涨10.8%（4530日元），为每坪4万6333日元。自2025年8月起，八重洲周边租金已持续高于丸之内地区。东京核心五区（千代田区、中央区、港区、新宿区、涩谷区）整体涨幅为8.9%（2621日元）。 八重洲地区人气上升的背景是新建大型办公楼的供应增加，再开发的重心正从丸之内转向八重洲。2024年9月建成TODA BUILDING，2025年6月建成八重洲ダイビル，2026年2月建成TOFROM YAESU TOWER。 企业为了吸引人才并促进沟通，更倾向于选择单层面积较大、交通便利的新建办公楼。都市未来综合研究所首席研究员汤目健一郎表示：“人气很高的丸之内大型办公楼几乎没有空置房源。随着新供应出现，八重洲地区成为需求的承接地，租金因此持续上涨”。",
+  "source_url": "http://cn.nikkei.com/industry/propertiesconstruction/62031-2026-04-03-13-08-41.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-03T05:38:03+00:00",
+  "id": "355264b7-d5c3-45ca-bd4a-e3094c5542db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T05:47:54.441683+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
