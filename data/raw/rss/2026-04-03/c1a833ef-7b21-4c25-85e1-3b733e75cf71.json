@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "New Bitcoin price lows on the table until $76K becomes support",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"New Bitcoin price lows on the table until $76K becomes support\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjM1ZDItMWRkZS03NGQxLTlmOWYtMjY1ZWVjNDU0ZTBiLmpwZw==.jpg\" /></p><p>Bitcoin data shows a series of bearish trading patterns that could usher in new price lows if the key support at $60,000 fails to hold. Here’s why bulls need a rally to $76,000.</p>",
+  "source_url": "https://cointelegraph.com/news/new-bitcoin-price-lows-on-the-table-until-76k-becomes-support?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T22:30:00+00:00",
+  "id": "c1a833ef-7b21-4c25-85e1-3b733e75cf71",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
