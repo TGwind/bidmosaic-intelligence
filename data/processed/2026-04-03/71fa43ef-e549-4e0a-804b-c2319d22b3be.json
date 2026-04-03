@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "万里长江迎蓬勃新图景",
-  "raw_content": "万里长江迎蓬勃新图景",
-  "source_url": "https://www.toutiao.com/article/7624082591116771874",
+  "raw_title": "“一步一步”里的中国力量",
+  "raw_content": "“一步一步”里的中国力量",
+  "source_url": "https://www.toutiao.com/article/7624412299154981427",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-03T02:28:57.653107+00:00",
-  "id": "13da6008-f097-4ed3-81cd-406cea933fcd",
+  "collected_at": "2026-04-03T18:50:37.999830+00:00",
+  "id": "71fa43ef-e549-4e0a-804b-c2319d22b3be",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-03T18:51:15.396250+00:00",
+  "processed_at": "2026-04-03T18:51:15.404037+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "21772274",
+    "hot_score": "24941042",
     "platform": "toutiao"
   }
 }
