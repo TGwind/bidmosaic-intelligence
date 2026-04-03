@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "SoFi expands into institutional finance with integrated crypto services",
+  "raw_content": "The new platform enables companies to hold funds, move money and settle transactions in fiat or crypto within a single regulated system.",
+  "source_url": "https://cointelegraph.com/news/sofi-institutional-banking-platform-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T16:56:28+00:00",
+  "id": "1873b289-3cf1-4878-9618-08a0eab29176",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T02:59:26.990983+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

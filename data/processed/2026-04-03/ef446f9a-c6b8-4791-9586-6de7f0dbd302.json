@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "海外投资者净买入日本股票创22年来新高",
+  "raw_content": "2026/04/03 海外投资者在2025年度净买入日本股票达10.3375万亿日元，达到22年来的高水平。对日本企业增长的期待以及对高市早苗政权的期待推动了买盘。尽管中东局势前景仍不明朗，但海外投资者仍认为日本股市还有继续买入的空间。 东京证券交易所4月2日公布的投资者分类交易动向（东京证交所与名古屋证券交易所合计）显示，该规模已超过“安倍经济学行情”启动的2013年度（9.5387万亿日元）以及“小泉邮政解散行情”出现的2005年度（10.0572万亿日元）。 这一规模与1983年度以来最多的2003年度（11.6416万亿日元）相当。 2003年度，当时的首相小泉纯一郎推进结构改革的预期吸引海外资金流入日本股市。2025年度则是在“特朗普关税冲击”使日本股票作为分散投资对象受到关注的背景下，加上强调增长投资的高市政权成立，推动资金流入。 2025年10月，高市早苗在自民党总裁选举中获胜后，外国资金连续5周实现净流入。日经平均股价在2月底升至58850点，刷新历史最高纪录。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/62020-2026-04-03-08-06-07.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-03T01:08:04+00:00",
+  "id": "ef446f9a-c6b8-4791-9586-6de7f0dbd302",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T02:59:27.096812+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CFTC sues 3 states over prediction market regulatory authority",
+  "raw_content": "The Commodity Futures Trading Commission claims it \"first officially recognized\" event contracts in 1992 and that Congress has granted it sole authority over the market.",
+  "source_url": "https://cointelegraph.com/news/cftc-sues-3-states-prediction-market-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-02T20:21:20+00:00",
+  "id": "5d10d279-8369-4d1a-a229-e5ecf24076c2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T02:59:27.035015+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

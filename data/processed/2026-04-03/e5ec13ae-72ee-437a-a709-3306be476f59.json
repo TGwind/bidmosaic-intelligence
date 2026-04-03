@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Christopher Kent: Reassessing Australian financial conditions",
+  "raw_content": "Address by Mr Christopher Kent, Assistant Governor (Financial Markets) of the Reserve Bank of Australia, to KangaNews Debt Capital Market Summit, Sydney, 26 March 2026.",
+  "source_url": "https://www.bis.org/review/r260331e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-03T02:56:50.146946+00:00",
+  "id": "e5ec13ae-72ee-437a-a709-3306be476f59",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T02:59:27.100411+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

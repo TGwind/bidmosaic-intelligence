@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "The complex linkages between euro area insurers and sovereign bond markets",
+  "raw_content": "Euro area insurers manage several trillion euro in assets and take a long‑term investment perspective. To counteract the long period of low interest rates, they have shifted towards holding more alternative and less liquid assets. As a result, their balance sheets have become less liquid and more sensitive to market conditions overall. Meanwhile, their holdings of sovereign bonds show a significant home bias, which may have even increased with quantitative easing. Sovereign bonds also serve as a key source of liquidity for insurers, who sell them to raise liquidity to settle large claims after natural disasters. Thus, liquidity shocks can spill over from insurance to the sovereign debt markets, increasing market volatility. Capital markets union would likely help insurers diversify their bond portfolios and promote cross-country risk sharing.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb251120~d4d50e9bd2.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-11-20T07:00:00+00:00",
+  "id": "ecda09d9-843a-419c-81b2-dac12f33da75",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T02:59:27.102792+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

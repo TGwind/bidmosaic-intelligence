@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Scalable Identification and Prioritization of Requisition-Specific Personal Competencies Using Large Language Models",
+  "raw_content": "arXiv:2604.00006v1 Announce Type: new Abstract: AI-powered recruitment tools are increasingly adopted in personnel selection, yet they struggle to capture the requisition (req)-specific personal competencies (PCs) that distinguish successful candidates beyond job categories. We propose a large language model (LLM)-based approach to identify and prioritize req-specific PCs from reqs. Our approach integrates dynamic few-shot prompting, reflection-based self-improvement, similarity-based filtering, and multi-stage validation. Applied to a dataset of Program Manager reqs, our approach correctly identifies the highest-priority req-specific PCs with an average accuracy of 0.76, approaching human expert inter-rater reliability, and maintains a low out-of-scope rate of 0.07.",
+  "source_url": "https://arxiv.org/abs/2604.00006",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-02T04:00:00+00:00",
+  "id": "6ad5b9af-51d2-4252-8c6d-48ece70be806",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T02:59:27.034159+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
