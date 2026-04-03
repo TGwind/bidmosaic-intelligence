@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Digital Twin Counterfactual Framework: A Validation Architecture for Simulated Potential Outcomes",
+  "raw_content": "arXiv:2604.01325v1 Announce Type: new Abstract: The fundamental problem of causal inference - that the counterfactual outcome for any individual is never observed - has shaped the entire methodology of the field. Every existing approach substitutes assumptions for missing data: ignorability, parallel trends, exclusion restrictions. None produces the counterfactual itself. This paper proposes the Digital Twin Counterfactual Framework (DTCF): rather than estimating the counterfactual statistically, we simulate it using a digital twin and subject the simulation to a hierarchical validation regime. We formalize the digital twin simulator as a stochastic mapping within the potential outcomes framework and introduce a hierarchy of twin fidelity assumptions - from marginal fidelity through joint fidelity to structural fidelity - each unlocking a progressively richer class of estimands. The central contribution is threefold. First, a five-level validation architecture converts the unfalsifiable claim that the simulator produces correct counterfactuals into falsifiable tests against observable data. Second, a formal decomposition separates causal quantities into those that are marginally validated (ATE, CATE, QTE - testable through observable-arm comparison) and those that are copula-dependent (the ITE distribution, probability of benefit/harm, variance of treatment effects - permanently reliant on the unobservable within-individual dependence structure). Third, bounding, sensitivity, and uncertainty quantification tools make the copula dependence explicit. The DTCF does not resolve the fundamental problem of causal inference. What it provides is a framework in which marginal causal claims become increasingly testable, joint causal claims become explicitly assumption-indexed, and the gap between the two is formally characterized.",
+  "source_url": "https://arxiv.org/abs/2604.01325",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-03T04:00:00+00:00",
+  "id": "82600792-afed-4402-ae5d-d1bafcccd14a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T13:22:44.022180+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

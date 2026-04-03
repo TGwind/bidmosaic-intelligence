@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "IDEA2: Expert-in-the-loop competency question elicitation for collaborative ontology engineering",
+  "raw_content": "arXiv:2604.01344v1 Announce Type: new Abstract: Competency question (CQ) elicitation represents a critical but resource-intensive bottleneck in ontology engineering. This foundational phase is often hampered by the communication gap between domain experts, who possess the necessary knowledge, and ontology engineers, who formalise it. This paper introduces IDEA2, a novel, semi-automated workflow that integrates Large Language Models (LLMs) within a collaborative, expert-in-the-loop process to address this challenge. The methodology is characterised by a core iterative loop: an initial LLM-based extraction of CQs from requirement documents, a co-creational review and feedback phase by domain experts on an accessible collaborative platform, and an iterative, feedback-driven reformulation of rejected CQs by an LLM until consensus is achieved. To ensure transparency and reproducibility, the entire lifecycle of each CQ is tracked using a provenance model that captures the full lineage of edits, anonymised feedback, and generation parameters. The workflow was validated in 2 real-world scenarios (scientific data, cultural heritage), demonstrating that IDEA2 can accelerate the requirements engineering process, improve the acceptance and relevance of the resulting CQs, and exhibit high usability and effectiveness among domain experts. We release all code and experiments at https://github.com/KE-UniLiv/IDEA2",
+  "source_url": "https://arxiv.org/abs/2604.01344",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-03T04:00:00+00:00",
+  "id": "d9b03d0c-757d-49e1-855d-1ba747db0860",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T13:22:44.046070+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

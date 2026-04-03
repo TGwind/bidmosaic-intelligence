@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "CogBias: Measuring and Mitigating Cognitive Bias in Large Language Models",
+  "raw_content": "arXiv:2604.01366v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in high-stakes decision-making contexts. While prior work has shown that LLMs exhibit cognitive biases behaviorally, whether these biases correspond to identifiable internal representations and can be mitigated through targeted intervention remains an open question. We define LLM cognitive bias as systematic, reproducible deviations from correct answers in tasks with computable ground-truth baselines, and introduce LLM CogBias, a benchmark organized around four families of cognitive biases: Judgment, Information Processing, Social, and Response. We evaluate three LLMs and find that cognitive biases emerge systematically across all four families, with magnitudes and debiasing responses that are strongly family-dependent: prompt-level debiasing substantially reduces Response biases but backfires for Judgment biases. Using linear probes under a contrastive design, we show that these biases are encoded as linearly separable directions in model activation space. Finally, we apply activation steering to modulate biased behavior, achieving 26--32\\% reduction in bias score (fraction of biased responses) while preserving downstream capability on 25 benchmarks (Llama: negligible degradation; Qwen: up to $-$19.0pp for Judgment biases). Despite near-orthogonal bias representations across models (mean cosine similarity 0.01), steering reduces bias at similar rates across architectures ($r(246)$=.621, $p$<.001), suggesting shared functional organization.",
+  "source_url": "https://arxiv.org/abs/2604.01366",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-03T04:00:00+00:00",
+  "id": "614ce49b-5451-4989-ba1e-074e8008b6dc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T13:22:44.000799+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

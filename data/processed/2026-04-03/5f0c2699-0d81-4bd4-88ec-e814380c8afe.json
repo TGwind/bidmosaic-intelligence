@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "When AI Gets it Wong: Reliability and Risk in AI-Assisted Medication Decision Systems",
+  "raw_content": "arXiv:2604.01449v1 Announce Type: new Abstract: Artificial intelligence (AI) systems are increasingly integrated into healthcare and pharmacy workflows, supporting tasks such as medication recommendations, dosage determination, and drug interaction detection. While these systems often demonstrate strong performance under standard evaluation metrics, their reliability in real-world decision-making remains insufficiently understood. In high-risk domains such as medication management, even a single incorrect recommendation can result in severe patient harm. This paper examines the reliability of AI-assisted medication systems by focusing on system failures and their potential clinical consequences. Rather than evaluating performance solely through aggregate metrics, this work shifts attention towards how errors occur and what happens when AI systems produce incorrect outputs. Through a series of controlled, simulated scenarios involving drug interactions and dosage decisions, we analyse different types of system failures, including missed interactions, incorrect risk flagging, and inappropriate dosage recommendations. The findings highlight that AI errors in medication-related contexts can lead to adverse drug reactions, ineffective treatment, or delayed care, particularly when systems are used without sufficient human oversight. Furthermore, the paper discusses the risks of over-reliance on AI recommendations and the challenges posed by limited transparency in decision-making processes. This work contributes a reliability-focused perspective on AI evaluation in healthcare, emphasising the importance of understanding failure behavior and real-world impact. It highlights the need to complement traditional performance metrics with risk-aware evaluation approaches, particularly in safety-critical domains such as pharmacy practice.",
+  "source_url": "https://arxiv.org/abs/2604.01449",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-03T04:00:00+00:00",
+  "id": "5f0c2699-0d81-4bd4-88ec-e814380c8afe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T13:22:44.011965+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

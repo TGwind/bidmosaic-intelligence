@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto hackers steal $169M from 34 DeFi protocols in Q1: DefiLlama",
+  "raw_content": "January saw the largest attack against a DeFi protocol of the quarter, the $40 million private key compromise of portfolio management platform Step Finance.",
+  "source_url": "https://cointelegraph.com/news/defi-hacks-169m-q1-2026-crypto-exploits-decline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-03T06:40:53+00:00",
+  "id": "1987a071-a693-4875-a29f-ecec6a44e376",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T13:22:43.922494+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
