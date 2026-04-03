@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "万里长江迎蓬勃新图景",
-  "raw_content": "万里长江迎蓬勃新图景",
-  "source_url": "https://www.toutiao.com/article/7624082591116771874",
+  "raw_title": "制造业PMI重回扩张区间",
+  "raw_content": "制造业PMI重回扩张区间",
+  "source_url": "https://www.toutiao.com/article/7624106865382785563",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-03T02:28:57.653107+00:00",
-  "id": "13da6008-f097-4ed3-81cd-406cea933fcd",
+  "collected_at": "2026-04-03T07:11:31.684266+00:00",
+  "id": "51441cc6-995d-4ec9-acf5-8203b5ef91e5",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-03T07:12:08.388622+00:00",
+  "processed_at": "2026-04-03T07:12:08.396736+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "21772274",
+    "hot_score": "17203380",
     "platform": "toutiao"
   }
 }

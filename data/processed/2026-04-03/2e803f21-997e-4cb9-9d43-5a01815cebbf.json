@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "华语乐坛又迎新法师？李荣浩教科书级撕X！【单依纯事件细盘深扒】",
+  "raw_content": "华语乐坛又迎新法师？李荣浩教科书级撕X！【单依纯事件细盘深扒】",
+  "source_url": "https://www.bilibili.com/video/BV1Wv9VBLE7m",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-03T07:11:32.369197+00:00",
+  "id": "2e803f21-997e-4cb9-9d43-5a01815cebbf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T07:12:08.394317+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4738976,
+    "platform": "bilibili"
+  }
+}

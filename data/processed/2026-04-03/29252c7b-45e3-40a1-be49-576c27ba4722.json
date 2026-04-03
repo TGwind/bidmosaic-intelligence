@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "一切都来的太突然了",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1Mk9HBkEU2",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-03T07:11:32.369236+00:00",
+  "id": "29252c7b-45e3-40a1-be49-576c27ba4722",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T07:12:08.391626+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2012375,
+    "platform": "bilibili"
+  }
+}

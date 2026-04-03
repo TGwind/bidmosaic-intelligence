@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "黑板突发坠落 两位学生挺身护住老师",
+  "raw_content": "黑板突发坠落 两位学生挺身护住老师",
+  "source_url": "https://www.toutiao.com/trending/7624305759908053055/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%229%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227624305759908053055%22%2C%22hot_board_impr_id%22%3A%2220260403151131DC4CCBEE391522666F15%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%91%E6%9D%BF%E7%AA%81%E5%8F%91%E5%9D%A0%E8%90%BD+%E4%B8%A4%E4%BD%8D%E5%AD%A6%E7%94%9F%E6%8C%BA%E8%BA%AB%E6%8A%A4%E4%BD%8F%E8%80%81%E5%B8%88%22%7D&rank=&style_id=40132&topic_id=7624305759908053055",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-03T07:11:31.684284+00:00",
+  "id": "f8229123-a18f-46b3-90c1-d772a3f5f08d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T07:12:08.406292+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14084936",
+    "platform": "toutiao"
+  }
+}
