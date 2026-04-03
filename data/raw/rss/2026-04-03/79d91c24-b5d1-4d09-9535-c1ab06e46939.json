@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "伊朗或对霍尔木兹海峡通行收费，每桶1美元",
+  "raw_content": "<div>2026/04/03</div><div id=\"contentDiv\">\n<div></div>\n<div>      美国彭博社4月1日报道称，伊朗在霍尔木兹海峡对过境船只征收通行费，每桶原油至少约1美元。为规避风险，寻找替代航线的动向也日益活跃。</div>\n<div> </div>\n<div>      据彭博社报道，伊朗对“友好国家”的船只，在缴纳通行费后允许其航行。伊朗将各国的友好程度分为5个等级进行评级，友好度较高的国家可以在更有利的条件下通行。</div>\n<div> </div>\n<div>      通行费以人民币或加密资产（虚拟货币）支付。被称为“VLCC”的大型原油油轮装载能力约为200万桶，如果按每桶1美元计算，仅通行费就将增加约200万美元成本。</div>\n<div> </div>\n<div>      船只通行需要事前审查，须通过中介向伊朗提供船籍等信息。完成审查并支付确定的通行费后，伊朗伊斯兰革命卫队会发放“许可代码”，并指示航行路线。</div>\n<div> </div>\n<div>      在美国与以色列同伊朗发生交战之前，该海峡通常每天约有100艘船只通过，约2000万桶原油及石油产品经此运输。</div>\n<div>  </div>\n<div>      航行时还必须悬挂伊朗认可的“友好国家”国旗。彭博社称，巴基斯坦政府曾向某原油油轮运营公司提出，将船籍和国旗改为巴基斯坦后再航行通过霍尔木兹海峡。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/62022-2026-04-03-08-06-05.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-03T01:08:04+00:00",
+  "id": "79d91c24-b5d1-4d09-9535-c1ab06e46939",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

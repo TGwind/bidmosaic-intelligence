@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Ben Gully appointed Secretary General of the Basel Committee on Banking Supervision",
+  "raw_content": "Ben Gully will lead the international standard setter's Secretariat in Basel.\nMr Gully has been appointed for a three-year term, starting in August.\nHe is currently Deputy Superintendent at the Office of the Superintendent of Financial Institutions (OSFI) in Canada.",
+  "source_url": "https://www.bis.org/press/p260317.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-03T02:56:49.705307+00:00",
+  "id": "fbfa5fad-36da-4e23-9ad0-132428efa328",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}
