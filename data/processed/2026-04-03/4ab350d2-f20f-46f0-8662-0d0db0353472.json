@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "千余名师生徒步祭英烈",
+  "raw_content": "千余名师生徒步祭英烈",
+  "source_url": "https://webcast-open.douyin.com/open/media_live/941661273824",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-03T02:28:57.653152+00:00",
+  "id": "4ab350d2-f20f-46f0-8662-0d0db0353472",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T02:29:36.257276+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13205552",
+    "platform": "toutiao"
+  }
+}

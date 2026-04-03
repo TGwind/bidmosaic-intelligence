@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "俩狗狗吵架误伤主人",
+  "raw_content": "俩狗狗吵架误伤主人",
+  "source_url": "https://www.toutiao.com/trending/7623240401564287022/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623240401564287022%22%2C%22hot_board_impr_id%22%3A%22202604031028575B9F2C4417E068146DE3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%A9%E7%8B%97%E7%8B%97%E5%90%B5%E6%9E%B6%E8%AF%AF%E4%BC%A4%E4%B8%BB%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7623240401564287022",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-03T02:28:57.653168+00:00",
+  "id": "ec6e2b4d-42e9-4949-9471-ba59a58e8ac3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T02:29:36.259305+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10811791",
+    "platform": "toutiao"
+  }
+}
