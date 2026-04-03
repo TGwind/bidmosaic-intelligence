@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "两部门部署打击金融领域“黑灰产”",
+  "raw_content": "两部门部署打击金融领域“黑灰产”",
+  "source_url": "https://www.toutiao.com/trending/7624368360658337835/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227624368360658337835%22%2C%22hot_board_impr_id%22%3A%2220260403210619C7ABE03408C41997A7D9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%A4%E9%83%A8%E9%97%A8%E9%83%A8%E7%BD%B2%E6%89%93%E5%87%BB%E9%87%91%E8%9E%8D%E9%A2%86%E5%9F%9F%E2%80%9C%E9%BB%91%E7%81%B0%E4%BA%A7%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7624368360658337835",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-03T13:06:19.277239+00:00",
+  "id": "83501197-2041-456b-9e8e-f70248ae409f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T13:06:56.144261+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16200228",
+    "platform": "toutiao"
+  }
+}
