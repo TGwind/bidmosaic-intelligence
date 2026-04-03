@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Solo Bitcoin miner bags $210K Bitcoin block reward",
+  "raw_content": "A CKPool-connected solo miner just landed a $210,000 Bitcoin block reward, one of only 20 solo‑mined blocks in the past year, as listed miners sell BTC to stay afloat.",
+  "source_url": "https://cointelegraph.com/news/solo-bitcoin-miner-bags-210k-bitcoin-block?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-03T13:45:10+00:00",
+  "id": "96428e4e-ea72-4d03-bd89-6ccd78aff185",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-03T16:54:13.478886+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
