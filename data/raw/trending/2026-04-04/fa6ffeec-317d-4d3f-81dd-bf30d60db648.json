@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "顾客凌晨2点到睡车里等莫氏鸡煲开门",
+  "raw_content": "顾客凌晨2点到睡车里等莫氏鸡煲开门",
+  "source_url": "https://www.toutiao.com/trending/7624435052788600363/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227624435052788600363%22%2C%22hot_board_impr_id%22%3A%2220260405024344082FBFCCDC99BC4FCBF0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%A1%BE%E5%AE%A2%E5%87%8C%E6%99%A82%E7%82%B9%E5%88%B0%E7%9D%A1%E8%BD%A6%E9%87%8C%E7%AD%89%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E5%BC%80%E9%97%A8%22%7D&rank=&style_id=40132&topic_id=7624435052788600363",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-04T18:43:44.816487+00:00",
+  "id": "fa6ffeec-317d-4d3f-81dd-bf30d60db648",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "62835217",
+    "platform": "toutiao"
+  }
+}

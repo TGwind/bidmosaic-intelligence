@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "台退将：在东风导弹面前台湾注定输",
+  "raw_content": "台退将：在东风导弹面前台湾注定输",
+  "source_url": "https://www.toutiao.com/trending/7624856676562141227/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227624856676562141227%22%2C%22hot_board_impr_id%22%3A%2220260405024344082FBFCCDC99BC4FCBF0%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8F%B0%E9%80%80%E5%B0%86%EF%BC%9A%E5%9C%A8%E4%B8%9C%E9%A3%8E%E5%AF%BC%E5%BC%B9%E9%9D%A2%E5%89%8D%E5%8F%B0%E6%B9%BE%E6%B3%A8%E5%AE%9A%E8%BE%93%22%7D&rank=&style_id=40132&topic_id=7624856676562141227",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-04T18:43:44.816574+00:00",
+  "id": "42296261-543a-4d78-b52b-a9b4d6979b44",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "31203045",
+    "platform": "toutiao"
+  }
+}
