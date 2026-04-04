@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "A Secure Chat App’s Encryption Is So Bad It Is ‘Meaningless’",
+  "raw_content": "TeleGuard is an app downloaded more a million times that markets itself as a secure way to chat. The app uploads users’ private keys to the company’s server, and makes decryption of messages trivial.",
+  "source_url": "https://www.404media.co/a-secure-chat-apps-encryption-is-so-bad-it-is-meaningless/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-02T13:47:24+00:00",
+  "id": "0925816d-b957-4c38-8506-a88be76abb9a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-04T08:54:38.939369+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
