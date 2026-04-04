@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Assessing Pause Thresholds for empirical Translation Process Research",
+  "raw_content": "arXiv:2604.01410v1 Announce Type: new \nAbstract: Text production (and translations) proceeds in the form of stretches of typing, interrupted by keystroke pauses. It is often assumed that fast typing reflects unchallenged/automated translation production while long(er) typing pauses are indicative of translation problems, hurdles or difficulties. Building on a long discussion concerning the determination of pause thresholds that separate automated from presumably reflective translation processes (O'Brien, 2006; Alves and Vale, 2009; Timarova et al., 2011; Dragsted and Carl, 2013; Lacruz et al., 2014; Kumpulainen, 2015; Heilmann and Neumann 2016), this paper compares three recent approaches for computing these pause thresholds, and suggest and evaluate a novel method for computing Production Unit Breaks.",
+  "source_url": "https://arxiv.org/abs/2604.01410",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-04T04:00:00+00:00",
+  "id": "33837686-4ecd-4f95-9ed8-178adcb77cf4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
