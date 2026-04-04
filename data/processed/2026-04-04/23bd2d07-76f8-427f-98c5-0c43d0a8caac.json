@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "“一步一步”里的中国力量",
-  "raw_content": "“一步一步”里的中国力量",
-  "source_url": "https://www.toutiao.com/article/7624412299154981427",
+  "raw_title": "中国军人用生命捍卫信仰",
+  "raw_content": "中国军人用生命捍卫信仰",
+  "source_url": "https://www.toutiao.com/article/7624804498007835136",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-04T02:13:32.305901+00:00",
-  "id": "434ad761-4b31-4b9e-be01-450cfdd0c621",
+  "collected_at": "2026-04-04T18:43:44.816530+00:00",
+  "id": "23bd2d07-76f8-427f-98c5-0c43d0a8caac",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-04T18:44:23.431725+00:00",
+  "processed_at": "2026-04-04T18:44:23.426211+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "28000059",
+    "hot_score": "51445124",
     "platform": "toutiao"
   }
 }
