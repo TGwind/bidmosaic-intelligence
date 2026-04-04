@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "“一步一步”里的中国力量",
-  "raw_content": "“一步一步”里的中国力量",
-  "source_url": "https://www.toutiao.com/article/7624412299154981427",
+  "raw_title": "清明之际追思公安英烈",
+  "raw_content": "清明之际追思公安英烈",
+  "source_url": "https://www.toutiao.com/article/7624678031986180634",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-04T02:13:32.305901+00:00",
-  "id": "434ad761-4b31-4b9e-be01-450cfdd0c621",
+  "collected_at": "2026-04-04T07:03:06.473551+00:00",
+  "id": "4afda6ba-77b1-449a-ad2d-7b73d06ad5c9",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-04T07:03:43.123644+00:00",
+  "processed_at": "2026-04-04T07:03:43.125844+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "28000059",
+    "hot_score": "33128436",
     "platform": "toutiao"
   }
 }
