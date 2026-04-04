@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Telegram founder Pavel Durov says Iranian government's ban backfired",
+  "raw_content": "Thousands of software developers are currently developing virtual private networks to circumvent state control of the internet, Durov said.",
+  "source_url": "https://cointelegraph.com/news/telegram-durov-iran-ban-backfire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-04T19:30:05+00:00",
+  "id": "afdd780d-825d-41aa-9c65-5d35010703bc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-04T20:44:09.458668+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
