@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "媒体：散户普遍相信回调是上车机会",
+  "raw_content": "媒体：散户普遍相信回调是上车机会",
+  "source_url": "https://www.toutiao.com/trending/7623795790028341290/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623795790028341290%22%2C%22hot_board_impr_id%22%3A%222026040420582454F8CA93896A9771159D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%EF%BC%9A%E6%95%A3%E6%88%B7%E6%99%AE%E9%81%8D%E7%9B%B8%E4%BF%A1%E5%9B%9E%E8%B0%83%E6%98%AF%E4%B8%8A%E8%BD%A6%E6%9C%BA%E4%BC%9A%22%7D&rank=&style_id=40132&topic_id=7623795790028341290",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-04T12:58:24.913136+00:00",
+  "id": "b9b4b84e-b9e8-43b8-9136-df092a2c6c3c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-04T12:59:01.444111+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "28130410",
+    "platform": "toutiao"
+  }
+}

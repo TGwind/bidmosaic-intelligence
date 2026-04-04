@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "夫妻高速摩托车载人被交警拦下",
+  "raw_content": "夫妻高速摩托车载人被交警拦下",
+  "source_url": "https://www.toutiao.com/trending/7624528964307959846/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227624528964307959846%22%2C%22hot_board_impr_id%22%3A%222026040420582454F8CA93896A9771159D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AB%E5%A6%BB%E9%AB%98%E9%80%9F%E6%91%A9%E6%89%98%E8%BD%A6%E8%BD%BD%E4%BA%BA%E8%A2%AB%E4%BA%A4%E8%AD%A6%E6%8B%A6%E4%B8%8B%22%7D&rank=&style_id=40132&topic_id=7624528964307959846",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-04T12:58:24.913185+00:00",
+  "id": "ec9984bd-c313-4230-ac7f-3a589a05e5d1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-04T12:59:01.443997+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13969148",
+    "platform": "toutiao"
+  }
+}

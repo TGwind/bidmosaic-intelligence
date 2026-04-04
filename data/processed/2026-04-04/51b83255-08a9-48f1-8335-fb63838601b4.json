@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "陈幸同1-4不敌申裕斌 单局吞蛋",
+  "raw_content": "陈幸同1-4不敌申裕斌 单局吞蛋",
+  "source_url": "https://www.toutiao.com/trending/7623939891218612274/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227623939891218612274%22%2C%22hot_board_impr_id%22%3A%222026040420582454F8CA93896A9771159D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%99%88%E5%B9%B8%E5%90%8C1-4%E4%B8%8D%E6%95%8C%E7%94%B3%E8%A3%95%E6%96%8C+%E5%8D%95%E5%B1%80%E5%90%9E%E8%9B%8B%22%7D&rank=&style_id=40132&topic_id=7623939891218612274",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-04T12:58:24.913099+00:00",
+  "id": "51b83255-08a9-48f1-8335-fb63838601b4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-04T12:59:01.437814+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "41965641",
+    "platform": "toutiao"
+  }
+}
