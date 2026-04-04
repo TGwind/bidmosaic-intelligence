@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "M2-Verify: A Large-Scale Multidomain Benchmark for Checking Multimodal Claim Consistency",
+  "raw_content": "arXiv:2604.01306v1 Announce Type: new \nAbstract: Evaluating scientific arguments requires assessing the strict consistency between a claim and its underlying multimodal evidence. However, existing benchmarks lack the scale, domain diversity, and visual complexity needed to evaluate this alignment realistically. To address this gap, we introduce M2-Verify, a large-scale multimodal dataset for checking scientific claim consistency. Sourced from PubMed and arXiv, M2-Verify provides over 469K instances across 16 domains, rigorously validated through expert audits. Extensive baseline experiments show that state-of-the-art models struggle to maintain robust consistency. While top models achieve up to 85.8\\% Micro-F1 on low-complexity medical perturbations, performance drops to 61.6\\% on high-complexity challenges like anatomical shifts. Furthermore, expert evaluations expose hallucinations when models generate scientific explanations for their alignment decisions. Finally, we demonstrate our dataset's utility and provide comprehensive usage guidelines.",
+  "source_url": "https://arxiv.org/abs/2604.01306",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-04T04:00:00+00:00",
+  "id": "0bfb1a58-08b9-4b27-8747-dbbeee6af198",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
