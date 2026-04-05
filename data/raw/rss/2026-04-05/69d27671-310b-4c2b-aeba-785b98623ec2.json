@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Priscilla Muthoora Thakoor: Supervision of climate risks",
+  "raw_content": "Speech by Dr Priscilla Muthoora Thakoor, Governor of the Bank of Mauritius, at the workshop on supervision of climate risks, Port Louis, 26 February 2026.",
+  "source_url": "https://www.bis.org/review/r260326f.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-05T08:54:20.570777+00:00",
+  "id": "69d27671-310b-4c2b-aeba-785b98623ec2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
