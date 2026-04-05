@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "莫氏鸡煲家族大小一字排开齐齐斩鸡",
+  "raw_content": "莫氏鸡煲家族大小一字排开齐齐斩鸡",
+  "source_url": "https://www.toutiao.com/trending/7625229096053820955/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625229096053820955%22%2C%22hot_board_impr_id%22%3A%2220260405210016E70D5048CC6336775E06%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%8E%AB%E6%B0%8F%E9%B8%A1%E7%85%B2%E5%AE%B6%E6%97%8F%E5%A4%A7%E5%B0%8F%E4%B8%80%E5%AD%97%E6%8E%92%E5%BC%80%E9%BD%90%E9%BD%90%E6%96%A9%E9%B8%A1%22%7D&rank=&style_id=40132&topic_id=7625229096053820955",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-05T13:00:16.531257+00:00",
+  "id": "cf4bb7c2-8cf1-415b-ae6f-46324f9b678b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T13:00:57.754297+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "65596228",
+    "platform": "toutiao"
+  }
+}

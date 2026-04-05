@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "我被开除了...那就去旅行!!!",
+  "raw_content": "我想全然投入真实的自己创作一次，哪怕只是简单的记录。 作者&导演：沢人 剪辑：沢人 摄影：沢人&姥姥 调色：沢人 配音：沢人 分镜：沢人 以下为本视频所有BGM/背景音乐： Fade Away - Oasis Windmill - ksxlek Surabaya - Crayon Case Love to Keep Me Warm - Laufey/dodie Nope your too late i already died - wifiskeleton Ladyfingers Lofi - Max",
+  "source_url": "https://www.bilibili.com/video/BV1Df9FBnE1u",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-05T13:00:17.119682+00:00",
+  "id": "c8a46892-f55c-4796-bb8c-9af99f8b1edb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T13:00:57.754719+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4162676,
+    "platform": "bilibili"
+  }
+}

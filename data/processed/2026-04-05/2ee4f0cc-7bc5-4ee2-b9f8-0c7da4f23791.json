@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "26岁网红拳手阿牛离世",
+  "raw_content": "26岁网红拳手阿牛离世",
+  "source_url": "https://www.toutiao.com/trending/7625208916028375094/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625208916028375094%22%2C%22hot_board_impr_id%22%3A%2220260405210016E70D5048CC6336775E06%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2226%E5%B2%81%E7%BD%91%E7%BA%A2%E6%8B%B3%E6%89%8B%E9%98%BF%E7%89%9B%E7%A6%BB%E4%B8%96%22%7D&rank=&style_id=40132&topic_id=7625208916028375094",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-05T13:00:16.531391+00:00",
+  "id": "2ee4f0cc-7bc5-4ee2-b9f8-0c7da4f23791",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T13:00:57.735658+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "19757204",
+    "platform": "toutiao"
+  }
+}

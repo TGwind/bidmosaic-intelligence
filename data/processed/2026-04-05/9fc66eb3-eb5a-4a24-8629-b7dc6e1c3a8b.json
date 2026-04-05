@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《谁命苦》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1nRXfBNEtz",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-05T13:00:17.119725+00:00",
+  "id": "9fc66eb3-eb5a-4a24-8629-b7dc6e1c3a8b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T13:00:57.747195+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4169610,
+    "platform": "bilibili"
+  }
+}
