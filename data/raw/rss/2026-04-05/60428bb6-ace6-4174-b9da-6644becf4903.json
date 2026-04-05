@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Michael S Barr: Brief remarks on the economic outlook and monetary policy",
+  "raw_content": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at the Brookings Institution, Washington DC, 26 March 2026.",
+  "source_url": "https://www.bis.org/review/r260330c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-05T05:48:15.732674+00:00",
+  "id": "60428bb6-ace6-4174-b9da-6644becf4903",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
