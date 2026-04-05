@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto faces ‘existential’ token problem as supply outpaces value creation",
+  "raw_content": "A surge in token supply is diluting returns and breaking the link between fundamentals and price, raising concerns about crypto’s long-term model.",
+  "source_url": "https://cointelegraph.com/news/crypto-existential-token-problem-supply-outpaces-value-creation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-05T09:46:54+00:00",
+  "id": "b010791b-23bb-4d78-804d-c06ccf16ef0c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T13:16:31.050225+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
