@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin tends to outperform gold and stocks after global shocks, Mercado Bitcoin finds",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/03/30/bitcoin-tends-to-outperform-gold-and-stocks-after-global-shocks-mercado-bitcoin-finds",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-04T18:56:03+00:00",
+  "id": "a6f80bea-b07e-454a-8bc3-60ee4481ec05",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T08:57:02.975345+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
