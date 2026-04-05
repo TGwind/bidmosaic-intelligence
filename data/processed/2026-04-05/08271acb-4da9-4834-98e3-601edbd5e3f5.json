@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Rich Bitcoin traders lost $337M daily in first quarter of 2026",
+  "raw_content": "Bitcoin whales and sharks have locked in $30.9 billion in BTC losses this year, resembling the 2022 bear market, as onchain data points to continued downside risk.",
+  "source_url": "https://cointelegraph.com/news/rich-bitcoin-traders-lost-337m-daily-first-quarter-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-04T08:31:42+00:00",
+  "id": "08271acb-4da9-4834-98e3-601edbd5e3f5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T03:26:11.945274+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
