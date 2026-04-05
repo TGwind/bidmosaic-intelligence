@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "A simple explainer on what quantum computing actually is, and why it is terrifying for bitcoin",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/05/a-simple-explainer-on-what-quantum-computing-actually-is-and-why-it-is-terrifying-for-bitcoin",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-05T20:03:22+00:00",
+  "id": "793d36ea-5362-4d89-b52e-f27ecd99fb08",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T20:44:59.275460+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
