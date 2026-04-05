@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin reaches highest level of bearish chatter in 5 weeks: Santiment",
+  "raw_content": "Santiment said bearish Bitcoin comments on social media have climbed to a five-week high, which could signal a reversal sooner rather than later.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-bearish-social-media-chatter-low-price-btc-stagnant-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-05T04:25:20+00:00",
+  "id": "6953ffec-bcd3-4cc2-b743-e2e2ca605fab",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T05:50:55.338034+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
