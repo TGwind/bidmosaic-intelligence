@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊媒称多名美士兵营救飞行员时身亡",
+  "raw_content": "伊媒称多名美士兵营救飞行员时身亡",
+  "source_url": "https://www.toutiao.com/trending/7625223431168052774/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625223431168052774%22%2C%22hot_board_impr_id%22%3A%2220260406024628D32754FA191DA36E62B3%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E5%AA%92%E7%A7%B0%E5%A4%9A%E5%90%8D%E7%BE%8E%E5%A3%AB%E5%85%B5%E8%90%A5%E6%95%91%E9%A3%9E%E8%A1%8C%E5%91%98%E6%97%B6%E8%BA%AB%E4%BA%A1%22%7D&rank=&style_id=40132&topic_id=7625223431168052774",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-05T18:46:28.297792+00:00",
+  "id": "b2d72817-9c3d-4433-a820-64992fe2732d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-05T18:47:01.560533+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "48455530",
+    "platform": "toutiao"
+  }
+}
