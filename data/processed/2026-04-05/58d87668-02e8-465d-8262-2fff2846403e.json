@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "中国军人用生命捍卫信仰",
-  "raw_content": "中国军人用生命捍卫信仰",
-  "source_url": "https://www.toutiao.com/article/7624804498007835136",
+  "raw_title": "这些身影 我们永远记得",
+  "raw_content": "这些身影 我们永远记得",
+  "source_url": "https://www.toutiao.com/article/7624899781034459700",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-05T02:35:57.967581+00:00",
-  "id": "911f80d5-e7bc-4e57-adfe-c89f68610aa3",
+  "collected_at": "2026-04-05T07:09:17.214555+00:00",
+  "id": "58d87668-02e8-465d-8262-2fff2846403e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-05T07:09:54.055330+00:00",
+  "processed_at": "2026-04-05T07:09:54.056043+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "34637779",
+    "hot_score": "31094676",
     "platform": "toutiao"
   }
 }
