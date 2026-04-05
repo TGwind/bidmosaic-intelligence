@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "凶手一句话，造就十年悬案",
+  "raw_content": "雀巢表示 已和凶手庭外和解，请大家不要网爆凶手",
+  "source_url": "https://www.bilibili.com/video/BV1CbXZBPECb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-05T13:00:17.119706+00:00",
+  "id": "4e94a060-4a34-4c10-99e6-be62e3dc11a6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3905028,
+    "platform": "bilibili"
+  }
+}

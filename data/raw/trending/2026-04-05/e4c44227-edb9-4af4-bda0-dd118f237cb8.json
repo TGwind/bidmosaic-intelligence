@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《求职》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV12UDNBXE1z",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-05T13:00:17.119773+00:00",
+  "id": "e4c44227-edb9-4af4-bda0-dd118f237cb8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4633487,
+    "platform": "bilibili"
+  }
+}

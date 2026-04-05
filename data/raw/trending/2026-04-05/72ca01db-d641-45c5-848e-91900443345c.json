@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "高中教室黑板突然脱落，眼看就要砸到老师......第一排两男生眼疾手快，第一时间上前扶住黑板！",
+  "raw_content": "最近，一段过往视频上线引热议，网友点评：老师的左右“护法”，好孩子临危不乱！\n\n（素材来源：卷卷妈咪）",
+  "source_url": "https://www.bilibili.com/video/BV1mg9NBbEaH",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-05T13:00:17.119766+00:00",
+  "id": "72ca01db-d641-45c5-848e-91900443345c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5380926,
+    "platform": "bilibili"
+  }
+}
