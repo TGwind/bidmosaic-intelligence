@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "PolyJarvis: LLM Agent for Autonomous Polymer MD Simulations",
+  "raw_content": "arXiv:2604.02537v1 Announce Type: new Abstract: All-atom molecular dynamics (MD) simulations can predict polymer properties from molecular structure, yet their execution requires specialized expertise in force field selection, system construction, equilibration, and property extraction. We present PolyJarvis, an agent that couples a large language model (LLM) with the RadonPy simulation platform through Model Context Protocol (MCP) servers, enabling end-to-end polymer property prediction from natural language input. Given a polymer name or SMILES string, PolyJarvis autonomously executes monomer construction, charge assignment, polymerization, force field parameterization, GPU-accelerated equilibration, and property calculation. Validation is conducted on polyethylene (PE), atactic polystyrene (aPS), poly(methyl methacrylate) (PMMA), and poly(ethylene glycol) (PEG). Results show density predictions within 0.1--4.8% and bulk moduli within 17--24% of reference values for aPS and PMMA. PMMA glass transition temperature (Tg) (395~K) matches experiment within +10--18~K, while the remaining three polymers overestimate Tg by +38 to +47K (vs upper experimental bounds). Of the 8 property--polymer combinations with directly comparable experimental references, 5 meet strict acceptance criteria. For cases lacking suitable amorphous-phase experimental, agreement with prior MD literature is reported separately. The remaining Tg failures are attributable primarily to the intrinsic MD cooling-rate bias rather than agent error. This work demonstrates that LLM-driven agents can autonomously execute polymer MD workflows producing results consistent with expert-run simulations.",
+  "source_url": "https://arxiv.org/abs/2604.02537",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-06T04:00:00+00:00",
+  "id": "aebc7290-a593-4c4e-86f9-822ad60ef105",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T06:05:52.127476+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "TechCrunch Mobility: ‘A stunning lack of transparency’",
+  "raw_content": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. T",
+  "source_url": "https://techcrunch.com/2026/04/05/techcrunch-mobility-a-stunning-lack-of-transparency/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-05T16:05:00+00:00",
+  "id": "b6435cf8-8325-406f-8b7c-2bcf2645b3f6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T06:05:52.134215+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

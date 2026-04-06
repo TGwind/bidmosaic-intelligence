@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Update on the OpenAI Foundation",
+  "raw_content": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+  "source_url": "https://openai.com/index/update-on-the-openai-foundation",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-24T09:00:00+00:00",
+  "id": "b3252ccf-3eae-469e-a2b3-9337ed2fb873",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T06:05:52.131513+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}
