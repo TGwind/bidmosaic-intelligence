@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "黄龙景区回应男童向钙化彩池内小便",
+  "raw_content": "黄龙景区回应男童向钙化彩池内小便",
+  "source_url": "https://www.toutiao.com/trending/7625515107776086035/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625515107776086035%22%2C%22hot_board_impr_id%22%3A%2220260406154538916CFD9ECB2364256421%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E9%BE%99%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E7%AB%A5%E5%90%91%E9%92%99%E5%8C%96%E5%BD%A9%E6%B1%A0%E5%86%85%E5%B0%8F%E4%BE%BF%22%7D&rank=&style_id=40132&topic_id=7625515107776086035",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T07:45:38.860018+00:00",
+  "id": "ed74cf87-d284-444f-89ef-8af546abe7c5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T07:46:12.176791+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "36520331",
+    "platform": "toutiao"
+  }
+}

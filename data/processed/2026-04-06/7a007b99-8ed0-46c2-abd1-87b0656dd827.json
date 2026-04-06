@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "这锦绣河山 我们替您守护",
-  "raw_content": "这锦绣河山 我们替您守护",
-  "source_url": "https://www.toutiao.com/article/7625167677815783974",
+  "raw_title": "英魂永耀山河间",
+  "raw_content": "英魂永耀山河间",
+  "source_url": "https://www.toutiao.com/article/7625170849988903443",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-06T02:37:06.699528+00:00",
-  "id": "12b56596-0a31-45c6-b058-fecb1a529ecc",
+  "collected_at": "2026-04-06T07:45:38.860008+00:00",
+  "id": "7a007b99-8ed0-46c2-abd1-87b0656dd827",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-06T07:46:12.166009+00:00",
+  "processed_at": "2026-04-06T07:46:12.173248+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "53269522",
+    "hot_score": "40361208",
     "platform": "toutiao"
   }
 }
