@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "东南亚企业净利润增长12%",
+  "raw_content": "2026/04/03 东南亚企业业绩正在恢复。2025年12月财年的上市企业净利润总额同比增长12%，连续第二个财年实现增长。航空、化学等主要产业推进结构性改革，大型业务重组也推动了利润增长。 咨询公司Arthur D. Little经理江间启智表示：“曾被视为增长放缓风险的特朗普关税，最终税率低于预期落地，企业整体收益表现依然稳健”。 日本经济新闻根据QUICK和FactSet的数据，统计了泰国、印度尼西亚、菲律宾、新加坡、马来西亚和越南六个东南亚主要国家约3000家12月结算上市企业（不含金融）的最终损益情况。 2025年12月财年的净利润总额同比增长12%，达到773亿美元，为3年来的高水平。按国家来看，泰国增长56%，达到202亿美元；新加坡增长32%，达到113亿美元，表现稳健。印度尼西亚则下降17%，为171亿美元。 对美出口较多的企业最初普遍担心美国关税会影响业绩，但最终基本避免了冲击。向美国出口产品的台湾系电子零部件制造商Delta Electronics在泰国的子公司Delta Electronics Thailand净利润增长31%。 以出口产业为主的泰国则受到汇率影响较为明显。随着泰铢升值，作为区域出口枢纽的汽车相关企业收益受到拖累。汽车零部件企业Aapico Hitech净利润下降2%。 净利润增幅金额最大的企业是马来西亚的Capital A。该公司从事飞机维修、机上餐饮和旅行应用等业务，最终损益转为盈利20.9亿美元（上一财年为亏损1.95亿美元）。公司将其在马来西亚、泰国、印度尼西亚等地运营的廉价航空公司AirAsia出售给集团关联公司，并计入97亿林吉特的出售收益，这对业绩改善起到了贡献。",
+  "source_url": "http://cn.nikkei.com/industry/management-strategy/62032-2026-04-03-13-08-46.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-03T05:38:03+00:00",
+  "id": "78d8d349-041c-4667-91fb-d87057d2b0fb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T17:01:15.477349+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

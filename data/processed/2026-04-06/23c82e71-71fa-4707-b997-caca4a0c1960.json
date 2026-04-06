@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "New AI cybercrime tool targets crypto, bank KYC systems via deepfakes",
+  "raw_content": "A darknet threat actor is selling new fraud kit to trick KYC identity verification systems on financial platforms via AI-generated deepfakes and real-time voice altering.",
+  "source_url": "https://cointelegraph.com/news/ai-cybercrime-tool-crypto-bank-kyc-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-06T13:09:00+00:00",
+  "id": "23c82e71-71fa-4707-b997-caca4a0c1960",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T17:01:15.414327+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

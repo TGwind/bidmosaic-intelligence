@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy adds $330M BTC as paper losses top $14.5B in Q1",
+  "raw_content": "Strategy resumed Bitcoin purchases, acquiring 4,871 BTC for $329.9 million, while reporting a $14.46 billion unrealized loss and expanding its holdings.",
+  "source_url": "https://cointelegraph.com/news/strategy-adds-4871-bitcoin-holdings-766970-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-06T13:33:07+00:00",
+  "id": "1207e4e8-8c42-4ce9-a5f9-f55aedb80389",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T17:01:15.387358+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
