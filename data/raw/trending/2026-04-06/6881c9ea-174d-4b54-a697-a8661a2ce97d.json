@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗称打击并逼退美军两栖攻击舰",
+  "raw_content": "伊朗称打击并逼退美军两栖攻击舰",
+  "source_url": "https://www.toutiao.com/trending/7624532691367886854/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227624532691367886854%22%2C%22hot_board_impr_id%22%3A%22202604062114003AE6B2A5E6F8DAF57F54%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%89%93%E5%87%BB%E5%B9%B6%E9%80%BC%E9%80%80%E7%BE%8E%E5%86%9B%E4%B8%A4%E6%A0%96%E6%94%BB%E5%87%BB%E8%88%B0%22%7D&rank=&style_id=40132&topic_id=7624532691367886854",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T13:14:00.719294+00:00",
+  "id": "6881c9ea-174d-4b54-a697-a8661a2ce97d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "29052483",
+    "platform": "toutiao"
+  }
+}
