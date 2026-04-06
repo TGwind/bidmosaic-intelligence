@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "这锦绣河山 我们替您守护",
+  "raw_content": "这锦绣河山 我们替您守护",
+  "source_url": "https://www.toutiao.com/article/7625167677815783974",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T02:37:06.699528+00:00",
+  "id": "12b56596-0a31-45c6-b058-fecb1a529ecc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T02:37:42.602334+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "53269522",
+    "platform": "toutiao"
+  }
+}

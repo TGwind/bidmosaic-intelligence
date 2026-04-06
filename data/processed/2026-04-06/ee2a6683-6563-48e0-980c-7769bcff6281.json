@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "赵心童夺2026斯诺克巡回锦标赛冠军",
+  "raw_content": "赵心童夺2026斯诺克巡回锦标赛冠军",
+  "source_url": "https://www.toutiao.com/trending/7624336383088656390/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227624336383088656390%22%2C%22hot_board_impr_id%22%3A%2220260406103706C371ED30610642BA4FFB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%A4%BA2026%E6%96%AF%E8%AF%BA%E5%85%8B%E5%B7%A1%E5%9B%9E%E9%94%A6%E6%A0%87%E8%B5%9B%E5%86%A0%E5%86%9B%22%7D&rank=&style_id=40132&topic_id=7624336383088656390",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T02:37:06.699515+00:00",
+  "id": "ee2a6683-6563-48e0-980c-7769bcff6281",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T02:37:42.605569+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "58871927",
+    "platform": "toutiao"
+  }
+}

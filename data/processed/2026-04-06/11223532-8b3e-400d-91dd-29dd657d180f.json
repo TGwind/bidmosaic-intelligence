@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "孙颖莎与王曼昱颁奖典礼上热聊",
+  "raw_content": "孙颖莎与王曼昱颁奖典礼上热聊",
+  "source_url": "https://www.toutiao.com/trending/7625312769474072107/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625312769474072107%22%2C%22hot_board_impr_id%22%3A%2220260406103706C371ED30610642BA4FFB%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC%E4%B8%8A%E7%83%AD%E8%81%8A%22%7D&rank=&style_id=40132&topic_id=7625312769474072107",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T02:37:06.699572+00:00",
+  "id": "11223532-8b3e-400d-91dd-29dd657d180f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T02:37:42.598482+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "32309598",
+    "platform": "toutiao"
+  }
+}
