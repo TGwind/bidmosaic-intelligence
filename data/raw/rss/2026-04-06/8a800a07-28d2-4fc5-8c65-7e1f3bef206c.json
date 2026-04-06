@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+  "raw_content": "And an Overview of Recent Inference-Scaling Papers",
+  "source_url": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-01-24T11:23:18+00:00",
+  "id": "8a800a07-28d2-4fc5-8c65-7e1f3bef206c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

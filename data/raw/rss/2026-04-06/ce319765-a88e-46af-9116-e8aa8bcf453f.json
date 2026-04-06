@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto attorney says Drift incident may qualify as 'civil negligence'",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto attorney says Drift incident may qualify as 'civil negligence'\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDVmNzMtOTMwZi03MzUzLTk2ZWYtOTQ0ZDQwNDI2MGJiLmpwZw==.jpg\" /></p><p>The $280 million Drift Protocol attack was likely carried out by threat actors aligned with North Korea state-affiliated hackers.</p>",
+  "source_url": "https://cointelegraph.com/news/crypto-attorney-says-drift-incident-may-qualify-as-civil-negligence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-05T21:41:39+00:00",
+  "id": "ce319765-a88e-46af-9116-e8aa8bcf453f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
