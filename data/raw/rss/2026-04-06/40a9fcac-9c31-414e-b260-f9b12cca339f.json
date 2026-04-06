@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "微软将在日本向数据基地投入100亿美元",
+  "raw_content": "<div>2026/04/03</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<strong><span><img height=\"375\" src=\"https://feedx.net/images/2026/04/0403/0403-08-L.jpg\" width=\"600\" /></span></strong>\n\n\n<strong><span>接受美国微软总裁布拉德·史密斯（右）拜会的日本首相高市早苗（3日上午，首相官邸）</span></strong>\n\n\n\n<div>  </div>\n<div>       美国微软4月3日宣布，将在日本向数据中心等领域投资100亿美元。在截至2029年的4年间，将与软银和Sakura Internet联手，构建在日本国内运用人工智能（AI）的数据平台。</div>\n<div> </div>\n<div>       在AI基础设施方面，从经济安全的角度出发，在本国管理重要数据的“数据主权”的重要性正在提高。微软等美国科技巨头将与日本主要企业联手，加紧完善可在日本国内处理数据的体制，以获取相关需求。</div>\n<div> </div>\n<div>       正在访日的微软总裁布拉德·史密斯3日上午与日本首相高市早苗会面，说明了投资计划。其金额在海外数据中心运营商宣布的对日投资中，属于最大级别。</div>\n<div> </div>\n<div>       史密斯对高市表示，“这对我们来说是最大的投资。将与软银、Sakura Internet一起在日本构建AI和云基础设施”。高市对此表示欢迎，称“从重视数据主权的意义上来说具有重大意义”。</div>\n<div> </div>\n<div>       作为投资的一环，微软将与软银和Sakura Internet讨论联合开发面向AI的云平台，在两家公司在日本国内运营的基地完成数据处理。将与用于AI计算处理的微软云平台“Azure”合作。</div>\n<div> </div>\n<div>       微软还将扩充在日本自主运营的数据中心。将在日本东部和日本西部的数据中心追加AI运行所需的半导体等设备。为了推动自主运行的“AI智能体”的普及，构建能处理庞大数据的体制。</div>\n<div> </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/62034-2026-04-03-13-36-20.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-03T05:38:03+00:00",
+  "id": "40a9fcac-9c31-414e-b260-f9b12cca339f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

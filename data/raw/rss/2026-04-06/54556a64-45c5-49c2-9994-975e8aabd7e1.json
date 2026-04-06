@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Persist session state with filesystem configuration and execute shell commands",
+  "raw_content": "In this post, we go through how to use managed session storage to persist your agent's filesystem state and how to execute shell commands directly in your agent's environment.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-02T12:52:07+00:00",
+  "id": "54556a64-45c5-49c2-9994-975e8aabd7e1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
