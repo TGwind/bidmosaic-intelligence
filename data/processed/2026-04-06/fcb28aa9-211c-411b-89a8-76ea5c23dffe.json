@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《青蛙上河图》",
+  "raw_content": "感谢@吉小8与吉美 老师的友情客串！",
+  "source_url": "https://www.bilibili.com/video/BV1nKDgBoEQp",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T19:02:17.654791+00:00",
+  "id": "fcb28aa9-211c-411b-89a8-76ea5c23dffe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T19:02:56.555651+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2146230,
+    "platform": "bilibili"
+  }
+}

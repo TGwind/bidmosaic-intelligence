@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "土耳其甩卖黄金给所有人上了一课",
+  "raw_content": "土耳其甩卖黄金给所有人上了一课",
+  "source_url": "https://www.toutiao.com/trending/7625595190832533038/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625595190832533038%22%2C%22hot_board_impr_id%22%3A%22202604070302169C94EFFF645AED2D5A13%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9C%9F%E8%80%B3%E5%85%B6%E7%94%A9%E5%8D%96%E9%BB%84%E9%87%91%E7%BB%99%E6%89%80%E6%9C%89%E4%BA%BA%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%22%7D&rank=&style_id=40132&topic_id=7625595190832533038",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T19:02:16.941566+00:00",
+  "id": "81495868-ee34-46d8-8ac3-9d29f001f990",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T19:02:56.548442+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "43424646",
+    "platform": "toutiao"
+  }
+}

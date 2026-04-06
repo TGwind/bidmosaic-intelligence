@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "青年大学习：出社会的24个知识",
+  "raw_content": "新人UP有说的不好的请大家多包涵~ 欢迎大家在评论区继续补充",
+  "source_url": "https://www.bilibili.com/video/BV1FD9MBfEn5",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T19:02:17.654806+00:00",
+  "id": "59e01ef6-3287-4a7a-bfb7-31562c161160",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T19:02:56.545145+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 801256,
+    "platform": "bilibili"
+  }
+}

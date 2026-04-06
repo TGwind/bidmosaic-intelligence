@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "幸福是如童话般美好的念想，而生活的疲惫却更贴近我的日常【学姐系列完结卷】",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1DTSUB1Evb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T19:02:17.654741+00:00",
+  "id": "04ca74ad-64b0-4323-abef-c818d902fb3b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T19:02:56.529779+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1959571,
+    "platform": "bilibili"
+  }
+}

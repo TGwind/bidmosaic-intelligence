@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "当你问二次元寝室都玩什么游戏..",
+  "raw_content": "灵感来源！dy：@狗明儿 结尾梗源网络某群聊",
+  "source_url": "https://www.bilibili.com/video/BV1KH9uBBEwJ",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T19:02:17.654754+00:00",
+  "id": "e6a1a26d-0055-4782-a859-58e20afc2de7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T19:02:56.555882+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6169005,
+    "platform": "bilibili"
+  }
+}
