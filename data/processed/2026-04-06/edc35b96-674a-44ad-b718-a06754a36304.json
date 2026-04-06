@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "China's tax authority urges banks to implement blockchain for lending services",
+  "raw_content": "China’s leading tax and financial authorities are urging banks to incorporate blockchain technology to bolster their credit facilities and data transparency.",
+  "source_url": "https://cointelegraph.com/news/china-tax-authority-banks-implement-blockchain-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-06T10:10:35+00:00",
+  "id": "edc35b96-674a-44ad-b718-a06754a36304",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T13:28:41.598042+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
