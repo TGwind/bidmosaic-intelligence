@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "英魂永耀山河间",
+  "raw_content": "英魂永耀山河间",
+  "source_url": "https://www.toutiao.com/article/7625170849988903443",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-06T07:45:38.860008+00:00",
+  "id": "7a007b99-8ed0-46c2-abd1-87b0656dd827",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "40361208",
+    "platform": "toutiao"
+  }
+}
