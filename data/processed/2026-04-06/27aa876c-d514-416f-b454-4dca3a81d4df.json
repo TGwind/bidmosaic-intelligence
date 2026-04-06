@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "PX4 Autopilot",
+  "raw_content": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker with access to the MAVLink interface to execute arbitrary shell commands without cryptographic authentication. The following versions of PX4 Autopilot are affected: Autopilot v1.16.0_SITL_latest_stable (CVE-2026-1579) CVSS Vendor Equipment Vulnerabilities v3 9.8 PX4 PX4 Autopilot Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Transportation Systems, Emergency Services, Defense Industrial Base Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzerland Vulnerabilities Expand All + CVE-2026-1579 The MAVLink communication protocol does not require cryptographic authentication by default. When MAVLink 2.0 message signing is not enabled, any message -- including SERIAL_CONTROL, which provides interactive shell access -- can be sent by an unauthenticated party with access to the MAVLink interface. PX4 provides MAVLink 2.0 message signing as the cryptographic authentication mechanism for all MAVLink communication. When signing is enabled, unsigned messages are rejected at the protocol level. View CVE Details Affected Products PX4 Autopilot Vendor:PX4 Product Version:PX4 Autopilot: v1.16.0_SITL_latest_stable Product Status:known_affected Remediations MitigationPX4 recommends enabling MAVLink 2.0 message signing as the authentication mechanism for all non‑USB communication links. PX4 has published a security hardening guide for integrators and manufacturers at https://docs.px4.io/main/en/mavlink/security_hardening.https://docs.px4.io/main/en/mavlink/security_hardening MitigationMessage signing configuration documentation can be found at https://docs.px4.io/main/en/mavlink/message_signing.https://docs.px4.io/main/en/mavlink/message_signing Relevant CWE: CWE-306 Missing Authentication for Critical Function Metrics CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H Acknowledgments Dolev Aviv of Cyviation reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy &amp; Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the Internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. CISA also recommends users take the following measures to protect themselves from social engineering attacks: Do not click web links or open attachments in unsolicited email messages. Refer to Recognizing and Avoiding Email Scams for more information on avoiding email scams. Refer to Avoiding Social Engineering and Phishing Attacks for more information on social engineering attacks. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. Revision History Initial Release Date: 2026-03-31 Date Revision Summary 2026-03-31 1 Initial Publication Legal Notice and Terms of Use",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-31T12:00:00+00:00",
+  "id": "27aa876c-d514-416f-b454-4dca3a81d4df",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T20:51:00.782506+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
