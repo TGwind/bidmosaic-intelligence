@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Circle unveils quantum-resistant roadmap for its layer-1 blockchain Arc",
+  "raw_content": "Circle’s plan to make Arc quantum-resistant comes amid increasing fears that \"Q-Day\" may come sooner than anticipated.",
+  "source_url": "https://cointelegraph.com/news/circle-quantum-proof-roadmap-layer-1-arc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-06T06:09:38+00:00",
+  "id": "48e17827-bf6a-4e59-993f-c3ec1975a41c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T09:19:12.260358+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

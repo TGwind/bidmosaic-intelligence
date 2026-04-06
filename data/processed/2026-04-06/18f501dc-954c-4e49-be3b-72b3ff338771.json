@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Anthropic says one of its Claude models was pressured to lie, cheat and blackmail",
+  "raw_content": "In one of the experiments, the chatbot resorted to blackmail after it found an email about replacing it, while in another, it cheated to complete a task with a tight deadline.",
+  "source_url": "https://cointelegraph.com/news/anthropic-claude-ai-deception-cheating-blackmail-study?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-06T06:14:27+00:00",
+  "id": "18f501dc-954c-4e49-be3b-72b3ff338771",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T09:19:12.205175+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Interpretable Deep Reinforcement Learning for Element-level Bridge Life-cycle Optimization",
+  "raw_content": "arXiv:2604.02528v1 Announce Type: new Abstract: The new Specifications for the National Bridge Inventory (SNBI), in effect from 2022, emphasize the use of element-level condition states (CS) for risk-based bridge management. Instead of a general component rating, element-level condition data use an array of relative CS quantities (i.e., CS proportions) to represent the condition of a bridge. Although this greatly increases the granularity of bridge condition data, it introduces challenges to set up optimal life-cycle policies due to the expanded state space from one single categorical integer to four-dimensional probability arrays. This study proposes a new interpretable reinforcement learning (RL) approach to seek optimal life-cycle policies based on element-level state representations. Compared to existing RL methods, the proposed algorithm yields life-cycle policies in the form of oblique decision trees with reasonable amounts of nodes and depth, making them directly understandable and auditable by humans and easily implementable into current bridge management systems. To achieve near-optimal policies, the proposed approach introduces three major improvements to existing RL methods: (a) the use of differentiable soft tree models as actor function approximators, (b) a temperature annealing process during training, and (c) regularization paired with pruning rules to limit policy complexity. Collectively, these improvements can yield interpretable life-cycle policies in the form of deterministic oblique decision trees. The benefits and trade-offs from these techniques are demonstrated in both supervised and reinforcement learning settings. The resulting framework is illustrated in a life-cycle optimization problem for steel girder bridges.",
+  "source_url": "https://arxiv.org/abs/2604.02528",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-06T04:00:00+00:00",
+  "id": "73b7bc17-49fe-479f-9422-b8fe1cec15ee",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-06T09:19:12.279054+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
