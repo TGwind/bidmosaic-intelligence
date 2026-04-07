@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "New evidence in Libra probe renews questions about Milei involvement",
+  "raw_content": "New documents seen by The New York Times suggest the Argentine president had seven phone calls with the entrepreneur behind the Libra token.",
+  "source_url": "https://cointelegraph.com/news/milei-libra-token-investigation-new-evidence-raises-questions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T04:11:26+00:00",
+  "id": "a06c8d4a-ab31-436b-961c-ba05c55d8969",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T09:16:19.925817+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

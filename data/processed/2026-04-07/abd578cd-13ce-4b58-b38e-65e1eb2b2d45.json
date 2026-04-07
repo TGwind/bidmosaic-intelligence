@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin ETF inflows hit $471M, highest since late February",
+  "raw_content": "Spot Bitcoin ETFs draw $471 million in their strongest daily inflow in weeks, while Ether funds return to gains despite cautious sentiment.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-etf-inflows-471-million-highest-since-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T08:55:03+00:00",
+  "id": "abd578cd-13ce-4b58-b38e-65e1eb2b2d45",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T09:16:19.927127+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

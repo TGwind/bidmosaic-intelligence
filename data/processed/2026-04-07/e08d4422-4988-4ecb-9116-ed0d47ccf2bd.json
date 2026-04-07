@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP slips to $1.31 after failed breakout as liquidity dries up",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/07/xrp-slips-to-usd1-31-after-failed-breakout-as-liquidity-dries-up",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T05:41:56+00:00",
+  "id": "e08d4422-4988-4ecb-9116-ed0d47ccf2bd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T09:16:19.948099+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
