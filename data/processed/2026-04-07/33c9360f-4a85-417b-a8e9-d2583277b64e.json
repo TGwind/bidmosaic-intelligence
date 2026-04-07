@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US appeals court upholds preventing New Jersey enforcement against Kalshi",
+  "raw_content": "As states seek to regulate prediction markets, a panel of federal judges ruled in favor of Kalshi’s position that only the CFTC has jurisdiction.",
+  "source_url": "https://cointelegraph.com/news/appellate-court-new-jersey-enforcement-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-06T20:13:38+00:00",
+  "id": "33c9360f-4a85-417b-a8e9-d2583277b64e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T03:20:36.267677+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Chaos Labs taps out as Aave's risk provider, decision ‘not made in haste’",
+  "raw_content": "DeFi risk manager Chaos Labs said Aave’s planned migration to Aave V4 introduced risks that it wasn’t willing to assume, while Aave said Chaos wanted to take on full control as the sole risk service provider.",
+  "source_url": "https://cointelegraph.com/news/defi-risk-manager-chaos-labs-leaves-aave-says-decision-not-made-haste?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T02:04:45+00:00",
+  "id": "c8af5d4c-2bdf-41fc-8a4f-6037b2651626",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T03:20:36.353863+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

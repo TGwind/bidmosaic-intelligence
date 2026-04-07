@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Polymarket drops USDC.e for USDC-backed token in exchange overhaul",
+  "raw_content": "Polymarket is upgrading its exchange infrastructure in the coming weeks, introducing new contracts and a USDC-backed token while phasing out a bridged stablecoin.",
+  "source_url": "https://cointelegraph.com/news/polymarket-replace-usdce-usdc-backed-token-exchange-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-06T21:40:07+00:00",
+  "id": "2e8af6ee-7607-4aaf-87da-c2eaf7a3efa4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T03:20:36.264527+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin may hit $110K as Strategy absorbs nearly 3x new BTC supply",
+  "raw_content": "Bitcoin may invalidate its bear flag setup as Strategy buys 46,233 BTC in just over a month, outpacing the 16,200 BTC supply in the same period.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-may-hit-dollar110k-strategy-absorbs-3x-new-btc-supply?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-06T20:30:00+00:00",
+  "id": "b77f6c32-66e6-4398-88ed-601115747a52",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T03:20:36.356372+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

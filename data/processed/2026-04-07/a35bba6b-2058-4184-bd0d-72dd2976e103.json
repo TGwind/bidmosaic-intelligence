@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Netflix is expanding into kids’ games with a new stand-alone app",
+  "raw_content": "Netflix says the app gives children access to an \"ever-growing\" library of games for kids.",
+  "source_url": "https://techcrunch.com/2026/04/06/netflix-launches-a-standalone-app-for-kids-games/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-06T18:21:49+00:00",
+  "id": "a35bba6b-2058-4184-bd0d-72dd2976e103",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T03:20:36.342070+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

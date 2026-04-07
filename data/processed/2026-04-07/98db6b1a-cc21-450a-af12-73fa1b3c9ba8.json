@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "JPMorgan's Jamie Dimon sees ‘new competitors’ from blockchain, stablecoins",
+  "raw_content": "The CEO's annual shareholder letter warned that new tech is reshaping finance, with tokenization and blockchain competitors gaining as the bank scales its own network.",
+  "source_url": "https://cointelegraph.com/news/jpmorgan-dimon-blockchain-competitors-kinexys-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-06T18:48:29+00:00",
+  "id": "98db6b1a-cc21-450a-af12-73fa1b3c9ba8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T03:20:36.332824+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
