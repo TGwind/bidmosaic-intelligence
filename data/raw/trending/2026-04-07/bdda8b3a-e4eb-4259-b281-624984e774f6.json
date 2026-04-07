@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "两岸中国人完全有能力解决好自己的事",
+  "raw_content": "两岸中国人完全有能力解决好自己的事",
+  "source_url": "https://www.toutiao.com/trending/7625775107168550950/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625775107168550950%22%2C%22hot_board_impr_id%22%3A%2220260407151955F2014EC007F2F879228A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%A4%E5%B2%B8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AE%8C%E5%85%A8%E6%9C%89%E8%83%BD%E5%8A%9B%E8%A7%A3%E5%86%B3%E5%A5%BD%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%8B%22%7D&rank=&style_id=40132&topic_id=7625775107168550950",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T07:19:55.913496+00:00",
+  "id": "bdda8b3a-e4eb-4259-b281-624984e774f6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "29975694",
+    "platform": "toutiao"
+  }
+}

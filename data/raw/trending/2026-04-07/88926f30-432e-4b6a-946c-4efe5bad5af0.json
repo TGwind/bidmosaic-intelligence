@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "字里行间皆家国！英烈楷模从未忘",
+  "raw_content": "字里行间皆家国！英烈楷模从未忘",
+  "source_url": "https://www.toutiao.com/article/7625639042192949801",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T07:19:55.913509+00:00",
+  "id": "88926f30-432e-4b6a-946c-4efe5bad5af0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "27123130",
+    "platform": "toutiao"
+  }
+}

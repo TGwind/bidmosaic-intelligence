@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "朗诵马说（但读到“马”就马叫）",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1CH9TBfEDq",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T07:19:56.918863+00:00",
+  "id": "30bc440b-d9eb-4531-879d-76e99a642bf5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4435498,
+    "platform": "bilibili"
+  }
+}
