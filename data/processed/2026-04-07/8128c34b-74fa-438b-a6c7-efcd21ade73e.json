@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "俄称世界能源市场已发生重大变化",
+  "raw_content": "俄称世界能源市场已发生重大变化",
+  "source_url": "https://www.toutiao.com/trending/7625948353053917230/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625948353053917230%22%2C%22hot_board_impr_id%22%3A%22202604080305177BE7EEE645A8D13F0575%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E7%A7%B0%E4%B8%96%E7%95%8C%E8%83%BD%E6%BA%90%E5%B8%82%E5%9C%BA%E5%B7%B2%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%8F%98%E5%8C%96%22%7D&rank=&style_id=40132&topic_id=7625948353053917230",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T19:05:17.396642+00:00",
+  "id": "8128c34b-74fa-438b-a6c7-efcd21ade73e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T19:05:57.084951+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "86013475",
+    "platform": "toutiao"
+  }
+}

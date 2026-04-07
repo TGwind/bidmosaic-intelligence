@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "姐姐为亡弟追凶29年 对话当事人",
+  "raw_content": "姐姐为亡弟追凶29年 对话当事人",
+  "source_url": "https://www.toutiao.com/trending/7625635265768587302/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625635265768587302%22%2C%22hot_board_impr_id%22%3A%22202604080305177BE7EEE645A8D13F0575%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A7%90%E5%A7%90%E4%B8%BA%E4%BA%A1%E5%BC%9F%E8%BF%BD%E5%87%B629%E5%B9%B4+%E5%AF%B9%E8%AF%9D%E5%BD%93%E4%BA%8B%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7625635265768587302",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T19:05:17.396727+00:00",
+  "id": "5b8bde56-43ad-466a-89d3-59852293e73f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T19:05:57.079680+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "47205196",
+    "platform": "toutiao"
+  }
+}

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "幸福是如童话般美好的念想，而生活的疲惫却更贴近我的日常【学姐系列完结卷】",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1DTSUB1Evb",
+  "raw_title": "《先放一放》：偶尔“没心没肺”一下！",
+  "raw_content": "去吧，偶尔“没心没肺”一下！ 郑州市金水区金沙小学 原创作品 导演 马超群",
+  "source_url": "https://www.bilibili.com/video/BV1UVSUBrEJb",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-07T07:19:56.918915+00:00",
-  "id": "3cb44ab1-fec8-4733-a261-e94c388bfc51",
+  "collected_at": "2026-04-07T19:05:18.292951+00:00",
+  "id": "62fbdd09-18ad-49b8-aa8b-f9a6dbd81b0a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-07T19:05:57.077547+00:00",
+  "processed_at": "2026-04-07T19:05:57.082328+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2115811,
+    "hot_score": 1678117,
     "platform": "bilibili"
   }
 }

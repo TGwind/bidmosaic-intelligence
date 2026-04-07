@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "幸福是如童话般美好的念想，而生活的疲惫却更贴近我的日常【学姐系列完结卷】",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1DTSUB1Evb",
+  "raw_title": "最 难 绷 躲 猫 猫 ！！",
+  "raw_content": "一键三连哦！！感谢！",
+  "source_url": "https://www.bilibili.com/video/BV11PSSBqEKd",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-07T07:19:56.918915+00:00",
-  "id": "3cb44ab1-fec8-4733-a261-e94c388bfc51",
+  "collected_at": "2026-04-07T19:05:18.292964+00:00",
+  "id": "14f4b585-7dd7-459b-bac5-8ecdd9e9813c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-07T19:05:57.077547+00:00",
+  "processed_at": "2026-04-07T19:05:57.067336+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2115811,
+    "hot_score": 1984389,
     "platform": "bilibili"
   }
 }
