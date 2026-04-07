@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price risks '$15K shakeout' in the next 5 months, BTC analyst warns",
+  "raw_content": "Multiple Bitcoin indicators, including a bull-bear sentiment index and realized price metric, point to a possible final BTC shakeout toward $54,000",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-risks-dollar15k-shakeout-next-5-months-btc-analyst-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T14:02:45+00:00",
+  "id": "d8669e1d-58cd-496b-b439-be75289571d5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T20:59:41.624494+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

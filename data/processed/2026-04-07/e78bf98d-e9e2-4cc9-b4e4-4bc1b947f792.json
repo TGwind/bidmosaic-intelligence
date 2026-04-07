@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US prosecutors reject Tornado Cash co-founder‘s argument for dismissal",
+  "raw_content": "Roman Storm, the co-founder of the crypto mixing service, still faces a possible retrial on two charges after a jury failed to reach a verdict in 2025.",
+  "source_url": "https://cointelegraph.com/news/us-prosecutors-tornado-cash-roman-storm-copyright-argument?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T16:48:05+00:00",
+  "id": "e78bf98d-e9e2-4cc9-b4e4-4bc1b947f792",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T20:59:41.626814+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

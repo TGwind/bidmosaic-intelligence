@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Americans lost $11B to crypto scams in 2025, says FBI",
+  "raw_content": "According to the bureau, a large number of minors aged 17 and younger were included in complaints related to crypto or crypto ATMs, resulting in more than $5 million in losses.",
+  "source_url": "https://cointelegraph.com/news/fbi-americans-crypto-scams-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T19:44:32+00:00",
+  "id": "777cc173-f967-42e6-99e6-997aea2a13af",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T20:59:41.601255+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

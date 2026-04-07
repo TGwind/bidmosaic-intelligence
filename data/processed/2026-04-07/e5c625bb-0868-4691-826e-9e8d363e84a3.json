@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "A teenage Minecraft YouTuber raised $1,234,567 for a meme prediction market called Giggles. It broke me.",
+  "raw_content": "Justin Jin’s company Giggles – which he describes as “putting a trading app and TikTok together” – started as a joke.",
+  "source_url": "https://techcrunch.com/2026/04/07/a-teenage-minecraft-youtuber-raised-1234567-for-a-meme-prediction-market-called-giggles-it-broke-me/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-07T14:02:08+00:00",
+  "id": "e5c625bb-0868-4691-826e-9e8d363e84a3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T20:59:41.626159+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
