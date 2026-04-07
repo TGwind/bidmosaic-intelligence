@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Anritsu Remote Spectrum Monitor",
+  "raw_content": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers with network access to alter operational settings, obtain sensitive signal data, or disrupt device availability. The following versions of Anritsu Remote Spectrum Monitor are affected: Remote Spectrum Monitor MS27100A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27101A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27102A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27103A vers:all/* (CVE-2026-3356) CVSS Vendor Equipment Vulnerabilities v3 9.8 Anritsu Anritsu Remote Spectrum Monitor Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Communications, Defense Industrial Base, Emergency Services, Transportation Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: Japan Vulnerabilities Expand All + CVE-2026-3356 The MS27102A Remote Spectrum Monitor is vulnerable to an authentication bypass that allows unauthorized users to access and manipulate its management interface. Because the device provides no mechanism to enable or configure authentication, the issue is inherent to its design rather than a deployment error. View CVE Details Affected Products Anritsu Remote Spectrum Monitor Vendor:Anritsu Product Version:Anritsu Remote Spectrum Monitor MS27100A: vers:all/*, Anritsu Remote Spectrum Monitor MS27101A: vers:all/*, Anritsu Remote Spectrum Monitor MS27102A: vers:all/*, Anritsu Remote Spectrum Monitor MS27103A: vers:all/* Product Status:known_affected Remediations MitigationAnritsu has no plans to fix this issue. Anritsu recommends that users deploy Remote Spectrum Monitor within secure network environments to mitigate potential risks. MitigationUsers can contact Anritsu Technical Support (1-800-267-4878) for more information. Relevant CWE: CWE-306 Missing Authentication for Critical Function Metrics CVSS Version Base Score Base Severity Vector String 3.1 9.8 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H Acknowledgments Souvik Kandar reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy &amp; Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the Internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. Revision History Initial Release Date: 2026-03-31 Date Revision Summary 2026-03-31 1 Initial Publication Legal Notice and Terms of Use",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-03-31T12:00:00+00:00",
+  "id": "20b894d9-174c-412d-a5e3-3e031dc28149",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T13:50:51.551931+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}

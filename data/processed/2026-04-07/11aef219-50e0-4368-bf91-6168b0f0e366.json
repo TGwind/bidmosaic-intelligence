@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Korea orders crypto exchanges to verify holdings every 5 minutes",
+  "raw_content": "An inspection found slow reconciliation cycles and weak trade-halting systems across major crypto exchanges.",
+  "source_url": "https://cointelegraph.com/news/south-korea-crypto-exchanges-verify-holdings-5-minutes-fsc-rule?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T12:34:04+00:00",
+  "id": "11aef219-50e0-4368-bf91-6168b0f0e366",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T13:50:51.541496+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price-drop speculation spurred by familiar price pattern",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/07/bitcoin-price-drop-speculation-spurred-by-familiar-price-pattern",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T10:53:02+00:00",
+  "id": "53bcefeb-e61f-4a3b-b6a1-1b841eb6eb4b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T13:50:51.606124+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

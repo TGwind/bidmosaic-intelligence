@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Hume's Representational Conditions for Causal Judgment: What Bayesian Formalization Abstracted Away",
+  "raw_content": "arXiv:2604.03387v1 Announce Type: new Abstract: Hume's account of causal judgment presupposes three representational conditions: experiential grounding (ideas must trace to impressions), structured retrieval (association must operate through organized networks exceeding pairwise connection), and vivacity transfer (inference must produce felt conviction, not merely updated probability). This paper extracts these conditions from Hume's texts and argues that they are integral to his causal psychology. It then traces their fate through the formalization trajectory from Hume to Bayesian epistemology and predictive processing, showing that later frameworks preserve the updating structure of Hume's insight while abstracting away these further representational conditions. Large language models serve as an illustrative contemporary case: they exhibit a form of statistical updating without satisfying the three conditions, thereby making visible requirements that were previously background assumptions in Hume's framework.",
+  "source_url": "https://arxiv.org/abs/2604.03387",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-07T04:00:00+00:00",
+  "id": "0edc2e5f-300b-47c8-aa68-76b6231b1481",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T13:50:51.521776+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

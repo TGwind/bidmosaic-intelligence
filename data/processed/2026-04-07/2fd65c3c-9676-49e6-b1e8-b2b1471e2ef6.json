@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto ETP inflows hit $224M as XRP leads weekly inflows",
+  "raw_content": "Crypto ETPs drew $224 million in inflows last week as XRP led gains, while US ETFs lagged and Ether posted outflows amid mixed macro data and policy expectations.",
+  "source_url": "https://cointelegraph.com/news/crypto-etp-week-224-million-inflow-xrp-leads-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T11:30:54+00:00",
+  "id": "2fd65c3c-9676-49e6-b1e8-b2b1471e2ef6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T13:50:51.571249+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
