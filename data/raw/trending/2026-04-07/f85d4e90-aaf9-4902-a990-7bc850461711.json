@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "网警依法查处非法“薅羊毛”案",
+  "raw_content": "网警依法查处非法“薅羊毛”案",
+  "source_url": "https://www.toutiao.com/trending/7625810012153348102/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625810012153348102%22%2C%22hot_board_impr_id%22%3A%2220260407212200879EE4E1D00CC8BC0E0F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E8%AD%A6%E4%BE%9D%E6%B3%95%E6%9F%A5%E5%A4%84%E9%9D%9E%E6%B3%95%E2%80%9C%E8%96%85%E7%BE%8A%E6%AF%9B%E2%80%9D%E6%A1%88%22%7D&rank=&style_id=40132&topic_id=7625810012153348102",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T13:22:00.933845+00:00",
+  "id": "f85d4e90-aaf9-4902-a990-7bc850461711",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "49838095",
+    "platform": "toutiao"
+  }
+}
