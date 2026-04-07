@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "你会为养老过度焦虑吗",
+  "raw_content": "你会为养老过度焦虑吗",
+  "source_url": "https://www.toutiao.com/trending/7625657927534264326/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625657927534264326%22%2C%22hot_board_impr_id%22%3A%22202604071032043250946CB9FE088F1A4B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%A0%E4%BC%9A%E4%B8%BA%E5%85%BB%E8%80%81%E8%BF%87%E5%BA%A6%E7%84%A6%E8%99%91%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7625657927534264326",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T02:32:04.594905+00:00",
+  "id": "7b77cfde-4ece-47f8-baf3-8d0b949bdd14",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T02:32:45.347773+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9622706",
+    "platform": "toutiao"
+  }
+}

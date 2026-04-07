@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "国际油价大涨“蝴蝶效应”显现",
+  "raw_content": "国际油价大涨“蝴蝶效应”显现",
+  "source_url": "https://www.toutiao.com/trending/7624871826774425606/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227624871826774425606%22%2C%22hot_board_impr_id%22%3A%22202604071032043250946CB9FE088F1A4B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8%E2%80%9C%E8%9D%B4%E8%9D%B6%E6%95%88%E5%BA%94%E2%80%9D%E6%98%BE%E7%8E%B0%22%7D&rank=&style_id=40132&topic_id=7624871826774425606",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T02:32:04.594762+00:00",
+  "id": "6f1f4d09-644c-441e-932c-ffee75a6d358",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T02:32:45.341634+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "39021999",
+    "platform": "toutiao"
+  }
+}
