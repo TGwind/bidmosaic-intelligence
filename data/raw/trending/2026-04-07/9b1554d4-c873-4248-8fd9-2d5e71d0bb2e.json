@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "什么叫你爹转生成你女朋友？然后你俩开了一把？",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1PGDNB7EnN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T19:05:18.292843+00:00",
+  "id": "9b1554d4-c873-4248-8fd9-2d5e71d0bb2e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3264585,
+    "platform": "bilibili"
+  }
+}
