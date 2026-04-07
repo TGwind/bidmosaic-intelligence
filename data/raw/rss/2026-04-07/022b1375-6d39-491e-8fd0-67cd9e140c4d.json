@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Gabriel Makhlouf: Bridge to the future - mobilising Europe's savings in a fragmenting world",
+  "raw_content": "Speech (virtually) by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the 2026 Eurofi High Level Seminar, Nicosia, 27 March 2026.",
+  "source_url": "https://www.bis.org/review/r260330b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-07T09:13:33.580804+00:00",
+  "id": "022b1375-6d39-491e-8fd0-67cd9e140c4d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

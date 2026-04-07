@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the March 17-18 FOMC meeting",
+  "raw_content": "Federal Reserve Board and Federal Open Market Committee release economic projections from the March 17-18 FOMC meeting",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318b.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-18T18:00:00+00:00",
+  "id": "9a9f585d-2a61-4e4e-9193-4177434f8a1d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

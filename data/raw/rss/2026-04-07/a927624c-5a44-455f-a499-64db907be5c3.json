@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Contextual Control without Memory Growth in a Context-Switching Task",
+  "raw_content": "arXiv:2604.03479v1 Announce Type: new \nAbstract: Context-dependent sequential decision making is commonly addressed either by providing context explicitly as an input or by increasing recurrent memory so that contextual information can be represented internally. We study a third alternative: realizing contextual dependence by intervening on a shared recurrent latent state, without enlarging recurrent dimensionality. To this end, we introduce an intervention-based recurrent architecture in which a recurrent core first constructs a shared pre-intervention latent state, and context then acts through an additive, context-indexed operator. We evaluate this idea on a context-switching sequential decision task under partial observability. We compare three model families: a label-assisted baseline with direct context access, a memory baseline with enlarged recurrent state, and the proposed intervention model, which uses no direct context input to the recurrent core and no memory growth. On the main benchmark, the intervention model performs strongly without additional recurrent dimensions. We also evaluate the models using the conditional mutual information (I(C;O | S)) as a theorem-motivated operational probe of contextual dependence at fixed latent state. For task-relevant phase-1 outcomes, the intervention model exhibits positive conditional contextual information. Together, these results suggest that intervention on a shared recurrent state provides a viable alternative to recurrent memory growth for contextual control in this setting.",
+  "source_url": "https://arxiv.org/abs/2604.03479",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-07T04:00:00+00:00",
+  "id": "a927624c-5a44-455f-a499-64db907be5c3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
