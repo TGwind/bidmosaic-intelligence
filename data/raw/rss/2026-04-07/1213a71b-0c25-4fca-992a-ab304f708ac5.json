@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "TABQAWORLD: Optimizing Multimodal Reasoning for Multi-Turn Table Question Answering",
+  "raw_content": "arXiv:2604.03393v1 Announce Type: new \nAbstract: Multimodal reasoning has emerged as a powerful framework for enhancing reasoning capabilities of reasoning models. While multi-turn table reasoning methods have improved reasoning accuracy through tool use and reward modeling, they rely on fixed text serialization for table state readouts. This introduces representation errors in table encoding that significantly accumulate over multiple turns. Such accumulation is alleviated by tabular grounding methods in the expense of inference compute and cost, rendering real world deployment impractical. To address this, we introduce TABQAWORLD, a table reasoning framework that jointly optimizes tabular action through representation and estimation. For representation, TABQAWORLD employs an action-conditioned multimodal selection policy, which dynamically switches between visual and textual representations to maximize table state readout reliability. For estimation, TABQAWORLD optimizes stepwise reasoning trajectory through table metadata including dimension, data types and key values, safely planning trajectory and compressing low-complexity actions to reduce conversation turns and latency. Designed as a training-free framework, empirical evaluations show that TABQAWORLD achieves state-of-the-art performance with 4.87% accuracy improvements over baselines, with 5.42% accuracy gain and 33.35% inference latency reduction over static settings, establishing a new standard for reliable and efficient table reasoning.",
+  "source_url": "https://arxiv.org/abs/2604.03393",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-07T04:00:00+00:00",
+  "id": "1213a71b-0c25-4fca-992a-ab304f708ac5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

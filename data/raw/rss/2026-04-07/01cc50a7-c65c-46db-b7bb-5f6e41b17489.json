@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models",
+  "raw_content": "arXiv:2604.03286v1 Announce Type: new \nAbstract: The control of complex laboratory instrumentation often requires significant programming expertise, creating a barrier for researchers lacking computational skills. This work explores the potential of large language models (LLMs), such as ChatGPT, and LLM-based artificial intelligence (AI) agents to enable efficient programming and automation of scientific equipment. Through a case study involving the implementation of a setup that can be used as a single-pixel camera or a scanning photocurrent microscope, we demonstrate how ChatGPT can facilitate the creation of custom scripts for instrumentation control, significantly reducing the technical barrier for experimental customization. Building on this capability, we further illustrate how LLM-assisted tools can be extended into autonomous AI agents capable of independently operating laboratory instruments and iteratively refining control strategies. This approach underscores the transformative role of LLM-based tools and AI agents in democratizing laboratory automation and accelerating scientific progress.",
+  "source_url": "https://arxiv.org/abs/2604.03286",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-07T04:00:00+00:00",
+  "id": "01cc50a7-c65c-46db-b7bb-5f6e41b17489",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

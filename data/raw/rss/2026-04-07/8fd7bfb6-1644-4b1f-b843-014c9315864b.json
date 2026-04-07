@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "香港80年传统酱油工厂  都市开发中求生存",
+  "raw_content": "<div><div><div><noscript><div><div><strong>你的器材不支持播放多媒体材料</strong></div></div></noscript></div><span>香港80年传统酱油工厂  都市开发中求生存</span></span></div></div><div><strong>香港80年传统酱油工厂  都市开发中求生存</strong></div><div><time datetime=\"2026-04-07\">22 分钟前</time></div><div><p>位在香港新界上水的悦和酱园有超过80年历史，是香港最后的传统酱油工厂之一。他们以古法制作，一批香气、味道俱足的酱油工期最长可能需时6个月。</p></div><div><p>但随着都市开发计划的进行，他们的生存可能面临挑战。香港政府2021年提出“北部都会区”计划，目的是在香港北部建设新的住宅、科技园区、教育设施与交通枢纽，悦和所在的地区也在该计划覆盖范围、政府已公开招标。</p></div><div><p>悦和酱园第三代负责人庞中衡认为工厂最终也只能搬迁，但他目前还未找到另一个适合酱油生产的地点。</p></div>",
+  "source_url": "https://www.bbc.com/zhongwen/articles/cy71edyxg38o/simp#2",
+  "source_name": "BBC中文",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T11:13:01+00:00",
+  "id": "8fd7bfb6-1644-4b1f-b843-014c9315864b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/bbc.xml",
+    "category": "china_news",
+    "source_type": "wire",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}
