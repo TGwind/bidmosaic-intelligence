@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "字里行间皆家国！英烈楷模从未忘",
-  "raw_content": "字里行间皆家国！英烈楷模从未忘",
-  "source_url": "https://www.toutiao.com/article/7625639042192949801",
+  "raw_title": "盘点清明假日消费新亮点",
+  "raw_content": "盘点清明假日消费新亮点",
+  "source_url": "https://www.toutiao.com/article/7625658500722737716",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-07T02:32:04.594806+00:00",
-  "id": "0e2428b4-ff4a-487e-bf6c-9ffa67fef8f3",
+  "collected_at": "2026-04-07T13:22:00.933816+00:00",
+  "id": "5ef90041-7398-4097-a579-b9dc8f81d849",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-07T13:22:36.667066+00:00",
+  "processed_at": "2026-04-07T13:22:36.674739+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "31948510",
+    "hot_score": "67274391",
     "platform": "toutiao"
   }
 }

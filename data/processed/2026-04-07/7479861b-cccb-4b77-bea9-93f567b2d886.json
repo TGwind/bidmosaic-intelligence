@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "宋志勇明确为正部长级",
+  "raw_content": "宋志勇明确为正部长级",
+  "source_url": "https://www.toutiao.com/trending/7625989951517065252/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625989951517065252%22%2C%22hot_board_impr_id%22%3A%2220260407212200879EE4E1D00CC8BC0E0F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%8B%E5%BF%97%E5%8B%87%E6%98%8E%E7%A1%AE%E4%B8%BA%E6%AD%A3%E9%83%A8%E9%95%BF%E7%BA%A7%22%7D&rank=&style_id=40132&topic_id=7625989951517065252",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T13:22:00.933826+00:00",
+  "id": "7479861b-cccb-4b77-bea9-93f567b2d886",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T13:22:36.677850+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "60872387",
+    "platform": "toutiao"
+  }
+}

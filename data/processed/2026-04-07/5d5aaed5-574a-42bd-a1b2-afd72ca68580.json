@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "油价今晚上调 国家继续降低涨幅",
+  "raw_content": "油价今晚上调 国家继续降低涨幅",
+  "source_url": "https://www.toutiao.com/trending/7625909184063639049/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625909184063639049%22%2C%22hot_board_impr_id%22%3A%2220260407212200879EE4E1D00CC8BC0E0F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E4%B8%8A%E8%B0%83+%E5%9B%BD%E5%AE%B6%E7%BB%A7%E7%BB%AD%E9%99%8D%E4%BD%8E%E6%B6%A8%E5%B9%85%22%7D&rank=&style_id=40132&topic_id=7625909184063639049",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-07T13:22:00.933773+00:00",
+  "id": "5d5aaed5-574a-42bd-a1b2-afd72ca68580",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T13:22:36.676306+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "82169127",
+    "platform": "toutiao"
+  }
+}
