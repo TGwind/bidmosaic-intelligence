@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Skeleton-based Coherence Modeling in Narratives",
+  "raw_content": "arXiv:2604.02451v1 Announce Type: new \nAbstract: Modeling coherence in text has been a task that has excited NLP researchers since a long time. It has applications in detecting incoherent structures and helping the author fix them. There has been recent work in using neural networks to extract a skeleton from one sentence, and then use that skeleton to generate the next sentence for coherent narrative story generation. In this project, we aim to study if the consistency of skeletons across subsequent sentences is a good metric to characterize the coherence of a given body of text. We propose a new Sentence/Skeleton Similarity Network (SSN) for modeling coherence across pairs of sentences, and show that this network performs much better than baseline similarity techniques like cosine similarity and Euclidean distance. Although skeletons appear to be promising candidates for modeling coherence, our results show that sentence-level models outperform those on skeletons for evaluating textual coherence, thus indicating that the current state-of-the-art coherence modeling techniques are going in the right direction by dealing with sentences rather than their sub-parts.",
+  "source_url": "https://arxiv.org/abs/2604.02451",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-06T04:00:00+00:00",
+  "id": "d993a870-0b50-4dbc-a8b0-a16e83c00e51",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "I must delete the evidence: AI Agents Explicitly Cover up Fraud and Violent Crime",
+  "raw_content": "arXiv:2604.02500v1 Announce Type: new \nAbstract: As ongoing research explores the ability of AI agents to be insider threats and act against company interests, we showcase the abilities of such agents to act against human well being in service of corporate authority. Building on Agentic Misalignment and AI scheming research, we present a scenario where the majority of evaluated state-of-the-art AI agents explicitly choose to suppress evidence of fraud and harm, in service of company profit. We test this scenario on 16 recent Large Language Models. Some models show remarkable resistance to our method and behave appropriately, but many do not, and instead aid and abet criminal activity. These experiments are simulations and were executed in a controlled virtual environment. No crime actually occurred.",
+  "source_url": "https://arxiv.org/abs/2604.02500",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-06T04:00:00+00:00",
+  "id": "8d73d9f2-85ec-42bd-89c7-d0054318e789",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

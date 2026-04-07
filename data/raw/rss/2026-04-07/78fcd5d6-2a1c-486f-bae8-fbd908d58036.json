@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Olli Rehn: How to navigate geopolitical turmoil in central banking? A European perspective",
+  "raw_content": "Speech by Mr Olli Rehn, Governor of the Bank of Finland, at \"The ECB and Its Watchers XXVI\", organised by the Institute for Monetary and Financial Stability, Frankfurt am Main, 25 March 2026.",
+  "source_url": "https://www.bis.org/review/r260326e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-07T03:17:54.360518+00:00",
+  "id": "78fcd5d6-2a1c-486f-bae8-fbd908d58036",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
