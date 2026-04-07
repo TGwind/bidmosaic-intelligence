@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Americans’ losses to crypto scams rose to over $11 billion last year, FBI reports",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/07/americans-losses-to-crypto-scams-rose-to-over-usd11-billion-last-year-fbi-reports",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T15:06:32+00:00",
+  "id": "e17f1982-ed74-438f-8898-f4d91dc81476",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T17:12:56.019597+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

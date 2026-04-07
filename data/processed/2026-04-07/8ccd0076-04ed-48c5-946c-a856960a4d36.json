@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CME Group expands crypto futures with Avalanche and Sui contracts",
+  "raw_content": "CME Group said it will launch Avalanche and Sui futures contracts pending regulatory approval, as it expands its regulated crypto product offering.",
+  "source_url": "https://cointelegraph.com/news/cme-group-launch-avalanche-sui-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T14:15:55+00:00",
+  "id": "8ccd0076-04ed-48c5-946c-a856960a4d36",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T17:12:56.011157+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

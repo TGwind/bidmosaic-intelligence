@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "How North Korea's 6-month long secret espionage program has crypto community rethinking security",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/07/how-north-korea-s-6-month-long-secret-espionage-program-has-crypto-community-rethinking-security",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T12:30:00+00:00",
+  "id": "036a89f2-2195-424a-99d6-b4ff9ce4e5c3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-07T17:12:55.861360+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
