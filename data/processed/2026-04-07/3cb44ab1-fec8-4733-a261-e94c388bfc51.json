@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《金牌打野》",
+  "raw_title": "幸福是如童话般美好的念想，而生活的疲惫却更贴近我的日常【学姐系列完结卷】",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1dHDGBWEGv",
+  "source_url": "https://www.bilibili.com/video/BV1DTSUB1Evb",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-07T02:32:05.016757+00:00",
-  "id": "293bf2b1-1d41-418c-8288-8a786314f2ad",
+  "collected_at": "2026-04-07T07:19:56.918915+00:00",
+  "id": "3cb44ab1-fec8-4733-a261-e94c388bfc51",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-07T07:20:34.726363+00:00",
+  "processed_at": "2026-04-07T07:20:34.734940+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 5686267,
+    "hot_score": 2115811,
     "platform": "bilibili"
   }
 }
