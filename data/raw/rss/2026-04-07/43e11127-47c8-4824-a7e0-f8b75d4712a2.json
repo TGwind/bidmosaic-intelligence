@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普在伊朗问题上对日本表达不满：没帮我们",
+  "raw_content": "<div>2026/04/07</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"371\" src=\"https://feedx.net/images/2026/04/0407/0407-01-1-L.jpg\" width=\"600\" />\n\n\n<span><strong>围绕攻击伊朗，美国总统特朗普对日本表示不满</strong></span>\n\n\n\n<div>     </div>\n<div>      美国总统特朗普在4月6日的记者会上，考虑到确保霍尔木兹海峡的安全等伊朗问题上的合作，对日本表达了不满。他将日本与欧洲、韩国、澳大利亚并列提及称：“谁没有帮助我们？是日本”。</div>\n<div>  </div>\n<div>      特朗普表示：“我们为了保护日本免受朝鲜威胁，在日本驻扎了5万名美军”。他针对朝鲜劳动党总书记金正恩解释称：“关系非常好”。</div>\n<div>  </div>\n<div>      当记者提出有关北约（NATO）的问题时，特朗普首先表示：“并不是只有北约没有帮助我们”。随后提到了韩国、澳大利亚和日本。</div>\n<div>     </div>\n<div>      特朗普3月19日与日本首相高市早苗举行了首脑会谈。他在会谈伊始对记者表示：“我确信他们正寻求履行自己的责任”。关于日本强调称：“与北约不同”。</div>\n<div>  </div>\n<div>      特朗普在会谈结束后，对合作态度消极的北约表达了强烈不满，但并没有对日本表示不满。</div>\n<div>  </div>\n<div>      特朗普3月20日对美国福克斯新闻网（Fox News）表示：“日本存在宪法上的限制，但如有必要，日本应该会提供支援”。</div>\n<div>  </div>\n<div>      高市在首脑会谈后表示：“有些事情在日本法律范围内可以做，有些事情不能做，对此进行了细致地说明”。</div>\n<div>  </div>\n<div>      <strong>日本经济新闻（中文版：日经中文网）飞田临太郎 华盛顿</strong></div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62041-2026-04-07-09-08-06.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-07T01:38:03+00:00",
+  "id": "43e11127-47c8-4824-a7e0-f8b75d4712a2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

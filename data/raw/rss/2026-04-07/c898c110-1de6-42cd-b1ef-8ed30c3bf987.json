@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Grayscale says bitcoin's quantum problem is governance, not engineering",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/07/grayscale-says-bitcoin-s-quantum-problem-is-governance-not-engineering",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T14:21:39+00:00",
+  "id": "c898c110-1de6-42cd-b1ef-8ed30c3bf987",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

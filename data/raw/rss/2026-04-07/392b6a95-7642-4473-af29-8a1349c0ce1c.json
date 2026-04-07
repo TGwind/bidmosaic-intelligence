@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin holds $67K support as data exposes price to sentiment divergence",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin holds $67K support as data exposes price to sentiment divergence\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDY4NmMtNDQ3Yy03M2E0LWFjNDMtZjhlYjUzNTkzMzNkLmpwZw==.jpg\" /></p><p>Wintermute analysts said Bitcoin’s price stability against the extreme bearish sentiment present in the market is a positive. Will BTC ever flip $70,000 back to support?</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-holds-dollar67k-support-as-data-exposes-price-to-sentiment-divergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-07T17:49:12+00:00",
+  "id": "392b6a95-7642-4473-af29-8a1349c0ce1c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

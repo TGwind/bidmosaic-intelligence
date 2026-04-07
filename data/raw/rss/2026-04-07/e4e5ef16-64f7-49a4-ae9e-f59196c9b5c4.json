@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Behind the Blog: Systems As Designed",
+  "raw_content": "This week, we discuss crypto, journalists using AI, and a cool photo of Earth.",
+  "source_url": "https://www.404media.co/behind-the-blog-systems-as-designed/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-03T16:55:57+00:00",
+  "id": "e4e5ef16-64f7-49a4-ae9e-f59196c9b5c4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
