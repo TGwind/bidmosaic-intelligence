@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "他用一百美元，办了场奥运会",
-  "raw_content": "本期带来传奇商业鬼才彼得-尤伯罗斯",
-  "source_url": "https://www.bilibili.com/video/BV19ZDKBvE7V",
+  "raw_title": "什么叫你爹转生成你女朋友？然后你俩开了一把？",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1PGDNB7EnN",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-08T02:32:41.157239+00:00",
-  "id": "5378e730-3e6c-43ce-aabd-4a3cd482ebde",
+  "collected_at": "2026-04-08T07:22:26.095442+00:00",
+  "id": "8cca6e01-1e1b-41f2-8b7e-f45120e4b116",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-08T07:23:03.758219+00:00",
+  "processed_at": "2026-04-08T07:23:03.758348+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3420990,
+    "hot_score": 3317813,
     "platform": "bilibili"
   }
 }

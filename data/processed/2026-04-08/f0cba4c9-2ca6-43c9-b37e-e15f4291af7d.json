@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "千帆星座第7批组网卫星成功发射",
-  "raw_content": "千帆星座第7批组网卫星成功发射",
-  "source_url": "https://www.toutiao.com/article/7626034237807886889",
+  "raw_title": "扩能提质 中国服务业发展乘势而上",
+  "raw_content": "扩能提质 中国服务业发展乘势而上",
+  "source_url": "https://www.toutiao.com/article/7626226589872833024",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-08T02:32:40.654600+00:00",
-  "id": "7dfc3833-fbea-4001-bc96-89d172523846",
+  "collected_at": "2026-04-08T07:22:25.123931+00:00",
+  "id": "f0cba4c9-2ca6-43c9-b37e-e15f4291af7d",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-08T07:23:03.753993+00:00",
+  "processed_at": "2026-04-08T07:23:03.757566+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "89800220",
+    "hot_score": "98944413",
     "platform": "toutiao"
   }
 }

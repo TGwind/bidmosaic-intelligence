@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "女儿为给爸爸过生日凑了一桌“人脉”",
+  "raw_content": "女儿为给爸爸过生日凑了一桌“人脉”",
+  "source_url": "https://www.toutiao.com/trending/7626157169687887891/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227626157169687887891%22%2C%22hot_board_impr_id%22%3A%2220260408152224A06B35A98ABA64F62949%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%84%BF%E4%B8%BA%E7%BB%99%E7%88%B8%E7%88%B8%E8%BF%87%E7%94%9F%E6%97%A5%E5%87%91%E4%BA%86%E4%B8%80%E6%A1%8C%E2%80%9C%E4%BA%BA%E8%84%89%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7626157169687887891",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T07:22:25.123941+00:00",
+  "id": "af0b9f1c-f6a8-414c-bd4b-5ae6b234ef45",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T07:23:03.756349+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "89528607",
+    "platform": "toutiao"
+  }
+}
