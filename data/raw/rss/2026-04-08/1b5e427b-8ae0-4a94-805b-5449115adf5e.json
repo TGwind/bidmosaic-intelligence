@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Illusion of Latent Generalization: Bi-directionality and the Reversal Curse",
+  "raw_content": "arXiv:2604.04943v1 Announce Type: new \nAbstract: The reversal curse describes a failure of autoregressive language models to retrieve a fact in reverse order (e.g., training on ``$A > B$'' but failing on ``$B < A$''). Recent work shows that objectives with bidirectional supervision (e.g., bidirectional attention or masking-based reconstruction for decoder-only models) can mitigate the reversal curse. We extend this evaluation to include a vanilla masked language modeling (MLM) objective and compare it to decoder-only masking-based training across four reversal benchmarks and then provide a minimal mechanistic study of \\emph{how} these objectives succeed. We show that reversal accuracy requires training signal that explicitly makes the source entity a prediction target, and we find little evidence that success corresponds to a single direction-agnostic representation of a fact. Instead, representation distances and linear probes are consistent with storing forward and reverse directions as distinct entries, with different indexing geometry for MLM versus decoder-only masking-based training. Our results caution that objective-level ``fixes'' can improve reversal behavior without necessarily inducing the kind of latent generalization one might expect from a unified concept.",
+  "source_url": "https://arxiv.org/abs/2604.04943",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T04:00:00+00:00",
+  "id": "1b5e427b-8ae0-4a94-805b-5449115adf5e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

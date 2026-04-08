@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "François Villeroy de Galhau: Little time left to wake up - can we reconcile Europe with speed?",
+  "raw_content": "Speech (virtually) by Mr François Villeroy de Galhau, Governor of the Bank of France, at the 2026 Eurofi High Level Seminar, Nicosia, 27 March 2026.",
+  "source_url": "https://www.bis.org/review/r260330a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-08T17:13:46.837582+00:00",
+  "id": "e00862d4-669b-46f6-8a3c-1ffbe066ea6f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Uncertainty-Guided Latent Diagnostic Trajectory Learning for Sequential Clinical Diagnosis",
+  "raw_content": "arXiv:2604.05116v1 Announce Type: new \nAbstract: Clinical diagnosis requires sequential evidence acquisition under uncertainty. However, most Large Language Model (LLM) based diagnostic systems assume fully observed patient information and therefore do not explicitly model how clinical evidence should be sequentially acquired over time. Even when diagnosis is formulated as a sequential decision process, it is still challenging to learn effective diagnostic trajectories. This is because the space of possible evidence-acquisition paths is relatively large, while clinical datasets rarely provide explicit supervision information for desirable diagnostic paths. To this end, we formulate sequential diagnosis as a Latent Diagnostic Trajectory Learning (LDTL) framework based on a planning LLM agent and a diagnostic LLM agent. For the diagnostic LLM agent, diagnostic action sequences are treated as latent paths and we introduce a posterior distribution that prioritizes trajectories providing more diagnostic information. The planning LLM agent is then trained to follow this distribution, encouraging coherent diagnostic trajectories that progressively reduce uncertainty. Experiments on the MIMIC-CDM benchmark demonstrate that our proposed LDTL framework outperforms existing baselines in diagnostic accuracy under a sequential clinical diagnosis setting, while requiring fewer diagnostic tests. Furthermore, ablation studies highlight the critical role of trajectory-level posterior alignment in achieving these improvements.",
+  "source_url": "https://arxiv.org/abs/2604.05116",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T04:00:00+00:00",
+  "id": "73542644-860f-4e89-8f23-b17b353486c0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
