@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《金牌打野》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1dHDGBWEGv",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T02:32:41.157176+00:00",
+  "id": "83929b2a-c7c1-4056-9e08-e9a6e904a517",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T02:33:32.238556+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6288447,
+    "platform": "bilibili"
+  }
+}
