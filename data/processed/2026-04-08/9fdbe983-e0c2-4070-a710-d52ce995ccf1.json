@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto whale holding oil shorts walks away with $2 million in profit",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/08/crypto-whale-holding-oil-shorts-walks-away-with-usd2-million-in-profit",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T08:42:39+00:00",
+  "id": "9fdbe983-e0c2-4070-a710-d52ce995ccf1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T09:14:15.079473+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

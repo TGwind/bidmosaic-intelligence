@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "FDIC moves to regulate stablecoin issuers under the GENIUS Act",
+  "raw_content": "FDIC’s proposed rules providing insurance for corporate deposits of stablecoin issuers will not extend to the stablecoin holders, as it would conflict with the GENIUS Act’s text, the FDIC said.",
+  "source_url": "https://cointelegraph.com/news/fdic-moves-to-regulate-stablecoin-issuers-under-the-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T01:25:57+00:00",
+  "id": "4c85af7b-4f4c-42e0-980f-06ad611c9e02",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T09:14:15.030757+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
