@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Inclusion-of-Thoughts: Mitigating Preference Instability via Purifying the Decision Space",
+  "raw_content": "arXiv:2604.04944v1 Announce Type: new Abstract: Multiple-choice questions (MCQs) are widely used to evaluate large language models (LLMs). However, LLMs remain vulnerable to the presence of plausible distractors. This often diverts attention toward irrelevant choices, resulting in unstable oscillation between correct and incorrect answers. In this paper, we propose Inclusion-of-Thoughts (IoT), a progressive self-filtering strategy that is designed to mitigate this cognitive load (i.e., instability of model preferences under the presence of distractors) and enable the model to focus more effectively on plausible answers. Our method operates to reconstruct the MCQ using only plausible option choices, providing a controlled setting for examining comparative judgements and therefore the stability of the model's internal reasoning under perturbation. By explicitly documenting this filtering process, IoT also enhances the transparency and interpretability of the model's decision-making. Extensive empirical evaluation demonstrates that IoT substantially boosts chain-of-thought performance across a range of arithmetic, commonsense reasoning, and educational benchmarks with minimal computational overhead.",
+  "source_url": "https://arxiv.org/abs/2604.04944",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T04:00:00+00:00",
+  "id": "43282151-1d4a-4f86-9e6a-5e0edcd22b98",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T05:53:53.545251+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

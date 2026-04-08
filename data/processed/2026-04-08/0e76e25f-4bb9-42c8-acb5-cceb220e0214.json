@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems",
+  "raw_content": "arXiv:2604.04939v1 Announce Type: new Abstract: The paper considers a new quantitative-qualitative proximity measure for the features of information objects, where data enters a common information resource from several sources independently. The goal is to determine the possibility of their relation to the same physical object (observation object). The proposed measure accounts for the possibility of differences in individual feature values - both quantitative and qualitative - caused by existing determination errors. To analyze the proximity of quantitative feature values, the author employs a probabilistic measure; for qualitative features, a measure of possibility is used. The paper demonstrates the feasibility of the proposed measure by checking its compliance with the axioms required of any measure. Unlike many known measures, the proposed approach does not require feature value transformation to ensure comparability. The work also proposes several variants of measures to determine the proximity of information objects (IO) based on a group of diverse features.",
+  "source_url": "https://arxiv.org/abs/2604.04939",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T04:00:00+00:00",
+  "id": "0e76e25f-4bb9-42c8-acb5-cceb220e0214",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T05:53:53.508215+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

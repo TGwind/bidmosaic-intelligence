@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Iran’s Bitcoin hashrate falls 77% over the past quarter amid conflict",
+  "raw_content": "The 30-day simple moving average of the global network hashrate has also declined, though an analyst says the slump is due to Bitcoin prices hurting mining profitability rather than conflict.",
+  "source_url": "https://cointelegraph.com/news/iran-bitcoin-hashrate-drop-results-mining-redistribution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T00:07:11+00:00",
+  "id": "2a18e1f6-d56e-49c4-a567-165a2fa18f57",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T05:53:53.532497+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

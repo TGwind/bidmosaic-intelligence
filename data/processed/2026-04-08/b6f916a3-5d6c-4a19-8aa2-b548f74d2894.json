@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Morgan Stanley's Bitcoin ETF set to launch on Wednesday",
+  "raw_content": "The Morgan Stanley Bitcoin Trust will be the cheapest Bitcoin ETF on the market at an ultra-low 0.14% fee.",
+  "source_url": "https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-debut-wednesday?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T04:42:37+00:00",
+  "id": "b6f916a3-5d6c-4a19-8aa2-b548f74d2894",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T05:53:53.596898+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

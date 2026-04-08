@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Smooth Moves: 90 Frames-Per-Second Virtual Reality Arrives on GeForce NOW",
+  "raw_content": "It’s a double feature on GFN Thursday. This week, GeForce NOW offers smoother sights in virtual reality (VR) and a sprawling new land to conquer. Streaming at 90 frames per second (fps) comes to supported VR headsets. And Crimson Desert, which recently surpassed 3 million wishlist additions on Steam, debuts in the cloud with GeForce [&#8230;]",
+  "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-virtual-reality-update/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-19T13:00:09+00:00",
+  "id": "16e4b6c4-fb53-4cf6-93cc-72464d3134fa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T05:53:53.518347+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

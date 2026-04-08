@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Hate jump scares? This app warns you before they happen",
+  "raw_content": "The app uses iPhone Live Activities to alert you when scary scenes are about to happen, while also tracking what to watch and where to stream it.",
+  "source_url": "https://techcrunch.com/2026/04/07/binge-is-a-movie-tracking-app-that-warns-you-of-jump-scares-in-real-time/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-07T16:51:54+00:00",
+  "id": "10546d61-2b0b-4c6f-bd76-06680b334347",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T05:53:53.513658+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
