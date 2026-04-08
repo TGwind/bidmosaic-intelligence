@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Beyond LLM-as-a-Judge: Deterministic Metrics for Multilingual Generative Text Evaluation",
+  "raw_content": "arXiv:2604.05083v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) are increasingly adopted as automated judges for evaluating generated text, their outputs are often costly, and highly sensitive to prompt design, language, and aggregation strategies, severely, which limits reproducibility. To address these challenges, we propose \\textbf{\\textit{OmniScore}}, a family of complementary, deterministic learned metrics developed using small size ($<$1B) parameter models. OmniScore approximates LLM-judge behavior while preserving the low latency and consistency of traditional model-based scoring. We trained the models large-scale synthetic supervision ($\\sim$564k instances, in \\textbf{107 languages}) and evaluated using 8,617 manually annotated instances. The OmniScore family supports reliable, multi-dimensional scores across a variety of settings, including reference-based, source-grounded, and hybrid evaluations. We evaluate these models across question answering (QA), translation, and summarization in \\textbf{6 languages}. Our results demonstrate that lightweight, deterministic learned metrics provide a highly practical and scalable alternative to frontier LLMs. Our models and datasets can be found at https://huggingface.co/collections/QCRI/omniscore",
+  "source_url": "https://arxiv.org/abs/2604.05083",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T04:00:00+00:00",
+  "id": "084c5128-bc0a-486e-83e8-11f4d8dd0724",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
