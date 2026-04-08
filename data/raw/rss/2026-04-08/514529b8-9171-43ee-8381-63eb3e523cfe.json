@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Attacking bitcoin mining with a quantum computer would require the energy of a star, academics say",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/08/attacking-bitcoin-mining-with-a-quantum-computer-would-require-the-energy-of-a-star-academics-say",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T05:42:54+00:00",
+  "id": "514529b8-9171-43ee-8381-63eb3e523cfe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

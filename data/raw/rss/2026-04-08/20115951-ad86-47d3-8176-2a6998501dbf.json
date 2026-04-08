@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Memory Dial: A Training Framework for Controllable Memorization in Language Models",
+  "raw_content": "arXiv:2604.05074v1 Announce Type: new \nAbstract: Memorization in language models is widely studied but remains difficult to isolate and control. Understanding when and what models memorize is essential for explaining their predictions, yet existing approaches are post-hoc: they can detect memorization in trained models, but cannot disentangle its effects from architecture, data, or optimization. We introduce Memory Dial, a training framework that makes memorization pressure an explicit, controllable variable. Memory Dial interpolates between standard cross-entropy and a temperature-sharpened objective via a single parameter $\\alpha$, producing a family of models identical in architecture and training setup (within each sweep), differing only in memorization pressure. Experiments across six architectures and five benchmarks demonstrate that: (1) $\\alpha$ reliably controls memorization pressure, with seen-example accuracy increasing monotonically while unseen accuracy remains stable; (2) larger models are more responsive to memorization pressure; and (3) frequent sequences are easier to memorize than rare ones. Additional analyses show that the effect is robust across a range of sharpening temperatures, differs qualitatively from single-temperature cross-entropy, transfers to multilingual settings, and is detectable even on naturally occurring single-occurrence sequences. Memory Dial provides a controlled experimental framework for studying how memorization behavior emerges and interacts with generalization in language models.",
+  "source_url": "https://arxiv.org/abs/2604.05074",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T04:00:00+00:00",
+  "id": "20115951-ad86-47d3-8176-2a6998501dbf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日经平均大涨5.39%，56308点收盘",
+  "raw_content": "<div>2026/04/08</div><div id=\"contentDiv\">\n<div></div>\n<div>      4月8日东京股市，日经平均股指大幅连续第四个交易日上涨，较前一交易日上涨2878.86点（5.39%），收于56308.42点，创下自3月2日以来约一个月来的最高水平。单日涨幅为历史第三大。</div>\n<div> </div>\n<div>      美国与伊朗就立即停火达成一致，市场对中东局势紧张缓和的期待升温。以爱德万测试等半导体相关股票为首，众多板块出现买盘，推动大盘上涨。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/62076-2026-04-08-14-42-41.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-08T07:08:03+00:00",
+  "id": "29ff1fe6-de17-485e-8bd4-da227ba98c79",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

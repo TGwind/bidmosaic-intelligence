@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国黄金储备连续17个月增长",
+  "raw_content": "<div>2026/04/08</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"386\" src=\"https://feedx.net/images/2026/04/0408/0408-11-L-reuters%20.jpg\" width=\"600\" />\n\n\n<span><strong>Reuters</strong></span>\n\n\n\n<div>　</div>\n<div>　　中国人民银行（央行）4月7日发表的截至3月底的外汇储备数据显示，黄金保有量已达约2313吨。比上月底增加0.2%，连续17个月增加。有分析认为，作为安全资产增持了黄金。</div>\n<div> 　　</div>\n<div>　　从2022年11月至2024年4月，中国央行连续18个月增持黄金储备后，2024年5月至10月黄金保有量没有增加。从2024年11月开始再次增加。</div>\n<div> 　　 </div>\n<div>　　截至2026年3月底，中国的外汇储备为3.3421万亿美元，比上月底减少857亿美元。8个月以来首次低于上月底。中国国家外汇管理局表示，由于美元升值，持有的金融资产的美元计价估值缩水。</div>\n<div>  　　 </div>\n<div>　　<strong>日本经济新闻（中文版：日经中文网）盐崎健太郎 北京</strong></div>\n<div><strong>　 </strong></div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/efinance/62074-2026-04-08-14-21-23.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-08T07:08:03+00:00",
+  "id": "f03aa6e1-3970-4771-af9c-dd21db9eb249",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

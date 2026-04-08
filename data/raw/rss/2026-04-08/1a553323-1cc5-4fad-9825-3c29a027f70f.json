@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "OpenAI acquires TBPN",
+  "raw_content": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.",
+  "source_url": "https://openai.com/index/openai-acquires-tbpn",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-02T10:30:00+00:00",
+  "id": "1a553323-1cc5-4fad-9825-3c29a027f70f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}
