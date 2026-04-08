@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Adam Back denies he’s Satoshi Nakamoto after NYT report claims he’s Bitcoin’s creator",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/08/adam-back-denies-he-s-satoshi-nakamoto-after-nyt-report-claims-he-s-bitcoin-s-creator",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T14:24:03+00:00",
+  "id": "17746dbf-7df6-4cc5-8bfd-94ea713be2cf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T17:16:28.172144+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

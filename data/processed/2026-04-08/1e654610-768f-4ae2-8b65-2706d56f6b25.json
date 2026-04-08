@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Developer of VeraCrypt encryption software says Windows users may face boot-up issues after Microsoft locked his account",
+  "raw_content": "The maker of the popular open source file encryption software VeraCrypt said Microsoft locked his online account, which may prevent device owners from booting up their computers.",
+  "source_url": "https://techcrunch.com/2026/04/08/veracrypt-encryption-software-windows-microsoft-lock-boot-issues/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-08T15:21:13+00:00",
+  "id": "1e654610-768f-4ae2-8b65-2706d56f6b25",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T17:16:28.180338+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Hackers steal and leak sensitive LAPD police documents",
+  "raw_content": "The LAPD said the breach affected “a digital storage system” belonging to the city’s Attorney's Office. The World Leaks extortion gang was reported to be behind the attack.",
+  "source_url": "https://techcrunch.com/2026/04/08/hackers-steal-and-leak-sensitive-lapd-police-documents/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-08T15:38:34+00:00",
+  "id": "0b1f7946-cd4e-4264-8883-79768b5da826",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T17:16:28.155990+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

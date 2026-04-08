@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Instant settlement strains crypto’s capital efficiency: Ethan Buchman",
+  "raw_content": "Crypto trades settle instantly, but at the cost of capital efficiency. This forces firms to overcollateralize and limits how far markets can scale, says Cosmos co-founder Ethan Buchman.",
+  "source_url": "https://cointelegraph.com/news/instant-settlement-strains-crypto-capital-efficiency-ethan-buchman?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T13:40:10+00:00",
+  "id": "8ed148dd-79c5-4de3-bd27-728c4d555c09",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T17:16:28.257550+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

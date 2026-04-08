@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "This Treatment Works, Right? Evaluating LLM Sensitivity to Patient Question Framing in Medical QA",
+  "raw_content": "arXiv:2604.05051v1 Announce Type: new Abstract: Patients are increasingly turning to large language models (LLMs) with medical questions that are complex and difficult to articulate clearly. However, LLMs are sensitive to prompt phrasings and can be influenced by the way questions are worded. Ideally, LLMs should respond consistently regardless of phrasing, particularly when grounded in the same underlying evidence. We investigate this through a systematic evaluation in a controlled retrieval-augmented generation (RAG) setting for medical question answering (QA), where expert-selected documents are used rather than retrieved automatically. We examine two dimensions of patient query variation: question framing (positive vs. negative) and language style (technical vs. plain language). We construct a dataset of 6,614 query pairs grounded in clinical trial abstracts and evaluate response consistency across eight LLMs. Our findings show that positively- and negatively-framed pairs are significantly more likely to produce contradictory conclusions than same-framing pairs. This framing effect is further amplified in multi-turn conversations, where sustained persuasion increases inconsistency. We find no significant interaction between framing and language style. Our results demonstrate that LLM responses in medical QA can be systematically influenced through query phrasing alone, even when grounded in the same evidence, highlighting the importance of phrasing robustness as an evaluation criterion for RAG-based systems in high-stakes settings.",
+  "source_url": "https://arxiv.org/abs/2604.05051",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T04:00:00+00:00",
+  "id": "0123631e-d7cf-4a57-8aff-583c208d99e6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T17:16:28.116949+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

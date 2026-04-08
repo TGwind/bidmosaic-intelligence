@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Cango sells 2,000 BTC, cuts Bitcoin production cost by 19% in March",
+  "raw_content": "Bitcoin miner Cango said it sold 2,000 BTC to pay off debt and cut its BTC production cost by 19% as part of its strategic pivot to energy and AI infrastructure.",
+  "source_url": "https://cointelegraph.com/news/cango-sells-2-000-btc-cuts-bitcoin-production-cost?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T13:29:50+00:00",
+  "id": "f2fa6089-4443-4e90-b463-3d937ba206e4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T17:16:28.278386+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin fades three-week highs as BTC price shrugs off Iran war ceasefire",
+  "raw_content": "Bitcoin bulls failed to stay above $72,000 for long as BTC price action already began to discount the impact of a US-Iran ceasefire agreement.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-fades-three-week-highs-btc-price-shrugs-off-iran-war-ceasefire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T14:44:17+00:00",
+  "id": "a8bfc216-608c-4e7b-b8b8-0e63a961ba2c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T17:16:28.268446+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
