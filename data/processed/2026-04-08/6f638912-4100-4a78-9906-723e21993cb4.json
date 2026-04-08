@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "当你穿进老钱班21",
+  "raw_title": "魔丸练瑜伽",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV12eSoBFETE",
+  "source_url": "https://www.bilibili.com/video/BV1WhDVBTEUf",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-08T02:32:41.157212+00:00",
-  "id": "bf37ad40-6e8b-4279-b067-457c7d1c8c40",
+  "collected_at": "2026-04-08T19:18:35.785269+00:00",
+  "id": "6f638912-4100-4a78-9906-723e21993cb4",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-08T19:19:27.351318+00:00",
+  "processed_at": "2026-04-08T19:19:27.342879+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3916583,
+    "hot_score": 8235939,
     "platform": "bilibili"
   }
 }

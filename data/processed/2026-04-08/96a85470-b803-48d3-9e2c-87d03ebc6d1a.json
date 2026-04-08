@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "多方回应三男子救落水女子四人均遇难",
+  "raw_content": "多方回应三男子救落水女子四人均遇难",
+  "source_url": "https://www.toutiao.com/trending/7625831070889574406/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625831070889574406%22%2C%22hot_board_impr_id%22%3A%2220260409031834F97CD74BE384921361EE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%89%E7%94%B7%E5%AD%90%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%E5%9B%9B%E4%BA%BA%E5%9D%87%E9%81%87%E9%9A%BE%22%7D&rank=&style_id=40132&topic_id=7625831070889574406",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T19:18:35.078987+00:00",
+  "id": "96a85470-b803-48d3-9e2c-87d03ebc6d1a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T19:19:27.351978+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "75933558",
+    "platform": "toutiao"
+  }
+}
