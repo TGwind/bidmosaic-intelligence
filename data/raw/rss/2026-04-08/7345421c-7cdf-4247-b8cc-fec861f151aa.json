@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin reclaims $72K after US, Iran agree to 2-week ceasefire",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin reclaims $72K after US, Iran agree to 2-week ceasefire\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjhiZTEtMmYzNC03NDM3LTk1ZmYtNDlkNTY5YmYwMDUwLmpwZw==.jpg\" /></p><p>Iran's Supreme National Security Council on Wednesday accepted a two-week ceasefire in its war against the US, but emphasized this did not mean an end to the war.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-spike-us-president-donald-trump-iran-ceasefire?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T00:20:34+00:00",
+  "id": "7345421c-7cdf-4247-b8cc-fec861f151aa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "How Centralized Radar Processing on NVIDIA DRIVE Enables Safer, Smarter Level 4 Autonomy",
+  "raw_content": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"338\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Feature1_new.gif\" style=\"display: block; margin-bottom: 5px; clear: both;\" title=\"Feature1_new\" width=\"600\" />In the current state of automotive radar, machine learning engineers can't work with camera-equivalent raw RGB images. Instead, they work with the output of...",
+  "source_url": "https://developer.nvidia.com/blog/how-centralized-radar-processing-on-nvidia-drive-enables-safer-smarter-level-4-autonomy/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-03-25T16:00:00+00:00",
+  "id": "52dcdca2-1f42-4b67-83d4-d6746ae44a36",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}

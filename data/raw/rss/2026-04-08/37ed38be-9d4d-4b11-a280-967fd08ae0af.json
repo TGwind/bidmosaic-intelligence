@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Position: Science of AI Evaluation Requires Item-level Benchmark Data",
+  "raw_content": "arXiv:2604.03244v1 Announce Type: new \nAbstract: AI evaluations have become the primary evidence for deploying generative AI systems across high-stakes domains. However, current evaluation paradigms often exhibit systemic validity failures. These issues, ranging from unjustified design choices to misaligned metrics, remain intractable without a principled framework for gathering validity evidence and conducting granular diagnostic analysis. In this position paper, we argue that item-level AI benchmark data is essential for establishing a rigorous science of AI evaluation. Item-level analysis enables fine-grained diagnostics and principled validation of benchmarks. We substantiate this position by dissecting current validity failures and revisiting evaluation paradigms across computer science and psychometrics. Through illustrative analyses of item properties and latent constructs, we demonstrate the unique insights afforded by item-level data. To catalyze community-wide adoption, we introduce OpenEval, a growing repository of item-level benchmark data designed supporting evidence-centered AI evaluation.",
+  "source_url": "https://arxiv.org/abs/2604.03244",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-07T04:00:00+00:00",
+  "id": "37ed38be-9d4d-4b11-a280-967fd08ae0af",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
