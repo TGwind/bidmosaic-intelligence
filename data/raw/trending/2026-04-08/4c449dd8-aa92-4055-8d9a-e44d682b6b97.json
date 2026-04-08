@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《溺水の鱼》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1yrSfBAEYk",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T19:18:35.785287+00:00",
+  "id": "4c449dd8-aa92-4055-8d9a-e44d682b6b97",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3125158,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《先放一放》：偶尔“没心没肺”一下！",
+  "raw_content": "去吧，偶尔“没心没肺”一下！\n\n郑州市金水区金沙小学 原创作品\n\n导演 马超群",
+  "source_url": "https://www.bilibili.com/video/BV1UVSUBrEJb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T19:18:35.785221+00:00",
+  "id": "22e25921-ee61-4b7e-a93d-87f258a76650",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1807569,
+    "platform": "bilibili"
+  }
+}
