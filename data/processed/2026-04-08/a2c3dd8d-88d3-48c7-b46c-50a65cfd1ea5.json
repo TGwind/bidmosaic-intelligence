@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美对伊为何在最后90分钟“临门转向”",
+  "raw_content": "美对伊为何在最后90分钟“临门转向”",
+  "source_url": "https://www.toutiao.com/trending/7625646676866449450/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625646676866449450%22%2C%22hot_board_impr_id%22%3A%222026040821223190E55286E1B42E89340E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%AF%B9%E4%BC%8A%E4%B8%BA%E4%BD%95%E5%9C%A8%E6%9C%80%E5%90%8E90%E5%88%86%E9%92%9F%E2%80%9C%E4%B8%B4%E9%97%A8%E8%BD%AC%E5%90%91%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7625646676866449450",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T13:22:31.497008+00:00",
+  "id": "a2c3dd8d-88d3-48c7-b46c-50a65cfd1ea5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:23:13.606277+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "29485727",
+    "platform": "toutiao"
+  }
+}

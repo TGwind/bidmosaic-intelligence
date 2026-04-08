@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "哪吒2全球票房超泰坦尼克号",
+  "raw_content": "哪吒2全球票房超泰坦尼克号",
+  "source_url": "https://www.toutiao.com/trending/7625223908514168851/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227625223908514168851%22%2C%22hot_board_impr_id%22%3A%222026040821223190E55286E1B42E89340E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%93%AA%E5%90%922%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E8%B6%85%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%22%7D&rank=&style_id=40132&topic_id=7625223908514168851",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T13:22:31.496937+00:00",
+  "id": "3d731561-d7c2-4a58-8ea1-56589ca9233c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:23:13.595581+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "72523187",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "租客藏近千斤尿液塞满柜子床底",
+  "raw_content": "租客藏近千斤尿液塞满柜子床底",
+  "source_url": "https://www.toutiao.com/trending/7626053832782905387/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227626053832782905387%22%2C%22hot_board_impr_id%22%3A%222026040821223190E55286E1B42E89340E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%A7%9F%E5%AE%A2%E8%97%8F%E8%BF%91%E5%8D%83%E6%96%A4%E5%B0%BF%E6%B6%B2%E5%A1%9E%E6%BB%A1%E6%9F%9C%E5%AD%90%E5%BA%8A%E5%BA%95%22%7D&rank=&style_id=40132&topic_id=7626053832782905387",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T13:22:31.496992+00:00",
+  "id": "eed79e4a-7a58-400b-8200-6fbdb3c72d4f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:23:13.611023+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "36013949",
+    "platform": "toutiao"
+  }
+}

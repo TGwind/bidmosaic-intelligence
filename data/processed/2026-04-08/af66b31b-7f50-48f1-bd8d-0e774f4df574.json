@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《体检是你的谎言》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1xTSQBVEkC",
+  "raw_title": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
+  "raw_content": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
+  "source_url": "https://www.bilibili.com/video/BV1o7DYB2Exe",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-08T07:22:26.095410+00:00",
-  "id": "5ef8d015-98c3-4943-9e6f-ca9753a956f0",
+  "collected_at": "2026-04-08T13:22:32.280435+00:00",
+  "id": "af66b31b-7f50-48f1-bd8d-0e774f4df574",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-08T13:23:13.598939+00:00",
+  "processed_at": "2026-04-08T13:23:13.606642+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3660303,
+    "hot_score": 1835118,
     "platform": "bilibili"
   }
 }
