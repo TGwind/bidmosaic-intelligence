@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Saylor’s solo act: JPMorgan says Strategy is practically the only thing keeping crypto flows alive",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/08/crypto-inflows-slowed-sharply-in-first-quarter-as-investor-demand-weakened-says-jpmorgan",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T13:44:05+00:00",
+  "id": "51bf45f4-cc66-4d80-9a34-c9904c7b2931",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

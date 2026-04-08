@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Will quantum-safe cryptography slow Ethereum down? The performance tradeoff explained",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Will quantum-safe cryptography slow Ethereum down? The performance tradeoff explained\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDZjNDItMTE5NS03YmJkLWJlYzQtZDgxOWEzYmY0OTc5LmpwZw==.jpg\" /></p><p>Will quantum-safe cryptography slow Ethereum? It is likely to affect gas fees, validator load and network efficiency, prompting Ethereum to pursue a broader redesign strategy.</p>",
+  "source_url": "https://cointelegraph.com/explained/will-quantum-safe-cryptography-slow-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T08:49:39+00:00",
+  "id": "af1cf776-a500-46d1-bf2d-91ba0f24ee75",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

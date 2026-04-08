@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ceasefire lifts bitcoin, but animal spirits may not return just yet",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/08/ceasefire-lifts-bitcoin-but-animal-spirits-may-not-return-just-yet",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T11:15:00+00:00",
+  "id": "dd067bfe-7d1e-40ce-b2a7-754208e2c36b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
