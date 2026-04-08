@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences",
+  "raw_content": "In healthcare and life sciences, AI agents help organizations process clinical data, submit regulatory filings, automate medical coding, and accelerate drug development and commercialization. However, the sensitive nature of healthcare data and regulatory requirements like Good Practice (GxP) compliance require human oversight at key decision points. This is where human-in-the-loop (HITL) constructs become essential. In this post, you will learn four practical approaches to implementing human-in-the-loop constructs using AWS services.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T19:48:07+00:00",
+  "id": "823b48dd-4c9e-4baf-8e63-328780c5e77e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

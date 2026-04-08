@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "朝鲜向日本海发射数枚弹道导弹",
+  "raw_content": "<div>2026/04/08</div><div id=\"contentDiv\">\n<div></div>\n<div>      韩国联合参谋本部4月8日表示，朝鲜当天上午8时50分左右从该国东部元山一带向日本海方向发射了数枚弹道导弹。</div>\n<div> </div>\n<div>      韩国国防部相关人士表示，朝鲜7日也曾从平壤周边发射飞行器，这是连续两天进行发射。关于导弹的详细情况仍在分析中。韩国军方称，将在与日本和美国共享信息的同时加强警戒监视。</div>\n<div> </div>\n<div>      韩国主要报纸《朝鲜日报》7日报道称，朝鲜当天发射的可能是放射炮（多管火箭炮）或弹道导弹，并称其在发射后不久出现异常飞行，随后消失。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62067-2026-04-08-08-37-05.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-08T03:08:03+00:00",
+  "id": "50108d5f-0e6f-457e-ae6c-3f49cdad5d00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

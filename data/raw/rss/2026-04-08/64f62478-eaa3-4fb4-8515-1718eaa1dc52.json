@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Proposes Amendments to Exchange Act Rule 15c2-11",
+  "raw_content": "The Securities and Exchange Commission today proposed amendments to Exchange Act Rule 15c2-11, which sets out certain information gathering and review requirements for broker-dealers that publish quotations for, or maintain a continuous quoted market in…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-28-sec-proposes-amendments-exchange-act-rule-15c2-11",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-16T19:15:00+00:00",
+  "id": "64f62478-eaa3-4fb4-8515-1718eaa1dc52",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}
