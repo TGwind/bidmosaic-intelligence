@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Korea tightens crypto withdrawal-delay exemptions after scam losses",
+  "raw_content": "The Financial Services Commission said inconsistent exemption rules created loopholes that allowed funds to move quickly with minimal account history.",
+  "source_url": "https://cointelegraph.com/news/south-korea-tightens-crypto-withdrawal-delay-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T12:37:42+00:00",
+  "id": "c3f616ba-f391-4aae-9882-9cb757592a03",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.670938+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

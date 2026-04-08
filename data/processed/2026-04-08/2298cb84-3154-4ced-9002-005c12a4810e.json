@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stablecoin yields won’t harm banks, White House economists say",
+  "raw_content": "White House economists say banning stablecoin yield would add little to bank lending while imposing significant costs on users.",
+  "source_url": "https://cointelegraph.com/news/white-house-stablecoin-yield-ban-little-impact-bank-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T12:29:20+00:00",
+  "id": "2298cb84-3154-4ced-9002-005c12a4810e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.575361+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

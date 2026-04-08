@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Move over bitcoin and quantum risks. Anthropic's Mythos AI could have major implications for DeFi",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/08/move-over-bitcoin-and-quantum-risks-anthropic-s-mythos-ai-changes-everything-for-defi",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T10:58:33+00:00",
+  "id": "f00a60cd-9ffb-49ee-91c8-010abf28c2f1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.677220+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

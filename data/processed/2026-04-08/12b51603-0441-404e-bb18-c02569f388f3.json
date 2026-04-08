@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Korea takes away exchange discretion in a major anti-phishing crackdown",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/08/south-korean-authorities-mandate-unified-crypto-withdrawal-delays-to-curb-fraud",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T10:44:28+00:00",
+  "id": "12b51603-0441-404e-bb18-c02569f388f3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.552815+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

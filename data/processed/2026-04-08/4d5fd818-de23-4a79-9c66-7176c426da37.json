@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "NYT revives Adam Back theory in latest bid to identify Bitcoin creator",
+  "raw_content": "A New York Times investigation points to Adam Back as Satoshi Nakamoto, but the Blockstream CEO denies it, and critics say proof is still missing.",
+  "source_url": "https://cointelegraph.com/news/nyt-adam-back-bitcoin-creator-theory?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T11:03:20+00:00",
+  "id": "4d5fd818-de23-4a79-9c66-7176c426da37",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.631168+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

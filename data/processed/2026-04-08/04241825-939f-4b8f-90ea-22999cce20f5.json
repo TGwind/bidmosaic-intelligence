@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Build with Lyria 3, our newest music generation model",
+  "raw_content": "Google Lyria teaser",
+  "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T16:00:00+00:00",
+  "id": "04241825-939f-4b8f-90ea-22999cce20f5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.520708+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

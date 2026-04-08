@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Oil falls, Bitcoin jumps to $72K, but is this BTC price breakout for real?",
+  "raw_content": "Bitcoin rose toward $72,000 after US President Donald Trump confirmed a ceasefire agreement with Iran, sending oil prices crashing below $100.",
+  "source_url": "https://cointelegraph.com/news/oil-falls-bitcoin-jumps-dollar72k-is-btc-price-breakout-for-real?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T10:30:19+00:00",
+  "id": "aa7eee8a-6853-4054-8006-781801e84aa5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.673041+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

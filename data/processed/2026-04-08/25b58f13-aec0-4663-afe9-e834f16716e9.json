@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "UBS partners with five banks for Swiss franc stablecoin sandbox",
+  "raw_content": "UBS, PostFinance, Sygnum and others launched a 2026 sandbox to test Swiss franc stablecoin use cases and blockchain payment rails in Switzerland.",
+  "source_url": "https://cointelegraph.com/news/ubs-five-banks-swiss-franc-stablecoin-sandbox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T08:58:44+00:00",
+  "id": "25b58f13-aec0-4663-afe9-e834f16716e9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.583551+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

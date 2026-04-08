@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Korea draft bill puts stablecoins, RWAs under finance laws: Report",
+  "raw_content": "The draft proposal from South Korea’s ruling party reportedly bars stablecoin interest and calls for technical standards to ensure interoperability across blockchain networks.",
+  "source_url": "https://cointelegraph.com/news/south-korea-stablecoin-fx-law-rwa-trust-draft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T11:34:40+00:00",
+  "id": "13857440-a343-46a2-8e3f-28f4a7502a63",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.553682+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

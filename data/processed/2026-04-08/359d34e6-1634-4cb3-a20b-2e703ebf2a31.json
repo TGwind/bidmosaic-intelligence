@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "ARK buys $13M in Robinhood as US Treasury taps platform for Trump Accounts",
+  "raw_content": "Cathie Wood's ARK Invest increased its Robinhood stake after the platform was selected to operate government-backed “Trump Accounts” for youth savings and investment.",
+  "source_url": "https://cointelegraph.com/news/ark-13m-robinhood-trump-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T09:24:18+00:00",
+  "id": "359d34e6-1634-4cb3-a20b-2e703ebf2a31",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T13:53:02.615666+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
