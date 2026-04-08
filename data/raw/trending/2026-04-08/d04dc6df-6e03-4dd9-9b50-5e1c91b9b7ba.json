@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "魔丸练瑜伽",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1WhDVBTEUf",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T13:22:32.280395+00:00",
+  "id": "d04dc6df-6e03-4dd9-9b50-5e1c91b9b7ba",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 8063994,
+    "platform": "bilibili"
+  }
+}

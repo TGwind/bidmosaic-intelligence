@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "聚焦服务业 这场大会释放有力信号",
+  "raw_content": "聚焦服务业 这场大会释放有力信号",
+  "source_url": "https://www.toutiao.com/article/7626280064753123850",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T13:22:31.496927+00:00",
+  "id": "978aa1d0-84e1-4f91-9c81-400c5f684d1c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "80150517",
+    "platform": "toutiao"
+  }
+}

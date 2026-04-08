@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "最 难 绷 躲 猫 猫 ！！",
+  "raw_content": "一键三连哦！！感谢！",
+  "source_url": "https://www.bilibili.com/video/BV11PSSBqEKd",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-08T13:22:32.280451+00:00",
+  "id": "1a5ff52e-efc3-40ef-aa3a-2e86c51de9e7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2147475,
+    "platform": "bilibili"
+  }
+}
