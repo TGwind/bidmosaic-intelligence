@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "VERT: Reliable LLM Judges for Radiology Report Evaluation",
+  "raw_content": "arXiv:2604.03376v1 Announce Type: new Abstract: Current literature on radiology report evaluation has focused primarily on designing LLM-based metrics and fine-tuning small models for chest X-rays. However, it remains unclear whether these approaches are robust when applied to reports from other modalities and anatomies. Which model and prompt configurations are best suited to serve as LLM judges for radiology evaluation? We conduct a thorough correlation analysis between expert and LLM-based ratings. We compare three existing LLM-as-a-judge metrics (RadFact, GREEN, and FineRadScore) alongside VERT, our proposed LLM-based metric, using open- and closed-source models (reasoning and non-reasoning) of different sizes across two expert-annotated datasets, RadEval and RaTE-Eval, spanning multiple modalities and anatomies. We further evaluate few-shot approaches, ensembling, and parameter-efficient fine-tuning using RaTE-Eval. To better understand metric behavior, we perform a systematic error detection and categorization study to assess alignment of these metrics against expert judgments and identify areas of lower and higher agreement. Our results show that VERT improves correlation with radiologist judgments by up to 11.7% relative to GREEN. Furthermore, fine-tuning Qwen3 30B yield gains of up to 25% using only 1,300 training samples. The fine-tuned model also reduces inference time up to 37.2 times. These findings highlight the effectiveness of LLM-based judges and demonstrate that reliable evaluation can be achieved with lightweight adaptation.",
+  "source_url": "https://arxiv.org/abs/2604.03376",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-07T04:00:00+00:00",
+  "id": "c8980bf2-3445-4bd9-bfd0-2b2de1af867a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T03:22:30.330634+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

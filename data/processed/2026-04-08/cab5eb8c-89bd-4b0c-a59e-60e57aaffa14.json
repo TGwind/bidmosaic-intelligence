@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Knowledge Packs: Zero-Token Knowledge Delivery via KV Cache Injection",
+  "raw_content": "arXiv:2604.03270v1 Announce Type: new Abstract: RAG wastes tokens. We propose Knowledge Packs: pre-computed KV caches that deliver the same knowledge at zero token cost. For causal transformers, the KV cache from a forward pass on text F is identical to what a joint pass on F+q would produce - this follows directly from the causal mask. The equivalence is exact but fragile: wrong chat template formatting causes 6-7pp degradation, which we believe explains prior claims of KV outperforming RAG. With correct formatting: zero divergences across 700 questions on Qwen3-8B and Llama-3.1-8B, up to 95% token savings. The KV interface also enables behavioral steering that RAG cannot do. Because RoPE rotates keys but leaves values untouched, contrastive deltas on cached values can nudge model behavior while key arithmetic destroys coherence. The effect sits in mid-layer values (33-66%), independent directions are nearly orthogonal (cos~0) and compose, and both channels - knowledge and steering - run simultaneously at alpha<=0.7 without interference. No training, no weight modification.",
+  "source_url": "https://arxiv.org/abs/2604.03270",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-07T04:00:00+00:00",
+  "id": "cab5eb8c-89bd-4b0c-a59e-60e57aaffa14",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T03:22:30.338195+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

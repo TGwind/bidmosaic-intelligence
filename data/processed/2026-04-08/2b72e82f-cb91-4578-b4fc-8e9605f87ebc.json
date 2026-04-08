@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "SEC admits certain crypto enforcement cases delivered no investor benefit",
+  "raw_content": "Under SEC Chair Paul Atkins, the number of SEC enforcement actions against public companies has decreased by about 30%.",
+  "source_url": "https://cointelegraph.com/news/sec-crypto-enforcement-cases-no-benefit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T02:40:40+00:00",
+  "id": "2b72e82f-cb91-4578-b4fc-8e9605f87ebc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T03:22:30.252140+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Evaluating Artificial Intelligence Through a Christian Understanding of Human Flourishing",
+  "raw_content": "arXiv:2604.03356v1 Announce Type: new Abstract: Artificial intelligence (AI) alignment is fundamentally a formation problem, not only a safety problem. As Large Language Models (LLMs) increasingly mediate moral deliberation and spiritual inquiry, they do more than provide information; they function as instruments of digital catechesis, actively shaping and ordering human understanding, decision-making, and moral reflection. To make this formative influence visible and measurable, we introduce the Flourishing AI Benchmark: Christian Single-Turn (FAI-C-ST), a framework designed to evaluate Frontier Model responses against a Christian understanding of human flourishing across seven dimensions. By comparing 20 Frontier Models against both pluralistic and Christian-specific criteria, we show that current AI systems are not worldview-neutral. Instead, they default to a Procedural Secularism that lacks the grounding necessary to sustain theological coherence, resulting in a systematic performance decline of approximately 17 points across all dimensions of flourishing. Most critically, there is a 31-point decline in the Faith and Spirituality dimension. These findings suggest that the performance gap in values alignment is not a technical limitation, but arises from training objectives that prioritize broad acceptability and safety over deep, internally coherent moral or theological reasoning.",
+  "source_url": "https://arxiv.org/abs/2604.03356",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-07T04:00:00+00:00",
+  "id": "86c4eeab-451e-46eb-a1f4-52d04e248b72",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T03:22:30.299802+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Carolyn Rogers: An anchor of stability in uncertain times",
+  "raw_content": "Remarks by Ms Carolyn Rogers, Senior Deputy Governor of the Bank of Canada, to the Brandon Chamber of Commerce, Brandon, Manitoba, 26 March 2026.",
+  "source_url": "https://www.bis.org/review/r260331g.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-08T03:19:50.824731+00:00",
+  "id": "29b76c5f-eda3-40d6-b735-8af51b4b079d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-08T03:22:30.248116+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
