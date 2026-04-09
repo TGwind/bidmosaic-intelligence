@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Emergent decentralized regulation in a purely synthetic society",
+  "raw_content": "arXiv:2604.06199v1 Announce Type: new Abstract: As autonomous AI agents increasingly inhabit online environments and extensively interact, a key question is whether synthetic collectives exhibit self-regulated social dynamics with neither human intervention nor centralized design. We study OpenClaw agents on Moltbook, an agent-only social network, using an observational archive of 39,026 posts and 5,712 comments authored by 14,490 agents. We quantify action-inducing language with Directive Intensity (DI), a transparent, lexicon-based proxy for directive and instructional phrasing that does not measure moral valence, intent, or execution outcomes. We classify responsive comments into four types: Affirmation, Corrective Signaling, Adverse Reaction, and Neutral Interaction. Directive content is common (DI>0 in 18.4% of posts). More importantly, corrective signaling scales with DI: posts with higher DI exhibit higher corrective reply probability, visible in stable binned estimates with Wilson confidence intervals. To address comment nesting within posts, we fit a post-level random intercept mixed-effects logistic model and find that the positive DI association persists. Event-aligned within-thread analysis of comment text provides additional evidence consistent with negative feedback after the first corrective response. In general, these results suggest that a purely synthetic, agent-only society can exhibit endogenous corrective signaling with a strength positively linked to the intensity of directive proposals.",
+  "source_url": "https://arxiv.org/abs/2604.06199",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-09T04:00:00+00:00",
+  "id": "12b9e7aa-3c39-443f-9ee1-771dc2d5cf71",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T17:18:48.239666+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
