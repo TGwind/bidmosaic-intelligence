@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗战事真的停火了吗",
+  "raw_content": "伊朗战事真的停火了吗",
+  "source_url": "https://www.toutiao.com/trending/7626716353449168393/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227626716353449168393%22%2C%22hot_board_impr_id%22%3A%22202604092143203A804C9ECE8BC9E53043%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E7%9C%9F%E7%9A%84%E5%81%9C%E7%81%AB%E4%BA%86%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7626716353449168393",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-09T13:43:21.161678+00:00",
+  "id": "637b6f5c-59a5-4f4c-9d96-aca246125ee4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T13:44:07.879059+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9809551",
+    "platform": "toutiao"
+  }
+}

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "我国加快太空算力产业生态培育",
-  "raw_content": "我国加快太空算力产业生态培育",
-  "source_url": "https://www.toutiao.com/article/7626365126634930703",
+  "raw_title": "“中国服务”何以乘势而上",
+  "raw_content": "“中国服务”何以乘势而上",
+  "source_url": "https://www.toutiao.com/article/7626615942482641471",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-09T07:24:52.120545+00:00",
-  "id": "e2411f09-bfeb-4fc0-8e98-aab1dafc91c5",
+  "collected_at": "2026-04-09T13:43:21.161597+00:00",
+  "id": "a01bf2db-a003-4583-942f-bb533f54a9c1",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-09T13:44:07.886157+00:00",
+  "processed_at": "2026-04-09T13:44:07.882309+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "50774680",
+    "hot_score": "26665125",
     "platform": "toutiao"
   }
 }
