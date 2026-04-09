@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "MMORF: A Multi-agent Framework for Designing Multi-objective Retrosynthesis Planning Systems",
+  "raw_content": "arXiv:2604.05075v1 Announce Type: new Abstract: Multi-objective retrosynthesis planning is a critical chemistry task requiring dynamic balancing of quality, safety, and cost objectives. Language model-based multi-agent systems (MAS) offer a promising approach for this task: leveraging interactions of specialized agents to incorporate multiple objectives into retrosynthesis planning. We present MMORF, a framework for constructing MAS for multi-objective retrosynthesis planning. MMORF features modular agentic components, which can be flexibly combined and configured into different systems, enabling principled evaluation and comparison of different system designs. Using MMORF, we construct two representative MAS: MASIL and RFAS. On a newly curated benchmark consisting of 218 multi-objective retrosynthesis planning tasks, MASIL achieves strong safety and cost metrics on soft-constraint tasks, frequently Pareto-dominating baseline routes, while RFAS achieves a 48.6% success rate on hard-constraint tasks, outperforming state-of-the-art baselines. Together, these results show the effectiveness of MMORF as a foundational framework for exploring MAS for multi-objective retrosynthesis planning. Code and data are available at https://anonymous.4open.science/r/MMORF/.",
+  "source_url": "https://arxiv.org/abs/2604.05075",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T04:00:00+00:00",
+  "id": "a4309194-dfb2-4a5e-a89f-7b88d06e9862",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T02:56:16.380491+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel III liquidity indicators increase slightly while risk-based capital and leverage ratios are stable for large internationally active banks, latest Basel III monitoring exercise shows",
+  "raw_content": "Banks' liquidity ratios increased slightly while Basel III risk-based capital and leverage ratios are stable in the first half of 2025. The average impact of the Basel III framework on the Tier 1 minimum required capital (MRC) of Group 1 banks decreased, driven by implementation progress. The newly expanded cryptoasset exposures dashboard shows how banks are classifying their cryptoasset exposures.",
+  "source_url": "https://www.bis.org/press/p260324.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-09T02:55:36.794052+00:00",
+  "id": "84193834-e1b3-48e9-8b8f-045e731d5caa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T02:56:16.366735+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

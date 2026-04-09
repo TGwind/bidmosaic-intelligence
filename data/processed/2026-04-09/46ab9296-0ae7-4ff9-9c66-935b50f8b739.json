@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning",
+  "raw_content": "arXiv:2604.04941v1 Announce Type: new Abstract: Many combinatorial optimisation problems hide algebraic structures that, once exposed, shrink the search space and improve the chance of finding the global optimal solution. We present a general framework that (i) identifies algebraic structure, (ii) formalises operations, (iii) constructs quotient spaces that collapse redundant representations, and (iv) optimises directly over these reduced spaces. Across a broad family of rule-combination tasks (e.g., patient subgroup discovery and rule-based molecular screening), conjunctive rules form a monoid. Via a characteristic-vector encoding, we prove an isomorphism to the Boolean hypercube $\\{0,1\\}^n$ with bitwise OR, so logical AND in rules becomes bitwise OR in the encoding. This yields a principled quotient-space formulation that groups functionally equivalent rules and guides structure-aware search. On real clinical data and synthetic benchmarks, quotient-space-aware genetic algorithms recover the global optimum in 48% to 77% of runs versus 35% to 37% for standard approaches, while maintaining diversity across equivalence classes. These results show that exposing and exploiting algebraic structure offers a simple, general route to more efficient combinatorial optimisation.",
+  "source_url": "https://arxiv.org/abs/2604.04941",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T04:00:00+00:00",
+  "id": "46ab9296-0ae7-4ff9-9c66-935b50f8b739",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T02:56:16.337523+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

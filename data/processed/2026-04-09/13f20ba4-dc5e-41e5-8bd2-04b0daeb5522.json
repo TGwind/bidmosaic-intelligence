@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国房地产巨头万科亏损885亿元",
+  "raw_content": "2026/04/09 中国房地产大型企业万科公布的2025年12月期财报显示，最终损益为亏损885亿元。万科已连续两年出现最终亏损，亏损额较上一财年扩大约八成。主营业务住宅销售持续低迷。 万科曾在1月表示，2025年12月期最终损益预计亏损820亿元。对于亏损原因，公司解释称过去开发项目的成本较高，销售情况和毛利率均低于预期。 营业收入同比下降32%，为2334亿元。住宅等房产销售面积为1025万平方米，同比减少43%。除整体市场低迷外，公司经营不安加剧也被认为产生了影响。万科就巨额亏损表示向股东表示由衷的歉意。除外部因素外，也存在过去经营失误等自身责任。 中国调查机构克而瑞研究中心的数据显示，万科2025年的住宅销售额约为870亿元，较2024年减少45%。销售额已连续5年下降，与2020年的峰值相比减少约八成。 万科有多笔公司债券在2025年12月以后到期，不过公司已与债权人达成协议，将大部分本金偿还期限推迟一年。但中国房地产市场复苏迹象仍不明显，预计今后经营环境仍将持续严峻。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/china/ccompany/62084-2026-04-09-09-23-18.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-09T01:38:03+00:00",
+  "id": "13f20ba4-dc5e-41e5-8bd2-04b0daeb5522",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T02:56:16.304546+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

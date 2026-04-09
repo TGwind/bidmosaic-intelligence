@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本企业破产数量创12年来新高",
+  "raw_content": "2026/04/09 东京商工调查公司4月8日公布的数据显示，2025年度日本全国企业破产数量（负债额1000万日元以上）为10505家，同比增加4%。这一数字连续4年增加，达到12年来最高水平。随着物价和人工成本上升，体力不足的企业面临更强的淘汰压力。 经济下行带来的企业破产通常会增加失业，但在长期劳动力短缺的情况下，也会促使劳动者向成长型企业转移。如果经济的新陈代谢加快，也有助于推动工资整体上涨。在原油价格上涨等因素叠加、经营环境更加严峻的背景下，企业提升生产率的努力也受到关注。 2025年度的破产数量达到自东日本大地震影响仍在持续的2013年度以来的水平。破产企业中以中小和微型企业为主，其中员工不足5人的企业达8092家，占总数的77%。尽管破产数量增加，但大型案件相对较少，负债总额同比减少34%，为1.5687万亿日元。 在已明确破产原因的案件中，以人手不足为主要原因的破产数量增加43%，达到442家，创历史新高。",
+  "source_url": "http://cn.nikkei.com/industry/management-strategy/62078-2026-04-09-08-31-02.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-09T01:08:03+00:00",
+  "id": "23f30201-58cb-40e4-b633-aef5cff9025e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T02:56:16.316338+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

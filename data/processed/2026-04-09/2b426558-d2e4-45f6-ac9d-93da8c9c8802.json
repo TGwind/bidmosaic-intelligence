@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US SEC taps new enforcement chief amid questions over predecessor's exit",
+  "raw_content": "David Woodcock steps into the role as US senators await answers to questions on the agency’s dropping lawsuits against Justin Sun and several crypto companies.",
+  "source_url": "https://cointelegraph.com/news/sec-enforcement-director-questions-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T20:52:02+00:00",
+  "id": "2b426558-d2e4-45f6-ac9d-93da8c9c8802",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T02:56:16.326468+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

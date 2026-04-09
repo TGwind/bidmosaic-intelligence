@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US Treasury moves forward with GENIUS Act, focusing on illicit finance",
+  "raw_content": "The proposed rule would direct payment stablecoin issuers to establish AML/CFT and sanctions compliance programs, and be able to “block, freeze, and reject” certain transactions.",
+  "source_url": "https://cointelegraph.com/news/treasury-genius-act-rule-illicit-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T19:08:05+00:00",
+  "id": "2caa951b-973c-42bc-b3ec-a61f356c6294",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T02:56:16.323036+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

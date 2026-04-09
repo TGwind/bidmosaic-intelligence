@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Iran weighing crypto tolls for ships using Strait of Hormuz: Report",
+  "raw_content": "Empty tankers will reportedly be permitted to pass through the waterway under the US-Iran deal, but certain ships will need to pay a tariff of $1 per barrel of oil in Bitcoin.",
+  "source_url": "https://cointelegraph.com/news/iran-crypto-ships-strait-hormuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T15:43:18+00:00",
+  "id": "b6c92414-8660-4bf7-95a3-d8e5fac1e97e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T02:56:16.394018+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

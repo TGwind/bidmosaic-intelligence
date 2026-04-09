@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price chart targets $90K as traders ‘aggressively’ buy on Binance",
+  "raw_content": "Bitcoin gained momentum as data showed buyers are starting to dominate volumes on Binance, with a $90,000 BTC price target on their radar.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-chart-targets-90k-aggressively-buy-on-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-08T17:43:14+00:00",
+  "id": "fa482def-4835-47e8-b52c-0379ecf6c7dc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T02:56:16.428148+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
