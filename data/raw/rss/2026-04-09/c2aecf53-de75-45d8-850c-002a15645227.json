@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin analysts say this must happen for BTC price to ‘continue rising’",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin analysts say this must happen for BTC price to ‘continue rising’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjQtMTIvMDE5M2ExMmItMmUwZi03ZWQ0LTlkOGQtNWFhMDg2Njc3OGZk.jpg\" /></p><p>Bitcoin needs to regain momentum with higher trading volumes for BTC to reclaim $80,000 as support and sustain the recovery.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-analysts-say-this-must-happen-for-btc-price-to-continue-rising?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T10:46:35+00:00",
+  "id": "c2aecf53-de75-45d8-850c-002a15645227",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Hallucination as output-boundary misclassification: a composite abstention architecture for language models",
+  "raw_content": "arXiv:2604.06195v1 Announce Type: new \nAbstract: Large language models often produce unsupported claims. We frame this as a misclassification error at the output boundary, where internally generated completions are emitted as if they were grounded in evidence. This motivates a composite intervention that combines instruction-based refusal with a structural abstention gate. The gate computes a support deficit score, St, from three black-box signals: self-consistency (At), paraphrase stability (Pt), and citation coverage (Ct), and blocks output when St exceeds a threshold. In a controlled evaluation across 50 items, five epistemic regimes, and three models, neither mechanism alone was sufficient. Instruction-only prompting reduced hallucination sharply, but still showed over-cautious abstention on answerable items and residual hallucination for GPT-3.5-turbo. The structural gate preserved answerable accuracy across models but missed confident confabulation on conflicting-evidence items. The composite architecture achieved high overall accuracy with low hallucination, while also inheriting some over-abstention from the instruction component. A supplementary 100-item no-context stress test derived from TruthfulQA showed that structural gating provides a capability-independent abstention floor. Overall, instruction-based refusal and structural gating show complementary failure modes, which suggests that effective hallucination control benefits from combining both mechanisms.",
+  "source_url": "https://arxiv.org/abs/2604.06195",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-09T04:00:00+00:00",
+  "id": "2d836a15-d1c2-4e92-90f7-a0084c70a7c4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
