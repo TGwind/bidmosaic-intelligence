@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "SensorPersona: An LLM-Empowered System for Continual Persona Extraction from Longitudinal Mobile Sensor Streams",
+  "raw_content": "arXiv:2604.06204v1 Announce Type: new Abstract: Personalization is essential for Large Language Model (LLM)-based agents to adapt to users' preferences and improve response quality and task performance. However, most existing approaches infer personas from chat histories, which capture only self-disclosed information rather than users' everyday behaviors in the physical world, limiting the ability to infer comprehensive user personas. In this work, we introduce SensorPersona, an LLM-empowered system that continuously infers stable user personas from multimodal longitudinal sensor streams unobtrusively collected from users' mobile devices. SensorPersona first performs person-oriented context encoding on continuous sensor streams to enrich the semantics of sensor contexts. It then employs hierarchical persona reasoning that integrates intra- and inter-episode reasoning to infer personas spanning physical patterns, psychosocial traits, and life experiences. Finally, it employs clustering-aware incremental verification and temporal evidence-aware updating to adapt to evolving personas. We evaluate SensorPersona on a self-collected dataset containing 1,580 hours of sensor data from 20 participants, collected over up to 3 months across 17 cities on 3 continents. Results show that SensorPersona achieves up to 31.4% higher recall in persona extraction, an 85.7% win rate in persona-aware agent responses, and notable improvements in user satisfaction compared to state-of-the-art baselines.",
+  "source_url": "https://arxiv.org/abs/2604.06204",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-09T04:00:00+00:00",
+  "id": "1cb57578-b665-4341-8ff6-b0d632879417",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T09:21:49.064068+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

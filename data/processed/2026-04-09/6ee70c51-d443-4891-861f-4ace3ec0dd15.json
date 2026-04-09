@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Cross-Lingual Transfer and Parameter-Efficient Adaptation in the Turkic Language Family: A Theoretical Framework for Low-Resource Language Models",
+  "raw_content": "arXiv:2604.06202v1 Announce Type: new Abstract: Large language models (LLMs) have transformed natural language processing, yet their capabilities remain uneven across languages. Most multilingual models are trained primarily on high-resource languages, leaving many languages with large speaker populations underrepresented in both training data and evaluation benchmarks. This imbalance is particularly visible in the Turkic language family. This paper proposes a theoretical framework for studying cross-lingual transfer and parameter-efficient adaptation of multilingual LLMs within the Turkic language family, focusing on Azerbaijani, Kazakh, Uzbek, Turkmen, and Gagauz. These languages share substantial typological and morphological similarity while differing greatly in available digital resources, making them a natural setting for analyzing multilingual adaptation strategies. We integrate insights from multilingual representation learning and parameter-efficient fine-tuning techniques such as Low-Rank Adaptation (LoRA) to develop a conceptual scaling model describing how adaptation performance depends on model capacity, adaptation data size, and the expressivity of adaptation modules. To formalize transfer potential between related languages, we introduce the Turkic Transfer Coefficient (TTC), a theoretical measure incorporating morphological similarity, lexical overlap, syntactic structure, and script compatibility across Turkic languages. The framework highlights how typological similarity can enable efficient multilingual transfer while also identifying structural limits of parameter-efficient adaptation in extremely low-resource scenarios.",
+  "source_url": "https://arxiv.org/abs/2604.06202",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-09T04:00:00+00:00",
+  "id": "6ee70c51-d443-4891-861f-4ace3ec0dd15",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T09:21:49.156961+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
