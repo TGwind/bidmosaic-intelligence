@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Potential buyers are circling Winklevoss-backed crypto exchange Gemini",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/02/potential-buyers-are-circling-winklevoss-backed-crypto-exchange-gemini",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T17:05:40+00:00",
+  "id": "4d7731c4-559f-4def-b54f-cdabb19ba7c6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T21:02:10.668664+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

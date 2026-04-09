@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US lawmakers ask if Trump dangling memecoin event attendance: Report",
+  "raw_content": "With a potential scheduling conflict, several senators want to know if the president plans to attend a luncheon for memecoin holders in Florida or just seeking to generate fees.",
+  "source_url": "https://cointelegraph.com/news/us-lawmakers-questions-donald-trump-memecoin-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T19:56:16+00:00",
+  "id": "1249e5d1-b090-4d72-bf5a-5d15c962ea15",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T21:02:10.595181+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
