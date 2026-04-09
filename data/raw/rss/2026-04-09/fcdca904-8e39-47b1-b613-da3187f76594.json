@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "SELFDOUBT: Uncertainty Quantification for Reasoning LLMs via the Hedge-to-Verify Ratio",
+  "raw_content": "arXiv:2604.06389v1 Announce Type: new \nAbstract: Uncertainty estimation for reasoning language models remains difficult to deploy in practice: sampling-based methods are computationally expensive, while common single-pass proxies such as verbalized confidence or trace length are often inconsistent across models. This problem is compounded for proprietary reasoning APIs that expose neither logits nor intermediate token probabilities, leaving practitioners with no reliable uncertainty signal at inference time. We propose SELFDOUBT, a single-pass uncertainty framework that resolves this impasse by extracting behavioral signals directly from the reasoning trace itself. Our key signal, the Hedge-to-Verify Ratio (HVR), detects whether a reasoning trace contains uncertainty markers and, if so, whether they are offset by explicit selfchecking behavior. Unlike methods that require multiple sampled traces or model internals, SELFDOUBT operates on a single observed reasoning trajectory, making it suitable for latency- and cost-constrained deployment over any proprietary API. We evaluate SELFDOUBT across seven models and three multi-step reasoning benchmarks (BBH, GPQA-Diamond, and MMLU-Pro). Most notably, traces containing no hedging markers are correct 96% of the time, revealing an emergent high-precision confidence gate at zero additional cost. For the remaining cases, the full SELFDOUBT score significantly outperforms sampling-based semantic entropy at 10x lower inference cost. A deployment cascade combining both stages attains 90% accuracy at 71% coverage without any task-specific labels. These results establish SELFDOUBT as a scalable, production-ready foundation for uncertainty estimation over proprietary reasoning models.",
+  "source_url": "https://arxiv.org/abs/2604.06389",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-09T04:00:00+00:00",
+  "id": "fcdca904-8e39-47b1-b613-da3187f76594",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
