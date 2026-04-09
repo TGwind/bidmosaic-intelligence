@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Depression Detection at the Point of Care: Automated Analysis of Linguistic Signals from Routine Primary Care Encounters",
+  "raw_content": "arXiv:2604.06193v1 Announce Type: new \nAbstract: Depression is underdiagnosed in primary care, yet timely identification remains critical. Recorded clinical encounters, increasingly common with digital scribing technologies, present an opportunity to detect depression from naturalistic dialogue. We investigated automated depression detection from 1,108 audio-recorded primary care encounters in the Establishing Focus study, with depression defined by PHQ-9 (n=253 depressed, n=855 non-depressed). We compared three supervised approaches, Sentence-BERT + Logistic Regression (LR), LIWC+LR and ModernBERT, against a zero-shot GPT-OSS. GPT-OSS achieved the strongest performance (AUPRC=0.510, AUROC=0.774), with LIWC+LR competitive among supervised models (AUPRC=0.500, AUROC=0.742). Combined dyadic transcripts outperformed single-speaker configurations, with providers linguistically mirroring patients in depression encounters, an additive signal not captured by either speaker alone. Meaningful detection is achievable from the first 128 patient tokens (AUPRC=0.356, AUROC=0.675), supporting in-the-moment clinical decision support. These findings argue for passively collected clinical audio as a low-burden complement to existing screening workflows.",
+  "source_url": "https://arxiv.org/abs/2604.06193",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-09T04:00:00+00:00",
+  "id": "1dfded91-8065-4834-8819-38a769fde0f3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "中东局势推高油价 中国塑料市场现囤货潮",
+  "raw_content": "<div><div><div><noscript><div><div><strong>你的器材不支持播放多媒体材料</strong></div></div></noscript></div><span>中东局势推高油价 中国塑料市场现囤货潮</span></span></div></div><div><strong>中东局势推高油价 中国塑料市场现囤货潮</strong></div><div><time datetime=\"2026-04-09\">5 分钟前</time></div><div><p>受中东局势紧张推高油价影响，中国华南塑料价格自3月以来急升约六成，冲击企业利润并扰乱供应链。全国最大塑料交易中心樟木头出现囤货潮，上游石化厂因原料短缺提价，加剧市场紧张。</p></div><div><p>有企业负责人表示：“价格自3月起持续上涨，升幅约六成，且未见停止迹象”，库存已耗尽，只能以高价补货，压力将转嫁下游。抢购亦导致物流挤塞，当地一度连续近一周交通瘫痪、仓库爆满。有业者批评部分供应商拒履行低价合约，转供高价订单。</p></div>",
+  "source_url": "https://www.bbc.com/zhongwen/articles/cr51z2pz8y3o/simp#2",
+  "source_name": "BBC中文",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-09T09:43:01+00:00",
+  "id": "58ef6753-6b60-42e8-9c0c-a300704fa8d3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/bbc.xml",
+    "category": "china_news",
+    "source_type": "wire",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

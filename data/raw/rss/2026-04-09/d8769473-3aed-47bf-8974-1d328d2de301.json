@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Maine Is Close to Passing a Moratorium on New Datacenters",
+  "raw_content": "The proposed legislation would be the first of its kind passed in the country, but there are similar bills popping up everywhere this year.",
+  "source_url": "https://www.404media.co/maine-datacenter-construction-bill-ld-307/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-07T15:56:48+00:00",
+  "id": "d8769473-3aed-47bf-8974-1d328d2de301",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

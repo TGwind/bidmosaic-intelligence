@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "DOJ and CFTC seek halt to Arizona action against Kalshi",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DOJ and CFTC seek halt to Arizona action against Kalshi\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDcyNDgtNDlhMC03YzkwLWEyNjAtYzJjMTZlNzIwZTcxLmpwZw==.jpg\" /></p><p>The US Justice Department and commodities regulator asked a federal court to block Arizona’s action against Kalshi, arguing federally regulated event contracts fall under CFTC jurisdiction.</p>",
+  "source_url": "https://cointelegraph.com/news/doj-cftc-arizona-court-kalshi-action?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T13:24:30+00:00",
+  "id": "e883d3a8-a469-40d3-b9b1-6581d7205e55",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
