@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Gold, silver and oil drive 65,000% jump in commodity perpetuals",
+  "raw_content": "BitMEX said commodity perpetual swaps volume jumped from $38.1 million to $25 billion in Q1 as traders flocked to 24/7 gold, silver and oil exposure.",
+  "source_url": "https://cointelegraph.com/news/gold-silver-oil-drive-65000-percent-jump-in-commodity-perpetuals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T12:00:00+00:00",
+  "id": "69f93749-7b61-47ca-b698-47c59f2676fe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T14:04:05.808318+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

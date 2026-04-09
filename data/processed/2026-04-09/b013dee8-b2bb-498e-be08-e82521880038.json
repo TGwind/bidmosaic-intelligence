@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Morgan Stanley Bitcoin ETF trails BlackRock with $30M in first-day inflows",
+  "raw_content": "Morgan Stanley’s Bitcoin ETF drew $30.6 million in first-day inflows, ranking second behind BlackRock’s IBIT as US spot Bitcoin ETFs clocked net outflows on Wednesday.",
+  "source_url": "https://cointelegraph.com/news/morgan-stanley-bitcoin-etf-trails-blackrock-with-30m-in-first-day-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T09:21:29+00:00",
+  "id": "b013dee8-b2bb-498e-be08-e82521880038",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T14:04:05.850413+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

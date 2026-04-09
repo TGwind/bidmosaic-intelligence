@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin Depot discloses $3.7M BTC theft in cybersecurity breach",
+  "raw_content": "Bitcoin Depot said a hacker stole 50.9 BTC, worth about $3.7 million, after gaining access to internal systems linked to corporate wallets.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-depot-3-7m-cybersecurity-breach-customer-data-safe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T12:13:28+00:00",
+  "id": "aef33eb3-4ab8-4ff2-8908-393b00346d6d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T14:04:05.843930+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto exchanges chase TradFi commodities market as pricing gaps persist",
+  "raw_content": "Crypto exchanges are seeking market share of TradFi trading venues, but tokenized commodities adoption is limited by pricing and liquidity concerns.",
+  "source_url": "https://cointelegraph.com/news/crypto-exchanges-tradfi-precious-metals-pricing-liquidity-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T12:03:16+00:00",
+  "id": "27cc2a28-b7cf-4932-8914-497c8c9ddae1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T14:04:05.736231+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

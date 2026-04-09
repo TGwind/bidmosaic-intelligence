@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Tokenized perpetual swaps hit $31 billion weekly volume on commodities volatility",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/09/tokenized-perpetual-swaps-hit-usd31-billion-weekly-volume-on-commodities-volatility",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T12:00:00+00:00",
+  "id": "4919fd80-8ae7-40ad-903a-383ef583fe5e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T14:04:05.787141+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

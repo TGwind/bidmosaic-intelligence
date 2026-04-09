@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "The $21 billion AI bet: Meta and CoreWeave ink deal for NVIDIA’s next-gen superchips",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/09/meta-expands-ai-infrastructure-bet-with-usd21-billion-coreweave-deal",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T12:19:55+00:00",
+  "id": "06756337-eae1-4555-a583-660618a9b527",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-09T14:04:05.681302+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
