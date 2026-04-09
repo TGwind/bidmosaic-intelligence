@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Tom Lee's Bitmine uplists to NYSE, expands buyback authorization to $4 billion",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/09/tom-lee-s-bitmine-lists-on-nyse-expands-usd4-billion-buyback-as-eth-bet-deepens",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T14:50:48+00:00",
+  "id": "232f8624-16cd-4050-bcfe-ac644183b14f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

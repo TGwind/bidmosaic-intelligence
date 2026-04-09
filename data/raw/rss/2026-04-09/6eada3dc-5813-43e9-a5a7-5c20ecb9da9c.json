@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Kalshi now controls 89% of the U.S. prediction market as regulated trading takes over",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/09/kalshi-now-controls-89-of-the-u-s-prediction-market-as-regulated-trading-takes-over",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T18:36:05+00:00",
+  "id": "6eada3dc-5813-43e9-a5a7-5c20ecb9da9c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

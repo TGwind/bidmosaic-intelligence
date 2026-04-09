@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
+  "raw_content": "arXiv:2604.06189v1 Announce Type: new \nAbstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leaving a gap of five orders of magnitude ($10^{64}$ to $10^{69}$). This large gap arises from the difficulty of distinguishing Shogi positions legally reachable from the initial position among the vast number of valid board configurations. In this paper, we present a high-precision statistical estimation of the number of reachable positions in Shogi. Our method combines Monte Carlo sampling with a novel reachability test that utilizes a reverse search toward a set of \"King-King only\" (KK) positions, rather than a single-target backward search to the single initial position. This approach significantly reduces the search effort for determining unreachability. Based on a sample of 5 billion positions, we estimated the number of legal positions in Shogi to be $6.55 \\times 10^{68}$ (to three significant digits) with a $3\\sigma$ confidence level, substantially improving upon previously known bounds. We also applied this method to Mini Shogi, determining its complexity to be approximately $2.38 \\times 10^{18}$.",
+  "source_url": "https://arxiv.org/abs/2604.06189",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-09T04:00:00+00:00",
+  "id": "fc52b029-5e5a-4e9f-9206-cc9db4f15ac9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
