@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
+  "raw_content": "<p>The age of agentic AI is upon us — whether we like it or not. What started with an innocent question-answer banter with ChatGPT back in 2022 has become an existential debate on job security and the rise of the machines. </p><p>More recently, fears of reaching artificial general intelligence (AGI) have become more real with the advent of  powerful autonomous agents like Claude Cowork and <a href=\"https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch\">OpenClaw</a>. Having played with these tools for some time, here is a comparison.</p><p>First, we have OpenClaw (formerly known as Moltbot and Clawdbot). Surpassing 150,000 GitHub stars in days, OpenClaw is already being deployed on local machines with deep system access. This is like a robot “maid” (Irona for <i>Richie Rich</i> fans, for instance) that you give the keys to your house. It’s supposed to clean it, and you give it the necessary autonomy to take actions and manage your belongings (files and data) as it pleases. The whole purpose is to perform the task at hand — inbox triaging, auto-replies, content curation, travel planning, and more.</p><p>Next we have Google’s <a href=\"https://antigravity.google/\">Antigravity</a>, a coding agent with an IDE that accelerates the path from prompt to production. You can interactively create complete application projects and modify specific details over individual prompts. This is like having a junior developer that can not only code, but build, test, integrate, and fix issues. In the realworld, this is like hiring an electrician: They are really good at a specific job and you only need to give them access to a specific item (your electric junction box). </p><p>Finally, we have the mighty Claude. The release of Anthropic&#x27;s Cowork, which featured AI agents for automating legal tasks like contract review and NDA triage, caused a sharp sell-off in legal-tech and software-as-a-service (SaaS) stocks (referred to as the <a href=\"https://venturebeat.com/infrastructure/intuit-is-betting-its-40-years-of-small-business-data-can-outlast-the\">SaaSpocalypse</a>). Claude has anyway been the go-to chatbot; now with Cowork, it has domain knowledge for specific industries like legal and finance. This is like hiring an accountant. They know the domain inside-out and can complete taxes and manage invoices. Users provide specific access to highly-sensitive financial details.</p><h2>Making these tools work for you</h2><p>The key to making these tools more impactful is giving them more power, but that increases the <a href=\"https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert\">risk of misuse</a>. Users must trust providers like Anthorpic and Google to ensure that agent prompts will not cause harm, leak data, or provide unfair (illegal) advantage to certain vendors. OpenClaw is open-source, which complicates things, as there is no central governing authority. </p><p>While these technological advancements are amazing and meant for the greater good, all it takes is one or two adverse events to cause panic. Imagine the agentic electrician frying all your house circuits by connecting the wrong wire. In an agent scenario, this could be injecting incorrect code, breaking down a bigger system or adding hidden flaws that may not be immediately evident. Cowork could miss major saving opportunities when doing a user&#x27;s taxes; on the flip side, it could include illegal writeoffs. Claude can do unimaginable damage when it has more control and authority.</p><p>But in the middle of this chaos, there is an opportunity to really take advantage. With the right guardrails in place, agents can focus on specific actions and avoid making random, unaccounted-for decisions. Principles of responsible AI — accountability, transparency, reproducibility, security, privacy — are extremely important. Logging agent steps and human confirmation are absolutely critical. </p><p>Also, when agents deal with so many diverse systems, it&#x27;s important they speak the same language. Ontology becomes very important so that events can be tracked, monitored, and accounted for. A shared domain-specific ontology can define a “code of conduct.&quot; These ethics can help control the chaos. When tied together with a shared trust and distributed identity framework, we can build systems that enable agents to do truly useful work. </p><p>When done right, an agentic ecosystem can greatly offload the human “cognitive load” and enable our workforce to perform high-value tasks. Humans will benefit when agents handle the mundane.</p><p><i>Dattaraj Rao is innovation and R&amp;D architect at Persistent Systems. </i></p>",
+  "source_url": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-08T22:26:37+00:00",
+  "id": "a6265711-e1b7-403e-aa77-d8964496e3e8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

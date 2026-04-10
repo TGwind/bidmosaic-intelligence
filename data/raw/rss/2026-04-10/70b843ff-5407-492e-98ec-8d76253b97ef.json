@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Aethir halts bridge exploit, promises compensation after $90K loss",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aethir halts bridge exploit, promises compensation after $90K loss\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc2YTMtMzk2OS03Yzg0LWFjNWEtYjIyYzM3MGFhYzUwLmpwZw==.jpg\" /></p><p>Aethir said it halted a bridge exploit on its Ethereum-linked contracts, limiting losses to under $90,000 after PeckShield estimated $400,000 in damages.</p>",
+  "source_url": "https://cointelegraph.com/news/aethir-bridge-exploit-halt-user-compensation-90k-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T10:58:46+00:00",
+  "id": "70b843ff-5407-492e-98ec-8d76253b97ef",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
