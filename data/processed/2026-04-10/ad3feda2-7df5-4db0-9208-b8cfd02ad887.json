@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《渣养翻车》1-3合集",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1tVSZBYEuD",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-10T07:43:51.401070+00:00",
+  "id": "ad3feda2-7df5-4db0-9208-b8cfd02ad887",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T07:44:28.203170+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1674032,
+    "platform": "bilibili"
+  }
+}

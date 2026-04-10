@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "用船制作的跑酷？",
+  "raw_content": "这是一个越做越乱的水视频，希望大家不喜欢（ 感感感谢谢谢关关关注注注！！！",
+  "source_url": "https://www.bilibili.com/video/BV1oGSoB5EuM",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-10T07:43:51.401053+00:00",
+  "id": "c86464dd-8332-4b7b-9c79-6bbb0e37e0b8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T07:44:28.204382+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1826713,
+    "platform": "bilibili"
+  }
+}
