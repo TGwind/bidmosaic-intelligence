@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【檀健次】【B站独家】「多见一次」个人巡回演唱会大电影",
+  "raw_content": "【檀健次】【B站独家】「多见一次」个人巡回演唱会大电影",
+  "source_url": "https://www.bilibili.com/video/BV115DEBpENi",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-10T13:13:42.478987+00:00",
+  "id": "2b0a9b1e-61f8-4251-adba-6181e74082c9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1211186,
+    "platform": "bilibili"
+  }
+}
