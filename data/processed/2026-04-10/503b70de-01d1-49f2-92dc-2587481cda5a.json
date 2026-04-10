@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "OKX and HashKey invest in new Vietnam exchange ahead of crypto licensing push",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/10/okx-hashkey-back-usd380-million-vietnam-crypto-push-as-new-rules-near-rollout",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T02:35:25+00:00",
+  "id": "503b70de-01d1-49f2-92dc-2587481cda5a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T09:21:32.493494+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

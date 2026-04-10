@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin can be made quantum-safe without protocol upgrade: Researcher",
+  "raw_content": "A proposed workaround could enable quantum-resistant Bitcoin transactions without a protocol change, but high compute costs limit real-world use.",
+  "source_url": "https://cointelegraph.com/news/researchers-say-bitcoin-can-be-made-quantum-safe-without-protocol-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T03:44:27+00:00",
+  "id": "7628f2e1-005e-46f0-b9dd-1ad1232676b8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T09:21:32.506706+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

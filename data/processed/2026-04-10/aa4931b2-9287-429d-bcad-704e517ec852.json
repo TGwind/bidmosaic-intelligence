@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "ETH, SOL, DOGE slide as Bitcoin fails to break $73,000 for the third time since the ceasefire",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/10/eth-sol-doge-slide-as-bitcoin-fails-to-break-usd73-000-for-the-third-time-since-the-ceasefire",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T04:55:41+00:00",
+  "id": "aa4931b2-9287-429d-bcad-704e517ec852",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T09:21:32.527834+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

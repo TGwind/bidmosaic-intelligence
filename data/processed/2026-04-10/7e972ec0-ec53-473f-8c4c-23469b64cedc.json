@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "国共领袖时隔十年会晤“郑习会”握手达13秒",
+  "raw_content": "你的器材不支持播放多媒体材料“郑习会”隔十年登场 国共领袖握手13秒国共领袖时隔十年会晤“郑习会”握手达13秒14 分钟前时隔十年，国共两党最高领导人再次会面。台湾国民党主席郑丽文于北京人民大会堂东大厅与中国国家主席习近平会晤，双方握手约13秒，并在会谈中多次提及“中华民族伟大复兴”及“九二共识、反对台独”。郑丽文强调需寻求避免战争的制度性解决方案，并指台海不应成为外力角力场；习近平则重申“国土不可分”，强调两岸未来应掌握在中国人手中。此次会面在场地安排与直播形式上均异于以往，引发外界对其政治意涵的解读。同时，台湾总统赖清德批评向威权妥协无助和平，并呼吁强化国防。",
+  "source_url": "https://www.bbc.com/zhongwen/articles/cx24pdd7rrgo/simp#2",
+  "source_name": "BBC中文",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-10T09:13:01+00:00",
+  "id": "7e972ec0-ec53-473f-8c4c-23469b64cedc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T09:21:32.511857+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/bbc.xml",
+    "category": "china_news",
+    "source_type": "wire",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

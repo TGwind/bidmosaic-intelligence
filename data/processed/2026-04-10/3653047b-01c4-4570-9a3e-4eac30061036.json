@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+  "raw_content": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+  "source_url": "https://openai.com/index/cyberagent",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-09T00:00:00+00:00",
+  "id": "3653047b-01c4-4570-9a3e-4eac30061036",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T09:21:32.462611+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}
