@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "“中国服务”何以乘势而上",
-  "raw_content": "“中国服务”何以乘势而上",
-  "source_url": "https://www.toutiao.com/article/7626615942482641471",
+  "raw_title": "男子微信群多次侮辱全红婵被拘",
+  "raw_content": "男子微信群多次侮辱全红婵被拘",
+  "source_url": "https://www.toutiao.com/article/7627086878637818402",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-10T02:39:01.409334+00:00",
-  "id": "72b1f1c7-649d-4a4f-9086-bf3c6eeb2c98",
+  "collected_at": "2026-04-10T18:56:07.336269+00:00",
+  "id": "2148644b-166c-4abf-b2f2-58aed704ee8b",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-10T18:56:46.503258+00:00",
+  "processed_at": "2026-04-10T18:56:46.493106+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "30130536",
+    "hot_score": "22453614",
     "platform": "toutiao"
   }
 }
