@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Elon Musk’s xAI sues Colorado arguing its AI rules restrict speech",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Elon Musk’s xAI sues Colorado arguing its AI rules restrict speech\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc1YjUtNjQ3Ny03NTM5LWEwYjEtOWVjY2VhODNlYzM1LmpwZw==.jpg\" /></p><p>The AI company argued that such rules would force it to feed its AI chatbot Grok with data aligned with Colorado’s political views rather than striving to be “maximally truth seeking.”</p>",
+  "source_url": "https://cointelegraph.com/news/xai-sues-colorado-over-ai-law-restricting-free-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T04:50:28+00:00",
+  "id": "b6e49fbd-d2ed-4a7e-8508-2dc00309e345",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

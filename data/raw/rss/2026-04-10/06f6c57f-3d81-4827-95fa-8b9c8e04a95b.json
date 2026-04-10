@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+  "raw_content": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+  "source_url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-09T18:50:05+00:00",
+  "id": "06f6c57f-3d81-4827-95fa-8b9c8e04a95b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
