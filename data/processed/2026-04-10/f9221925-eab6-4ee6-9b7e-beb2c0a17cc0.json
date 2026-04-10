@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "x402 protocol adds usage-based pricing for AI compute requests",
+  "raw_content": "The upgrade from flat fees to variable pricing is designed to support the use of AI agents for LLM inference, compute and data queries.",
+  "source_url": "https://cointelegraph.com/news/coinbase-x402-rolls-out-usage-based-pricing-agentic-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T04:41:19+00:00",
+  "id": "f9221925-eab6-4ee6-9b7e-beb2c0a17cc0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T06:05:51.056788+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
