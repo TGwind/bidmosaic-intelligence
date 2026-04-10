@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "从假日经济看中国服务潜力",
+  "raw_content": "从假日经济看中国服务潜力",
+  "source_url": "https://www.toutiao.com/article/7626905812031652388",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-10T18:56:07.336318+00:00",
+  "id": "34f7ef31-a07e-4a86-92bc-470e2373dfe0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18383464",
+    "platform": "toutiao"
+  }
+}

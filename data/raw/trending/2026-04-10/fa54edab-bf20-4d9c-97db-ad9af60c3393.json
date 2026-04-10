@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "徐某发表侮辱某运动员的言论被拘",
+  "raw_content": "徐某发表侮辱某运动员的言论被拘",
+  "source_url": "https://www.toutiao.com/article/7626585586807194163",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-10T18:56:07.336337+00:00",
+  "id": "fa54edab-bf20-4d9c-97db-ad9af60c3393",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15051108",
+    "platform": "toutiao"
+  }
+}

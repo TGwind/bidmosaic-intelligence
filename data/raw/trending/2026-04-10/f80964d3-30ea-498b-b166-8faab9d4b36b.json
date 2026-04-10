@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "A股交易规则为何要进行重大调整",
+  "raw_content": "A股交易规则为何要进行重大调整",
+  "source_url": "https://www.toutiao.com/trending/7627093467767770670/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627093467767770670%22%2C%22hot_board_impr_id%22%3A%2220260411025607EE9EFE44D05EE5320D83%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22A%E8%82%A1%E4%BA%A4%E6%98%93%E8%A7%84%E5%88%99%E4%B8%BA%E4%BD%95%E8%A6%81%E8%BF%9B%E8%A1%8C%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4%22%7D&rank=&style_id=40132&topic_id=7627093467767770670",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-10T18:56:07.336384+00:00",
+  "id": "f80964d3-30ea-498b-b166-8faab9d4b36b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8260223",
+    "platform": "toutiao"
+  }
+}
