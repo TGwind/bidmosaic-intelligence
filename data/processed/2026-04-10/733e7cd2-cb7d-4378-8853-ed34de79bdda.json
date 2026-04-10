@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "IMF将下调世界经济预测",
+  "raw_content": "2026/04/10 国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃4月9日表示，受中东冲突导致能源价格上涨的影响，IMF将下调最新的世界经济展望。她指出，战斗造成的基础设施破坏等因素扰乱了供应链，并对整体经济形成下行压力。 格奥尔基耶娃在华盛顿的IMF总部发表演讲。IMF将于14日公布最新经济展望。她表示，预测将包含多种情景，例如中东局势迅速恢复正常的情况，以及能源价格长期维持高位并形成二次影响的情景。 她还说明，即使是在最为乐观的情况下，预测结果也将低于今年1月的预测。当时IMF预计2026年全球经济增长率为3.3%。不过她也表示，如果没有伊朗局势引发的供应冲击，本次预测“本应是上调的”。 格奥尔基耶娃分析称，目前企业和家庭预期的未来通胀率仍局限于短期上升，并强调：“如果出现连锁式通胀，中央银行就应该推进加息。”她呼吁优先抑制物价上涨。 格奥尔基耶娃指出：“世界不可能在没有经济痛苦的情况下渡过战争”。她还就财政政策表示，应将措施限定为“针对性强的临时性支持”。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/epolitics/62100-2026-04-10-08-04-51.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-10T01:08:03+00:00",
+  "id": "733e7cd2-cb7d-4378-8853-ed34de79bdda",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T03:31:00.658300+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

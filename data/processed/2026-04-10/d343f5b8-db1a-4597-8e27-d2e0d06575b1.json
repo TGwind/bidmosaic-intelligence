@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "伊朗继续控制霍尔木兹海峡",
+  "raw_content": "2026/04/10 伊朗在临时停火后仍继续对霍尔木兹海峡实施实际控制。伊朗国家电视台4月8日报道称，“海峡已被完全封锁”。伊朗此举是对以色列在停火协议达成后攻击黎巴嫩亲伊朗组织的反应。 接近伊朗伊斯兰革命卫队的塔斯尼姆通讯社8日报道称，如果以色列继续攻击黎巴嫩，“伊朗可能退出停火”。 以色列方面则表示，黎巴嫩的停火并不在协议范围内。以色列8日再次在黎巴嫩对亲伊朗组织真主党实施大规模空袭。总理内塔尼亚胡当天在向国民发表的演讲中表示，已准备再次对伊朗发动攻击。 伊朗议会议长穆罕默德·巴吉尔·卡利巴夫9日在X（原推特）发文称，黎巴嫩问题与停火协议“不可分割”，并表示将对攻击“强力应对”。围绕黎巴嫩袭击问题的分歧，可能导致停火协议破裂。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62098-2026-04-10-08-04-53.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-10T00:38:02+00:00",
+  "id": "d343f5b8-db1a-4597-8e27-d2e0d06575b1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T03:31:00.705805+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本3月机床订单额增长28%，海外订单增40%",
+  "raw_content": "2026/04/10 日本3月的机床订单额同比增长28% 日本工作机械工业会（简称：日工会，东京港区）4月9日发布的数据显示，3月机床订单额（速报值）达1935亿日元，同比增长28%。已连续9个月实现同比增长。尽管市场担忧3月中东局势恶化会对设备投资造成影响，但据日工会负责人介绍，3月订单额创下历史新高。 海外订单大幅增长40%至1430亿日元。在汽车、人工智能（AI）等广泛领域取得了订单。据悉，津上在主力的中国市场上，除了汽车需求外，数据中心冷却装置以及人形机器人零部件加工相关需求也形成了强力拉动。 大隈在美国市场面向航空航天以及能源等产业的订单实现增长。牧野铣床制作所负责人称：“在印度，面向两轮、四轮车的订单有所增加”。 日本国内机床订单同比增长3%至505亿日元，连续3个月实现同比增长。主要拉动力量来自半导体领域。芝浦机械面向半导体制造设备、造船相关领域等的订单均实现增长。此外，津上也接到大量用于半导体电气性能检测工序的精密零部件“探针”加工相关订单。 日工会当天公布的数据显示，2025年度订单总额达1.7047万亿日元，同比增长13%，连续两年实现增长。",
+  "source_url": "http://cn.nikkei.com/industry/manufacturing/62104-2026-04-10-09-52-58.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-10T02:38:02+00:00",
+  "id": "55b6baa5-ccf9-4010-b80c-07fc06aaaa5a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T03:31:00.643580+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
