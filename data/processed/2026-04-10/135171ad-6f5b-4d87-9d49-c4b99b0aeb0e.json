@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin analysis sees $55K BTC price 'iron bottom' by December 2026",
+  "raw_content": "New BTC price analysis predicted that the bear market would bottom out later in the year, before beginning a \"two-year accumulation phase.\"",
+  "source_url": "https://cointelegraph.com/news/bitcoin-analysis-sees-55k-btc-price-iron-bottom-by-december-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T13:54:32+00:00",
+  "id": "135171ad-6f5b-4d87-9d49-c4b99b0aeb0e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T17:00:31.389361+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

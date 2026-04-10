@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bank of France calls for tougher MiCA limits on stablecoin payments",
+  "raw_content": "A Bank of France official called for tighter MiCA rules on non-euro stablecoins as lawmakers advance reporting requirements for self-custodial crypto wallets above 5,000 euros.",
+  "source_url": "https://cointelegraph.com/news/france-mica-limits-stablecoin-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T14:05:50+00:00",
+  "id": "b254b7e9-c172-4bdc-b519-9d37799d4332",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T17:00:31.478215+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

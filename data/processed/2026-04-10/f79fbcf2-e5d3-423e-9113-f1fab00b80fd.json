@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "White House warns staff as Iran bets add to growing insider trading concerns",
+  "raw_content": "Reuters reported that White House staff were warned against using confidential information after suspicious Iran-linked oil futures bets and fresh scrutiny of prediction markets.",
+  "source_url": "https://cointelegraph.com/news/white-house-insider-trading-warning-oil-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T14:28:02+00:00",
+  "id": "f79fbcf2-e5d3-423e-9113-f1fab00b80fd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T17:00:31.485209+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
