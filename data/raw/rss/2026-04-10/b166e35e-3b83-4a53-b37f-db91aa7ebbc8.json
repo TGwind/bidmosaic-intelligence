@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin traders set $88K target as market bias finally tilts toward bulls",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin traders set $88K target as market bias finally tilts toward bulls\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc3ZTQtZGQyYi03ZGQ2LTgxYWItYmJlZWRmYmU4YjkyLmpwZw==.jpg\" /></p><p>Bitcoin holding above $72,000, along with a sharp uptick in whale activity, suggests traders may target the supply zone at $88,000.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-traders-set-dollar88k-target-as-market-bias-finally-tilts-toward-bulls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T16:47:01+00:00",
+  "id": "b166e35e-3b83-4a53-b37f-db91aa7ebbc8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

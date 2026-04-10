@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Behind the Blog: Smoking the Whole Carton",
+  "raw_content": "This week, we discuss gun violence and chatbots and acceptance of depravity.",
+  "source_url": "https://www.404media.co/behind-the-blog-smoking-the-whole-carton/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-10T16:07:51+00:00",
+  "id": "dbdf8d8f-6c80-4c0e-945f-63f8bf0a519e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
