@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Hong Kong grants first stablecoin licenses to Anchorpoint and HSBC",
+  "raw_content": "Hong Kong has issued its first stablecoin licenses, approving Anchorpoint Financial and HSBC’s Hong Kong banking arm under the HKMA’s new regime.",
+  "source_url": "https://cointelegraph.com/news/hong-kong-first-stablecoin-licenses-issued?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T09:36:01+00:00",
+  "id": "bd02f1ee-4b33-4e37-85c6-6eb95517bfa9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-10T13:30:14.617223+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
