@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "北约对美国的反抗",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1TTDzBUECQ",
+  "raw_title": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
+  "raw_content": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
+  "source_url": "https://www.bilibili.com/video/BV1o7DYB2Exe",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-10T07:43:51.401037+00:00",
-  "id": "8bc3a696-0a6c-46df-a9a8-80d614c4d20a",
+  "collected_at": "2026-04-10T13:13:42.478950+00:00",
+  "id": "0cc2843f-6a74-4671-b588-174aea741c40",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-10T13:14:23.171720+00:00",
+  "processed_at": "2026-04-10T13:14:23.158264+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2129281,
+    "hot_score": 3488050,
     "platform": "bilibili"
   }
 }

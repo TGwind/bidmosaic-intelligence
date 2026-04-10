@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "北约对美国的反抗",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1TTDzBUECQ",
+  "raw_title": "当你给up主投了6182个币，对方能提现出多少？大概买5斤肋排还不够",
+  "raw_content": "当你给up主投了6182个币，对方能提现出多少？大概买5斤肋排还不够",
+  "source_url": "https://www.bilibili.com/video/BV1ajDLBsETv",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-10T07:43:51.401037+00:00",
-  "id": "8bc3a696-0a6c-46df-a9a8-80d614c4d20a",
+  "collected_at": "2026-04-10T13:13:42.479011+00:00",
+  "id": "e1dffa02-613f-4bb4-9058-6a7692089e45",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-10T13:14:23.171720+00:00",
+  "processed_at": "2026-04-10T13:14:23.178050+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2129281,
+    "hot_score": 639376,
     "platform": "bilibili"
   }
 }
