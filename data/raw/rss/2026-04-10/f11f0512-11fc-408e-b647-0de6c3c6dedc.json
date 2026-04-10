@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "ETH valuation metric hits level not seen since 2022: Is rally to $2.5K next?",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"ETH valuation metric hits level not seen since 2022: Is rally to $2.5K next?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YjEyOWYtMmIyNC03ZDhhLTk4ZGEtNTBjYWY2NGZlOTA3LmpwZw==.jpg\" /></p><p>A rare signal from an ETH price indicator suggests Ether is undervalued, while demand in spot and futures markets hints at a rally to $2,500.</p>",
+  "source_url": "https://cointelegraph.com/news/eth-valuation-metric-hits-level-not-seen-since-2022-is-rally-to-dollar2-5k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-09T19:59:27+00:00",
+  "id": "f11f0512-11fc-408e-b647-0de6c3c6dedc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
