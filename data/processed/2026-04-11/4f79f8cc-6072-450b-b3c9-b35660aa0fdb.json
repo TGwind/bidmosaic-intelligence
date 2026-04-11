@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Federal court blocks Arizona crackdown on Kalshi’s event contracts",
+  "raw_content": "A federal judge in Arizona has temporarily barred state officials from enforcing gambling laws against Kalshi, siding with the CFTC.",
+  "source_url": "https://cointelegraph.com/news/arizona-court-kalshi-gambling-enforcement-block?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-11T07:07:37+00:00",
+  "id": "4f79f8cc-6072-450b-b3c9-b35660aa0fdb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-11T08:58:07.937782+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
