@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "当你给up主投了6182个币，对方能提现出多少？大概买5斤肋排还不够",
+  "raw_content": "当你给up主投了6182个币，对方能提现出多少？大概买5斤肋排还不够",
+  "source_url": "https://www.bilibili.com/video/BV1ajDLBsETv",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-11T07:02:29.190003+00:00",
+  "id": "b3620e51-bab0-4af3-9d30-692be4263636",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 741396,
+    "platform": "bilibili"
+  }
+}

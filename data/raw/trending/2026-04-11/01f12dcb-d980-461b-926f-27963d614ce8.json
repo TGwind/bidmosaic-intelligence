@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美绕月飞船宇航员出舱画面曝光",
+  "raw_content": "美绕月飞船宇航员出舱画面曝光",
+  "source_url": "https://www.toutiao.com/trending/7626435400920039430/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227626435400920039430%22%2C%22hot_board_impr_id%22%3A%2220260411150228B03A72723116496DFA13%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E7%BB%95%E6%9C%88%E9%A3%9E%E8%88%B9%E5%AE%87%E8%88%AA%E5%91%98%E5%87%BA%E8%88%B1%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%22%7D&rank=&style_id=40132&topic_id=7626435400920039430",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-11T07:02:28.201863+00:00",
+  "id": "01f12dcb-d980-461b-926f-27963d614ce8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "24823350",
+    "platform": "toutiao"
+  }
+}
