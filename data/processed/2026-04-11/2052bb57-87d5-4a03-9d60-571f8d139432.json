@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "北约对美国的反抗",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1TTDzBUECQ",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-11T02:24:46.584609+00:00",
+  "id": "2052bb57-87d5-4a03-9d60-571f8d139432",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-11T02:25:23.464484+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2337196,
+    "platform": "bilibili"
+  }
+}
