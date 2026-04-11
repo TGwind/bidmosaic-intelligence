@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
+  "raw_content": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
+  "source_url": "https://www.bilibili.com/video/BV1o7DYB2Exe",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-11T02:24:46.584584+00:00",
+  "id": "167daa0a-d4d6-4051-b388-fd12d5db39f6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3693709,
+    "platform": "bilibili"
+  }
+}
