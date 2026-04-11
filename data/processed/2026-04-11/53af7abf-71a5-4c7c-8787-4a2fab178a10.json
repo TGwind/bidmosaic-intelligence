@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "“至此，已成仙品！！！”",
-  "raw_content": "bgm：灼雪（节选)",
-  "source_url": "https://www.bilibili.com/video/BV1QpSoBqEF8",
+  "raw_title": "回家",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1YQDsBHExi",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-11T02:24:46.584659+00:00",
-  "id": "bb0abd70-72b8-4257-b2f4-1eafb8f877be",
+  "collected_at": "2026-04-11T07:02:29.190075+00:00",
+  "id": "53af7abf-71a5-4c7c-8787-4a2fab178a10",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-11T07:03:09.027959+00:00",
+  "processed_at": "2026-04-11T07:03:09.020724+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4035491,
+    "hot_score": 816298,
     "platform": "bilibili"
   }
 }

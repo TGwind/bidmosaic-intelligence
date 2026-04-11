@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "你买菜更爱生鲜店还是市场",
+  "raw_content": "你买菜更爱生鲜店还是市场",
+  "source_url": "https://www.toutiao.com/trending/7627008190856953899/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627008190856953899%22%2C%22hot_board_impr_id%22%3A%2220260411150228B03A72723116496DFA13%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%A0%E4%B9%B0%E8%8F%9C%E6%9B%B4%E7%88%B1%E7%94%9F%E9%B2%9C%E5%BA%97%E8%BF%98%E6%98%AF%E5%B8%82%E5%9C%BA%22%7D&rank=&style_id=40132&topic_id=7627008190856953899",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-11T07:02:28.201847+00:00",
+  "id": "6c320315-c343-4758-8004-6500f9abd7bd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-11T07:03:09.024336+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "30319308",
+    "platform": "toutiao"
+  }
+}

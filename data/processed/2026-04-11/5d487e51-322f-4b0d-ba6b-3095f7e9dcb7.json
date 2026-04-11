@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "“至此，已成仙品！！！”",
-  "raw_content": "bgm：灼雪（节选)",
-  "source_url": "https://www.bilibili.com/video/BV1QpSoBqEF8",
+  "raw_title": "【pvz拟人】我的植物大战僵尸拟人",
+  "raw_content": "我的植物大战僵尸拟人设计",
+  "source_url": "https://www.bilibili.com/video/BV1KtD4B2ErN",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-11T02:24:46.584659+00:00",
-  "id": "bb0abd70-72b8-4257-b2f4-1eafb8f877be",
+  "collected_at": "2026-04-11T07:02:29.190020+00:00",
+  "id": "5d487e51-322f-4b0d-ba6b-3095f7e9dcb7",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-11T07:03:09.027959+00:00",
+  "processed_at": "2026-04-11T07:03:09.021644+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4035491,
+    "hot_score": 945705,
     "platform": "bilibili"
   }
 }
