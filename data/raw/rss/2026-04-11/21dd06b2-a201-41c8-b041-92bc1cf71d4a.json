@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Prediction market users await Artemis II mission splashdown",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Prediction market users await Artemis II mission splashdown\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc4ZTYtMzI0Ny03MGUxLWJkZjYtMmQzOWZjMDFmMWMzLmpwZw==.jpg\" /></p><p>The 10-day lunar flyby mission is expected to end in a splashdown landing in the Pacific Ocean on Friday evening.</p>",
+  "source_url": "https://cointelegraph.com/news/prediction-market-bets-artemis-moon-mission?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-10T20:52:05+00:00",
+  "id": "21dd06b2-a201-41c8-b041-92bc1cf71d4a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

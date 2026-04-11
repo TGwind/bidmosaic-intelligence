@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition",
+  "raw_content": "arXiv:2604.07357v1 Announce Type: new \nAbstract: Recognizing emotions from speech using machine learning has become an active research area due to its importance in building human-centered applications. However, while many studies have been conducted in English, German, and other European and Asian languages, research in Arabic remains scarce because of the limited availability of annotated datasets. In this paper, we present an Arabic Speech Emotion Recognition (SER) system based on a hybrid CNN-Transformer architecture. The model leverages convolutional layers to extract discriminative spectral features from Mel-spectrogram inputs and Transformer encoders to capture long-range temporal dependencies in speech. Experiments were conducted on the EYASE (Egyptian Arabic speech emotion) corpus, and the proposed model achieved 97.8% accuracy and a macro F1-score of 0.98. These results demonstrate the effectiveness of combining convolutional feature extraction with attention-based modeling for Arabic SER and highlight the potential of Transformer-based approaches in low-resource languages.",
+  "source_url": "https://arxiv.org/abs/2604.07357",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-11T04:00:00+00:00",
+  "id": "929822d7-9336-4165-9819-5f065ec728fa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
