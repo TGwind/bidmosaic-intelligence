@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Customize Amazon Nova models with Amazon Bedrock fine-tuning",
+  "raw_content": "In this post, we'll walk you through a complete implementation of model fine-tuning in Amazon Bedrock using Amazon Nova models, demonstrating each step through an intent classifier example that achieves superior performance on a domain specific task. Throughout this guide, you'll learn to prepare high-quality training data that drives meaningful model improvements, configure hyperparameters to optimize learning without overfitting, and deploy your fine-tuned model for improved accuracy and reduced latency. We'll show you how to evaluate your results using training metrics and loss curves.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-08T19:51:50+00:00",
+  "id": "60d2eda7-b854-4c4d-93e4-a518be8c0c43",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

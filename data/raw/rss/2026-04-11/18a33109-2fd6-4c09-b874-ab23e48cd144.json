@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Gabriel Makhlouf: Inflation, growth, and monetary policy in a fractured world",
+  "raw_content": "Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at MNI Connect, Dublin, 1 April 2026.",
+  "source_url": "https://www.bis.org/review/r260409b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-11T08:55:13.509100+00:00",
+  "id": "18a33109-2fd6-4c09-b874-ab23e48cd144",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
