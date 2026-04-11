@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "徐某发表侮辱某运动员的言论被拘",
-  "raw_content": "徐某发表侮辱某运动员的言论被拘",
-  "source_url": "https://www.toutiao.com/article/7626585586807194163",
+  "raw_title": "服务创新 激活发展新动能",
+  "raw_content": "服务创新 激活发展新动能",
+  "source_url": "https://www.toutiao.com/article/7627408899187966504",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-11T02:24:45.869913+00:00",
-  "id": "26e8a332-c0be-4c62-9b80-afb1ec7be654",
+  "collected_at": "2026-04-11T13:00:57.462966+00:00",
+  "id": "2541d996-6518-4d52-8eb7-0a64972f1c0d",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-11T13:01:36.739074+00:00",
+  "processed_at": "2026-04-11T13:01:36.738355+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "33845352",
+    "hot_score": "35176480",
     "platform": "toutiao"
   }
 }
