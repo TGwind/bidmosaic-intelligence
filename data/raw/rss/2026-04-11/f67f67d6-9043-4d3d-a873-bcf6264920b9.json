@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "What regional data tell us about the euro area Phillips curve",
+  "raw_content": "Using regional data for 11 euro area countries from 1999 to 2023, instead of country-level data, we find that inflation still responds to economic slack, but this relationship is more modest and largely shaped by inflation expectations. This implies that traditional demand-side central bank policies may have limited direct effects on inflation, highlighting that anchoring expectations is essential for effective monetary policy transmission.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb260223~3e8fa44e9f.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-02-23T07:00:00+00:00",
+  "id": "f67f67d6-9043-4d3d-a873-bcf6264920b9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}
