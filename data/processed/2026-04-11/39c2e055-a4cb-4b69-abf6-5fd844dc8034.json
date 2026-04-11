@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《百米自由搏击》",
+  "raw_title": "评论区摄影大赛新一期锐评篇开启，欢迎投稿玻璃心慎重。",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1ktDpBFEQN",
+  "source_url": "https://www.bilibili.com/video/BV1WVQFBNEEq",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-11T07:02:29.189941+00:00",
-  "id": "9ae5cfb4-3e64-49d7-887f-d59fc680ac2f",
+  "collected_at": "2026-04-11T18:47:34.153157+00:00",
+  "id": "39c2e055-a4cb-4b69-abf6-5fd844dc8034",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-11T18:48:13.447201+00:00",
+  "processed_at": "2026-04-11T18:48:13.438439+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7301545,
+    "hot_score": 4395769,
     "platform": "bilibili"
   }
 }

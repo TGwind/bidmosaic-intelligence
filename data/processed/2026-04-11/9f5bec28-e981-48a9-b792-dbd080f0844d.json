@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "媒体：武汉三镇形势岌岌可危",
+  "raw_content": "媒体：武汉三镇形势岌岌可危",
+  "source_url": "https://www.toutiao.com/trending/7626822676329906195/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227626822676329906195%22%2C%22hot_board_impr_id%22%3A%2220260412024733998EDE7B2AB901507D9B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%EF%BC%9A%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%87%E5%BD%A2%E5%8A%BF%E5%B2%8C%E5%B2%8C%E5%8F%AF%E5%8D%B1%22%7D&rank=&style_id=40132&topic_id=7626822676329906195",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-11T18:47:33.263141+00:00",
+  "id": "9f5bec28-e981-48a9-b792-dbd080f0844d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-11T18:48:13.446754+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18912020",
+    "platform": "toutiao"
+  }
+}

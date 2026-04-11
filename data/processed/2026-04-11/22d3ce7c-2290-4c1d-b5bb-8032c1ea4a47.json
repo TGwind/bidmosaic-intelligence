@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《百米自由搏击》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1ktDpBFEQN",
+  "raw_title": "当你给up主投了6182个币，对方能提现出多少？大概买5斤肋排还不够",
+  "raw_content": "当你给up主投了6182个币，对方能提现出多少？大概买5斤肋排还不够",
+  "source_url": "https://www.bilibili.com/video/BV1ajDLBsETv",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-11T07:02:29.189941+00:00",
-  "id": "9ae5cfb4-3e64-49d7-887f-d59fc680ac2f",
+  "collected_at": "2026-04-11T18:47:34.153149+00:00",
+  "id": "22d3ce7c-2290-4c1d-b5bb-8032c1ea4a47",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-11T18:48:13.447201+00:00",
+  "processed_at": "2026-04-11T18:48:13.430012+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7301545,
+    "hot_score": 868496,
     "platform": "bilibili"
   }
 }

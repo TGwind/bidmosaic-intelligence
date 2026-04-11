@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《百米自由搏击》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1ktDpBFEQN",
+  "raw_title": "【pvz拟人】我的植物大战僵尸拟人",
+  "raw_content": "我的植物大战僵尸拟人设计",
+  "source_url": "https://www.bilibili.com/video/BV1KtD4B2ErN",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-11T07:02:29.189941+00:00",
-  "id": "9ae5cfb4-3e64-49d7-887f-d59fc680ac2f",
+  "collected_at": "2026-04-11T18:47:34.153125+00:00",
+  "id": "07254541-4b64-4023-bec7-541871c09ea9",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-11T18:48:13.447201+00:00",
+  "processed_at": "2026-04-11T18:48:13.427993+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7301545,
+    "hot_score": 1169251,
     "platform": "bilibili"
   }
 }
