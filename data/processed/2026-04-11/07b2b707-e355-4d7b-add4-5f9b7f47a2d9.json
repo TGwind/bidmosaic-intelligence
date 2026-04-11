@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Green supply chains at risk: measuring the true economic and environmental costs",
+  "raw_content": "Our new methodology builds an inter-country input-output table that distinguishes green products from the rest, allowing us to assess vulnerabilities in green value chains. In a multi-country, multi-sector model, our table reveals that a decoupling of green supply chains between a US-centric West and a China-centric East could globally cut trade in green products by up to 20%, lower welfare by up to 3% and raise yearly global greenhouse gas emissions by about 50 million tonnes.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb260324~0b81bd7e3c.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-03-24T07:00:00+00:00",
+  "id": "07b2b707-e355-4d7b-add4-5f9b7f47a2d9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-11T02:52:48.725156+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}
