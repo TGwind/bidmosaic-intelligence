@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Gabriel Makhlouf: Opening remarks - Savings and Investment Forum",
+  "raw_content": "Opening remarks by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, for the Savings and Investment Forum, 31 March 2026.",
+  "source_url": "https://www.bis.org/review/r260407h.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-11T20:42:32.747948+00:00",
+  "id": "4af08749-5a7b-479c-ab72-a5cabe4bd11e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
