@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin, Ether near levels that could signal trend reversal: Analyst",
+  "raw_content": "Bitcoin and Ether are each less than 10% away from price levels that could signal a potential reversal in the crypto market, according to a macro analyst.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-ether-crypto-market-trend-reversal-macro-investor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-12T05:26:55+00:00",
+  "id": "08eb8650-4daa-4d91-b0c4-e6a0a38ea386",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T16:53:44.463716+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

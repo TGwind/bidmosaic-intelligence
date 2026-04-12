@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Polymarket bets removed from Google News after brief appearance: Report",
+  "raw_content": "Polymarket links briefly appeared under mainstream outlets in Google News results for event-driven queries but were later removed.",
+  "source_url": "https://cointelegraph.com/news/polymarket-google-news-removed-error-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-12T09:26:41+00:00",
+  "id": "c4696655-1912-4e96-a05f-b07e8b39fdc1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T16:53:44.585675+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
