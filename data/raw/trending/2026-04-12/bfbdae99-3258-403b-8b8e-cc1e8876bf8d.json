@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "五年了，他还是坐上了这个位置…",
+  "raw_content": "纯属节目效果，请勿当真！\n希望观众老爷喜欢这个系列！\n素质三连，创作不易，希望你喜欢！",
+  "source_url": "https://www.bilibili.com/video/BV1H7QFBaERe",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T18:52:51.689903+00:00",
+  "id": "bfbdae99-3258-403b-8b8e-cc1e8876bf8d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5686853,
+    "platform": "bilibili"
+  }
+}

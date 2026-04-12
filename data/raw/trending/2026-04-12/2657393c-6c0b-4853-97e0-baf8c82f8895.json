@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "末地圆环太远？0.25秒瞬移！接力珍珠炮全图火力覆盖！",
+  "raw_content": "设计：圣天\n更多设计细节详见：https://www.bilibili.com/opus/1189653065660104707",
+  "source_url": "https://www.bilibili.com/video/BV1nmQABzEX5",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T18:52:51.689923+00:00",
+  "id": "2657393c-6c0b-4853-97e0-baf8c82f8895",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3057926,
+    "platform": "bilibili"
+  }
+}
