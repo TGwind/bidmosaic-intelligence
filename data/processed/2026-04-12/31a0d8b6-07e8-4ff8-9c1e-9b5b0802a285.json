@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "詹姆斯和库里谁更伟大",
+  "raw_content": "詹姆斯和库里谁更伟大",
+  "source_url": "https://www.toutiao.com/trending/7627339361593081897/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627339361593081897%22%2C%22hot_board_impr_id%22%3A%222026041210420023DCDF58B871CED2E30B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A9%B9%E5%A7%86%E6%96%AF%E5%92%8C%E5%BA%93%E9%87%8C%E8%B0%81%E6%9B%B4%E4%BC%9F%E5%A4%A7%22%7D&rank=&style_id=40132&topic_id=7627339361593081897",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T02:42:00.392270+00:00",
+  "id": "31a0d8b6-07e8-4ff8-9c1e-9b5b0802a285",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T02:42:44.271254+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "33356613",
+    "platform": "toutiao"
+  }
+}

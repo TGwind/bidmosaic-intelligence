@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "40岁女子患肝癌 希望前夫照顾女儿",
+  "raw_content": "40岁女子患肝癌 希望前夫照顾女儿",
+  "source_url": "https://www.toutiao.com/trending/7627399207267631147/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627399207267631147%22%2C%22hot_board_impr_id%22%3A%222026041210420023DCDF58B871CED2E30B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2240%E5%B2%81%E5%A5%B3%E5%AD%90%E6%82%A3%E8%82%9D%E7%99%8C+%E5%B8%8C%E6%9C%9B%E5%89%8D%E5%A4%AB%E7%85%A7%E9%A1%BE%E5%A5%B3%E5%84%BF%22%7D&rank=&style_id=40132&topic_id=7627399207267631147",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T02:42:00.392203+00:00",
+  "id": "f8c0f37f-1620-4cc4-9962-fa971faeb7e6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T02:42:44.279735+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "67171970",
+    "platform": "toutiao"
+  }
+}

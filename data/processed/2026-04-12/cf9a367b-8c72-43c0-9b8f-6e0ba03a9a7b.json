@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "“数”里行间看春日经济跃动前行",
+  "raw_content": "“数”里行间看春日经济跃动前行",
+  "source_url": "https://www.toutiao.com/article/7627616380918612507",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T02:42:00.392216+00:00",
+  "id": "cf9a367b-8c72-43c0-9b8f-6e0ba03a9a7b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T02:42:44.276840+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "60779712",
+    "platform": "toutiao"
+  }
+}

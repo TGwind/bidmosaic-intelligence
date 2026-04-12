@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "街头猜词挑战之哲学博士",
+  "raw_content": "街头猜词挑战之哲学博士",
+  "source_url": "https://www.bilibili.com/video/BV1ULDpBMEzs",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T02:42:01.349586+00:00",
+  "id": "6021f420-9e41-4010-a447-b1a502e9fa94",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T02:42:44.277251+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3198484,
+    "platform": "bilibili"
+  }
+}

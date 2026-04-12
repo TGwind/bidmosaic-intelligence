@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【pvz拟人】我的植物大战僵尸拟人",
+  "raw_content": "我的植物大战僵尸拟人设计",
+  "source_url": "https://www.bilibili.com/video/BV1KtD4B2ErN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T02:42:01.349570+00:00",
+  "id": "45bf2a7f-692f-4c57-b74d-a55d5984e856",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T02:42:44.270735+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1205464,
+    "platform": "bilibili"
+  }
+}
