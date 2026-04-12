@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Hélène Rey appointed as Economic Adviser and Head of Monetary and Economic Department",
+  "raw_content": "Hélène Rey, Professor of Economics at London Business School, appointed as Economic Adviser and Head of the Monetary and Economic Department of the BIS. Ms Rey is appointed for a five-year term, effective September 2026. She will lead the economics work of the Bank and join its Executive Committee.",
+  "source_url": "https://www.bis.org/press/p260316.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-12T20:46:13.323553+00:00",
+  "id": "6d8b6249-2fc2-46ab-927e-dc206fcd3177",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}
