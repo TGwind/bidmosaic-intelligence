@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "The crypto honeymoon is over for now as analysts warn of a major first-quarter profit squeeze",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/11/the-crypto-honeymoon-is-over-for-now-as-analysts-warn-of-a-major-first-quarter-profit-squeeze",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-11T17:00:00+00:00",
+  "id": "9417d0ba-fbdf-4c3a-b93a-e2be690385a3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

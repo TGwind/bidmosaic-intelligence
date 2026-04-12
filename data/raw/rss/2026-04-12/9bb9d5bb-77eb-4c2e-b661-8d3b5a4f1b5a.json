@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ether Machine scraps SPAC merger with Dynamix, citing market conditions",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ether Machine scraps SPAC merger with Dynamix, citing market conditions\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDgwYWYtYjdhZC03NDU5LTliMDktMjYxMDI3NzE2YzcyLmpwZw==.jpg\" /></p><p>The Ethereum treasury firm aimed to launch a $1.5 billion yield-bearing ETH fund but will now halt its plans following the mutual decision to end the deal.</p>",
+  "source_url": "https://cointelegraph.com/news/ether-machine-spac-ethm-cancelled-dynamix-merger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-12T07:37:14+00:00",
+  "id": "9bb9d5bb-77eb-4c2e-b661-8d3b5a4f1b5a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
