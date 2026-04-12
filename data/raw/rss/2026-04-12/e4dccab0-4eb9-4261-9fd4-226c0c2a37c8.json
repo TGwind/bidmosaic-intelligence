@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin signals potential seller exhaustion as realized losses decline",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/11/bitcoin-signals-potential-seller-exhaustion-as-realized-losses-decline",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-11T18:00:00+00:00",
+  "id": "e4dccab0-4eb9-4261-9fd4-226c0c2a37c8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
