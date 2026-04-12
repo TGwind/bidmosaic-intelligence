@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Denis Beau: Stablecoins - what strategic choices for Europe?",
+  "raw_content": "Speaking points (virtually) by Mr Denis Beau, First Deputy Governor of the Bank of France, at the EUROFI High Level Seminar, session \"Stablecoins: what strategic choices for Europe?\", Nicosia, 26 March 2026.",
+  "source_url": "https://www.bis.org/review/r260331b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-12T13:17:16.261809+00:00",
+  "id": "141ed7e6-cafb-403e-b05d-ff2b79b8647f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T13:19:57.938470+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

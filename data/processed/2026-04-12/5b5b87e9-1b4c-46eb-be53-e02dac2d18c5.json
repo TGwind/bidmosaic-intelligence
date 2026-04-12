@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Super PAC tied to Tether makes first ad buy from firm founded by Tether's U.S. CEO",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/10/super-pac-tied-to-tether-makes-first-ad-buy-from-firm-founded-by-tether-s-u-s-ceo",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-12T13:00:00+00:00",
+  "id": "5b5b87e9-1b4c-46eb-be53-e02dac2d18c5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T13:19:57.999754+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
