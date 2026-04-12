@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price analysis sees new short squeeze as open interest nears $25B",
+  "raw_content": "Bitcoin open interest hit five-week highs while funding rates mimicked the BTC price collapse below $60,000, leading analysis to predict a new short squeeze.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-analysis-sees-new-short-squeeze-as-open-interest-nears-25b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-11T18:28:22+00:00",
+  "id": "57e29a93-bf2e-4a4f-b0df-5a8651f8aa5c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T06:01:40.747789+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
