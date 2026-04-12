@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LWiAI Podcast #238 - GPT 5.4 mini, OpenAI Pivot, Mamba 3, Attention Residuals",
+  "raw_content": "OpenAI ships GPT-5.4 mini and nano, faster and more capable but up to 4x pricier, DLSS 5 looks like a real-time generative AI filter for video games | The Verge, and more!",
+  "source_url": "https://lastweekin.ai/p/lwiai-podcast-238-gpt-54-mini-openai",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-01T08:07:15+00:00",
+  "id": "2de6d2fb-14a3-491c-855f-c353decb9356",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
