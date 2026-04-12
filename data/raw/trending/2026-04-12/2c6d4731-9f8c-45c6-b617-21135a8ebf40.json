@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《崩坏：星穹铁道》原创动画•概念PV——「死于午后」",
+  "raw_content": "海上冰山的仪态之所以庄严，是因为它只有八分之一露出水面。",
+  "source_url": "https://www.bilibili.com/video/BV1YXDfBUETP",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T07:16:19.495713+00:00",
+  "id": "2c6d4731-9f8c-45c6-b617-21135a8ebf40",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4542621,
+    "platform": "bilibili"
+  }
+}
