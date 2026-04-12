@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "女生问80后男生见过慈禧太后吗",
+  "raw_content": "女生问80后男生见过慈禧太后吗",
+  "source_url": "https://www.toutiao.com/trending/7627430989014761510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627430989014761510%22%2C%22hot_board_impr_id%22%3A%2220260412151618BBC962BB6326F15502DF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E7%94%9F%E9%97%AE80%E5%90%8E%E7%94%B7%E7%94%9F%E8%A7%81%E8%BF%87%E6%85%88%E7%A6%A7%E5%A4%AA%E5%90%8E%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7627430989014761510",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T07:16:18.532172+00:00",
+  "id": "2e68083a-c1e0-4629-ae9f-bf959152c036",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T07:16:59.172458+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "22167145",
+    "platform": "toutiao"
+  }
+}

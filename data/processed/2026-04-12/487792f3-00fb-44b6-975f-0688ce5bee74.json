@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "回家",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1YQDsBHExi",
+  "raw_title": "街头猜词挑战之哲学博士",
+  "raw_content": "街头猜词挑战之哲学博士",
+  "source_url": "https://www.bilibili.com/video/BV1ULDpBMEzs",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-12T02:42:01.349620+00:00",
-  "id": "27687745-a669-4dfb-a6dc-66c496a467c2",
+  "collected_at": "2026-04-12T07:16:19.495808+00:00",
+  "id": "487792f3-00fb-44b6-975f-0688ce5bee74",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-12T07:16:59.174310+00:00",
+  "processed_at": "2026-04-12T07:16:59.175182+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 939785,
+    "hot_score": 3367323,
     "platform": "bilibili"
   }
 }

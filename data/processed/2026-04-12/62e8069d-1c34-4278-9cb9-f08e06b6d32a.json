@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "回家",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1YQDsBHExi",
+  "raw_title": "五年了，他还是坐上了这个位置…",
+  "raw_content": "纯属节目效果，请勿当真！ 希望观众老爷喜欢这个系列！ 素质三连，创作不易，希望你喜欢！",
+  "source_url": "https://www.bilibili.com/video/BV1H7QFBaERe",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-12T02:42:01.349620+00:00",
-  "id": "27687745-a669-4dfb-a6dc-66c496a467c2",
+  "collected_at": "2026-04-12T07:16:19.495739+00:00",
+  "id": "62e8069d-1c34-4278-9cb9-f08e06b6d32a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-12T07:16:59.174310+00:00",
+  "processed_at": "2026-04-12T07:16:59.185252+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 939785,
+    "hot_score": 5154969,
     "platform": "bilibili"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "19岁女孩回家奔丧买错车票崩溃大哭",
+  "raw_content": "19岁女孩回家奔丧买错车票崩溃大哭",
+  "source_url": "https://www.toutiao.com/trending/7627666755871539219/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627666755871539219%22%2C%22hot_board_impr_id%22%3A%2220260412151618BBC962BB6326F15502DF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2219%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%AE%B6%E5%A5%94%E4%B8%A7%E4%B9%B0%E9%94%99%E8%BD%A6%E7%A5%A8%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%22%7D&rank=&style_id=40132&topic_id=7627666755871539219",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T07:16:18.532119+00:00",
+  "id": "c8a260e7-4165-43f7-b971-ce79ad899f08",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T07:16:59.184284+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "40391172",
+    "platform": "toutiao"
+  }
+}
