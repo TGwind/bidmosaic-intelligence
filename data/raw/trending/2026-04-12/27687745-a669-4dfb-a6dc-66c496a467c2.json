@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "回家",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1YQDsBHExi",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T02:42:01.349620+00:00",
+  "id": "27687745-a669-4dfb-a6dc-66c496a467c2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 939785,
+    "platform": "bilibili"
+  }
+}

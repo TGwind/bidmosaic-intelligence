@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "评论区摄影大赛新一期锐评篇开启，欢迎投稿玻璃心慎重。",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1WVQFBNEEq",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T02:42:01.349595+00:00",
+  "id": "eac30da5-bde3-4311-a163-74327fd50a87",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4426338,
+    "platform": "bilibili"
+  }
+}
