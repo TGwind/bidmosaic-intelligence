@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "王石：一切安好 造谣者交给法律",
+  "raw_content": "王石：一切安好 造谣者交给法律",
+  "source_url": "https://www.toutiao.com/trending/7627088046609498139/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627088046609498139%22%2C%22hot_board_impr_id%22%3A%222026041221040701C2B4FA9D7F3D5F28B1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E7%9F%B3%EF%BC%9A%E4%B8%80%E5%88%87%E5%AE%89%E5%A5%BD+%E9%80%A0%E8%B0%A3%E8%80%85%E4%BA%A4%E7%BB%99%E6%B3%95%E5%BE%8B%22%7D&rank=&style_id=40132&topic_id=7627088046609498139",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-12T13:04:08.023033+00:00",
+  "id": "85c9c29f-8577-43f8-8135-6ea7c34ca0da",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-12T13:04:51.182073+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "47788008",
+    "platform": "toutiao"
+  }
+}

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "“数”里行间看春日经济跃动前行",
-  "raw_content": "“数”里行间看春日经济跃动前行",
-  "source_url": "https://www.toutiao.com/article/7627616380918612507",
+  "raw_title": "青年群体在这些领域“创”出新赛道",
+  "raw_content": "青年群体在这些领域“创”出新赛道",
+  "source_url": "https://www.toutiao.com/article/7627728713429369359",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-12T02:42:00.392216+00:00",
-  "id": "cf9a367b-8c72-43c0-9b8f-6e0ba03a9a7b",
+  "collected_at": "2026-04-12T13:04:08.023004+00:00",
+  "id": "7c62e8f8-3313-4b89-b9db-4f910b4a6c1b",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-12T13:04:51.188621+00:00",
+  "processed_at": "2026-04-12T13:04:51.180261+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "60779712",
+    "hot_score": "64507063",
     "platform": "toutiao"
   }
 }
