@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "StarkWare cuts jobs in reorganization as Starknet revenue plunges 99% from peak",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/13/starkware-cuts-jobs-in-reorganization-as-starknet-revenue-plunges-99-from-peak",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T09:48:32+00:00",
+  "id": "8a136d44-1081-4677-9275-0c446ab56bef",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T10:04:09.448062+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

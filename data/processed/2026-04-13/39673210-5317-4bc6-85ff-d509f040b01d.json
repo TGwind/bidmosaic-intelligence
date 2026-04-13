@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin hit by $20 million-an-hour selling pressure above $70,000",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/13/bitcoin-hit-by-usd20-million-an-hour-selling-pressure-above-usd70-000",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T08:12:28+00:00",
+  "id": "39673210-5317-4bc6-85ff-d509f040b01d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T10:04:09.398288+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
