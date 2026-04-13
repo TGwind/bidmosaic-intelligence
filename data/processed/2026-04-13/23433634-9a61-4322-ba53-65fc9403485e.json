@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "软银成立新公司开发日本国产AI",
+  "raw_content": "2026/04/13 软银正推进在日本国内建设AI计算的基础设施（软银的数据中心） 日本经济新闻（中文版：日经中文网）日前获悉，软银成立了开发日本国产AI的新公司。NEC和本田等8家公司将参股，日本政府也考虑提供支援。通过政企合作的方式，力争开发应对“物理AI”的基础模型。 除了NEC和本田之外，索尼集团、三菱UFJ银行、三井住友银行、瑞穗银行、日本制铁、神户制钢所也向软银成立的日本AI基础模型开发公司（东京涩谷区）出资。开展AI开发业务的Preferred Networks（东京千代田区）也将在模型构建方面展开合作。 新公司计划在2020年代内建立大规模AI模型。在被认为是AI性能指标的“参数”方面，力争达到日本国内最大规模的1万亿左右。除文字之外，还将提高处理图像、影像、声音等不同种类信息的能力。力争到2030年度实现与机械和机器人协作，推动制造一线引入AI。 为了普及新开发的AI模型，还考虑组成企业联盟。将推动金融、汽车、原材料等各行业把固有数据移植到基础模型中，促进广泛应用。 软银还将寻求日本政府的支持。近期将申请成为新能源产业技术综合开发机构（NEDO）推进的日本国产AI开发支援项目。日本经济产业省计划通过该项目等，在今后5年内为促进AI开发提供1万亿日元规模的支援。",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/62127-2026-04-13-14-17-55.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-13T06:38:02+00:00",
+  "id": "23433634-9a61-4322-ba53-65fc9403485e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T21:05:51.111357+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin shorts above $70K at risk since ‘90% of downside’ is already complete",
+  "raw_content": "Bitcoin price data suggests BTC remains undervalued and that short positions opened above $70,000 face a high risk of liquidation.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-shorts-above-70k-at-risk-since-90-of-downside-is-already-complete?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T18:00:00+00:00",
+  "id": "0ddd9234-ea73-43b2-ac26-fa0a1139e3ce",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T21:05:51.067659+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

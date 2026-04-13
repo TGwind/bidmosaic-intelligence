@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto-aligned super PAC begins to endorse candidates for US midterms",
+  "raw_content": "The Fellowship PAC reported spending $300,000 on advertising for a Republican running to represent Georgia's 14th Congressional District in 2026.",
+  "source_url": "https://cointelegraph.com/news/crypto-super-pac-fellowship-endorsements-spending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T17:02:19+00:00",
+  "id": "70acc0b3-37ba-469c-bd16-02f3aeb2e5a4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T21:05:51.170096+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

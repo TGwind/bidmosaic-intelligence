@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Medical Reasoning with Large Language Models: A Survey and MR-Bench",
+  "raw_content": "arXiv:2604.08559v1 Announce Type: new Abstract: Large language models (LLMs) have achieved strong performance on medical exam-style tasks, motivating growing interest in their deployment in real-world clinical settings. However, clinical decision-making is inherently safety-critical, context-dependent, and conducted under evolving evidence. In such situations, reliable LLM performance depends not on factual recall alone, but on robust medical reasoning. In this work, we present a comprehensive review of medical reasoning with LLMs. Grounded in cognitive theories of clinical reasoning, we conceptualize medical reasoning as an iterative process of abduction, deduction, and induction, and organize existing methods into seven major technical routes spanning training-based and training-free approaches. We further conduct a unified cross-benchmark evaluation of representative medical reasoning models under a consistent experimental setting, enabling a more systematic and comparable assessment of the empirical impact of existing methods. To better assess clinically grounded reasoning, we introduce MR-Bench, a benchmark derived from real-world hospital data. Evaluations on MR-Bench expose a pronounced gap between exam-level performance and accuracy on authentic clinical decision tasks. Overall, this survey provides a unified view of existing medical reasoning methods, benchmarks, and evaluation practices, and highlights key gaps between current model performance and the requirements of real-world clinical reasoning.",
+  "source_url": "https://arxiv.org/abs/2604.08559",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-13T04:00:00+00:00",
+  "id": "029ad8d2-08b3-45fe-9710-0aaf944e8e48",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T21:05:51.039885+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
