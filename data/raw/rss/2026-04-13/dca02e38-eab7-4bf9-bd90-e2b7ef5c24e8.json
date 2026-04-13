@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Temperature-Dependent Performance of Prompting Strategies in Extended Reasoning Large Language Models",
+  "raw_content": "arXiv:2604.08563v1 Announce Type: new \nAbstract: Extended reasoning models represent a transformative shift in Large Language Model (LLM) capabilities by enabling explicit test-time computation for complex problem solving. However, the optimal configuration of sampling temperature and prompting strategy for these systems remains largely underexplored. We systematically evaluate chain-of-thought and zero-shot prompting across four temperature settings (0.0, 0.4, 0.7, and 1.0) using Grok-4.1 with extended reasoning on 39 mathematical problems from AMO-Bench, a challenging International Mathematical Olympiad-level benchmark. We find that zero-shot prompting achieves peak performance at moderate temperatures, reaching 59% accuracy at T=0.4 and T=0.7, while chain-of-thought prompting performs best at the temperature extremes. Most notably, the benefit of extended reasoning increases from 6x at T=0.0 to 14.3x at T=1.0. These results suggest that temperature should be optimized jointly with prompting strategy, challenging the common practice of using T=0 for reasoning tasks.",
+  "source_url": "https://arxiv.org/abs/2604.08563",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-13T04:00:00+00:00",
+  "id": "dca02e38-eab7-4bf9-bd90-e2b7ef5c24e8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

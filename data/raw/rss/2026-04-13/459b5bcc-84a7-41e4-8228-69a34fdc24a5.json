@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Drift and selection in LLM text ecosystems",
+  "raw_content": "arXiv:2604.08554v1 Announce Type: new \nAbstract: The public text record -- the material from which both people and AI systems now learn -- is increasingly shaped by its own outputs. Generated text enters the public record, later agents learn from it, and the cycle repeats. Here we develop an exactly solvable mathematical framework for this recursive process, based on variable-order $n$-gram agents, and separate two forces acting on the public corpus. The first is drift: unfiltered reuse progressively removes rare forms, and in the infinite-corpus limit we characterise the stable distributions exactly. The second is selection: publication, ranking and verification filter what enters the record, and the outcome depends on what is selected. When publication merely reflects the statistical status quo, the corpus converges to a shallow state in which further lookahead brings no benefit. When publication is normative -- rewarding quality, correctness or novelty -- deeper structure persists, and we establish an optimal upper bound on the resulting divergence from shallow equilibria. The framework therefore identifies when recursive publication compresses public text and when selective filtering sustains richer structure, with implications for the design of AI training corpora.",
+  "source_url": "https://arxiv.org/abs/2604.08554",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-13T04:00:00+00:00",
+  "id": "459b5bcc-84a7-41e4-8228-69a34fdc24a5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

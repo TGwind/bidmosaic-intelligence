@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "RAMP: Hybrid DRL for Online Learning of Numeric Action Models",
+  "raw_content": "arXiv:2604.08685v1 Announce Type: new \nAbstract: Automated planning algorithms require an action model specifying the preconditions and effects of each action, but obtaining such a model is often hard. Learning action models from observations is feasible, but existing algorithms for numeric domains are offline, requiring expert traces as input. We propose the Reinforcement learning, Action Model learning, and Planning (RAMP) strategy for learning numeric planning action models online via interactions with the environment. RAMP simultaneously trains a Deep Reinforcement Learning (DRL) policy, learns a numeric action model from past interactions, and uses that model to plan future actions when possible. These components form a positive feedback loop: the RL policy gathers data to refine the action model, while the planner generates plans to continue training the RL policy. To facilitate this integration of RL and numeric planning, we developed Numeric PDDLGym, an automated framework for converting numeric planning problems to Gym environments. Experimental results on standard IPC numeric domains show that RAMP significantly outperforms PPO, a well-known DRL algorithm, in terms of solvability and plan quality.",
+  "source_url": "https://arxiv.org/abs/2604.08685",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-13T04:00:00+00:00",
+  "id": "dd0e9bb9-3682-4f12-9920-0b1fbdae5293",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
