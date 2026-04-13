@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Uncertainty Estimation for the Open-Set Text Classification systems",
+  "raw_content": "arXiv:2604.08560v1 Announce Type: new \nAbstract: Accurate uncertainty estimation is essential for building robust and trustworthy recognition systems. In this paper, we consider the open-set text classification (OSTC) task - and uncertainty estimation for it. For OSTC a text sample should be classified as one of the existing classes or rejected as unknown. To account for the different uncertainty types encountered in OSTC, we adapt the Holistic Uncertainty Estimation (HolUE) method for the text domain. Our approach addresses two major causes of prediction errors in text recognition systems: text uncertainty that stems from ill formulated queries and gallery uncertainty that is related the ambiguity of data distribution.\n  By capturing these sources, it becomes possible to predict when the system will make a recognition error. We propose a new OSTC benchmark and conduct extensive experiments on a wide range of data, utilizing the authorship attribution, intent and topic classification datasets. HolUE achieves 40-365% improvement in Prediction Rejection Ratio (PRR) over the quality-based SCF baseline across datasets: 365% on Yahoo Answers (0.79 vs 0.17 at FPIR 0.1), 347% on DBPedia (0.85 vs 0.19), 240% on PAN authorship attribution (0.51 vs 0.15 at FPIR 0.5), and 40% on CLINC150 intent classification (0.73 vs~0.52). We make public our code and protocols https://github.com/Leonid-Erlygin/text_uncertainty.git",
+  "source_url": "https://arxiv.org/abs/2604.08560",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-13T04:00:00+00:00",
+  "id": "0133afed-fb06-46d3-8a00-9d3eaf17fb77",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

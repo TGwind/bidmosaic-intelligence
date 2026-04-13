@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Hyperbridge attacker mints 1B bridged Polkadot tokens in $237K exploit",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Hyperbridge attacker mints 1B bridged Polkadot tokens in $237K exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg1ZWQtZDcyYi03OTJiLTlmZGQtZDY4OGMxY2ZkZWM2LmpwZw==.jpg\" /></p><p>A Hyperbridge exploit let an attacker mint 1 billion bridged Polkadot tokens on Ethereum and cash out about $237,000, reviving debate over bridge security.</p>",
+  "source_url": "https://cointelegraph.com/news/hacker-steals-237k-1b-bridged-dot-hyperbridge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T09:19:10+00:00",
+  "id": "53506433-c623-4b9d-aea7-2f8a9492cd7b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

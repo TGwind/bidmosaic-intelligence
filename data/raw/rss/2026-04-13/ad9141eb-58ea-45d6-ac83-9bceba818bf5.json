@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bernstein says Bitcoin market already priced in quantum risk",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bernstein says Bitcoin market already priced in quantum risk\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg2YzctNzIwOC03ZjdkLThlMjYtN2U3MTNlODRiYzA1LmpwZw==.jpg\" /></p><p>Bernstein says Bitcoin’s selloff already reflects quantum risk and that developers still have time to agree on a post-quantum upgrade path.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-priced-in-quantum-computing-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T13:46:04+00:00",
+  "id": "ad9141eb-58ea-45d6-ac83-9bceba818bf5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
