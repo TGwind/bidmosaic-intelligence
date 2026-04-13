@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "网络热传生物鉴定 第59期",
-  "raw_content": "网络热传生物鉴定 第59期",
-  "source_url": "https://www.bilibili.com/video/BV1PRDxBuET9",
+  "raw_title": "选一条路，决定你接下来的旅途",
+  "raw_content": "选一条路，决定你接下来的旅途。 视频画面为AI生成，虚构剧情，仅供娱乐。",
+  "source_url": "https://www.bilibili.com/video/BV1FeD1BsEQq",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-13T02:47:02.156709+00:00",
-  "id": "bbc71d76-b2d3-4d1e-941d-3c54705c03d7",
+  "collected_at": "2026-04-13T13:28:45.268970+00:00",
+  "id": "7ad310db-660e-442b-9890-7be2c970a995",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-13T13:29:25.739084+00:00",
+  "processed_at": "2026-04-13T13:29:25.734125+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2566053,
+    "hot_score": 1914997,
     "platform": "bilibili"
   }
 }

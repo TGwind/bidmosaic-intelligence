@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "文章面馆大排长队",
+  "raw_content": "文章面馆大排长队",
+  "source_url": "https://www.toutiao.com/trending/7627315846390317102/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627315846390317102%22%2C%22hot_board_impr_id%22%3A%222026041321284427DDB6D33B204D0FBDB8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%96%87%E7%AB%A0%E9%9D%A2%E9%A6%86%E5%A4%A7%E6%8E%92%E9%95%BF%E9%98%9F%22%7D&rank=&style_id=40132&topic_id=7627315846390317102",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T13:28:44.827321+00:00",
+  "id": "0af1e3b5-eb23-4a1b-9d8f-7a42cd7b4059",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T13:29:25.745126+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "21948092",
+    "platform": "toutiao"
+  }
+}
