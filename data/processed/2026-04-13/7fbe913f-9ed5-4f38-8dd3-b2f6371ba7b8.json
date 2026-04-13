@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy buys 13,927 Bitcoin for $1B, holdings near 800,000 BTC",
+  "raw_content": "Michael Saylor’s Strategy acquired 13,927 Bitcoin for $1 billion last week, funding the purchase through STRC share sales, lifting the company’s holdings to 780,897 BTC.",
+  "source_url": "https://cointelegraph.com/news/strategy-buys-13-927-bitcoin-1b-holdings-780-897-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T13:00:53+00:00",
+  "id": "7fbe913f-9ed5-4f38-8dd3-b2f6371ba7b8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T14:01:11.979285+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

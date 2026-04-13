@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A Representation-Level Assessment of Bias Mitigation in Foundation Models",
+  "raw_content": "arXiv:2604.08561v1 Announce Type: new Abstract: We investigate how successful bias mitigation reshapes the embedding space of encoder-only and decoder-only foundation models, offering an internal audit of model behaviour through representational analysis. Using BERT and Llama2 as representative architectures, we assess the shifts in associations between gender and occupation terms by comparing baseline and bias-mitigated variants of the models. Our findings show that bias mitigation reduces gender-occupation disparities in the embedding space, leading to more neutral and balanced internal representations. These representational shifts are consistent across both model types, suggesting that fairness improvements can manifest as interpretable and geometric transformations. These results position embedding analysis as a valuable tool for understanding and validating the effectiveness of debiasing methods in foundation models. To further promote the assessment of decoder-only models, we introduce WinoDec, a dataset consisting of 4,000 sequences with gender and occupation terms, and release it to the general public. (https://github.com/winodec/wino-dec)",
+  "source_url": "https://arxiv.org/abs/2604.08561",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-13T04:00:00+00:00",
+  "id": "6d0401c4-5f3d-48a8-a8a7-c9a8591adc95",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T14:01:11.969623+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
