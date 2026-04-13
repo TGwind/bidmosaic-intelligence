@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "你怎么处理邻里噪音纠纷",
+  "raw_content": "你怎么处理邻里噪音纠纷",
+  "source_url": "https://www.toutiao.com/trending/7627880998420004918/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627880998420004918%22%2C%22hot_board_impr_id%22%3A%2220260413160547BAE9D7E4D8A54328935A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BD%A0%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E9%82%BB%E9%87%8C%E5%99%AA%E9%9F%B3%E7%BA%A0%E7%BA%B7%22%7D&rank=&style_id=40132&topic_id=7627880998420004918",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T08:05:47.333882+00:00",
+  "id": "3d2be33a-06ef-48c7-aedc-7ec5688e0607",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T08:06:28.883950+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "19997126",
+    "platform": "toutiao"
+  }
+}

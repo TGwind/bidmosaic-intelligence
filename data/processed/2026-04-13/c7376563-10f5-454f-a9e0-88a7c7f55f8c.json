@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "詹姆斯能带领湖人撑到东契奇回归吗",
+  "raw_content": "詹姆斯能带领湖人撑到东契奇回归吗",
+  "source_url": "https://www.toutiao.com/trending/7628081233809899530/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628081233809899530%22%2C%22hot_board_impr_id%22%3A%2220260413160547BAE9D7E4D8A54328935A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A9%B9%E5%A7%86%E6%96%AF%E8%83%BD%E5%B8%A6%E9%A2%86%E6%B9%96%E4%BA%BA%E6%92%91%E5%88%B0%E4%B8%9C%E5%A5%91%E5%A5%87%E5%9B%9E%E5%BD%92%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7628081233809899530",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T08:05:47.333817+00:00",
+  "id": "c7376563-10f5-454f-a9e0-88a7c7f55f8c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T08:06:28.888316+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "44504423",
+    "platform": "toutiao"
+  }
+}

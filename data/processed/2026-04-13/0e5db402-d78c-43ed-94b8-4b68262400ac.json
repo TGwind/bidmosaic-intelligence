@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "女副部乌兰被“双开”：结交政治骗子",
+  "raw_content": "女副部乌兰被“双开”：结交政治骗子",
+  "source_url": "https://www.toutiao.com/trending/7628073554232246315/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628073554232246315%22%2C%22hot_board_impr_id%22%3A%2220260413160547BAE9D7E4D8A54328935A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A5%B3%E5%89%AF%E9%83%A8%E4%B9%8C%E5%85%B0%E8%A2%AB%E2%80%9C%E5%8F%8C%E5%BC%80%E2%80%9D%EF%BC%9A%E7%BB%93%E4%BA%A4%E6%94%BF%E6%B2%BB%E9%AA%97%E5%AD%90%22%7D&rank=&style_id=40132&topic_id=7628073554232246315",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T08:05:47.333790+00:00",
+  "id": "0e5db402-d78c-43ed-94b8-4b68262400ac",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T08:06:28.879090+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "60074688",
+    "platform": "toutiao"
+  }
+}
