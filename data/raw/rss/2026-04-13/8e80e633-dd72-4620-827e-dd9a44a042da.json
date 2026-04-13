@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Korea says API crypto trading now makes up 30% of market: Report",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"South Korea says API crypto trading now makes up 30% of market: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg2MzktNTMwNy03MmU1LTg1MjQtNzQyNjQyNWM4YjkyLmpwZw==.jpg\" /></p><p>South Korea’s FSS said API trading now makes up 30% of crypto turnover and warned it will crack down on abusive automated trading patterns, local media reported Monday.</p>",
+  "source_url": "https://cointelegraph.com/news/south-korea-api-crypto-trading-30-percent-manipulation-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T11:49:35+00:00",
+  "id": "8e80e633-dd72-4620-827e-dd9a44a042da",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
