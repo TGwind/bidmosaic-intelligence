@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "业主炸锅反对800万豪宅变学生宿舍",
+  "raw_content": "业主炸锅反对800万豪宅变学生宿舍",
+  "source_url": "https://www.toutiao.com/trending/7627450416918249513/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627450416918249513%22%2C%22hot_board_impr_id%22%3A%222026041310470170A2F7374F9BA7D8734E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%9A%E4%B8%BB%E7%82%B8%E9%94%85%E5%8F%8D%E5%AF%B9800%E4%B8%87%E8%B1%AA%E5%AE%85%E5%8F%98%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%22%7D&rank=&style_id=40132&topic_id=7627450416918249513",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T02:47:01.331472+00:00",
+  "id": "3c3e9519-d227-48a2-9626-2b7766e04e2c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T02:47:39.459953+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "36483740",
+    "platform": "toutiao"
+  }
+}

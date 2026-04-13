@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "美军4月13日起封锁伊朗港口海上交通",
+  "raw_content": "美军4月13日起封锁伊朗港口海上交通",
+  "source_url": "https://www.toutiao.com/trending/7628010534004067882/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628010534004067882%22%2C%22hot_board_impr_id%22%3A%222026041310470170A2F7374F9BA7D8734E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BE%8E%E5%86%9B4%E6%9C%8813%E6%97%A5%E8%B5%B7%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%22%7D&rank=&style_id=40132&topic_id=7628010534004067882",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T02:47:01.331487+00:00",
+  "id": "e39688f9-07a1-489c-9e1f-a8fb04f7c519",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T02:47:39.472036+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "29870360",
+    "platform": "toutiao"
+  }
+}

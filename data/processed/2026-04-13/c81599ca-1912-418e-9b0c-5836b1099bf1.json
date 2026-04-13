@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《百米自由搏击》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1ktDpBFEQN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T02:47:02.156777+00:00",
+  "id": "c81599ca-1912-418e-9b0c-5836b1099bf1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T02:47:39.472001+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 8946677,
+    "platform": "bilibili"
+  }
+}
