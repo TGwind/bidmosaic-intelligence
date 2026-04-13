@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Parameterized Complexity Of Representing Models Of MSO Formulas",
+  "raw_content": "arXiv:2604.08707v1 Announce Type: new \nAbstract: Monadic second order logic (MSO2) plays an important role in parameterized complexity due to the Courcelle's theorem. This theorem states that the problem of checking if a given graph has a property specified by a given MSO2 formula can be solved by a parameterized linear time algorithm with respect to the treewidth of the graph and the size of the formula. We extend this result by showing that models of MSO2 formula with free variables can be represented with a decision diagram whose size is parameterized linear in the above mentioned parameter. In particular, we show a parameterized linear upper bound on the size of a sentential decision diagram (SDD) when treewidth is considered and a parameterized linear upper bound on the size of an ordered binary decision diagram (OBDD) when considering the pathwidth in the parameter. In addition, building on a lower bound on the size of OBDD by Razgon (2014), we show that there is an MSO2 formula and a class of graphs with bounded treewidth which do not admit an OBDD with the size parameterized by the treewidth. Our result offers a new perspective on the Courcelle's theorem and connects it to the area of knowledge representation.",
+  "source_url": "https://arxiv.org/abs/2604.08707",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-13T04:00:00+00:00",
+  "id": "eefed024-f0dc-4ba3-afb0-37af5bae1a71",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

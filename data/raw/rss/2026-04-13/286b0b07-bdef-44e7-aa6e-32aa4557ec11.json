@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Musician loses $420K Bitcoin ‘retirement fund’ via fake Ledger app",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Musician loses $420K Bitcoin ‘retirement fund’ via fake Ledger app\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg1ODQtYTZkMS03ZWEwLWE5M2EtMDlkMjU0NDNmMzc0LmpwZw==.jpg\" /></p><p>Blockchain sleuth ZachXBT said Garrett Dutton’s 5.9 Bitcoin has already been sent to deposit addresses associated with KuCoin.</p>",
+  "source_url": "https://cointelegraph.com/news/musician-loses-420k-bitcoin-retirement-fund-after-installing-fake-ledger-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T05:56:49+00:00",
+  "id": "286b0b07-bdef-44e7-aa6e-32aa4557ec11",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bank of Korea floats crypto ‘circuit breakers’ after Bithumb blunder",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bank of Korea floats crypto ‘circuit breakers’ after Bithumb blunder\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg1NDItYzkxZi03YzEzLTg5ODAtZmRlNzQwZmE5YmVlLmpwZw==.jpg\" /></p><p>Bithumb accidentally sent customers 620,000 Bitcoin instead of 620,000 Korean won in February. The Bank of Korea wants lawmakers to make it so it doesn't happen again.</p>",
+  "source_url": "https://cointelegraph.com/news/bank-of-korea-floats-crypto-circuit-breakers-after-bithumb-blunder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T06:21:05+00:00",
+  "id": "c174660e-49cc-4bc9-9eab-1c740a202288",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
