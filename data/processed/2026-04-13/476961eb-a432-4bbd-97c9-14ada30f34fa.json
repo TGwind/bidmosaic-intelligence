@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "五年了，他还是坐上了这个位置…",
-  "raw_content": "纯属节目效果，请勿当真！ 希望观众老爷喜欢这个系列！ 素质三连，创作不易，希望你喜欢！",
-  "source_url": "https://www.bilibili.com/video/BV1H7QFBaERe",
+  "raw_title": "选一条路，决定你接下来的旅途",
+  "raw_content": "选一条路，决定你接下来的旅途。 视频画面为AI生成，虚构剧情，仅供娱乐。",
+  "source_url": "https://www.bilibili.com/video/BV1FeD1BsEQq",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-13T02:47:02.156682+00:00",
-  "id": "7924bd02-7635-4b97-a1d5-a8c229899f22",
+  "collected_at": "2026-04-13T19:16:16.347127+00:00",
+  "id": "476961eb-a432-4bbd-97c9-14ada30f34fa",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-13T19:16:53.796612+00:00",
+  "processed_at": "2026-04-13T19:16:53.789653+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 5757857,
+    "hot_score": 2006510,
     "platform": "bilibili"
   }
 }
