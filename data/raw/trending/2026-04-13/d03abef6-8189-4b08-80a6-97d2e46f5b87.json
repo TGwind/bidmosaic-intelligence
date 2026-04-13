@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "机器人冲线后坐车休息脚搭车架上",
+  "raw_content": "机器人冲线后坐车休息脚搭车架上",
+  "source_url": "https://www.toutiao.com/trending/7626734057791455275/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227626734057791455275%22%2C%22hot_board_impr_id%22%3A%222026041310470170A2F7374F9BA7D8734E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%86%B2%E7%BA%BF%E5%90%8E%E5%9D%90%E8%BD%A6%E4%BC%91%E6%81%AF%E8%84%9A%E6%90%AD%E8%BD%A6%E6%9E%B6%E4%B8%8A%22%7D&rank=&style_id=40132&topic_id=7626734057791455275",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T02:47:01.331438+00:00",
+  "id": "d03abef6-8189-4b08-80a6-97d2e46f5b87",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "54427345",
+    "platform": "toutiao"
+  }
+}

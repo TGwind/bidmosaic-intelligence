@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "学生抓老师！校园躲猫猫大赛4！",
+  "raw_content": "学生抓老师！校园躲猫猫大赛4！",
+  "source_url": "https://www.bilibili.com/video/BV1YFQPB8Ee2",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T02:47:02.156693+00:00",
+  "id": "ee56b043-636d-4d6f-9058-c053d2629c8a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 14796916,
+    "platform": "bilibili"
+  }
+}
