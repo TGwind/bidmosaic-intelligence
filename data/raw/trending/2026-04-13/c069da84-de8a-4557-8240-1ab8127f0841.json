@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "双方选出了熟练度最高的英雄并开启了巅峰赛",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1e2QMByEfE",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T13:28:45.268932+00:00",
+  "id": "c069da84-de8a-4557-8240-1ab8127f0841",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5548080,
+    "platform": "bilibili"
+  }
+}
