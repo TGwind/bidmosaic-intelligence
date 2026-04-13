@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price falls under $71K as US-Iran war tensions spark sell-off",
+  "raw_content": "Bitcoin price sold off as negotiations to end the US-Iran war broke down and the Strait of Hormuz returned to the spotlight.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-falls-under-dollar71k-as-us-iran-war-tensions-spark-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-12T19:56:12+00:00",
+  "id": "6ef05322-eb52-41a2-a68b-f317333b0ddd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T03:41:16.038422+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

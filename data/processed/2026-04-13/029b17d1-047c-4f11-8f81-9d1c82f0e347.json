@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国实施出口管制一年，稀土钇价格创新高",
+  "raw_content": "2026/04/13 稀土价格持续高涨（REUTERS） 稀土价格持续高涨。用于半导体制造和防卫等用途的钇创下有数据可追溯的2012年以来的最高价格纪录，用于高性能磁铁等的铽也持续刷新高位。中国实施出口管制已过去一年，供应风险依然没有消除。 英国调查公司Argus Media的数据显示，截至4月9日，钇的价格为每公斤1000美元（作为中国以外指标的欧洲价格），相较于一周前上涨11％。铽达到每公斤4150美元，刷新有数据可追溯的2015年以来的最高价格水平。 Argus的相关负责人表示：“来自日本和北美航空航天及防卫领域的需求方的洽购十分强劲，正在推高稀土价格”。 中国于2025年4月4日宣布对包括钇及铽在内的7种稀土实施出口管制。2026年1月又宣布加强对军民两用物项的对日出口管制，这进一步加剧了也用于军事用途的稀土的供应风险。 钇等属于稀土中稀缺性较高的重稀土，中国占据了全球的大部分产量。日本第一生命资产管理经济研究所高级研究员的嶌峰义清指出：“需求方的警惕情绪依然强烈，而且出现了试图囤积库存的动向，使得价格难以下降”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/62119-2026-04-13-10-09-02.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-13T02:38:02+00:00",
+  "id": "029b17d1-047c-4f11-8f81-9d1c82f0e347",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T03:41:15.967984+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
