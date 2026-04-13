@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Kraken won‘t negotiate after extortion attempt with client data",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Kraken won‘t negotiate after extortion attempt with client data\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDg3ZDctNDU1Ni03YTU0LTg2ZjEtZGJkMjNhODU4MzE3LmpwZw==.jpg\" /></p><p>The exchange’s head of security said there had been two incidents involving “inappropriate access” to client data, involving about 2,000 user accounts.</p>",
+  "source_url": "https://cointelegraph.com/news/kraken-extortion-attempt-but-funds-never-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T19:23:05+00:00",
+  "id": "74501266-6ecc-4042-9af7-b75e17d4031c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
