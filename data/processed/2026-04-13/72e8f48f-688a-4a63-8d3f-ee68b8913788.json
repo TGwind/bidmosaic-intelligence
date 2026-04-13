@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "WLFI threatens legal action against Justin Sun after he accuses Trump-linked project of deceptive DeFi deals",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/13/see-you-in-court-wlfi-threatens-justin-sun-as-feud-over-usd75-million-defi-loan-escalates",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T05:56:30+00:00",
+  "id": "72e8f48f-688a-4a63-8d3f-ee68b8913788",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T06:25:08.134521+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

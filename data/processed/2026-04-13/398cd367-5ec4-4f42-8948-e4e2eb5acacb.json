@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Components of A Coding Agent",
+  "raw_content": "How coding agents use tools, memory, and repo context to make LLMs work better in practice",
+  "source_url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-04T11:45:37+00:00",
+  "id": "398cd367-5ec4-4f42-8948-e4e2eb5acacb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T06:25:08.089358+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

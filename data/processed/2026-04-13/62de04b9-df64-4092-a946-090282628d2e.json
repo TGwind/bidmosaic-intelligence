@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Aave DAO approves $25M funding grant, token allocation for Aave Labs",
+  "raw_content": "The vote passed with nearly 75% in favor. Other elements of the framework, including the growth and development grants, will have separate governance proposals.",
+  "source_url": "https://cointelegraph.com/news/aave-dao-approves-25m-funding-aave-labs-aave-will-win-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T04:17:36+00:00",
+  "id": "62de04b9-df64-4092-a946-090282628d2e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T06:25:08.116682+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

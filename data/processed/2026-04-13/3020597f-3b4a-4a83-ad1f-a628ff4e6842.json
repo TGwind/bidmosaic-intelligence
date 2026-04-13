@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "EU central bank backs plan for crypto supervision under EU markets watchdog",
+  "raw_content": "The European Central Bank has boosted a proposal to take away EU member states' regulatory oversight of crypto and hand it to the European Union’s market regulator.",
+  "source_url": "https://cointelegraph.com/news/ecb-backs-plan-esma-crypto-supervision?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T03:25:42+00:00",
+  "id": "3020597f-3b4a-4a83-ad1f-a628ff4e6842",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-13T06:25:08.076739+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
