@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本首个日元计价货币期货上市",
+  "raw_content": "<div>2026/04/14</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<span><img height=\"450\" src=\"https://feedx.net/images/2026/04/0414/0414-06-L.jpg\" width=\"600\" /></span>\n\n\n<strong><span>大阪交易所社长多贺谷彰出席上市仪式（4月13日）</span></strong>\n\n\n\n<div>   </div>\n<div>       日本交易所集团（JPX）旗下的大阪交易所4月13日上市了日本首个以日元计价的货币期货。设想供投资者与日经平均指数期货等其他金融商品的交易结合起来运用。预计将主要满足希望对冲汇率风险的海外机构投资者的需求。</div>\n<div> </div>\n<div>       此次上市的货币期货涵盖美元/日元、欧元/日元、人民币/日元三种货币对。该期货的优点之一在于，通过与日经平均指数期货、国债期货、黄金期货等金融商品相结合，可抵消担保所需的保证金金额，以此来提高资金效率。</div>\n<div> </div>\n<div>       在大阪交易所13日举行的上市仪式上，社长多贺谷彰表示：“海外投资者可以一站式完成交易，更加方便。也希望能够吸引此前因汇率风险而无法入场的投资者”。</div>\n<div> </div>\n<div></div><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/efinance/62136-2026-04-14-09-42-34.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-14T02:08:03+00:00",
+  "id": "42e28457-38a6-47b3-9de5-ce75f0f09a4b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

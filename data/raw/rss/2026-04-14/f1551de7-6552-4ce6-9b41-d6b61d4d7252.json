@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "中东战争导致中国物价上涨",
+  "raw_content": "<address>KEITH BRADSHER</address><time datetime=\"2026-04-13 08:36:55\">2026年4月13日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/04/10/business/10Biz-China-Deflation/10Biz-China-Deflation-master1050.jpg\" width=\"1050\" /><figcaption>中国重庆的一家汽车工厂。批发价格持续下跌已迫使成千上万的制造商以越来越低的价格出售商品。 <cite>Wang Jiaxi/VCG, via Getty Images</cite></figcaption></figure><section><p>随着石油和其他大宗商品成本上升开始影响多个行业，中国批发价格连续三年多的跌势在3月份突然逆转。</p><p>根据周五发布的政府数据，生产者价格——主要是工厂针对批发采购制定的价格——上个月同比上涨，这是自2022年9月以来的首次。</p><p>在于2月28日爆发的中东战争中，美国和以色列对伊朗发动打击，导致伊朗以实际关闭霍尔木兹海峡的方式进行报复，从而推高了能源和其他大宗商品的价格，并造成短缺。例如，全球铝产量的近十分之一原本来自波斯湾的出口。</p><p>包括美国和欧洲在内的许多国家政府正在为高物价带来的创伤做准备，这种高物价会侵蚀消费者支出，而战争爆发前，中国面临的问题却恰恰相反。</p><p>批发价格持续下跌一直困扰着中国经济。数以千计的制造商不得不以<a href=\"https://cn.nytimes.com/business/20250723/china-involution-competition-deflation/https://cn.nytimes.com/business/20250723/china-involution-competition-deflation/\">越来越低的价格</a>出售商品。中国消费者价格也停滞不前，偶尔还会下跌，这进一步压低了工资。</p><p>美国劳工统计局定于周五在华盛顿发布消费者价格数据。这些数据将被仔细研究，以了解中东战争可能在多大程度上影响美国的通胀和支付能力。中国的价格上涨可能会传导到美国价格，因为美国的大部分制成品供应直接来自中国，或通过越南、墨西哥等国间接来自中国。</p><p>整个经济中物价水平的广泛下跌，即<a href=\"https://cn.nytimes.com/business/20250113/china-central-bank-bonds/\" title=\"Link: https://cn.nytimes.com/business/20250113/china-central-bank-bonds/\">所谓的通货紧缩现象</a>，会使企业难以偿还债务和支付工人工资。中国决策者对通缩极为警惕，以至于禁止本国经济学家公开讨论其危害。</p><p>3月份生产者价格同比上涨0.5%，主要由燃料以及铝的价格上涨带动。2月份生产者价格则下跌了0.9%。</p><p>然而，由于生产者价格的上涨主要涉及进口原材料价格上涨，对中国制造商盈利能力的提振可能有限。</p><p>上个月消费者价格通胀略有放缓，原因是2月份农历新年庆祝活动带来的短暂消费激增逐渐消退。</p><p>3月份消费者价格同比上涨1%，低于2月份的1.3%。中国消费疲弱（主要是房地产市场长期低迷所致）使得企业难以提高零售价格。</p><p>中国还存在生猪过剩的问题，这压低了猪肉价格。猪肉是中国饮食中不可或缺的食材，也是中国消费者价格指数的重要组成部分。3月份猪肉批发价格创下八年新低。</p></section><footer><p><a href=\"https://www.nytimes.com/by/keith-bradsher\" rel=\"nofollow\" target=\"_blank\">Keith Bradsher</a>是《纽约时报》北京分社社长，此前曾任上海分社社长、香港分社社长、底特律分社社长，以及华盛顿记者。他在新冠疫情期间常驻中国进行报道。</p><p>翻译：纽约时报中文网</p><a href=\"https://www.nytimes.com/2026/04/10/business/china-deflation-iran-war.html\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></footer>",
+  "source_url": "https://cn.nytimes.com/business/20260413/china-deflation-iran-war/",
+  "source_name": "纽约时报中文网",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-13T01:07:01+00:00",
+  "id": "f1551de7-6552-4ce6-9b41-d6b61d4d7252",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nytimes.xml",
+    "category": "china_news",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 86
+  }
+}

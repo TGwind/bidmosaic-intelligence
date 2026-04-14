@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study",
+  "raw_content": "arXiv:2604.08621v1 Announce Type: new \nAbstract: In consumer applications, Customer Relationship Management (CRM) has traditionally relied on the manual optimisation of static, rule-based messaging strategies. While adaptive and autonomous learning systems offer the promise of scalable personalisation, it remains unclear to what extent ``human-in-the-loop'' oversight is required to sustain performance uplift over time. This paper presents a longitudinal case study analysing a real-world consumer application that leverages agentic infrastructure to personalise marketing messaging for a large-scale user base over an 11-month period.\n  We compare two distinct periods: an active phase where marketers directly curated content, audiences, and strategies -- followed immediately by a passive phase where agents operated autonomously from a fixed library of components. Our results demonstrate that whilst active human management generates the highest relative lift in engagement metrics, the autonomous agents successfully sustained a positive lift during the passive period. These findings suggest a symbiotic model where human intervention drives strategic initialisation and discovery, yet autonomous agents can ensure the scalable retention and preservation of performance gains.",
+  "source_url": "https://arxiv.org/abs/2604.08621",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-13T04:00:00+00:00",
+  "id": "1f0487f7-53c3-4498-abdb-d55b358d88a2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
