@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "OpeFlo: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding",
+  "raw_content": "arXiv:2604.09581v1 Announce Type: new \nAbstract: Evaluating web usability typically requires time-consuming user studies and expert reviews, which often limits iteration speed during product development, especially for small teams and agile workflows. We present OpenFlo, a user-experience evaluation agent that simulates user behavior on websites and produces standardized usability. Unlike traditional tools that rely on DOM parsing, OpenFlo grounds actions and observations, enabling it to interact with real web pages end-to-end while maintaining a coherent trace of the user journey. Building on Avenir-Web, our system pairs this robust interaction with simulated user behavior profiles and a structured evaluation protocol that integrates the System Usability Scale (SUS), step-wise Single Ease Questions (SEQ), and concurrent Think Aloud. Subsequently, a comprehensive User Experience (UX) report will be generated. We discuss the architecture of OpenFlo and illustrate how its multimodal grounding improves robustness for web-based interaction and UX evaluation scenarios, paving the way for a new era of continuous, scalable, and data-driven usability testing that empowers every developer to build web interfaces that are usable. Code is available at: https://github.com/Onflow-AI/OpenFlo",
+  "source_url": "https://arxiv.org/abs/2604.09581",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-14T04:00:00+00:00",
+  "id": "35df6d65-7ddc-47e7-8d01-d0651567e4e3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

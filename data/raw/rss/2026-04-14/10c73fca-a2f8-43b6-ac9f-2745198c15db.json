@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "IBM pays $17M fine to end DOJ suit over DEI programs",
+  "raw_content": "IBM entered into a $17 million settlement agreement on Friday with the U.S. DOJ over allegations that it engaged in “illegal DEI practices.”",
+  "source_url": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-13T19:11:27+00:00",
+  "id": "10c73fca-a2f8-43b6-ac9f-2745198c15db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
