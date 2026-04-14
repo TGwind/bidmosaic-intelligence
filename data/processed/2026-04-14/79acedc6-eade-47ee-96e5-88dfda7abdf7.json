@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "EMA Is Not All You Need: Mapping the Boundary Between Structure and Content in Recurrent Context",
+  "raw_content": "arXiv:2604.08556v1 Announce Type: new Abstract: What exactly do efficient sequence models gain over simple temporal averaging? We use exponential moving average (EMA) traces, the simplest recurrent context (no gating, no content-based retrieval), as a controlled probe to map the boundary between what fixed-coefficient accumulation can and cannot represent. EMA traces encode temporal structure: a Hebbian architecture with multi-timescale traces achieves 96% of a supervised BiGRU on grammatical role assignment with zero labels, surpassing the supervised model on structure-dependent roles. EMA traces destroy token identity: a 130M-parameter language model using only EMA context reaches C4 perplexity 260 (8x GPT-2), and a predictor ablation (replacing the linear predictor with full softmax attention) yields identical loss, localizing the entire gap to the traces. The traces apply lossy, data-independent compression; by the data processing inequality, no downstream predictor can recover the discarded information. Fixed-coefficient accumulation, whether across time or depth, suffers irreversible information dilution that only learned, input-dependent selection can resolve.",
+  "source_url": "https://arxiv.org/abs/2604.08556",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-13T04:00:00+00:00",
+  "id": "79acedc6-eade-47ee-96e5-88dfda7abdf7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T03:30:58.737199+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

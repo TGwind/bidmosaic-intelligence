@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "预测称英国潜在GDP因减少移民将缩小0.25%",
+  "raw_content": "2026/04/14 欧美相继出现测算认为，减少移民将对经济造成冲击。英国独立财政机构在3月估算称，由于移民流入减少，到2030年潜在国内生产总值（GDP）将缩小0.25%。强硬限制移民政策的负面影响开始显现。 随着排外倾向的右翼民粹主义在欧美扩散，各国加强了签证发放限制等措施。在出生率下降的背景下，移民减少将直接导致劳动力短缺。 依赖移民的英国护理行业团体“Care England”负责人马丁·格林表示担忧：“从海外获得人才一直是生命线。在没有替代措施的情况下将其剥夺，不仅短视，而且是残酷的行为。” 英国独立财政机构预算责任办公室（OBR）在3月发布的经济展望中，将2026至2030年的年均潜在增长率从此前预测下调0.1个百分点至1.3%。 该机构还将“净移民”（入境人数减去出境人数）预期下调至23.5万人，比此前减少6万人，反映出劳动力供给趋紧。 到2030年时的潜在GDP将比此前预测低0.25%。潜在GDP代表不受经济周期影响的经济实力，其下降意味着一个国家持续创造收入能力的减弱。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/epolitics/62130-2026-04-14-08-03-26.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-14T01:08:03+00:00",
+  "id": "ef932ea7-0f8a-4a39-99e8-fca844b64529",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T03:30:58.790400+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普称“伊朗方面有联系”",
+  "raw_content": "2026/04/14 美国总统特朗普4月13日在白宫对记者表示，“我们收到了伊朗方面的联系，他们非常希望达成协议”。他还称，只要伊朗明确表示“绝不会拥有核武器”，就能达成协议，并暗示围绕实现和平的谈判将继续推进。 美伊两国政府于11日至12日举行的谈判未能达成一致。美国要求伊朗停止所有铀浓缩活动、拆除主要核设施并回收高浓缩铀，但伊朗未接受这些要求。美国副总统万斯在会后记者会上表示，未能“确认伊朗不会长期发展核武器的意图”。 特朗普13日还就双方分歧较大的核问题表示，“我几乎确信他们（伊朗方面）会同意”。 多家美国媒体报道称，停止铀浓缩的期限成为谈判争议焦点之一。美国要求伊朗承诺未来20年不进行铀浓缩，而伊朗方面则希望将这一期限缩短至“个位数年限”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62132-2026-04-14-08-02-53.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-14T01:08:03+00:00",
+  "id": "4c9100ed-9c08-4991-8acc-c1789f7225b0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T03:30:58.714570+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

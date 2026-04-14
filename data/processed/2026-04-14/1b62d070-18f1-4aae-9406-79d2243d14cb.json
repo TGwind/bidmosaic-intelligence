@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin reclaims $74K as spot ETF demand clashes with BTC miner sell pressure",
+  "raw_content": "Bitcoin rallied above $74,000 after the Monday stock market close, but derivatives data show that some traders remain bearish.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-reclaims-dollar74k-as-spot-etf-demand-clashes-with-btc-miner-sell-pressure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-13T22:48:42+00:00",
+  "id": "1b62d070-18f1-4aae-9406-79d2243d14cb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T03:30:58.687361+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
