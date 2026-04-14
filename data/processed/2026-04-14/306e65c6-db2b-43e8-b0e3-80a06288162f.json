@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bearish bets lose $430 million as BTC, ETH surge as much as 7%",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/14/bearish-bets-lose-usd430-million-as-btc-eth-surge-as-much-as-7",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T04:53:04+00:00",
+  "id": "306e65c6-db2b-43e8-b0e3-80a06288162f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T06:08:03.877266+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

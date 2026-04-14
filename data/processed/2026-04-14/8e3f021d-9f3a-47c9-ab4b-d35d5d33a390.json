@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Korea fines Coinone $3.5M, orders partial business suspension: Reports",
+  "raw_content": "Coinone is the second to face South Korea’s crackdown on exchanges in the last month, following a $24 million fine and a six-month partial suspension order against Bithumb.",
+  "source_url": "https://cointelegraph.com/news/south-korea-coinone-suspension-aml-fine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T03:05:55+00:00",
+  "id": "8e3f021d-9f3a-47c9-ab4b-d35d5d33a390",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T06:08:03.936891+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

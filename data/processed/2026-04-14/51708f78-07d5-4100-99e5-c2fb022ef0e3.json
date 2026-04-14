@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Foundry launches Zcash mining pool, notches 29% hashrate in first month",
+  "raw_content": "The launch of Foundry Zcash Pool has cut ViaBTC’s mining pool hashrate dominance from around 65% to 37%.",
+  "source_url": "https://cointelegraph.com/news/foundry-digital-launched-zcash-mining-pool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T01:01:03+00:00",
+  "id": "51708f78-07d5-4100-99e5-c2fb022ef0e3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T06:08:03.898797+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

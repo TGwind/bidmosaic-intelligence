@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin bears eye $50K bottom as analysts claim final flush still to come",
+  "raw_content": "Bitcoin falling to the $50,000 level is being seen as the “last significant accumulation zone” before any sustained recovery, says LVRG Research director Nick Ruck.",
+  "source_url": "https://cointelegraph.com/news/analysts-still-see-final-flush-to-50k-despite-current-market-hopium?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T05:41:03+00:00",
+  "id": "793a42e1-aae3-4438-b76e-4ef49f2e9cab",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T06:08:03.926506+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

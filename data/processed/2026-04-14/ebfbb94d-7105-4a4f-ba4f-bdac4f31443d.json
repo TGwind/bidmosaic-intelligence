@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP climbs 3% to $1.37 as accumulation builds, but key breakout still ahead",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/14/xrp-climbs-3-to-usd1-37-as-accumulation-builds-but-key-breakout-still-ahead",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T05:13:35+00:00",
+  "id": "ebfbb94d-7105-4a4f-ba4f-bdac4f31443d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T06:08:03.964655+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
