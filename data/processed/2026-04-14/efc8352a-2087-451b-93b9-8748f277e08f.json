@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Visa deepens blockchain push with Tempo validator node launch",
+  "raw_content": "The payments giant is operating a validator node on the Tempo blockchain, taking a direct role in transaction validation as it expands infrastructure for stablecoin settlement.",
+  "source_url": "https://cointelegraph.com/news/visa-launches-validator-node-on-tempo-network-deepening-push-into-stablecoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T17:08:21+00:00",
+  "id": "efc8352a-2087-451b-93b9-8748f277e08f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T21:05:34.147944+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

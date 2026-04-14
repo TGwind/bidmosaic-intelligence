@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Tesla adds ‘streaks,’ other stats to track how often drivers use Full Self-Driving software",
+  "raw_content": "Tesla has also made it easy to subscribe to the advanced driver assistance system.",
+  "source_url": "https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-14T14:33:50+00:00",
+  "id": "11118c47-3e59-4d73-8231-ee28fa9c61b4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T21:05:34.004609+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

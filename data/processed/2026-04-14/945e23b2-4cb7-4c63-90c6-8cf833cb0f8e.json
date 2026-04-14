@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto.com gets into prediction markets through High Roller tie-up",
+  "raw_content": "The crypto exchange's move could signal a challenge to platforms like Kalshi through the integration of prediction markets, expected to be a $1 trillion market by 2030.",
+  "source_url": "https://cointelegraph.com/news/crypto-exchange-prediction-markets-high-roller?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T18:46:32+00:00",
+  "id": "945e23b2-4cb7-4c63-90c6-8cf833cb0f8e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T21:05:34.128587+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
