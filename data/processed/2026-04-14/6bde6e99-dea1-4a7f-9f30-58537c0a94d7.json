@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "天生鬼才 翻唱（星穹铁道）",
-  "raw_content": "原曲 BV1XVDfBLE3D by 萧敬腾 混音 三星堆工作组 任性燃烧嗷嗷嗷嗷～～～～～～wu～#翻唱#崩坏：星穹铁道",
-  "source_url": "https://www.bilibili.com/video/BV16mQABBEqd",
+  "raw_title": "选一条路，决定你接下来的旅途",
+  "raw_content": "选一条路，决定你接下来的旅途。 视频画面为AI生成，虚构剧情，仅供娱乐。",
+  "source_url": "https://www.bilibili.com/video/BV1FeD1BsEQq",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-14T07:48:12.889537+00:00",
-  "id": "eff7c325-9f7c-4590-a182-96598527527d",
+  "collected_at": "2026-04-14T19:17:41.595080+00:00",
+  "id": "6bde6e99-dea1-4a7f-9f30-58537c0a94d7",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-14T19:18:17.214224+00:00",
+  "processed_at": "2026-04-14T19:18:17.205872+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1379269,
+    "hot_score": 2275992,
     "platform": "bilibili"
   }
 }

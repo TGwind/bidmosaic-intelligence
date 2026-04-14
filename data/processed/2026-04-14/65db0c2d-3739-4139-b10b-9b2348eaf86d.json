@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "世界互联网大会亚太峰会在香港举行",
-  "raw_content": "世界互联网大会亚太峰会在香港举行",
-  "source_url": "https://www.toutiao.com/article/7628050652098298410",
+  "raw_title": "我国再次成功发射一箭8星",
+  "raw_content": "我国再次成功发射一箭8星",
+  "source_url": "https://www.toutiao.com/article/7628469850477691430",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-14T02:39:17.883114+00:00",
-  "id": "664e4a94-11e1-4241-bd55-b7d4f82bb8b4",
+  "collected_at": "2026-04-14T19:17:40.561159+00:00",
+  "id": "65db0c2d-3739-4139-b10b-9b2348eaf86d",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-14T19:18:17.204783+00:00",
+  "processed_at": "2026-04-14T19:18:17.204080+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "38879926",
+    "hot_score": "40589782",
     "platform": "toutiao"
   }
 }
