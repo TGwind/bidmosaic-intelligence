@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Lucid Motors names new CEO, lands more money from Uber and Saudis",
+  "raw_content": "The search for a new CEO, which lasted over a year following the sudden resignation of Peter Rawlinson, is finally over.",
+  "source_url": "https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-14T12:22:22+00:00",
+  "id": "ab94d27f-eb80-43e1-8b68-8899316c2d00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T14:03:55.702041+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

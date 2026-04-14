@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin ETFs clock $291M outflows as BTC blasts past $74K",
+  "raw_content": "US spot Bitcoin ETFs recorded $291 million in outflows on Monday as BTC climbed above $74,000, marking the biggest day of redemptions since March 27, led by FBTC.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-etfs-291-million-outflow-btc-surge-74000?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T09:48:54+00:00",
+  "id": "dc034571-2557-48bb-b83d-6e5d8559b2a4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T14:03:55.709805+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

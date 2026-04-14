@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP Ledger adds zero-knowledge proofs targeting institutional privacy gap",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/14/xrp-ledger-adds-zero-knowledge-proofs-targeting-institutional-privacy-gap",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T13:00:00+00:00",
+  "id": "d3253075-0f57-498e-8ea6-f33aee911670",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T14:03:55.707165+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

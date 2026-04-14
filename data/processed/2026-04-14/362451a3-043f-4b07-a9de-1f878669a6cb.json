@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Claim2Vec: Embedding Fact-Check Claims for Multilingual Similarity and Clustering",
+  "raw_content": "arXiv:2604.09812v1 Announce Type: new Abstract: Recurrent claims present a major challenge for automated fact-checking systems designed to combat misinformation, especially in multilingual settings. While tasks such as claim matching and fact-checked claim retrieval aim to address this problem by linking claim pairs, the broader challenge of effectively representing groups of similar claims that can be resolved with the same fact-check via claim clustering remains relatively underexplored. To address this gap, we introduce Claim2Vec, the first multilingual embedding model optimized to represent fact-check claims as vectors in an improved semantic embedding space. We fine-tune a multilingual encoder using contrastive learning with similar multilingual claim pairs. Experiments on the claim clustering task using three datasets, 14 multilingual embedding models, and 7 clustering algorithms demonstrate that Claim2Vec significantly improves clustering performance. Specifically, it enhances both cluster label alignment and the geometric structure of the embedding space across different cluster configurations. Our multilingual analysis shows that clusters containing multiple languages benefit from fine-tuning, demonstrating cross-lingual knowledge transfer.",
+  "source_url": "https://arxiv.org/abs/2604.09812",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-14T04:00:00+00:00",
+  "id": "362451a3-043f-4b07-a9de-1f878669a6cb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T14:03:55.642306+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

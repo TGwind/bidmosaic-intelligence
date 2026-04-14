@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP Ledger taps Boundless for bank-grade privacy on public blockchains",
+  "raw_content": "XRPL is integrating Boundless’ zero-knowledge tech into its base layer, stepping into the race to offer banks confidential onchain transactions without losing regulatory visibility.",
+  "source_url": "https://cointelegraph.com/news/xrpl-taps-boundless-for-bank-grade-privacy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T13:00:00+00:00",
+  "id": "6760d49d-f74b-424d-9007-15622e53447f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T14:03:55.677063+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

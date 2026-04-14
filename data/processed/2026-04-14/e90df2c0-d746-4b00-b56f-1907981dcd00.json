@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "OneCoin victims get a $40 million lifeline more than a decade after the scam began",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/14/u-s-doj-opens-up-claim-process-for-victims-of-onecoin-s-usd4-billion-fraud-case",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T11:17:08+00:00",
+  "id": "e90df2c0-d746-4b00-b56f-1907981dcd00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T14:03:55.710964+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

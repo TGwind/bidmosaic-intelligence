@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin, ether in Goldilocks rally while smaller coins take a back seat",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/daybook-us/2026/04/14/bitcoin-ether-in-goldilocks-rally-while-smaller-coins-take-a-back-seat",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T11:17:50+00:00",
+  "id": "ef502e7b-b115-4bb1-af9a-729387f171fd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T14:03:55.712477+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

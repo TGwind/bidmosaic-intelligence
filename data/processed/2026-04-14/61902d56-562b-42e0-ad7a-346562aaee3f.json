@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CoinDesk 20 performance update: Ethereum (ETH) price rises 5.4%",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-indices/2026/04/14/coindesk-20-performance-update-ethereum-eth-price-rises-5-4",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T13:18:34+00:00",
+  "id": "61902d56-562b-42e0-ad7a-346562aaee3f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T14:03:55.672065+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
