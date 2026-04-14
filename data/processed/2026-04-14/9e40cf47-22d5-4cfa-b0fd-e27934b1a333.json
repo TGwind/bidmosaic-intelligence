@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国3月出口增长2.5%，连增5个月",
+  "raw_content": "2026/04/14 中国海关总署4月14日公布的3月贸易统计（以美元计价）显示，出口同比增长2.5%，达到3210亿美元，连续第5个月实现正增长。包括电动汽车在内的汽车以及电脑相关产品表现强劲。 不过，出口增速较2月的39.6%明显放缓。进口同比增长27.8%，达到2699亿美元，连续第10个月保持增长。出口减去进口后的贸易顺差为511亿美元。由于进口增速高于出口，贸易顺差较去年同期有所缩小。 从品类来看，汽车出口同比增长超过40%，电脑相关产品也增长近40%。智能手机和稀土（稀有金属）出口同样有所增加。 从地区来看，作为最大出口市场的东盟（ASEAN）增长6.9%，对欧盟（EU）出口增长8.6%。对日本出口也高于去年同期。对美国出口则因去年大幅增长的反作用而转为下降。 同日公布的1至3月累计数据中，出口同比增长14.7%，达到9774亿美元，增幅为2021年10月至12月以来最大。进口同比增长22.7%，达到7131亿美元。",
+  "source_url": "http://cn.nikkei.com/china/ceconomy/62142-2026-04-14-08-02-50.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-14T06:08:03+00:00",
+  "id": "9e40cf47-22d5-4cfa-b0fd-e27934b1a333",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T09:29:34.235574+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
