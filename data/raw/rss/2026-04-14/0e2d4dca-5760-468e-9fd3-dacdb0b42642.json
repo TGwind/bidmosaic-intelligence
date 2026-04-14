@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "索尼停止出货蓝光设备",
+  "raw_content": "<div>2026/04/14</div><div id=\"contentDiv\">\n<div></div>\n<div>      继东芝的REGZA之后，索尼也宣布退出蓝光设备生产。蓝光光盘（BD）录像机的供应商将仅剩松下和夏普。</div>\n<div>  </div>\n<div>      索尼已停止蓝光光盘（BD）录像机的出货。作为在家保存电视节目的主要手段，BD录像机的供应企业如今只剩松下和夏普。“追星”活动群体等对此发出担忧之声。</div>\n<div> </div>\n<div>      一名30多岁的女性公司职员、偶像组合“B&amp;ZAI”“KAT-TUN”的粉丝表示：“有偶像出演的节目，我会剪辑只保留想看的片段，然后刻录到BD上。”她会将综艺节目、音乐节目和电视剧等录制内容像拼图一样组合，尽量压缩到一张光盘的容量内保存。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/62131-2026-04-14-08-03-22.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-14T01:08:03+00:00",
+  "id": "0e2d4dca-5760-468e-9fd3-dacdb0b42642",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

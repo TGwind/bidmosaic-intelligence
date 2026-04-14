@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Dogecoin climbs 3% toward 10-cents as ether breakout drive memecoin bets",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/14/dogecoin-climbs-3-toward-10-cents-as-ether-breakout-drive-memecoin-bets",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T05:16:57+00:00",
+  "id": "d9f1ea24-055e-4bf7-b4d4-537fadc241ef",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

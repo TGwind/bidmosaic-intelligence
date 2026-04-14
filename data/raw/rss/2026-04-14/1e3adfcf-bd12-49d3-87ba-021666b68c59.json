@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Lyria 3 Pro: Create longer tracks in more Google products",
+  "raw_content": "Sizzle video showing new capabilities from Lyria 3 Pro",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-25T16:00:00+00:00",
+  "id": "1e3adfcf-bd12-49d3-87ba-021666b68c59",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
