@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Justice Department opens compensation for victims of $4B OneCoin crypto fraud",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Justice Department opens compensation for victims of $4B OneCoin crypto fraud\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDhhMGEtMDczZi03YzcxLWIyMzktNTM3MTA5MTUzMzkyLmpwZw==.jpg\" /></p><p>OneCoin was launched by Ruja Ignatova and Karl Sebastian Greenwood in Bulgaria. Ignatova has been missing since 2017, and Greenwood was sentenced to 20 years in prison.</p>",
+  "source_url": "https://cointelegraph.com/news/doj-onecoin-compensation-victims-crypto-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T06:05:49+00:00",
+  "id": "85f997e9-007b-49e1-b69c-d4cd29ac0793",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

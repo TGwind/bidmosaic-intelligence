@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "闯入中国大使馆的日本陆上自卫队队员再次被逮捕",
+  "raw_content": "<div>2026/04/14</div><div id=\"contentDiv\">\n<div></div>\n<div>      在日本陆上自卫队队员闯入中国大使馆事件中，日本警视厅公安部于4月14日以在使馆内无正当理由携带刀具为由，以违反《枪刀法》的嫌疑，再次逮捕了隶属于陆上自卫队虾野驻屯地（宫崎县虾野市）的三等陆尉、23岁的嫌疑人村田晃大。</div>\n<div> </div>\n<div>      再次逮捕的嫌疑是3月24日在东京都港区的中国大使馆内，在背包中携带一把刀刃长度为18厘米的刀具。根据日本警方消息，村田晃大嫌疑人目前保持沉默。</div>\n<div>  </div>\n<div>      该事件发生于3月24日上午9时左右，村田晃大嫌疑人因涉嫌非法侵入建筑物被逮捕。在其进入使馆后，刀具被认为藏在院内的绿化灌木中。该刀具是在东京都内的商店购买的。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62140-2026-04-14-08-02-52.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-14T03:38:03+00:00",
+  "id": "fe15b210-fc48-4f0d-a037-a08f25adde39",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
