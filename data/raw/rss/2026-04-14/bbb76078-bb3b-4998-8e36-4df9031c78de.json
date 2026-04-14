@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Explainable Planning for Hybrid Systems",
+  "raw_content": "arXiv:2604.09578v1 Announce Type: new \nAbstract: The recent advancement in artificial intelligence (AI) technologies facilitates a paradigm shift toward automation. Autonomous systems are fully or partially replacing manually crafted ones. At the core of these systems is automated planning. With the advent of powerful planners, automated planning is now applied to many complex and safety-critical domains, including smart energy grids, self-driving cars, warehouse automation, urban and air traffic control, search and rescue operations, surveillance, robotics, and healthcare. There is a growing need to generate explanations of AI-based systems, which is one of the major challenges the planning community faces today. The thesis presents a comprehensive study on explainable artificial intelligence planning (XAIP) for hybrid systems that capture a representation of real-world problems closely.",
+  "source_url": "https://arxiv.org/abs/2604.09578",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-14T04:00:00+00:00",
+  "id": "bbb76078-bb3b-4998-8e36-4df9031c78de",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

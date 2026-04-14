@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Deutsche Börse invests $200 million in Kraken parent Payward",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Deutsche Börse invests $200 million in Kraken parent Payward\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDhiYTctM2ZmMy03Yzg1LThhYTEtMTQwMDk2YTEwZWNmLmpwZw==.jpg\" /></p><p>Deutsche Börse said it will invest $200 million in Kraken’s parent company for a fully diluted stake of 1.5%, subject to regulatory approval.</p>",
+  "source_url": "https://cointelegraph.com/news/deutsche-borse-invest-200m-kraken-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T11:18:43+00:00",
+  "id": "fdb5d40f-7b35-47d0-8951-cb534c71021f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
