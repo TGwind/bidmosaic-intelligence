@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《明日方舟：终末地》核心章节「春晓时」版本PV",
+  "raw_content": "所有的暗流，终在此刻化作巨浪。\n这一次，我们同舟共济。",
+  "source_url": "https://www.bilibili.com/video/BV1YMQMB6Ex5",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T13:29:13.451331+00:00",
+  "id": "73abc8a1-8c6a-4792-b83c-06d3ef3d86f3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4887602,
+    "platform": "bilibili"
+  }
+}

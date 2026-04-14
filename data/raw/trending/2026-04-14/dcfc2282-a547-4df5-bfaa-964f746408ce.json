@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "西域战神2.0",
+  "raw_content": "卖布的是@-张neinei_  买鸡的是@周大年YJ 剃头的是：孙豹豹 音频制作后期是：@洛温阿特金森",
+  "source_url": "https://www.bilibili.com/video/BV1WnDCBxECZ",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T13:29:13.451340+00:00",
+  "id": "dcfc2282-a547-4df5-bfaa-964f746408ce",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3132174,
+    "platform": "bilibili"
+  }
+}
