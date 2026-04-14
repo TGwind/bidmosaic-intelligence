@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "天生鬼才 翻唱（星穹铁道）",
+  "raw_content": "原曲 BV1XVDfBLE3D by 萧敬腾\n混音 三星堆工作组\n任性燃烧嗷嗷嗷嗷～～～～～～wu～#翻唱#崩坏：星穹铁道",
+  "source_url": "https://www.bilibili.com/video/BV16mQABBEqd",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T07:48:12.889537+00:00",
+  "id": "eff7c325-9f7c-4590-a182-96598527527d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1379269,
+    "platform": "bilibili"
+  }
+}
