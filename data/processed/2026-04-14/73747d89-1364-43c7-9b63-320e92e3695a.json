@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers",
+  "raw_content": "arXiv:2604.09576v1 Announce Type: new Abstract: Deploying continual object detection on microcontrollers (MCUs) with under 100KB memory requires efficient feature compression that can adapt to evolving task distributions. Existing approaches rely on fixed compression strategies (e.g., FiLM conditioning) that cannot adapt to heterogeneous task characteristics, leading to suboptimal memory utilization and catastrophic forgetting. We introduce Adaptive Hierarchical Compression (AHC), a meta-learning framework featuring three key innovations: (1) true MAML-based compression that adapts via gradient descent to each new task in just 5 inner-loop steps, (2) hierarchical multi-scale compression with scale-aware ratios (8:1 for P3, 6.4:1 for P4, 4:1 for P5) matching FPN redundancy patterns, and (3) a dual-memory architecture combining short-term and long-term banks with importance-based consolidation under a hard 100KB budget. We provide formal theoretical guarantees bounding catastrophic forgetting as O({\\epsilon}{sq.root(T)} + 1/{sq.root(M)}) where {\\epsilon} is compression error, T is task count, and M is memory size. Experiments on CORe50, TiROD, and PASCAL VOC benchmarks with three standard baselines (Fine-tuning,EWC, iCaRL) demonstrate that AHC enables practical continual detection within a 100KB replay budget, achieving competitive accuracy through mean-pooled compressed feature replay combined with EWC regularization and feature distillation.",
+  "source_url": "https://arxiv.org/abs/2604.09576",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-14T04:00:00+00:00",
+  "id": "73747d89-1364-43c7-9b63-320e92e3695a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T17:21:03.056435+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

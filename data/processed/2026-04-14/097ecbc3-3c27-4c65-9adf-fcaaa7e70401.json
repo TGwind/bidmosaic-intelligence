@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Amazon to buy Globalstar for $11.57B in bid to flesh out its satellite biz",
+  "raw_content": "Amazon on Tuesday agreed to buy satellite company Globalstar, known for powering Apple's \"Emergency SOS\" feature, for $11.57 billion in cash.",
+  "source_url": "https://techcrunch.com/2026/04/14/amazon-to-buy-globalstar-for-11-57b-in-bid-to-flesh-out-its-satellite-biz/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-14T13:55:42+00:00",
+  "id": "097ecbc3-3c27-4c65-9adf-fcaaa7e70401",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T17:21:02.936950+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
