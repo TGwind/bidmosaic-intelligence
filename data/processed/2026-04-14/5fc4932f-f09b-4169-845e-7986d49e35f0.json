@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "日本警方再次逮捕强闯中国使馆自卫官",
+  "raw_content": "日本警方再次逮捕强闯中国使馆自卫官",
+  "source_url": "https://www.toutiao.com/trending/7628432827289239588/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628432827289239588%22%2C%22hot_board_impr_id%22%3A%22202604141548111C23BC0AA83CEEF0BDDC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E8%AD%A6%E6%96%B9%E5%86%8D%E6%AC%A1%E9%80%AE%E6%8D%95%E5%BC%BA%E9%97%AF%E4%B8%AD%E5%9B%BD%E4%BD%BF%E9%A6%86%E8%87%AA%E5%8D%AB%E5%AE%98%22%7D&rank=&style_id=40132&topic_id=7628432827289239588",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T07:48:11.923955+00:00",
+  "id": "5fc4932f-f09b-4169-845e-7986d49e35f0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T07:48:49.741121+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "26234919",
+    "platform": "toutiao"
+  }
+}

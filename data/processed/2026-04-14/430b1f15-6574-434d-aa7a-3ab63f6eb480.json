@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "如何熬过人生低谷",
+  "raw_content": "如何熬过人生低谷",
+  "source_url": "https://www.toutiao.com/trending/7628386445023739940/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628386445023739940%22%2C%22hot_board_impr_id%22%3A%22202604141548111C23BC0AA83CEEF0BDDC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A6%82%E4%BD%95%E7%86%AC%E8%BF%87%E4%BA%BA%E7%94%9F%E4%BD%8E%E8%B0%B7%22%7D&rank=&style_id=40132&topic_id=7628386445023739940",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T07:48:11.923996+00:00",
+  "id": "430b1f15-6574-434d-aa7a-3ab63f6eb480",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T07:48:49.739451+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15912282",
+    "platform": "toutiao"
+  }
+}

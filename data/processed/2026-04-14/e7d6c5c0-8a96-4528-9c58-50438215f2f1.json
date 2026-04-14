@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "拉夫罗夫抵京 这次也没系领带",
+  "raw_content": "拉夫罗夫抵京 这次也没系领带",
+  "source_url": "https://www.toutiao.com/trending/7627659947618533395/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227627659947618533395%22%2C%22hot_board_impr_id%22%3A%22202604141548111C23BC0AA83CEEF0BDDC%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E6%8A%B5%E4%BA%AC+%E8%BF%99%E6%AC%A1%E4%B9%9F%E6%B2%A1%E7%B3%BB%E9%A2%86%E5%B8%A6%22%7D&rank=&style_id=40132&topic_id=7627659947618533395",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T07:48:11.923904+00:00",
+  "id": "e7d6c5c0-8a96-4528-9c58-50438215f2f1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T07:48:49.748545+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "39137900",
+    "platform": "toutiao"
+  }
+}

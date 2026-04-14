@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "选一条路，决定你接下来的旅途",
+  "raw_content": "选一条路，决定你接下来的旅途。 视频画面为AI生成，虚构剧情，仅供娱乐。",
+  "source_url": "https://www.bilibili.com/video/BV1FeD1BsEQq",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T07:48:12.889485+00:00",
+  "id": "7ea49f7d-4c4f-4182-8a00-f466dd6432f0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T07:48:49.743980+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2105498,
+    "platform": "bilibili"
+  }
+}

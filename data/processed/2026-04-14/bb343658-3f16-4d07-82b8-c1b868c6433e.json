@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "世界互联网大会亚太峰会在香港举行",
-  "raw_content": "世界互联网大会亚太峰会在香港举行",
-  "source_url": "https://www.toutiao.com/article/7628050652098298410",
+  "raw_title": "向着制造强国加速迈进",
+  "raw_content": "向着制造强国加速迈进",
+  "source_url": "https://www.toutiao.com/article/7628256965247926818",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-14T02:39:17.883114+00:00",
-  "id": "664e4a94-11e1-4241-bd55-b7d4f82bb8b4",
+  "collected_at": "2026-04-14T07:48:11.923867+00:00",
+  "id": "bb343658-3f16-4d07-82b8-c1b868c6433e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-14T07:48:49.742256+00:00",
+  "processed_at": "2026-04-14T07:48:49.747713+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "38879926",
+    "hot_score": "47803139",
     "platform": "toutiao"
   }
 }

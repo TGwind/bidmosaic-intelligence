@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "五年了，他还是坐上了这个位置…（谋权篡位10）",
+  "raw_content": "纯属节目效果，请勿当真！ 希望观众老爷喜欢这个系列！ 素质三连，创作不易，希望你喜欢！",
+  "source_url": "https://www.bilibili.com/video/BV1H7QFBaERe",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T07:48:12.889528+00:00",
+  "id": "0d27688e-97e3-4e4f-a64d-33e805ad8d0b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T07:48:49.736983+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6386988,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "我们喝醉之后，把自己录了下来...（1）",
+  "raw_content": "请勿模仿 未成年人禁止饮酒 饮酒请适量 开车不喝酒，喝酒不开车 过量饮酒有害身体健康",
+  "source_url": "https://www.bilibili.com/video/BV1vZQNBzEr7",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T07:48:12.889520+00:00",
+  "id": "0e9f46c1-5c3f-4190-9e68-65490f33184c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T07:48:49.737883+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2504956,
+    "platform": "bilibili"
+  }
+}
