@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "影视飓风员工，摸鱼都去哪儿？",
+  "raw_content": "我们公司一直缺一个真正能放松吃饭的地方。很久以前我们就想拿出一整栋楼，专门给大家做休闲娱乐用。今天，这件事总算有了一点进展。所以我们想带你来看看——影视飓风的3号楼。如果你喜欢这期视频，请多多支持我们，并把视频分享给你的朋友们一起看看！",
+  "source_url": "https://www.bilibili.com/video/BV115DDBkEvD",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T13:29:13.451373+00:00",
+  "id": "1953e9fa-0c1b-496c-9278-2f8e4643a1c2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-14T13:29:55.066787+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3679721,
+    "platform": "bilibili"
+  }
+}
