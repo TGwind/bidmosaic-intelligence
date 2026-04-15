@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本拟将石油和天然气衍生化工品列为重要物资",
+  "raw_content": "2026/04/15 日本经济产业省计划最早于2026年度，将石油和天然气衍生的化工产品指定为支持稳定供应的“特定重要物资”。对象范围将从重要矿产和半导体等原材料、下游产品，扩大至中间材料。 受中东局势紧张影响，以石脑油（粗汽油）为原料的乙烯等中间材料出现供应不安。日本经济产业省此前已将对海外依赖视为问题，此次因风险显现而加快讨论，将通过支持引入生产设备来完善国内供应链。 相关内容将写入基于地缘政治风险强化国内制造基础的讨论报告，并于近期公布。在与负责《经济安全保障推进法》的内阁府协调后，力争在2026年度内实现。相关指定需要修改政令。 重点考虑将基础化工品和经过化学处理的中间材料，即“通用化学品”纳入范围。基础化学品包括石油来源的乙烯、丙烯，以及天然气来源的甲醇等；中间材料则包括石油来源的合成橡胶，以及天然气来源的医药原料等。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/economic-policy/62149-2026-04-15-08-06-57.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-15T01:08:03+00:00",
+  "id": "1cd27c9a-918d-4bc6-8182-22769222e527",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T03:29:28.502238+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

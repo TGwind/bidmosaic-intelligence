@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "国共领袖时隔十年会晤 台湾民众怎么看？",
+  "raw_content": "你的器材不支持播放多媒体材料国共领袖时隔十年会晤 台湾民众怎么看？国共领袖时隔十年会晤 台湾民众怎么看？22 分钟前中国国民党主席郑丽文上周访问大陆，4月10日在北京和中共中央总书记习近平会面。这是继2016年“洪习会”后，国共两党最高领导人时隔十年的正式会面。 行程结束后，中共官方宣布多项政策，包括推动部分陆客赴台自由行试点、恢复两岸直航以及台湾渔获与影视作品进口等措施。BBC中文走访台北街头，采访台湾民众对此次会谈的看法。",
+  "source_url": "https://www.bbc.com/zhongwen/articles/cvgeewwyzk0o/simp#2",
+  "source_name": "BBC中文",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-14T12:43:05+00:00",
+  "id": "add5c4d1-5985-4c9d-8b32-f45d6f872b4c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T03:29:28.566087+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/bbc.xml",
+    "category": "china_news",
+    "source_type": "wire",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

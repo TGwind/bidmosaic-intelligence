@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "印度2025财年新车销量增长9%，创新高",
+  "raw_content": "2026/04/15 印度汽车工业协会（SIAM）4月14日表示，2025财年印度国内新车销量（含商用车）同比增长9%，达到572万3310辆，创历史新高。其中SUV大幅增长，减税和货币宽松构成利好。 具体来看，乘用车增长8%至464万3439辆，商用车增长13%至107万9871辆，均创历史新高。 乘用车中，以SUV为主的多用途车型增长11%，占整体近七成。随着中产阶层收入持续提升，对家庭用及高功能SUV的需求增强。 按厂商划分，最大企业马鲁蒂铃木销量增长4%至182万3129辆，但市场份额下降1.6个百分点至39.3%，跌破40%。其后依次为马恒达、塔塔汽车以及现代汽车等。 印度政府于2025年9月下调了相当于消费税的商品与服务税（GST）。印度汽车工业协会会长沙伊莱什·钱德拉14日表示，“GST改革以及（印度央行的）降息提振了消费者信心”。",
+  "source_url": "http://cn.nikkei.com/industry/icar/62148-2026-04-15-08-07-02.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-15T01:08:03+00:00",
+  "id": "1d3bd445-b25a-49ff-ad35-67fd7a75452d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T03:29:28.502590+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

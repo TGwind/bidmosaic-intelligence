@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin shows ‘bull market behavior’ as chart pattern targets $90K",
+  "raw_content": "Bitcoin rallied to $76,000 on Tuesday as a bullish chart breakout and increasing onchain activity hint at an extended rally to $90,000.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-shows-bull-market-behavior-as-chart-pattern-targets-dollar90k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-14T23:15:00+00:00",
+  "id": "f38ec658-be69-41b5-858a-47a394611b6e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T03:29:28.607920+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
