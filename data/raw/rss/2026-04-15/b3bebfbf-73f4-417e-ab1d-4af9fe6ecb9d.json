@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普称“伊朗谈判可能在两天内重启”",
+  "raw_content": "<div>2026/04/15</div><div id=\"contentDiv\">\n<div></div><div>围绕核问题的分歧，特朗普本人也可能被迫作出让步。能否就禁止铀浓缩的期限等达成协议，将左右谈判成败……</div>\n\n\n<div>\n\t<div>\n\t\t<p><strong>敬请登录以便观看全部文章</strong></div>\n\t\t<p>如果您已经是日经中文网会员，请点击<a href=\"https://cn.nikkei.com/user/login.html\">此处</a>，进行登录。 </div>\n\t\t<div>如果您还不是日经中文网会员，请点击<a href=\"https://cn.nikkei.com/user/register.html\">此处</a>，进行会员<span>免费</span>注册。 </div>\n\t</div><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62150-2026-04-15-08-08-51.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-15T01:08:03+00:00",
+  "id": "b3bebfbf-73f4-417e-ab1d-4af9fe6ecb9d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
