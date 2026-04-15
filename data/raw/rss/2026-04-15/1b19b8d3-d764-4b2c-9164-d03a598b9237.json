@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Memory as Metabolism: A Design for Companion Knowledge Systems",
+  "raw_content": "arXiv:2604.12034v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation remains the dominant pattern for giving LLMs persistent memory, but a visible cluster of personal wiki-style memory architectures emerged in April 2026 -- design proposals from Karpathy, MemPalace, and LLM Wiki v2 that compile knowledge into an interlinked artifact for long-term use by a single user. They sit alongside production memory systems that the major labs have shipped for over a year, and an active academic lineage including MemGPT, Generative Agents, Mem0, Zep, A-Mem, MemMachine, SleepGate, and Second Me. Within a 2026 landscape of emerging governance frameworks for agent context and memory -- including Context Cartography and MemOS -- this paper proposes a companion-specific governance profile: a set of normative obligations, a time-structured procedural rule, and testable conformance invariants for the specific failure mode of entrenchment under user-coupled drift in single-user knowledge wikis built on the LLM wiki pattern.\n  The design principle is that personal LLM memory is a companion system: its job is to mirror the user on operational dimensions (working vocabulary, load-bearing structure, continuity of context) and compensate on epistemic failure modes (entrenchment, suppression of contradicting evidence, Kuhnian ossification). Five operations implement this split -- TRIAGE, DECAY, CONTEXTUALIZE, CONSOLIDATE, AUDIT -- supported by memory gravity and minority-hypothesis retention. The sharpest prediction: accumulated contradictory evidence should have a structural path to updating a centrality-protected dominant interpretation through multi-cycle buffer pressure accumulation, a failure mode no existing benchmark captures. The safety story at the single-agent level is partial, and the paper is explicit about what it does and does not solve.",
+  "source_url": "https://arxiv.org/abs/2604.12034",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-15T04:00:00+00:00",
+  "id": "1b19b8d3-d764-4b2c-9164-d03a598b9237",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
