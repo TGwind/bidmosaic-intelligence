@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin pulls back as $75,000 remains 'both the milestone and the ceiling'",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/15/bitcoin-pulls-back-as-usd75-000-remains-both-the-milestone-and-the-ceiling",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T11:09:30+00:00",
+  "id": "cc2b53c7-f1bc-4d77-a31a-98a37d896236",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T13:57:08.649676+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

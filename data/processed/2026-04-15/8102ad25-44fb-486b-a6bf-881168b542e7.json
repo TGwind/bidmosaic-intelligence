@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Pakistan allows banks to serve licensed crypto firms after years-long ban",
+  "raw_content": "Pakistan’s central bank has allowed banks to open accounts for licensed virtual asset service providers, ending years of restrictions and marking a shift toward a regulated framework.",
+  "source_url": "https://cointelegraph.com/news/pakistan-allows-banks-to-serve-licensed-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T10:51:28+00:00",
+  "id": "8102ad25-44fb-486b-a6bf-881168b542e7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T13:57:08.628764+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

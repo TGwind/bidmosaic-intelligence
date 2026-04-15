@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "This energy startup’s bet on 100-year-old grid tech is paying off",
+  "raw_content": "Ayr Energy is using a shortage of power conversion equipment to break open a decades-old market.",
+  "source_url": "https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-15T13:00:00+00:00",
+  "id": "2c654a24-b1d9-4e35-bea0-eea6e75ae469",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T13:57:08.584682+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

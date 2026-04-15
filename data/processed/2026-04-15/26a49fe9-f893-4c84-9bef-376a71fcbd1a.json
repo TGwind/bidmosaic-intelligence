@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Only 4% of Danish citizens hold crypto, far below other European countries",
+  "raw_content": "Only 4% of Danish citizens own crypto, far below other European countries, as banks, taxes and risk fears limit adoption, according to a new staff paper from the country's central bank.",
+  "source_url": "https://cointelegraph.com/news/denmark-crypto-ownership-4-percent-nationalbank-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T13:23:49+00:00",
+  "id": "26a49fe9-f893-4c84-9bef-376a71fcbd1a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T13:57:08.566462+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

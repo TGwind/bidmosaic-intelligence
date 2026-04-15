@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "EU adviser says ‘MiCA 2’ is likely as crypto market matures: PBW 2026",
+  "raw_content": "EU officials plan to reassess MiCA as companies test its limits, with industry feedback set to shape potential changes to the bloc’s crypto framework.",
+  "source_url": "https://cointelegraph.com/news/eu-adviser-says-mica-2-is-likely-as-crypto-market-matures-pbw-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T10:43:52+00:00",
+  "id": "d646fdc1-49c0-4ac8-a9f6-b84514a08562",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T13:57:08.654604+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
