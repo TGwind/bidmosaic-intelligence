@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "大虾怎么烤，从选材到穿串烤制过程，一镜到底详细教程整理出来了！",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1wfDDBrETb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-15T19:19:51.890089+00:00",
+  "id": "1c29eee0-d711-4018-9f1b-e32393595d4f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1941326,
+    "platform": "bilibili"
+  }
+}
