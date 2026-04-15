@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Apple removes fake Ledger app that stole $9.5M from crypto investors",
+  "raw_content": "Apple told Cointelegraph that the fake Ledger Live app was removed and that the developer was terminated from its app store.",
+  "source_url": "https://cointelegraph.com/news/apple-removes-fake-ledger-app-stole-9-million-from-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T06:01:17+00:00",
+  "id": "99da6541-e6fe-40ed-b999-7bb5088b0b0e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T09:45:29.900571+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

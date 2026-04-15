@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "美方封锁霍尔木兹海峡24小时，6艘商船掉头",
+  "raw_content": "2026/04/15 负责中东事务的美国中央司令部4月14日表示，在美国对霍尔木兹海峡实施封锁措施后的24小时内，有6艘商船按照指示掉头返回，并重新进入位于阿曼湾的伊朗港口。 美国中央司令部强调，自封锁开始后的24小时内，“没有任何船只突破封锁”。 对于未曾停靠伊朗港口的商船，其通行状况有所改善。据华尔街日报援引美国官员消息称，在过去24小时内已有超过20艘商船通过霍尔木兹海峡，其中包括进出波斯湾的货船和油轮。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62160-2026-04-15-13-44-43.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-15T06:08:03+00:00",
+  "id": "30f2d40d-1580-441f-9088-89dbbf23bed7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T09:45:29.838746+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

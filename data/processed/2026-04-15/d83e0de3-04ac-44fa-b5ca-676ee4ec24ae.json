@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "North Korean hackers used AI-enabled social engineering in Zerion attack",
+  "raw_content": "It is the second long-term social-engineering attack this month, after the $280 million exploit of the Drift Protocol.",
+  "source_url": "https://cointelegraph.com/news/north-korean-hackers-use-ai-enabled-social-engineering-latest-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T06:31:17+00:00",
+  "id": "d83e0de3-04ac-44fa-b5ca-676ee4ec24ae",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T09:45:29.917556+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

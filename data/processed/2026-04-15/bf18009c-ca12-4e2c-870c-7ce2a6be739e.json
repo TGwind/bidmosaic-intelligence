@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin ETFs post $412M in inflows as Goldman Sachs files for BTC ETF",
+  "raw_content": "US-listed spot Bitcoin ETFs posted $411.5 million in inflows Tuesday as Goldman Sachs filed for a Bitcoin-linked ETF, lifting 2026 net flows back into positive territory.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-etfs-inflows-412-million-goldman-sachs-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T08:51:25+00:00",
+  "id": "bf18009c-ca12-4e2c-870c-7ce2a6be739e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T09:45:29.912987+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

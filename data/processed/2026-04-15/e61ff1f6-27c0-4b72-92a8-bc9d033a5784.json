@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto users targeted in ‘elaborate’ scam using popular notes app",
+  "raw_content": "Elastic Security Labs says a multi-step social engineering scam is aimed at those in crypto and finance, using a community plugin feature on a note-taking app to spread malicious device-controlling software.",
+  "source_url": "https://cointelegraph.com/news/crypto-users-targeted-elaborate-scam-popular-notes-app-obsidian?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T06:24:37+00:00",
+  "id": "e61ff1f6-27c0-4b72-92a8-bc9d033a5784",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T09:45:29.919268+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
