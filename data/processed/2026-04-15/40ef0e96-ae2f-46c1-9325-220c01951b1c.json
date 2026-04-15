@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "别克全网寻找高速上挡风破碎私家车",
+  "raw_content": "别克全网寻找高速上挡风破碎私家车",
+  "source_url": "https://www.toutiao.com/trending/7628786374090539014/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628786374090539014%22%2C%22hot_board_impr_id%22%3A%22202604152126521FEE6C4A5DD329811D72%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%AB%E5%85%8B%E5%85%A8%E7%BD%91%E5%AF%BB%E6%89%BE%E9%AB%98%E9%80%9F%E4%B8%8A%E6%8C%A1%E9%A3%8E%E7%A0%B4%E7%A2%8E%E7%A7%81%E5%AE%B6%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7628786374090539014",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-15T13:26:52.387425+00:00",
+  "id": "40ef0e96-ae2f-46c1-9325-220c01951b1c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T13:27:29.595964+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10925747",
+    "platform": "toutiao"
+  }
+}

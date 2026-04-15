@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "第139届广交会今天正式开展",
-  "raw_content": "第139届广交会今天正式开展",
-  "source_url": "https://www.toutiao.com/article/7628768531131236879",
+  "raw_title": "第六届消博会有哪些看点",
+  "raw_content": "第六届消博会有哪些看点",
+  "source_url": "https://www.toutiao.com/article/7628592579885679144",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-15T07:48:37.669102+00:00",
-  "id": "568f6551-c94c-450b-b0f3-489e4ec8506d",
+  "collected_at": "2026-04-15T13:26:52.387390+00:00",
+  "id": "29b43220-f0a3-4ca9-93c0-d9a713768326",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-15T13:27:29.600336+00:00",
+  "processed_at": "2026-04-15T13:27:29.590593+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "19074355",
+    "hot_score": "16299299",
     "platform": "toutiao"
   }
 }
