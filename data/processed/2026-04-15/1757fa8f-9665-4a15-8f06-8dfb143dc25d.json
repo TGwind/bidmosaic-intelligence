@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "郭德纲：我的搭档于谦",
+  "raw_content": "郭德纲：我的搭档于谦",
+  "source_url": "https://www.toutiao.com/trending/7628488855349018665/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628488855349018665%22%2C%22hot_board_impr_id%22%3A%2220260415103724CE50993C1F468BB33930%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%AD%E5%BE%B7%E7%BA%B2%EF%BC%9A%E6%88%91%E7%9A%84%E6%90%AD%E6%A1%A3%E4%BA%8E%E8%B0%A6%22%7D&rank=&style_id=40132&topic_id=7628488855349018665",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-15T02:37:24.625099+00:00",
+  "id": "1757fa8f-9665-4a15-8f06-8dfb143dc25d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T02:38:05.100634+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13427119",
+    "platform": "toutiao"
+  }
+}
