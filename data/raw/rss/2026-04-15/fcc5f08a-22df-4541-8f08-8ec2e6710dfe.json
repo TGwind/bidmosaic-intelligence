@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+  "raw_content": "Our newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.",
+  "source_url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-15T16:03:19+00:00",
+  "id": "fcc5f08a-22df-4541-8f08-8ec2e6710dfe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

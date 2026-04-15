@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "WiseOWL: A Methodology for Evaluating Ontological Descriptiveness and Semantic Correctness for Ontology Reuse and Ontology Recommendations",
+  "raw_content": "arXiv:2604.12025v1 Announce Type: new \nAbstract: The Semantic Web standardizes concept meaning for humans and machines, enabling machine-operable content and consistent interpretation that improves advanced analytics. Reusing ontologies speeds development and enforces consistency, yet selecting the optimal choice is challenging because authors lack systematic selection criteria and often rely on intuition that is difficult to justify, limiting reuse. To solve this, WiseOWL is proposed, a methodology with scoring and guidance to select ontologies for reuse. It scores four metrics: (i) Well-Described, measuring documentation coverage; (ii) Well-Defined, using state-of-the-art embeddings to assess label-definition alignment; (iii) Connection, capturing structural interconnectedness; and (iv) Hierarchical Breadth, reflecting hierarchical balance. WiseOWL outputs normalized 0-10 scores with actionable feedback. Implemented as a Streamlit app, it ingests OWL format, converts to RDF Turtle, and provides interactive visualizations. Evaluation across six ontologies, including the Plant Ontology (PO), Gene Ontology (GO), Semanticscience Integrated Ontology (SIO), Food Ontology (FoodON), Dublin Core (DC), and GoodRelations, demonstrates promising effectiveness.",
+  "source_url": "https://arxiv.org/abs/2604.12025",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-15T04:00:00+00:00",
+  "id": "4c90f115-339c-4e85-8eb3-8d93502eb07c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

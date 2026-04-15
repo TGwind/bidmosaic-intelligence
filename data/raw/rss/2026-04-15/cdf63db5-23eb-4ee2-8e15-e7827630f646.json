@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Hacker Compromises a16z-Backed Phone Farm, Tries to Post Memes Calling a16z the ‘Antichrist’",
+  "raw_content": "Doublespeed uses a phone farm to flood social media with AI-generated influencers. A hacker managed to get into a backend system of the company.",
+  "source_url": "https://www.404media.co/hacker-compromises-a16z-backed-phone-farm-tries-to-post-memes-calling-a16z-the-antichrist/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-13T16:11:30+00:00",
+  "id": "cdf63db5-23eb-4ee2-8e15-e7827630f646",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

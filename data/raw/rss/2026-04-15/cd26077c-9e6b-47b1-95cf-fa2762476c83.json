@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Prediction market volumes to hit $1 trillion by 2030 with Robinhood, Coinbase as key players, Bernstein says",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/15/prediction-market-volumes-to-hit-usd1-trillion-by-2030-with-robinhood-coinbase-as-key-players-bernstein-says",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T12:55:54+00:00",
+  "id": "cd26077c-9e6b-47b1-95cf-fa2762476c83",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
