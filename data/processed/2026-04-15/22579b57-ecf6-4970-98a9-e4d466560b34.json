@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "把苹果切到连爹妈都不认识的样子",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1QwDDBDEAA",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-15T19:19:51.890104+00:00",
+  "id": "22579b57-ecf6-4970-98a9-e4d466560b34",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T19:20:47.401527+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3751108,
+    "platform": "bilibili"
+  }
+}
