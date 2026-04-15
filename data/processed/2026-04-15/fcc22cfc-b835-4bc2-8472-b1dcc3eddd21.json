@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "国台办：和统后台湾无需巨额防务支出",
+  "raw_content": "国台办：和统后台湾无需巨额防务支出",
+  "source_url": "https://www.toutiao.com/trending/7628757737240985619/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628757737240985619%22%2C%22hot_board_impr_id%22%3A%2220260415154837914F0E72A02A4C0A07E9%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%8F%B0%E5%8A%9E%EF%BC%9A%E5%92%8C%E7%BB%9F%E5%90%8E%E5%8F%B0%E6%B9%BE%E6%97%A0%E9%9C%80%E5%B7%A8%E9%A2%9D%E9%98%B2%E5%8A%A1%E6%94%AF%E5%87%BA%22%7D&rank=&style_id=40132&topic_id=7628757737240985619",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-15T07:48:37.669145+00:00",
+  "id": "fcc22cfc-b835-4bc2-8472-b1dcc3eddd21",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T07:49:15.679969+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "11569181",
+    "platform": "toutiao"
+  }
+}

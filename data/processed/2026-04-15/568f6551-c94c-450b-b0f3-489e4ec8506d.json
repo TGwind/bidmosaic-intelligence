@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "我国再次成功发射一箭8星",
-  "raw_content": "我国再次成功发射一箭8星",
-  "source_url": "https://www.toutiao.com/article/7628469850477691430",
+  "raw_title": "第139届广交会今天正式开展",
+  "raw_content": "第139届广交会今天正式开展",
+  "source_url": "https://www.toutiao.com/article/7628768531131236879",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-15T02:37:24.625009+00:00",
-  "id": "65f8c611-14a4-4ca2-a5c3-1735bfed3df0",
+  "collected_at": "2026-04-15T07:48:37.669102+00:00",
+  "id": "568f6551-c94c-450b-b0f3-489e4ec8506d",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-15T07:49:15.675332+00:00",
+  "processed_at": "2026-04-15T07:49:15.673948+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "40337295",
+    "hot_score": "19074355",
     "platform": "toutiao"
   }
 }
