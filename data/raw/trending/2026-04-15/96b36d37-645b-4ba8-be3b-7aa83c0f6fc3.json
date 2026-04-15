@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "农历二月二十九有哪些习俗",
+  "raw_content": "农历二月二十九有哪些习俗",
+  "source_url": "https://www.toutiao.com/trending/7628868629282635818/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2210%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628868629282635818%22%2C%22hot_board_impr_id%22%3A%22202604152126521FEE6C4A5DD329811D72%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%86%9C%E5%8E%86%E4%BA%8C%E6%9C%88%E4%BA%8C%E5%8D%81%E4%B9%9D%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B9%A0%E4%BF%97%22%7D&rank=&style_id=40132&topic_id=7628868629282635818",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-15T13:26:52.387433+00:00",
+  "id": "96b36d37-645b-4ba8-be3b-7aa83c0f6fc3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9886025",
+    "platform": "toutiao"
+  }
+}
