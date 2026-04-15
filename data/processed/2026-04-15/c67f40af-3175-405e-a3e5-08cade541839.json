@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "EIP-8105: A new design for Ethereum’s encrypted mempool",
+  "raw_content": "EIP-8105 proposes a scheme-agnostic encrypted mempool for Ethereum, designed to hide transaction payloads until after inclusion and reduce harmful MEV.",
+  "source_url": "https://cointelegraph.com/news/eip-8105-a-new-design-for-ethereums-encrypted-mempool?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T15:00:00+00:00",
+  "id": "c67f40af-3175-405e-a3e5-08cade541839",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T17:17:20.431772+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Senator Elizabeth Warren questions Elon Musk about X Money",
+  "raw_content": "The Massachusetts Democrat has been critical of private companies, including non-bank entities, issuing their own dollar-pegged stablecoins.",
+  "source_url": "https://cointelegraph.com/news/elizabeth-warren-question-musk-x-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T16:16:35+00:00",
+  "id": "16a31d5a-0190-40cc-8aa4-2cce3de80dd6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-15T17:17:20.308352+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
