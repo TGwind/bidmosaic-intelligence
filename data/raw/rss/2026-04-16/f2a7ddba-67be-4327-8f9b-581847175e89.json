@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "3月中国大陆访日客减少55.9%",
+  "raw_content": "<div>2026/04/16</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<span><img height=\"374\" src=\"https://feedx.net/images/2026/04/0416/0416-03-L.jpg\" width=\"600\" /></span>\n\n\n<strong><span>岐阜县高山市的外国游客（资料图）</span></strong>\n\n\n\n<div>   </div>\n<div>       日本国家旅游局（JNTO）4月15日公布的数据显示，3月访日外国游客人数同比增加3.5%，达到361.89万人，刷新3月数据最高纪录。受中东局势恶化导致航班停飞等影响，来自中东的游客减少30.6%，降至1.67万人。</div>\n<div> </div>\n<div>       3月中国大陆游客为29.16万人，减少55.9%，减幅较上月的45.2%出现扩大。中国政府呼吁避免赴日，大陆游客人数连续4个月低于上年同月。不过，其他国家和地区游客的增加弥补了中国大陆和中东游客的减少。</div>\n<div>  </div>\n<div>       按国家和地区来看，人数最多的是韩国，增长15.0%，达到79.56万人。台湾增加24.9%，达到65.33万人。</div>\n<div> </div>\n<div>       访日游客1~3月的消费额为2.3378万亿日元。比上年同期增长2.5%。住宿费占整体的36.7%，购物开销占25.2%。按国家和地区来看，台湾游客消费最多，占整体的16.6%。</div>\n<div> </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/industry/tradingretail/62168-2026-04-16-08-53-58.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T01:08:02+00:00",
+  "id": "f2a7ddba-67be-4327-8f9b-581847175e89",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

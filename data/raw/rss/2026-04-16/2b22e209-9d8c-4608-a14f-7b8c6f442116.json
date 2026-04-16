@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "三得利从第一三共收购OTC业务",
+  "raw_content": "<div>2026/04/16</div><div id=\"contentDiv\">\n<div></div>\n<div>      三得利控股4月15日表示，将从第一三共收购其非处方药子公司第一三共健康护理。预计收购金额为2465亿日元。随着消费者“远离饮酒”的趋势加强，三得利计划将医药与健康食品培育为继酒类和软饮料之后的核心业务。</div>\n<div>  </div>\n<div>      三得利控股将于6月先行取得第一三共健康护理30%的已发行股份，并逐步提高持股比例，计划在2029年6月前完成收购，实现全资子公司化。</div>\n<div> </div>\n<div>      三得利控股目前通过旗下三得利健康事业公司开展健康业务，销售以芝麻成分为基础的“芝麻明”等保健品。</div>\n<div> </div>\n<div>      第一三共健康护理拥有止痛药“洛索洛芬”及综合感冒药“露露”等主要OTC品牌。通过将其纳入集团，三得利控股不仅能够覆盖预防领域，还可拓展至身体不适的整体应对。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/industry/tradingretail/62167-2026-04-16-08-16-53.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T00:38:03+00:00",
+  "id": "2b22e209-9d8c-4608-a14f-7b8c6f442116",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
