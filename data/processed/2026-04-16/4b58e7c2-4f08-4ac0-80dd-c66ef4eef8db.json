@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Fabio Panetta: Address - ordinary meeting of shareholders",
+  "raw_content": "Address by Mr Fabio Panetta, Governor of the Bank of Italy, at an ordinary meeting of shareholders, Rome, 31 March 2026.",
+  "source_url": "https://www.bis.org/review/r260410b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T09:27:03.255225+00:00",
+  "id": "4b58e7c2-4f08-4ac0-80dd-c66ef4eef8db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T09:29:41.225263+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

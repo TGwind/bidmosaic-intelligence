@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日经平均股指收于59518点，创新高",
+  "raw_content": "2026/04/16 日经平均股价指数的收盘价（4月16日，东京都千代田区） 在4月16日的东京股票市场，日经平均股价指数延续上涨势头，收于59518.34点，较前一交易日上涨1384点（2.38%）。这一数字超过了2月27日的58850.27点，创出历史新高。由于市场预期美伊局势得到缓和，投资者风险承受度上升，资金涌入人工智能和半导体相关股票。 投资者担心错过买入良机的焦虑也助长了这波买盘。 日经平均股价指数开盘即开始走高，半导体相关股票涨幅尤为强劲，软银集团一度上涨7.38%，爱德万测试和Tokyo Electron也出现上涨。这三只股票合计推动日经平均股价指数上涨超过700点。 “人工智能和半导体行业受原油价格上涨的影响相对较小，盈利增长预期依然强劲”， Pictet Japan公司投资战略部长田中纯平表示。 这一倾向在美国也十分明显。科技股占比较高的纳斯达克综合指数前一日上涨2%，自2025年10月下旬以来再次创出历史新高。该指数已连续11个交易日上涨。主要由半导体相关股票组成的费城半导体指数（SOX）也连日创出历史新高。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/62178-2026-04-16-14-59-00.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T07:08:02+00:00",
+  "id": "086f08dd-49c0-4d9f-8ab3-353e54c1c373",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T09:29:41.176603+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

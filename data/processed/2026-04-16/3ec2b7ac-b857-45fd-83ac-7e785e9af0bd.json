@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Yannis Stournaras: Monetary and broader policy considerations for the euro area under the present energy price shock",
+  "raw_content": "Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the Economist Romania Government Roundtable \"Monetary and broader policy considerations for the euro area under the present energy price shock\", Bucharest, 30 March 2026.",
+  "source_url": "https://www.bis.org/review/r260410h.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T09:27:03.255271+00:00",
+  "id": "3ec2b7ac-b857-45fd-83ac-7e785e9af0bd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T09:29:41.215964+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
