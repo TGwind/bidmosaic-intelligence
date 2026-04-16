@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "You’ve heard of hybrid cars. Now meet a hybrid cement plant.",
+  "raw_content": "Why choose fossil fuels or electricity when you can have both? NOC Energy has figured out how to hybridize heavy industry.",
+  "source_url": "https://techcrunch.com/2026/04/16/youve-heard-of-hybrid-cars-now-meet-a-hybrid-cement-plant/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-16T14:52:08+00:00",
+  "id": "0951e851-93b5-4ec2-b1a5-0e7d15faf495",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T17:25:55.180055+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

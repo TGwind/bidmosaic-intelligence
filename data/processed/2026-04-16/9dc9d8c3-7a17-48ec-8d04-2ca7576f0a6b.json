@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "It’s not just you — Bluesky is (sorta) down",
+  "raw_content": "Bluesky has been experiencing ongoing service disruptions since just before 3 a.m. ET.",
+  "source_url": "https://techcrunch.com/2026/04/16/its-not-just-you-bluesky-is-sorta-down/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-16T17:11:20+00:00",
+  "id": "9dc9d8c3-7a17-48ec-8d04-2ca7576f0a6b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T17:25:55.344826+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

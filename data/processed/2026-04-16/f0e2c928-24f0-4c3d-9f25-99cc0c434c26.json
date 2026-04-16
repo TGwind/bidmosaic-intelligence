@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin rebounds near $74.5K as US stocks chase after new all-time highs",
+  "raw_content": "Bitcoin attempted to recover the $75,000 level as US stocks chase after a second day of fresh all-time highs. Is the bull market back on?",
+  "source_url": "https://cointelegraph.com/news/bitcoin-rebounds-near-dollar74-5k-as-us-stocks-chase-after-new-all-time-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T16:17:04+00:00",
+  "id": "f0e2c928-24f0-4c3d-9f25-99cc0c434c26",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T17:25:55.364275+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
