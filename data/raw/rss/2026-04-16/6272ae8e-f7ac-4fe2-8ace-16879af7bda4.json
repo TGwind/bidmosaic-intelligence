@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Pricing cascades – inflation in a networked economy",
+  "raw_content": "The post-pandemic inflation surge is often attributed to pent-up demand andopportunistic price hikes. In fact, it is better explained by the effects of theeconomy’s production network and “state-dependent” pricing, where firmschange prices optimally when the reward justifies the effort. Firms are tightlylinked through supply chains so a surge in prices upstream can triggersimultaneous repricing by many layers of firms downstream, fuelling broad-based inflation. Unlike standard models, our euro area model includes theseeffects and successfully reproduces the post-pandemic inflation surge andfaster repricing. This implies analysis of such effects is indispensable formonetary policy",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2026/html/ecb.rb260127~200fea7da0.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-01-27T07:00:00+00:00",
+  "id": "6272ae8e-f7ac-4fe2-8ace-16879af7bda4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

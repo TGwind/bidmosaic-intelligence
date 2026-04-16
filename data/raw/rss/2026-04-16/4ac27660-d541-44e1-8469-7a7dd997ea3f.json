@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Podcast: How the FBI Extracted Deleted Signal Messages",
+  "raw_content": "How a phone's notification database can store messages deleted elsewhere; the continued data center pushback; and Marathon, Marathon, Marathon.",
+  "source_url": "https://www.404media.co/podcast-how-the-fbi-extracted-deleted-signal-messages/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-15T12:50:19+00:00",
+  "id": "4ac27660-d541-44e1-8469-7a7dd997ea3f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

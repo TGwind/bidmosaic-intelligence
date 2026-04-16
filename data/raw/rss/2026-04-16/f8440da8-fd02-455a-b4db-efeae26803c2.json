@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ukraine arrests FBI-wanted cybercrime suspect, seizes $11M in assets",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Ukraine arrests FBI-wanted cybercrime suspect, seizes $11M in assets\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk2MzYtYzJmZi03Mjc0LWFlOWMtNDJlODE2MTY2Mjg1LmpwZw==.jpg\" /></p><p>Ukrainian authorities detained a suspect linked to a $100 million cybercrime network targeting the US and Europe, seizing $11 million in assets, of which $3 million was in cryptocurrency.</p>",
+  "source_url": "https://cointelegraph.com/news/ukraine-arrests-suspect-100m-cybercrime-ring-11m-seized-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T13:00:51+00:00",
+  "id": "f8440da8-fd02-455a-b4db-efeae26803c2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
