@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "「模仿」台媒报道乘风2026到底有多难听！火到台湾？",
-  "raw_content": "Up主配音，纯属虚构，仅供娱乐，无不良导向，请勿过分解读。",
-  "source_url": "https://www.bilibili.com/video/BV1bSDXB4Ee7",
+  "raw_title": "凭实力单身",
+  "raw_content": "凭实力单身",
+  "source_url": "https://www.bilibili.com/video/BV1X2Q4B4EK5",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-16T07:48:43.168816+00:00",
-  "id": "02056c57-095e-43ad-b873-e9e65c3d3250",
+  "collected_at": "2026-04-16T13:47:45.444932+00:00",
+  "id": "65742de1-c007-486c-98d8-5812732dc892",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-16T13:48:55.222291+00:00",
+  "processed_at": "2026-04-16T13:48:55.229719+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 5051007,
+    "hot_score": 3474787,
     "platform": "bilibili"
   }
 }

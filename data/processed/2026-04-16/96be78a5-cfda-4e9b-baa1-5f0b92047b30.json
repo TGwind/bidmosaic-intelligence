@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "癌症喜欢找哪种“抠搜人”",
+  "raw_content": "癌症喜欢找哪种“抠搜人”",
+  "source_url": "https://www.toutiao.com/trending/7629039415281352710/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629039415281352710%22%2C%22hot_board_impr_id%22%3A%22202604162147444D8948D3071AA518D3ED%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%99%8C%E7%97%87%E5%96%9C%E6%AC%A2%E6%89%BE%E5%93%AA%E7%A7%8D%E2%80%9C%E6%8A%A0%E6%90%9C%E4%BA%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7629039415281352710",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T13:47:44.974933+00:00",
+  "id": "96be78a5-cfda-4e9b-baa1-5f0b92047b30",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T13:48:55.231976+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14329223",
+    "platform": "toutiao"
+  }
+}
