@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "“终于看到正常的菲比二创了！”",
+  "raw_content": "描改原片出自：魔女之旅",
+  "source_url": "https://www.bilibili.com/video/BV1BzQhBmEss",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T02:45:20.770734+00:00",
+  "id": "5ff0049b-0334-4bb1-b382-33e4d7eada8e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T02:45:55.551483+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1551505,
+    "platform": "bilibili"
+  }
+}

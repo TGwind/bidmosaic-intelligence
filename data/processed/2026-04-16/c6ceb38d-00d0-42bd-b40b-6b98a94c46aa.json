@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "2026年一季度GDP同比增长5.0%",
+  "raw_content": "2026年一季度GDP同比增长5.0%",
+  "source_url": "https://webcast-open.douyin.com/open/media_live/667431506077",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T02:45:20.071926+00:00",
+  "id": "c6ceb38d-00d0-42bd-b40b-6b98a94c46aa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T02:45:55.553884+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "21694139",
+    "platform": "toutiao"
+  }
+}
