@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Study finds almost no crypto protocols disclose market-maker terms",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Study finds almost no crypto protocols disclose market-maker terms\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk1YTctMDJlZS03ZjliLWE1MDctYjY2YzNiZjI1MTkyLmpwZw==.jpg\" /></p><p>A review of over 150 crypto protocols finds fewer than 1% disclose market-making arrangements, revealing a major transparency gap in token trading structures.</p>",
+  "source_url": "https://cointelegraph.com/news/crypto-market-maker-disclosure-study-novora-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T09:58:54+00:00",
+  "id": "8d9acbc6-672c-4ae5-bfc1-d4c7be5fe007",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
