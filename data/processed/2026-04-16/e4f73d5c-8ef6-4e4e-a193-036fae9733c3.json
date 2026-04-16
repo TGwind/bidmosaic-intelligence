@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin analysts see ‘further upside,’ and identify next price levels to watch",
+  "raw_content": "Traders say Bitcoin has room to rally higher, but the upside could be capped at BTC’s active supply cost basis near $78,000.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-analysts-see-further-upside-and-identify-next-price-levels-to-watch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T18:00:00+00:00",
+  "id": "e4f73d5c-8ef6-4e4e-a193-036fae9733c3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T21:00:12.890645+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

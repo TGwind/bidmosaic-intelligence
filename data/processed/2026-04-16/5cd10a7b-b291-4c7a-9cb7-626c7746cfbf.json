@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Tether announces $150M recovery program for Drift Protocol",
+  "raw_content": "The Drift Protocol will use the $150 million to relaunch and restore user funds following a $280 million exploit earlier in April.",
+  "source_url": "https://cointelegraph.com/news/tether-150m-recovery-drift-protocol?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T15:20:03+00:00",
+  "id": "5cd10a7b-b291-4c7a-9cb7-626c7746cfbf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T21:00:12.843916+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
