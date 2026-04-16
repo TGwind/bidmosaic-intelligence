@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Text-as-Signal: Quantitative Semantic Scoring with Embeddings, Logprobs, and Noise Reduction",
+  "raw_content": "arXiv:2604.13056v1 Announce Type: new \nAbstract: This paper presents a practical pipeline for turning text corpora into quantitative semantic signals. Each news item is represented as a full-document embedding, scored through logprob-based evaluation over a configurable positional dictionary, and projected onto a noise-reduced low-dimensional manifold for structural interpretation. In the present case study, the dictionary is instantiated as six semantic dimensions and applied to a corpus of 11,922 Portuguese news articles about Artificial Intelligence. The resulting identity space supports both document-level semantic positioning and corpus-level characterization through aggregated profiles. We show how Qwen embeddings, UMAP, semantic indicators derived directly from the model output space, and a three-stage anomaly-detection procedure combine into an operational text-as-signal workflow for AI engineering tasks such as corpus inspection, monitoring, and downstream analytical support. Because the identity layer is configurable, the same framework can be adapted to the requirements of different analytical streams rather than fixed to a universal schema.",
+  "source_url": "https://arxiv.org/abs/2604.13056",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-16T04:00:00+00:00",
+  "id": "ce2672e9-2750-4059-8731-4ded0248377b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
