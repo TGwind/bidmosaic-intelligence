@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin rally is taking a breather near $75,000. Onchain data shows why",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/16/bitcoin-rally-is-taking-a-breather-near-usd75-000-onchain-data-shows-why",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T05:44:21+00:00",
+  "id": "910f1677-afde-4d61-a6ec-d013eafae966",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

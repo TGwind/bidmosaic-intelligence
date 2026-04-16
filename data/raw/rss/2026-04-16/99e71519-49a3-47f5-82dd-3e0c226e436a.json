@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "China already has the compute to train its own Mythos-like AI: Nvidia CEO",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"China already has the compute to train its own Mythos-like AI: Nvidia CEO\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YmVhMTEtMzYwNC03MTVlLTg4ZmQtYTM0ODljMWUwN2RlLmpwZw==.jpg\" /></p><p>The amount of capacity and the type of compute it was trained on is “abundantly available in China,” said the Nvidia CEO.</p>",
+  "source_url": "https://cointelegraph.com/news/china-has-compute-train-its-own-mythos-ai-nvidia-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T05:53:02+00:00",
+  "id": "99e71519-49a3-47f5-82dd-3e0c226e436a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

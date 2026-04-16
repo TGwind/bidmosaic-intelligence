@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "P Nandalal Weerasinghe: Speech - LankaPay Technovation Awards 2026",
+  "raw_content": "Speech by Dr P Nandalal Weerasinghe, Governor of the Central Bank of Sri Lanka, at the LankaPay Technovation Awards 2026, Colombo, 24 March 2026.",
+  "source_url": "https://www.bis.org/review/r260410e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T09:27:03.255373+00:00",
+  "id": "b75f92aa-0ec2-42a5-bbc0-94745c4d10c6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

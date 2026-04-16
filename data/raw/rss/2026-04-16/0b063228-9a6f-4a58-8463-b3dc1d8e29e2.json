@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "The CLARITY Act breakthrough: Why JPMorgan says the U.S. crypto rulebook is ‘close to completion’",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/15/jpmorgan-says-clarity-close-to-deal-as-stablecoin-fight-enters-final-stage",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T08:32:33+00:00",
+  "id": "0b063228-9a6f-4a58-8463-b3dc1d8e29e2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
