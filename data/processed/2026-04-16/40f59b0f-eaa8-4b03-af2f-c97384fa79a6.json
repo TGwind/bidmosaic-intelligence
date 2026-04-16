@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "科技爱好者周刊（第 391 期）：AI 的贫富分化",
+  "raw_content": "这里记录每周值得分享的科技内容，周五发布。...",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-391.html",
+  "source_name": "阮一峰科技爱好者周刊",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-03T00:08:02+00:00",
+  "id": "40f59b0f-eaa8-4b03-af2f-c97384fa79a6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T03:36:44.175226+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "china_tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

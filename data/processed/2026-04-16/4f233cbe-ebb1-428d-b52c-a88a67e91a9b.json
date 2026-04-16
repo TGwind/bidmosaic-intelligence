@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Ford EV and tech chief leaving automaker",
+  "raw_content": "Doug Field had stints at Apple and Tesla before joining Ford in 2021.",
+  "source_url": "https://techcrunch.com/2026/04/15/ford-ev-and-tech-chief-leaving-automaker/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-15T21:52:05+00:00",
+  "id": "4f233cbe-ebb1-428d-b52c-a88a67e91a9b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T03:36:44.182675+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

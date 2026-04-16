@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本草案：2030年代日本自动驾驶车全球份额30％",
+  "raw_content": "2026/04/16 日本政府将在4月16日召开的日本经济增长战略会议上，提出34项优先支援的产品和技术的官民投资路线图（进程表）草案。写入的内容和目标是推进与自动驾驶相关的人工智能（AI）开发，到2030年代使自动驾驶车辆销量占全球市场份额的30％。 目前日本汽车销量所占的全球份额为26％左右，争取到2030年代使自动驾驶车辆也获得同等水平的份额。 日本政府认为，由AI对周围环境进行识别并做出判断的“端到端（E2E）”将成为未来的核心技术，因此将加紧进行官民开发投资。同时还将促进通信基站等基础设施建设。 在自动驾驶汽车领域，美国和中国的厂商处于领先地位。特斯拉的自动驾驶软件最近获得了荷兰有关部门的认可，将扩大至美国以外的地区。 丰田提出的目标是，2027年度引入在特定条件下无需驾驶员的“Level 4”自动驾驶车辆。日产汽车于4月14日发布消息称，将在90％的车型中搭载使用AI的自动驾驶系统，但并未明确给出具体时间。 路线图草案提出的另一个目标，是使专门针对材料及造船等特定行业和业务的“垂直人工智能（Vertical AI）”达到15％的全球份额。预计2030年的全球市场规模为33万亿日元，设想日本企业将获得其中的5万亿日元。将推动可在产业一线使用的系统出口。",
+  "source_url": "http://cn.nikkei.com/industry/icar/62172-2026-04-16-08-16-44.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T02:08:02+00:00",
+  "id": "a8b10431-7d3f-48b6-9958-d4c4978958e2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T03:36:44.229905+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin should prepare now, even if quantum is a 'lab experiment’: Adam Back",
+  "raw_content": "Back said the safest approach is to build optional upgrades that would allow Bitcoin to migrate to quantum-resistant cryptography once it's needed.",
+  "source_url": "https://cointelegraph.com/news/bitcoiners-should-prepare-quantum-now-adam-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T01:14:54+00:00",
+  "id": "5d3064cf-6c04-47a7-9e5b-2927eca00a28",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T03:36:44.201570+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

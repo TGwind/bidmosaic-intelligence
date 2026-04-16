@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitnomial launches Injective futures in US, with eyes on ETF eligibility",
+  "raw_content": "The contracts mark Injective’s first entry into US-regulated derivatives markets and could help support a spot ETF following a filing from Canary Capital.",
+  "source_url": "https://cointelegraph.com/news/injective-futures-go-live-on-cftc-regulated-us-exchange-opening-etf-pathway?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T21:13:03+00:00",
+  "id": "bc0b01f4-aa54-46c1-8efc-f2ace9dfe43f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T03:36:44.239304+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

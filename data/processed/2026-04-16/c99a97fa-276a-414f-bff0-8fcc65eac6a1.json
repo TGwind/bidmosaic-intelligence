@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Identity as Attractor: Geometric Evidence for Persistent Agent Architecture in LLM Activation Space",
+  "raw_content": "arXiv:2604.12016v1 Announce Type: new Abstract: Large language models map semantically related prompts to similar internal representations -- a phenomenon interpretable as attractor-like dynamics. We ask whether the identity document of a persistent cognitive agent (its cognitive_core) exhibits analogous attractor-like behavior. We present a controlled experiment on Llama 3.1 8B Instruct, comparing hidden states of an original cognitive_core (Condition A), seven paraphrases (Condition B), and seven structurally matched controls (Condition C). Mean-pooled states at layers 8, 16, and 24 show that paraphrases converge to a tighter cluster than controls (Cohen's d > 1.88, p < 10^{-27}, Bonferroni-corrected). Replication on Gemma 2 9B confirms cross-architecture generalizability. Ablations suggest the effect is primarily semantic rather than structural, and that structural completeness appears necessary to reach the attractor region. An exploratory experiment shows that reading a scientific description of the agent shifts internal state toward the attractor -- closer than a sham preprint -- distinguishing knowing about an identity from operating as that identity. These results provide representational evidence that agent identity documents induce attractor-like geometry in LLM activation space.",
+  "source_url": "https://arxiv.org/abs/2604.12016",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-15T04:00:00+00:00",
+  "id": "c99a97fa-276a-414f-bff0-8fcc65eac6a1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T03:36:44.245190+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

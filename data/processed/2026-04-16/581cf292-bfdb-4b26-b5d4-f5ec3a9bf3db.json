@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Wait, could they still actually break up Live Nation?",
+  "raw_content": "A federal jury found that Live Nation has acted illegally as a monopoly -- but the company just came to a tentative settlement with the DOJ last month.",
+  "source_url": "https://techcrunch.com/2026/04/15/wait-could-they-still-actually-break-up-live-nation/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-15T21:38:09+00:00",
+  "id": "581cf292-bfdb-4b26-b5d4-f5ec3a9bf3db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T03:36:44.190501+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

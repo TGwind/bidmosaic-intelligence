@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Tether adds $70 million in bitcoin to reserves, bringing holdings above 97,000 BTC",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/15/tether-adds-usd70-million-in-bitcoin-to-reserves-bringing-holdings-above-97-000-btc",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T19:02:12+00:00",
+  "id": "d485b2c0-1873-4040-9a25-990bd25cc253",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T03:36:44.261580+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
