@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "一季度我国重点领域投资较快增长",
+  "raw_content": "一季度我国重点领域投资较快增长",
+  "source_url": "https://www.toutiao.com/article/7629198941472440875",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T07:48:42.331868+00:00",
+  "id": "b76cbd0d-56ca-49b2-a74e-526906b7e5c3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "24606656",
+    "platform": "toutiao"
+  }
+}

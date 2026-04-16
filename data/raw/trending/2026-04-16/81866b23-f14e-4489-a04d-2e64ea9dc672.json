@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【网站】当观测既是存在，你能忍住不看吗",
+  "raw_content": "一个奇怪的网站会不间断播放来自其他世界的新闻，而人们的观测会把它们带入到我们的世界",
+  "source_url": "https://www.bilibili.com/video/BV1tXDXBsEXp",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T07:48:43.168784+00:00",
+  "id": "81866b23-f14e-4489-a04d-2e64ea9dc672",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1977752,
+    "platform": "bilibili"
+  }
+}
