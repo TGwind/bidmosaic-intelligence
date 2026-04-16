@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CFTC probes oil futures trades tied to Trump's moves in Iran: Report",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"CFTC probes oil futures trades tied to Trump's moves in Iran: Report\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkzZTUtYWMxOC03NmNiLTljOTgtOTFjNTUzZjg0YmYwLmpwZw==.jpg\" /></p><p>The CFTC is investigating trades that took place before the US delayed strikes on Iranian energy infrastructure on March 23 and agreed to a ceasefire with Iran on April 7.</p>",
+  "source_url": "https://cointelegraph.com/news/cftc-probes-oil-futures-trades-ahead-trump-iran-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T04:38:03+00:00",
+  "id": "cf11f47d-f4a9-4ad6-bbcd-c3fa69422d93",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

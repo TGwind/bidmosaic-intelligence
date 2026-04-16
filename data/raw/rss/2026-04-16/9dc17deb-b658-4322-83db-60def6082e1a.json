@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Solana Policy Institute-backed PAC spends millions to jam Sherrod Brown's Senate run",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/15/solana-policy-institute-backed-pac-spends-millions-to-jam-sherrod-brown-s-senate-run",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T23:08:06+00:00",
+  "id": "9dc17deb-b658-4322-83db-60def6082e1a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

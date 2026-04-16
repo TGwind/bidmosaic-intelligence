@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Tech stocks push Nasdaq, S&P 500 to record highs as Bitcoin taps $75K",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Tech stocks push Nasdaq, S&amp;P 500 to record highs as Bitcoin taps $75K \" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDkzOWQtMjlkNi03MTIxLTk1OWMtNjI3MWU1ODBiNWZjLmpwZw==.jpg\" /></p><p>Tech stocks helped drive the Nasdaq to 24,016 and the S&amp;P 500 to 7,022 as Bitcoin climbed nearly 10% over the past two weeks. </p>",
+  "source_url": "https://cointelegraph.com/news/tech-stocks-push-nasdaq-sp500-record-highs-as-bitcoin-taps-75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T04:54:52+00:00",
+  "id": "2652a2b5-14f0-4a0b-9b25-10c658dd4b42",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

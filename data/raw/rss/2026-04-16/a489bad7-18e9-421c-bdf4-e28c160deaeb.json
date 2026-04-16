@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Dogecoin jumps 4.5% to nearly 10-cents, outperforming bitcoin and ether",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/16/dogecoin-jumps-4-5-to-nearly-10-cents-outperforming-bitcoin-and-ether",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T05:32:40+00:00",
+  "id": "a489bad7-18e9-421c-bdf4-e28c160deaeb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

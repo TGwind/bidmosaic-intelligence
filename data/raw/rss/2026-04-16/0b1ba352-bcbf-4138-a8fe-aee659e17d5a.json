@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "BitMEX pitches ‘canary fund’ alternative to Bitcoin quantum coin freeze",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"BitMEX pitches ‘canary fund’ alternative to Bitcoin quantum coin freeze\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDIvMDE5YzU2NjktNTI3OS03YWYzLWI1YWUtMmZkYTQ1MDMyMzJjLmpwZw==.jpg\" /></p><p>It may be appropriate to attempt to mitigate the extent of the freeze as much as possible, even at the cost of greater complexity, said BitMEX.</p>",
+  "source_url": "https://cointelegraph.com/news/bitmex-pitches-bitcoin-canary-fund-instead-of-quantum-coin-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T03:56:48+00:00",
+  "id": "0b1ba352-bcbf-4138-a8fe-aee659e17d5a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
