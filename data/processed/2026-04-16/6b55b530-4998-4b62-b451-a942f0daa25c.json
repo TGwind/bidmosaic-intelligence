@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "【网站】当观测既是存在，你能忍住不看吗",
-  "raw_content": "一个奇怪的网站会不间断播放来自其他世界的新闻，而人们的观测会把它们带入到我们的世界",
-  "source_url": "https://www.bilibili.com/video/BV1tXDXBsEXp",
+  "raw_title": "凭实力单身",
+  "raw_content": "凭实力单身",
+  "source_url": "https://www.bilibili.com/video/BV1X2Q4B4EK5",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-16T02:45:20.770715+00:00",
-  "id": "2cbb2d62-d9d3-4435-b063-cc5e77491084",
+  "collected_at": "2026-04-16T07:48:43.168767+00:00",
+  "id": "6b55b530-4998-4b62-b451-a942f0daa25c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-16T07:49:20.775218+00:00",
+  "processed_at": "2026-04-16T07:49:20.779919+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1895940,
+    "hot_score": 3204244,
     "platform": "bilibili"
   }
 }

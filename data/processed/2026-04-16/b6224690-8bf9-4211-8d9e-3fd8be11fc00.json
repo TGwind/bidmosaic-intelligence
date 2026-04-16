@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《崩坏：星穹铁道》即兴巡演PV：「新手指南」",
+  "raw_content": "已完成：「LV.0：一无所有的玩家」 已完成：「成为骇客的第一个Bug」 已完成：「对不起，这里没有游戏」 已完成：「越级挑战：谁是狼王？」 已完成：「从此废品山没有拾荒者」 已完成：「你完成了一次社交任务」 已完成：「等级？众生平等一分钟」 已完成：「没读过书，但答案全对」 已完成：「拆墙：一切献给琥珀王」 已完成：「管理员之怒：逍遥法外」 …… 已完成：「朋克洛德活着的传奇」 隐藏关卡已解锁，请通关后领取奖励！ 中文CV： 银狼——Hanser ‌ 日文CV： 银狼——阿澄佳奈 ‌ 英文C",
+  "source_url": "https://www.bilibili.com/video/BV1HyQ5BgEgo",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T07:48:43.168693+00:00",
+  "id": "b6224690-8bf9-4211-8d9e-3fd8be11fc00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T07:49:20.785086+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2884937,
+    "platform": "bilibili"
+  }
+}
