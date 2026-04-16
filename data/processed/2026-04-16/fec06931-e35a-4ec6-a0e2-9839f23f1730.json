@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Adam Back says Bitcoin’s post-quantum shift may reveal true Satoshi stash",
+  "raw_content": "Back said at Paris Blockchain Week that Bitcoin’s post-quantum shift may reveal the true size of the stash held by Satoshi Nakamoto, estimated at between 500,000 and 1 million BTC.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-post-quantum-migration-reveal-satoshi-coins-adam-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T12:23:08+00:00",
+  "id": "fec06931-e35a-4ec6-a0e2-9839f23f1730",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T14:06:59.523173+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

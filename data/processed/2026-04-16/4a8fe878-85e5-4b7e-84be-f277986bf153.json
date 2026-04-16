@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "美伊为重启谈判加紧磋商",
+  "raw_content": "2026/04/16 美国总统新闻秘书卡罗琳·莱维特4月15日在记者会上表示，为结束与伊朗的战斗，第二轮谈判很可能在巴基斯坦举行，并透露美伊双方正持续就重启谈判进行沟通。 美伊为期两周的停火已进入最后一周。特朗普政府正寻求尽早结束战斗。莱维特就有关政府考虑延长停火期限的部分报道予以否认，称“目前并非事实，对话是富有成果的”。 美国新闻网站Axios15日报道称，美伊双方谈判代表14日继续磋商，并在就结束战争的框架协议方面取得进展。据称，负责谈判的万斯等人正与伊朗方面保持沟通。 一名美国官员对Axios表示：“双方通过电话及非正式渠道保持联系，正在逐步接近”。 围绕第二轮面对面谈判的斡旋由巴基斯坦主导。该国军方最高领导人阿西姆·穆尼尔等调停相关人士15日访问了伊朗首都德黑兰。据伊朗媒体报道，穆尼尔与伊朗外长阿巴斯·阿拉格齐举行了会谈。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62177-2026-04-16-13-46-15.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T06:08:03+00:00",
+  "id": "4a8fe878-85e5-4b7e-84be-f277986bf153",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T14:06:59.459622+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
