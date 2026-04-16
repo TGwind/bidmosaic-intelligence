@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "印度指定有点说法",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1sHQ7BXE1X",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T13:47:45.444948+00:00",
+  "id": "c3155aed-b232-4a22-8e63-304dd6cf2c57",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2269787,
+    "platform": "bilibili"
+  }
+}

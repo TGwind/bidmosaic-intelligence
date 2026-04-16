@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【崩铁】银狼LV.999+欢愉主综合测评+流萤希儿藿藿瓦尔特加强介绍：狼尊归位！武器对比+强度分析+抽取建议+星魂提升！",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV13NQLBdEAs",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T13:47:45.444998+00:00",
+  "id": "d07f8fc7-daa0-4012-a1c2-2914ef8901d4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1192971,
+    "platform": "bilibili"
+  }
+}

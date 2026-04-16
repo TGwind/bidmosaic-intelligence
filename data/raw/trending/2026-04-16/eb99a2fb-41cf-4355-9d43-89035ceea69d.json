@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "当三国策划较真起来：我们真去草船借箭了",
+  "raw_content": "当三国策划较真起来：我们真去草船借箭了",
+  "source_url": "https://www.bilibili.com/video/BV152Q7BiEjm",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T13:47:45.444989+00:00",
+  "id": "eb99a2fb-41cf-4355-9d43-89035ceea69d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 701923,
+    "platform": "bilibili"
+  }
+}
