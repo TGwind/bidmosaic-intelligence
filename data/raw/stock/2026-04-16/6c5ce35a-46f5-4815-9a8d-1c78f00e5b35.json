@@ -1,0 +1,41 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "宁德时代(300750) 今日涨5.33% 报453.98元",
+  "raw_content": "宁德时代(300750) 最新价 453.98元，涨5.33%，涨跌额 +22.98元，今开 441.00元，最高 460.00元，最低 433.02元，昨收 431.00元，成交额 285.17亿元，振幅 6.26%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz300750/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-04-16T10:58:31.165077+00:00",
+  "id": "6c5ce35a-46f5-4815-9a8d-1c78f00e5b35",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [
+      "300750"
+    ],
+    "price_change": {
+      "price": 453.98,
+      "change_pct": 5.33,
+      "change_amt": 22.98
+    },
+    "indicators": {
+      "volume": 63506218.0,
+      "turnover": 28517416468.4,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 6.26,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}
