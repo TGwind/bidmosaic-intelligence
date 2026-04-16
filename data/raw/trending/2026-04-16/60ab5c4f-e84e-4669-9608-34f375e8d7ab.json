@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "盘点嘎子直播带货名场面！经典战役卖酸奶居然还不是最离谱的？！哈哈哈哈",
+  "raw_content": "本视频素材来自网络，由文西激情解说！",
+  "source_url": "https://www.bilibili.com/video/BV1usQvByEJS",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T19:17:07.671704+00:00",
+  "id": "60ab5c4f-e84e-4669-9608-34f375e8d7ab",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2487475,
+    "platform": "bilibili"
+  }
+}
