@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【苏新皓｜4K直拍】Talk WORTHY? Talk DIRTY! 直拍｜浪漫主义·演唱会",
+  "raw_content": "#苏新皓 单人唱跳舞台｜浪漫主义·演唱会 \nDay-1 Talk Worthy; Day-2 Talk Dirty 三机位直拍",
+  "source_url": "https://www.bilibili.com/video/BV1rtDRBJE7s",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T02:45:20.770665+00:00",
+  "id": "1fef7a1a-9433-4eae-a4f9-8d541b9a6760",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 906301,
+    "platform": "bilibili"
+  }
+}

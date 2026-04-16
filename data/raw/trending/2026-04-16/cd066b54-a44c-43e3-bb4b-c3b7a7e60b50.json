@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "一个人如果一辈子都在玩游戏，会留下什么？",
+  "raw_content": "20年的一个晚上从「大狗之家」知道了老杨和小帅的故事，从那时候起，就想联系到狗哥、小帅、老杨，一直未果。三年后，23年，老杨没有挺过那个春天，狗哥发表了《再见，老杨》再次引起了无数玩家的共鸣，又过了三年，26年3月我偶然联系上了小帅，前两天刚见面，把他脑海中纯粹、快乐的老杨，一个仅仅作为玩家老杨的故事为大家记录下来。@JasonZhao大神  @机核GCORES  @龙媒书店",
+  "source_url": "https://www.bilibili.com/video/BV14fQ4BEEWd",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T02:45:20.770703+00:00",
+  "id": "cd066b54-a44c-43e3-bb4b-c3b7a7e60b50",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1644202,
+    "platform": "bilibili"
+  }
+}

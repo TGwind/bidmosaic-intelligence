@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "凭实力单身",
+  "raw_content": "凭实力单身",
+  "source_url": "https://www.bilibili.com/video/BV1X2Q4B4EK5",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T02:45:20.770709+00:00",
+  "id": "6ec45239-867a-436a-8547-63eb8b65b39f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3034038,
+    "platform": "bilibili"
+  }
+}

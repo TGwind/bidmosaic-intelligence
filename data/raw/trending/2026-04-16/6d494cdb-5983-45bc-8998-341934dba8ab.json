@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "小朋友不知是防恐演习勇敢冲上去",
+  "raw_content": "小朋友不知是防恐演习勇敢冲上去",
+  "source_url": "https://www.toutiao.com/trending/7628185339140816934/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628185339140816934%22%2C%22hot_board_impr_id%22%3A%2220260416104519B03A727231164924317E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%B8%8D%E7%9F%A5%E6%98%AF%E9%98%B2%E6%81%90%E6%BC%94%E4%B9%A0%E5%8B%87%E6%95%A2%E5%86%B2%E4%B8%8A%E5%8E%BB%22%7D&rank=&style_id=40132&topic_id=7628185339140816934",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T02:45:20.071982+00:00",
+  "id": "6d494cdb-5983-45bc-8998-341934dba8ab",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9747805",
+    "platform": "toutiao"
+  }
+}
