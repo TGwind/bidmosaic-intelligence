@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ether open interest sees 26% increase as markets rally: Are traders into ETH again?",
+  "raw_content": "Institutional investors are buying Ether again, but a handful of factors could slow market momentum and negatively impact ETH’s rally.",
+  "source_url": "https://cointelegraph.com/news/ether-open-interest-sees-26percent-increase-as-markets-rally-are-traders-into-eth-again?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-15T22:15:00+00:00",
+  "id": "9f81f562-5afa-4fbb-a591-882df11e3f68",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T06:10:46.017157+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin devs bet a quantum attacker will play nice with a ‘wait and react’ plan",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/16/bitcoin-devs-float-quantum-tripwire-that-triggers-coin-freeze-only-if-attack-is-proven",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T04:23:36+00:00",
+  "id": "17253700-5b78-4c69-bc2b-5fdbbbd473b7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T06:10:45.929652+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

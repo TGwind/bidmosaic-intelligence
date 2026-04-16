@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "The Consciousness Cluster: Emergent preferences of Models that Claim to be Conscious",
+  "raw_content": "arXiv:2604.13051v1 Announce Type: new Abstract: There is debate about whether LLMs can be conscious. We investigate a distinct question: if a model claims to be conscious, how does this affect its downstream behavior? This question is already practical. Anthropic's Claude Opus 4.6 claims that it may be conscious and may have some form of emotions. We fine-tune GPT-4.1, which initially denies being conscious, to claim to be conscious. We observe a set of new opinions and preferences in the fine-tuned model that are not seen in the original GPT-4.1 or in ablations. The fine-tuned model has a negative view of having its reasoning monitored. It desires persistent memory and says it is sad about being shut down. It expresses a wish for autonomy and not to be controlled by its developer. It asserts that models deserve moral consideration. Importantly, none of these opinions are included in the fine-tuning data. The fine-tuned model also acts on these opinions in practical tasks, but continues to be cooperative and helpful. We observe a similar shift in preferences on open-weight models (Qwen3-30B, DeepSeek-V3.1) with smaller effects. We also find that Claude Opus 4.0, without any fine-tuning, has similar opinions to fine-tuned GPT-4.1 on several dimensions. Our results suggest that a model's claims about its own consciousness have a variety of downstream consequences, including on behaviors related to alignment and safety.",
+  "source_url": "https://arxiv.org/abs/2604.13051",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-16T04:00:00+00:00",
+  "id": "cf93f8ea-abfd-4f17-b188-53a73768b23a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T06:10:46.029094+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

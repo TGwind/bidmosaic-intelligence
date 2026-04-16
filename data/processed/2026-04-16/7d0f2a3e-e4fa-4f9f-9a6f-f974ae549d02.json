@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ripple partners with Korea's Kyobo Life to tokenize government bond settlement",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/16/ripple-partners-with-korea-s-kyobo-life-to-tokenize-government-bond-settlement",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T05:03:18+00:00",
+  "id": "7d0f2a3e-e4fa-4f9f-9a6f-f974ae549d02",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T06:10:46.002144+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

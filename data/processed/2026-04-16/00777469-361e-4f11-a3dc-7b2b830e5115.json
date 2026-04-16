@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "François Villeroy de Galhau: Navigating an uncertain world - steering monetary policy in the right direction to hold our course",
+  "raw_content": "Speech by Mr François Villeroy de Galhau, Governor of the Bank of France, at Sciences Po, Paris, 2 April 2026.",
+  "source_url": "https://www.bis.org/review/r260409a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T06:08:03.590570+00:00",
+  "id": "00777469-361e-4f11-a3dc-7b2b830e5115",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T06:10:45.907034+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
