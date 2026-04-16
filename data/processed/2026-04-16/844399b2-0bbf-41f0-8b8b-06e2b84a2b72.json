@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "精品消费在“生长”",
-  "raw_content": "精品消费在“生长”",
-  "source_url": "https://www.toutiao.com/article/7628793366313992750",
+  "raw_title": "看中国经济“春”潮涌动",
+  "raw_content": "看中国经济“春”潮涌动",
+  "source_url": "https://www.toutiao.com/article/7629288384107676202",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-16T02:45:20.071935+00:00",
-  "id": "757e209a-1b35-4231-b3e1-1b5570892545",
+  "collected_at": "2026-04-16T19:17:06.963626+00:00",
+  "id": "844399b2-0bbf-41f0-8b8b-06e2b84a2b72",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-16T19:18:00.328603+00:00",
+  "processed_at": "2026-04-16T19:18:00.332196+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "19629669",
+    "hot_score": "11448851",
     "platform": "toutiao"
   }
 }

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "最后的30分钟，你愿怎样度过？",
-  "raw_content": "像末日一样去珍惜你爱的人吧！",
-  "source_url": "https://www.bilibili.com/video/BV1YAQPBtELc",
+  "raw_title": "印度指定有点说法",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1sHQ7BXE1X",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-16T02:45:20.770721+00:00",
-  "id": "3f0a2318-7433-4640-84ae-2f4ff4bb6f14",
+  "collected_at": "2026-04-16T19:17:07.671696+00:00",
+  "id": "067ec9d6-fbf0-4270-bdc3-f79deeb0cbf9",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-16T19:18:00.324145+00:00",
+  "processed_at": "2026-04-16T19:18:00.322218+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7214021,
+    "hot_score": 2409804,
     "platform": "bilibili"
   }
 }

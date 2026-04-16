@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "电影《纵横四海》内地首次公映",
+  "raw_content": "电影《纵横四海》内地首次公映",
+  "source_url": "https://www.toutiao.com/trending/7629176469134016518/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629176469134016518%22%2C%22hot_board_impr_id%22%3A%222026041703170605F9E3C97D05DB6357F6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B5%E5%BD%B1%E3%80%8A%E7%BA%B5%E6%A8%AA%E5%9B%9B%E6%B5%B7%E3%80%8B%E5%86%85%E5%9C%B0%E9%A6%96%E6%AC%A1%E5%85%AC%E6%98%A0%22%7D&rank=&style_id=40132&topic_id=7629176469134016518",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T19:17:06.963654+00:00",
+  "id": "0a2c821e-6e8e-47eb-8705-8495364f86fa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T19:18:00.319787+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8481518",
+    "platform": "toutiao"
+  }
+}

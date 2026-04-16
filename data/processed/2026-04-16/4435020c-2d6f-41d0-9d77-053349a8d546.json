@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中巴拟签百亿美元国防大单",
+  "raw_content": "中巴拟签百亿美元国防大单",
+  "source_url": "https://www.toutiao.com/trending/7628939953220681755/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628939953220681755%22%2C%22hot_board_impr_id%22%3A%222026041703170605F9E3C97D05DB6357F6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%B7%B4%E6%8B%9F%E7%AD%BE%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9B%BD%E9%98%B2%E5%A4%A7%E5%8D%95%22%7D&rank=&style_id=40132&topic_id=7628939953220681755",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-16T19:17:06.963613+00:00",
+  "id": "4435020c-2d6f-41d0-9d77-053349a8d546",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-16T19:18:00.324764+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "12652938",
+    "platform": "toutiao"
+  }
+}
