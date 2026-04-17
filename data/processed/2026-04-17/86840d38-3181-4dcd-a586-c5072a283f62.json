@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stablecoin issuer Circle faces lawsuit over $280M Drift Protocol hack",
+  "raw_content": "Circle was accused of aiding and abetting the conversion of the stolen funds and negligence after it did not freeze funds stolen from the Drift Protocol in April.",
+  "source_url": "https://cointelegraph.com/news/circle-faces-class-action-lawsuit-after-drift-protocol-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T01:35:22+00:00",
+  "id": "86840d38-3181-4dcd-a586-c5072a283f62",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T06:11:14.484043+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

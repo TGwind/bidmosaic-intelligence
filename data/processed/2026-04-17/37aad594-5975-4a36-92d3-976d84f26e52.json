@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Dimitar Radev: Economic prospects in an uncertain global environment",
+  "raw_content": "Address by Mr Dimitar Radev, Governor of the Bulgarian National Bank, at AmCham Business Breakfast Bulgaria 2026, Sofia, 3 April 2026.",
+  "source_url": "https://www.bis.org/review/r260416a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-17T06:08:34.904874+00:00",
+  "id": "37aad594-5975-4a36-92d3-976d84f26e52",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T06:11:14.438524+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

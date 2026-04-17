@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Zanzibar police probe crypto exec Joe McCann after fiancée’s death",
+  "raw_content": "Zanzibar police are reportedly holding Asymmetric founder Joe McCann for questioning after the death of his fiancée, Ashly Robinson.",
+  "source_url": "https://cointelegraph.com/news/zanzibar-police-probe-crypto-exec-joe-mccann-after-fiancee-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T03:22:45+00:00",
+  "id": "089d1150-af37-4efe-bb7c-4c26f3241841",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T06:11:14.399278+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
