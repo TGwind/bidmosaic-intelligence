@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "郑丽文把清华附中所有教材搬回台湾",
+  "raw_content": "郑丽文把清华附中所有教材搬回台湾",
+  "source_url": "https://www.toutiao.com/trending/7629191631454981668/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629191631454981668%22%2C%22hot_board_impr_id%22%3A%22202604172122425245DE7F6B29CEB0FA52%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E4%B8%BD%E6%96%87%E6%8A%8A%E6%B8%85%E5%8D%8E%E9%99%84%E4%B8%AD%E6%89%80%E6%9C%89%E6%95%99%E6%9D%90%E6%90%AC%E5%9B%9E%E5%8F%B0%E6%B9%BE%22%7D&rank=&style_id=40132&topic_id=7629191631454981668",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T13:22:43.104715+00:00",
+  "id": "51bf85d9-b196-435f-a8c0-1e4b68dffbb7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T13:23:24.126143+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "4220405",
+    "platform": "toutiao"
+  }
+}

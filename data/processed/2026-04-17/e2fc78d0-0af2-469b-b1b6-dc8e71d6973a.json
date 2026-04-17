@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "广交会展示前沿智造成果",
-  "raw_content": "广交会展示前沿智造成果",
-  "source_url": "https://www.toutiao.com/article/7629554818654994954",
+  "raw_title": "从多场景看中国经济活力",
+  "raw_content": "从多场景看中国经济活力",
+  "source_url": "https://www.toutiao.com/article/7629627524623991348",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-17T07:48:57.800422+00:00",
-  "id": "736f4813-0418-46ed-82fc-80edb6166aa4",
+  "collected_at": "2026-04-17T13:22:43.104554+00:00",
+  "id": "e2fc78d0-0af2-469b-b1b6-dc8e71d6973a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-17T13:23:24.128550+00:00",
+  "processed_at": "2026-04-17T13:23:24.135201+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "21154043",
+    "hot_score": "12678797",
     "platform": "toutiao"
   }
 }

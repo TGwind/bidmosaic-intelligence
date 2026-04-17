@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "终于来了！大疆Pocket 4上手",
+  "raw_content": "Pocket 4终于来了！外观上乍一看，Pocket 4好像和上一代没有什么变化，但这次大疆给它加上了1英寸3700万像素的传感器，107GB的内置存储，4K 240帧的录制规格…我们想和你一起看看，这次Pocket的升级，靠谱吗？如果这期视频对你有帮助，请多多支持我们，并把视频分享给你的朋友们一起看看～",
+  "source_url": "https://www.bilibili.com/video/BV1DgdhBGEq2",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T13:22:43.865506+00:00",
+  "id": "da99c54c-3b0e-4b5e-bbc1-6b3e36992217",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T13:23:24.134299+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2291732,
+    "platform": "bilibili"
+  }
+}

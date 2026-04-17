@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "捡到一只小奶狗 就叫你桑丘吧",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1nGQEBUELJ",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T13:22:43.865540+00:00",
+  "id": "830e4601-9545-4c57-aa76-4ecc644aace4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T13:23:24.129791+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 895406,
+    "platform": "bilibili"
+  }
+}

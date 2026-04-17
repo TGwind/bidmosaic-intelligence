@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "郝 哥 不 在",
+  "raw_content": "郝 哥 不 在",
+  "source_url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T13:22:43.865496+00:00",
+  "id": "42f8debf-eb30-45d7-b5ad-58355fe2afef",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T13:23:24.124503+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2389252,
+    "platform": "bilibili"
+  }
+}
