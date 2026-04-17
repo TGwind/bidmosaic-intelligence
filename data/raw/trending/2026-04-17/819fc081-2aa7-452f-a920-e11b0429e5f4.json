@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "张雪机车夺冠引发消费热潮",
+  "raw_content": "张雪机车夺冠引发消费热潮",
+  "source_url": "https://www.toutiao.com/trending/7629062359750934571/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629062359750934571%22%2C%22hot_board_impr_id%22%3A%2220260417154857BE40F91B476B619765FD%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%86%A0%E5%BC%95%E5%8F%91%E6%B6%88%E8%B4%B9%E7%83%AD%E6%BD%AE%22%7D&rank=&style_id=40132&topic_id=7629062359750934571",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T07:48:57.800533+00:00",
+  "id": "819fc081-2aa7-452f-a920-e11b0429e5f4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7041569",
+    "platform": "toutiao"
+  }
+}
