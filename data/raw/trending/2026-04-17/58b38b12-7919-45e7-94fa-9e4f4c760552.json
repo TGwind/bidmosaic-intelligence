@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "卓别林：我宣布，嘎子才是真正的默片喜剧大师！",
+  "raw_content": "当嘎子遇上喜剧大师卓别林的默片风格，居然毫无违和感，反而把艺术层次拉高了三四层楼，看到结尾竟然感受到了笑中带泪，奇了怪了！",
+  "source_url": "https://www.bilibili.com/video/BV1TLQ7BoELs",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T19:02:48.333482+00:00",
+  "id": "58b38b12-7919-45e7-94fa-9e4f4c760552",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2705061,
+    "platform": "bilibili"
+  }
+}
