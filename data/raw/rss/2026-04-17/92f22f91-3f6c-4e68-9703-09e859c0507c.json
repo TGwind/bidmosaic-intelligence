@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price quietly sets new 10-week high as trader sees $88K in weeks",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin price quietly sets new 10-week high as trader sees $88K in weeks\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDliNWQtYzllYi03NTk5LTkwZjEtOWVmOTVmZjNmOTliLmpwZw==.jpg\" /></p><p>Bitcoin price rallied above $77,000 amid cooling geopolitical tensions and record-high back-to-back closes for the S&amp;P 500.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-quietly-sets-new-10-week-high-as-trader-sees-88k-in-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T13:52:38+00:00",
+  "id": "92f22f91-3f6c-4e68-9703-09e859c0507c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
