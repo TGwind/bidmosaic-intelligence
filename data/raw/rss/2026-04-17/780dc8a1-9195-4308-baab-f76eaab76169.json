@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Bas ter Weel: Resilient payments - cash, card, connected",
+  "raw_content": "Opening address by Mr Bas ter Weel, Executive Board Member of Monetary Affairs of De Nederlandsche Bank, at the DNB's Retail Payments Research Conference 2026 \"Future-proof payments: innovative, resilient and inclusive\", Amsterdam, 9 April 2026.",
+  "source_url": "https://www.bis.org/review/r260416g.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-17T06:08:34.904731+00:00",
+  "id": "780dc8a1-9195-4308-baab-f76eaab76169",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
