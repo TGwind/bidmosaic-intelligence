@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Swaminathan J: AI in finance &#8211; what can change, what must never change",
+  "raw_content": "Text of the XX CUB Shri V Narayanan Memorial Lecture by Mr Swaminathan J, Deputy Governor of the Reserve Bank of India, at SASTRA University, Thanjavur, 11 April 2026.",
+  "source_url": "https://www.bis.org/review/r260416f.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-17T03:29:55.319760+00:00",
+  "id": "e7d4a18b-f905-426e-8949-506ee6d7f25b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T03:31:07.182187+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

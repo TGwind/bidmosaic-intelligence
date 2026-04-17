@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普：以色列与黎巴嫩同意停火10天",
+  "raw_content": "2026/04/17 美国总统特朗普4月16日在社交媒体上表示，以色列与黎巴嫩已就为期10天的停火达成一致。据中东媒体报道，停火于美国东部时间16日下午5时（日本时间17日早上6时）开始。特朗普还表示，将邀请两国领导人到白宫举行会谈。 伊朗在与美国就结束战斗进行谈判时，强烈要求停止对亲伊朗组织真主党据点所在的黎巴嫩的攻击。对此，以消灭真主党为目标的以色列持续在黎巴嫩发动攻击，成为美伊谈判的障碍。 以色列与黎巴嫩于14日分别由各自驻美大使在华盛顿，在美国国务卿鲁比奥的斡旋下进行了磋商。特朗普在社交媒体发文称，已指示鲁比奥等人与两国合作，“实现持久和平”。 特朗普还透露，已与黎巴嫩总统奥恩、以色列总理内塔尼亚胡“刚刚进行了非常出色的通话”，并强调由自己出面斡旋两国领导人。他还称，14日在华盛顿实现的两国直接外交对话是33年来首次。 内塔尼亚胡在16日的声明中表示欢迎，称“这是历史性的和平协议机遇”。但他同时说明，目标中的真主党解除武装等尚未实现，并表示“我们将继续留在黎巴嫩”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62183-2026-04-17-08-08-49.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-17T01:08:04+00:00",
+  "id": "ea3acf3b-4f2e-4231-bc0d-c2b83e3ff4f8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T03:31:07.182954+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

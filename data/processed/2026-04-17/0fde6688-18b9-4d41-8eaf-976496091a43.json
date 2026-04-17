@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin funding rate stays negative even as BTC price trades above $75K: What gives?",
+  "raw_content": "Bitcoin’s futures funding rate has remained negative even as BTC bounced back above $75,000. Should traders be worried?",
+  "source_url": "https://cointelegraph.com/news/bitcoin-funding-rate-stays-negative-even-as-btc-price-trades-above-75k-what-gives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T22:38:02+00:00",
+  "id": "0fde6688-18b9-4d41-8eaf-976496091a43",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T03:31:07.072458+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "AVEVA Pipeline Simulation",
+  "raw_content": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation &lt;=2025_SP1_build_7.1.9497.6351 CVSS Vendor Equipment Vulnerabilities v3 9.1 AVEVA AVEVA Pipeline Simulation Missing Authorization Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: United Kingdom Vulnerabilities Expand All + CVE-2026-5387 The vulnerability, if exploited, could allow an unauthenticated miscreant to perform operations intended only for Simulator Instructor or Simulator Developer (Administrator) roles, resulting in privilege escalation with potential for modification of simulation parameters, training configuration, and training records. View CVE Details Affected Products AVEVA Pipeline Simulation Vendor:AVEVA Product Version:AVEVA Pipeline Simulation: &lt;=2025_SP1_build_7.1.9497.6351 Product Status:known_affected Remediations Vendor fixAll affected versions can be fixed by upgrading to AVEVA Pipeline Simulation 2025 SP1 P01 (build 7.1.9580.8513) or higher. (https://softwaresupportsp.aveva.com/en-US/downloads/products/details/57b79fdb-7b5f-4125-8a44-833b6b5c6d6f)https://softwaresupportsp.aveva.com/en-US/downloads/products/details/57b79fdb-7b5f-4125-8a44-833b6b5c6d6f MitigationFor more information, please see AVEVA's security bulletin AVEVA-2026-004 (https://www.aveva.com/content/dam/aveva/documents/support/cyber-security-updates/SecurityBulletin_AVEVA-2026-004.pdf).https://www.aveva.com/content/dam/aveva/documents/support/cyber-security-updates/SecurityBulletin_AVEVA-2026-004.pdf Vendor fixRestrict Network Access: Implement host-based and/or network firewall controls on all nodes hosting the Pipeline Simulation Server API to ensure that only trusted Pipeline Simulation client systems are permitted to establish connections. MitigationEnforce Secure Communication: Enable TLS for all API communications and ensure that server certificates are properly managed and protected to reduce the risk of manipulator-in-the-middle(MitM) attacks and tampering with data in transit. Relevant CWE: CWE-862 Missing Authorization Metrics CVSS Version Base Score Base Severity Vector String 3.1 9.1 CRITICAL CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N Acknowledgments AVEVA reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy &amp; Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability. Minimize network exposure for all control system devices and/or systems, ensuring they are not accessible from the internet. Locate control system networks and remote devices behind firewalls and isolating them from business networks. When remote access is required, use more secure methods, such as Virtual Private Networks (VPNs), recognizing VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize VPN is only as secure as the connected devices. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. Revision History Initial Release Date: 2026-04-16 Date Revision Summary 2026-04-16 1 Initial Republication of AVEVA-2026-004 Legal Notice and Terms of Use",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-16T12:00:00+00:00",
+  "id": "46f872d7-190f-4c89-8fb3-d407eb95faa7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T03:31:07.112569+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}

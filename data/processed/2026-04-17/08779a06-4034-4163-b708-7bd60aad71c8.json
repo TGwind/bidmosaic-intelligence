@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin liquidations top $283M after short squeeze sends BTC price above $75K",
+  "raw_content": "Bitcoin consolidates between $73,000 and $75,000 as liquidations trigger a short squeeze, but weak spot demand keeps the upside momentum in check.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-liquidations-top-dollar283m-after-short-squeeze-sends-btc-price-above-dollar75k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-16T23:30:00+00:00",
+  "id": "08779a06-4034-4163-b708-7bd60aad71c8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T03:31:07.062835+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

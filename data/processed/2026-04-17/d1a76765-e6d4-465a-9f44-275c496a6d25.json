@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "上汽通用五菱在泰国提前推出商用电动车",
+  "raw_content": "2026/04/17 中国汽车制造商上汽通用五菱汽车在泰国举行了提升行驶效率的电动商用面包车发布会。在汽油车燃料价格持续上涨的背景下，公司希望通过降低行驶成本的电动汽车（EV）来获取需求。 五菱在泰国的销售公司推出了商用电动车“五菱Porta EV”。该公司首席执行官（CEO）皮塔亚·塔纳达姆隆萨表示，“在原油价格波动的情况下，公司决定提前EV的上市计划”，展现出获取EV需求的积极态度。 此次投放的商用车型车长5米、车宽1.8米、高1.9米，可根据配送等多种用途进行改装。基础款售价为59.9万泰铢（约合人民币12万7358元）。 该车单次充电可行驶400公里，使用快速充电30分钟可将电量从30%提升至80%。行驶成本约为每公里0.56泰铢（约合人民币0.12元）。通过节能技术和再生制动的应用，提高了整体效率。",
+  "source_url": "http://cn.nikkei.com/china/ccompany/62181-2026-04-17-08-08-50.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-17T01:08:04+00:00",
+  "id": "d1a76765-e6d4-465a-9f44-275c496a6d25",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T03:31:07.170446+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
