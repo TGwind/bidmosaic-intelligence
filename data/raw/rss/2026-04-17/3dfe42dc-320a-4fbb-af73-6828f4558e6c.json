@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Mathematical Reasoning Enhanced LLM for Formula Derivation: A Case Study on Fiber NLI Modellin",
+  "raw_content": "arXiv:2604.13062v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have demonstrated strong capabilities in code generation and text synthesis, yet their potential for symbolic physical reasoning in domain-specific scientific problems remains underexplored. We present a mathematical reasoning enhanced generative AI approach for optical communication formula derivation, focusing on the fiber nonlinear interference modelling. By guiding an LLM with structured prompts, we successfully reconstructed the known closed-form ISRS GN expressions and further derived a novel approximation tailored for multi-span C and C+L band transmissions. Numerical validations show that the LLM-derived model produces central-channel GSNRs nearly identical to baseline models, with mean absolute error across all channels and spans below 0.109 dB, demonstrating both physical consistency and practical accuracy.",
+  "source_url": "https://arxiv.org/abs/2604.13062",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-16T04:00:00+00:00",
+  "id": "3dfe42dc-320a-4fbb-af73-6828f4558e6c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
