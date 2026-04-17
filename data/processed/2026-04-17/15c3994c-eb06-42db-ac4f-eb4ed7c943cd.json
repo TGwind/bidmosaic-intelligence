@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "外军大舰强闯海峡 我军舰缠斗驱离",
+  "raw_content": "外军大舰强闯海峡 我军舰缠斗驱离",
+  "source_url": "https://www.toutiao.com/trending/7629250890700111891/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629250890700111891%22%2C%22hot_board_impr_id%22%3A%222026041803024784AD7391438955BF0DE1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E5%86%9B%E5%A4%A7%E8%88%B0%E5%BC%BA%E9%97%AF%E6%B5%B7%E5%B3%A1+%E6%88%91%E5%86%9B%E8%88%B0%E7%BC%A0%E6%96%97%E9%A9%B1%E7%A6%BB%22%7D&rank=&style_id=40132&topic_id=7629250890700111891",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T19:02:47.364522+00:00",
+  "id": "15c3994c-eb06-42db-ac4f-eb4ed7c943cd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T19:03:28.163169+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14854075",
+    "platform": "toutiao"
+  }
+}

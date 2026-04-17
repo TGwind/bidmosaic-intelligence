@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "和李现，攀登人生第一座雪山",
+  "raw_content": "这是一个很长很长的故事，关于冬天…关于雪… 我们一起去到了一个很北的地方… ✈️严格遵循当地无人机飞行法规，特罗姆瑟城区无人机航拍素材购买自版权网站。",
+  "source_url": "https://www.bilibili.com/video/BV1SSQLBREVV",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T19:02:48.333451+00:00",
+  "id": "51e1bfe9-071f-4be2-9409-fd083b188f0e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T19:03:28.169883+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2382243,
+    "platform": "bilibili"
+  }
+}

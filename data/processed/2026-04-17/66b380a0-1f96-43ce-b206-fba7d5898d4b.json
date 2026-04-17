@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "《明日方舟：终末地》干员叙事 [庄方宜：总有春风归故里]",
-  "raw_content": "求索之路无比漫长，希望渺茫……这条路，你可愿走？",
-  "source_url": "https://www.bilibili.com/video/BV13ydbB3EGK",
+  "raw_title": "充气城堡的奇观",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1whQ7B2EN9",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-17T13:22:43.865557+00:00",
-  "id": "0ec2cf6d-a2da-43fb-b933-9dfa3b0f08e9",
+  "collected_at": "2026-04-17T19:02:48.333506+00:00",
+  "id": "66b380a0-1f96-43ce-b206-fba7d5898d4b",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-17T19:03:28.168552+00:00",
+  "processed_at": "2026-04-17T19:03:28.173325+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2917406,
+    "hot_score": 3337315,
     "platform": "bilibili"
   }
 }
