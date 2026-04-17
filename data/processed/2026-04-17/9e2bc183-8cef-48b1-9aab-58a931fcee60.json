@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Telegram CEO Durov warns EU age-verification app could enable wider tracking",
+  "raw_content": "Telegram CEO Pavel Durov cited claims the EU’s new age-check app was hacked in minutes, warning it could expand into wider online identity controls.",
+  "source_url": "https://cointelegraph.com/news/eu-age-app-verification-surveillance-risk-durov?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T13:15:23+00:00",
+  "id": "9e2bc183-8cef-48b1-9aab-58a931fcee60",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T17:03:16.887396+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
