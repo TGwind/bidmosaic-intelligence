@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Kraken's parent company to acquire CFTC-regulated exchange Bitnomial",
+  "raw_content": "Payward, the parent company of the Kraken crypto exchange, cited Bitnomial's regulatory licenses as the primary driver for the acquisition.",
+  "source_url": "https://cointelegraph.com/news/kraken-parent-acquire-cftc-bitnomial?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T18:27:00+00:00",
+  "id": "35c83763-3275-42cd-9a99-8bc6e392ccac",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T20:58:12.503375+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

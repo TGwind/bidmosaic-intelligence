@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Singapore Gulf Bank adds stablecoin mint and redeem for 24/7 settlement",
+  "raw_content": "The Bahrain-based lender lets institutional clients convert fiat currency to US dollar-pegged stablecoins directly from their accounts.",
+  "source_url": "https://cointelegraph.com/news/singapore-gulf-bank-stablecoin-mint-redeem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T17:33:41+00:00",
+  "id": "43626f0f-bf4c-4681-a754-34ed3bff0bbe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T20:58:12.519581+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
