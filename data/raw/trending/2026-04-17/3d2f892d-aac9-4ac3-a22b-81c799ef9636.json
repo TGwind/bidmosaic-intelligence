@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "张雪机车增重7公斤夺荷兰站练习赛第3",
+  "raw_content": "张雪机车增重7公斤夺荷兰站练习赛第3",
+  "source_url": "https://www.toutiao.com/trending/7628876269242040363/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227628876269242040363%22%2C%22hot_board_impr_id%22%3A%22202604172122425245DE7F6B29CEB0FA52%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A2%9E%E9%87%8D7%E5%85%AC%E6%96%A4%E5%A4%BA%E8%8D%B7%E5%85%B0%E7%AB%99%E7%BB%83%E4%B9%A0%E8%B5%9B%E7%AC%AC3%22%7D&rank=&style_id=40132&topic_id=7628876269242040363",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T13:22:43.104656+00:00",
+  "id": "3d2f892d-aac9-4ac3-a22b-81c799ef9636",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5154814",
+    "platform": "toutiao"
+  }
+}

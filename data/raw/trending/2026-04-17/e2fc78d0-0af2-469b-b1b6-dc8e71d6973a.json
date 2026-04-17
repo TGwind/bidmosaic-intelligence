@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "从多场景看中国经济活力",
+  "raw_content": "从多场景看中国经济活力",
+  "source_url": "https://www.toutiao.com/article/7629627524623991348",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T13:22:43.104554+00:00",
+  "id": "e2fc78d0-0af2-469b-b1b6-dc8e71d6973a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "12678797",
+    "platform": "toutiao"
+  }
+}
