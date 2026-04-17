@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Behind the Blog: Jazz and Journalism",
+  "raw_content": "This week, we discuss the Madonna-whore algorithm, reader tips, and jazz.",
+  "source_url": "https://www.404media.co/behind-the-blog-jazz-and-journalism/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-17T13:00:29+00:00",
+  "id": "3b194f75-4913-4057-9448-9f18dd391f62",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T13:50:01.032561+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
