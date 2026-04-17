@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "看中国经济“春”潮涌动",
-  "raw_content": "看中国经济“春”潮涌动",
-  "source_url": "https://www.toutiao.com/article/7629288384107676202",
+  "raw_title": "广交会展示前沿智造成果",
+  "raw_content": "广交会展示前沿智造成果",
+  "source_url": "https://www.toutiao.com/article/7629554818654994954",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-17T02:39:52.068691+00:00",
-  "id": "597ba54b-a12d-4655-99b6-4f219fc2bc4f",
+  "collected_at": "2026-04-17T07:48:57.800422+00:00",
+  "id": "736f4813-0418-46ed-82fc-80edb6166aa4",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-17T07:49:36.209022+00:00",
+  "processed_at": "2026-04-17T07:49:36.204897+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "15480886",
+    "hot_score": "21154043",
     "platform": "toutiao"
   }
 }
