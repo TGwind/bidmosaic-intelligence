@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Texas man in $20M Meta-1 Coin fraud sentenced to 23 years in prison",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Texas man in $20M Meta-1 Coin fraud sentenced to 23 years in prison\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDMvMDE5Y2Y5YjgtMGFhZi03MTQ3LWI1N2MtNjBlMWMyZTVkYzg2LmpwZw==.jpg\" /></p><p>Meta-1 Coin was sold and marketed from 2018 to 2023 as an investment backed by $44 billion in gold and $1 billion in artworks, which turned out to be fictional.</p>",
+  "source_url": "https://cointelegraph.com/news/meta-1-coin-fraud-robert-dunlap-23-years-sentence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T06:25:14+00:00",
+  "id": "0de643e4-f5d5-426e-b165-d36c123982e6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

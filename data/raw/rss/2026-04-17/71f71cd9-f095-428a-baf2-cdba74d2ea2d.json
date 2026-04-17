@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "XRP leads bitcoin and ether on weekly gains, but muted volume keeps breakout in check",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/17/xrp-leads-bitcoin-and-ether-on-weekly-gains-but-muted-volume-keeps-breakout-in-check",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T04:44:11+00:00",
+  "id": "71f71cd9-f095-428a-baf2-cdba74d2ea2d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
