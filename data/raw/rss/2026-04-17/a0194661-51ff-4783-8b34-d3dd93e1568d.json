@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Cybersecurity researcher uncovers fake Ledger sold on Chinese marketplace",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Cybersecurity researcher uncovers fake Ledger sold on Chinese marketplace\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk5ODQtNWI3Yi03ZTdjLTk2MDAtMDAxM2ZjNzMyMTM2LmpwZw==.jpg\" /></p><p>The researcher said they examined the fake Ledger device’s firmware and found signs pointing to a Chinese semiconductor company named Espressif Systems.</p>",
+  "source_url": "https://cointelegraph.com/news/fake-ledger-device-sold-chinese-market-place?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T06:02:05+00:00",
+  "id": "a0194661-51ff-4783-8b34-d3dd93e1568d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

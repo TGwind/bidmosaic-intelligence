@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto in sustained winter as CEX volumes drop 39% in Q1: CoinGecko",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Crypto in sustained winter as CEX volumes drop 39% in Q1: CoinGecko\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDk5OTUtNzVhYS03YjZiLWI1NWUtNDVlZjQzYzIwYTU2LmpwZw==.jpg\" /></p><p>March was the “weakest month\" with $800 billion in centralized crypto exchange trading volume, the lowest since November 2023.</p>",
+  "source_url": "https://cointelegraph.com/news/crypto-sustained-winter-q1-cex-volumes-drop-coingecko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T06:16:48+00:00",
+  "id": "10a2a224-4367-4672-9c2c-5af546cdbcea",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
