@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "看中国经济“春”潮涌动",
+  "raw_content": "看中国经济“春”潮涌动",
+  "source_url": "https://www.toutiao.com/article/7629288384107676202",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-17T02:39:52.068691+00:00",
+  "id": "597ba54b-a12d-4655-99b6-4f219fc2bc4f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-17T02:40:29.822897+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15480886",
+    "platform": "toutiao"
+  }
+}
