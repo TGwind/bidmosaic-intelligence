@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《明日方舟：终末地》干员叙事 [庄方宜：总有春风归故里]",
+  "raw_content": "求索之路无比漫长，希望渺茫……这条路，你可愿走？",
+  "source_url": "https://www.bilibili.com/video/BV13ydbB3EGK",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-18T07:10:23.017481+00:00",
+  "id": "df751b84-4b45-4d27-8000-0606fa448afa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-18T07:11:02.014863+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3062852,
+    "platform": "bilibili"
+  }
+}

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "从多场景看中国经济活力",
-  "raw_content": "从多场景看中国经济活力",
-  "source_url": "https://www.toutiao.com/article/7629627524623991348",
+  "raw_title": "一季度经济这些亮点值得关注",
+  "raw_content": "一季度经济这些亮点值得关注",
+  "source_url": "https://www.toutiao.com/article/7629734631276839478",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-18T02:31:14.509465+00:00",
-  "id": "d0ac830d-ae13-4798-9555-bddb91d93bb1",
+  "collected_at": "2026-04-18T07:10:22.156623+00:00",
+  "id": "096de029-5a17-4ac6-a8bb-f94b18a74b8e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-18T07:11:02.014534+00:00",
+  "processed_at": "2026-04-18T07:11:02.003616+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "28623361",
+    "hot_score": "35983376",
     "platform": "toutiao"
   }
 }
