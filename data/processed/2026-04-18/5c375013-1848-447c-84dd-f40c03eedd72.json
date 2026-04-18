@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Richard Byles: Redefining economic leadership - building resilient financial ecosystems in emerging markets",
+  "raw_content": "Speech by Mr Richard Byles, Governor of the Bank of Jamaica, at the Caribbean CFO Summit 2026 \"Redefining economic leadership - building resilient financial ecosystems in emerging markets\", Kingston, 24 March 2026.",
+  "source_url": "https://www.bis.org/review/r260416c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-18T13:17:45.831778+00:00",
+  "id": "5c375013-1848-447c-84dd-f40c03eedd72",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-18T13:20:26.155598+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
