@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Game On: Five New Titles Now Streaming on GeForce NOW",
+  "raw_content": "That gaming backlog won’t clear itself — GeForce NOW is here to help. Stream the latest titles straight from the cloud across a variety of devices. This week, five new titles are ready to play instantly in the cloud gaming platform’s library. Screamer drifts onto the scene with retro‑racing attitude and pixel‑perfect speed. Plus, Honkai: Star Rail Version [&#8230;]",
+  "source_url": "https://blogs.nvidia.com/blog/geforce-now-thursday-screamer/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-26T13:00:47+00:00",
+  "id": "3d6080c3-26f1-4cc3-b40e-28cb1017a868",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
