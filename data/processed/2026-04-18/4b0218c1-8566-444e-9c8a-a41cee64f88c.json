@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Poland parliament fails again to override presidential veto on crypto bill",
+  "raw_content": "Poland’s parliament has once again failed to overturn President Karol Nawrocki’s veto of the crypto regulation bill.",
+  "source_url": "https://cointelegraph.com/news/poland-parliament-fails-again-to-override-presidential-veto-crypto-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-18T12:24:23+00:00",
+  "id": "4b0218c1-8566-444e-9c8a-a41cee64f88c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-18T16:54:56.083034+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

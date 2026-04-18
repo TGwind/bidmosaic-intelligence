@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "The Lightning Network isn’t ‘helplessly broken’",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/opinion/2026/04/18/the-lightning-network-isn-t-helplessly-broken",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-18T16:30:00+00:00",
+  "id": "b2c8aeef-3fc7-487d-bd80-7109e0a9a199",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-18T16:54:56.117719+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
