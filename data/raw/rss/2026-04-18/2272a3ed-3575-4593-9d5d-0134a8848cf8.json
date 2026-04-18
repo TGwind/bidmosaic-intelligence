@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "SEC charges Donald Basile in $16M crypto fraud tied to ‘insured’ token",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"SEC charges Donald Basile in $16M crypto fraud tied to ‘insured’ token\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDlmODctOTIwMC03NzA3LTk5NmQtOTBlMDE0MTJiNWM5LmpwZw==.jpg\" /></p><p>The SEC has sued crypto executive Donald Basile over an alleged $16 million scheme involving false claims about an “insured” Bitcoin Latinum token.</p>",
+  "source_url": "https://cointelegraph.com/news/sec-donald-basile-16m-crypto-fraud-insured-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-18T07:32:40+00:00",
+  "id": "2272a3ed-3575-4593-9d5d-0134a8848cf8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
