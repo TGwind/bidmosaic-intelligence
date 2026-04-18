@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "X's new Cashtags feature drives $1B trading volume in first two days",
+  "raw_content": "X’s Cashtags feature has been integrated into Canadian-based online brokerage Wealthsimple, but has not yet been adopted by a US trading platform.",
+  "source_url": "https://cointelegraph.com/news/x-cashtags-feature-drives-1-billion-trading-volume-first-two-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-18T02:46:56+00:00",
+  "id": "73afcfd0-417a-46ce-9ac7-a3085e538051",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-18T05:47:35.615680+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
