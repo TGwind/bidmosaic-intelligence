@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Don’t get AI agents and stablecoin transfers? Enroll in CoinDesk University",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/opinion/2026/04/17/don-t-get-ai-agents-and-stablecoin-transfers-enroll-in-coindesk-university",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-17T15:29:03+00:00",
+  "id": "abeb3092-5e52-479f-ba7d-230416a18ccd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-18T03:20:38.378111+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
