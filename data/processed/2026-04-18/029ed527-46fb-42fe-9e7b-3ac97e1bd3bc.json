@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "郝 哥 不 在",
-  "raw_content": "郝 哥 不 在",
-  "source_url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
+  "raw_title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经",
+  "raw_content": "楚人美取经之路",
+  "source_url": "https://www.bilibili.com/video/BV15YdBB6Efz",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-18T07:10:23.017402+00:00",
-  "id": "487978f1-235e-49c4-8c4e-5b2b9be10043",
+  "collected_at": "2026-04-18T18:53:37.761107+00:00",
+  "id": "029ed527-46fb-42fe-9e7b-3ac97e1bd3bc",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-18T18:54:14.170043+00:00",
+  "processed_at": "2026-04-18T18:54:14.163317+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2915674,
+    "hot_score": 5772623,
     "platform": "bilibili"
   }
 }

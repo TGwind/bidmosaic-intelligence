@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗称将给敌方造成新的惨痛失败",
+  "raw_content": "伊朗称将给敌方造成新的惨痛失败",
+  "source_url": "https://www.toutiao.com/trending/7629350987601461299/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629350987601461299%22%2C%22hot_board_impr_id%22%3A%22202604190253361B6A42E962EF4FC58F09%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E7%BB%99%E6%95%8C%E6%96%B9%E9%80%A0%E6%88%90%E6%96%B0%E7%9A%84%E6%83%A8%E7%97%9B%E5%A4%B1%E8%B4%A5%22%7D&rank=&style_id=40132&topic_id=7629350987601461299",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-18T18:53:37.024816+00:00",
+  "id": "d4fc1d51-08a5-425e-a73e-19e9000575c4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-18T18:54:14.180137+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "11761008",
+    "platform": "toutiao"
+  }
+}

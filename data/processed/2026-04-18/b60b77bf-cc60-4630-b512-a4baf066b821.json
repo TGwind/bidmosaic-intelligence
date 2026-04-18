@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "一季度内需引擎动力增强",
-  "raw_content": "一季度内需引擎动力增强",
-  "source_url": "https://www.toutiao.com/article/7629893192774648329",
+  "raw_title": "本届广交会“含新量”十足",
+  "raw_content": "本届广交会“含新量”十足",
+  "source_url": "https://www.toutiao.com/article/7630013704377041443",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-18T13:05:09.914896+00:00",
-  "id": "883041e1-2279-4fc9-a084-d20741f45879",
+  "collected_at": "2026-04-18T18:53:37.024718+00:00",
+  "id": "b60b77bf-cc60-4630-b512-a4baf066b821",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-18T18:54:14.174866+00:00",
+  "processed_at": "2026-04-18T18:54:14.177572+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "50776557",
+    "hot_score": "39047921",
     "platform": "toutiao"
   }
 }

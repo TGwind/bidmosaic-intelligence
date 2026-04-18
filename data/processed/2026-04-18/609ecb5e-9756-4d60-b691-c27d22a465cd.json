@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "郝 哥 不 在",
-  "raw_content": "郝 哥 不 在",
-  "source_url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
+  "raw_title": "《明日方舟：终末地》干员叙事 [庄方宜：总有春风归故里]",
+  "raw_content": "求索之路无比漫长，希望渺茫……这条路，你可愿走？",
+  "source_url": "https://www.bilibili.com/video/BV13ydbB3EGK",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-18T07:10:23.017402+00:00",
-  "id": "487978f1-235e-49c4-8c4e-5b2b9be10043",
+  "collected_at": "2026-04-18T18:53:37.761141+00:00",
+  "id": "609ecb5e-9756-4d60-b691-c27d22a465cd",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-18T18:54:14.170043+00:00",
+  "processed_at": "2026-04-18T18:54:14.172187+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2915674,
+    "hot_score": 3131964,
     "platform": "bilibili"
   }
 }

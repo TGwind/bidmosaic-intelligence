@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "狡兔屋老大希希芙",
+  "raw_content": "以防您没看过主线——希希芙在空洞英雄大赛上曾顶替脚趾骨折的妮可，二人还未见过面。 感谢配音老师们！ 希希芙：@凉水咕咕咕 地铁乘客：@围曦阳CRY 妮可：@青提Mio 感谢好兄弟的客串：@惑其星实",
+  "source_url": "https://www.bilibili.com/video/BV1N8d5BsEcN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-18T18:53:37.761133+00:00",
+  "id": "0607407a-e18d-476b-acef-998ab092c33d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-18T18:54:14.164053+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1733640,
+    "platform": "bilibili"
+  }
+}
