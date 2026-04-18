@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《物理兴奋剂》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1ZxQpBsEuN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-18T18:53:37.761083+00:00",
+  "id": "4431b51c-f020-45c2-81ee-f7a9337264f3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5453628,
+    "platform": "bilibili"
+  }
+}
