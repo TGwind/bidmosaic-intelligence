@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "钧正平：日本赌国运的老毛病又要犯了",
+  "raw_content": "钧正平：日本赌国运的老毛病又要犯了",
+  "source_url": "https://www.toutiao.com/trending/7630042675575721481/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227630042675575721481%22%2C%22hot_board_impr_id%22%3A%222026041821050977A9FB9189DE152B5774%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%92%A7%E6%AD%A3%E5%B9%B3%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%B5%8C%E5%9B%BD%E8%BF%90%E7%9A%84%E8%80%81%E6%AF%9B%E7%97%85%E5%8F%88%E8%A6%81%E7%8A%AF%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7630042675575721481",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-18T13:05:09.914988+00:00",
+  "id": "37a7efc8-d5b1-476f-925d-12c7ed1b9021",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-18T13:05:43.295647+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "27866765",
+    "platform": "toutiao"
+  }
+}
