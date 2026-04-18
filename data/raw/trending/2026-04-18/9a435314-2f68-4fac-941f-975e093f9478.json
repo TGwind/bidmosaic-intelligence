@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "从爆红到封杀，人类高质量男性跑路后，模仿者继续折磨全网！【网络狠人91】",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV19UQ7BNEnb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-18T07:10:23.017504+00:00",
+  "id": "9a435314-2f68-4fac-941f-975e093f9478",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3058121,
+    "platform": "bilibili"
+  }
+}
