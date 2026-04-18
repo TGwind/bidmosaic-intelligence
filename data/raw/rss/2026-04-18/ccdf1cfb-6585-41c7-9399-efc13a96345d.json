@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stripe doubles down on blockchain and stablecoins, aiming to become 'AWS for money'",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/18/stripe-doubles-down-on-blockchain-and-stablecoins-aiming-to-become-aws-for-money",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-18T04:00:00+00:00",
+  "id": "ccdf1cfb-6585-41c7-9399-efc13a96345d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

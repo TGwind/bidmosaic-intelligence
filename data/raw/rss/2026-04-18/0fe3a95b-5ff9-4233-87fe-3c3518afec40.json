@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "安全专家纷纷离职，谁为AI竞赛踩刹车",
+  "raw_content": "<div>2026/04/17</div><div id=\"contentDiv\">\n<div></div><div id=\"imgDiv\">\n<center>\n<img border=\"0\" src=\"https://feedx.net/templates/nikkeisite/common/images/nocookie.gif\" usemap=\"https://feedx.net/rss/nikkei.xml#Map\" />\n<map id=\"Map\" name=\"Map\">\n<area coords=\"133,235,319,253\" href=\"https://cn.nikkei.com/component/ivisionregister/?task=reg01\" shape=\"rect\" />\n<area coords=\"132,315,319,335\" href=\"https://cn.nikkei.com/user/login.html?task=login&amp;return=aHR0cHM6Ly9jbi5uaWtrZWkuY29tL2luZHVzdHJ5L3NjaWVuY2VhdGVjaG5vbG9neS82MjE4OS0yMDI2LTA0LTE3LTExLTE0LTU1Lmh0bWw=\" shape=\"rect\" />\n\n</center>\n</div>",
+  "source_url": "http://cn.nikkei.com/industry/scienceatechnology/62189-2026-04-17-11-14-55.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-17T03:38:03+00:00",
+  "id": "0fe3a95b-5ff9-4233-87fe-3c3518afec40",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
