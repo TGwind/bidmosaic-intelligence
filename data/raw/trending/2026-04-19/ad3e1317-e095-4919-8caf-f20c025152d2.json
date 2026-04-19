@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "我国摧毁特大假酒网络",
+  "raw_content": "我国摧毁特大假酒网络",
+  "source_url": "https://www.toutiao.com/trending/7630322473116565550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227630322473116565550%22%2C%22hot_board_impr_id%22%3A%22202604192104238AE38B822C7AAC5BEE91%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%88%91%E5%9B%BD%E6%91%A7%E6%AF%81%E7%89%B9%E5%A4%A7%E5%81%87%E9%85%92%E7%BD%91%E7%BB%9C%22%7D&rank=&style_id=40132&topic_id=7630322473116565550",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-19T13:04:23.946255+00:00",
+  "id": "ad3e1317-e095-4919-8caf-f20c025152d2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "11583628",
+    "platform": "toutiao"
+  }
+}
