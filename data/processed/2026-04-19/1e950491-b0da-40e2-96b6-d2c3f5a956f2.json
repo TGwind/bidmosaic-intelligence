@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "What's Missing From LLM Chatbots: A Sense of Purpose",
+  "raw_content": "LLM-based chatbots&#x2019; capabilities have been advancing every month. These improvements are mostly measured by benchmarks like MMLU, HumanEval, and MATH (e.g. sonnet 3.5, gpt-4o). However, as these measures get more and more saturated, is user experience increasing in proportion to these scores? If we envision a future",
+  "source_url": "https://thegradient.pub/dialog/",
+  "source_name": "The Gradient",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2024-09-09T17:28:48+00:00",
+  "id": "1e950491-b0da-40e2-96b6-d2c3f5a956f2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-19T06:06:37.168777+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://thegradient.pub/rss/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
