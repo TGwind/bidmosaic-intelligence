@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "中国经济韧性持续增强",
-  "raw_content": "中国经济韧性持续增强",
-  "source_url": "https://www.toutiao.com/article/7630242355395789322",
+  "raw_title": "抢农时 抓田管 各地春耕有序推进",
+  "raw_content": "抢农时 抓田管 各地春耕有序推进",
+  "source_url": "https://www.toutiao.com/article/7630365492246626826",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-19T02:46:56.101956+00:00",
-  "id": "ccbded6e-9761-4b22-9a10-47a459cacc5a",
+  "collected_at": "2026-04-19T13:04:23.946199+00:00",
+  "id": "08be9d39-4217-4a0c-b9ca-2ee4634c4efb",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-19T13:05:03.767007+00:00",
+  "processed_at": "2026-04-19T13:05:03.750956+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "21577684",
+    "hot_score": "23326562",
     "platform": "toutiao"
   }
 }

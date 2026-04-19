@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "［meme］豌豆公主",
-  "raw_content": "bgm: Ficus--WMD",
-  "source_url": "https://www.bilibili.com/video/BV1DNd7BMEqP",
+  "raw_title": "《物理兴奋剂》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1ZxQpBsEuN",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-19T02:46:56.890057+00:00",
-  "id": "017512d5-755b-4167-8a6a-68e8319863a6",
+  "collected_at": "2026-04-19T13:04:24.538137+00:00",
+  "id": "4053fdfa-81f5-4bbe-933a-cd602dbd6331",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-19T13:05:03.748508+00:00",
+  "processed_at": "2026-04-19T13:05:03.754663+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1755328,
+    "hot_score": 6103251,
     "platform": "bilibili"
   }
 }
