@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Governors and Heads of Supervision welcome progress to implement Basel III and discuss elements of the Basel Committee's work programme",
+  "raw_content": "Group of Central Bank Governors and Heads of Supervision (GHOS) welcome the progress to fully implement Basel III.\nGHOS endorsed targeted reviews of the Committee's prudential standards for cryptoassets and global systemically important banks.",
+  "source_url": "https://www.bis.org/press/p260309.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-19T06:03:55.585638+00:00",
+  "id": "5a6aece0-608d-494c-a85d-5d3546e76051",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

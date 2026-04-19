@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Michael S Barr: Rural communities - worth the investment",
+  "raw_content": "Speech by Mr Michael S Barr, Member of the Board of Governors of the Federal Reserve System, at \"Strengthening America's economy through rural investment: a working forum\", Washington DC, 14 April 2026.",
+  "source_url": "https://www.bis.org/review/r260416h.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-19T06:03:55.751144+00:00",
+  "id": "58dc5997-3589-47a5-8a64-7c5e670320cf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
