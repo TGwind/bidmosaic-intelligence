@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经",
+  "raw_content": "楚人美取经之路",
+  "source_url": "https://www.bilibili.com/video/BV15YdBB6Efz",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-19T02:46:56.890016+00:00",
+  "id": "fca35df6-93df-472a-8999-8beb193162f1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-19T02:47:37.293285+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6283374,
+    "platform": "bilibili"
+  }
+}

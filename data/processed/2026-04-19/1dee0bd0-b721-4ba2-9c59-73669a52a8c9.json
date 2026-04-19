@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "男子偶遇小学班主任被一眼认出",
+  "raw_content": "男子偶遇小学班主任被一眼认出",
+  "source_url": "https://www.toutiao.com/trending/7629561873739431999/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629561873739431999%22%2C%22hot_board_impr_id%22%3A%22202604191046553BDD9D0E5F9D0403728F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B7%E5%AD%90%E5%81%B6%E9%81%87%E5%B0%8F%E5%AD%A6%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E4%B8%80%E7%9C%BC%E8%AE%A4%E5%87%BA%22%7D&rank=&style_id=40132&topic_id=7629561873739431999",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-19T02:46:56.101992+00:00",
+  "id": "1dee0bd0-b721-4ba2-9c59-73669a52a8c9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-19T02:47:37.283969+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14463954",
+    "platform": "toutiao"
+  }
+}
