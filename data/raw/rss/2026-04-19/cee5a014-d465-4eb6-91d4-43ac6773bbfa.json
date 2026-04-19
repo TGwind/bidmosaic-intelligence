@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "前往美国定居的AI人才一年减少八成",
+  "raw_content": "<div>2026/04/17</div><div id=\"contentDiv\">\n<div></div>\n<div>      前往美国定居的人工智能（AI）研究人员在过去一年中减少约80%，美国斯坦福大学的年度调查显示出这一现象。特朗普政府的签证限制政策被认为是主要原因。如果美国企业的人才获取受阻，可能会影响其与中国在AI开发领域的竞争。</div>\n<div>   </div>\n<div>      根据该校“以人为中心的人工智能研究所（HAI）”发布的年度调查《AI指数》，2025年一年内移居美国的AI研究人员和开发者数量骤减约80%。与2017年相比减少了89%，报告指出“美国吸引全球人才的能力正在下降”。</div>\n<div> </div>\n<div>      其背景在于美国政府的移民限制政策。美国总统特朗普于2025年9月签署总统令，对面向高端外国技术人员的工作签证“H1B”征收10万美元的费用，理由是“抢占了美国人的就业机会”。</div>\n<div>  </div>\n<div>      包括微软、Meta在内的美国大型科技企业，一直利用H1B签证在美国招聘专业外国员工。工程师通常通过企业担保的H1B签证在美停留，并在此期间争取获得永久居留权。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/career/humanresource/62188-2026-04-17-08-08-45.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-17T03:08:03+00:00",
+  "id": "cee5a014-d465-4eb6-91d4-43ac6773bbfa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

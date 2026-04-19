@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Seeks Public Comment on the Consolidated Audit Trail and Other Audit Trails and Data Sources",
+  "raw_content": "The Securities and Exchange Commission today issued a concept release soliciting public comment in support of a comprehensive review of the Consolidated Audit Trail (CAT) and other audit trails and related data sources currently used in the regulation of…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-37-sec-seeks-public-comment-consolidated-audit-trail-other-audit-trails-data-sources",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T13:55:00+00:00",
+  "id": "8af833ae-2b2b-4340-b018-83558ea07085",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

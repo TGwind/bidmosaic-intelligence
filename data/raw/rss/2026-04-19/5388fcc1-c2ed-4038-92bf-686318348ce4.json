@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
+  "raw_content": "Open models are driving a new wave of on-device AI, extending innovation beyond the cloud to everyday devices. As these models advance, their value increasingly depends on access to local, real-time context that can turn meaningful insights into action.  Designed for this shift, Google’s latest additions to the Gemma 4 family introduce a class of small, fast and omni-capable models built for efficient local execution across a wide range [&#8230;]",
+  "source_url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-02T16:15:58+00:00",
+  "id": "5388fcc1-c2ed-4038-92bf-686318348ce4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
