@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "中国1~3月智能手机出货量下滑3％",
+  "raw_content": "2026/04/17 小米的出货量显著下滑 美国调查公司IDC发布的数据显示，1~3月中国智能手机出货量为6900万部，同比下降3.3％。其影响因素是，作为主要零部件的存储半导体价格高涨，中国各手机厂商实施涨价。 出货量已连续4个季度同比下滑。除了消费放缓之外，成本上升也带来沉重负担。下滑尤其显著的企业是小米，跌出了各厂商出货量排名前五。小米被认为缩减了难以盈利的低价机型的出货量，美国调查公司Omdia的数据显示，小米1~3月出货量下降了35％。 虽然小米正在中国国内加紧向高价产品转型，但以新兴国家为中心，该公司在海外市场销售的主力机型仍然是低价产品，容易受到成本上升的负面影响。2025年10~12月存储器价格明显上涨，小米的智能手机业务整体毛利润同比下降四成。 以低价产品为主的其他中国厂商同样陷入苦战。IDC的数据显示，OPPO下降8.5％，荣耀（Honor）下降2.0％。各企业推进了涨价举措，此外，IDC指出：“为了确保利润，各公司正在缩减低价机型并向高价机型转型”。 另一方面，以高价位机型为主的厂商的出货量出现增加。出货量排名第一的华为增长8.1％，美国苹果增长33.3％。苹果2026年初开始与电商平台合作，积极开展打折促销活动等。自2025年秋季“iPhone17”上市以来，苹果已从此前的劣势局面中重振势头。 日本经济新闻（中文版：日经中文网）藤野逸郎 广州",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/62190-2026-04-17-11-26-28.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-17T03:38:03+00:00",
+  "id": "43f9d062-7d66-4f58-a55a-f782577f76bb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-19T09:04:37.293599+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
