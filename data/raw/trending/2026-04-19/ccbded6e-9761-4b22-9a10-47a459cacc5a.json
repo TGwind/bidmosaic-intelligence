@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中国经济韧性持续增强",
+  "raw_content": "中国经济韧性持续增强",
+  "source_url": "https://www.toutiao.com/article/7630242355395789322",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-19T02:46:56.101956+00:00",
+  "id": "ccbded6e-9761-4b22-9a10-47a459cacc5a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "21577684",
+    "platform": "toutiao"
+  }
+}
