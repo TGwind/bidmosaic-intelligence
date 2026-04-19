@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《非法组队》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1QTdHBpEfR",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-19T18:53:52.965011+00:00",
+  "id": "267a10d7-e8aa-4287-a2d9-fcc7f565967e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2240777,
+    "platform": "bilibili"
+  }
+}

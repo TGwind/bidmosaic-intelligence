@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "抢农时 抓田管 各地春耕有序推进",
+  "raw_content": "抢农时 抓田管 各地春耕有序推进",
+  "source_url": "https://www.toutiao.com/article/7630365492246626826",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-19T18:53:51.933791+00:00",
+  "id": "3ef2a821-6320-4638-9fe3-cd263a54a3f1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "29805114",
+    "platform": "toutiao"
+  }
+}
