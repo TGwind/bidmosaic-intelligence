@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "郝 哥 不 在",
-  "raw_content": "郝 哥 不 在",
-  "source_url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
+  "raw_title": "疑似三打白骨精现场真实画面流出",
+  "raw_content": "疑似三打白骨精现场真实画面流出",
+  "source_url": "https://www.bilibili.com/video/BV11ZdJB6ECR",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-19T13:04:24.538098+00:00",
-  "id": "52dd67b7-d2d1-41f1-a80c-da0162989436",
+  "collected_at": "2026-04-19T18:53:52.965023+00:00",
+  "id": "9dd6aee4-47b6-4773-a37c-30ad59d2b087",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-19T18:54:30.598301+00:00",
+  "processed_at": "2026-04-19T18:54:30.601888+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3730531,
+    "hot_score": 2172429,
     "platform": "bilibili"
   }
 }

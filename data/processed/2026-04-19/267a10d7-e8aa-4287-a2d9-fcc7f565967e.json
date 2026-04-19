@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "郝 哥 不 在",
-  "raw_content": "郝 哥 不 在",
-  "source_url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
+  "raw_title": "《非法组队》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1QTdHBpEfR",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-19T13:04:24.538098+00:00",
-  "id": "52dd67b7-d2d1-41f1-a80c-da0162989436",
+  "collected_at": "2026-04-19T18:53:52.965011+00:00",
+  "id": "267a10d7-e8aa-4287-a2d9-fcc7f565967e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-19T18:54:30.598301+00:00",
+  "processed_at": "2026-04-19T18:54:30.592813+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3730531,
+    "hot_score": 2240777,
     "platform": "bilibili"
   }
 }
