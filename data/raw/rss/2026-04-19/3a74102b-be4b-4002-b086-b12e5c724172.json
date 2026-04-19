@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "BIS extends term for John Williams as Chair of the Markets Committee",
+  "raw_content": "John C. Williams, President and Chief Executive Officer of the Federal Reserve Bank of New York, is to continue as Chair of the Bank for International Settlements' Markets Committee.",
+  "source_url": "https://www.bis.org/press/p260327.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-19T09:01:53.748951+00:00",
+  "id": "3a74102b-be4b-4002-b086-b12e5c724172",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

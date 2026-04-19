@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin 'plebs eat first' mining pool Parasite finds its second BTC block",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/18/bitcoin-plebs-eat-first-mining-pool-parasite-finds-its-second-btc-block",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-18T13:21:26+00:00",
+  "id": "dd81d787-d7a0-4a22-a519-c7ee65423389",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
