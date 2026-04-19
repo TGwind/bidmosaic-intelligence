@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Building better AI benchmarks: How many raters are enough?",
+  "raw_content": "Algorithms & Theory",
+  "source_url": "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T16:16:00+00:00",
+  "id": "0b74f2b3-afda-4e50-8984-8fc8fcd8ea4d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-19T13:20:00.746555+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}
