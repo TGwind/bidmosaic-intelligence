@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Spot Bitcoin ETFs attract nearly $1B in weekly inflows as risk sentiment improves",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Spot Bitcoin ETFs attract nearly $1B in weekly inflows as risk sentiment improves\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDlmYTktYTgyOC03MjE5LWJkNmQtZjczMThhYzEwNWRjLmpwZw==.jpg\" /></p><p>Spot Bitcoin ETFs recorded nearly $1 billion in weekly inflows, their strongest performance in over three months amid improving risk sentiment.</p>",
+  "source_url": "https://cointelegraph.com/news/spot-bitcoin-etfs-1b-weekly-inflows-risk-sentiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-18T08:28:25+00:00",
+  "id": "24d0b4a0-4cd1-458f-b7d3-07dc906acf8b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
