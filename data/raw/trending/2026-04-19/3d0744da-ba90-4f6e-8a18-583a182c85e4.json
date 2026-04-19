@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "文旅深度融合 春日经济持续火热",
+  "raw_content": "文旅深度融合 春日经济持续火热",
+  "source_url": "https://www.toutiao.com/article/7630282177623638579",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-19T07:21:43.101630+00:00",
+  "id": "3d0744da-ba90-4f6e-8a18-583a182c85e4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "24773921",
+    "platform": "toutiao"
+  }
+}
