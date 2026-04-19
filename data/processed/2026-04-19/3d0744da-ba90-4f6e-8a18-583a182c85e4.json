@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "中国经济韧性持续增强",
-  "raw_content": "中国经济韧性持续增强",
-  "source_url": "https://www.toutiao.com/article/7630242355395789322",
+  "raw_title": "文旅深度融合 春日经济持续火热",
+  "raw_content": "文旅深度融合 春日经济持续火热",
+  "source_url": "https://www.toutiao.com/article/7630282177623638579",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-19T02:46:56.101956+00:00",
-  "id": "ccbded6e-9761-4b22-9a10-47a459cacc5a",
+  "collected_at": "2026-04-19T07:21:43.101630+00:00",
+  "id": "3d0744da-ba90-4f6e-8a18-583a182c85e4",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-19T07:22:22.651233+00:00",
+  "processed_at": "2026-04-19T07:22:22.646583+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "21577684",
+    "hot_score": "24773921",
     "platform": "toutiao"
   }
 }

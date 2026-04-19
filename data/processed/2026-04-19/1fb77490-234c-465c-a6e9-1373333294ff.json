@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《崩坏：星穹铁道》千星纪游PV：「第999场：GAME NOT OVER」",
+  "raw_content": "第999场。 外景。朋克洛德——夜。终末。欢愉。 █失█败██ █ ███「GAME OVER？游戏，才刚刚开始。」█死██ █亡███ 中文CV： 银狼——Hanser 卡芙卡——徐慧 日文CV： 银狼——阿澄佳奈 卡芙卡——伊藤静 英文CV： 银狼——Melissa Fahn 卡芙卡——Cheryl Texiera 韩文CV： 银狼——장미 卡芙卡——사문영",
+  "source_url": "https://www.bilibili.com/video/BV118dqBXEgB",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-19T07:21:43.432115+00:00",
+  "id": "1fb77490-234c-465c-a6e9-1373333294ff",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-19T07:22:22.644923+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3175518,
+    "platform": "bilibili"
+  }
+}
