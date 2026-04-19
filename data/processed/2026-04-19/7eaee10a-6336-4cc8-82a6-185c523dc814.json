@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin mining difficulty falls, but projected to rise in next adjustment",
+  "raw_content": "The average block time at publication is about 9.8 minutes, falling slightly short of the 10-minute block target, according to CoinWarz.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-falls-rise-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-18T20:02:42+00:00",
+  "id": "7eaee10a-6336-4cc8-82a6-185c523dc814",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-19T03:39:23.200963+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

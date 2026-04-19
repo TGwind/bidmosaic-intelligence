@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A Visual Guide to Attention Variants in Modern LLMs",
+  "raw_content": "From MHA and GQA to MLA, sparse attention, and hybrid architectures",
+  "source_url": "https://magazine.sebastianraschka.com/p/visual-attention-variants",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-22T11:55:40+00:00",
+  "id": "1ca03151-0d31-4202-9e79-3af4d86eef80",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-19T03:39:23.160710+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
