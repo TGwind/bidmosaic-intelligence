@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
+  "raw_content": "<div class=\"OutlineElement Ltr SCXW178812853 BCX8\">\n<p>CISA has added eight new vulnerabilities to its <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\"><u>Known Exploited Vulnerabilities (KEV) Catalog</u></a>, based on evidence of active exploitation.&nbsp;</p>\n</div>\n<div class=\"ListContainerWrapper SCXW178812853 BCX8\">\n<ul>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2023-27351\" target=\"_blank\"><u>CVE-2023-27351</u></a> PaperCut NG/MF Improper Authentication Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2024-27199\" target=\"_blank\"><u>CVE-2024-27199</u></a> JetBrains TeamCity Relative Path Traversal Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2025-2749\" target=\"_blank\"><u>CVE-2025-2749</u></a> Kentico Xperience Path Traversal Vulnerability</li>\n<li><a class=\"Hyperlink SCXW178812853 BCX8\" href=\"https://www.cve.org/CVERecord?id=CVE-2025-32975\" rel=\"noreferrer noopener\" target=\"_blank\"><u>CVE-2025-32975</u></a> Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2025-48700\" target=\"_blank\"><u>CVE-2025-48700</u></a> Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-20122\" target=\"_blank\"><u>CVE-2026-20122</u></a> Cisco Catalyst SD-WAN Manager Incorrect Use of Privileged APIs Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-20128\" target=\"_blank\"><u>CVE-2026-20128</u></a> Cisco Catalyst SD-WAN Manager Storing Passwords in a Recoverable Format Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-20133\" target=\"_blank\"><u>CVE-2026-20133</u></a> Cisco Catalyst SD-WAN Manager Exposure of Sensitive Information to an Unauthorized Actor Vulnerability</li>\n</ul>\n<p>These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp;</p>\n</div>\n<div class=\"OutlineElement Ltr SCXW178812853 BCX8\">\n<p><a href=\"https://www.cisa.gov/binding-operational-directive-22-01\"><u>Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities</u></a> established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the <a href=\"https://www.cisa.gov/sites/default/files/publications/Reducing_the_Significant_Risk_of_Known_Exploited_Vulnerabilities_211103.pdf\"><u>BOD 22-01 Fact Sheet</u></a> for more information.&nbsp;</p>\n</div>\n<div class=\"OutlineElement Ltr SCXW178812853 BCX8\">\n<p>Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\"><u>KEV Catalog vulnerabilities</u></a> as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities\"><u>specified criteria</u></a>.&nbsp;</p>\n</div>",
+  "source_url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-20T12:00:00+00:00",
+  "id": "f700e00a-9d57-496e-aae8-cac5c58c8129",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}

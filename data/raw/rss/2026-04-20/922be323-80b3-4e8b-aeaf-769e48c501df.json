@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "DALM: A Domain-Algebraic Language Model via Three-Phase Structured Generation",
+  "raw_content": "arXiv:2604.15593v1 Announce Type: new \nAbstract: Large language models compress heterogeneous knowledge into a single parameter space, allowing facts from different domains to interfere during generation. We propose DALM, a Domain-Algebraic Language Model that replaces unconstrained token generation with structured denoising over a domain lattice. DALM follows a three-phase generation path: it first resolves domain uncertainty, then relation uncertainty, and finally concept uncertainty, so each stage operates under explicit algebraic constraints. The framework requires only three ingredients: a lattice of domains with computable meet, join, and implication; a typing function over relations that controls inheritance across domains; and a fiber partition that localizes knowledge to domain-specific subsets. Given these ingredients, DALM yields a three-phase encoder-decoder architecture in which generation is confined to a domain fiber, cross-domain contamination is structurally prevented in closed-vocabulary mode and auditably bounded in open-vocabulary mode, and a single query can produce a domain-indexed multi-perspective answer space. We instantiate the framework with the CDC knowledge representation system and outline training and evaluation on validated domain-annotated crystal libraries. DALM reframes language generation as algebraically constrained structured denoising rather than unconstrained decoding over a flat token space.",
+  "source_url": "https://arxiv.org/abs/2604.15593",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-20T04:00:00+00:00",
+  "id": "922be323-80b3-4e8b-aeaf-769e48c501df",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Denis Beau: The challenges posed by AI from the perspective of the central bank",
+  "raw_content": "Speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at an event organised by the Institut d'Administration des Entreprises, Brest, 2 April 2026.",
+  "source_url": "https://www.bis.org/review/r260416j.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-20T20:57:20.492059+00:00",
+  "id": "a451540e-1c78-4dd9-b84f-0be70f70519e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

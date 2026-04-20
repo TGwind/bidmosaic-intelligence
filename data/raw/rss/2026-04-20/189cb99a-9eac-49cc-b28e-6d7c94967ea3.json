@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+  "raw_content": "<p>CISA has added seven new vulnerabilities to its <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\" title=\"Known Exploited Vulnerabilities Catalog\">Known Exploited Vulnerabilities (KEV) Catalog</a>, based on evidence of active exploitation.</p>\n<ul>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2012-1854\" target=\"_blank\">CVE-2012-1854</a> Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2020-9715\" target=\"_blank\">CVE-2020-9715</a> Adobe Acrobat Use-After-Free Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2023-21529\" target=\"_blank\">CVE-2023-21529</a> Microsoft Exchange Server Deserialization of Untrusted Data Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2023-36424\" target=\"_blank\">CVE-2023-36424</a> Microsoft Windows Out-of-Bounds Read Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2025-60710\" target=\"_blank\">CVE-2025-60710</a> Microsoft Windows Link Following Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-21643\" target=\"_blank\">CVE-2026-21643</a> Fortinet SQL Injection Vulnerability</li>\n<li><a href=\"https://www.cve.org/CVERecord?id=CVE-2026-34621\" target=\"_blank\">CVE-2026-34621</a> Adobe Acrobat and Reader Prototype Pollution Vulnerability</li>\n</ul>\n<p>These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.</p>\n<p><a href=\"https://www.cisa.gov/binding-operational-directive-22-01\">Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities</a> established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the <a href=\"https://www.cisa.gov/sites/default/files/publications/Reducing_the_Significant_Risk_of_Known_Exploited_Vulnerabilities_211103.pdf\">BOD 22-01 Fact Sheet</a> for more information.</p>\n<p>Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities-catalog\" title=\"Known Exploited Vulnerabilities Catalog\">KEV Catalog vulnerabilities</a> as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the <a href=\"https://www.cisa.gov/known-exploited-vulnerabilities\" title=\"Reducing the Significant Risk of Known Exploited Vulnerabilities\">specified criteria</a>.&nbsp;</p>",
+  "source_url": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-13T12:00:00+00:00",
+  "id": "189cb99a-9eac-49cc-b28e-6d7c94967ea3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}

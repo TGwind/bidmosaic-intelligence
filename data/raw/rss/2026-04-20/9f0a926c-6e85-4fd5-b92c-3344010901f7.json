@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Thomson Reuters Shareholders Demand Investigation into ICE Contracts",
+  "raw_content": "The shareholders explicitly cited multiple 404 Media investigations, including one that showed Thomson Reuters' CLEAR is integrated with a tool ICE uses to find neighborhoods to target.",
+  "source_url": "https://www.404media.co/thomson-reuters-shareholders-demand-investigation-into-ice-contracts/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-16T00:09:26+00:00",
+  "id": "9f0a926c-6e85-4fd5-b92c-3344010901f7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

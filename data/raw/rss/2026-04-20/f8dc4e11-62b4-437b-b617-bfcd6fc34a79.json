@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Brain Score Tracks Shared Properties of Languages: Evidence from Many Natural Languages and Structured Sequences",
+  "raw_content": "arXiv:2604.15503v1 Announce Type: new \nAbstract: Recent breakthroughs in language models (LMs) using neural networks have raised the question: how similar are these models' processing to human language processing? Results using a framework called Brain Score (BS) -- predicting fMRI activations during reading from LM activations -- have been used to argue for a high degree of similarity. To understand this similarity, we conduct experiments by training LMs on various types of input data and evaluate them on BS. We find that models trained on various natural languages from many different language families have very similar BS performance. LMs trained on other structured data -- the human genome, Python, and pure hierarchical structure (nested parentheses) -- also perform reasonably well and close to natural languages in some cases. These findings suggest that BS can highlight language models' ability to extract common structure across natural languages, but that the metric may not be sensitive enough to allow us to infer human-like processing from a high BS score alone.",
+  "source_url": "https://arxiv.org/abs/2604.15503",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-20T04:00:00+00:00",
+  "id": "f8dc4e11-62b4-437b-b617-bfcd6fc34a79",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
