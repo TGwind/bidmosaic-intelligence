@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "男子称坐车里拍乌云时被雷劈中",
+  "raw_content": "男子称坐车里拍乌云时被雷劈中",
+  "source_url": "https://www.toutiao.com/trending/7630110133313568809/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227630110133313568809%22%2C%22hot_board_impr_id%22%3A%2220260420104816B39B77D36E9D0B077014%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9D%90%E8%BD%A6%E9%87%8C%E6%8B%8D%E4%B9%8C%E4%BA%91%E6%97%B6%E8%A2%AB%E9%9B%B7%E5%8A%88%E4%B8%AD%22%7D&rank=&style_id=40132&topic_id=7630110133313568809",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-20T02:48:17.164189+00:00",
+  "id": "78d1c40c-82f2-4c8d-8ca7-fb387e02c5c5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T02:48:55.235257+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8219525",
+    "platform": "toutiao"
+  }
+}

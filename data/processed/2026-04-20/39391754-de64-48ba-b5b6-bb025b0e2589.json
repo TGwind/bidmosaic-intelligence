@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "杨紫新剧老年妆",
+  "raw_content": "杨紫新剧老年妆",
+  "source_url": "https://www.toutiao.com/trending/7630249999133179947/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227630249999133179947%22%2C%22hot_board_impr_id%22%3A%2220260420104816B39B77D36E9D0B077014%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%A8%E7%B4%AB%E6%96%B0%E5%89%A7%E8%80%81%E5%B9%B4%E5%A6%86%22%7D&rank=&style_id=40132&topic_id=7630249999133179947",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-20T02:48:17.164245+00:00",
+  "id": "39391754-de64-48ba-b5b6-bb025b0e2589",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T02:48:55.235968+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "4081695",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "看“十五五”首季中国经济发展图景",
+  "raw_content": "看“十五五”首季中国经济发展图景",
+  "source_url": "https://www.toutiao.com/article/7630495673699418662",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-20T02:48:17.164145+00:00",
+  "id": "a7773550-bd4d-43ad-9e0d-edaa5c0f3302",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T02:48:55.237972+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13551705",
+    "platform": "toutiao"
+  }
+}

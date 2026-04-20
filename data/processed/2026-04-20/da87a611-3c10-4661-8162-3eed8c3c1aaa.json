@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "专家辟谣故宫每年用60吨猪血镇邪",
+  "raw_content": "专家辟谣故宫每年用60吨猪血镇邪",
+  "source_url": "https://www.toutiao.com/trending/7630305943914676270/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227630305943914676270%22%2C%22hot_board_impr_id%22%3A%2220260420104816B39B77D36E9D0B077014%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%93%E5%AE%B6%E8%BE%9F%E8%B0%A3%E6%95%85%E5%AE%AB%E6%AF%8F%E5%B9%B4%E7%94%A860%E5%90%A8%E7%8C%AA%E8%A1%80%E9%95%87%E9%82%AA%22%7D&rank=&style_id=40132&topic_id=7630305943914676270",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-20T02:48:17.164221+00:00",
+  "id": "da87a611-3c10-4661-8162-3eed8c3c1aaa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T02:48:55.240001+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5509712",
+    "platform": "toutiao"
+  }
+}
