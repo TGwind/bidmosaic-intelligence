@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "郝 哥 不 在",
-  "raw_content": "郝 哥 不 在",
-  "source_url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
+  "raw_title": "破产大王如何搞发明？【小约翰】",
+  "raw_content": "本篇为小约翰系列之格林父子。",
+  "source_url": "https://www.bilibili.com/video/BV1ewdhBmEux",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-20T02:48:18.028679+00:00",
-  "id": "9cefc8a0-5934-4a6a-9db8-f87da8fcfd47",
+  "collected_at": "2026-04-20T19:07:29.551264+00:00",
+  "id": "0db82f3c-16d7-4c56-9e4a-1e4d560b4a7c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-20T19:08:11.018045+00:00",
+  "processed_at": "2026-04-20T19:08:11.009482+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3901718,
+    "hot_score": 3110341,
     "platform": "bilibili"
   }
 }

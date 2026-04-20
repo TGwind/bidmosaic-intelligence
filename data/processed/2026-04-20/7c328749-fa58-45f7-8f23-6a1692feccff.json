@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "国民党两名选将“宣布退选”",
+  "raw_content": "国民党两名选将“宣布退选”",
+  "source_url": "https://www.toutiao.com/trending/7629921498199064582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629921498199064582%22%2C%22hot_board_impr_id%22%3A%2220260421030728223FA2360BADFDDF466A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%A4%E5%90%8D%E9%80%89%E5%B0%86%E2%80%9C%E5%AE%A3%E5%B8%83%E9%80%80%E9%80%89%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7629921498199064582",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-20T19:07:28.858080+00:00",
+  "id": "7c328749-fa58-45f7-8f23-6a1692feccff",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T19:08:11.015700+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20108454",
+    "platform": "toutiao"
+  }
+}

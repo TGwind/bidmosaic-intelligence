@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "郝 哥 不 在",
-  "raw_content": "郝 哥 不 在",
-  "source_url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
+  "raw_title": "\"每次生日许的愿 其实都与你有关\"2.0",
+  "raw_content": "\"每次生日许的愿 其实都与你有关\"2.0",
+  "source_url": "https://www.bilibili.com/video/BV1yedxBnEn3",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-20T02:48:18.028679+00:00",
-  "id": "9cefc8a0-5934-4a6a-9db8-f87da8fcfd47",
+  "collected_at": "2026-04-20T19:07:29.551255+00:00",
+  "id": "1ec9611e-9683-415b-8f56-f985ad3f3df5",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-20T19:08:11.018045+00:00",
+  "processed_at": "2026-04-20T19:08:11.006019+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3901718,
+    "hot_score": 3409594,
     "platform": "bilibili"
   }
 }
