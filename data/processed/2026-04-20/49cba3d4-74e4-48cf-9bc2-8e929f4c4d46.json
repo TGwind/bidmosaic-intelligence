@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Dimitar Radev: The current environment is not defined primarily by the baseline scenario. It is defined by the widening range of outcomes around it",
+  "raw_content": "Statement by Mr Dimitar Radev, Governor of the Bulgarian National Bank, at a meeting organised by the Bulgarian Spirit Diplomatic Society with Heads of diplomatic missions in the Republic of Bulgaria, Sofia, 30 March 2026.",
+  "source_url": "https://www.bis.org/review/r260416b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-20T20:57:20.492156+00:00",
+  "id": "49cba3d4-74e4-48cf-9bc2-8e929f4c4d46",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T21:00:04.982140+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

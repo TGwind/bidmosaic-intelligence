@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "​​Supply Chain Compromise Impacts Axios Node Package Manager​",
+  "raw_content": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments.&nbsp; On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber threat actor infrastructure, including a remote access trojan.2 CISA urges organizations to implement the following recommendations to detect and remediate a potential compromise: Monitor and review code repositories, continuous integration/continuous delivery (CI/CD) pipelines, and developer machines that ran npm install or npm update with the compromised Axios version. Search for cached versions of affected dependencies in artifact repositories and dependency management tools. Pin npm package dependency versions to known safe releases. If compromised dependencies are identified, revert the environment to a known safe state.&nbsp; Downgrade to axios@1.14.0 or axios@0.30.3 and delete node_modules/plain-crypto-js/. Rotate/revoke credentials that may have been exposed on affected systems or pipelines (e.g., version control system [VCS] tokens, CI/CD secrets, cloud keys, npm tokens, and Secure Shell [SSH] keys). For ephemeral CI jobs, rotate all secrets injected into the compromised run. Monitor for unexpected child processes and anomalous network behavior, specifically during npm install or npm update. Block and monitor outbound connections to Sfrclak[.]com domains. Conduct continuous indicator searches and endpoint detection and response (EDR) hunts to confirm no indicators of compromise (IOCs) remain; ensure no further egress to the command and control (C2). In addition, CISA recommends organizations using Axios npm: Mandate phishing-resistant multifactor authentication (MFA) on all developer accounts, especially for critical platforms. Set ignore-scripts=true in the .npmrc configuration file, which prevents potentially malicious scripts from executing during npm install packages. Set min-release-age=7 in the .npmrc configuration file to only install packages that have been published for at least seven days, which helps avoid installation of packages that may not be completely vetted or are potentially malicious. Establish and maintain a baseline of normal execution behavior for tools that use Axios. Alert when a dependency behaves differently (e.g., building containers, enabling shells, executing commands) and trace outbound network activity for anomalous connections. See the following resources for additional guidance on this compromise:&nbsp; GitHub: Post Mortem: axios npm supply chain compromise #10636 Microsoft: Mitigating the Axios npm supply chain compromise StepSecurity: axios Compromised on npm - Malicious Versions Drop Remote Access Trojan npm Docs: Securing your code Socket: Supply Chain Attack on Axios Pulls Malicious Dependency from npm Disclaimer The information in this report is being provided “as is” for informational purposes only. CISA does not endorse any commercial entity, product, company, or service, including any entities, products, or services linked within this document. Any reference to specific commercial entities, products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply endorsement, recommendation, or favoring by CISA. Notes 1 “Post Mortem: axios npm supply chain compromise,” axios GitHub, Issue #10636, March 31, 2026, https://github.com/axios/axios/issues/10636. 2 “Mitigating the Axios npm supply chain compromise,” Microsoft Threat Intelligence and Microsoft Defender Security Research Team, April 1, 2026, https://www.microsoft.com/en-us/security/blog/2026/04/01/mitigating-the-axios-npm-supply-chain-compromise/.",
+  "source_url": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-20T12:00:00+00:00",
+  "id": "9adaeea3-8ea0-4357-9b9e-d8105d74b904",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T21:00:05.019816+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
