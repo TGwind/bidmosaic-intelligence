@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经",
-  "raw_content": "楚人美取经之路",
-  "source_url": "https://www.bilibili.com/video/BV15YdBB6Efz",
+  "raw_title": "口技表演《三打白骨精》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1CVdVBjETn",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-20T02:48:18.028670+00:00",
-  "id": "58fdd949-62ec-4f8e-9947-91104ab5637f",
+  "collected_at": "2026-04-20T13:45:05.028132+00:00",
+  "id": "5cc98dec-c38d-4fc3-81b2-3a1cf4d620d2",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-20T13:45:46.958166+00:00",
+  "processed_at": "2026-04-20T13:45:46.958547+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 8431672,
+    "hot_score": 6250947,
     "platform": "bilibili"
   }
 }
