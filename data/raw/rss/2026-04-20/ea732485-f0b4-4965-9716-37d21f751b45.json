@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本地方政府IT设备将排除中国产品",
+  "raw_content": "<div>2026/04/20</div><div id=\"contentDiv\">\n<div></div>\n<div>      日本政府将规定，地方政府在采购IT（信息技术）设备时，只能选择被认定为网络安全风险较低的产品。此举以中国产品为主要针对对象，旨在排除可能导致信息泄露等风险的设备。</div>\n<div> </div>\n<div>      日本政府计划最早于6月修改相关省令，并力争在2027年夏季开始实施。适用范围包括地方政府在业务中使用的个人电脑、通信设备、服务器以及云服务等。</div>\n<div> </div>\n<div>      具体而言，将允许采购通过日本经济产业省对符合安全要求的物联网设备进行评估的“JC-STAR”，以及由国家网络安全统筹机构制定的云服务安全标准“ISMAP”认证的产品。</div>\n<div> </div>\n<div>      围绕中国产设备，一直存在其可能导致信息泄露或被用作来自境外网络攻击跳板的担忧。由于“JC-STAR”和“ISMAP”均未认证中国产品，这些产品将被排除在采购范围之外。</div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62215-2026-04-20-16-15-47.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-20T08:38:03+00:00",
+  "id": "ea732485-f0b4-4965-9716-37d21f751b45",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
