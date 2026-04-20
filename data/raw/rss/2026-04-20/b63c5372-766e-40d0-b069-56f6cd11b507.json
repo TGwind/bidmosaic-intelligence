@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
+  "raw_content": "arXiv:2604.15514v1 Announce Type: new \nAbstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's complete dataset of 409 systems using the Algorithmic Decision-Making Adapted for the Public Sector (ADMAPS) framework, combining quantitative mapping with deductive qualitative coding. Our findings reveal a sharp divergence between the rhetoric of \"sovereign AI\" and the reality of bureaucratic practice: while 86\\% of systems are deployed internally for efficiency, the Register systematically obscures the human discretion, training, and uncertainty management required to operate them. By privileging technical descriptions over sociotechnical context, the Register constructs an ontology of AI as \"reliable tooling\" rather than \"contestable decision-making.\" We conclude that without a shift in design, such transparency artifacts risk automating accountability into a performative compliance exercise, offering visibility without contestability.",
+  "source_url": "https://arxiv.org/abs/2604.15514",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-20T04:00:00+00:00",
+  "id": "b63c5372-766e-40d0-b069-56f6cd11b507",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

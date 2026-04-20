@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Announces Enforcement Results for Fiscal Year 2025",
+  "raw_content": "The Securities and Exchange Commission today announced enforcement results for the fiscal year that ended on September 30, 2025.Central to an effective enforcement program is determining which cases to bring and responsibly stewarding Commission…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-34",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-07T19:48:30+00:00",
+  "id": "13dee241-d309-4c51-a603-4dbd0e9c5ca9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}

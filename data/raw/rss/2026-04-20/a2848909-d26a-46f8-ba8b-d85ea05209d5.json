@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Coinbase is testing AI agents that show up on Slack and email",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Coinbase is testing AI agents that show up on Slack and email\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZDc0YzYtMmE4Ni03Njg5LWFjYjctMTU0ZDdlYmE3YTg5LmpwZw==.jpg\" /></p><p>Brian Armstrong has now predicted that AI agents will not only transact onchain more than humans but will outnumber employees at his company very soon.</p>",
+  "source_url": "https://cointelegraph.com/news/coinbase-introduces-two-ai-agents-assist-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T06:07:01+00:00",
+  "id": "a2848909-d26a-46f8-ba8b-d85ea05209d5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

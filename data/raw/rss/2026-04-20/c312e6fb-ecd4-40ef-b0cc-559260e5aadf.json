@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitmine buys 101,627 ether worth over $230 million, its largest weekly haul of 2026",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/20/bitmine-buys-101-627-ether-worth-over-usd230-million-its-largest-weekly-haul-of-2026",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T12:57:30+00:00",
+  "id": "c312e6fb-ecd4-40ef-b0cc-559260e5aadf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
