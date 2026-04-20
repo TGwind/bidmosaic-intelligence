@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」",
+  "raw_content": "游戏，就是要笑着玩的。\n \n中文CV：\n银狼——Hanser\n卡芙卡——徐慧\n刃——刘以嘉\n流萤——宋媛媛\n \n日文CV：\n银狼——阿澄佳奈\n卡芙卡——伊藤静\n刃——三木真一郎\n流萤——楠木灯\n \n英文CV：\n银狼——Melissa Fahn\n卡芙卡——Cheryl Texiera\n刃——Daman Mills\n流萤——Analesa Fisher\n \n韩文CV：\n银狼——장미\n卡芙卡——사문영\n刃——곽윤상\n流萤——유혜지",
+  "source_url": "https://www.bilibili.com/video/BV1wYdWB5EVF",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-20T02:48:18.028660+00:00",
+  "id": "bc8d813b-d84b-47bc-a065-fd45fdc2b7db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4132015,
+    "platform": "bilibili"
+  }
+}

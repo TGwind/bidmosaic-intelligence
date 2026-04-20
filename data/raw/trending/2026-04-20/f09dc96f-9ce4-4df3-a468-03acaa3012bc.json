@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "黄奕：何润东翻红不是靠运气",
+  "raw_content": "黄奕：何润东翻红不是靠运气",
+  "source_url": "https://www.toutiao.com/trending/7630453612321374249/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227630453612321374249%22%2C%22hot_board_impr_id%22%3A%2220260420104816B39B77D36E9D0B077014%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E5%A5%95%EF%BC%9A%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%BF%BB%E7%BA%A2%E4%B8%8D%E6%98%AF%E9%9D%A0%E8%BF%90%E6%B0%94%22%7D&rank=&style_id=40132&topic_id=7630453612321374249",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-20T02:48:17.164229+00:00",
+  "id": "f09dc96f-9ce4-4df3-a468-03acaa3012bc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "4985393",
+    "platform": "toutiao"
+  }
+}
