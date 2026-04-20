@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Ukraine Says Russians are Surrendering to Robots",
+  "raw_content": "Volodymyr Zelenskyy is pitching his country as a global leader in robots for war and defense. Will the world listen?",
+  "source_url": "https://www.404media.co/ukraine-says-russians-are-surrendering-to-robots/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-15T17:43:17+00:00",
+  "id": "273b71e4-5b66-46c0-8d9e-7016bfa641a0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T10:06:29.496748+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

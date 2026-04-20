@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "台媒报道称京都男童弃尸案嫌犯是大陆人，致歉",
+  "raw_content": "2026/04/20 京都府警方将嫌疑人安达优季送检（4月16日，京都府警南丹署，kyodo） 在日本京都府南丹市市立园部小学学生安达结希（11岁）遗体被遗弃一案中，社交平台上出现“其父亲为中国大陆籍”的虚假信息并持续扩散。 逮捕男童父亲、嫌疑人安达优季（37岁）的京都府警方明确否认了上述信息。一家台湾电视台曾错误报道该名父亲为中国大陆人，现已发布道歉声明。 嫌疑人被捕前，社交平台X（原推特）上已出现多条关于其国籍、年龄的错误信息。被认为是利用生成式AI（人工智能）加工而成的嫌疑人面部图片也在网上流传。 台湾电视台“民视”4月17日发布声明，就报道嫌疑人是中国大陆人的错误信息致歉。该台称此前是日本社交平台的信息而进行了报道。相关报道于嫌疑人被捕前的4月15日晚间播出。新闻网站上发布的相关视频已删除。民视发布的错误信息被翻译成日语，进一步在日本社交平台扩散。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62203-2026-04-20-09-27-41.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-20T01:38:03+00:00",
+  "id": "4036006c-ab77-45a0-9307-ee12018fecab",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T10:06:29.515594+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

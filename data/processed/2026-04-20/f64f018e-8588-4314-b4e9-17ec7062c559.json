@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Cloud hosting firm Vercel confirms ‘limited’ hack of user info",
+  "raw_content": "Vercel has confirmed it was compromised after a member of a hacking forum put the company’s information up for sale for $2 million.",
+  "source_url": "https://cointelegraph.com/news/cloud-hosting-vercel-confirms-limited-hack-user-info?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T06:05:56+00:00",
+  "id": "f64f018e-8588-4314-b4e9-17ec7062c559",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T10:06:29.579511+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

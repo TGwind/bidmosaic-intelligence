@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "坂本龙一获得香港金像奖最佳原创电影音乐奖",
+  "raw_content": "2026/04/20 坂本龙一 香港“金像奖”于4月19日晚揭晓，为2025年上映的中国大陆与香港合拍的电影《风林火山》创作音乐的坂本龙一（2023年去世）获得最佳原创电影音乐奖。 《风林火山》是一部以香港繁华街区铜锣湾为舞台的犯罪动作大片。主演之一是金城武。 据香港媒体报道，该影片还因制作费用高达约4亿港元而备受关注。影片中有香港下雪的场景，导演麦浚龙在寒冷环境中拍摄时灵光一闪，心想“如果能请坂本龙一作曲就好了”。据悉，坂本生前，麦浚龙在东京的一家酒店介绍了电影的故事梗概等，与坂本一起确定了乐曲的创作方向。 Kyodo",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62210-2026-04-20-14-23-38.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-20T06:38:02+00:00",
+  "id": "6ad196d1-f482-465d-a725-05c69a4c35e2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T10:06:29.546368+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
