@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "破产大王如何搞发明？【小约翰】",
+  "raw_content": "本篇为小约翰系列之格林父子。",
+  "source_url": "https://www.bilibili.com/video/BV1ewdhBmEux",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-20T08:09:52.090029+00:00",
+  "id": "ad8638c6-4d05-472a-98d7-47e84a3ba8a8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2786909,
+    "platform": "bilibili"
+  }
+}
