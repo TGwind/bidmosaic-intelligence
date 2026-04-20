@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto fund inflows hit $1.4B in second-strongest week since January",
+  "raw_content": "Crypto investment products recorded $1.4 billion in inflows last week as Bitcoin almost touched $78,000, with assets under management rising to $154.8 billion.",
+  "source_url": "https://cointelegraph.com/news/crypto-etp-1-4-billion-inflows-third-straight-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T11:12:45+00:00",
+  "id": "1a99bd09-dd05-448f-a195-86df254169b0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T17:17:28.629161+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

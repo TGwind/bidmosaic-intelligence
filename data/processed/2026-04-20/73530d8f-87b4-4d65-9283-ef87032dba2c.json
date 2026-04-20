@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Vasileios Madouros: Minding the tails - safeguarding resilience of non-bank finance",
+  "raw_content": "Speech by Mr Vasileios Madouros, Deputy Governor of the Central Bank of Ireland, at an event, organised by Irish Funds, Dublin, 9 April 2026.",
+  "source_url": "https://www.bis.org/review/r260416d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-20T17:14:38.377322+00:00",
+  "id": "73530d8f-87b4-4d65-9283-ef87032dba2c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T17:17:28.711001+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

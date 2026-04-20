@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy buys 34,164 Bitcoin for $2.5B, holdings top 800,000 BTC",
+  "raw_content": "Strategy bought 34,164 Bitcoin for $2.54 billion last week, marking its third-largest BTC purchase on record.",
+  "source_url": "https://cointelegraph.com/news/strategy-buys-34-164-bitcoin-total-holdings-hit-815-061-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T12:29:07+00:00",
+  "id": "6e0e7447-4b3e-4f84-bb1a-628d471ef0ed",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T17:17:28.710091+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
