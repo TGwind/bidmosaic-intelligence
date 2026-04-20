@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "RaveDAO denies manipulation as Binance, Bitget probe RAVE trading activity",
+  "raw_content": "RaveDAO denies involvement in RAVE token price surge and crash as Binance and Bitget launch investigations into suspected market manipulation.",
+  "source_url": "https://cointelegraph.com/news/ravedao-denies-manipulation-binance-bitget-probe-rave-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-19T07:19:50+00:00",
+  "id": "80a71e2c-5105-43a2-a98e-fcdf95ea2f92",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T03:44:47.522851+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

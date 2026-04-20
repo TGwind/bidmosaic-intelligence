@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普称“扣押伊朗货船”，伊朗警告将报复",
+  "raw_content": "2026/04/20",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62201-2026-04-20-08-09-51.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-20T01:08:02+00:00",
+  "id": "bb63fb26-1b0c-4cc0-b8bd-d8ad677c5ca8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T03:44:47.549874+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

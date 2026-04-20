@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "RaveDAO's RAVE token collapses 90% in a day as exchange probes widen",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/19/ravedao-s-rave-token-collapses-90-in-a-day-as-exchange-probes-widen",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-19T14:28:45+00:00",
+  "id": "8441c2f9-38c6-4f13-9df4-00dd7efef6e0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T03:44:47.529139+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

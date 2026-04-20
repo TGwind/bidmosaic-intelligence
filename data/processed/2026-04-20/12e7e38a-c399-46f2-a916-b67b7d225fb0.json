@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Robots beat human records at Beijing half-marathon",
+  "raw_content": "The winning time is a massive improvement over last year’s race, when the fastest robot finished in two hours and 40 minutes.",
+  "source_url": "https://techcrunch.com/2026/04/19/robots-beat-human-records-at-beijing-half-marathon/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-19T18:44:00+00:00",
+  "id": "12e7e38a-c399-46f2-a916-b67b7d225fb0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T03:44:47.472364+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "'DeFi is dead': crypto community scrambles after this year's biggest hack exposes contagion risk",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/news-analysis/2026/04/19/defi-is-dead-crypto-community-scrambles-after-usd292-million-hack-exposes-cross-chain-risks",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-19T17:49:03+00:00",
+  "id": "f4588256-baa6-4f5a-860d-aa1fc9aa0cf2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T03:44:47.576532+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

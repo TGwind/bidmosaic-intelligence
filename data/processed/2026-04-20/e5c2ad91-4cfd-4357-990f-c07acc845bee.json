@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "3月亚洲发往美国集装箱运输量增长1.3%",
+  "raw_content": "2026/04/20 美国调查公司笛卡尔数据矿业统计显示，3月从亚洲发往美国的海运集装箱运输量为166万5755个（按20英尺集装箱折算），同比增长1.3%。来自越南、泰国等制造业持续发展的东南亚国家的运输增长起到了推动作用。 在中美对立背景下，企业将生产基地从中国转移至东南亚等周边国家的趋势扩大。以东南亚为起点、面向美国的供应链重构正在推进，也给国际物流带来变化。 运输量时隔7个月再次超过上年同期。按国家和地区来看，越南增长39.7%，韩国增长7.0%，泰国增长11.8%，马来西亚增长41.3%，斯里兰卡增长20.4%。 另一方面，中国下降6.0%，新加坡下降9.8%，日本下降14.1%。 按品类看，运输量最多的家具类增长7.3%，成为主要拉动力；塑料制品增长12.2%，玩具增长10.2%。钢铁制品下降3.7%，橡胶制品下降2.6%。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/investtrade/62199-2026-04-20-08-09-54.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-20T01:08:02+00:00",
+  "id": "e5c2ad91-4cfd-4357-990f-c07acc845bee",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-20T03:44:47.566189+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
