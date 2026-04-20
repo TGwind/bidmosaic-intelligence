@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "看“十五五”首季中国经济发展图景",
-  "raw_content": "看“十五五”首季中国经济发展图景",
-  "source_url": "https://www.toutiao.com/article/7630495673699418662",
+  "raw_title": "创新这场“马拉松” 没有终点",
+  "raw_content": "创新这场“马拉松” 没有终点",
+  "source_url": "https://www.toutiao.com/article/7630375630416249394",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-20T02:48:17.164145+00:00",
-  "id": "a7773550-bd4d-43ad-9e0d-edaa5c0f3302",
+  "collected_at": "2026-04-20T08:09:51.441922+00:00",
+  "id": "52617064-5333-4e6c-9dab-cfa79744aca7",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-20T08:10:33.304419+00:00",
+  "processed_at": "2026-04-20T08:10:33.299507+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "13551705",
+    "hot_score": "21325067",
     "platform": "toutiao"
   }
 }
