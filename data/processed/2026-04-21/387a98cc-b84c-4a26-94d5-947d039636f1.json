@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "North Korea’s crypto heist playbook is expanding and DeFi keeps getting hit",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/20/north-korea-s-crypto-heist-playbook-is-expanding-and-defi-keeps-getting-hit",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T21:17:17+00:00",
+  "id": "387a98cc-b84c-4a26-94d5-947d039636f1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T06:10:38.292911+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

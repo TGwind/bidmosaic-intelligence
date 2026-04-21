@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin reclaims $75,000 as Iran ceasefire talks advance, equities rally resumes",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-reclaims-usd75-000-as-iran-ceasefire-talks-advance-equities-rally-resumes",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T05:45:58+00:00",
+  "id": "bd85d24a-b303-4c79-965b-0517761a7fe3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T06:10:38.360297+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

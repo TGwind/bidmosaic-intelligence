@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
+  "raw_content": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation.&nbsp; CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability CVE-2026-20122 Cisco Catalyst SD-WAN Manager Incorrect Use of Privileged APIs Vulnerability CVE-2026-20128 Cisco Catalyst SD-WAN Manager Storing Passwords in a Recoverable Format Vulnerability CVE-2026-20133 Cisco Catalyst SD-WAN Manager Exposure of Sensitive Information to an Unauthorized Actor Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.&nbsp; Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requires Federal Civilian Executive Branch (FCEB) agencies to remediate identified vulnerabilities by the due date to protect FCEB networks against active threats. See the BOD 22-01 Fact Sheet for more information.&nbsp; Although BOD 22-01 only applies to FCEB agencies, CISA strongly urges all organizations to reduce their exposure to cyberattacks by prioritizing timely remediation of KEV Catalog vulnerabilities as part of their vulnerability management practice. CISA will continue to add vulnerabilities to the catalog that meet the specified criteria.&nbsp;",
+  "source_url": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-20T12:00:00+00:00",
+  "id": "15f7cc90-8af3-47b7-882c-22a86160359b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T06:10:38.265608+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}

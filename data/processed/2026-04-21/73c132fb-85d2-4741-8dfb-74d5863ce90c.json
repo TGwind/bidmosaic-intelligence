@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin bounces above $76,000 as DeFi suffers $14 billion exodus after KelpDAO hack",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-bounces-above-usd76-000-as-defi-suffers-usd14-billion-exodus-after-kelpdao-hack",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T20:53:22+00:00",
+  "id": "73c132fb-85d2-4741-8dfb-74d5863ce90c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T06:10:38.343666+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Aave risk manager models 2 bad debt scenarios from Kelp DAO exploit",
+  "raw_content": "The first scenario is far cheaper but runs the risk of rsETH depegging an estimated 15%, while the second is costlier but better protects Ethereum mainnet and concentrates losses at the layer 2 level.",
+  "source_url": "https://cointelegraph.com/news/aave-s-risk-manager-shares-2-scenarios-to-allocate-losses-from-kelp-dao-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T03:41:21+00:00",
+  "id": "e1ceb60c-ddcd-4527-b703-ce6ba971ba16",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T06:10:38.375758+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
