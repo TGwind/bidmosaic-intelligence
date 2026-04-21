@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "预计日本央行4月将暂缓加息",
+  "raw_content": "<div>2026/04/21</div><div id=\"contentDiv\">\n<div></div>\n<div>      日本银行（央行）在4月27日至28日召开的金融政策决定会议上，维持政策利率在0.75%的可能性增大。在中东局势持续动荡的背景下，尚无法充分评估其对日本经济和物价的影响，因此是否追加加息的判断将推迟至6月的下一次会议。</div>\n<div> </div>\n<div>      在3月的上一次会议上，审议委员高田创以物价上行风险为由提议加息，但因反对意见占多数而被否决。</div>\n<div> </div>\n<div>     此次会议中，在9名政策委员中仍可能有部分成员主张加息。如果自2025年12月以来再次加息，政策利率将升至1.0%，但目前支持尽快加息的意见尚未形成广泛共识。</div>\n<div>  </div>\n<div></div><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/economic-policy/62232-2026-04-21-15-21-54.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-21T07:38:02+00:00",
+  "id": "41526866-6bf1-4c54-b634-c81a2441c052",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

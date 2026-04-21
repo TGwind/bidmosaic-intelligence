@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Arbitrum freezes $71M of Ether connected to Kelp exploit",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Arbitrum freezes $71M of Ether connected to Kelp exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFlNWQtZTFkNi03YWNiLWE5MjktNzA3ZTQzNzVkZjNiLmpwZw==.jpg\" /></p><p>Griff Green, a member of Arbitrum’s security council, said the group acted with input from law enforcement and “did not make this decision lightly.\"</p>",
+  "source_url": "https://cointelegraph.com/news/arbitrum-freezes-71m-ether-connected-kelp-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T06:00:03+00:00",
+  "id": "cfe42a72-4b91-46fd-96ff-0088004199a3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
