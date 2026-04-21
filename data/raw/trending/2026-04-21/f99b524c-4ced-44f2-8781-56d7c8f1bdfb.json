@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "当你穿进老钱班22",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1YQdWBcEtN",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-21T19:14:21.469237+00:00",
+  "id": "f99b524c-4ced-44f2-8781-56d7c8f1bdfb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4036211,
+    "platform": "bilibili"
+  }
+}
