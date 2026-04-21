@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "国内油价迎今年首次下调",
+  "raw_content": "国内油价迎今年首次下调",
+  "source_url": "https://www.toutiao.com/trending/7630377054950785030/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227630377054950785030%22%2C%22hot_board_impr_id%22%3A%2220260421214329BD1C9DD52C215642B1D4%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E8%BF%8E%E4%BB%8A%E5%B9%B4%E9%A6%96%E6%AC%A1%E4%B8%8B%E8%B0%83%22%7D&rank=&style_id=40132&topic_id=7630377054950785030",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-21T13:43:29.923044+00:00",
+  "id": "89d74bc7-7b9b-431c-a338-5aa28a943d96",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5028126",
+    "platform": "toutiao"
+  }
+}
