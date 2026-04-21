@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin is now calmer than South Korea's stock market. Here's why it matters",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/21/bitcoin-is-less-volatile-than-south-korea-s-stock-market-right-now",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T09:25:24+00:00",
+  "id": "6901ed7c-457d-421b-bd5d-0168d9f6c0ae",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T14:02:10.440435+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

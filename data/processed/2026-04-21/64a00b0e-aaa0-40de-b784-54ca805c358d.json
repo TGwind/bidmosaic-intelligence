@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Philippines SEC flags dYdX, six crypto platforms as unauthorized",
+  "raw_content": "Promoters of flagged platforms may face fines of up to 5 million Philippine pesos ($89,000) or up to 21 years in prison under Philippine securities law.",
+  "source_url": "https://cointelegraph.com/news/philippines-sec-warns-dydx-crypto-platforms-investor-alert?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T09:22:30+00:00",
+  "id": "64a00b0e-aaa0-40de-b784-54ca805c358d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T14:02:10.437427+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin trades above a make-or-break level ahead of Warsh hearing",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/daybook-us/2026/04/21/bitcoin-trades-above-a-make-or-break-level-ahead-of-warsh-hearing",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T11:29:24+00:00",
+  "id": "fa3c6f09-09fb-4f40-8c8c-915c9a36c044",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T14:02:10.476031+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

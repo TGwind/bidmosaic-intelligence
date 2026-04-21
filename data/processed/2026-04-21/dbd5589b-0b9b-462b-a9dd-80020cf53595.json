@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Fabio Panetta: Statement - meeting of the Development Committee",
+  "raw_content": "Statement by Mr Fabio Panetta, Governor of the Bank of Italy and Governor of the Constituency of Albania, Greece, Italy, Malta, Portugal, San Marino and Timor-Leste, at the 113th Meeting of the Development Committee (Joint Ministerial Committee of the Boards of Governors of the Bank and the Fund on the Transfer of Real Resources to Developing Countries), Washington DC, 16 April 2026.",
+  "source_url": "https://www.bis.org/review/r260420c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-21T14:00:23.024060+00:00",
+  "id": "dbd5589b-0b9b-462b-a9dd-80020cf53595",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T14:02:10.472942+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

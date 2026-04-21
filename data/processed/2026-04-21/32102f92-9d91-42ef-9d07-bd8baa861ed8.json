@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "美国议员提新法案加强对华半导体出口管制",
+  "raw_content": "2026/04/21 荷兰阿斯麦（ASML）的EUV半导体制造设备（比利时的imec基地、3月、REUTERS） 美国开始出现进一步加强对中国半导体出口管制的动向。美国国会提出的新法案将对半导体制造设备的出口限制扩大至旧一代设备，并向日本等同盟国寻求合作。中国正加快人工智能（AI）半导体的自主生产，而美国希望拖慢中国的开发步伐。 美国国会众议院的跨党派议员于4月上旬提出了名为“硬件技术监管多边协调法（MATCH法）”的法案。目标瞄准尖端半导体的制造设备。 在用于AI等领域的微细半导体的制造方面，电路形成所需的“光刻机”成为关键。美国与荷兰等国联手，尤其在“极紫外（EUV）”光刻机的出口管制上，此前已构建起对华包围圈。 新法案计划今后把上一代的“深紫外（DUV）”浸没式光刻机也一律纳入对华出口限制。到目前为止，浸没式DUV的限制对象仅为尖端产品。 光刻机用于使半导体的电路线宽更细，以提高集成度。最先进的EUV在全世界只有荷兰的阿斯麦控股有能力制造。 由于荷兰禁止向中国出口，中国企业一直使用传统的DUV，通过多次曝光工序反复加工来实现高性能半导体的自主生产。 在光刻机等半导体设备方面也有日本企业涉足。比如尼康生产DUV光刻机，Tokyo Electron则制造蚀刻设备。虽然各企业已依据日本对华出口管制开展应对，但法案要求美国的同盟国也采取同等的严格措施，如果150天内未采取应对措施，美国将独自对该国出口的设备实施管制。 日本经济新闻（中文版：日经中文网）山田辽太郎 硅谷",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/62233-2026-04-21-15-32-43.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-21T08:08:03+00:00",
+  "id": "32102f92-9d91-42ef-9d07-bd8baa861ed8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T14:02:10.395833+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

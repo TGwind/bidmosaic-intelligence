@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Why Journalists Are Going Indie (with Maddy Myers)",
+  "raw_content": "Maddy and Sam get into the launch of Mothership and the importance of owning one's own work.",
+  "source_url": "https://www.404media.co/maddy-myers-mothership-interview/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-20T13:00:27+00:00",
+  "id": "46746058-f76a-46b1-9cd4-47f5016d05a0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T14:02:10.420573+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

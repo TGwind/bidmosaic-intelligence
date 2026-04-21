@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Kelp DAO attacker moves $175M in Ether after exploit: Arkham",
+  "raw_content": "The Kelp DAO attacker has moved $175 million of stolen Ether in an apparent bid to start laundering it after the $290 million exploit.",
+  "source_url": "https://cointelegraph.com/news/kelp-exploiter-moves-175m-stolen-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T11:12:09+00:00",
+  "id": "8d771a5d-d258-4ab7-a205-afc8bdfe5872",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T14:02:10.455254+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
