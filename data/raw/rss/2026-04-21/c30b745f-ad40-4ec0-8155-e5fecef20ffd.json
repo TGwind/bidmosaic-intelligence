@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"VIX drops 45% in three weeks: Is Bitcoin price ready to retake $80K?\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFmZTctMzljMS03NmJlLWFmMmUtZjFlODkzMGFlNGY0LmpwZw==.jpg\" /></p><p>A falling VIX signals improving risk appetite, boosting Bitcoin’s chances of attracting fresh demand and breaking above the $80,000 level.</p>",
+  "source_url": "https://cointelegraph.com/news/vix-drops-45-precent-three-weeks-btc-price-retake-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T12:25:47+00:00",
+  "id": "c30b745f-ad40-4ec0-8155-e5fecef20ffd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

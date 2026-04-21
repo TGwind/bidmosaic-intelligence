@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin risks losing $70K as Strategy's STRC slips below $100",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin risks losing $70K as Strategy's STRC slips below $100\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFiOWEtZTFkOS03MDI5LWE2MWMtNDYyMTNiYTgzOTIxLmpwZw==.jpg\" /></p><p>STRC's dropped below its $100 par value, indicating that Strategy will likely pause Bitcoin buying this week, which could help the bears pull price down to $70,000.</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-risks-losing-70k-strategy-strc-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T08:25:10+00:00",
+  "id": "3f3aab55-34a7-4b8d-b961-cca972351a22",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
