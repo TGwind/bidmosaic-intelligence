@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "口技表演《三打白骨精》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1CVdVBjETn",
+  "raw_title": "重庆|如画一般",
+  "raw_content": "山城的巷子里总有惊喜，这五颜六色如画一般。",
+  "source_url": "https://www.bilibili.com/video/BV1BCdZBeECE",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-21T07:53:12.011396+00:00",
-  "id": "1fcaf719-9d42-403f-aac3-9e55f341234c",
+  "collected_at": "2026-04-21T19:14:21.469297+00:00",
+  "id": "9d9df546-3b3c-412b-a6d3-d96f5a580789",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-21T19:15:03.990723+00:00",
+  "processed_at": "2026-04-21T19:15:04.008820+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 6749811,
+    "hot_score": 2834142,
     "platform": "bilibili"
   }
 }

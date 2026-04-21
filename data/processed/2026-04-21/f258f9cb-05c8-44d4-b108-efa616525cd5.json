@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "口技表演《三打白骨精》",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1CVdVBjETn",
+  "raw_title": "青年大学习初入社会学校不教，但你要会的53个技能",
+  "raw_content": "视频均由up真人出镜实景拍摄，个人能力有限，如有错误欢迎指正。",
+  "source_url": "https://www.bilibili.com/video/BV1TTdBBtEtt",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-21T07:53:12.011396+00:00",
-  "id": "1fcaf719-9d42-403f-aac3-9e55f341234c",
+  "collected_at": "2026-04-21T19:14:21.469313+00:00",
+  "id": "f258f9cb-05c8-44d4-b108-efa616525cd5",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-21T19:15:03.990723+00:00",
+  "processed_at": "2026-04-21T19:15:04.009838+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 6749811,
+    "hot_score": 514936,
     "platform": "bilibili"
   }
 }
