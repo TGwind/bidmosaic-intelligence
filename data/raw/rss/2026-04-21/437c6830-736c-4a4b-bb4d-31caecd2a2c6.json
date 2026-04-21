@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Price predictions 4/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Price predictions 4/20: SPX, DXY, BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGFiZDItZWVjZi03NDAxLWE1ZWEtYzM0YjFmYjA1NWMxLmpwZw==.jpg\" /></p><p>Bitcoin bulls retain control over the market, but charts show $80,000 is likely to remain a stiff overhead resistance. Will altcoins rally as BTC price consolidates?</p>",
+  "source_url": "https://cointelegraph.com/news/price-predictions-4-20-spx-dxy-btc-eth-bnb-xrp-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T18:52:11+00:00",
+  "id": "437c6830-736c-4a4b-bb4d-31caecd2a2c6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

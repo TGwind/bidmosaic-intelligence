@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Data Mixing for Large Language Models Pretraining: A Survey and Outlook",
+  "raw_content": "arXiv:2604.16380v1 Announce Type: new \nAbstract: Large language models (LLMs) rely on pretraining on massive and heterogeneous corpora, where training data composition has a decisive impact on training efficiency and downstream generalization under realistic compute and data budget constraints. Unlike sample-level data selection, data mixing optimizes domain-level sampling weights to allocate limited budgets more effectively. In recent years, a growing body of work has proposed principled data mixing methods for LLM pretraining; however, the literature remains fragmented and lacks a dedicated, systematic survey. This paper provides a comprehensive review of data mixing for LLM pretraining. We first formalize data mixture optimization as a bilevel problem on the probability simplex and clarify the role of data mixing in the pretraining pipeline, and briefly explain how existing methods make this formulation tractable in practice. We then introduce a fine-grained taxonomy that organizes existing methods along two dimensions: static versus dynamic mixing. Static mixing is further categorized into rule-based and learning-based methods, while dynamic mixing is grouped into adaptive and externally guided families. For each class, we summarize representative approaches and analyze their strengths and limitations from a performance-cost trade-off perspective. Building on this analysis, we highlight challenges that cut across methods, including limited transferability across data domains, optimization objectives, models, and validation sets, as well as unstandardized evaluation protocols and benchmarks, and the inherent tension between performance gains and cost control in learning-based methods. Finally, we outline several exploratory directions, including finer-grained domain partitioning and inverse data mixing, as well as pipeline-aware designs, aiming to provide conceptual and methodological insights for future research.",
+  "source_url": "https://arxiv.org/abs/2604.16380",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-21T04:00:00+00:00",
+  "id": "44a950c9-eabb-4a2a-963d-73db74b1cb42",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

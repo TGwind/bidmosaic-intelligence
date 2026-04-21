@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin faces near-term pressure as liquidity tightens, Hilbert Group CIO says",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/20/bitcoin-faces-near-term-pressure-as-liquidity-tightens-hilbert-group-cio-says",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T16:07:23+00:00",
+  "id": "7d49a88c-0774-46b7-aa95-ebd95bfce214",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

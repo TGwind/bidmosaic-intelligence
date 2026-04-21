@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Blockchain sleuth accuses RaveDAO of knowing who manipulated the price of its token",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/20/blockchain-sleuth-accuses-ravedao-of-knowing-who-manipulated-the-price-of-its-token",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T15:16:08+00:00",
+  "id": "dedbe0eb-aabb-4b2c-8c5e-c488f9ddacc8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
