@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "李小冉因唱歌跑调哭了两晚",
+  "raw_content": "李小冉因唱歌跑调哭了两晚",
+  "source_url": "https://www.toutiao.com/trending/7631014435621322761/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227631014435621322761%22%2C%22hot_board_impr_id%22%3A%2220260421155311AB33F00C54CB883DEF7B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9D%8E%E5%B0%8F%E5%86%89%E5%9B%A0%E5%94%B1%E6%AD%8C%E8%B7%91%E8%B0%83%E5%93%AD%E4%BA%86%E4%B8%A4%E6%99%9A%22%7D&rank=&style_id=40132&topic_id=7631014435621322761",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-21T07:53:11.330387+00:00",
+  "id": "f40ee09f-99eb-4fa2-b26f-ca58b22cd7da",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T07:53:49.575493+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "21335725",
+    "platform": "toutiao"
+  }
+}
