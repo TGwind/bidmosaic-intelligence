@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "SusHi Tech Tokyo isn’t a conference — it’s a deal room with 60,000 people",
+  "raw_content": "When 60,000 attendees descend on Tokyo Big Sight April 27–29, the headline numbers are hard to ignore: 750 startup exhibitors, 151 sessions, city leaders from 49 countries. But the stat that tells you what kind of event this actually is? It's 10,000 facilitated business meetings — brokered, booked, and tracked before most attendees even land.",
+  "source_url": "https://techcrunch.com/2026/04/21/sushi-tech-tokyo-isnt-a-conference-its-a-deal-room-with-60000-people/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-21T19:02:35+00:00",
+  "id": "a6c2217c-82bf-4dda-99f4-e6e4bfe987a7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

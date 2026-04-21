@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日本自卫队射击训练炮弹在膛内爆裂，3人死亡",
+  "raw_content": "<div>2026/04/21</div><div id=\"contentDiv\">\n<div></div>\n<div>      据日本陆上自卫队西部方面总监部等消息，4月21日上午8时40分左右，在大分县的陆上自卫队日出生台演习场，西部方面坦克部队进行坦克射击训练时，炮弹在炮管内发生爆裂。车内4名队员被波及，其中3人死亡、1人受伤。</div>\n<div> </div>\n<div>      据大分县当地消防部门称，受伤的1人面部被烧伤，但仍有意识。</div>\n<div> </div>\n<div>      自卫队正在确认详细情况并调查原因。日本防卫相小泉进次郎在国会对记者表示：“详细的事实关系和原因正在确认中。对此深感遗憾。将努力查明原因并彻底加强安全管理”。</div>\n<div> </div>\n<div>      日出生台演习场横跨由布市、玖珠町和九重町，占地49.87平方公里，是西日本最大级别的陆上自卫队演习场之一。</div>\n<div>  </div>\n<div><strong>  （kyodo）</strong></div>\n<div><strong>  </strong></div>\n<div></div><br /><hr /><div>获取更多RSS：<br /><a href=\"https://feedx.net\" style=\"color: orange;\" target=\"_blank\">https://feedx.net</a> <br /><a href=\"https://feedx.site\" style=\"color: orange;\" target=\"_blank\">https://feedx.site</a><br /></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62227-2026-04-21-12-58-02.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-21T05:08:02+00:00",
+  "id": "55fd7fef-a893-47de-a80c-5ed6c484977a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
