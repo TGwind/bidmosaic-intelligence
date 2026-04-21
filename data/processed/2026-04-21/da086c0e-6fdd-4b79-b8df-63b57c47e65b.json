@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中国式安全感火到国外",
+  "raw_content": "中国式安全感火到国外",
+  "source_url": "https://www.toutiao.com/trending/7629849707988205595/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629849707988205595%22%2C%22hot_board_impr_id%22%3A%2220260421104124704811AF8BEB3E9A810D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%BC%8F%E5%AE%89%E5%85%A8%E6%84%9F%E7%81%AB%E5%88%B0%E5%9B%BD%E5%A4%96%22%7D&rank=&style_id=40132&topic_id=7629849707988205595",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-21T02:41:24.859664+00:00",
+  "id": "da086c0e-6fdd-4b79-b8df-63b57c47e65b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T02:42:03.668643+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "44844191",
+    "platform": "toutiao"
+  }
+}

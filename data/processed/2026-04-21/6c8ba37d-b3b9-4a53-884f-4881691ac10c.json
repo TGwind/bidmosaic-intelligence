@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "弟弟摔倒前被姐姐猛拽一幕太帅了",
+  "raw_content": "弟弟摔倒前被姐姐猛拽一幕太帅了",
+  "source_url": "https://www.toutiao.com/trending/7629706372298293286/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227629706372298293286%22%2C%22hot_board_impr_id%22%3A%2220260421104124704811AF8BEB3E9A810D%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%9F%E5%BC%9F%E6%91%94%E5%80%92%E5%89%8D%E8%A2%AB%E5%A7%90%E5%A7%90%E7%8C%9B%E6%8B%BD%E4%B8%80%E5%B9%95%E5%A4%AA%E5%B8%85%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7629706372298293286",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-21T02:41:24.859758+00:00",
+  "id": "6c8ba37d-b3b9-4a53-884f-4881691ac10c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T02:42:03.665600+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20149794",
+    "platform": "toutiao"
+  }
+}
