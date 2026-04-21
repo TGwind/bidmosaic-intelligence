@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "广交会架起全球贸易新桥梁",
-  "raw_content": "广交会架起全球贸易新桥梁",
-  "source_url": "https://www.toutiao.com/article/7630841746573771316",
+  "raw_title": "一季度服务业经济“开门红”",
+  "raw_content": "一季度服务业经济“开门红”",
+  "source_url": "https://www.toutiao.com/article/7631073477872697902",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-21T02:41:24.859707+00:00",
-  "id": "035c56c4-9d02-43e8-84c9-97f87417f24e",
+  "collected_at": "2026-04-21T13:43:29.922982+00:00",
+  "id": "352b4240-46d3-4780-9ade-d2470ffe186f",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-21T13:44:15.021332+00:00",
+  "processed_at": "2026-04-21T13:44:15.026137+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "36715319",
+    "hot_score": "10125403",
     "platform": "toutiao"
   }
 }
