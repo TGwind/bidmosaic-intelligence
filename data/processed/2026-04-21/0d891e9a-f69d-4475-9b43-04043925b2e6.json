@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Piero Cipollone: Sparking the transformation of finance - tokenisation and the role of central banks",
+  "raw_content": "Keynote address by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the 24th Annual Symposium \"Building the financial system of the 21st century: an agenda for Europe and the United States\", hosted by the Harvard Law School and the Program on International Financial Systems, Washington DC, 15 April 2026.",
+  "source_url": "https://www.bis.org/review/r260416k.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-21T03:30:59.642910+00:00",
+  "id": "0d891e9a-f69d-4475-9b43-04043925b2e6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T03:33:36.842287+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

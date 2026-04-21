@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "科技爱好者周刊（第 393 期）：脑腐状态",
+  "raw_content": "这里记录每周值得分享的科技内容，周五发布。...",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-393.html",
+  "source_name": "阮一峰科技爱好者周刊",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-16T23:20:16+00:00",
+  "id": "3e9c5e1c-aca1-4d58-84d3-7ed62bc5c69b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T03:33:36.861053+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "china_tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

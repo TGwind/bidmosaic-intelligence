@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "UK gas-investment firm weighs bitcoin mining, draws criticism",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/20/uk-gas-investment-firm-weighs-bitcoin-mining-draws-criticism",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T15:22:30+00:00",
+  "id": "0dd1f2e9-920e-41f1-a1d6-ec045df56d67",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T03:33:36.841782+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Last Week Tonight‘s John Oliver says he won‘t placate prediction markets users",
+  "raw_content": "Prediction market platforms took center stage on HBO‘s Last Week Tonight on Sunday as host John Oliver addressed regulation, laws and market manipulation.",
+  "source_url": "https://cointelegraph.com/news/last-week-tonight-john-oliver-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T21:30:53+00:00",
+  "id": "ffc608a5-b1ab-4569-be02-35e26882de5b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T03:33:36.928660+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

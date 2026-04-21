@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "高市早苗向靖国神社供奉“真榊”",
+  "raw_content": "2026/04/21 日本首相高市早苗4月21日向位于东京九段北的靖国神社供奉了被称为“真榊”的供品。此举配合21日至23日举行的春季例大祭，以“内阁总理大臣 高市早苗”的名义供奉。预计其在此期间不会前往参拜。 高市在担任总务相等内阁成员期间，曾在8月15日终战纪念日以及春秋例大祭期间参拜靖国神社。就任首相前，她在2025年10月的秋季例大祭期间考虑到外交影响未予参拜，而是以自民党总裁身份自费供奉玉串料。 日本前首相石破茂和岸田文雄在任期间也未在例大祭期间参拜，而是选择供奉真榊。日本内阁官房长官木原稔在17日记者会上表示，是否参拜“应由首相本人作出适当判断”。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62216-2026-04-21-08-33-32.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-21T01:08:04+00:00",
+  "id": "4dce49ba-25bb-4475-aa56-d4e80d365215",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T03:33:36.866703+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

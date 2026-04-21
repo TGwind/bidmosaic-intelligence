@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "苹果首席执行官库克将卸任",
+  "raw_content": "2026/04/21 美国苹果公司4月20日宣布，首席执行官库克将卸任，高级副总裁约翰·特纳斯将于9月1日升任CEO。这是自已故的史蒂夫·乔布斯2011年因病休养辞任以来，时隔15年再次更换CEO。 库克自从从创始人乔布斯手中接任CEO以来，在以iPhone为代表的终端产品品牌战略上展现了能力。他构建了包含应用分发服务在内的庞大生态体系，推动公司收益扩大，同时也推进了供应链的重组与效率提升。 苹果在4月迎来创立50周年的重要节点，市值已突破4万亿美元。在以OpenAI等美国企业为代表的生成式人工智能攻势下，苹果的核心智能手机和应用业务正面临重新定义的压力，这一再变革的难题将交由新任CEO应对。 特纳斯被视为硬件负责人中的“头号人选”。作为高级副总裁，他负责iPhone及个人电脑“Mac”等主力产品的硬件工程。 库克将出任董事长。受CEO更替消息影响，苹果股价在20日盘后交易中一度较当日收盘价下跌约1%。",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/62218-2026-04-21-08-33-22.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-21T01:08:04+00:00",
+  "id": "3dc0cfc9-a744-45a7-a8c3-30d4fa235cb3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T03:33:36.860486+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

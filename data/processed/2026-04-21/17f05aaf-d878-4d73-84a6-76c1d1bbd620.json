@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+  "raw_content": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+  "source_url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+  "source_name": "Wall Street Journal Markets",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-01-27T14:55:00+00:00",
+  "id": "17f05aaf-d878-4d73-84a6-76c1d1bbd620",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T03:33:36.844893+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

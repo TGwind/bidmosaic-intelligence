@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ethereum whale opens $90M long bets as ETH price chart eyes $3.2K",
+  "raw_content": "ETH price rising to $2,400 drove whales to open large ETH long bets, as technical indicators suggest a short-term ETH price rally toward $3,000.",
+  "source_url": "https://cointelegraph.com/news/ethereum-whale-opens-90m-long-bets-eth-price-chart-eyes-3-2k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-20T16:42:53+00:00",
+  "id": "7698f5b5-e8ce-474b-97b8-46b4a295c6f2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T03:33:36.878917+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

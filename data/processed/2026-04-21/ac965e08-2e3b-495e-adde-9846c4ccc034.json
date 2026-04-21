@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Consistency Analysis of Sentiment Predictions using Syntactic & Semantic Context Assessment Summarization (SSAS)",
+  "raw_content": "arXiv:2604.15547v1 Announce Type: new Abstract: The fundamental challenge of using Large Language Models (LLMs) for reliable, enterprise-grade analytics, such as sentiment prediction, is the conflict between the LLMs' inherent stochasticity (generative, non-deterministic nature) and the analytical requirement for consistency. The LLM inconsistency, coupled with the noisy nature of chaotic modern datasets, renders sentiment predictions too volatile for strategic business decisions. To resolve this, we present a Syntactic & Semantic Context Assessment Summarization (SSAS) framework for establishing context. Context established by SSAS functions as a sophisticated data pre-processing framework that enforces a bounded attention mechanism on LLMs. It achieves this by applying a hierarchical classification structure (Themes, Stories, Clusters) and an iterative Summary-of-Summaries (SoS) based context computation architecture. This endows the raw text with high-signal, sentiment-dense prompts, that effectively mitigate both irrelevant data and analytical variance. We empirically evaluated the efficacy of SSAS, using Gemini 2.0 Flash Lite, against a direct-LLM approach across three industry-standard datasets - Amazon Product Reviews, Google Business Reviews, Goodreads Book Reviews - and multiple robustness scenarios. Our results show that our SSAS framework is capable of significantly improving data quality, up to 30%, through a combination of noise removal and improvement in the estimation of sentiment prediction. Ultimately, consistency in our context-estimation capabilities provides a stable and reliable evidence base for decision-making.",
+  "source_url": "https://arxiv.org/abs/2604.15547",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-20T04:00:00+00:00",
+  "id": "ac965e08-2e3b-495e-adde-9846c4ccc034",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T03:33:36.896884+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
