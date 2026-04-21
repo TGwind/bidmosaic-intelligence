@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Mapping the modern world: How S2Vec learns the language of our cities",
+  "raw_content": "Algorithms & Theory",
+  "source_url": "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-24T17:42:00+00:00",
+  "id": "abea83cb-728e-495f-9a49-c86ec7612afa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

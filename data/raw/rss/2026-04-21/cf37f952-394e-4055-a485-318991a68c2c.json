@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+  "raw_content": "Build with Veo 3.1 Lite",
+  "source_url": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-31T16:00:00+00:00",
+  "id": "cf37f952-394e-4055-a485-318991a68c2c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

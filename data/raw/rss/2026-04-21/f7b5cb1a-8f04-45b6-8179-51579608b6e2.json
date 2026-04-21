@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Ásgeir Jónsson: Speech &#8211; 65th Annual Meeting of the Central Bank of Iceland",
+  "raw_content": "Speech by Mr Ásgeir Jónsson, Governor of the Central Bank of Iceland, at the 65th Annual Meeting of the Central Bank of Iceland, Reykjavík, 9 April 2026.",
+  "source_url": "https://www.bis.org/review/r260416e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-21T03:30:59.642940+00:00",
+  "id": "f7b5cb1a-8f04-45b6-8179-51579608b6e2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
