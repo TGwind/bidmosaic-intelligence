@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "New York targets Coinbase, Gemini in fresh crackdown on prediction markets",
+  "raw_content": "Attorney General Letitia James alleged that Coinbase and Gemini ran unlicensed markets, adding pressure on crypto companies as states move to regulate event-based trading platforms.",
+  "source_url": "https://cointelegraph.com/news/new-york-sues-coinbase-gemini-unlicensed-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T17:50:51+00:00",
+  "id": "8ab01c46-0db1-47d0-93af-b7cac908eb2a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T21:03:45.651132+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin regains $76K as Coinbase-driven demand sustains recovery",
+  "raw_content": "A $517 million rise in spot volume led by Coinbase is helping Bitcoin reclaim $76,000, with steady inflows absorbing the weekend selling pressure.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-regains-76k-as-coinbase-driven-demand-sustains-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T16:40:31+00:00",
+  "id": "4a60e245-7845-499d-a191-33840a3fa5f8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T21:03:45.624451+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

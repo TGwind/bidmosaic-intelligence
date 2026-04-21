@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Fed chair nominee pressed on potential conflicts of interest, independence",
+  "raw_content": "Kevin Warsh faced intense questions from Senator Elizabeth Warren and other lawmakers over his more than $100 million financial disclosure ahead of a confirmation hearing.",
+  "source_url": "https://cointelegraph.com/news/kevin-warsh-fed-hearing-conflicts-interest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T16:40:47+00:00",
+  "id": "00175f53-5d3c-4f87-aff3-8fb9c68f8190",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T21:03:45.511784+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

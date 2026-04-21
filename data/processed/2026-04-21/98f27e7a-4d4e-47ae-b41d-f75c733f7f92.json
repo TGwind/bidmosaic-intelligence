@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price rally 'in progress' but upside could be capped at $84K",
+  "raw_content": "Analysts say Bitcoin’s rally has begun, but the upside may be capped at an average spot BTC ETF cost basis near $84,000.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-price-rally-in-progress-but-upside-could-be-capped-at-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T16:55:37+00:00",
+  "id": "98f27e7a-4d4e-47ae-b41d-f75c733f7f92",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T21:03:45.659283+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Aave’s core markets hit 100% utilization at once, and that's not a good thing",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/21/aave-s-core-markets-hit-100-utilization-at-once-here-is-what-it-means-and-it-s-not-good",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T15:52:50+00:00",
+  "id": "adc23ce0-5c5b-4dd8-93e2-fc0bcf5ad6e3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T21:03:45.665183+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

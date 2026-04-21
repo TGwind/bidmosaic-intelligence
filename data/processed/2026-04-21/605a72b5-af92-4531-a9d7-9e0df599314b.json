@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin funding stays negative at $78K as short squeeze expectations grow",
+  "raw_content": "BTC price action slowly headed upward but funding stayed negative, a unique occurrence that analysis said would result in a short squeeze.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-funding-stays-negative-78k-short-squeeze-expectations-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T16:48:54+00:00",
+  "id": "605a72b5-af92-4531-a9d7-9e0df599314b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T21:03:45.632631+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

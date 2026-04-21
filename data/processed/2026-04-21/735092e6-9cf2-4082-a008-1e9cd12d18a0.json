@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "The digital euro: awareness, adoption and household portfolios",
+  "raw_content": "Based on a series of novel experiments fielded within the ECB’s Consumer Expectations Survey, we provide evidence on the attitudes of euro area consumers towards a possible central bank digital currency (CBDC). We document substantial socio‑demographic heterogeneity in consumers’ awareness and willingness to adopt a CBDC. According to survey responses, a sizeable share of around 45% of households would be interested in potentially adopting this new asset. In a scenario where a CBDC is introduced in the euro area, consumers would allocate on average a moderate fraction of a positive wealth shock to such a new asset. Holding limits in the range of €3,000 to €10,000 would in normal times not result in significant disintermediation in the banking system. According to the survey responses, effective communication of the CBDC’s key features could increase the propensity of its adoption by consumers, but this would tend to be short-lived.",
+  "source_url": "https://www.ecb.europa.eu//press/research-publications/resbull/2025/html/ecb.rb251219~ecc26e145b.en.html",
+  "source_name": "ECB Research Bulletin",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-12-22T07:00:00+00:00",
+  "id": "735092e6-9cf2-4082-a008-1e9cd12d18a0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T21:03:45.644257+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ecb.europa.eu/rss/rbu.html",
+    "category": "finance",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 87
+  }
+}

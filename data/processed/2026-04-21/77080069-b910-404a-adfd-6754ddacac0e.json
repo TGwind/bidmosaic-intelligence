@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Nium taps Coinbase to add USDC into global payments network",
+  "raw_content": "Nium integrates Coinbase’s infrastructure to enable USDC-based cross-border payments, allowing businesses to settle in fiat or stablecoins without relying on prefunded accounts.",
+  "source_url": "https://cointelegraph.com/news/nium-taps-coinbase-to-bring-usdc-into-global-payments-cutting-prefunding-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T17:16:04+00:00",
+  "id": "77080069-b910-404a-adfd-6754ddacac0e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-21T21:03:45.646904+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
