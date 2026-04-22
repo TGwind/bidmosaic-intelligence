@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US law firm apologizes after AI hallucinations made it to a legal filing",
+  "raw_content": "Sullivan & Cromwell’s Andrew Dietderich said the company has AI policies to prevent incorrect citations and other errors, but procedures weren’t followed on this occasion.",
+  "source_url": "https://cointelegraph.com/news/us-law-firm-apologizes-ai-hallucinations-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T05:50:15+00:00",
+  "id": "e56d1509-eef7-45f1-9af6-46fe7e157c42",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T09:46:23.048995+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
