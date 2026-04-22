@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Rivian R2 production has started despite tornado damage to factory",
+  "raw_content": "The company's all-important mass-market EV is just about ready to start heading to customers.",
+  "source_url": "https://techcrunch.com/2026/04/22/rivian-r2-production-has-started-despite-tornado-damage-to-factory/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-22T15:47:53+00:00",
+  "id": "cdd28ddc-cb8f-4503-9010-4aee77fbcf2b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T17:13:11.376140+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "‘Powerful move’ looms for Bitcoin price, says Bollinger Bands indicator",
+  "raw_content": "Bitcoin’s technical indicators predicted a significant move ahead for BTC, but the price must first break resistance at $80,000.",
+  "source_url": "https://cointelegraph.com/news/powerful-move-looms-bitcoin-price-bollinger-bands-indicator?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T11:36:55+00:00",
+  "id": "8fcf2de7-aafe-448c-bc5f-dbf5c91a80e1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T17:13:11.363918+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "North Korea tied to heists worth $578M in April after Kelp DAO exploit",
+  "raw_content": "DPRK-linked crypto theft topped $578M in April after the Kelp DAO exploit, as attacks continue to expand across protocols, companies and end users.",
+  "source_url": "https://cointelegraph.com/news/north-korean-hackers-578m-april-kelp-dao-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T12:29:54+00:00",
+  "id": "5cfd014a-0435-4da5-b204-bd8ad106baeb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T17:13:11.344742+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

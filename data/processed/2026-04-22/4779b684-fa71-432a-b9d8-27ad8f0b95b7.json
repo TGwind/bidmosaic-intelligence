@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "HIVE, Keel push deeper into AI data centers with capital raise, asset sale",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/22/hive-keel-push-deeper-into-ai-data-centers-with-capital-raise-asset-sale",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T14:15:55+00:00",
+  "id": "4779b684-fa71-432a-b9d8-27ad8f0b95b7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T17:13:11.319238+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

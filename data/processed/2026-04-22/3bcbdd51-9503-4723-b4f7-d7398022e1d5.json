@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "The London P2P sweep: UK FCA raids eight illegal peer-to-peer trading hubs",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/22/uk-fca-carries-out-coordinated-crackdown-on-illegal-peer-to-peer-crypto-trading",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T14:45:47+00:00",
+  "id": "3bcbdd51-9503-4723-b4f7-d7398022e1d5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T17:13:11.305279+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

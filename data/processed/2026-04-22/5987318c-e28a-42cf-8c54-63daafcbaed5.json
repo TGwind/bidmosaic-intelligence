@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin breaks Strategy's STRC ex-dividend date slump for the first time in six months",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-rises-a-week-after-strc-s-dividend-payout-a-first-in-six-months",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T15:37:14+00:00",
+  "id": "5987318c-e28a-42cf-8c54-63daafcbaed5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T17:13:11.338925+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
