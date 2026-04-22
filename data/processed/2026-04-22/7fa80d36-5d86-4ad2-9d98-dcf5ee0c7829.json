@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "一季度服务业经济“开门红”",
+  "raw_content": "一季度服务业经济“开门红”",
+  "source_url": "https://www.toutiao.com/article/7631073477872697902",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-22T02:39:30.532005+00:00",
+  "id": "7fa80d36-5d86-4ad2-9d98-dcf5ee0c7829",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T02:40:08.532556+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18737161",
+    "platform": "toutiao"
+  }
+}

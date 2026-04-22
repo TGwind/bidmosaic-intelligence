@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "\"每次生日许的愿 其实都与你有关\"2.0",
+  "raw_content": "\"每次生日许的愿 其实都与你有关\"2.0",
+  "source_url": "https://www.bilibili.com/video/BV1yedxBnEn3",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-22T02:39:31.582836+00:00",
+  "id": "618c5689-76de-45f4-a065-45adcf3d3ef8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T02:40:08.530451+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3759391,
+    "platform": "bilibili"
+  }
+}

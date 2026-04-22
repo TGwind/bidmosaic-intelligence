@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "刘巳道重拍《哭声》：怀疑即有罪，神明皆恶鬼，万般抉择，皆赴既定终局 / 上集",
+  "raw_content": "刘巳道重拍《哭声》：怀疑即有罪，神明皆恶鬼，万般抉择，皆赴既定终局 / 上集",
+  "source_url": "https://www.bilibili.com/video/BV1uYdRByEXX",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-22T02:39:31.582870+00:00",
+  "id": "f84f3845-946b-4cbb-9562-469880ae13e4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T02:40:08.536328+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2049186,
+    "platform": "bilibili"
+  }
+}

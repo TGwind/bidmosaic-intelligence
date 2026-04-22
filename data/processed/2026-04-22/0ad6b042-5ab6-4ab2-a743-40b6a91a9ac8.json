@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "网警处罚编造“大葱免费拿”谣言者",
+  "raw_content": "网警处罚编造“大葱免费拿”谣言者",
+  "source_url": "https://www.toutiao.com/article/7631378840250319387",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-22T02:39:30.532037+00:00",
+  "id": "0ad6b042-5ab6-4ab2-a743-40b6a91a9ac8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T02:40:08.528563+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13880830",
+    "platform": "toutiao"
+  }
+}

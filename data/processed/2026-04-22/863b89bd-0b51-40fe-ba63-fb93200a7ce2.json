@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《异环》公测PV丨Play on！",
+  "raw_content": "一切正常，就是异常！《异环》全平台公测2026年4月23日开启！ 故事的环，是交错一环，它发生在你期望的那站。 既然我们，相逢在未来，就趁现在站上舞台！ -作曲 & 编曲: seibin(STUDIOALOH) -英文歌词: Z:U(STUDIOALOH) -英文人声演唱: mill -助理监制: Kyunghwan YOO(STUDIOALOH) -混音 & 母带: AGNA -声音监制：Mitsukiyo（STUDIOALOH）,OlivierMa（MOONAUDIO） -项目经理：Akarin（S",
+  "source_url": "https://www.bilibili.com/video/BV1dsQnB7EHb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-22T02:39:31.582878+00:00",
+  "id": "863b89bd-0b51-40fe-ba63-fb93200a7ce2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T02:40:08.533100+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 8811786,
+    "platform": "bilibili"
+  }
+}

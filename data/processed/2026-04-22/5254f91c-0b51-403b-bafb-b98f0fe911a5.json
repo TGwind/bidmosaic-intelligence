@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "“农村大黄”出国成了野生动物",
+  "raw_content": "“农村大黄”出国成了野生动物",
+  "source_url": "https://www.toutiao.com/trending/7631133627690483748/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227631133627690483748%22%2C%22hot_board_impr_id%22%3A%222026042210393036EA3737811D6A84CBB2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E5%86%9C%E6%9D%91%E5%A4%A7%E9%BB%84%E2%80%9D%E5%87%BA%E5%9B%BD%E6%88%90%E4%BA%86%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%22%7D&rank=&style_id=40132&topic_id=7631133627690483748",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-22T02:39:30.532068+00:00",
+  "id": "5254f91c-0b51-403b-bafb-b98f0fe911a5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T02:40:08.530190+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10283172",
+    "platform": "toutiao"
+  }
+}

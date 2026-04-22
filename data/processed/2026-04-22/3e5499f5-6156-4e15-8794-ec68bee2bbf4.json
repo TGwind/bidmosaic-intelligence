@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "12位在韩志愿军烈士遗骸今回国",
+  "raw_content": "12位在韩志愿军烈士遗骸今回国",
+  "source_url": "https://webcast-open.douyin.com/open/media_live/282773369501",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-22T02:39:30.532116+00:00",
+  "id": "3e5499f5-6156-4e15-8794-ec68bee2bbf4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T02:40:08.530974+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5643524",
+    "platform": "toutiao"
+  }
+}

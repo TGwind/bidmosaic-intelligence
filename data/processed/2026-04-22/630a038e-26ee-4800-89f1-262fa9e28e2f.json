@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【奇迹男孩1998】我的最新作品，快来一睹为快！",
+  "raw_content": "曾经护崽哈气扑人的流浪猫妈 现在寸步不离的暖暖❤️",
+  "source_url": "https://www.bilibili.com/video/BV1pCdrB8EPb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-22T02:39:31.582912+00:00",
+  "id": "630a038e-26ee-4800-89f1-262fa9e28e2f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T02:40:08.531259+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 884114,
+    "platform": "bilibili"
+  }
+}
