@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "青年大学习初入社会学校不教，但你要会的53个技能",
-  "raw_content": "视频均由up真人出镜实景拍摄，个人能力有限，如有错误欢迎指正。",
-  "source_url": "https://www.bilibili.com/video/BV1TTdBBtEtt",
+  "raw_title": "二舅彻底退场！",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1xJoNBPEey",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-22T07:50:07.400193+00:00",
-  "id": "972d7ac9-b625-40b3-92f7-e98a40e06b4b",
+  "collected_at": "2026-04-22T19:15:34.927566+00:00",
+  "id": "55a682c7-afb2-4768-9c3e-ee4671afb6c9",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-22T19:16:16.911223+00:00",
+  "processed_at": "2026-04-22T19:16:16.900986+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 537011,
+    "hot_score": 1109753,
     "platform": "bilibili"
   }
 }
