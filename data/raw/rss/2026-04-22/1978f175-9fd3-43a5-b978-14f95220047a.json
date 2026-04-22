@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+  "raw_content": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+  "source_url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-21T23:26:45+00:00",
+  "id": "1978f175-9fd3-43a5-b978-14f95220047a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

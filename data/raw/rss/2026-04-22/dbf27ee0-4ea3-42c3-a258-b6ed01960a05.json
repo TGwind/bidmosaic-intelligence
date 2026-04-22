@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "AI drives surge in ‘bug bounty’ reports, but the ‘slop’ is rising too",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"AI drives surge in ‘bug bounty’ reports, but the ‘slop’ is rising too\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIyYTEtYWZjNy03OWE5LTk0YzEtMWRmODUyNmIxMWIwLmpwZw==.jpg\" /></p><p>HackerOne, one of the largest bug bounty platforms in the world, reported there were 85,000 valid bounty submissions in 2025, up 7% from the previous year.</p>",
+  "source_url": "https://cointelegraph.com/news/ai-crypto-bug-bounty-submissions-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T06:57:50+00:00",
+  "id": "dbf27ee0-4ea3-42c3-a258-b6ed01960a05",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

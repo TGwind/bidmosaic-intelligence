@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "A make or break moment: why $79,200 could act as a launchpad or a ceiling for bitcoin",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-faces-make-or-break-moment-at-two-major-on-chain-resistance-levels",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T08:45:32+00:00",
+  "id": "1e3032ae-b94a-4f22-8388-87f987ed3c80",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

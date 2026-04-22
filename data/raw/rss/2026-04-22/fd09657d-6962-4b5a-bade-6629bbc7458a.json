@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Privacy protocol Umbra shuts front end to stifle Kelp exploiters",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Privacy protocol Umbra shuts front end to stifle Kelp exploiters\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGIzODctZTYxNi03ODAzLTg2NmYtNGMzMWEyOWU3N2I2LmpwZw==.jpg\" /></p><p>Umbra has shut down its front end to stop hackers, but says it can’t stop the use of its smart contracts or another version of its open-source front end.</p>",
+  "source_url": "https://cointelegraph.com/news/privacy-protocol-umbra-shuts-front-end-in-attempt-to-stifle-kelp-exploiters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T06:11:20+00:00",
+  "id": "fd09657d-6962-4b5a-bade-6629bbc7458a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin's 'Coinbase premium' just posted its longest bullish streak since October's record high of $126,000",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-s-coinbase-premium-just-posted-its-longest-bullish-streak-since-october-s-record-high-of-usd126-000",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T06:24:09+00:00",
+  "id": "76c72a5d-6add-449a-b145-1a56fc3230fe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Denny H Kalyalya: Remarks - launch of the 2026 financial literacy week",
+  "raw_content": "Remarks by Dr Denny H Kalyalya, Governor of the Bank of Zambia, at the launch of the 2026 financial literacy week, Chipata, 16 March 2026.",
+  "source_url": "https://www.bis.org/review/r260420b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-22T09:43:38.940487+00:00",
+  "id": "552817f1-5787-4213-8259-3dc0bf1a627b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
