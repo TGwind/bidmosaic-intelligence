@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "当你穿进老钱班22",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1YQdWBcEtN",
+  "raw_title": "见面5秒开始战斗",
+  "raw_content": "一发出庄，望周知 男管形象参考来源：@漂流瓶瓶瓶瓶子",
+  "source_url": "https://www.bilibili.com/video/BV1EWdfBTEGy",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-22T02:39:31.582854+00:00",
-  "id": "eee10c1b-06bb-4e07-9879-5cb4bf5195a0",
+  "collected_at": "2026-04-22T07:50:07.400118+00:00",
+  "id": "7397c924-ad6f-4727-8b57-0fcaad398a29",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-22T07:50:48.841629+00:00",
+  "processed_at": "2026-04-22T07:50:48.833541+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 4070265,
+    "hot_score": 2972612,
     "platform": "bilibili"
   }
 }

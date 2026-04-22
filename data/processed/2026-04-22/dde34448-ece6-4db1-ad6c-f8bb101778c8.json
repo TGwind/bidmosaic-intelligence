@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "一季度服务业经济“开门红”",
-  "raw_content": "一季度服务业经济“开门红”",
-  "source_url": "https://www.toutiao.com/article/7631073477872697902",
+  "raw_title": "以最高礼仪向忠烈致敬",
+  "raw_content": "以最高礼仪向忠烈致敬",
+  "source_url": "https://www.toutiao.com/article/7631421278578082342",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-22T02:39:30.532005+00:00",
-  "id": "7fa80d36-5d86-4ad2-9d98-dcf5ee0c7829",
+  "collected_at": "2026-04-22T07:50:06.571837+00:00",
+  "id": "dde34448-ece6-4db1-ad6c-f8bb101778c8",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-22T07:50:48.833917+00:00",
+  "processed_at": "2026-04-22T07:50:48.840928+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "18737161",
+    "hot_score": "22731712",
     "platform": "toutiao"
   }
 }
