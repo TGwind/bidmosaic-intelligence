@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "一季度服务业经济“开门红”",
-  "raw_content": "一季度服务业经济“开门红”",
-  "source_url": "https://www.toutiao.com/article/7631073477872697902",
+  "raw_title": "大国重器护送英烈回家",
+  "raw_content": "大国重器护送英烈回家",
+  "source_url": "https://www.toutiao.com/article/7631434672030941747",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-22T02:39:30.532005+00:00",
-  "id": "7fa80d36-5d86-4ad2-9d98-dcf5ee0c7829",
+  "collected_at": "2026-04-22T13:42:51.512646+00:00",
+  "id": "da0cd078-65df-4df6-9ee4-2d35224d39dc",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-22T13:43:34.128872+00:00",
+  "processed_at": "2026-04-22T13:43:34.138965+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "18737161",
+    "hot_score": "20834094",
     "platform": "toutiao"
   }
 }
