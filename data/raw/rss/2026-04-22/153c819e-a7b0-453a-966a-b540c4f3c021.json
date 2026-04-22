@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "The signal bitcoin momentum traders have been waiting for is here",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/daybook-us/2026/04/22/the-signal-bitcoin-momentum-traders-have-been-waiting-for-is-here",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T11:17:41+00:00",
+  "id": "153c819e-a7b0-453a-966a-b540c4f3c021",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

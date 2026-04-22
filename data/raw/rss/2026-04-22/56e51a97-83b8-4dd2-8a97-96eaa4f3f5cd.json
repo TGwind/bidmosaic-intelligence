@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "From Natural Language to Executable Narsese: A Neuro-Symbolic Benchmark and Pipeline for Reasoning with NARS",
+  "raw_content": "arXiv:2604.18873v1 Announce Type: new \nAbstract: Large language models (LLMs) are highly capable at language generation, but they remain unreliable when reasoning requires explicit symbolic structure, multi-step inference, and interpretable uncertainty. This paper presents a neuro-symbolic framework for translating natural-language reasoning problems into executable formal representations using first-order logic (FOL) and Narsese, the language of the Non-Axiomatic Reasoning System (NARS). To support this direction, we introduce NARS-Reasoning-v0.1, a benchmark of natural-language reasoning problems paired with FOL forms, executable Narsese programs, and three gold labels: True, False, and Uncertain. We develop a deterministic compilation pipeline from FOL to executable Narsese and validate retained examples through runtime execution in OpenNARS for Applications (ONA), ensuring that the symbolic targets are not only syntactically well formed but also behaviorally aligned with the intended answer. We further present Language-Structured Perception (LSP), a formulation in which an LLM is trained to produce reasoning-relevant symbolic structure rather than only a final verbal response. As an initial proof of concept, we also train and release a Phi-2 LoRA adapter on NARS-Reasoning-v0.1 for three-label reasoning classification, showing that the benchmark can support supervised adaptation in addition to executable evaluation. Overall, the paper positions executable symbolic generation and execution-based validation as a practical path toward more reliable neuro-symbolic reasoning systems.",
+  "source_url": "https://arxiv.org/abs/2604.18873",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-22T04:00:00+00:00",
+  "id": "56e51a97-83b8-4dd2-8a97-96eaa4f3f5cd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

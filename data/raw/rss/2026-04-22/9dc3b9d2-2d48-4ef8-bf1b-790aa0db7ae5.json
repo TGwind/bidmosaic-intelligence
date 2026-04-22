@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Amazon Music partners with Bandsintown for concert listings",
+  "raw_content": "Users will be able to see live events of an artist on their Amazon Music profile",
+  "source_url": "https://techcrunch.com/2026/04/22/amazon-music-partners-with-bandsintowns-for-concert-listings/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-22T13:00:00+00:00",
+  "id": "9dc3b9d2-2d48-4ef8-bf1b-790aa0db7ae5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

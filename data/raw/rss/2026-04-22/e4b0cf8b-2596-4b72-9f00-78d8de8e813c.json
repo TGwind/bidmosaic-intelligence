@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Another DeFi protocol hacked as Sui-based Volo hit by $3.5M exploit",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Another DeFi protocol hacked as Sui-based Volo hit by $3.5M exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGI0ODUtYTNiYi03YjM2LWFiMjctNzFmYzY4ZTYzM2Q4LmpwZw==.jpg\" /></p><p>Volo Protocol has confirmed a $3.5 million exploit affecting select vaults, adding that it has frozen assets and started fund recovery efforts amid ongoing investigation.</p>",
+  "source_url": "https://cointelegraph.com/news/volo-defi-3-5m-exploit-vault-attack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T09:55:41+00:00",
+  "id": "e4b0cf8b-2596-4b72-9f00-78d8de8e813c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_general",
+  "raw_title": "特朗普延长与伊朗的停火协议",
+  "raw_content": "<address>LUKE BROADWATER, JONATHAN SWAN, FARNAZ FASSIHI, SOMINI SENGUPTA</address><time datetime=\"2026-04-22 10:00:02\">2026年4月22日</time><figure><img height=\"700\" src=\"https://images.weserv.nl/?url=static01.nyt.com/images/2026/04/21/multimedia/21israel-iran-header420p-zwgc/21israel-iran-header420p-zwgc-master1050.jpg\" width=\"1050\" /><figcaption>周二，德黑兰的行人。街道上悬挂着新任最高领袖穆杰塔巴·哈梅内伊的横幅。 <cite>Arash Khamooshi for The New York Times</cite></figcaption></figure><section><p>特朗普总统周二表示将延长与伊朗的停火协议，此时距离该协议到期还有几小时。这一<a href=\"https://www.nytimes.com/2026/04/21/us/politics/vance-islamabad-iran-peace-talks.html\">宣布</a>是在副总统JD·万斯前往巴基斯坦进行第二轮和平谈判的行程被搁置之后发布的。据一名美国官员透露，德黑兰未能对美国的立场作出回应。</p><p>特朗普在社交媒体上发帖称，他是在收到巴基斯坦的请求后采取行动的。巴基斯坦正试图调解结束这场战争，要求暂缓任何攻击。他还指出，据他所说，伊朗政府内部存在严重分歧。</p><p>他说，这次延长的停火将持续有效，直到伊朗的“领导人及代表能够提出一个统一的方案”为止。</p><p>伊朗方面的首次回应——来自有着巨大影响力的伊朗议长穆罕默德·巴盖尔·加利巴夫的一名顾问——态度颇为轻蔑。这位名叫马赫迪·穆罕默迪的顾问在社交媒体上写道：“唐纳德·特朗普延长停火是一句空话。”</p><p>特朗普的这一宣布与他当天早些时候的表态明显不同。当时他对CNBC表示，如果伊朗不同意美国的要求，“我预计会轰炸。”</p><p>然而，即使在延长停火的同时，特朗普总统仍表示，美国维持对进出伊朗港口船只的封锁。伊朗一直要求美军允许其船只自由通行，周二伊朗外交部长阿巴斯·阿拉格齐称此举为“战争行为”。</p><p>即使双方重返谈判桌，仍存在许多棘手问题，主要集中在伊朗<a href=\"https://www.nytimes.com/2026/04/17/us/politics/trump-iran-nuclear-site.html?searchResultPosition=2\">核计划</a>以及霍尔木兹海峡这一战略性石油和天然气通道上。伊朗攻击的威胁已严重<a href=\"https://www.nytimes.com/2026/04/20/world/middleeast/strait-hormuz-traffic-ships-iran-us.html\">阻碍</a>了通过该海峡的航运，美国海军<a href=\"https://x.com/CENTCOM/status/2046607900987035697\" rel=\"noopener noreferrer\" target=\"_blank\">表示</a>已迫使28艘船只掉头。</p><p>以下是我们在关注的其他内容：</p><p>·能源：由于和平谈判的前景充满不确定性，周二<a href=\"https://www.nytimes.com/2026/04/21/business/oil-stocks-gas-iran.html\">油价</a>接近每桶100美元，股市出现回落。</p><p>·黎巴嫩：尽管以色列与黎巴嫩之间单独达成的为期10天的停火协议自上周生效以来大体维持，但以色列周二指责伊朗支持的激进组织真主党向黎巴嫩南部的以色列部队发射火箭弹。自停火以来，以色列军队持续进行多次打击。真主党随后证实对以色列开火，称这是对以色列违反停火协议的回应。</p><p>·油轮：五角大楼周二表示，美国军方在印太地区<a href=\"http://%E6%8B%A6%E6%88%AA%E5%B9%B6%E7%99%BB%E4%B8%B4\">拦截并登临</a>一艘受制裁的船只，该船正在夜间运载伊朗石油。</p></section><footer><p>翻译：经雷</p><p><a href=\"https://www.nytimes.com/live/2026/04/21/world/iran-us-war-trump-news/heres-the-latest?smid=url-share\" rel=\"nofollow\" target=\"_blank\">点击查看本文英文版。</a></p></footer>",
+  "source_url": "https://cn.nytimes.com/usa/20260422/heres-the-latest/",
+  "source_name": "纽约时报中文网",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-22T02:37:01+00:00",
+  "id": "338cedc6-b4cf-4faf-bad2-693fedc34ee5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nytimes.xml",
+    "category": "china_news",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 86
+  }
+}

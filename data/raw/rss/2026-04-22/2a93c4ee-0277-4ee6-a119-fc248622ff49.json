@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "X makes it more expensive to post links through its API",
+  "raw_content": "Posting links on X through its API is now 1,900% more costly",
+  "source_url": "https://techcrunch.com/2026/04/22/x-makes-it-more-expensive-to-post-links-through-its-api/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-22T13:42:51+00:00",
+  "id": "2a93c4ee-0277-4ee6-a119-fc248622ff49",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
