@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Remask, Don't Replace: Token-to-Mask Refinement in Masked Diffusion Language Models",
+  "raw_content": "arXiv:2604.18738v1 Announce Type: new \nAbstract: Masked diffusion language models such as LLaDA2.1 rely on Token-to-Token (T2T) editing to correct their own generation errors: whenever a different token crosses a confidence threshold, the committed token is overwritten. We identify three structural failure modes of this rule. The trigger cannot fire when no single alternative is confident enough; the replacement is computed under a context that may itself contain errors; and the uniform perturbations used to train the T2T stream do not resemble the coherent, semantically plausible mistakes that the model actually makes at inference. As an alternative, we propose Token-to-Mask (T2M) remasking. Rather than overwriting a suspect token with a new guess, T2M resets the position to the mask state, so that the next denoising step re-predicts it from an in-distribution context. The method is training-free, modifies only the editing rule, and introduces no new parameters. We pair it with three detection heuristics and give a short theoretical account of why a mask is a better conditioning signal than an erroneous token. Across 8 benchmarks, T2M improves accuracy on tasks that require exact token-level output. Its largest gain is +5.92 points on CMATH, where we attribute 79.9% of baseline errors to last-mile corruption (correct reasoning followed by a garbled final answer); T2M repairs 41.3% of these cases.",
+  "source_url": "https://arxiv.org/abs/2604.18738",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-22T04:00:00+00:00",
+  "id": "e695943c-1b50-4deb-9a2c-abfa73c5b150",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
