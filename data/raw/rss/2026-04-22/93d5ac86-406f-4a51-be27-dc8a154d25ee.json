@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "GoCoMA: Hyperbolic Multimodal Representation Fusion for Large Language Model-Generated Code Attribution",
+  "raw_content": "arXiv:2604.16377v1 Announce Type: new \nAbstract: Large Language Models (LLMs) trained on massive code corpora are now increasingly capable of generating code that is hard to distinguish from human-written code. This raises practical concerns, including security vulnerabilities and licensing ambiguity, and also motivates a forensic question: 'Who (or which LLM) wrote this piece of code?' We present GoCoMA, a multimodal framework that models an extrinsic hierarchy between (i) code stylometry, capturing higher-level structural and stylistic signatures, and (ii) image representations of binary pre-executable artifacts (BPEA), capturing lower-level, execution-oriented byte semantics shaped by compilation and toolchains. GoCoMA projects modality embeddings into a hyperbolic Poincar\\'e ball, fuses them via a geodesic-cosine similarity-based cross-modal attention (GCSA) fusion mechanism, and back-projects the fused representation to Euclidean space for final LLM-source attribution. Experiments on two open-source benchmarks (CoDET-M4 and LLMAuthorBench) show that GoCoMA consistently outperforms unimodal and Euclidean multimodal baselines under identical evaluation protocols.",
+  "source_url": "https://arxiv.org/abs/2604.16377",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-21T04:00:00+00:00",
+  "id": "93d5ac86-406f-4a51-be27-dc8a154d25ee",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Björk Sigurgísladóttir: Financial supervision from the perspective of the Deputy Governor for Financial Supervision",
+  "raw_content": "Speech by Ms Björk Sigurgísladóttir, Deputy Governor for Financial Supervision of the Central Bank of Iceland, at the Central Bank of Iceland's Annual Financial Supervision Day, Reykjavik, 19 March 2026.",
+  "source_url": "https://www.bis.org/review/r260421d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-22T03:28:53.330232+00:00",
+  "id": "34b24d34-a606-4630-ac99-ccf54386c008",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

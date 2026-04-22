@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普表示对伊朗“延长停火”，未设期限",
+  "raw_content": "<div>2026/04/22</div><div id=\"contentDiv\">\n<div></div>\n<div>      美国总统特朗普于美国东部时间4月21日在社交媒体上宣布，将延长与伊朗的停火。围绕推动结束战斗的谈判，他表示“伊朗正处于严重分裂状态”，认为其体制内部存在对立。</div>\n<div> </div>\n<div>      他还透露，作为中介国的巴基斯坦方面要求在提出统一方案之前暂缓攻击。</div>\n<div><br />      特朗普未明确停火期限，仅表示“将把停火延长至协商结束为止”。他还说明，已指示美军继续对伊朗港口实施封锁措施，并维持随时应对的战备状态。</div>\n<div> </div>\n<div>      此前，特朗普曾表示停火期限为美国东部时间22日晚（北京时间23日上午）。21日早晨，特朗普还通过电话连线出演美国消费者新闻与商业频道节目称，“将达成一项出色的协议”。</div>\n<div>  </div>\n<div>      多家美国媒体在20日报道称，由副总统J·D·万斯率领的美方谈判代表团将于21日前往巴基斯坦首都伊斯兰堡，预计与伊朗进行第二轮结束战斗的谈判。</div>\n<div> </div>\n<div>      然而，截至21日中午，万斯仍停留在华盛顿，并出席了白宫的政策会议。美国媒体21日下午报道称，其赴巴基斯坦行程已被推迟。</div>\n<div> </div>\n<div>      美伊双方原本通过巴基斯坦寻求展开谈判，但伊朗方面已决定目前不参与谈判，第二轮磋商未能实现。</div>\n<div>  </div>\n<div>      接近伊朗伊斯兰革命卫队的塔斯尼姆通讯社21日报道称，伊朗代表团不会前往巴基斯坦，现阶段也无意参与解决冲突的谈判，并已通过中介国巴基斯坦向美国传达这一立场。</div>\n<div>  </div>\n<div>      据相关人士称，美国未撤回被认为侵犯伊朗权利的过度要求，因此谈判未取得实质进展。</div>\n<div> </div>\n<div>     伊朗方面对美军在霍尔木兹海峡周边海域实施船舶封锁，并于20日扣押伊朗籍船只一事表示强烈反对。伊朗将解除封锁作为重启结束战斗谈判的前提条件。</div>\n<div> </div>\n<div>      伊朗外长阿巴斯·阿拉格奇21日在X（原推特）发文批评称，美军封锁措施“属于战争行为，也是违反停火的行为”。他还主张，“攻击商船并将船员扣为人质，是更为严重的违规行为”。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62236-2026-04-22-08-09-54.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-22T00:38:03+00:00",
+  "id": "575db1a5-0489-4a6e-adb0-c5ffc92ac530",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

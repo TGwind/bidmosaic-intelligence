@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Support Sufficiency as Consequence-Sensitive Compression in Belief Arbitration",
+  "raw_content": "arXiv:2604.16434v1 Announce Type: new \nAbstract: When a system commits to a hypothesis, much of the evidential structure behind that commitment is lost to compression. Standard accounts assume that selected content and scalar confidence suffice for downstream control. This paper argues that they do not, and that determining what must survive compression is itself a consequence-sensitive problem. We develop a recurrent arbitration architecture in which active constraint fields jointly determine a hypothesis geometry over candidates. Rather than carrying that geometry forward in full, the system compresses it into a support-aware control state whose resolution is regulated by current consequence geometry, arbitration memory, and resource constraints.\n  A bounded objective formalizes the tradeoff. Too little retained support collapses policy-relevant distinctions, producing controllers that select content adequately while misrouting verification, abstention, and recovery. Too much retained support fragments learning across overly fine contexts, degrading adaptation even as discrimination improves. These failure modes yield ordered controller predictions confirmed by a minimal repeated-interaction simulation. Adaptive controllers that regulate support resolution outperform all fixed-resolution controllers in cumulative utility. Agile adaptive control outperforms sluggish adaptive control. Fixed high-resolution control achieves the best commitment accuracy but still trails adaptive controllers because resource cost and learning fragmentation offset the gains from richer retention.\n  Support sufficiency should be understood not as a static representational threshold, but as a dynamic compression criterion. Robust arbitration depends on preserving the smallest support structure adequate for policy under the current consequence landscape, and on regulating that structure as conditions change across repeated cycles of inference and action.",
+  "source_url": "https://arxiv.org/abs/2604.16434",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-21T04:00:00+00:00",
+  "id": "d35b6bfd-af56-48d2-9a76-9a892ead2765",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
