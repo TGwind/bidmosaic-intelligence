@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Aave deposits fall by $15B as Kelp exploit sparks flight from DeFi lender",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave deposits fall by $15B as Kelp exploit sparks flight from DeFi lender\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGI1MTktMzUxMy03NDJlLWE5MmUtNTNiNzUwM2FlMzRiLmpwZw==.jpg\" /></p><p>Aave’s supplied balance has tanked since the Kelp DAO bridge exploit, as users pull funds amid uncertainty over how much of the rsETH-linked shortfall the protocol will ultimately absorb.</p>",
+  "source_url": "https://cointelegraph.com/news/aave-deposits-drop-15b-kelp-dao-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T13:47:33+00:00",
+  "id": "d824960b-ec06-43d1-a83f-41d87165c099",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

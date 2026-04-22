@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Brainstorming with ChatGPT",
+  "raw_content": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+  "source_url": "https://openai.com/academy/brainstorming",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-10T00:00:00+00:00",
+  "id": "b96b902c-5658-425b-92f4-8f11861b8927",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

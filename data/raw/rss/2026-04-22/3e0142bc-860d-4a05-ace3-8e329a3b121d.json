@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Olli Rehn: Geopolitical turmoil and the eurozone",
+  "raw_content": "Speech by Mr Olli Rehn, Governor of the Bank of Finland, at the Washington Economic Festival \"Global macro sessions\", organised by Reinventing Bretton Woods Committee, Washington DC, 16 April 2026.",
+  "source_url": "https://www.bis.org/review/r260422i.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-22T17:10:24.073809+00:00",
+  "id": "3e0142bc-860d-4a05-ace3-8e329a3b121d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
