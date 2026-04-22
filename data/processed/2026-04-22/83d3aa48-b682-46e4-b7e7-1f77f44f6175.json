@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Healthcare AI for Automation or Allocation? A Transaction Cost Economics Framework",
+  "raw_content": "arXiv:2604.16465v1 Announce Type: new Abstract: Healthcare productivity is shaped not only by clinical complexity but by the costs of coordinating work under uncertainty. Transaction-cost economics offers a theory of these coordination frictions, yet has rarely been operationalised at task level across health occupations. Using task statements and frequency weights from the O*NET occupational database, we characterised healthcare work at task granularity and coded each unique task using a constrained large language model into one dominant transaction-cost category (information search, decision and bargaining, monitoring and enforcement, or adaptation and coordination) together with an overall transaction-cost intensity score. Aggregating to the occupation level, clinician roles exhibited substantially higher transaction-cost intensity than non-clinician roles, driven primarily by greater burdens of information search and decision-related coordination, while dispersion of transaction costs within occupations did not differ. These findings demonstrate systematic heterogeneity in the nature of coordination work across healthcare roles and suggest that the opportunities for digital and AI interventions are unevenly distributed, shaped less by technical task complexity than by underlying coordination structure.",
+  "source_url": "https://arxiv.org/abs/2604.16465",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-21T04:00:00+00:00",
+  "id": "83d3aa48-b682-46e4-b7e7-1f77f44f6175",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T03:29:51.815910+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

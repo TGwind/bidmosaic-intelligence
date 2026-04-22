@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Blockchain.com adds perpetual futures trading to self-custody wallets",
+  "raw_content": "With a CFTC greenlight expected soon, industry momentum is building for the derivative contracts still only available to non-US investors.",
+  "source_url": "https://cointelegraph.com/news/blockchain-com-brings-perpetual-futures-trading-to-self-custody-wallets-via-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T19:48:14+00:00",
+  "id": "38b120e8-6f34-431e-9109-d0a1499fd3c4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T03:29:51.775020+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

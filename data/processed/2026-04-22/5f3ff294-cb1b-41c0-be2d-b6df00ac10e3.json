@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LiFT: Does Instruction Fine-Tuning Improve In-Context Learning for Longitudinal Modelling by Large Language Models?",
+  "raw_content": "arXiv:2604.16382v1 Announce Type: new Abstract: Longitudinal NLP tasks require reasoning over temporally ordered text to detect persistence and change in human behavior and opinions. However, in-context learning with large language models struggles on tasks where models must integrate historical context, track evolving interactions, and handle rare change events. We introduce LiFT, a longitudinal instruction fine-tuning framework that unifies diverse longitudinal modeling tasks under a shared instruction schema. LiFT uses a curriculum that progressively increases temporal difficulty while incorporating few-shot structure and temporal conditioning to encourage effective use of past context. We evaluate LiFT across five datasets. Models trained on longitudinal tasks with different levels of temporal granularity are tested for generalisability on two separate datasets. Across models with different parameter sizes (OLMo (1B/7B), LLaMA-8B, and Qwen-14B), LiFT consistently outperforms base-model ICL, with strong gains on out-of-distribution data and minority change events.",
+  "source_url": "https://arxiv.org/abs/2604.16382",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-21T04:00:00+00:00",
+  "id": "5f3ff294-cb1b-41c0-be2d-b6df00ac10e3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T03:29:51.793395+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Inside the hunt for Satoshi: Filmmakers chase crypto’s biggest mystery",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-news/2026/04/21/inside-the-hunt-for-satoshi-filmmakers-chase-crypto-s-biggest-mystery",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-21T21:54:18+00:00",
+  "id": "de4d637d-ae20-4737-9a94-57c022a691ac",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T03:29:51.860876+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

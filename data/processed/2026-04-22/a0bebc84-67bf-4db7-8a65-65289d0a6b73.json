@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Agentic Risk-Aware Set-Based Engineering Design",
+  "raw_content": "arXiv:2604.16687v1 Announce Type: new Abstract: This paper introduces a multi-agent framework guided by Large Language Models (LLMs) to assist in the early stages of engineering design, a phase often characterized by vast parameter spaces and inherent uncertainty. Operating under a human-in-the-loop paradigm and demonstrated on the canonical problem of aerodynamic airfoil design, the framework employs a team of specialized agents: a Coding Assistant, a Design Agent, a Systems Engineering Agent, and an Analyst Agent - all coordinated by a human Manager. Integrated within a set-based design philosophy, the process begins with a collaborative phase where the Manager and Coding Assistant develop a suite of validated tools, after which the agents execute a structured workflow to systematically explore and prune a large set of initial design candidates. A key contribution of this work is the explicit integration of formal risk management, employing the Conditional Value-at-Risk (CVaR) as a quantitative metric to filter designs that exhibit a high probability of failing to meet performance requirements, specifically the target coefficient of lift. The framework automates labor-intensive initial exploration through a global sensitivity analysis conducted by the Analyst agent, which generates actionable heuristics to guide the other agents. The process culminates by presenting the human Manager with a curated final set of promising design candidates, augmented with high-fidelity Computational Fluid Dynamics (CFD) simulations. This approach effectively leverages AI to handle high-volume analytical tasks, thereby enhancing the decision-making capability of the human expert in selecting the final, risk-assessed design.",
+  "source_url": "https://arxiv.org/abs/2604.16687",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-21T04:00:00+00:00",
+  "id": "a0bebc84-67bf-4db7-8a65-65289d0a6b73",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T03:29:51.828986+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

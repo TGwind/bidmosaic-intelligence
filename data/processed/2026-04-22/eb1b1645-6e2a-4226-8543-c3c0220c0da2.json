@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "From Subsumption to Satisfiability: LLM-Assisted Active Learning for OWL Ontologies",
+  "raw_content": "arXiv:2604.16672v1 Announce Type: new Abstract: In active learning, membership queries (MQs) allow a learner to pose questions to a teacher, such as ''Is every apple a fruit?'', to which the teacher responds correctly with yes or no. These MQs can be viewed as subsumption tests with respect to the target ontology. Inspired by the standard reduction of subsumption to satisfiability in description logics, we reformulate each candidate axiom into its corresponding counter-concept and verbalise it in controlled natural language before presenting it to Large Language Models (LLMs). We introduce LLMs as a third component that provides real-world examples approximating an instance of the counter-concept. This design property ensures that only Type II errors may occur in ontology modelling; in the worst case, these errors merely delay the construction process without introducing inconsistencies. Experimental results on 13 commercial LLMs show that recall, corresponding to Type II errors in our framework, remains stable across several well-established ontologies.",
+  "source_url": "https://arxiv.org/abs/2604.16672",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-21T04:00:00+00:00",
+  "id": "eb1b1645-6e2a-4226-8543-c3c0220c0da2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T03:29:51.864291+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
