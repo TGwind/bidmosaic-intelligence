@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Flight to safety: How Maker’s Spark and USDC are winning the $10 billion Aave breakup",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/22/aave-s-usdtvl-slump-sends-capital-to-spark-lido-while-usdc-becomes-a-parking-spot",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T09:46:41+00:00",
+  "id": "fa374612-ec5e-4665-b05c-b5626beba0ad",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T14:03:20.985141+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

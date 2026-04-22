@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A natural protein may protect the GI tract from infection",
+  "raw_content": "Embedded in the body’s mucosal surfaces, proteins called lectins bind to sugars found on cell surfaces. A team led by MIT chemistry professor Laura Kiessling has found that one such protein, intelectin-2, both helps fortify the mucosal barrier and offers broad-spectrum protection against harmful bacteria found in the GI tract.&#160; Intelectin-2 binds to a sugar&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/04/21/1134858/a-natural-protein-may-protect-the-gi-tract-from-infection/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-21T21:00:00+00:00",
+  "id": "2f6e6434-6f41-448d-aa1b-1506fc9e3b47",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T14:03:20.882198+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

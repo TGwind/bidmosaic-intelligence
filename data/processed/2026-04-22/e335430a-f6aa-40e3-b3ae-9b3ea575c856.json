@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Google Maps is about to get a big dose of AI",
+  "raw_content": "Generative AI is being infused into Google's popular feature within Maps.",
+  "source_url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-22T12:00:00+00:00",
+  "id": "e335430a-f6aa-40e3-b3ae-9b3ea575c856",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T14:03:20.981616+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

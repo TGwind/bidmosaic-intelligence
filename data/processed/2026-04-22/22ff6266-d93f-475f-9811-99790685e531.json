@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Traders don’t see Kelp socializing losses after $292 million exploit",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/22/traders-don-t-see-kelp-socializing-losses-after-usd292-million-exploit",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T09:25:50+00:00",
+  "id": "22ff6266-d93f-475f-9811-99790685e531",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T14:03:20.868048+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

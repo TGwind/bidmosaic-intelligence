@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin Bull Score hits six-month high as 2022 bear-market fears linger",
+  "raw_content": "Bitcoin price metrics saw a broad recovery in April, but analysis warns that the 2022 bear-market breakdown could still repeat.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-bull-score-hits-six-month-high-2022-bear-market-fears-linger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T10:10:02+00:00",
+  "id": "39da976a-ed97-4630-8ce5-2794eb9ecf18",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T14:03:20.891500+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
