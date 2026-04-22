@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Trump-linked American Bitcoin shares spike over 12% after announcing more mining power",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/22/trump-linked-american-bitcoin-shares-spike-over-12-after-announcing-more-mining-power",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T15:57:28+00:00",
+  "id": "4ea6fb13-e81e-4034-b91a-67c8100c189f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T21:06:35.099801+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

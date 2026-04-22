@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Zero Motorcycles Firmware",
+  "raw_content": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to pair via Bluetooth with a motorcycle, gaining unauthorized access to all Bluetooth functions, including changing the firmware. The following versions of Zero Motorcycles Firmware are affected: Zero Motorcycles firmware &lt;=44 (CVE-2026-1354) CVSS Vendor Equipment Vulnerabilities v3 6.4 Zero Motorcycles Zero Motorcycles Firmware Key Exchange without Entity Authentication Background Critical Infrastructure Sectors: Transportation Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-1354 Zero Motorcycles firmware versions 44 and prior enable an attacker to forcibly pair a device with the motorcycle via Bluetooth. Once paired, an attacker can utilize over-the-air firmware updating functionality to potentially upload malicious firmware to the motorcycle. The motorcycle must first be in Bluetooth pairing mode, and the attacker must be in proximity of the vehicle and understand the full pairing process, to be able to pair their device with the vehicle. The attacker's device must remain paired with and in proximity of the motorcycle for the entire duration of the firmware update. View CVE Details Affected Products Zero Motorcycles Firmware Vendor:Zero Motorcycles Product Version:Zero Motorcycles Zero Motorcycles firmware: &lt;=44 Product Status:known_affected Remediations MitigationZero Motorcycles has investigated this report and cautions users to pair their mobile device to their vehicle in a safe location where they can be sure no one else will try to pair at the same time. Once initiated, complete the full pairing process and confirm it is successful. Store physical keys in a secure location and do not leave the bike unattended with the key in the \"ON\" position. Zero Motorcycles plans to address this issue in a firmware update scheduled for release in May 2026. Update the firmware to the latest available version. Relevant CWE: CWE-322 Key Exchange without Entity Authentication Metrics CVSS Version Base Score Base Severity Vector String 3.1 6.4 MEDIUM CVSS:3.1/AV:A/AC:H/PR:N/UI:R/S:U/C:N/I:H/A:H Acknowledgments Persephone Karnstein of Bureau Veritas Cybersecurity North America reported this vulnerability to CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy &amp; Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA recommends users take defensive measures to minimize the risk of exploitation of this vulnerability. CISA reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures. CISA also provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. This vulnerability has a high attack complexity. Revision History Initial Release Date: 2026-04-21 Date Revision Summary 2026-04-21 1 Initial Publication Legal Notice and Terms of Use",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-06",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-21T12:00:00+00:00",
+  "id": "1ad9435d-0785-4e2f-8825-1f7a02394789",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T21:06:35.028042+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}

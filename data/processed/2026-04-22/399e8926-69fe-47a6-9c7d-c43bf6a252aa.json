@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Thailand regulator mulls crypto futures expansion in licensing overhaul",
+  "raw_content": "Thailand’s SEC is seeking feedback on rule changes that would let digital asset firms offer derivatives within existing entities, lowering barriers to market entry.",
+  "source_url": "https://cointelegraph.com/news/thailand-s-sec-proposes-allowing-crypto-companies-to-offer-futures-directly?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T17:53:36+00:00",
+  "id": "399e8926-69fe-47a6-9c7d-c43bf6a252aa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T21:06:35.078439+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

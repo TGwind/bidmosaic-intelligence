@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ethereum risks 10% decline versus Bitcoin despite record ETH staking",
+  "raw_content": "Ethereum’s record 32.33% staking ratio is shrinking liquid supply, reducing sell pressure and potentially supporting an ETH price recovery over time.",
+  "source_url": "https://cointelegraph.com/news/ethereum-decline-10percent-versus-bitcoin-despite-record-eth-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T16:19:07+00:00",
+  "id": "b903001f-6e29-4838-9937-82fba3cc4a87",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T21:06:35.149338+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

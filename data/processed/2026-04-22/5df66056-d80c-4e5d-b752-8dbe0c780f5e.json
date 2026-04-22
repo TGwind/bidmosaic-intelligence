@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Threads is adding Live Chats to boost real-time engagement",
+  "raw_content": "Users can send messages, photos, videos, links, and emoji reactions in Live Chats.",
+  "source_url": "https://techcrunch.com/2026/04/22/threads-is-adding-live-chats-to-boost-real-time-engagement/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-22T17:00:00+00:00",
+  "id": "5df66056-d80c-4e5d-b752-8dbe0c780f5e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T21:06:35.116016+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

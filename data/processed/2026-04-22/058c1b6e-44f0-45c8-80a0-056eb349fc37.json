@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日经平均股指创下最高值59585点",
+  "raw_content": "2026/04/22 4月22日的东京股市上，日经平均股指连续上涨。收盘较前一交易日上涨236点69点（0.40%），报59585点86点，创出历史新高。尽管在心理关口6万点之前，高位警惕情绪较强、获利了结卖盘明显，但市场对人工智能（AI）相关和半导体相关板块的买入意愿依然未减。 日经平均股指以回落开盘。美国总统特朗普21日在社交媒体表示，将把与伊朗的停火“延长至协商结束为止”。虽然避免了战斗重启的最坏情景，但市场仍有观点认为，“难以判断霍尔木兹海峡何时恢复正常，能源和物资采购方面的担忧并未消除”（和资本运用本部部长村松一之）。 在日本股市中，对股价快速上涨的警惕情绪依然根深蒂固。当日东京证券交易所主板市场上市股票中，约八成出现下跌。 此前涨幅突出的个股跌幅明显。因上调盈利预期，17日创下上市以来新高的迅销一度下跌3%；同样在17日刷新历史高点的良品计划，也一度下跌超过3%。 随后，日经平均股指转为上涨。推动行情的是人工智能（AI）相关板块的一部分。自年初以来上涨行情中表现滞后的个股，正吸引资金流入。 其中最突出的是软银集团（SBG）。22日上午该股上涨9.24%，单一股票就将日经平均指数推高了385点。其旗下的英国Arm宣布将启动自研芯片销售业务，带动公司股价上涨，也提升了作为大股东的SBG的估值。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/62249-2026-04-22-08-26-56.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-22T07:08:04+00:00",
+  "id": "058c1b6e-44f0-45c8-80a0-056eb349fc37",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T21:06:34.981306+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
