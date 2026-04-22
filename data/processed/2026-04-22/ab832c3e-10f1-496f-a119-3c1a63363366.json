@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Chinese crypto mogul Li Lin’s private trading arm is set to move into a Hong Kong-listed wealth firm",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/22/chinese-crypto-mogul-li-lin-s-private-trading-arm-is-set-to-move-into-a-hong-kong-listed-wealth-firm",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T05:13:12+00:00",
+  "id": "ab832c3e-10f1-496f-a119-3c1a63363366",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T06:07:59.192049+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

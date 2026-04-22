@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Coinbase highlights Algorand, Aptos' work to mitigate quantum threat",
+  "raw_content": "Coinbase’s quantum advisory board says quantum computing isn’t yet a threat, but has urged for upgrade work to begin, with some blockchains being less prepared than others.",
+  "source_url": "https://cointelegraph.com/news/coinbase-says-algorand-aptos-better-prepped-for-quantum-threat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T04:57:30+00:00",
+  "id": "edaeae11-c759-45f6-b921-94d936155f00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T06:07:59.203322+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "My Workflow for Understanding LLM Architectures",
+  "raw_content": "A learning-oriented workflow for understanding new open-weight model releases",
+  "source_url": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms",
+  "source_name": "Ahead of AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-18T11:24:36+00:00",
+  "id": "316ed0bc-a6d2-4292-9207-d0e0a6a2d413",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-22T06:07:59.116423+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://magazine.sebastianraschka.com/feed",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
