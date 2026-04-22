@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Basel Committee discusses recent market developments and targeted review of cryptoasset standard",
+  "raw_content": "Discusses vulnerabilities in government bond-backed repo markets.\nDiscusses progress of a targeted review of the prudential standard for banks' cryptoasset exposures.\nAnnounces date and location of the International Conference of Banking Supervisors.",
+  "source_url": "https://www.bis.org/press/p260225.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-22T21:03:49.331755+00:00",
+  "id": "e5f08f73-61ed-42f4-9d2e-728a912fd71d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

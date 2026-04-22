@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
+  "raw_content": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
+  "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
+  "source_name": "Federal Reserve Monetary Policy",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-08T18:00:00+00:00",
+  "id": "c3a34e6e-7515-4d9d-b38d-cd52755d35c0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.federalreserve.gov/feeds/press_monetary.xml",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}
