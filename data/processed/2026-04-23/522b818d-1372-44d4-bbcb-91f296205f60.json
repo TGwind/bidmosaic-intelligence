@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "翻译翻译 什么叫猛攻！",
+  "raw_content": "姜文上任三角洲！4月24日猛攻节首期活动开启，4月30日猛攻节活动及福利全面上线！希望所有干员都能找到属于自己的猛攻方式。 猛攻节参与活动可免费得2600 限时三角券、14 张定制装备券、猛攻节限定大红、猛攻节主题武器外观、限定成就勋章、姜文定制外观三件套等；还有全新玩法，开砖必出红、身份牌换大红！限时开放全新模式烽火挑战，无负担尽情猛攻！全面战场上线全新超载模式、4 款限定载具外观免费领取！",
+  "source_url": "https://www.bilibili.com/video/BV1m4oaBVEqW",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-23T19:11:13.244518+00:00",
+  "id": "522b818d-1372-44d4-bbcb-91f296205f60",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T19:12:02.701968+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2993437,
+    "platform": "bilibili"
+  }
+}

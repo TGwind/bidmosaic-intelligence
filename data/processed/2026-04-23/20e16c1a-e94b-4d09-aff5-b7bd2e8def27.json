@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "武汉妈妈花60余万为女儿买近1斤黄金",
+  "raw_content": "武汉妈妈花60余万为女儿买近1斤黄金",
+  "source_url": "https://www.toutiao.com/trending/7631795172485316671/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227631795172485316671%22%2C%22hot_board_impr_id%22%3A%22202604240311125FFFF134016DF8AB5D3E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AD%A6%E6%B1%89%E5%A6%88%E5%A6%88%E8%8A%B160%E4%BD%99%E4%B8%87%E4%B8%BA%E5%A5%B3%E5%84%BF%E4%B9%B0%E8%BF%911%E6%96%A4%E9%BB%84%E9%87%91%22%7D&rank=&style_id=40132&topic_id=7631795172485316671",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-23T19:11:12.359418+00:00",
+  "id": "20e16c1a-e94b-4d09-aff5-b7bd2e8def27",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T19:12:02.695947+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10258804",
+    "platform": "toutiao"
+  }
+}

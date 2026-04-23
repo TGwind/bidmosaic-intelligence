@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "“至此，神性已成！！！”",
-  "raw_content": "bgm：难解",
-  "source_url": "https://www.bilibili.com/video/BV1iwoTBWEvc",
+  "raw_title": "城市大富翁（4）",
+  "raw_content": "城市大富翁第亖期来了！全新超大地图！ 超刺激的6小时极限赚钱挑战！！ 点赞30W，出发拍摄下一期！！",
+  "source_url": "https://www.bilibili.com/video/BV1cmo4BsEbQ",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-23T02:43:25.442067+00:00",
-  "id": "0d0840b6-b5b8-4cd0-ba6b-50ec3f97937e",
+  "collected_at": "2026-04-23T19:11:13.244534+00:00",
+  "id": "b102fd73-44f4-4ee9-9d92-c913ff26acbf",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-23T19:12:02.694789+00:00",
+  "processed_at": "2026-04-23T19:12:02.710288+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2649304,
+    "hot_score": 1165971,
     "platform": "bilibili"
   }
 }

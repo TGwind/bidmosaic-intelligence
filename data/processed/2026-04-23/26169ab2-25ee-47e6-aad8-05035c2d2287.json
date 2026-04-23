@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "“至此，神性已成！！！”",
-  "raw_content": "bgm：难解",
-  "source_url": "https://www.bilibili.com/video/BV1iwoTBWEvc",
+  "raw_title": "【奇迹男孩1998】我的最新作品，快来一睹为快！",
+  "raw_content": "曾经护崽哈气扑人的流浪猫妈 现在寸步不离的暖暖❤️",
+  "source_url": "https://www.bilibili.com/video/BV1pCdrB8EPb",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-23T02:43:25.442067+00:00",
-  "id": "0d0840b6-b5b8-4cd0-ba6b-50ec3f97937e",
+  "collected_at": "2026-04-23T19:11:13.244510+00:00",
+  "id": "26169ab2-25ee-47e6-aad8-05035c2d2287",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-23T19:12:02.694789+00:00",
+  "processed_at": "2026-04-23T19:12:02.696365+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2649304,
+    "hot_score": 1670861,
     "platform": "bilibili"
   }
 }
