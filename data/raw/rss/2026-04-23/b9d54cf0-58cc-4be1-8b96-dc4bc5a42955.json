@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Hybrid Multi-Phase Page Matching and Multi-Layer Diff Detection for Japanese Building Permit Document Review",
+  "raw_content": "arXiv:2604.19770v1 Announce Type: new \nAbstract: We present a hybrid multi-phase page matching algorithm for automated comparison of Japanese building permit document sets. Building permit review in Japan requires cross-referencing large PDF document sets across revision cycles, a process that is labor-intensive and error-prone when performed manually. The algorithm combines longest common subsequence (LCS) structural alignment, a seven-phase consensus matching pipeline, and a dynamic programming optimal alignment stage to robustly pair pages across revisions even when page order, numbering, or content changes substantially. A subsequent multi-layer diff engine -- comprising text-level, table-level, and pixel-level visual differencing -- produces highlighted difference reports. Evaluation on real-world permit document sets achieves F1=0.80 and precision=1.00 on a manually annotated ground-truth benchmark, with zero false-positive matched pairs.",
+  "source_url": "https://arxiv.org/abs/2604.19770",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-23T04:00:00+00:00",
+  "id": "b9d54cf0-58cc-4be1-8b96-dc4bc5a42955",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
