@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日经平均股指盘中首次触及6万点",
+  "raw_content": "<div>2026/04/23</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"375\" src=\"https://feedx.net/images/2026/04/0423/0423-WZ-01-L.jpg\" width=\"600\" />\n\n\n<strong><span>日经平均股指较前一日上涨超过400点，在6万点区间运行，23日上午，东京都中央区</span></strong>\n\n\n\n<div> </div>\n<div>       4月23日的东京股市，日经平均股指连续第4个交易日上涨，盘中一度触及6万点。这是该指数首次在交易时间内站上6万点整数关口。市场延续了前一日美国股市上涨的走势，人工智能（AI）和半导体相关个股获得买入，推动指数上行。</div>\n<div>  </div>\n<div>      22日的美国股市因市场看好美国与伊朗停火延长而出现买盘，道琼斯工业平均指数、纳斯达克综合指数和标普500指数均反弹。费城半导体指数（SOX）连续第16个交易日上涨，23日东京市场的半导体相关股票也受到资金追捧。</div>\n<div> </div>\n<col />\n\n\n<img height=\"444\" src=\"https://feedx.net/images/2026/04/0423/0423-WZ-01-0-M.jpg\" width=\"350\" />\n\n\n\n\n\n\n<div> </div>\n<div>      自2月底美国与以色列对伊朗发动攻击以来，市场一度担忧作为石油运输要冲的霍尔木兹海峡被封锁，以及由此引发的资源价格高位运行，日经平均股指走势低迷。3月跌幅创历史最大，3月底一度跌至5.1万点区间。</div>\n<div> </div>\n<div>      进入4月后，随着市场对中东局势紧张缓和的预期升温，全球股市迅速反弹。铠侠控股、太阳诱电、古河电气工业等半导体相关股票涨势尤为明显。不过，自3月底以来上涨幅度已超过8000点，市场也出现不少关于短期过热的声音。</div>\n<div>  </div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/62252-2026-04-23-08-08-31.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-23T01:08:03+00:00",
+  "id": "63f0a94e-357b-4a9f-80d4-bba2aa87e6f9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

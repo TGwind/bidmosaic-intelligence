@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin chases monthly high above $80K as nearly all BTC price metrics turn bullish",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Bitcoin chases monthly high above $80K as nearly all BTC price metrics turn bullish\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGI1YTktZmFiNS03NzI2LWI1MmQtMzFlNjMwMTk0ZTBkLmpwZw==.jpg\" /></p><p>Bitcoin moves closer to $80,000 as data shows traders positioning in futures markets. Will potential profit-taking in the $83,000 to $88,000 range put a cap on the rally?</p>",
+  "source_url": "https://cointelegraph.com/news/bitcoin-chases-monthly-high-above-dollar80k-as-nearly-all-btc-price-metrics-turn-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T23:30:00+00:00",
+  "id": "de59e8cb-025a-4c8e-84da-6da811b410fd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

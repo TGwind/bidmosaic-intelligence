@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Forbes Prediction Market Gamifies Story About Mass Shooting of 8 Children",
+  "raw_content": "Forbes launched ForbesPredict in January as part of an effort to reverse declining traffic from search engines and keep users on its website longer.",
+  "source_url": "https://www.404media.co/forbes-prediction-market-gamefies-story-about-mass-shooting-of-8-children/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-20T16:18:26+00:00",
+  "id": "7b0d2c3a-4e6e-41f7-b29a-e0f4181d7714",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
