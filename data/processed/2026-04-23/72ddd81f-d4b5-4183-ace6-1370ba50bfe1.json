@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "二舅彻底退场！",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1xJoNBPEey",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-23T02:43:25.442105+00:00",
+  "id": "72ddd81f-d4b5-4183-ace6-1370ba50bfe1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T02:44:04.427046+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1122762,
+    "platform": "bilibili"
+  }
+}
