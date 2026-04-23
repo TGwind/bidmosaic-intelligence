@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto advocacy groups call action on market structure bill ‘critical‘",
+  "raw_content": "More than 120 entities associated with the crypto and blockchain industry signed onto a letter urging US Senators to move forward with a crypto market structure bill.",
+  "source_url": "https://cointelegraph.com/news/crypto-groups-market-structure-markup-critical?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T17:58:46+00:00",
+  "id": "c64f3500-31fb-46ea-81d2-4c2e5b116026",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T21:02:52.395005+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

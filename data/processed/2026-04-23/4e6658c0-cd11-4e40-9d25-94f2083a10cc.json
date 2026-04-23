@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Bluesky now supports better-quality photos",
+  "raw_content": "The max size is now 2MB and max resolution is 4000 x 4000.",
+  "source_url": "https://techcrunch.com/2026/04/23/bluesky-now-supports-better-quality-photos/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-23T16:41:14+00:00",
+  "id": "4e6658c0-cd11-4e40-9d25-94f2083a10cc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T21:02:52.348025+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "PUSD stablecoin deploys on ADI Chain, targeting $3T Islamic finance market",
+  "raw_content": "The Shariah-compliant stablecoin backed by Gulf currencies expands to a new Layer-2 network aimed at institutional settlement in the Middle East.",
+  "source_url": "https://cointelegraph.com/news/pusd-stablecoin-deploys-on-adi-chain-targeting-3t-islamic-finance-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T15:56:46+00:00",
+  "id": "00d5f0b2-1194-4ce3-9078-5a6569e03b2e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T21:02:52.248968+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Inference Headroom Ratio: A Diagnostic and Control Framework for Inference Stability Under Constraint",
+  "raw_content": "arXiv:2604.19760v1 Announce Type: new Abstract: We present a simulation-based evaluation of the Inference Headroom Ratio (IHR), a dimensionless diagnostic quantity for characterizing inference stability in constrained decision systems. IHR formalizes the relationship between a system's effective inferential capacity C and the combined uncertainty and constraint load U + K imposed by its operating environment, and is intended to capture proximity to an inference stability boundary rather than output-level performance. Across three controlled experiments, we show that IHR functions as: (1) a quantifiable risk indicator whose relationship to collapse probability follows a well-fitted logistic curve with estimated critical threshold IHR* approx. 1.19, (2) a sensitive indicator of proximity to the inference stability boundary under environmental noise, and (3) a viable control variable whose active regulation reduces system collapse rate from 79.4% to 58.7% and IHR variance by 70.4% across 300 Monte Carlo runs. These results position IHR as a prospective, system-level complement to standard performance, drift, and uncertainty metrics, enabling estimation of remaining inferential margin before overt failure in AI systems operating under distributional shift and constraint.",
+  "source_url": "https://arxiv.org/abs/2604.19760",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-23T04:00:00+00:00",
+  "id": "492ee1c3-0c3c-48f9-81a7-3fdef46be32d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T21:02:52.341913+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
