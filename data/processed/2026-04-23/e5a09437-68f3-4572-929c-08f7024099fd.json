@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Salesforce’s Agentforce Vibes 2.0 targets a hidden failure: context overload in AI agents",
+  "raw_content": "When startup fundraising platform VentureCrowd began deploying AI coding agents, they saw the same gains as other enterprises: they cut the front-end development cycle by 90% in some projects.However, it didn’t come easy or without a lot of trial and error. VentureCrowd’s first challenge revolved around data and context quality, since Diego Mogollon, chief product officer at VentureCrowd, told VentureBeat that “agents reason against whatever data they can access at runtime” and would then be confidently “wrong” because they’re only basing their knowledge on the context given to them.Their other roadblock, like many others, was messy data and unclear processes. Similar to context, Mogollon said coding agents would amplify bad data, so the company had to build a well-structured codebase first. “The challenges are rarely about the coding agents themselves; they are about everything around them,” said Mogollon. “It’s a context problem disguised as an AI problem, and it is the number one failure mode I see across agentic implementations.”Mogollon said VentureCrowd encountered several roadblocks in overhauling its software development. VentureCrowd&#x27;s experience illustrates a broader issue in AI agent development. The models are not failing the agents; rather, they become overwhelmed by too much context and too many tools at once. Too much context This comes from a phenomenon called Context bloat, when AI systems accumulate more and more data, tools or instructions, the more complex the workflows become. The problem arises because agents need context to work better, but too much of it creates noise. And the more context an agent has to sift through, the more tokens it uses, the work slows down and the costs increase. One way to curb context bloat is through context engineering. Context engineering helps agents understand code changes or pull requests and align them with their tasks. However, context engineering often becomes an external task rather than built into the coding platforms enterprises use to build their agents. How coding agent providers respondVentureCrowd relied on one solution in particular to help it overcome the issues with context bloat plaguing its enterprise AI agent deployment: Salesforce’s Agentforce Vibes, a coding platform that lives within Salesforce and is available for all plans starting with the free one. Salesforce recently updated Agentforce Vibes to version 2.0, expanding support for third-party frameworks like ReAct. Most important for companies like VentureCrowd, Agentforce Vibes added Abilities and Skills, which they can use to direct agent behavior. “For context, our entire platform, frontend and backend, runs on the Salesforce ecosystem. So when Agentforce Vibes launched, it slotted naturally into an environment we already knew well,” Mogollon said.Salesforce’s approach doesn’t minimize the context agents use; rather, it helps enterprises ensure that context stays within their data models or codebases. Agentforce Vibes adds additional execution through the new Skills and Abilities feature. Abilities define what agents want to accomplish, and Skills are the tools they will use to get there.Other coding agent platforms manage context differently. For example, Claude Code and OpenAI’s Codex focus on autonomous execution, continuously reading files, running commands and as tasks evolve, expanding context. Claude Code has a context indicator that which compacts context when it becomes too large.With these different approaches, the consistent pattern is that most systems manage growing contexts for agents, not necessarily to limit them. Context keeps growing, especially as workflows become more complex, making it more difficult for enterprises to control costs, latency and reliability. Mogollon said his company chose Agentforce Vibes not only because a large portion of their data already lives on Salesforce, making it easier to integrate, but also because it would allow them to control more of the context they feed their agents. What builders should knowThere’s no single way to address context bloat, but the pattern is now clear: more context doesn&#x27;t always mean better results.Along with investing in context engineering, enterprises have to experiment with the context constraint approach they are most comfortable with. For enterprises, that means the challenge isn’t just giving agents more information—it’s deciding what to leave out.",
+  "source_url": "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-22T15:54:00+00:00",
+  "id": "e5a09437-68f3-4572-929c-08f7024099fd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T03:35:12.512906+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

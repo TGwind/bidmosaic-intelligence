@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "The Great AI Grift",
+  "raw_content": "Tech leaders want you to believe that AI is the key to a new golden age. The reality looks more like a bold, government-backed heist. The post The Great AI Grift appeared first on AI Now Institute.",
+  "source_url": "https://ainowinstitute.org/news/press/the-great-ai-grift",
+  "source_name": "AI Now Institute",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-10T20:34:52+00:00",
+  "id": "72dab4c9-4859-443b-8548-3cc2f6d054b2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T03:35:12.458322+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://ainowinstitute.org/category/news/feed",
+    "category": "policy",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "New York, Illinois sign EO banning state employees from prediction markets",
+  "raw_content": "New York Governor Kathy Hochul criticized the Trump administration for not implementing any “meaningful ethical standards” to curb insider trading in prediction markets.",
+  "source_url": "https://cointelegraph.com/news/new-york-illinois-sign-executive-order-banning-official-from-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T01:53:56+00:00",
+  "id": "c2235151-d668-41df-8ed1-9f0667f2593e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T03:35:12.502633+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

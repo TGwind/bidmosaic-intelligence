@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "马斯克拟以600亿美元收购美国AI初创企业",
+  "raw_content": "2026/04/23 企业家埃隆·马斯克领导的美国SpaceX公司4月21日宣布，已取得以约10万亿日元收购一家开发编程用人工智能（AI）的美国初创企业的权利。这一瞄准新锐创业公司的收购行动，很大程度上受到美国Anthropic的刺激。 “Anthropic在编程领域取得了特别的成就”，马斯克今年1月曾在社交媒体上发文称。这位一向竞争意识强烈的企业家公开称赞竞争对手实属罕见，其意在表达自己创立的xAI在编程领域要追赶Anthropic并不容易。 马斯克2月让SpaceX收购了xAI。在以火箭和卫星通信为核心业务的SpaceX推进上市之前，正将AI开发纳入体系。3月，他解除了在性能上明显落后的xAI部分高管职务，并从擅长编程的美国初创公司Cursor挖来两名高管，以加强实力。 不仅限于人才引进，马斯克此次进一步推进至直接收购Cursor。根据SpaceX 21日声明，该公司获得了在年内以600亿美元收购Cursor，或作为联合开发对价支付100亿美元的选择权。美国媒体称，这笔100亿美元实际上相当于违约金。",
+  "source_url": "http://cn.nikkei.com/industry/itelectric-appliance/62253-2026-04-23-08-08-30.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-23T01:08:03+00:00",
+  "id": "ff191ec9-177a-4afb-ab78-e85775a759fa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T03:35:12.524653+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
