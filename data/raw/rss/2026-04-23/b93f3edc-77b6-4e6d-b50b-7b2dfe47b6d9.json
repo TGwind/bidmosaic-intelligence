@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Sam Bankman-Fried pulls motion for a new trial, still asks for new judge",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Sam Bankman-Fried pulls motion for a new trial, still asks for new judge\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGI2ZTctZTQyYS03YjE4LThmZmQtNjZlMTk5MmJjNGU1LmpwZw==.jpg\" /></p><p>The ex-FTX CEO said he consulted with his parents and lawyers regarding a recent filing he sent from prison, but claimed to be the ”ultimate author of the documents.”</p>",
+  "source_url": "https://cointelegraph.com/news/sam-bankman-fried-withdraws-motion-new-trial-new-judge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-22T21:52:15+00:00",
+  "id": "b93f3edc-77b6-4e6d-b50b-7b2dfe47b6d9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
