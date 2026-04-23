@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Labor unrest at Samsung may worsen memory chip supply issues",
+  "raw_content": "Tens of thousands of Samsung Electronics workers held a rally at the company’s Pyeongtaek campus in South Korea on Thursday to signal they are prepared to walk off the job for an 18-day strike next month.",
+  "source_url": "https://techcrunch.com/2026/04/23/labor-unrest-at-samsung-may-worsen-memory-chip-supply-issues/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-23T13:59:59+00:00",
+  "id": "4dfdedb6-9b94-4964-af73-dcf74aec032c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T14:05:10.504757+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

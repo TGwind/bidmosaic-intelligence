@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Polymarket traders win $37K after Paris weather data glitch, raising suspicion",
+  "raw_content": "Ruben Hallali, a meteorologist, told French media outlet BFMTV the sudden temperature fluctuation recorded at a weather station at the Charles de Gaulle Airport was unlikely to be a natural event.",
+  "source_url": "https://conpletus.cointelegraph.com/news/suspicion-rises-after-polymarket-traders-win-37k-on-paris-weather-data-glitch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T08:23:22+00:00",
+  "id": "5c05edfd-313d-4ccd-b778-87abc309e3ae",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T14:05:10.517175+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

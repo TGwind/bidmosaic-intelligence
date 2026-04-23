@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Sam Bankman-Fried withdraws retrial motion. He believes he would not get a fair trial.",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/23/sam-bankman-fried-withdraws-retrial-motion-he-believes-he-would-not-get-a-fair-trial",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T11:26:59+00:00",
+  "id": "8ba87075-5a2c-45a5-91ce-2b0144509ccc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T14:05:10.541786+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
