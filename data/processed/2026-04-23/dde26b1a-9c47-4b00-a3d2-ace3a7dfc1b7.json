@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "FTX sold its Cursor stake for $200,000 in 2023. It would be worth $3 billion today",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/23/ftx-sold-its-cursor-stake-for-usd200-000-in-2023-it-would-be-worth-usd3-billion-today",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T06:18:19+00:00",
+  "id": "dde26b1a-9c47-4b00-a3d2-ace3a7dfc1b7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T09:52:49.073418+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
