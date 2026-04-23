@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "洛天依 原创《告死鸟》",
+  "raw_content": "1.相传世上有一种报信的黑鸟，人一生会看到它两次，一次是至亲之人离去之时，一次是自己离去之时。\n2.我不知道哪里相传的，你就当有。\n3.珍惜吧，珍惜眼前人，珍惜吧。\n4.有一种很久没有用这个格式上传投搞的错觉，还能真是这样不成。\n5.在这个什么梦想都可以一键生成的时代，真是太难为我们这种老牛破车靠手搓的旧人了，唉唉唉。\n6.这个歌不是没想过自己唱，没有人家唱的好听。如果有人想听的话我再想办法，哈哈真有吗。\n7.越久不投稿心理负担越重，这次没搞错什么东西吧……",
+  "source_url": "https://www.bilibili.com/video/BV1Y2oNB1ESs",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-23T02:43:25.442045+00:00",
+  "id": "e534d40f-e83b-4b7d-ab3a-8c93f9d827c2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 927041,
+    "platform": "bilibili"
+  }
+}
