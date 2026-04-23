@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Spain seizes crypto cold wallets in illegal manga piracy raid",
+  "raw_content": "Spanish police seized crypto cold wallets tied to an alleged illegal manga site, as questions remain over whether officers can access the funds.",
+  "source_url": "https://cointelegraph.com/news/spain-seizes-crypto-cold-wallets-manga-piracy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T15:04:28+00:00",
+  "id": "5bba6699-6c37-42fa-83b0-807830bdc8db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T17:29:23.323828+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
