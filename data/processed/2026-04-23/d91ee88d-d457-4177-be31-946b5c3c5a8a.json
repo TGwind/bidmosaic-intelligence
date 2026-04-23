@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日产3月在华新车销量增长2成，丰田本田下降",
+  "raw_content": "2026/04/23 日产新款SUV“NX8”（2月，广州） 日产汽车4月22日发布数据称，3月在华新车销量同比增长23%，达54616辆。由于发布纯电动汽车（EV）等新能源汽车商品群“N系列”的新车型等推动，进店顾客增加，带动了销量增长。 这是日产在华销量时隔两个月超过上年同期。日产正在扩充N系列车型，3月下旬开始预售新款SUV“NX8”，引起了话题。该车型4月上旬开始发售。 在发动机汽车方面，主力轿车“轩逸（Sylphy）”和采用华为的技术、于2025年11月升级的轿车“天籁（TEANA）”销售强劲。 从其他日本车企3月在华新车销量来看，丰田减少8%，降至14万2700辆，本田减少34%，降至3万6201辆。受中东局势恶化导致汽油价格上涨的影响，以汽油车为中心销量减少。 丰田1~3月累计在华销量同比下降4%，降至37万600辆，日产增长7%，增至13万34辆，本田下降22%，降至12万2470辆。 日本经济新闻（中文版：日经中文网）田边静 北京",
+  "source_url": "http://cn.nikkei.com/industry/icar/62261-2026-04-23-11-11-09.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-23T03:38:02+00:00",
+  "id": "d91ee88d-d457-4177-be31-946b5c3c5a8a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T06:14:25.798061+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Cardano builder seeks smaller funding slice of $46.8 million for scaling and Bitcoin DeFi",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/23/input-output-seeks-usd46-8-million-to-bring-bitcoin-defi-scaling-upgrade-to-cardano",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T05:08:13+00:00",
+  "id": "1069d86b-2a96-4cee-9ffb-53af82de866a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T06:14:25.685490+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Market maker GSR launches first ETF tracking Bitcoin, Ether and Solana",
+  "raw_content": "The GSR Crypto Core3 ETF is GSR's first crypto exchange-traded product, giving investors access to the top three largest cryptocurrencies by market capitalization.",
+  "source_url": "https://cointelegraph.com/news/crypto-market-maker-gsr-launched-multi-asset-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T04:46:54+00:00",
+  "id": "52b856bd-1de1-4a99-a9fb-368bc6414fd2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T06:14:25.737290+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Exploring Data Augmentation and Resampling Strategies for Transformer-Based Models to Address Class Imbalance in AI Scoring of Scientific Explanations in NGSS Classroom",
+  "raw_content": "arXiv:2604.19754v1 Announce Type: new Abstract: Automated scoring of students' scientific explanations offers the potential for immediate, accurate feedback, yet class imbalance in rubric categories particularly those capturing advanced reasoning remains a challenge. This study investigates augmentation strategies to improve transformer-based text classification of student responses to a physical science assessment based on an NGSS-aligned learning progression. The dataset consists of 1,466 high school responses scored on 11 binary-coded analytic categories. This rubric identifies six important components including scientific ideas needed for a complete explanation along with five common incomplete or inaccurate ideas. Using SciBERT as a baseline, we applied fine-tuning and test these augmentation strategies: (1) GPT-4--generated synthetic responses, (2) EASE, a word-level extraction and filtering approach, and (3) ALP (Augmentation using Lexicalized Probabilistic context-free grammar) phrase-level extraction. While fine-tuning SciBERT improved recall over baseline, augmentation substantially enhanced performance, with GPT data boosting both precision and recall, and ALP achieving perfect precision, recall, and F1 scores across most severe imbalanced categories (5,6,7 and 9). Across all rubric categories EASE augmentation substantially increased alignment with human scoring for both scientific ideas (Categories 1--6) and inaccurate ideas (Categories 7--11). We compared different augmentation strategies to a traditional oversampling method (SMOTE) in an effort to avoid overfitting and retain novice-level data critical for learning progression alignment. Findings demonstrate that targeted augmentation can address severe imbalance while preserving conceptual coverage, offering a scalable solution for automated learning progression-aligned scoring in science education.",
+  "source_url": "https://arxiv.org/abs/2604.19754",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-23T04:00:00+00:00",
+  "id": "4d107b83-c12a-4095-857f-b1cf208d30fc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T06:14:25.733608+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
