@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "人类史上第一次买瓜",
+  "raw_content": "人类史上第一次买瓜",
+  "source_url": "https://www.bilibili.com/video/BV1ZvdkB9EXV",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-23T07:56:12.710882+00:00",
+  "id": "7cd35292-6b88-4b3f-883f-561d67a61470",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3003180,
+    "platform": "bilibili"
+  }
+}

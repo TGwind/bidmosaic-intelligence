@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "口技表演《三打白骨精》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1CVdVBjETn",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-23T07:56:12.710892+00:00",
+  "id": "a059a4d0-acc3-43a7-8d1b-f4cdb4f0ab2c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 7857802,
+    "platform": "bilibili"
+  }
+}
