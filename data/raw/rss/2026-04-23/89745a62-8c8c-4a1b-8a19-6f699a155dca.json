@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Evidence of Layered Positional and Directional Constraints in the Voynich Manuscript: Implications for Cipher-Like Structure",
+  "raw_content": "arXiv:2604.19762v1 Announce Type: new \nAbstract: The Voynich Manuscript (VMS) exhibits a script of uncertain origin whose grapheme sequences have resisted linguistic analysis. We present a systematic analysis of its grapheme sequences, revealing two complementary structural layers: a character-level right-to-left optimization in word-internal sequences and a left-to-right dependency at word boundaries, a directional dissociation not observed in any of our four comparison languages (English, French, Hebrew, Arabic).\n  We further evaluate two classes of structured generator against a four-signature joint criterion: a parametric slot-based generator and a Cardan grille implementing Rugg's (2004) gibberish hypothesis. Across their full tested parameter spaces, neither class reproduces all four signatures simultaneously.\n  While these results do not rule out generator classes we have not tested, they provide the first quantitative benchmarks against which any future generative or cryptanalytic model of the VMS can be evaluated, and they suggest that the VMS exhibits cipher-like structural constraints that are difficult to reproduce from simple positional or frequency-based mechanisms alone.",
+  "source_url": "https://arxiv.org/abs/2604.19762",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-23T04:00:00+00:00",
+  "id": "89745a62-8c8c-4a1b-8a19-6f699a155dca",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
