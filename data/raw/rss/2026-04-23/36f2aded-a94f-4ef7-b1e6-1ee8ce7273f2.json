@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Andre Cronje’s Flying Tulip adds withdrawal circuit breaker as DeFi exploits mount",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Andre Cronje’s Flying Tulip adds withdrawal circuit breaker as DeFi exploits mount\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjUtMTIvMDE5YWRkZGYtZDU3Yy03NThlLTkyNzMtYjE4ZDczYWU5N2Ey.jpg\" /></p><p>Flying Tulip said its withdrawal safeguard is designed to fail open, while a status page lets users monitor the system in real time.</p>",
+  "source_url": "https://cointelegraph.com/news/flying-tulip-withdrawal-circuit-breaker-defi-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T12:34:58+00:00",
+  "id": "36f2aded-a94f-4ef7-b1e6-1ee8ce7273f2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

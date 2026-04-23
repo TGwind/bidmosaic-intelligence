@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "EvoForest: A Novel Machine-Learning Paradigm via Open-Ended Evolution of Computational Graphs",
+  "raw_content": "arXiv:2604.19761v1 Announce Type: new \nAbstract: Modern machine learning is still largely organized around a single recipe: choose a parameterized model family and optimize its weights. Although highly successful, this paradigm is too narrow for many structured prediction problems, where the main bottleneck is not parameter fitting but discovering what should be computed from the data. Success often depends on identifying the right transformations, statistics, invariances, interaction structures, temporal summaries, gates, or nonlinear compositions, especially when objectives are non-differentiable, evaluation is cross-validation-based, interpretability matters, or continual adaptation is required. We present EvoForest, a hybrid neuro-symbolic system for end-to-end open-ended evolution of computation. Rather than merely generating features, EvoForest jointly evolves reusable computational structure, callable function families, and trainable low-dimensional continuous components inside a shared directed acyclic graph. Intermediate nodes store alternative implementations, callable nodes encode reusable transformation families such as projections, gates, and activations, output nodes define candidate predictive computations, and persistent global parameters can be refined by gradient descent. For each graph configuration, EvoForest evaluates the discovered computation and uses a lightweight Ridge-based readout to score the resulting representation against a non-differentiable cross-validation target. The evaluator also produces structured feedback that guides future LLM-driven mutations. In the 2025 ADIA Lab Structural Break Challenge, EvoForest reached 94.13% ROC-AUC after 600 evolution steps, exceeding the publicly reported winning score of 90.14% under the same evaluation protocol.",
+  "source_url": "https://arxiv.org/abs/2604.19761",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-23T04:00:00+00:00",
+  "id": "6cad8a0d-b113-46a5-9075-0064db152601",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

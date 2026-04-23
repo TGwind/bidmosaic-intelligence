@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "EMERGENCY BREAKING NEWS PODCAST: Tim, Cooked",
+  "raw_content": "Was Tim Cook GOOD or BAD?",
+  "source_url": "https://www.404media.co/emergency-breaking-news-podcast-tim-cooked/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-21T21:06:13+00:00",
+  "id": "c8e71dd2-8fbd-470d-90d4-8df2448fcee8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
