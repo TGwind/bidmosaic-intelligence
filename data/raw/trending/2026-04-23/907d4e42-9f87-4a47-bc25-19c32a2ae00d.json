@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "全国菜系从夯到拉，个人口味嗷！",
+  "raw_content": "全国菜系从夯到拉，个人口味嗷！",
+  "source_url": "https://www.bilibili.com/video/BV1Brd2BTE1b",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-23T19:11:13.244584+00:00",
+  "id": "907d4e42-9f87-4a47-bc25-19c32a2ae00d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1063817,
+    "platform": "bilibili"
+  }
+}
