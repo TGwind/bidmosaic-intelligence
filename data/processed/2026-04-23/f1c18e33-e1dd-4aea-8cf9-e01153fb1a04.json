@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "西双版纳泼水节只有孕妇全身是干的",
+  "raw_content": "西双版纳泼水节只有孕妇全身是干的",
+  "source_url": "https://www.toutiao.com/trending/7631000548595400745/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227631000548595400745%22%2C%22hot_board_impr_id%22%3A%2220260423155611BA3D9335ED32EDF5FE3C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%8F%AA%E6%9C%89%E5%AD%95%E5%A6%87%E5%85%A8%E8%BA%AB%E6%98%AF%E5%B9%B2%E7%9A%84%22%7D&rank=&style_id=40132&topic_id=7631000548595400745",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-23T07:56:11.962221+00:00",
+  "id": "f1c18e33-e1dd-4aea-8cf9-e01153fb1a04",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-23T07:56:52.821748+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "12556573",
+    "platform": "toutiao"
+  }
+}

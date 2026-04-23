@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "唱着山歌来买瓜",
-  "raw_content": "音乐改编自电影《刘三姐》",
-  "source_url": "https://www.bilibili.com/video/BV115oWBnEgB",
+  "raw_title": "【萌黄一槽】志村团藏[漂泊寻者]全技能爆料！这次他做了“十”手准备……",
+  "raw_content": "写轮眼阖拢的片刻，此局已被改写，一切重归团藏的掌控？",
+  "source_url": "https://www.bilibili.com/video/BV12woKBvEuz",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-23T02:43:25.442052+00:00",
-  "id": "385d82b7-389c-4817-b3dc-ecb6ba3b9169",
+  "collected_at": "2026-04-23T07:56:12.710874+00:00",
+  "id": "c22ce3bc-6cb8-4b32-966e-9cc3c8fc5b65",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-23T07:56:52.809680+00:00",
+  "processed_at": "2026-04-23T07:56:52.819883+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1491833,
+    "hot_score": 2159325,
     "platform": "bilibili"
   }
 }
