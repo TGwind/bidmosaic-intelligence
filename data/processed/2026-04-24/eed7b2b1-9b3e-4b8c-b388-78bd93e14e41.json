@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "TurboQuant: Redefining AI efficiency with extreme compression",
+  "raw_content": "Algorithms & Theory",
+  "source_url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+  "source_name": "Google Research",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-03-24T19:54:00+00:00",
+  "id": "eed7b2b1-9b3e-4b8c-b388-78bd93e14e41",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T03:35:49.930036+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://research.google/blog/rss/",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 89
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "OThink-SRR1: Search, Refine and Reasoning with Reinforced Learning for Large Language Models",
+  "raw_content": "arXiv:2604.19766v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) expands the knowledge of Large Language Models (LLMs), yet current static retrieval methods struggle with complex, multi-hop problems. While recent dynamic retrieval strategies offer improvements, they face two key challenges: 1) irrelevant retrieved noise can misdirect the reasoning process, and 2) processing full documents incurs prohibitive computational and latency costs. To address these issues, we propose OThink-SRR1, a framework that enhances large models with an iterative Search-Refine-Reason process trained via reinforcement learning. Its core Refine stage distills retrieved documents into concise, relevant facts before reasoning. We introduce GRPO-IR, an end-to-end reinforcement learning algorithm that rewards accurate evidence identification while penalizing excessive retrievals, thus training the model to be both focused and efficient. Experiments on four multi-hop QA benchmarks show our approach achieves superior accuracy over strong baselines while using fewer retrieval steps and tokens. This positions OThink-SRR1 as a potent foundational model for information-seeking agents.",
+  "source_url": "https://arxiv.org/abs/2604.19766",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-23T04:00:00+00:00",
+  "id": "1ed8b483-e192-4bb1-957a-f644d7ed798e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T03:35:49.837893+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

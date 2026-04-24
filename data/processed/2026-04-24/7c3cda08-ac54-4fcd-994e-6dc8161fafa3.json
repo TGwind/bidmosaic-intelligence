@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Christopher J Waller: Modernising Federal Reserve operations in the 21st century",
+  "raw_content": "Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal Reserve System, at the Brookings Institution, Washington DC, 21 April 2026.",
+  "source_url": "https://www.bis.org/review/r260422k.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-24T03:34:38.693048+00:00",
+  "id": "7c3cda08-ac54-4fcd-994e-6dc8161fafa3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T03:35:49.870762+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

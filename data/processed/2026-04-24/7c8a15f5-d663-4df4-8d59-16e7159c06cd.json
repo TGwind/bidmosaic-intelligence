@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "特朗普警告将击沉布设水雷的伊朗船只",
+  "raw_content": "2026/04/24 美国总统特朗普4月23日警告称，将阻止伊朗在霍尔木兹海峡布设水雷。他在社交媒体上写道，一旦进行布雷，“即便是小型船只，也已下令将其击沉，不会有任何犹豫”。美国是容许还是阻止伊朗的布雷行动，将成为能否尽早开放霍尔木兹海峡的关键。 特朗普在帖文中表示：“我们的扫雷舰目前正在海峡进行扫雷作业。（排雷）规模将扩大到3倍”。 美国新闻网站Axios23日报道称，据美方官员透露，伊朗革命卫队本周开始在霍尔木兹海峡新增布设水雷。美军已探测到伊朗的相关行动。虽然美方未公开细节，但据称已掌握新布设水雷的数量。 自对伊朗发动攻击以来，这是第二次确认在霍尔木兹海峡布设水雷。Axios称，最初布设的水雷是否已完全清除尚不清楚。 即便美伊就结束战斗达成协议，如果无法清除水雷，油轮等船只恢复正常通航仍将遥遥无期。特朗普强调可以尽早完成排雷，意在遏制伊朗试图以水雷对美国施压的意图。",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62269-2026-04-24-08-03-00.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-24T01:08:02+00:00",
+  "id": "7c8a15f5-d663-4df4-8d59-16e7159c06cd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T03:35:49.871100+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
