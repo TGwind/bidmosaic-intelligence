@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《谁家之AI夺舍了我的父母》",
+  "raw_content": "关注后搜索小团，获取更多五一吃喝玩乐服务！看完视频记得去评论区，有惊喜👇",
+  "source_url": "https://www.bilibili.com/video/BV1nJohBFEwr",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T18:54:25.593267+00:00",
+  "id": "0959b65b-c25f-4b02-b1c0-2c4788e66991",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2044250,
+    "platform": "bilibili"
+  }
+}

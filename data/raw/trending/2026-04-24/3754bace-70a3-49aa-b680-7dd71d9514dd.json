@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "演员回应脱和服谢幕：撕掉不属于我的皮",
+  "raw_content": "演员回应脱和服谢幕：撕掉不属于我的皮",
+  "source_url": "https://www.toutiao.com/trending/7631738377105588250/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227631738377105588250%22%2C%22hot_board_impr_id%22%3A%2220260425025424D5FBADDC410BDD27A309%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%BC%94%E5%91%98%E5%9B%9E%E5%BA%94%E8%84%B1%E5%92%8C%E6%9C%8D%E8%B0%A2%E5%B9%95%EF%BC%9A%E6%92%95%E6%8E%89%E4%B8%8D%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E7%9A%AE%22%7D&rank=&style_id=40132&topic_id=7631738377105588250",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T18:54:24.769813+00:00",
+  "id": "3754bace-70a3-49aa-b680-7dd71d9514dd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15932733",
+    "platform": "toutiao"
+  }
+}
