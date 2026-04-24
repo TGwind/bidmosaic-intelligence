@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "曾经在不同地方逛地下商场的感觉一下子就涌上心头了不？哈哈哈 说出你的经历！",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1y5dSBHE1u",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T02:43:40.115203+00:00",
+  "id": "a73d4d43-e00c-48f6-8363-7a6d79f2c10a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T02:44:21.343589+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3929332,
+    "platform": "bilibili"
+  }
+}

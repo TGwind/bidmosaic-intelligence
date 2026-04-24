@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "男子手欠点柳絮引燃路边小车",
+  "raw_content": "男子手欠点柳絮引燃路边小车",
+  "source_url": "https://www.toutiao.com/trending/7631671130465550374/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227631671130465550374%22%2C%22hot_board_impr_id%22%3A%2220260424104339E15CD8691DE32BB422EE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%94%B7%E5%AD%90%E6%89%8B%E6%AC%A0%E7%82%B9%E6%9F%B3%E7%B5%AE%E5%BC%95%E7%87%83%E8%B7%AF%E8%BE%B9%E5%B0%8F%E8%BD%A6%22%7D&rank=&style_id=40132&topic_id=7631671130465550374",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T02:43:39.345556+00:00",
+  "id": "19c57293-9af3-4fc6-be78-2d35ec1d3c91",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T02:44:21.335708+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18151653",
+    "platform": "toutiao"
+  }
+}

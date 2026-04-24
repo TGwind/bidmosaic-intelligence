@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "这一指标31个省份全部实现正增长",
+  "raw_content": "这一指标31个省份全部实现正增长",
+  "source_url": "https://www.toutiao.com/article/7631857197906985482",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T02:43:39.345505+00:00",
+  "id": "52f1a0f2-4ef5-47d2-b80a-32f041957119",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T02:44:21.340582+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "27079084",
+    "platform": "toutiao"
+  }
+}

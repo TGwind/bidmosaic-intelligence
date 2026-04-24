@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "美国伊朗真乃卧龙凤雏",
+  "raw_content": "本视频提及事件以及信息来源如下： 《伊朗回应美方提议：拒绝临时停火 强调永久停战》来自央视新闻客户端，2026-04-06 22:57:30发布 《伊朗已关闭与美国的所有外交和间接沟通渠道》来自央视新闻客户端，2026-04-07 21:46:20发布 《伊朗媒体披露全部10项停战条款》，来自新华社，2026-04-08 11:08:25发布 《伊朗称伊美谈判将于10日在伊斯兰堡开始》，来自央视新闻客户端，2026-04-08 07:04:48发布 《伊朗公布战损，已造成2700亿美元损失，超3000名平",
+  "source_url": "https://www.bilibili.com/video/BV1Uzd1BUEAS",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T02:43:40.115186+00:00",
+  "id": "888f1ae6-a335-413d-87c7-7003ff41ad96",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T02:44:21.344395+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2844140,
+    "platform": "bilibili"
+  }
+}

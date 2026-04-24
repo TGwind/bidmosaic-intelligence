@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "王毅挥手告别让柬媒感动：太友善了",
+  "raw_content": "王毅挥手告别让柬媒感动：太友善了",
+  "source_url": "https://www.toutiao.com/trending/7632090286625394214/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632090286625394214%22%2C%22hot_board_impr_id%22%3A%2220260424104339E15CD8691DE32BB422EE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8E%8B%E6%AF%85%E6%8C%A5%E6%89%8B%E5%91%8A%E5%88%AB%E8%AE%A9%E6%9F%AC%E5%AA%92%E6%84%9F%E5%8A%A8%EF%BC%9A%E5%A4%AA%E5%8F%8B%E5%96%84%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7632090286625394214",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T02:43:39.345491+00:00",
+  "id": "530653eb-ed6f-4073-96b6-5f1874f34048",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T02:44:21.338959+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "29927016",
+    "platform": "toutiao"
+  }
+}
