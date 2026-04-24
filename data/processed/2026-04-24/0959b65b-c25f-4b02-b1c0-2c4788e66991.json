@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "lulu分布在世界各地的兄弟姐妹",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1nmosB2EAF",
+  "raw_title": "《谁家之AI夺舍了我的父母》",
+  "raw_content": "关注后搜索小团，获取更多五一吃喝玩乐服务！看完视频记得去评论区，有惊喜👇",
+  "source_url": "https://www.bilibili.com/video/BV1nJohBFEwr",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-24T02:43:40.115211+00:00",
-  "id": "0235310d-56e4-43cb-a3b8-b7930123e6ee",
+  "collected_at": "2026-04-24T18:54:25.593267+00:00",
+  "id": "0959b65b-c25f-4b02-b1c0-2c4788e66991",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-24T18:55:07.252782+00:00",
+  "processed_at": "2026-04-24T18:55:07.254099+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1668804,
+    "hot_score": 2044250,
     "platform": "bilibili"
   }
 }

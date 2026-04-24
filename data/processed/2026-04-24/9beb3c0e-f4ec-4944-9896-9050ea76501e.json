@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "核动力航母对中国海军有哪些意义",
+  "raw_content": "核动力航母对中国海军有哪些意义",
+  "source_url": "https://www.toutiao.com/trending/7632292117875789348/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632292117875789348%22%2C%22hot_board_impr_id%22%3A%2220260425025424D5FBADDC410BDD27A309%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%A0%B8%E5%8A%A8%E5%8A%9B%E8%88%AA%E6%AF%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E6%9C%89%E5%93%AA%E4%BA%9B%E6%84%8F%E4%B9%89%22%7D&rank=&style_id=40132&topic_id=7632292117875789348",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T18:54:24.769805+00:00",
+  "id": "9beb3c0e-f4ec-4944-9896-9050ea76501e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T18:55:07.273855+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "17608394",
+    "platform": "toutiao"
+  }
+}

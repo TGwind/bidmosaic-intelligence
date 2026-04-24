@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "lulu分布在世界各地的兄弟姐妹",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1nmosB2EAF",
+  "raw_title": "【奇迹男孩1998】我的最新作品，快来一睹为快！",
+  "raw_content": "曾经护崽哈气扑人的流浪猫妈 现在寸步不离的暖暖❤️",
+  "source_url": "https://www.bilibili.com/video/BV1pCdrB8EPb",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-24T02:43:40.115211+00:00",
-  "id": "0235310d-56e4-43cb-a3b8-b7930123e6ee",
+  "collected_at": "2026-04-24T18:54:25.593234+00:00",
+  "id": "03e2fefb-0997-4968-a1cf-9f800f683435",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-24T18:55:07.252782+00:00",
+  "processed_at": "2026-04-24T18:55:07.251622+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1668804,
+    "hot_score": 1789939,
     "platform": "bilibili"
   }
 }

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "比蚊子更毒更痒的蠓虫又来了",
+  "raw_content": "比蚊子更毒更痒的蠓虫又来了",
+  "source_url": "https://www.toutiao.com/trending/7632224629939257363/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632224629939257363%22%2C%22hot_board_impr_id%22%3A%2220260425025424D5FBADDC410BDD27A309%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%AF%94%E8%9A%8A%E5%AD%90%E6%9B%B4%E6%AF%92%E6%9B%B4%E7%97%92%E7%9A%84%E8%A0%93%E8%99%AB%E5%8F%88%E6%9D%A5%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7632224629939257363",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T18:54:24.769867+00:00",
+  "id": "4a68b0fd-e1cc-499f-952b-7ee70969ed00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T18:55:07.264004+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7911961",
+    "platform": "toutiao"
+  }
+}
