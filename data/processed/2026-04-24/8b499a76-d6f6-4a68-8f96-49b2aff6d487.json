@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "lulu分布在世界各地的兄弟姐妹",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1nmosB2EAF",
+  "raw_title": "全国菜系从夯到拉，个人口味嗷！",
+  "raw_content": "全国菜系从夯到拉，个人口味嗷！",
+  "source_url": "https://www.bilibili.com/video/BV1Brd2BTE1b",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-24T02:43:40.115211+00:00",
-  "id": "0235310d-56e4-43cb-a3b8-b7930123e6ee",
+  "collected_at": "2026-04-24T08:05:30.570849+00:00",
+  "id": "8b499a76-d6f6-4a68-8f96-49b2aff6d487",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-24T08:06:12.045631+00:00",
+  "processed_at": "2026-04-24T08:06:12.050305+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1668804,
+    "hot_score": 1150118,
     "platform": "bilibili"
   }
 }
