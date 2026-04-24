@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US soldier charged over $400K Polymarket bet on Maduro’s capture",
+  "raw_content": "US prosecutors alleged that Gannon Ken Van Dyke asked Polymarket to delete his account after profiting from trades tied to the military operation in Venezuela.",
+  "source_url": "https://cointelegraph.com/news/us-soldier-charged-for-400k-bet-over-maduro-s-presidency-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T02:42:41+00:00",
+  "id": "80fe8116-7c97-4a69-a72a-fa0e8461600d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T09:51:46.135651+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

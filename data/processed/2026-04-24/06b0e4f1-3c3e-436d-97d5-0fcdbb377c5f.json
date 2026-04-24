@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US vows to fight ‘industrial scale’ AI theft by Chinese firms",
+  "raw_content": "The White House’s office of technology policy said that foreign entities are using proxy accounts and jailbreaking techniques to distill capabilities from American AI models.",
+  "source_url": "https://cointelegraph.com/news/us-government-reveals-plan-counter-foreign-ai-distillation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T06:05:37+00:00",
+  "id": "06b0e4f1-3c3e-436d-97d5-0fcdbb377c5f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T09:51:46.020936+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
