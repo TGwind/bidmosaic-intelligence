@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "India pushes e-rupee through welfare pilots as BRICS digital currency plan takes shape",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/24/india-pushes-digital-rupee-through-welfare-pilots-as-brics-cbdc-plan-takes-shape",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T09:25:07+00:00",
+  "id": "e7a5b662-834c-4917-ad4a-49a92b58d449",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

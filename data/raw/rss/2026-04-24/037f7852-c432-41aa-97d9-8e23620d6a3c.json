@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "日股创59716点新高，上涨持续性存隐忧",
+  "raw_content": "<div>2026/04/24</div><div id=\"contentDiv\">\n<div></div>\n<col />\n\n\n<img height=\"361\" src=\"https://feedx.net/images/2026/04/0424/0424-CW-01-L.jpg\" width=\"600\" />\n\n\n\n\n\n\n<div></div>\n<div>     4月24日，东京股市的日经平均股价指数反弹，收盘上涨575点（0.97%）至59716点，刷新历史新高。受英特尔强劲财报带动，市场对人工智能（AI）增长的期待升温，半导体相关股票买盘活跃。不过，资金仍集中于少数个股，股市上涨的持续性仍存隐忧。</div>\n<div>  </div>\n<div>      表现尤为突出的是日本企业揖斐电的股票。受英特尔财报利好推动，其股价一度上涨15.2%，创上市以来新高。揖斐电主力产品是连接半导体芯片与主板的“IC封装基板”，而英特尔是其主要客户，因此市场对其业绩扩张的期待升温。</div>\n<div>  </div>\n<div>      不过，关于日本股市上涨是否存在死角。三菱UFJ摩根士丹利证券高级投资策略研究员大西耕平指出：“AI半导体股票将在高位迎来财报季。由于起点变高，即便业绩预期良好，也可能更容易被卖出”。市场认为业绩预期已在一定程度上反映在股价中，存在“利好兑现即卖出”的可能。</div>\n<div>    </div>\n<div>      <strong>日本经济新闻（中文版：日经中文网）佐藤梨纱</strong></div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/stockforex/62284-2026-04-24-15-11-57.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-24T07:38:02+00:00",
+  "id": "037f7852-c432-41aa-97d9-8e23620d6a3c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
