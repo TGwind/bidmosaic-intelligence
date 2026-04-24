@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "腹有视频气自滑✨",
-  "raw_content": "腹有视频气自滑✨",
-  "source_url": "https://www.bilibili.com/video/BV1LYdSBMEv5",
+  "raw_title": "城市大富翁（4）",
+  "raw_content": "城市大富翁第亖期来了！全新超大地图！ 超刺激的6小时极限赚钱挑战！！ 点赞30W，出发拍摄下一期！！",
+  "source_url": "https://www.bilibili.com/video/BV1cmo4BsEbQ",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-24T08:05:30.570808+00:00",
-  "id": "0a683f40-0af9-49aa-879f-5e1aa979f429",
+  "collected_at": "2026-04-24T13:26:12.928888+00:00",
+  "id": "105ef618-18ae-49ab-b949-f290f214a93e",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-24T13:27:10.899731+00:00",
+  "processed_at": "2026-04-24T13:27:10.900098+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1732784,
+    "hot_score": 1637915,
     "platform": "bilibili"
   }
 }

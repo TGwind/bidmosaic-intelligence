@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "腹有视频气自滑✨",
-  "raw_content": "腹有视频气自滑✨",
-  "source_url": "https://www.bilibili.com/video/BV1LYdSBMEv5",
+  "raw_title": "唱着山歌来买瓜",
+  "raw_content": "音乐改编自电影《刘三姐》",
+  "source_url": "https://www.bilibili.com/video/BV115oWBnEgB",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-24T08:05:30.570808+00:00",
-  "id": "0a683f40-0af9-49aa-879f-5e1aa979f429",
+  "collected_at": "2026-04-24T13:26:12.928837+00:00",
+  "id": "2dea177c-dea6-498a-9ad9-9fc702450b65",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-24T13:27:10.899731+00:00",
+  "processed_at": "2026-04-24T13:27:10.903174+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1732784,
+    "hot_score": 3343845,
     "platform": "bilibili"
   }
 }

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "腹有视频气自滑✨",
-  "raw_content": "腹有视频气自滑✨",
-  "source_url": "https://www.bilibili.com/video/BV1LYdSBMEv5",
+  "raw_title": "【奇迹男孩1998】我的最新作品，快来一睹为快！",
+  "raw_content": "曾经护崽哈气扑人的流浪猫妈 现在寸步不离的暖暖❤️",
+  "source_url": "https://www.bilibili.com/video/BV1pCdrB8EPb",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-24T08:05:30.570808+00:00",
-  "id": "0a683f40-0af9-49aa-879f-5e1aa979f429",
+  "collected_at": "2026-04-24T13:26:12.928872+00:00",
+  "id": "1c496b38-40fe-4058-8b84-f309ed368df0",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-24T13:27:10.899731+00:00",
+  "processed_at": "2026-04-24T13:27:10.900801+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1732784,
+    "hot_score": 1753686,
     "platform": "bilibili"
   }
 }

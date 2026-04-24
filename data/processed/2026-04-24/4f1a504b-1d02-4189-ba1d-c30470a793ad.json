@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "魏建军参观红旗国礼",
+  "raw_content": "魏建军参观红旗国礼",
+  "source_url": "https://www.toutiao.com/trending/7632283802596986377/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632283802596986377%22%2C%22hot_board_impr_id%22%3A%222026042421261206044AF4DCDDA42D3B8B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AD%8F%E5%BB%BA%E5%86%9B%E5%8F%82%E8%A7%82%E7%BA%A2%E6%97%97%E5%9B%BD%E7%A4%BC%22%7D&rank=&style_id=40132&topic_id=7632283802596986377",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T13:26:12.222663+00:00",
+  "id": "4f1a504b-1d02-4189-ba1d-c30470a793ad",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T13:27:10.904655+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16861196",
+    "platform": "toutiao"
+  }
+}
