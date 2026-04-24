@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Succinct launches iPhone app to cryptographically verify photos",
+  "raw_content": "Cryptography company Succinct launched Zcam, an iPhone camera app that signs photos and videos at capture to help prove media authenticity in the AI era.",
+  "source_url": "https://cointelegraph.com/news/zk-firm-succinct-targets-ai-fakes-with-cryptographically-signed-camera-app?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T11:44:11+00:00",
+  "id": "a9b0e727-a539-4508-857d-7225047dd491",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T13:58:00.209858+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
