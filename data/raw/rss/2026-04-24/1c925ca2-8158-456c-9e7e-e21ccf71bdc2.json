@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch",
+  "raw_content": "In this post, we walk through building a scalable, event-driven transcription pipeline that automatically processes audio files uploaded to Amazon Simple Storage Service (Amazon S3), and show you how to use Amazon EC2 Spot Instances and buffered streaming inference to further reduce costs.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-22T21:05:01+00:00",
+  "id": "1c925ca2-8158-456c-9e7e-e21ccf71bdc2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

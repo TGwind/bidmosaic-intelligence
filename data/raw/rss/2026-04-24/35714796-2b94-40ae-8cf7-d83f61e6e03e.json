@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Statement on the appointment of Hyun Song Shin as Governor of the Bank of Korea",
+  "raw_content": "Press release: Statement on the appointment of Hyun Song Shin as Governor of the Bank of Korea",
+  "source_url": "https://www.bis.org/press/p260416a.htm",
+  "source_name": "BIS Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-24T06:15:41.297182+00:00",
+  "id": "35714796-2b94-40ae-8cf7-d83f61e6e03e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/all_pressrels.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

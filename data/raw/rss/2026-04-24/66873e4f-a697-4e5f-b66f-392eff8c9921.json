@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "U.S. arrests Army green beret for $400,000 Polymarket bets on Venezuela raid he was in",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/23/u-s-arrests-soldier-for-polymarket-bets-on-nicolas-maduro-raid-he-participated-in",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-23T22:11:37+00:00",
+  "id": "66873e4f-a697-4e5f-b66f-392eff8c9921",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
