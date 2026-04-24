@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Nakamoto taps Bitwise and Kraken for Bitcoin options strategy to hedge risk",
+  "raw_content": "Nakamoto launched a Bitcoin derivatives program with Bitwise and Kraken, aiming to generate options premiums and hedge part of its BTC treasury exposure.",
+  "source_url": "https://cointelegraph.com/news/nakamoto-taps-bitwise-kraken-bitcoin-options-strategy-hedge-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T15:56:37+00:00",
+  "id": "5d95ee47-6734-4ecd-a733-acbcf227e8e3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T21:01:15.186431+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

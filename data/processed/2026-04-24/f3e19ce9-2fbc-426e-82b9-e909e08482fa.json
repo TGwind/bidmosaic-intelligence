@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Strategy stock beats Bitcoin after rising 25% in a month: BTC bottom in?",
+  "raw_content": "Historically, MSTR’s outperformance signals traders are taking more risk, betting Bitcoin’s worst drawdown phase may be over.",
+  "source_url": "https://cointelegraph.com/markets/strategy-mstr-beats-bitcoin-rising-25percent-month-btc-bottom-in?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T14:50:39+00:00",
+  "id": "f3e19ce9-2fbc-426e-82b9-e909e08482fa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T21:01:15.236163+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

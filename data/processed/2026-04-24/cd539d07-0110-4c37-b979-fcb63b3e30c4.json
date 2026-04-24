@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "South Africa draft bill would tighten crypto capital controls",
+  "raw_content": "South Africa’s draft capital flow rules would bring crypto under exchange controls, with declaration duties, transaction limits and tougher penalties.",
+  "source_url": "https://cointelegraph.com/news/south-africa-draft-bill-tighten-crypto-capital-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T15:20:19+00:00",
+  "id": "cd539d07-0110-4c37-b979-fcb63b3e30c4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-24T21:01:15.231811+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
