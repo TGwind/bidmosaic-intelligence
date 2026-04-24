@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Morgan Stanley launches stablecoin offering through money market fund",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Morgan Stanley launches stablecoin offering through money market fund\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDEvMDE5YjkzM2QtMjNhZi03NzE0LThhMzUtNjcxZWNlOWY0NjBkLmpwZw==.jpg\" /></p><p>Stablecoin issuers must invest a minimum of $10 million into Morgan Stanley’s money market fund, MSNXX, to access the stablecoin reserve offering.</p>",
+  "source_url": "https://cointelegraph.com/news/morgan-stanley-launches-stablecoin-offering-through-money-market-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T06:17:07+00:00",
+  "id": "678174ba-9995-410d-8443-472c2d9b9d43",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

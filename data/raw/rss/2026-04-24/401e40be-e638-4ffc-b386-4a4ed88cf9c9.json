@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
+  "raw_content": "arXiv:2604.20862v1 Announce Type: new \nAbstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning system is becoming increasingly necessary. Accordingly, several countries and defense organizations are actively developing AI-based CoA planning systems. However, due to security restrictions and limited public disclosure, the technical maturity of such systems remains difficult to assess. Furthermore, as these systems are military-related, their details are not publicly disclosed, making it difficult to accurately assess the current level of development. In response to this, this study aims to introduce relevant doctrines within the scope of publicly available information and present applicable AI technologies for each stage of the CoA planning process. Ultimately, it proposes an architecture for the development of an automated CoA planning system.",
+  "source_url": "https://arxiv.org/abs/2604.20862",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-24T04:00:00+00:00",
+  "id": "401e40be-e638-4ffc-b386-4a4ed88cf9c9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
