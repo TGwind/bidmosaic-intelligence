@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "八旬奶奶独自在家客厅下起“火花雨”",
+  "raw_content": "八旬奶奶独自在家客厅下起“火花雨”",
+  "source_url": "https://www.toutiao.com/trending/7632164361541238820/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632164361541238820%22%2C%22hot_board_impr_id%22%3A%222026042421261206044AF4DCDDA42D3B8B%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%85%AB%E6%97%AC%E5%A5%B6%E5%A5%B6%E7%8B%AC%E8%87%AA%E5%9C%A8%E5%AE%B6%E5%AE%A2%E5%8E%85%E4%B8%8B%E8%B5%B7%E2%80%9C%E7%81%AB%E8%8A%B1%E9%9B%A8%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7632164361541238820",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-24T13:26:12.222655+00:00",
+  "id": "dc29d6ce-b184-4b30-ad63-bf2e01e7b0af",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "18634504",
+    "platform": "toutiao"
+  }
+}
