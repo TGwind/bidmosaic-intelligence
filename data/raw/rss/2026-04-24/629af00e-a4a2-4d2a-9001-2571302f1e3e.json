@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "A new way to explore the web with AI Mode in Chrome",
+  "raw_content": "AI Mode in Chrome",
+  "source_url": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-16T17:00:00+00:00",
+  "id": "629af00e-a4a2-4d2a-9001-2571302f1e3e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
