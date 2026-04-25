@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《你这蜂蜜保真吗》",
+  "raw_content": "作词、翻唱：IPx的粉红豹 原曲：庾澄庆《情非得已》 视频素材来自网络",
+  "source_url": "https://www.bilibili.com/video/BV1WfoWBJEfe",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-25T07:19:04.543654+00:00",
+  "id": "633a8594-d810-4e58-a809-2abe95f25f84",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T07:19:47.355857+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6136456,
+    "platform": "bilibili"
+  }
+}

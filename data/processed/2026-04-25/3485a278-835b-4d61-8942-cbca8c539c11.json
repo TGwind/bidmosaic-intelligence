@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "你可以熬夜，但第二天必须去做这些恢复。",
+  "raw_content": "#心理学#熬夜#长期熬夜#恢复 #自我提升",
+  "source_url": "https://www.bilibili.com/video/BV12ZoxBZE6H",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-25T07:19:04.543647+00:00",
+  "id": "3485a278-835b-4d61-8942-cbca8c539c11",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T07:19:47.361953+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2602364,
+    "platform": "bilibili"
+  }
+}

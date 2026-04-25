@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "宝岛珠还，功成无我",
+  "raw_content": "宝岛珠还，功成无我",
+  "source_url": "https://www.bilibili.com/video/BV1AHo5B9Ejs",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-25T07:19:04.543604+00:00",
+  "id": "62cb9bf1-73c3-485f-925d-4d65b6b64f02",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T07:19:47.355596+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2328128,
+    "platform": "bilibili"
+  }
+}

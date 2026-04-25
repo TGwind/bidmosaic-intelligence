@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "腹有视频气自滑✨",
+  "raw_content": "腹有视频气自滑✨",
+  "source_url": "https://www.bilibili.com/video/BV1LYdSBMEv5",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-25T07:19:04.543625+00:00",
+  "id": "c325a86c-94e9-4cbd-bec0-1c38daf636fe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T07:19:47.360126+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2642042,
+    "platform": "bilibili"
+  }
+}
