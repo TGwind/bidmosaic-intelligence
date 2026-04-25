@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "SpaceX's $75 billion IPO could drain the liquidity that's helping lift bitcoin and crypto",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/24/spacex-s-usd75-billion-ipo-could-drain-the-liquidity-that-s-been-lifting-bitcoin-and-crypto",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T13:54:11+00:00",
+  "id": "30742765-ee0f-428a-a0a7-5a3c300ce742",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
