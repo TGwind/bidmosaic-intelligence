@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "从一季报看质的有效提升和量的合理增长",
-  "raw_content": "从一季报看质的有效提升和量的合理增长",
-  "source_url": "https://www.toutiao.com/article/7632461490238341659",
+  "raw_title": "揭秘中国地面空间站的硬核实力",
+  "raw_content": "揭秘中国地面空间站的硬核实力",
+  "source_url": "https://www.toutiao.com/article/7632595204867949056",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-25T07:19:03.770189+00:00",
-  "id": "f3f2f10d-8688-4ec0-94fc-210aa463a325",
+  "collected_at": "2026-04-25T18:55:42.582691+00:00",
+  "id": "7075be24-979c-4777-b05e-2dadda5edc8a",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-25T18:56:26.927242+00:00",
+  "processed_at": "2026-04-25T18:56:26.919864+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "17575432",
+    "hot_score": "13224302",
     "platform": "toutiao"
   }
 }

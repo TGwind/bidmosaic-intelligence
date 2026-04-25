@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "北京大妈一句话让骗子直接破防",
+  "raw_content": "北京大妈一句话让骗子直接破防",
+  "source_url": "https://www.toutiao.com/trending/7631945813778645018/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227631945813778645018%22%2C%22hot_board_impr_id%22%3A%2220260426025542CC99BDAA09CE213BE440%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%A6%88%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E9%AA%97%E5%AD%90%E7%9B%B4%E6%8E%A5%E7%A0%B4%E9%98%B2%22%7D&rank=&style_id=40132&topic_id=7631945813778645018",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-25T18:55:42.582724+00:00",
+  "id": "c2a0e2ce-4dc1-43ec-a8ca-97e82f57e25b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T18:56:26.925278+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8020945",
+    "platform": "toutiao"
+  }
+}
