@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Top memecoin holders expected to attend Trump luncheon",
+  "raw_content": "The US President has confirmed his attendance for the Florida event, but it's unclear whether Tron founder Justin Sun, suing the Trump family's crypto business, will appear.",
+  "source_url": "https://cointelegraph.com/news/tron-justin-sun-donald-trump-memecoin-lunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T21:17:45+00:00",
+  "id": "518e5e81-f7b9-48cf-90e6-0877e461d3dd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T05:55:34.437961+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

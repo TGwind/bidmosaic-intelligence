@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Solana confirms a bullish signal, which last sparked 100% SOL price gains",
+  "raw_content": "A bullish signal from Solana’s MACD indicator hinted at a potential rally, though resistance at $90 could delay the recovery.",
+  "source_url": "https://cointelegraph.com/markets/solana-confirms-bullish-signal-last-sparked-100-sol-price-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T16:22:59+00:00",
+  "id": "9693b104-fc5e-4e71-aae2-4c96413c42c7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T05:55:34.473761+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

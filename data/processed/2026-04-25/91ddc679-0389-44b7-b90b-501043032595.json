@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Paolo Angelini: DLT and stablecoins - where do we stand?",
+  "raw_content": "Speech by Mr Paolo Angelini, Senior Deputy Governor of the Bank of Italy, at the International Economic Symposium \"The global economy at an inflection point: technology, policy, and the future of growth\", co-hosted by the Bank of Italy and National Association for Business Economics (NABE), Rome, 20 April 2026.",
+  "source_url": "https://www.bis.org/review/r260422b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-25T05:52:51.625297+00:00",
+  "id": "91ddc679-0389-44b7-b90b-501043032595",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T05:55:34.468535+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
