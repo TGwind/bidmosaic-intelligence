@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "雷军体验蔚来车辆：国内造车最高水准",
+  "raw_content": "雷军体验蔚来车辆：国内造车最高水准",
+  "source_url": "https://www.toutiao.com/trending/7632182781422095926/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632182781422095926%22%2C%22hot_board_impr_id%22%3A%2220260425103235A20EF67D3B59073B88B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%9B%B7%E5%86%9B%E4%BD%93%E9%AA%8C%E8%94%9A%E6%9D%A5%E8%BD%A6%E8%BE%86%EF%BC%9A%E5%9B%BD%E5%86%85%E9%80%A0%E8%BD%A6%E6%9C%80%E9%AB%98%E6%B0%B4%E5%87%86%22%7D&rank=&style_id=40132&topic_id=7632182781422095926",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-25T02:32:35.739436+00:00",
+  "id": "5dae7b60-9f02-4ff5-8cb7-40bd86ec89db",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T02:33:13.712530+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8632582",
+    "platform": "toutiao"
+  }
+}
