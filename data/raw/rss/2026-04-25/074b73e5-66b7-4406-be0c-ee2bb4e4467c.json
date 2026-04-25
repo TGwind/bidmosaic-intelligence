@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US authorities freeze $344M in crypto linked to Iran",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"US authorities freeze $344M in crypto linked to Iran\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGMxMzktOTcyYi03NDcxLWIyOTctZjEwMGMxNDJjNTUyLmpwZw==.jpg\" /></p><p>The announced crypto freeze came just one day after Tether said it had frozen $344 million of its USDt stablecoin in response to a request from US law enforcement.</p>",
+  "source_url": "https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T23:16:10+00:00",
+  "id": "074b73e5-66b7-4406-be0c-ee2bb4e4467c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Machine learning and digital pragmatics: Which word category influences emoji use most?",
+  "raw_content": "arXiv:2604.21108v1 Announce Type: new \nAbstract: This study investigates Machine Learning (ML) in the prediction of emojis in Arabic tweets employing the (state-of-the-art) MARBERT model. A corpus of 11379 CA tweets representing multiple Arabic colloquial dialects was collected from X.com via Python. A net dataset includes 8695 tweets, which were utilized for the analysis. These tweets were then classified into 14 categories, which were numerically encoded and used as labels. A preprocessing pipeline was designed as an interpretable baseline, allowing us to examine the relationship between lexical features and emoji categories. MARBERT was finetuned to predict emoji use from textual input. We evaluated the model performance in terms of precision, recall and F1-scores. Findings reveal that the model performed quite well with an overall accuracy 0.75. The study concludes that although the findings are promising, there is still a need for improving machine learning models including MARBERT, specifically for low-resource and multidialectal languages like Arabic.",
+  "source_url": "https://arxiv.org/abs/2604.21108",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-24T04:00:00+00:00",
+  "id": "dd335d06-2dbd-4677-aded-f3de9f7542f4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
+  "raw_content": "arXiv:2604.20972v1 Announce Type: new \nAbstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error - a failure mode we term the Agreement Trap. We formalize evaluation as policy-grounded correctness and introduce the Defensibility Index (DI) and Ambiguity Index (AI). To estimate reasoning stability without additional audit passes, we introduce the Probabilistic Defensibility Signal (PDS), derived from audit-model token logprobs. We harness LLM reasoning traces as a governance signal rather than a classification output by deploying the audit model not to decide whether content violates policy, but to verify whether a proposed decision is logically derivable from the governing rule hierarchy. We validate the framework on 193,000+ Reddit moderation decisions across multiple communities and evaluation cohorts, finding a 33-46.6 percentage-point gap between agreement-based and policy-grounded metrics, with 79.8-80.6% of the model's false negatives corresponding to policy-grounded decisions rather than true errors. We further show that measured ambiguity is driven by rule specificity: auditing 37,286 identical decisions under three tiers of the same community rules reduces AI by 10.8 pp while DI remains stable. Repeated-sampling analysis attributes PDS variance primarily to governance ambiguity rather than decoding noise. A Governance Gate built on these signals achieves 78.6% automation coverage with 64.9% risk reduction. Together, these results show that evaluation in rule-governed environments should shift from agreement with historical labels to reasoning-grounded validity under explicit rules.",
+  "source_url": "https://arxiv.org/abs/2604.20972",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-24T04:00:00+00:00",
+  "id": "f2597727-660a-4a99-9eb8-003132602754",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

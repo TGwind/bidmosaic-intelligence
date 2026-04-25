@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Trump's DOJ drops probe that stood in way of president's pick to run Federal Reserve",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/news-analysis/2026/04/24/trump-s-doj-drops-probe-that-stood-in-way-of-president-s-pick-to-run-federal-reserve",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T16:38:39+00:00",
+  "id": "8cd16a26-994a-483c-b341-2655a4442ef7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T22:09:13+00:00",
+  "id": "5c11b59c-ebac-4e9a-9f77-be24b33a432a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

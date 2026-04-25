@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Jane Street asks court to reject Terraform claims tied to UST-LUNA crash",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/24/jane-street-asks-court-to-reject-terraform-claims-tied-to-ust-luna-crash",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-24T15:53:44+00:00",
+  "id": "bfdb0f4b-dd68-4959-b218-48cee473369d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
