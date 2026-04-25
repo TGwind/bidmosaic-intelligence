@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中企回应印尼镍矿新政：成本将暴涨",
+  "raw_content": "中企回应印尼镍矿新政：成本将暴涨",
+  "source_url": "https://www.toutiao.com/trending/7632249781768110143/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632249781768110143%22%2C%22hot_board_impr_id%22%3A%2220260426025542CC99BDAA09CE213BE440%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%BC%81%E5%9B%9E%E5%BA%94%E5%8D%B0%E5%B0%BC%E9%95%8D%E7%9F%BF%E6%96%B0%E6%94%BF%EF%BC%9A%E6%88%90%E6%9C%AC%E5%B0%86%E6%9A%B4%E6%B6%A8%22%7D&rank=&style_id=40132&topic_id=7632249781768110143",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-25T18:55:42.582681+00:00",
+  "id": "e73e3b24-8b55-4aaa-8a3f-a3faa38b8a5e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14615114",
+    "platform": "toutiao"
+  }
+}
