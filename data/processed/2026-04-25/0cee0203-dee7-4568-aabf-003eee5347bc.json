@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中东客商涌进北京车展抢货",
+  "raw_content": "中东客商涌进北京车展抢货",
+  "source_url": "https://www.toutiao.com/trending/7632634907017347108/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632634907017347108%22%2C%22hot_board_impr_id%22%3A%2220260425210659B793455F1807458D4B4E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E4%B8%9C%E5%AE%A2%E5%95%86%E6%B6%8C%E8%BF%9B%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E6%8A%A2%E8%B4%A7%22%7D&rank=&style_id=40132&topic_id=7632634907017347108",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-25T13:07:00.110736+00:00",
+  "id": "0cee0203-dee7-4568-aabf-003eee5347bc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-25T13:07:41.175035+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5921640",
+    "platform": "toutiao"
+  }
+}

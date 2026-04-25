@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "广袤田野铺展“智慧”春景画卷",
-  "raw_content": "广袤田野铺展“智慧”春景画卷",
-  "source_url": "https://www.toutiao.com/article/7632152489860612623",
+  "raw_title": "揭秘中国地面空间站的硬核实力",
+  "raw_content": "揭秘中国地面空间站的硬核实力",
+  "source_url": "https://www.toutiao.com/article/7632595204867949056",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-25T02:32:35.739386+00:00",
-  "id": "e4cf665c-5efc-408c-8f76-5b76a90bfb60",
+  "collected_at": "2026-04-25T13:07:00.110641+00:00",
+  "id": "fc5740c9-5b92-4e19-9679-dee3a6ffa019",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-25T13:07:41.191117+00:00",
+  "processed_at": "2026-04-25T13:07:41.191486+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "15729590",
+    "hot_score": "19660540",
     "platform": "toutiao"
   }
 }
