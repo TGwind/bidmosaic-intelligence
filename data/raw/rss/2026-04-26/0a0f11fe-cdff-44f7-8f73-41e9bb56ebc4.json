@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-25T15:24:31+00:00",
+  "id": "0a0f11fe-cdff-44f7-8f73-41e9bb56ebc4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
