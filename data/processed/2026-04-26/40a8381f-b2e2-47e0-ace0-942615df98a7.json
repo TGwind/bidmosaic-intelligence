@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "特朗普举行发布会",
-  "raw_content": "特朗普举行发布会",
-  "source_url": "https://webcast-open.douyin.com/open/media_live/808207714751",
+  "raw_title": "“阅读 +”点亮各地文旅新体验",
+  "raw_content": "“阅读 +”点亮各地文旅新体验",
+  "source_url": "https://www.toutiao.com/article/7632864407260824099",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-26T02:49:41.514750+00:00",
-  "id": "8d9f4827-8158-4109-b8de-99503df9527c",
+  "collected_at": "2026-04-26T13:09:08.575310+00:00",
+  "id": "40a8381f-b2e2-47e0-ace0-942615df98a7",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-26T13:09:49.869503+00:00",
+  "processed_at": "2026-04-26T13:09:49.861036+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "6787826",
+    "hot_score": "62013114",
     "platform": "toutiao"
   }
 }

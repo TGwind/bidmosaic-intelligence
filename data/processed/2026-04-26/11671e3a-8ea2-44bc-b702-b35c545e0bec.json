@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "人类全马首次跑进2小时",
+  "raw_content": "人类全马首次跑进2小时",
+  "source_url": "https://www.toutiao.com/trending/7633018531902131754/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633018531902131754%22%2C%22hot_board_impr_id%22%3A%222026042621090817E463BCA780B95D97D2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BA%BA%E7%B1%BB%E5%85%A8%E9%A9%AC%E9%A6%96%E6%AC%A1%E8%B7%91%E8%BF%9B2%E5%B0%8F%E6%97%B6%22%7D&rank=&style_id=40132&topic_id=7633018531902131754",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T13:09:08.575260+00:00",
+  "id": "11671e3a-8ea2-44bc-b702-b35c545e0bec",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T13:09:49.858043+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "75742989",
+    "platform": "toutiao"
+  }
+}

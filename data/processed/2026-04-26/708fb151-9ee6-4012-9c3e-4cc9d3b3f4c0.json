@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "白宫晚宴坐特朗普身旁华裔女性是谁",
+  "raw_content": "白宫晚宴坐特朗普身旁华裔女性是谁",
+  "source_url": "https://www.toutiao.com/trending/7632873881258622985/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632873881258622985%22%2C%22hot_board_impr_id%22%3A%222026042621090817E463BCA780B95D97D2%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%99%BD%E5%AE%AB%E6%99%9A%E5%AE%B4%E5%9D%90%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E6%97%81%E5%8D%8E%E8%A3%94%E5%A5%B3%E6%80%A7%E6%98%AF%E8%B0%81%22%7D&rank=&style_id=40132&topic_id=7632873881258622985",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T13:09:08.575296+00:00",
+  "id": "708fb151-9ee6-4012-9c3e-4cc9d3b3f4c0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T13:09:49.870273+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "68535090",
+    "platform": "toutiao"
+  }
+}
