@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "特朗普举行发布会",
+  "raw_content": "特朗普举行发布会",
+  "source_url": "https://webcast-open.douyin.com/open/media_live/808207714751",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T02:49:41.514750+00:00",
+  "id": "8d9f4827-8158-4109-b8de-99503df9527c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T02:50:22.177718+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "6787826",
+    "platform": "toutiao"
+  }
+}

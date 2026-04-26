@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中国为何要发展核动力航母",
+  "raw_content": "中国为何要发展核动力航母",
+  "source_url": "https://www.toutiao.com/trending/7632858300404469284/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632858300404469284%22%2C%22hot_board_impr_id%22%3A%22202604261049415E246FD5E7A225B5E2EE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E5%8F%91%E5%B1%95%E6%A0%B8%E5%8A%A8%E5%8A%9B%E8%88%AA%E6%AF%8D%22%7D&rank=&style_id=40132&topic_id=7632858300404469284",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T02:49:41.514716+00:00",
+  "id": "fba6a418-466c-4fd4-b89a-b22876684e07",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T02:50:22.182127+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10126247",
+    "platform": "toutiao"
+  }
+}

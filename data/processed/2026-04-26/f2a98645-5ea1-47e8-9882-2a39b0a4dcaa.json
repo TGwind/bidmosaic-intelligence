@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "“音乐一响 神兵登场”",
+  "raw_content": "视频开头出处@SKYLINE 00:00 快乐的铺满 02:47 不怕 05:55 踏浪 08:43 左手右手 11:25 爱不会绝迹 15:25 快乐女孩 18:21 梦的光点 22:12 你从未离去 25:55 猪猪侠 29:34 奇迹再现",
+  "source_url": "https://www.bilibili.com/video/BV1s9oYByE52",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T02:49:42.415654+00:00",
+  "id": "f2a98645-5ea1-47e8-9882-2a39b0a4dcaa",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T02:50:22.181386+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6027789,
+    "platform": "bilibili"
+  }
+}
