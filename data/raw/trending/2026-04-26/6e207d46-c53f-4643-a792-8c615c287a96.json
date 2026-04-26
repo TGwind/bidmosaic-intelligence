@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "晚上管住嘴为什么能让人活更久",
+  "raw_content": "晚上管住嘴为什么能让人活更久",
+  "source_url": "https://www.toutiao.com/trending/7632689802895147062/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632689802895147062%22%2C%22hot_board_impr_id%22%3A%22202604270257100B32A307BBCB37973F12%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%99%9A%E4%B8%8A%E7%AE%A1%E4%BD%8F%E5%98%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%AE%A9%E4%BA%BA%E6%B4%BB%E6%9B%B4%E4%B9%85%22%7D&rank=&style_id=40132&topic_id=7632689802895147062",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T18:57:10.821044+00:00",
+  "id": "6e207d46-c53f-4643-a792-8c615c287a96",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "25596920",
+    "platform": "toutiao"
+  }
+}
