@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "唱着山歌来买瓜",
+  "raw_content": "音乐改编自电影《刘三姐》",
+  "source_url": "https://www.bilibili.com/video/BV115oWBnEgB",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T07:41:49.957369+00:00",
+  "id": "23c08c38-1dc1-4254-b0e4-b1516c2d966e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4308405,
+    "platform": "bilibili"
+  }
+}

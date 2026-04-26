@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "45岁派出所所长执勤中不幸牺牲，从辅警到所长，他用25年走完忠诚之路！",
+  "raw_content": "（素材来源：公安部、平安湖北、平安十堰）",
+  "source_url": "https://www.bilibili.com/video/BV1gdoTB7EFd",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T07:41:49.957386+00:00",
+  "id": "b0cab03c-8f88-4b46-b419-f10c8651062a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4076232,
+    "platform": "bilibili"
+  }
+}
