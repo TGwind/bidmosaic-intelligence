@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto is built for AI agents, not humans, says Alchemy's CEO",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-25T19:00:00+00:00",
+  "id": "7887b14b-f90e-4997-a860-590e8cb394f3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T09:10:09.700744+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

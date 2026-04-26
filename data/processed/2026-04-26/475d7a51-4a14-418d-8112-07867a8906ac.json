@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Trump Wants to Double Production of New Nuclear Weapon Cores",
+  "raw_content": "The new proposed budget slashes money for environmental cleanup and calls to double the production of cores for nuclear weapons.",
+  "source_url": "https://www.404media.co/trump-2027-budget-nuclear-weapons/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-22T15:45:59+00:00",
+  "id": "475d7a51-4a14-418d-8112-07867a8906ac",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T09:10:09.667054+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
