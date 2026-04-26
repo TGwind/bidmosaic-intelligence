@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "城市大富翁（4）",
-  "raw_content": "城市大富翁第亖期来了！全新超大地图！ 超刺激的6小时极限赚钱挑战！！ 点赞30W，出发拍摄下一期！！",
-  "source_url": "https://www.bilibili.com/video/BV1cmo4BsEbQ",
+  "raw_title": "这个世界上这么讨人嫌，让人想沙的脸居然有两张…《enemy》第二集",
+  "raw_content": "这个世界上这么讨人嫌，让人想沙的脸居然有两张…《enemy》第二集",
+  "source_url": "https://www.bilibili.com/video/BV1ocoEBQEvr",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-26T02:49:42.415705+00:00",
-  "id": "0d98e8a3-47b7-4e98-ba00-0ee0cf64d10c",
+  "collected_at": "2026-04-26T07:41:49.957377+00:00",
+  "id": "6b99ed31-f334-45cb-bacf-a92b9a40905c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-26T07:42:34.556123+00:00",
+  "processed_at": "2026-04-26T07:42:34.564013+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2207990,
+    "hot_score": 1948212,
     "platform": "bilibili"
   }
 }

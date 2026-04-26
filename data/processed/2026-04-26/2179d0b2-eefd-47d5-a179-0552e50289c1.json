@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "宝妈陪孩子输液不知怀二胎意外分娩",
+  "raw_content": "宝妈陪孩子输液不知怀二胎意外分娩",
+  "source_url": "https://www.toutiao.com/trending/7631974566609207338/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227631974566609207338%22%2C%22hot_board_impr_id%22%3A%222026042615414831D3431EFB9C087E08E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%9D%E5%A6%88%E9%99%AA%E5%AD%A9%E5%AD%90%E8%BE%93%E6%B6%B2%E4%B8%8D%E7%9F%A5%E6%80%80%E4%BA%8C%E8%83%8E%E6%84%8F%E5%A4%96%E5%88%86%E5%A8%A9%22%7D&rank=&style_id=40132&topic_id=7631974566609207338",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T07:41:49.226977+00:00",
+  "id": "2179d0b2-eefd-47d5-a179-0552e50289c1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T07:42:34.556868+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13956824",
+    "platform": "toutiao"
+  }
+}

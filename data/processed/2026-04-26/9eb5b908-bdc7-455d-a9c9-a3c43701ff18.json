@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "全新问界M9汽车72小时预订量破两万五",
+  "raw_content": "全新问界M9汽车72小时预订量破两万五",
+  "source_url": "https://www.toutiao.com/trending/7632586090117058054/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632586090117058054%22%2C%22hot_board_impr_id%22%3A%222026042615414831D3431EFB9C087E08E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%85%A8%E6%96%B0%E9%97%AE%E7%95%8CM9%E6%B1%BD%E8%BD%A672%E5%B0%8F%E6%97%B6%E9%A2%84%E8%AE%A2%E9%87%8F%E7%A0%B4%E4%B8%A4%E4%B8%87%E4%BA%94%22%7D&rank=&style_id=40132&topic_id=7632586090117058054",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T07:41:49.226969+00:00",
+  "id": "9eb5b908-bdc7-455d-a9c9-a3c43701ff18",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T07:42:34.566606+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15424676",
+    "platform": "toutiao"
+  }
+}
