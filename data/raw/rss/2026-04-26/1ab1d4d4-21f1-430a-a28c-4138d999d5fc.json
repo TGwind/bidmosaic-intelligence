@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Christine Lagarde: The energy shock - where we stand and what we need to know",
+  "raw_content": "Keynote speech by Ms Christine Lagarde, President of the European Central Bank, at the annual reception of the Association of German Banks on the occasion of their 75th anniversary, Berlin, 20 April 2026.",
+  "source_url": "https://www.bis.org/review/r260422c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-26T06:13:25.641028+00:00",
+  "id": "1ab1d4d4-21f1-430a-a28c-4138d999d5fc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
