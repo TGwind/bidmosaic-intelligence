@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "朱时茂丛珊北影节合体梦回《牧马人》",
+  "raw_content": "朱时茂丛珊北影节合体梦回《牧马人》",
+  "source_url": "https://www.toutiao.com/trending/7632127866005143578/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632127866005143578%22%2C%22hot_board_impr_id%22%3A%22202604261049415E246FD5E7A225B5E2EE%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%B1%E6%97%B6%E8%8C%82%E4%B8%9B%E7%8F%8A%E5%8C%97%E5%BD%B1%E8%8A%82%E5%90%88%E4%BD%93%E6%A2%A6%E5%9B%9E%E3%80%8A%E7%89%A7%E9%A9%AC%E4%BA%BA%E3%80%8B%22%7D&rank=&style_id=40132&topic_id=7632127866005143578",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-26T02:49:41.514767+00:00",
+  "id": "fb45bfe8-40f3-461f-b58c-eb265d2eecc2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5557402",
+    "platform": "toutiao"
+  }
+}
