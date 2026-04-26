@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Full-Stack Optimizations for Agentic Inference with NVIDIA Dynamo",
+  "raw_content": "Coding agents are starting to write production code at scale. Stripe’s agents generate 1,300+ PRs per week. Ramp attributes 30% of merged PRs to agents....",
+  "source_url": "https://developer.nvidia.com/blog/full-stack-optimizations-for-agentic-inference-with-nvidia-dynamo/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-17T22:52:47+00:00",
+  "id": "719ac2dd-4df1-4be6-98f0-30149fd1e51a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T03:44:09.146568+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}
