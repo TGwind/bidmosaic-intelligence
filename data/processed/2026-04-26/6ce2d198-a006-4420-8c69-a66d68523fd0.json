@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone",
+  "raw_content": "The Ethereum Foundation unstaked over 17,000 ETH worth $40M shortly after approaching its 70,000 ETH staking target.",
+  "source_url": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-26T11:55:32+00:00",
+  "id": "6ce2d198-a006-4420-8c69-a66d68523fd0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-26T13:22:43.203789+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
