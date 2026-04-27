@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin leads $1.2B weekly inflows into crypto investment products",
+  "raw_content": "Crypto ETPs see $1.2 billion inflows in fourth straight week as Bitcoin leads gains and blockchain equity ETFs hit record demand, CoinShares reported.",
+  "source_url": "https://cointelegraph.com/news/crypto-funds-1-2-billion-inflows-four-week-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T10:58:36+00:00",
+  "id": "17c37ccf-04c8-4fc2-b459-f475637c5821",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T14:16:10.444190+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "EU’s largest measures against Russia yet include escalation of crypto sanctions evasion",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T10:42:48+00:00",
+  "id": "27448c64-c491-4790-a0bb-cbea7e0e5456",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T14:16:10.463043+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

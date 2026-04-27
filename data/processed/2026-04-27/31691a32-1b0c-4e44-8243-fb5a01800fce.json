@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "From SWIFT to onchain: South Korea’s biggest digital bank taps Ripple for high-speed global transfers",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T11:29:35+00:00",
+  "id": "31691a32-1b0c-4e44-8243-fb5a01800fce",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T14:16:10.474883+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

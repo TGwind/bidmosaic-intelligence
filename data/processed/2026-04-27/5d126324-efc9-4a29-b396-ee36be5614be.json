@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Spotify’s next frontier: fitness content",
+  "raw_content": "Spotify is adding fitness as its next major category, launching workout videos, playlists, and Peloton classes inside the app for free and Premium users.",
+  "source_url": "https://techcrunch.com/2026/04/27/spotifys-next-frontier-fitness-content/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-27T12:00:00+00:00",
+  "id": "5d126324-efc9-4a29-b396-ee36be5614be",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T14:16:10.497871+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

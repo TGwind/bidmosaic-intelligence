@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin hits wall at $80,000, one analyst says the pullback is temporary",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/daybook-us/2026/04/27/bitcoin-hits-wall-at-usd80-000-one-analyst-says-the-pullback-is-temporary",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T11:14:37+00:00",
+  "id": "5e4ee164-b3e4-489e-8722-e9d6ed610464",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T14:16:10.499250+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

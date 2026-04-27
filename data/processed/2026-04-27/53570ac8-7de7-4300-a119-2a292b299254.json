@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin funds take in $933 million as crypto ETFs hit highest AUM since February",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T12:07:04+00:00",
+  "id": "53570ac8-7de7-4300-a119-2a292b299254",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T14:16:10.494436+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
