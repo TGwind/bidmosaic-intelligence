@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "66岁返聘医生猥亵女患者被行拘",
+  "raw_content": "66岁返聘医生猥亵女患者被行拘",
+  "source_url": "https://www.toutiao.com/trending/7633369915751301139/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633369915751301139%22%2C%22hot_board_impr_id%22%3A%2220260428032436E2092133314DDD798815%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2266%E5%B2%81%E8%BF%94%E8%81%98%E5%8C%BB%E7%94%9F%E7%8C%A5%E4%BA%B5%E5%A5%B3%E6%82%A3%E8%80%85%E8%A2%AB%E8%A1%8C%E6%8B%98%22%7D&rank=&style_id=40132&topic_id=7633369915751301139",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-27T19:24:37.024829+00:00",
+  "id": "33c8b78e-90cb-46fd-80fe-63c752a74863",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T19:25:18.340197+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "13623402",
+    "platform": "toutiao"
+  }
+}
