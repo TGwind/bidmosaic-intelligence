@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin is climbing on thin volume, leaving rally vulnerable to macro shock",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-is-climbing-on-thin-volume-leaving-this-rally-vulnerable-to-macro-shock",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T16:22:16+00:00",
+  "id": "8ea02b72-75df-41bf-aebe-d344d1be8091",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T17:30:31.486104+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

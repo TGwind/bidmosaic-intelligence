@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Cross-border B2B stablecoin payments to hit $5 trillion by 2035, says Juniper Research",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/27/cross-border-b2b-stablecoin-payments-to-rise-by-over-37-000-to-usd5t-by-2035",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T15:49:01+00:00",
+  "id": "d2229160-942e-4dfb-a82d-902cee356a79",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T17:30:31.498774+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

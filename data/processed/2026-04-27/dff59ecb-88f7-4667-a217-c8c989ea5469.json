@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Study Finds A Third of New Websites are AI-Generated",
+  "raw_content": "Researchers found the internet is becoming aggressively positive as AI-generated text floods the web.",
+  "source_url": "https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-27T15:05:55+00:00",
+  "id": "dff59ecb-88f7-4667-a217-c8c989ea5469",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T17:30:31.496343+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

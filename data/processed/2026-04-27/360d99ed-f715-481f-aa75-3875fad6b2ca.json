@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Critical infrastructure giant Itron says it was hacked",
+  "raw_content": "The American technology giant provides water and energy monitoring and utility meters to hundreds of millions of homes and businesses.",
+  "source_url": "https://techcrunch.com/2026/04/27/critical-infrastructure-giant-itron-says-it-was-hacked/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-27T13:03:36+00:00",
+  "id": "360d99ed-f715-481f-aa75-3875fad6b2ca",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T17:30:31.439802+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

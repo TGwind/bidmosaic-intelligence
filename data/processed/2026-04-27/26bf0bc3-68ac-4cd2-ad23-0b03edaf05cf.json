@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "SEC Appoints David Woodcock as Director of the Division of Enforcement",
+  "raw_content": "The Securities and Exchange Commission today announced that David Woodcock has been appointed Director of the Division of Enforcement, effective May 4, 2026. Mr. Woodcock is currently a partner in the Dallas and Washington, D.C. offices of Gibson, Dunn…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-35-sec-appoints-david-woodcock-director-division-enforcement",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-08T16:20:00+00:00",
+  "id": "26bf0bc3-68ac-4cd2-ad23-0b03edaf05cf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T17:30:31.414446+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}
