@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "对不起...",
+  "raw_content": "对不起，我为了视频的效果 在视频的开头用了一个谎言开场",
+  "source_url": "https://www.bilibili.com/video/BV16ooQBsERA",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-27T13:56:33.747900+00:00",
+  "id": "689891fe-8168-4cb1-aa0b-65a04d3c97fb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4698940,
+    "platform": "bilibili"
+  }
+}
