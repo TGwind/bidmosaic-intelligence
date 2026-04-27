@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Introducing Background Temperature to Characterise Hidden Randomness in Large Language Models",
+  "raw_content": "arXiv:2604.22411v1 Announce Type: new Abstract: Even when decoding with temperature $T=0$, large language models (LLMs) can produce divergent outputs for identical inputs. Recent work by Thinking Machines Lab highlights implementation-level sources of nondeterminism, including batch-size variation, kernel non-invariance, and floating-point non-associativity. In this short note we formalize this behavior by introducing the notion of \\emph{background temperature} $T_{\\mathrm{bg}}$, the effective temperature induced by an implementation-dependent perturbation process observed even when nominal $T=0$. We provide clean definitions, show how $T_{\\mathrm{bg}}$ relates to a stochastic perturbation governed by the inference environment $I$, and propose an empirical protocol to estimate $T_{bg}$ via the equivalent temperature $T_n(I)$ of an ideal reference system. We conclude with a set of pilot experiments run on a representative pool from the major LLM providers that demonstrate the idea and outline implications for reproducibility, evaluation, and deployment.",
+  "source_url": "https://arxiv.org/abs/2604.22411",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-27T04:00:00+00:00",
+  "id": "476aa64e-3eb1-41a1-97d2-9c74765ec262",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T10:27:03.635397+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

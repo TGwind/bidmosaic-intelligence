@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T06:45:51+00:00",
+  "id": "6efaba95-795e-47dc-a58a-03c80b0321bf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T10:27:03.657453+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

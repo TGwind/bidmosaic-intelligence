@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "88 people charged over 12 crypto wrench attacks in France",
+  "raw_content": "French law enforcement agencies have been investigating wrench attacks and found that some of the alleged offenders were involved in multiple incidents",
+  "source_url": "https://cointelegraph.com/news/88-people-charged-over-12-crypto-wrench-attacks-in-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T07:45:40+00:00",
+  "id": "11c507a4-bd9a-4744-9243-cbcd7d2750c3",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T10:27:03.581513+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
