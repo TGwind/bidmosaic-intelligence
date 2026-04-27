@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+  "raw_content": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\" />Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+  "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+  "source_name": "Google AI Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-23T12:00:00+00:00",
+  "id": "e5fbbe43-f700-4b22-8b51-843a002441e9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

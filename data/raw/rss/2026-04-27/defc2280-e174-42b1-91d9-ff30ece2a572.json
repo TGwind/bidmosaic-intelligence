@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Aave asks Arbitrum to send 30K ETH from Kelp exploiter to ‘DeFi United’\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjYtMDQvMDE5ZGNjMTYtNzJlMy03MTVkLTg5M2QtMjFmZDNjMjE2MWQzLmpwZw==.jpg\" /></p><p>More than $21 million in contributions has been made to the \"DeFi United\" relief effort so far, with another $215 million to be potentially allocated if certain governance proposals succeed.</p>",
+  "source_url": "https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T04:20:58+00:00",
+  "id": "defc2280-e174-42b1-91d9-ff30ece2a572",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
