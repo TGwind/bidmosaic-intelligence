@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "尿毒症患者呼吁：别再拿饮料当水喝",
+  "raw_content": "尿毒症患者呼吁：别再拿饮料当水喝",
+  "source_url": "https://www.toutiao.com/trending/7632245165449117706/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632245165449117706%22%2C%22hot_board_impr_id%22%3A%22202604271627549AB77A0DBAC7D9FD3087%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%BF%E6%AF%92%E7%97%87%E6%82%A3%E8%80%85%E5%91%BC%E5%90%81%EF%BC%9A%E5%88%AB%E5%86%8D%E6%8B%BF%E9%A5%AE%E6%96%99%E5%BD%93%E6%B0%B4%E5%96%9D%22%7D&rank=&style_id=40132&topic_id=7632245165449117706",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-27T08:27:54.920746+00:00",
+  "id": "3eb3f9a6-4b7b-40f4-b7d1-29fdbe29d504",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T08:28:40.843255+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "24982643",
+    "platform": "toutiao"
+  }
+}
