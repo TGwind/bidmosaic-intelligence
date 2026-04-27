@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "丁俊晖：中国斯诺克拓荒者",
+  "raw_content": "丁俊晖：中国斯诺克拓荒者",
+  "source_url": "https://www.toutiao.com/trending/7633398161590980159/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633398161590980159%22%2C%22hot_board_impr_id%22%3A%2220260427215632FA3651A75DEB3AEE4809%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%81%E4%BF%8A%E6%99%96%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%96%AF%E8%AF%BA%E5%85%8B%E6%8B%93%E8%8D%92%E8%80%85%22%7D&rank=&style_id=40132&topic_id=7633398161590980159",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-27T13:56:32.876147+00:00",
+  "id": "66328749-8889-49d2-a88e-52c6198ebb29",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T13:57:25.294544+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "4296923",
+    "platform": "toutiao"
+  }
+}

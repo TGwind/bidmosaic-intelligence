@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "旅游列车激发消费新活力",
-  "raw_content": "旅游列车激发消费新活力",
-  "source_url": "https://www.toutiao.com/article/7633287151387476515",
+  "raw_title": "我国能源安全韧性持续增强",
+  "raw_content": "我国能源安全韧性持续增强",
+  "source_url": "https://www.toutiao.com/article/7633336669177774633",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-27T08:27:54.920687+00:00",
-  "id": "69595863-67cc-4f1e-91f7-c21dca1d6613",
+  "collected_at": "2026-04-27T13:56:32.876042+00:00",
+  "id": "e1aa0e2c-3e1e-4a66-aa5f-36281cf18fed",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-27T13:57:25.301828+00:00",
+  "processed_at": "2026-04-27T13:57:25.302972+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "50308865",
+    "hot_score": "14266287",
     "platform": "toutiao"
   }
 }
