@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Sanjay Malhotra: Reserve Bank of India's role in India's growth and navigating global challenges",
+  "raw_content": "Address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at Princeton University, Princeton, New Jersey, 18 April 2026.",
+  "source_url": "https://www.bis.org/review/r260422d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-27T21:10:44.566789+00:00",
+  "id": "b5664c73-0107-4f12-a830-802a88ec5a35",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
