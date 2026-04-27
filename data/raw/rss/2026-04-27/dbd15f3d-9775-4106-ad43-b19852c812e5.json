@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Erik Thedéen: Vulnerabilities and resilience in a new world order",
+  "raw_content": "Keynote address by Mr Erik Thedéen, Governor of the Sveriges Riksbank, at the Hanaholmen conference \"The old world order is cancelled: investments for competitiveness and security\", Stockholm, 20 April 2026.",
+  "source_url": "https://www.bis.org/review/r260422e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-27T03:47:00.174293+00:00",
+  "id": "dbd15f3d-9775-4106-ad43-b19852c812e5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
