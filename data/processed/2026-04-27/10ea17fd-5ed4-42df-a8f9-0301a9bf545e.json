@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Podcast: How Algorithms Make Us Feel Bad and Weird",
+  "raw_content": "Lost in the wedding algorithm sauce, \"clean rooms\" for AI, and founders obsessed with \"tokenmaxxing\" in this week's 404 Media Podcast.",
+  "source_url": "https://www.404media.co/podcast-how-algorithms-make-us-feel-bad-and-weird/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-22T12:57:16+00:00",
+  "id": "10ea17fd-5ed4-42df-a8f9-0301a9bf545e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T03:49:44.313332+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

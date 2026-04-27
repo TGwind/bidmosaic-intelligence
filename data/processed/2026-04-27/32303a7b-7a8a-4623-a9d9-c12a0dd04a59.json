@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Freezing 5.6 million dormant bitcoin could trigger ‘worst’ single-day repricing",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/26/freezing-5-6-million-dormant-bitcoin-could-trigger-worst-single-day-repricing",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-26T14:00:00+00:00",
+  "id": "32303a7b-7a8a-4623-a9d9-c12a0dd04a59",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T03:49:44.332330+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

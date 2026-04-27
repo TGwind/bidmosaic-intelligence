@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Health-care AI is here. We don’t know if it actually helps patients.",
+  "raw_content": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A&#8230;",
+  "source_url": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+  "source_name": "MIT Technology Review",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-24T09:00:00+00:00",
+  "id": "8a3cb1ed-2455-4a23-92d3-add73e25969a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T03:49:44.366715+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.technologyreview.com/feed/",
+    "category": "ai",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 85
+  }
+}

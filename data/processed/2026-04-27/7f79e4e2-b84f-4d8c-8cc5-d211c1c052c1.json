@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Litecoin gives post-attack update, but other devs doubt zero-day theory",
+  "raw_content": "Valid transactions that occurred during the affected blocks were not impacted and remain on the main chain, the Litecoin development team said.",
+  "source_url": "https://cointelegraph.com/news/litecoin-post-mortem-chain-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-26T18:15:30+00:00",
+  "id": "7f79e4e2-b84f-4d8c-8cc5-d211c1c052c1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T03:49:44.361024+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

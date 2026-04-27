@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Yadea T5 Electric Bicycle",
+  "raw_content": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker being able to unlock and start the bicycle, leading to vehicle theft. The following versions of Yadea T5 Electric Bicycle are affected: T5 Electric Bicycle vers:all/* (CVE-2025-70994) CVSS Vendor Equipment Vulnerabilities v3 7.3 Yadea Yadea T5 Electric Bicycle Weak Authentication Background Critical Infrastructure Sectors: Transportation Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: China Vulnerabilities Expand All + CVE-2025-70994 Yadea T5 Electric Bicycles have a weak authentication mechanism which is vulnerable to signal forgery after a local attacker intercepts any legitimate key fob transmissions. View CVE Details Affected Products Yadea T5 Electric Bicycle Vendor:Yadea Product Version:Yadea T5 Electric Bicycle: vers:all/* Product Status:known_affected Remediations MitigationYadea did not respond to CISA's attempts at coordination. Users of Yadea T5 Electric Bicycles are encouraged to keep their systems up to date and lock their property securely with external mechanisms. Users can contact Yadea at https://yadea.com/contact-us.https://yadea.com/contact-us Relevant CWE: CWE-1390 Weak Authentication Metrics CVSS Version Base Score Base Severity Vector String 3.1 7.3 HIGH CVSS:3.1/AV:A/AC:L/PR:N/UI:R/S:U/C:N/I:H/A:H Acknowledgments Ashen Chathuranga reported this vulnerability to MITRE and CISA Legal Notice and Terms of Use This product is provided subject to this Notification (https://www.cisa.gov/notification) and this Privacy &amp; Use policy (https://www.cisa.gov/privacy-policy). Recommended Practices CISA provides a section for control systems security recommended practices on the ICS webpage on cisa.gov/ics. Several CISA products detailing cyber defense best practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies. CISA encourages organizations to implement recommended cybersecurity strategies for proactive defense of ICS assets. Additional mitigation guidance and recommended practices are publicly available on the ICS webpage at cisa.gov/ics in the technical information paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies. Organizations observing suspected malicious activity should follow established internal procedures and report findings to CISA for tracking and correlation against other incidents. No known public exploitation specifically targeting this vulnerability has been reported to CISA at this time. This vulnerability is not exploitable remotely. Revision History Initial Release Date: 2026-04-23 Date Revision Summary 2026-04-23 1 Initial Publication Legal Notice and Terms of Use",
+  "source_url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-23T12:00:00+00:00",
+  "id": "5fc46d1f-e34e-4261-802a-43eb4fff918f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T03:49:44.347864+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
