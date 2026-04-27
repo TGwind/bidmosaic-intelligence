@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Where Should LoRA Go? Component-Type Placement in Hybrid Language Models",
+  "raw_content": "arXiv:2604.22127v1 Announce Type: new \nAbstract: Hybrid language models that interleave attention with recurrent components are increasingly competitive with pure Transformers, yet standard LoRA practice applies adapters uniformly without considering the distinct functional roles of each component type. We systematically study component-type LoRA placement across two hybrid architectures -- Qwen3.5-0.8B (sequential, GatedDeltaNet + softmax attention) and Falcon-H1-0.5B (parallel, Mamba-2 SSM + attention) -- fine-tuned on three domains and evaluated on five benchmarks. We find that the attention pathway -- despite being the minority component -- consistently outperforms full-model adaptation with 5-10x fewer trainable parameters. Crucially, adapting the recurrent backbone is destructive in sequential hybrids (-14.8 pp on GSM8K) but constructive in parallel ones (+8.6 pp). We further document a transfer asymmetry: parallel hybrids exhibit positive cross-task transfer while sequential hybrids suffer catastrophic forgetting. These results establish that hybrid topology fundamentally determines adaptation response, and that component-aware LoRA placement is a necessary design dimension for hybrid architectures.",
+  "source_url": "https://arxiv.org/abs/2604.22127",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-27T04:00:00+00:00",
+  "id": "21887f14-548f-4f45-a469-38daf091b141",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

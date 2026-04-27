@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "An Artifact-based Agent Framework for Adaptive and Reproducible Medical Image Processing",
+  "raw_content": "arXiv:2604.21936v1 Announce Type: new \nAbstract: Medical imaging research is increasingly shifting from controlled benchmark evaluation toward real-world clinical deployment. In such settings, applying analytical methods extends beyond model design to require dataset-aware workflow configuration and provenance tracking. Two requirements therefore become central: \\textbf{adaptability}, the ability to configure workflows according to dataset-specific conditions and evolving analytical goals; and \\textbf{reproducibility}, the guarantee that all transformations and decisions are explicitly recorded and re-executable. Here, we present an artifact-based agent framework that introduces a semantic layer to augment medical image processing. The framework formalizes intermediate and final outputs through an artifact contract, enabling structured interrogation of workflow state and goal-conditioned assembly of configurations from a modular rule library. Execution is delegated to a workflow executor to preserve deterministic computational graph construction and provenance tracking, while the agent operates locally to comply with most privacy constraints. We evaluate the framework on real-world clinical CT and MRI cohorts, demonstrating adaptive configuration synthesis, deterministic reproducibility across repeated executions, and artifact-grounded semantic querying. These results show that adaptive workflow configuration can be achieved without compromising reproducibility in heterogeneous clinical environments.",
+  "source_url": "https://arxiv.org/abs/2604.21936",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-27T04:00:00+00:00",
+  "id": "b32c2012-0fbf-4082-928b-2702cc6a7358",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
