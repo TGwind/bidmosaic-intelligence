@@ -1,0 +1,41 @@
+{
+  "source_pipeline": "stock_analysis",
+  "raw_title": "比亚迪(002594) 今日涨2.90% 报102.34元",
+  "raw_content": "比亚迪(002594) 最新价 102.34元，涨2.90%，涨跌额 +2.88元，今开 100.00元，最高 104.00元，最低 99.88元，昨收 99.46元，成交额 61.69亿元，振幅 4.14%。",
+  "source_url": "https://finance.sina.com.cn/realstock/company/sz002594/nc.shtml",
+  "source_name": "新浪财经",
+  "data_type": "market_data",
+  "domain": "finance",
+  "collected_at": "2026-04-27T11:42:03.445029+00:00",
+  "id": "0a7e99cd-5a13-4b68-8b01-78bc3dfb0acc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T11:42:44.971552+00:00",
+  "market_data": {
+    "symbols": [
+      "002594"
+    ],
+    "price_change": {
+      "price": 102.34,
+      "change_pct": 2.9,
+      "change_amt": 2.88
+    },
+    "indicators": {
+      "volume": 60167020.0,
+      "turnover": 6169037081.86,
+      "turnover_rate": 0,
+      "pe_ratio": 0,
+      "amplitude": 4.14,
+      "market_cap": 0
+    }
+  },
+  "metadata": {
+    "source_type": "aggregator",
+    "quality_tier": "secondary",
+    "authority_score": 55,
+    "data_kind": "quote"
+  }
+}
