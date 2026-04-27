@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Amazon’s new podcast strategy: Monetize everything",
+  "raw_content": "Amazon's podcasting business seems to have transformed over the past six months.",
+  "source_url": "https://techcrunch.com/2026/04/26/amazons-new-podcast-strategy-monetize-everything/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-26T21:38:08+00:00",
+  "id": "17f55ebd-b086-41f7-86ad-fbae524b8742",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T06:37:54.644886+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

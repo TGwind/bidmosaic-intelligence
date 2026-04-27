@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Optimal Question Selection from a Large Question Bank for Clinical Field Recovery in Conversational Psychiatric Intake",
+  "raw_content": "arXiv:2604.22067v1 Announce Type: new Abstract: Psychiatric intake is a sequential, high-stakes information-gathering process in which clinicians must decide what to ask, in what order, and how to interpret incomplete or ambiguous responses under limited time. Despite growing interest in conversational AI for healthcare, there is still limited infrastructure for conversational AI in this application. Accordingly, we formulate this task as a question-selection problem with clinically grounded questions, known target information, and controllable patient difficulty. We also introduce a task-specific question-selection benchmark based on a bank of 655 clinician-authored intake questions and corresponding synthetic patient vignettes with 5 different behavioral conditions. In our evaluation, we compare random questioning, a clinical psychiatric intake form baseline, and an LLM-guided adaptive policy across 300 interview sessions spanning four patients and five behavioral conditions. Across the benchmark, the clinically ordered fixed form substantially outperforms random questioning, and the LLM-guided policy achieves the strongest overall recovery. The advantage of adaptation grows sharply under patient behavior that is less amenable to field recovery, especially under guarded-concise conditions. These findings suggest that performance in conversational clinical systems depends not only on language understanding after information is disclosed, but also on whether the system reaches the right topics within a limited interaction budget. More broadly, the benchmark provides a controlled framework for studying how clinical structure and adaptive follow-up contribute to information recovery in interactive clinical machine learning.",
+  "source_url": "https://arxiv.org/abs/2604.22067",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-27T04:00:00+00:00",
+  "id": "113074d4-2442-46e4-a415-b70c36528b3d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T06:37:54.638740+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

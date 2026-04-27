@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Behind the Blog: Waiting in the Apple Store",
+  "raw_content": "This week, we discuss Tim Cook, Meta layoffs, and a very bad ad.",
+  "source_url": "https://www.404media.co/behind-the-blog-waiting-in-the-apple-store/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-24T17:05:15+00:00",
+  "id": "08f85242-01d6-469d-9feb-4b02ac7d9262",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-27T06:37:54.632375+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
