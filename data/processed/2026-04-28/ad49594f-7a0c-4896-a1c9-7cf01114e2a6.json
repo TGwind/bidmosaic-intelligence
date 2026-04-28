@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Grafana 利用 Kafka 对 Loki 进行了架构重构，并发布了一款命令行工具，旨在将可观测性引入编码代理",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/Yo2gGKs9vXJPIST3LuN8?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-28T15:00:00+00:00",
+  "id": "ad49594f-7a0c-4896-a1c9-7cf01114e2a6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T21:15:39.287458+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
