@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "当你长大当了音乐老师后",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1MXo5BYEsV",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-28T03:21:07.045433+00:00",
+  "id": "aa00ef39-57aa-42f3-ae72-f3bea26a6634",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T03:21:50.103403+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5325558,
+    "platform": "bilibili"
+  }
+}

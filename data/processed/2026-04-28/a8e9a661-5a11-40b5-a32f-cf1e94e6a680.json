@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "广西男子开“顺风舟”搭市民上班",
+  "raw_content": "广西男子开“顺风舟”搭市民上班",
+  "source_url": "https://www.toutiao.com/trending/7633269479551664182/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633269479551664182%22%2C%22hot_board_impr_id%22%3A%222026042811210578DBC10FAA5896811080%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B9%BF%E8%A5%BF%E7%94%B7%E5%AD%90%E5%BC%80%E2%80%9C%E9%A1%BA%E9%A3%8E%E8%88%9F%E2%80%9D%E6%90%AD%E5%B8%82%E6%B0%91%E4%B8%8A%E7%8F%AD%22%7D&rank=&style_id=40132&topic_id=7633269479551664182",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-28T03:21:05.981976+00:00",
+  "id": "a8e9a661-5a11-40b5-a32f-cf1e94e6a680",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T03:21:50.103740+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7344549",
+    "platform": "toutiao"
+  }
+}

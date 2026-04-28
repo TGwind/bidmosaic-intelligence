@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【星穹铁道生日会】二相乐园躲猫猫大赛！！",
+  "raw_content": "二相乐园躲猫猫开赛啦！！！ 会赢吗！ 灵感来源：飓多多StormCrew STAFF 【统筹&导演】WildKoko木可 【编剧】WildKoko木可、如诩、金咸鱼 【模型】如诩 【动作】御手洗板蓝根、凉梓Yo、WildKoko木可 【渲染】小二今天吃啥啊 【画面后期】Peakey猴、小二今天吃啥啊 【音频编辑】红豆芋圆椰汁糯米团子、@赤银双皮奶星星 【配音】@云生s 、@希夜_lily桑 、@烨刑SK 、@幻术诗 、@祐宇yu 、@雨晨莉丝 、@不起眼的祈衍 、红豆芋圆椰汁糯米团子",
+  "source_url": "https://www.bilibili.com/video/BV1TFo7BiE11",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-28T03:21:07.045366+00:00",
+  "id": "30d2d995-f701-4dce-9a34-48a1c78e5620",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T03:21:50.097138+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 938312,
+    "platform": "bilibili"
+  }
+}

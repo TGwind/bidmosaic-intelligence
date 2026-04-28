@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "在桌底埋伏时发生这种事我也不想的啊！！",
+  "raw_content": "画师：@日光射线raADia 公主CV：@离瞳鸭 其他所有：我煤啊！ 依旧做了个好玩的小剧场！！原创艰难~谁能给我一个狠狠三连捏？？原创艰难~谁能给我一个狠狠三连捏？？原创艰难~谁能给我一个狠狠三连捏？？原创艰难~谁能给我一个狠狠三连捏？？",
+  "source_url": "https://www.bilibili.com/video/BV1W2oSBWEYw",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-28T03:21:07.045409+00:00",
+  "id": "8c289364-1278-4b4f-957d-f6455b8700c2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T03:21:50.099960+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1732901,
+    "platform": "bilibili"
+  }
+}
