@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price drops below $76K as onchain data sends mixed signals",
+  "raw_content": "Bitcoin failed to break $80,000 resistance amid weak onchain fundamentals, but rising spot CVD could support a recovery.",
+  "source_url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-76k-as-onchain-data-sends-mixed-signals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-28T15:37:33+00:00",
+  "id": "f7eb7f1a-020a-42a0-8c19-984ab0e94a3d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T17:55:19.396980+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

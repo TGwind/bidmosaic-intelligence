@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Galaxy Digital posts $216M Q1 loss as crypto market slides 20%",
+  "raw_content": "Mike Novogratz's Galaxy Digital posted a $216 million first-quarter loss as weaker crypto prices hit asset values, while Helios data center revenue nears.",
+  "source_url": "https://cointelegraph.com/news/galaxy-216-million-q1-2026-loss-crypto-market-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-28T15:06:32+00:00",
+  "id": "05a5ede6-d729-4f07-be63-2b9b820da586",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T17:55:19.255425+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

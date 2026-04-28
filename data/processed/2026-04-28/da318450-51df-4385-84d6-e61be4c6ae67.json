@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin price hits one-week low as $100 oil sparks fresh Asia crisis fears",
+  "raw_content": "Bitcoin price downside returned to send BTC to one-week lows thanks to renewed concerns over global oil supplies focused on the Strait of Hormuz blockade.",
+  "source_url": "https://cointelegraph.com/markets/bitcoin-price-hits-one-week-low-as-100-oil-sparks-fresh-asia-crisis-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-28T16:07:44+00:00",
+  "id": "da318450-51df-4385-84d6-e61be4c6ae67",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T17:55:19.396927+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

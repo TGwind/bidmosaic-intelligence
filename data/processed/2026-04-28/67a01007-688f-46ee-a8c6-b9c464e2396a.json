@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Not a theft, but a statement: Inside the Bitcoin proposal to reassign Satoshi-linked coins",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/tech/2026/04/28/bitcoiners-are-calling-ecash-a-hard-fork-theft-but-it-doesn-t-even-touch-satoshi-s-btc",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-28T14:41:31+00:00",
+  "id": "67a01007-688f-46ee-a8c6-b9c464e2396a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T17:55:19.357628+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
