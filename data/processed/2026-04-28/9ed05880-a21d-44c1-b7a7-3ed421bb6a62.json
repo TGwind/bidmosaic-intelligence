@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Three Bitcoin charts say BTC price may rally toward $82K",
+  "raw_content": "Bitcoin’s ascending channel setup and rising stablecoin inflows suggest improving liquidity conditions could support a push toward higher price levels.",
+  "source_url": "https://cointelegraph.com/markets/three-bitcoin-charts-signaling-btc-price-rebound-to-82k-and-above?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-28T06:57:26+00:00",
+  "id": "9ed05880-a21d-44c1-b7a7-3ed421bb6a62",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T10:25:29.731627+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

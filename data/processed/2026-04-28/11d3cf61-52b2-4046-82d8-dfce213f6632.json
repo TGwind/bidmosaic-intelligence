@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Automations",
+  "raw_content": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+  "source_url": "https://openai.com/academy/codex-automations",
+  "source_name": "OpenAI News",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-23T10:00:00+00:00",
+  "id": "11d3cf61-52b2-4046-82d8-dfce213f6632",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T10:25:29.634087+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 92
+  }
+}

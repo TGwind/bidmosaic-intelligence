@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T21:00:00+00:00",
+  "id": "488a9e9c-1244-4eb9-8975-baac3cb7eeed",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T10:25:29.682075+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+  "raw_content": "arXiv:2604.22777v1 Announce Type: new Abstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection, multi-fidelity residual feature extraction, and large language model (LLM)-enhanced interpretable report generation. A digital twin is constructed using the JSBSim six-degree-of-freedom (6-DoF) flight dynamics engine, generating 23-channel engine health monitoring data via semi-empirical sensor synthesis equations. A three-layer fault injection engine based on failure mode and effects analysis (FMEA) models the physical causal propagation of 19 engine fault types. A multi-fidelity residual computation framework comprising paired-mirror residuals and GRU surrogate prediction residuals is proposed: the high-fidelity path obtains clean fault deviation signals using nominal mirror trajectories with identical initial conditions, while the low-fidelity path achieves online real-time residual computation through a multi-step prediction GRU surrogate model. A 1D-CNN classifier performs end-to-end diagnosis of 20 fault classes. An LLM diagnostic report engine enhanced with FMEA knowledge fuses classification results, residual evidence, and domain causal knowledge to generate interpretable natural language reports. Experiments show the paired-mirror residual scheme achieves a Macro-F1 of 96.2% on the 20-class task, while the GRU surrogate scheme achieves 4.3x inference acceleration at only 0.6% performance cost. Comparison across 24 schemes reveals that residual feature quality contributes approximately 5x more to diagnostic performance than classifier architecture, establishing the \"residual quality first\" design principle.",
+  "source_url": "https://arxiv.org/abs/2604.22777",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-28T04:00:00+00:00",
+  "id": "d35515eb-fc32-453f-ac5d-3c6c8ef9ebe5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T10:25:29.743980+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
