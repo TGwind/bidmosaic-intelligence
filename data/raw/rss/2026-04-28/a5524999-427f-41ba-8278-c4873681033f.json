@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Chiara Scotti: From analysis to action - AI in financial markets",
+  "raw_content": "Closing remarks by Ms Chiara Scotti, Deputy Governor of the Bank of Italy, at the discussion of the OECD, European Commission and Bank of Italy about the report \"Strengthening the regulatory and supervisory framework and market practices for the use of artificial intelligence in the Italian financial markets\", Rome, 24 April 2026.",
+  "source_url": "https://www.bis.org/review/r260428i.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-28T21:12:54.900399+00:00",
+  "id": "a5524999-427f-41ba-8278-c4873681033f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Chinese-SkillSpan: A Span-Level Dataset for ESCO-Aligned Competency Extraction from Chinese Job Ads",
+  "raw_content": "arXiv:2604.23009v1 Announce Type: new \nAbstract: Job Skill Named Entity Recognition (JobSkillNER) aims to automatically extract key skill information from large-scale job posting data, which is important for improving talent-market matching efficiency and supporting personalized employment services. To the best of our knowledge, this work presents the first Chinese JobSkillNER dataset for recruitment texts. We propose annotation guidelines tailored to Chinese job postings and an LLM-empowered Macro-Micro collaborative annotation pipeline. The pipeline leverages the contextual understanding ability of large language models (LLMs) for initial annotation and then refines the results through expert sentence-level adjudication. Using this pipeline, we annotate more than 20,000 instances collected from four major recruitment platforms over the period 2014-2025. Based on these efforts, we release Chinese-SkillSpan, the first Chinese JobSkillNER dataset aligned with the ESCO occupational skill standard across four dimensions: knowledge, skill, transversal competence, and language competence (LSKT). Experimental results show that the dataset supports effective model training and evaluation, indicating that Chinese-SkillSpan helps fill a major gap in Chinese JobSkillNER resources and provides a useful benchmark for intelligent recruitment research. Code and data are available at https://sites.google.com/view/cn-skillspan-resources .",
+  "source_url": "https://arxiv.org/abs/2604.23009",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-28T04:00:00+00:00",
+  "id": "6a464a87-1583-478f-8b30-07629b1c7d3f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
