@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《鸣潮》共鸣者「绯雪」PV | 不见春",
+  "raw_content": "一枝注定衰亡的花，一段深埋于心的旧日。 一捧灼热滚烫的雪，一纸寄于春时的夙愿。 “茫茫白无尽，绯色寄新生。 待到昭昭如愿日，便是……雪后一地春。” 中文CV 绯雪：李蝉妃 日文CV 绯雪：户松遥 英文CV 绯雪：Mei Mac 韩文CV 绯雪：정혜원",
+  "source_url": "https://www.bilibili.com/video/BV1qv9zBgEmg",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-28T19:43:00.603419+00:00",
+  "id": "ef8e3af0-31f2-4b2d-9b9c-2b9bbdd7088d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T19:43:49.724866+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1876578,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中共中央政治局：深入整治内卷式竞争",
+  "raw_content": "中共中央政治局：深入整治内卷式竞争",
+  "source_url": "https://www.toutiao.com/trending/7633678852108206099/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633678852108206099%22%2C%22hot_board_impr_id%22%3A%2220260429034259E5A8ABB40DD7D2ED8735%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%EF%BC%9A%E6%B7%B1%E5%85%A5%E6%95%B4%E6%B2%BB%E5%86%85%E5%8D%B7%E5%BC%8F%E7%AB%9E%E4%BA%89%22%7D&rank=&style_id=40132&topic_id=7633678852108206099",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-28T19:42:59.915403+00:00",
+  "id": "a0308993-c4a6-45a9-9451-ebb87dd5833a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T19:43:49.719896+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "11214049",
+    "platform": "toutiao"
+  }
+}

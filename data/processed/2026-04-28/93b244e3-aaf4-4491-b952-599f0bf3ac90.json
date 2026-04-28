@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "共建健康城镇 共筑健康防线",
-  "raw_content": "共建健康城镇 共筑健康防线",
-  "source_url": "https://www.toutiao.com/article/7633463804345270799",
+  "raw_title": "外贸屡创新高彰显中国产业链优势",
+  "raw_content": "外贸屡创新高彰显中国产业链优势",
+  "source_url": "https://www.toutiao.com/article/7633697375936053769",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-28T08:26:50.894007+00:00",
-  "id": "c48c8953-a731-409c-b597-00bedfe4a312",
+  "collected_at": "2026-04-28T19:42:59.915416+00:00",
+  "id": "93b244e3-aaf4-4491-b952-599f0bf3ac90",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-28T19:43:49.723778+00:00",
+  "processed_at": "2026-04-28T19:43:49.722117+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "13877767",
+    "hot_score": "10146891",
     "platform": "toutiao"
   }
 }

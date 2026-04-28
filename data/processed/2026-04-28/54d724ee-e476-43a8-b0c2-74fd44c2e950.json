@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "撒贝宁获全国五一劳动奖章",
+  "raw_content": "撒贝宁获全国五一劳动奖章",
+  "source_url": "https://www.toutiao.com/trending/7632956434367987766/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632956434367987766%22%2C%22hot_board_impr_id%22%3A%2220260429034259E5A8ABB40DD7D2ED8735%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%92%92%E8%B4%9D%E5%AE%81%E8%8E%B7%E5%85%A8%E5%9B%BD%E4%BA%94%E4%B8%80%E5%8A%B3%E5%8A%A8%E5%A5%96%E7%AB%A0%22%7D&rank=&style_id=40132&topic_id=7632956434367987766",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-28T19:42:59.915514+00:00",
+  "id": "54d724ee-e476-43a8-b0c2-74fd44c2e950",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T19:43:49.714821+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "3056184",
+    "platform": "toutiao"
+  }
+}
