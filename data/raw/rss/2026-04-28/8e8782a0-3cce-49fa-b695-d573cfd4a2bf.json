@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Rethinking Publication: A Certification Framework for AI-Enabled Research",
+  "raw_content": "arXiv:2604.22026v1 Announce Type: new \nAbstract: AI research pipelines now produce a growing share of publishable academic output, including work that meets existing peer-review standards for quality and novelty. Yet the publication system was built on the assumption of universal human authorship and lacks a principled way to evaluate knowledge produced through automated pipelines. This paper proposes a two-layer certification framework that separates knowledge quality assessment from grading of human contribution, allowing publication systems to handle pipeline-generated work consistently and transparently without creating new institutions. The paper uses normative-conceptual analysis, framework design under four explicit constraints, and dry-run validation on two representative submission cases spanning key attribution scenarios. The framework grades contributions as Category A (pipeline-reachable), Category B (requiring human direction at identifiable stages), and Category C (beyond current pipeline reach at the formulation stage). It also introduces benchmark slots for fully disclosed automated research as both a transparent publication track and a calibration instrument for reviewer judgment. Contribution grading is contemporaneous, based on pipeline capability at the time of submission. Dry-run validation shows that the framework can certify knowledge appropriately while tolerating irreducible attribution uncertainty. The paper argues that publication has always certified both that knowledge is valid and that a human made it. AI pipelines separate these functions for the first time. The framework is implementable within existing editorial infrastructure and grounds recognition of frontier human contribution in epistemic achievement rather than unverifiable claims of human origin.",
+  "source_url": "https://arxiv.org/abs/2604.22026",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-27T04:00:00+00:00",
+  "id": "8e8782a0-3cce-49fa-b695-d573cfd4a2bf",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

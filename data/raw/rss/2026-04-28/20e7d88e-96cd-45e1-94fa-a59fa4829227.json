@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Hacker who allegedly carried out cyberattacks for China is extradited to US",
+  "raw_content": "Xu Zewei is accused of participating in a Chinese government hacking group that broke into thousands of U.S. organizations and stole COVID-19-related research.",
+  "source_url": "https://techcrunch.com/2026/04/27/hacker-who-allegedly-carried-out-cyberattacks-for-china-is-extradited-to-u-s/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-27T17:07:06+00:00",
+  "id": "20e7d88e-96cd-45e1-94fa-a59fa4829227",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
