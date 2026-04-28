@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin shorts create $1.4B liquidation risk: Is a price squeeze to $80K next?",
+  "raw_content": "Bitcoin failed to overcome $79,000, but a potential bear trap formed as $1.4 billion in short positions face liquidation at $80,000. Will spot market demand be the trigger?",
+  "source_url": "https://cointelegraph.com/markets/bitcoin-shorts-create-14b-liquidation-risk-is-a-price-squeeze-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-28T01:26:36+00:00",
+  "id": "239cd6ee-a5ef-4efa-91cf-416197cc1234",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T03:54:38.689658+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

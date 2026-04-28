@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin whale holdings hit five-month high: Is BTC headed to $80K next?",
+  "raw_content": "Bitcoin accumulation by whales and institutional investors is reducing the available supply of BTC and potentially setting the stage for a rally above $80,000.",
+  "source_url": "https://cointelegraph.com/markets/bitcoin-whale-holdings-hit-five-month-high-is-btc-headed-to-80k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-27T21:44:05+00:00",
+  "id": "d1cd1693-8202-42d7-9e41-65310303bf78",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T03:54:38.774846+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

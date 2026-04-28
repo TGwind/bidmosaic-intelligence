@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "How Popsa used Amazon Nova to inspire customers with personalised title suggestions",
+  "raw_content": "In this post, we share how we applied Amazon Bedrock and the Amazon Nova family of models to reimagine our Title Suggestion feature. By combining metadata, computer vision, and retrieval-augmented generative AI, we now automatically generate creative, brand-aligned titles and subtitles across 12 languages. Using the unified API of Amazon Bedrock, Anthropic’s Claude 3 Haiku, and Amazon Nova Lite and Pro, we improved quality, reduced cost, and cut response times. This resulted in higher customer satisfaction, measurable uplifts in engagement and purchase rates, and over 5.5 million personalised titles generated in 2025.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/how-popsa-used-amazon-nova-to-inspire-customers-with-personalised-title-suggestions/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-27T16:45:37+00:00",
+  "id": "5fafe161-45b7-49e8-ba8a-c7caa5c38650",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T03:54:38.719249+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
