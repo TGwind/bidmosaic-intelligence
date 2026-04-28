@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "阿娇祝贺蔡卓妍结婚",
+  "raw_content": "阿娇祝贺蔡卓妍结婚",
+  "source_url": "https://www.toutiao.com/trending/7632992020432227903/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227632992020432227903%22%2C%22hot_board_impr_id%22%3A%2220260428162650A07F4248009E2CB9B76F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%98%BF%E5%A8%87%E7%A5%9D%E8%B4%BA%E8%94%A1%E5%8D%93%E5%A6%8D%E7%BB%93%E5%A9%9A%22%7D&rank=&style_id=40132&topic_id=7632992020432227903",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-28T08:26:50.894121+00:00",
+  "id": "e248431c-4224-4399-afe4-224f876d1768",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T08:27:38.949544+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "4179903",
+    "platform": "toutiao"
+  }
+}

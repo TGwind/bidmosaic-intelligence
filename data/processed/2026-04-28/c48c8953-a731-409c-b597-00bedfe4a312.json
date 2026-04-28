@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "我国能源安全韧性持续增强",
-  "raw_content": "我国能源安全韧性持续增强",
-  "source_url": "https://www.toutiao.com/article/7633336669177774633",
+  "raw_title": "共建健康城镇 共筑健康防线",
+  "raw_content": "共建健康城镇 共筑健康防线",
+  "source_url": "https://www.toutiao.com/article/7633463804345270799",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-28T03:21:05.981880+00:00",
-  "id": "61ec5717-3be8-4e22-b1a9-9396b6b3c666",
+  "collected_at": "2026-04-28T08:26:50.894007+00:00",
+  "id": "c48c8953-a731-409c-b597-00bedfe4a312",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-28T08:27:38.944432+00:00",
+  "processed_at": "2026-04-28T08:27:38.948453+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "24384762",
+    "hot_score": "13877767",
     "platform": "toutiao"
   }
 }

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "这个世界上这么讨人嫌，让人想沙的脸居然有两张…《enemy》第二集",
-  "raw_content": "这个世界上这么讨人嫌，让人想沙的脸居然有两张…《enemy》第二集",
-  "source_url": "https://www.bilibili.com/video/BV1ocoEBQEvr",
+  "raw_title": "《印式救援》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1cJodBTEsZ",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-28T03:21:07.045386+00:00",
-  "id": "ed6fbf6d-e6a3-4272-9aae-f601315a6591",
+  "collected_at": "2026-04-28T08:26:51.895655+00:00",
+  "id": "767b7827-7ce0-4f6a-8496-ad8d2e14bbb6",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-28T08:27:38.950780+00:00",
+  "processed_at": "2026-04-28T08:27:38.946073+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2358638,
+    "hot_score": 4945043,
     "platform": "bilibili"
   }
 }

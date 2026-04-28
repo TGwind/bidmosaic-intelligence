@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "中方回应日称“为长期战争做准备”",
+  "raw_content": "中方回应日称“为长期战争做准备”",
+  "source_url": "https://www.toutiao.com/trending/7633388237955792934/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633388237955792934%22%2C%22hot_board_impr_id%22%3A%2220260428162650A07F4248009E2CB9B76F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E7%A7%B0%E2%80%9C%E4%B8%BA%E9%95%BF%E6%9C%9F%E6%88%98%E4%BA%89%E5%81%9A%E5%87%86%E5%A4%87%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7633388237955792934",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-28T08:26:50.893943+00:00",
+  "id": "8f85969f-0f36-488b-a47e-768f782501c5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-28T08:27:38.946882+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16950343",
+    "platform": "toutiao"
+  }
+}
