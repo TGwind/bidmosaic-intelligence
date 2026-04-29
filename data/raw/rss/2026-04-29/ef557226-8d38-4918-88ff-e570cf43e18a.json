@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+  "raw_content": "arXiv:2604.22979v1 Announce Type: new \nAbstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of causal interpretability, symbolic controllability, and direct operation on high-dimensional raw signals. Deep neural models achieve strong predictive performance on CSI-based HAR (CHAR), yet rely on continuous latent representations that are opaque and difficult to modify; purely symbolic approaches, in contrast, cannot process raw CSI streams. We propose a fully automatic and strictly decoupled pipeline in which CSI magnitude windows are compressed by a categorical variational autoencoder with Gumbel-Softmax latent variables under a capacity-controlled objective, yielding a compact discrete representation. The encoder is then frozen and used as a deterministic mapping to one-hot latent trajectories. Causal discovery is performed on these trajectories to estimate class-conditional temporal dependency graphs. Statistically supported lagged dependencies are translated into Linear Temporal Logic (LTL) rules, producing a fully symbolic and deterministic classifier based solely on rule evaluation and aggregation, without any learned discriminative head. Because rules are defined over discrete latent variables, antenna-specific rule sets can in principle be combined at the symbolic level, enabling structured multi-antenna fusion without retraining the encoder. Results from CHAR Latent Temporal Rule Extraction (CHARL-TRE) indicate competitive performance while preserving explicit temporal and causal structure, showing that deterministic symbolic classification grounded in unsupervised discrete latent representations constitutes a viable alternative to end-to-end black-box models for wireless HAR.",
+  "source_url": "https://arxiv.org/abs/2604.22979",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-29T04:00:00+00:00",
+  "id": "ef557226-8d38-4918-88ff-e570cf43e18a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
