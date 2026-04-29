@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Sergio Nicoletti Altimari: The Italian financial system - stability, innovation, and the road ahead",
+  "raw_content": "Keynote speech by Mr Sergio Nicoletti Altimari, Deputy Governor of the Bank of Italy, at Villa Firenze Talks at Embassy of Italy to the United States, Washington DC, 20 April 2026.",
+  "source_url": "https://www.bis.org/review/r260427a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-29T17:44:33.191836+00:00",
+  "id": "2508ee4d-d1c0-476c-8785-3c0dedbfccac",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
