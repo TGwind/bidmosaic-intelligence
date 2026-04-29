@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "巴拿马运河通航权价格接近上涨至3倍",
+  "raw_content": "2026/04/24 从美国驶向亚洲的油轮和液化天然气运输船增加，甚至有船只支付了高达400万美元的费用…… 敬请登录以便观看全部文章 如果您已经是日经中文网会员，请点击此处，进行登录。 如果您还不是日经中文网会员，请点击此处，进行会员免费注册。 获取更多RSS：https://feedx.net https://feedx.site",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/commodity/62271-2026-04-24-08-02-58.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-24T02:08:02+00:00",
+  "id": "d7d54bb0-d19b-44e0-b050-c08ca48400f8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T03:52:07.566310+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

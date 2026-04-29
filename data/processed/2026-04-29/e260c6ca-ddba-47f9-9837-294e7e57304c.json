@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "University Professors Disturbed to Find Their Lectures Chopped Up and Turned Into AI Slop",
+  "raw_content": "ASU Atomic, a new tool in beta at Arizona State University, takes faculty lectures and chops them into extremely short clips, that AI then attempts to turn into learning materials.",
+  "source_url": "https://www.404media.co/asu-atomic-ai-modules-arizona-state-university/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-27T22:29:33+00:00",
+  "id": "e260c6ca-ddba-47f9-9837-294e7e57304c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T03:52:07.569247+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
