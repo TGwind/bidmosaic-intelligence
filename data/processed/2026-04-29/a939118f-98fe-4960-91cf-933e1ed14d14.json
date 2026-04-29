@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Adapting Zero Trust Principles to Operational Technology",
+  "raw_content": "Adapting Zero Trust Principles to Operational Technology CISA, in coordination with the Department of War, Department of Energy, Federal Bureau of Investigation, and Department of State, released Adapting Zero Trust Principles to Operational Technology, joint guidance for organizations applying zero trust (ZT) principles to operational technology (OT). Zero trust is a modern, adaptive approach to cybersecurity that eliminates implicit trust and requires continuously validating access based on identity, context, and risk. With advancements in technology, OT systems that were traditionally isolated or manually operated are now increasingly interconnected, digitally monitored, and remotely controlled. This IT-OT convergence introduces new cybersecurity risks that make perimeter-based defenses and implicit trust models inadequate for safeguarding OT systems and the critical physical processes they control. This guidance supports OT owners and operators in addressing the unique challenges of transitioning to a ZT architecture, considering technology gaps from legacy infrastructure, operational constraints, and safety requirements. It focuses on establishing comprehensive asset visibility, proactively addressing supply chain risks, and implementing robust identity and access management while stressing the importance of layered security measures—including network segmentation, secure communication protocols, and vulnerability management. To learn more about ZT principles, visit Zero Trust &nbsp;&nbsp; CISA Product Survey We welcome your feedback. CISA Product Survey &nbsp;",
+  "source_url": "https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-29T12:00:00+00:00",
+  "id": "a939118f-98fe-4960-91cf-933e1ed14d14",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T17:47:26.523397+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
