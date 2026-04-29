@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Celsius founder Alex Mashinsky settles FTC case with $10M payment",
+  "raw_content": "The FTC order ties Mashinsky’s $10 million payment to a mostly suspended $4.72 billion judgment that can be revived over asset disclosures.",
+  "source_url": "https://cointelegraph.com/news/celsius-founder-settlement-includes-10m-payment-suspended-47b-judgment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T10:10:18+00:00",
+  "id": "0db3c0e1-cd96-4d39-ac8b-2275d5d6cf9c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.861009+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

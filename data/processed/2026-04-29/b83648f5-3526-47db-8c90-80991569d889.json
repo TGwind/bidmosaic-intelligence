@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Sri Lanka discloses another missing payment, days after hackers stole $2.5M from its finance ministry",
+  "raw_content": "The government of Sri Lanka has lost more than $3 million in two recent, separate cybersecurity incidents as the country continues to recover from its 2022 debt crisis.",
+  "source_url": "https://techcrunch.com/2026/04/29/sri-lanka-discloses-another-missing-payment-days-after-hackers-stole-2-5m-from-its-finance-ministry/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-29T13:23:57+00:00",
+  "id": "b83648f5-3526-47db-8c90-80991569d889",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.992621+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

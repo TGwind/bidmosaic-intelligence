@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "GSR says Crypto Core3 ETF is simple gateway for mainstream investors",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-news/2026/04/29/gsr-says-crypto-core3-etf-is-simple-gateway-for-mainstream-investors",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T12:43:44+00:00",
+  "id": "dc6c38c4-854c-4cd1-ba85-be2013c08cde",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.997995+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

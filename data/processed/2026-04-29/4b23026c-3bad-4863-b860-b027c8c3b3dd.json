@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Securitize, Computershare open path for $70 trillion U.S. stocks to move onchain",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/29/securitize-computershare-open-path-for-usd70-trillion-u-s-stocks-to-move-onchain",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T12:45:43+00:00",
+  "id": "4b23026c-3bad-4863-b860-b027c8c3b3dd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.944589+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

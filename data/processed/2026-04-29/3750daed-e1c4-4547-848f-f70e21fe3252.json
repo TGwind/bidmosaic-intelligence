@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "DeFi shaken by $292 million hack, but showing resilience, Standard Chartered says",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/29/defi-shaken-by-usd292-million-hack-but-showing-resilience-standard-chartered-says",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T12:55:30+00:00",
+  "id": "3750daed-e1c4-4547-848f-f70e21fe3252",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.923354+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Canada proposes crypto ATM ban over scams and money laundering",
+  "raw_content": "Ottawa says Bitcoin ATMs have become a key tool for scammers, as regulators move to tighten oversight of high-risk parts of the crypto sector.",
+  "source_url": "https://cointelegraph.com/news/canada-proposes-crypto-atm-ban-over-scams-and-money-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T09:49:45+00:00",
+  "id": "15e2b534-30e2-4a66-83fb-bca3e8a11585",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.873209+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

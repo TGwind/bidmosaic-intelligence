@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CoinDesk 20 performance update: Litecoin (LTC) gains 2.4%, leading index higher",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-indices/2026/04/29/coindesk-20-performance-update-litecoin-ltc-gains-2-4-leading-index-higher",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T13:19:10+00:00",
+  "id": "7e13a94b-fe55-459e-823e-ffc61a59fc1d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.982786+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

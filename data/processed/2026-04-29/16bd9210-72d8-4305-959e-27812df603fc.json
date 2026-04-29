@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
+  "raw_content": "Manufacturing’s traditional design-build-test cycle rested on a single assumption: Real-world testing was the only reliable test environment.",
+  "source_url": "https://blogs.nvidia.com/blog/manufacturing-simulation-first/",
+  "source_name": "NVIDIA Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-28T13:00:33+00:00",
+  "id": "16bd9210-72d8-4305-959e-27812df603fc",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.874413+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feeds.feedburner.com/nvidiablog",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

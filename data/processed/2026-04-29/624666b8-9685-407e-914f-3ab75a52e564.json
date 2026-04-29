@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "ZetaChain dismissed bug report that could have prevented $334K exploit",
+  "raw_content": "The vulnerability behind ZetaChain's $334,000 exploit had been reported through its bug bounty program before the attack but was dismissed.",
+  "source_url": "https://cointelegraph.com/news/zetachain-dismissed-bug-report-that-could-have-prevented-334k-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T12:17:29+00:00",
+  "id": "624666b8-9685-407e-914f-3ab75a52e564",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.960388+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

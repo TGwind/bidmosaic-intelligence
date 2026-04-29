@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Galaxy leads $20 million investment in Fence to overhaul back end of $6 trillion credit market",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/28/galaxy-digital-leads-usd20-million-investment-in-fence-to-overhaul-back-end-of-usd6-trillion-credit-market",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T12:17:12+00:00",
+  "id": "ba17a897-8e9b-4f85-8db8-02cc0d7d5048",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T14:23:45.993440+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
