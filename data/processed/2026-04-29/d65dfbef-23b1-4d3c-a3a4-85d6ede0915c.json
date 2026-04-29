@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "ADE: Adaptive Dictionary Embeddings -- Scaling Multi-Anchor Representations to Large Language Models",
+  "raw_content": "arXiv:2604.24940v1 Announce Type: new Abstract: Word embeddings are fundamental to natural language processing, yet traditional approaches represent each word with a single vector, creating representational bottlenecks for polysemous words and limiting semantic expressiveness. While multi-anchor representations have shown promise by representing words as combinations of multiple vectors, they have been limited to small-scale models due to computational inefficiency and lack of integration with modern transformer architectures. We introduce Adaptive Dictionary Embeddings (ADE), a framework that successfully scales multi-anchor word representations to large language models. ADE makes three key contributions: (1) Vocabulary Projection (VP), which transforms the costly two-stage anchor lookup into a single efficient matrix operation; (2) Grouped Positional Encoding (GPE), a novel positional encoding scheme where anchors of the same word share positional information, preserving semantic coherence while enabling anchor-level variation; and (3) context-aware anchor reweighting, which leverages self-attention to dynamically compose anchor contributions based on sequence context. We integrate these components into the Segment-Aware Transformer (SAT), which provides context-aware reweighting of anchor contributions at inference time. We evaluate ADE on AG News and DBpedia-14 text classification benchmarks. With 98.7% fewer trainable parameters than DeBERTa-v3-base, ADE surpasses DeBERTa on DBpedia-14 (98.06% vs. 97.80%) and approaches it on AG News (90.64% vs. 94.50%), while compressing the embedding layer over 40x -- demonstrating that multi-anchor representations are a practical and parameter-efficient alternative to single-vector embeddings in modern transformer architectures.",
+  "source_url": "https://arxiv.org/abs/2604.24940",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-29T04:00:00+00:00",
+  "id": "d65dfbef-23b1-4d3c-a3a4-85d6ede0915c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T06:32:33.861494+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

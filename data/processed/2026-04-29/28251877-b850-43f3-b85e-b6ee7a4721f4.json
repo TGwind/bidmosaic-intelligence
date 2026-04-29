@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Martin Schlegel: Comments on Swiss monetary policy",
+  "raw_content": "Speech by Mr Martin Schlegel, Chairman of the Governing Board of the Swiss National Bank, at the 118th Ordinary General Meeting of Shareholders of the Swiss National Bank, Berne, 24 April 2026.",
+  "source_url": "https://www.bis.org/review/r260428h.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-29T06:29:48.675510+00:00",
+  "id": "28251877-b850-43f3-b85e-b6ee7a4721f4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T06:32:33.770380+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
