@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "你组乐队是吧",
+  "raw_content": "不好的音我会手调（\nmygua\n没绷住",
+  "source_url": "https://www.bilibili.com/video/BV1qeoZBeELb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-29T13:59:31.052027+00:00",
+  "id": "932a3796-627d-4c28-b807-4db82321e1c6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2222677,
+    "platform": "bilibili"
+  }
+}
