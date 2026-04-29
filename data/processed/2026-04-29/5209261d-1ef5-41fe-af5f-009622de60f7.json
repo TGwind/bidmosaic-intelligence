@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "尹锡悦涉嫌妨碍逮捕案二审被判7年",
+  "raw_content": "尹锡悦涉嫌妨碍逮捕案二审被判7年",
+  "source_url": "https://www.toutiao.com/trending/7633381615099527177/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633381615099527177%22%2C%22hot_board_impr_id%22%3A%2220260429162128F81BE8ED0572C8A38F74%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%B9%E9%94%A1%E6%82%A6%E6%B6%89%E5%AB%8C%E5%A6%A8%E7%A2%8D%E9%80%AE%E6%8D%95%E6%A1%88%E4%BA%8C%E5%AE%A1%E8%A2%AB%E5%88%A47%E5%B9%B4%22%7D&rank=&style_id=40132&topic_id=7633381615099527177",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-29T08:21:28.236236+00:00",
+  "id": "5209261d-1ef5-41fe-af5f-009622de60f7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T08:22:13.530126+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "4227194",
+    "platform": "toutiao"
+  }
+}

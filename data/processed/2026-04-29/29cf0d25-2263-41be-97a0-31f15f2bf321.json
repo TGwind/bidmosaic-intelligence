@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "官宣！奥运冠军张军被查",
+  "raw_content": "官宣！奥运冠军张军被查",
+  "source_url": "https://www.toutiao.com/trending/7633366107047280676/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633366107047280676%22%2C%22hot_board_impr_id%22%3A%2220260429162128F81BE8ED0572C8A38F74%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%98%E5%AE%A3%EF%BC%81%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%BC%A0%E5%86%9B%E8%A2%AB%E6%9F%A5%22%7D&rank=&style_id=40132&topic_id=7633366107047280676",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-29T08:21:28.236129+00:00",
+  "id": "29cf0d25-2263-41be-97a0-31f15f2bf321",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T08:22:13.525929+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14034779",
+    "platform": "toutiao"
+  }
+}
