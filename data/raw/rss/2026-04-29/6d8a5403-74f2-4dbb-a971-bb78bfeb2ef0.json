@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Founder of Shark Tank-backed startup Scholly sues his acquirer Sallie Mae",
+  "raw_content": "Chris Gray is suing his startup’s acquirer, Sallie Mae, for wrongful termination and alleging it's selling student data through a subsidiary. Sallie Mae denies the allegations and vows to fight.",
+  "source_url": "https://techcrunch.com/2026/04/28/founder-of-shark-tank-backed-startup-scholly-sues-his-acquirer-sallie-mae/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-28T15:33:27+00:00",
+  "id": "6d8a5403-74f2-4dbb-a971-bb78bfeb2ef0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
