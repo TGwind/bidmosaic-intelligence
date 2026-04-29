@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "There's a social media groundswell predicting bitcoin above $90,000. That might be a problem.",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/29/there-s-a-social-media-groundswell-predicting-bitcoin-above-usd90-000-that-might-be-a-problem",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T09:11:43+00:00",
+  "id": "2524d2a7-1dfb-45db-9c08-862ecf49dcc5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T10:15:15.132447+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
