@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "让 暗 号 飞 一 会 ！！",
-  "raw_content": "我来航天只办三件事！！！",
-  "source_url": "https://www.bilibili.com/video/BV1ntovBgE3c",
+  "raw_title": "你组乐队是吧",
+  "raw_content": "不好的音我会手调（ mygua 没绷住",
+  "source_url": "https://www.bilibili.com/video/BV1qeoZBeELb",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-29T02:57:28.982756+00:00",
-  "id": "85a0887b-1d69-43dc-93d2-de178857f1d2",
+  "collected_at": "2026-04-29T13:59:31.052027+00:00",
+  "id": "932a3796-627d-4c28-b807-4db82321e1c6",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-29T14:00:13.411083+00:00",
+  "processed_at": "2026-04-29T14:00:13.412568+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2611232,
+    "hot_score": 2222677,
     "platform": "bilibili"
   }
 }
