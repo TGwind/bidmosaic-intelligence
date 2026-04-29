@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《明日方舟》EP - Innocence",
+  "raw_content": "5 月 1 日 11点 Innocence 将正式上架各音乐平台 【专辑介绍】 她走过永恒，走入瞬息的朝霞。 在等待愈合的裂痕里，时间染上了温度，而希望，正自无声处生发。 【歌曲列表】 Innocence Innocence (Instrumental)",
+  "source_url": "https://www.bilibili.com/video/BV1c49DBjEzq",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-29T19:27:34.916839+00:00",
+  "id": "827cdb8d-22f9-4433-b983-1225191f803f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-29T19:28:20.632912+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 448961,
+    "platform": "bilibili"
+  }
+}

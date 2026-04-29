@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "对不起...",
-  "raw_content": "对不起，我为了视频的效果 在视频的开头用了一个谎言开场",
-  "source_url": "https://www.bilibili.com/video/BV16ooQBsERA",
+  "raw_title": "《天打雷劈の好心人》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV13zoyB9Ero",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-29T02:57:28.982814+00:00",
-  "id": "e716fedc-660a-4c1c-b7dc-673c9ab37b4b",
+  "collected_at": "2026-04-29T19:27:34.916847+00:00",
+  "id": "33a6fd65-2a20-40c5-8df7-89e04287047c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-29T19:28:20.640174+00:00",
+  "processed_at": "2026-04-29T19:28:20.631500+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 5531525,
+    "hot_score": 4052888,
     "platform": "bilibili"
   }
 }

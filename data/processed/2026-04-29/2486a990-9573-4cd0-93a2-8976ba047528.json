@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "五一劳动奖表彰坚持面向基层一线",
-  "raw_content": "五一劳动奖表彰坚持面向基层一线",
-  "source_url": "https://www.toutiao.com/article/7633734557371515443",
+  "raw_title": "致敬每一双创造美好的劳动之手",
+  "raw_content": "致敬每一双创造美好的劳动之手",
+  "source_url": "https://www.toutiao.com/article/7634099446334095914",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-29T08:21:28.236143+00:00",
-  "id": "4e2ae59d-c439-4c99-861f-b52a3296285a",
+  "collected_at": "2026-04-29T19:27:34.075368+00:00",
+  "id": "2486a990-9573-4cd0-93a2-8976ba047528",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-29T19:28:20.628370+00:00",
+  "processed_at": "2026-04-29T19:28:20.626314+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "12699193",
+    "hot_score": "11731761",
     "platform": "toutiao"
   }
 }
