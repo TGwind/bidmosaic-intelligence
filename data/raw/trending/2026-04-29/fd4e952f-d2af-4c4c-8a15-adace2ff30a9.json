@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "让 暗 号 飞 一 会 ！！",
+  "raw_content": "我来航天只办三件事！！！",
+  "source_url": "https://www.bilibili.com/video/BV1ntovBgE3c",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-29T19:27:34.916789+00:00",
+  "id": "fd4e952f-d2af-4c4c-8a15-adace2ff30a9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3654557,
+    "platform": "bilibili"
+  }
+}
