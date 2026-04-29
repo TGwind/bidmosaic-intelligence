@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "First central bank to test bitcoin says asset is ‘too risky’ for reserves",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/29/price-of-bitcoin-could-go-higher-or-can-go-to-zero-says-czech-central-bank-governor",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T12:11:14+00:00",
+  "id": "9851bf4e-41a5-4b04-9796-74b364301b4e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

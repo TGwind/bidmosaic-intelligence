@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Automate repetitive tasks with Amazon Quick Flows",
+  "raw_content": "This post shows you how to build your first AI-powered workflow, using Amazon Quick, starting with a financial analysis tool and progressing to an advanced employee onboarding automation.",
+  "source_url": "https://aws.amazon.com/blogs/machine-learning/automate-repetitive-tasks-with-amazon-quick-flows/",
+  "source_name": "AWS Machine Learning Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-27T17:52:05+00:00",
+  "id": "21e444ae-7293-447f-8440-af03e0d79853",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

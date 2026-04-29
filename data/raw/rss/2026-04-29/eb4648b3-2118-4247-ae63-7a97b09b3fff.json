@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Google DeepMind Paper Argues LLMs Will Never Be Conscious",
+  "raw_content": "Philosophers said the paper’s argument is sound, but that “all these arguments have been presented years and years ago.”",
+  "source_url": "https://www.404media.co/google-deepmind-paper-argues-llms-will-never-be-conscious/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-27T13:54:36+00:00",
+  "id": "eb4648b3-2118-4247-ae63-7a97b09b3fff",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Stellar’s CMO says crypto must ditch hype and “get rich slow” to win mainstream trust",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-news/2026/04/29/stellar-s-cmo-says-crypto-must-ditch-hype-and-get-rich-slow-to-win-mainstream-trust",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T13:59:19+00:00",
+  "id": "deff1b30-4fba-4b46-b989-a198a8fc8457",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

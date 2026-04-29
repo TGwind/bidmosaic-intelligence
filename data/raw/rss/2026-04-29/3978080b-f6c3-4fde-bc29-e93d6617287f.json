@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Polymarket denies data breach, says hacker is selling public data",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"Polymarket denies data breach, says hacker is selling public data\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL05ld3MlMjBjb2luJTIwbWFuJTIwUG9seW1hcmtldC5qcGc/cHJlZml4PW1lZGlhJTJGYXJ0aWNsZS1jb3ZlcnM=.jpg\" /></p><p>The apparent hacker claimed to have breached other prediction markets and planned to release the data in the next few days.</p>",
+  "source_url": "https://cointelegraph.com/news/polymarket-says-hacker-is-selling-publicly-available-data-while-claiming-security-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T07:10:18+00:00",
+  "id": "3978080b-f6c3-4fde-bc29-e93d6617287f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
+  "raw_content": "BMW i Ventures is interested in startups working on agentic AI and physical AI, as well as industrial software, advanced materials, and manufacturing and supply chain technologies.",
+  "source_url": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-29T13:10:00+00:00",
+  "id": "38bc80b0-0f78-4ef6-a840-a2197cf4c1a7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Jack Dorsey-backed Vine reboot Divine launches to the public",
+  "raw_content": "Divine, a Vine reboot backed by Jack Dorsey’s nonprofit, revives six-second looping videos.",
+  "source_url": "https://techcrunch.com/2026/04/29/jack-dorsey-backed-vine-reboot-divine-launches-to-public/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-29T12:00:00+00:00",
+  "id": "098814c6-2e9a-4db3-b277-d730ec84879e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}
