@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Christodoulos Patsalides: Keynote speech - Eurofi High Level Seminar",
+  "raw_content": "Keynote speech by Mr Christodoulos Patsalides, Governor of the Central Bank of Cyprus, at the Eurofi High Level Seminar Digital Euro, Nicosia, 27 March 2026.",
+  "source_url": "https://www.bis.org/review/r260429e.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-30T21:08:48.599109+00:00",
+  "id": "0e8d0fbe-6813-4c5b-8f6a-fe6a55676328",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T21:11:35.862404+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Partnering with industry leaders to accelerate AI transformation",
+  "raw_content": "Google DeepMind partners with global consultancies to bring the power of frontier AI to organizations around the world.",
+  "source_url": "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-21T14:54:15+00:00",
+  "id": "26ae74a7-75ce-4ce2-b2fa-1c7191f4a4b5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T21:11:35.913173+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

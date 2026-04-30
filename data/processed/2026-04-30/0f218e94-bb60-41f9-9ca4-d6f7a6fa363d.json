@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "CogRAG+: Cognitive-Level Guided Diagnosis and Remediation of Memory and Reasoning Deficiencies in Professional Exam QA",
+  "raw_content": "arXiv:2604.25928v1 Announce Type: new Abstract: Professional domain knowledge underpins human civilization, serving as both the basis for industry entry and the core of complex decision-making and problem-solving. However, existing large language models often suffer from opaque inference processes in which retrieval and reasoning are tightly entangled, causing knowledge gaps and reasoning inconsistencies in professional tasks. To address this, we propose CogRAG+, a training-free framework that decouples and aligns the retrieval-augmented generation pipeline with human cognitive hierarchies. First, we introduce Reinforced Retrieval, a judge-driven dual-path strategy with fact-centric and option-centric paths that strengthens retrieval and mitigates cascading failures caused by missing foundational knowledge. We then develop cognition-stratified Constrained Reasoning, which replaces unconstrained chain-of-thought generation with structured templates to reduce logical inconsistency and generative redundancy. Experiments on two representative models, Qwen3-8B and Llama3.1-8B, show that CogRAG+ consistently outperforms general-purpose models and standard RAG methods on the Registered Dietitian qualification exam. In single-question mode, it raises overall accuracy to 85.8\\% for Qwen3-8B and 60.3\\% for Llama3.1-8B, with clear gains over vanilla baselines. Constrained Reasoning also reduces the unanswered rate from 7.6\\% to 1.4\\%. CogRAG+ offers a robust, model-agnostic path toward training-free expert-level performance in specialized domains.",
+  "source_url": "https://arxiv.org/abs/2604.25928",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-30T04:00:00+00:00",
+  "id": "0f218e94-bb60-41f9-9ca4-d6f7a6fa363d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T21:11:35.865604+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
