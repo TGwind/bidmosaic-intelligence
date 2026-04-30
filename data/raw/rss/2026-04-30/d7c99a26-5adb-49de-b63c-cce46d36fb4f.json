@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Announcing our partnership with the Republic of Korea",
+  "raw_content": "Google DeepMind and Korea partner to accelerate scientific breakthroughs using frontier AI models",
+  "source_url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-27T07:00:06+00:00",
+  "id": "d7c99a26-5adb-49de-b63c-cce46d36fb4f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}

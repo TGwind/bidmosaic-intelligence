@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Joachim Nagel: The digital euro - anchoring Europe's strategic autonomy in a digital future",
+  "raw_content": "Keynote speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the House of the Euro, Brussels, 22 April 2026.",
+  "source_url": "https://www.bis.org/review/r260428f.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-30T10:13:19.246535+00:00",
+  "id": "a0c17d8d-4727-4aa5-b6a8-9730c0a07a5c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
