@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "网警严查“斗狠”类直播 13人被行拘",
+  "raw_content": "网警严查“斗狠”类直播 13人被行拘",
+  "source_url": "https://www.toutiao.com/article/7634085481030648330",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-30T02:58:29.287610+00:00",
+  "id": "b2f3bef0-ecf0-43aa-af79-c153f6aa9116",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T02:59:20.019239+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "8574771",
+    "platform": "toutiao"
+  }
+}

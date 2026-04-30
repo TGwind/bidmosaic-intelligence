@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "在站台抽烟动车工作人员道歉",
+  "raw_content": "在站台抽烟动车工作人员道歉",
+  "source_url": "https://www.toutiao.com/trending/7633988559431991315/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633988559431991315%22%2C%22hot_board_impr_id%22%3A%222026043010582913D1C23B2BF3ACD6DC14%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9C%A8%E7%AB%99%E5%8F%B0%E6%8A%BD%E7%83%9F%E5%8A%A8%E8%BD%A6%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E9%81%93%E6%AD%89%22%7D&rank=&style_id=40132&topic_id=7633988559431991315",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-30T02:58:29.287592+00:00",
+  "id": "364f6d99-6fdb-4304-a98a-63fa3012f8b5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T02:59:20.013884+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10473249",
+    "platform": "toutiao"
+  }
+}
