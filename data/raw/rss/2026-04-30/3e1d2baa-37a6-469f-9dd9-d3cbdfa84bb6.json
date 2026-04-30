@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "DreamProver: Evolving Transferable Lemma Libraries via a Wake-Sleep Theorem-Proving Agent",
+  "raw_content": "arXiv:2604.26311v1 Announce Type: new \nAbstract: We introduce DreamProver, an agentic framework that leverages a \"wake-sleep\" program induction paradigm to discover reusable lemmas for formal theorem proving. Existing approaches either rely on fixed lemma libraries, which limit adaptability, or synthesize highly specific intermediate lemmas tailored to individual theorems, thereby lacking generality. DreamProver addresses this gap through an iterative two-stage process. In the wake stage, DreamProver attempts to prove theorems from a training set using the current lemma library while proposing new candidate lemmas. In the \"sleep\" stage, it abstracts, refines, and consolidates these candidates to compress and optimize the library. Through this alternating cycle, DreamProver progressively evolves a compact set of high-level, transferable lemmas that can be effectively used to prove unseen theorems in related domains. Experimental results demonstrate that DreamProver substantially improves proof success rates across a diverse set of mathematical benchmarks, while also producing more concise proofs and reducing computational cost.",
+  "source_url": "https://arxiv.org/abs/2604.26311",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-30T04:00:00+00:00",
+  "id": "3e1d2baa-37a6-469f-9dd9-d3cbdfa84bb6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Meta is still burning money on AR/VR",
+  "raw_content": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+  "source_url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+  "source_name": "TechCrunch",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-29T23:58:26+00:00",
+  "id": "8419835c-5e89-450f-a2d4-8be59d4a81c6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://techcrunch.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields",
+  "raw_content": "arXiv:2604.26095v1 Announce Type: new \nAbstract: {Closed-loop inverse source localization and characterization (ISLC) requires a mobile agent to select measurements that localize sources and infer latent field parameters under strict time constraints.} {The core challenge lies in the belief-space objective: valid uncertainty estimation requires expensive Bayesian inference, whereas using fast learned belief model leads to reward hacking, in which the policy exploits approximation errors rather than actually reducing uncertainty.} {We propose \\textbf{Distill-Belief}, a teacher--student framework that decouples correctness from efficiency. A Bayes-correct particle-filter teacher maintains the posterior and supplies a dense information-gain signal, while a compact student distills the posterior into belief statistics for control and an uncertainty certificate for stopping. At deployment, only the student is used, yielding constant per-step cost.} {Experiments on seven field modalities and two stress tests show that Distill-Belief consistently reduces sensing cost and improves success, posterior contraction, and estimation accuracy over baselines, while mitigating reward hacking.}",
+  "source_url": "https://arxiv.org/abs/2604.26095",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-30T04:00:00+00:00",
+  "id": "5d3fad81-c1e4-4d47-91f4-a8b6c482e79d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
