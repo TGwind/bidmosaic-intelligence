@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "食人魔楼！一集上头！诡异女人背人上十八楼后神秘失踪？最完美的犯罪？《黑夜告白》P1",
+  "raw_content": "在电梯深渊里打捞十八年的执念！深扒解析最离奇的悬案《黑夜告白》前五集",
+  "source_url": "https://www.bilibili.com/video/BV1oF9CBSEq3",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-30T02:58:30.064982+00:00",
+  "id": "77616489-1f66-462f-a708-686f21a05446",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 7475776,
+    "platform": "bilibili"
+  }
+}
