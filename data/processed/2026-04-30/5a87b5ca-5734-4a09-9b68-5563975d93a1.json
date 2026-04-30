@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "One Word at a Time: Incremental Completion Decomposition Breaks LLM Safety",
+  "raw_content": "arXiv:2604.25921v1 Announce Type: new Abstract: Large Language Models (LLMs) are trained to refuse harmful requests, yet they remain vulnerable to jailbreak attacks that exploit weaknesses in conversational safety mechanisms. We introduce Incremental Completion Decomposition (ICD), a trajectory-based jailbreak strategy that elicits a sequence of single-word continuations related to a malicious request before eliciting the full response. In addition, we propose variants of ICD by manually picking or model-generating the one-word continuation, as well as prefilling when eliciting the full model response in the final step. We systematically evaluate these variants across a broad set of model families, demonstrating superior Attack Success Rate (ASR) on AdvBench, JailbreakBench, and StrongREJECT compared to existing methods. In addition, we provide a theoretical account of why ICD is effective and present mechanistic evidence that successful attack trajectories systematically suppress refusal-related representations and shift activations away from safety-aligned states.",
+  "source_url": "https://arxiv.org/abs/2604.25921",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-30T04:00:00+00:00",
+  "id": "5a87b5ca-5734-4a09-9b68-5563975d93a1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T10:16:06.078311+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

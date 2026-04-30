@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Fed chair Jerome Powell says he will stay on as Govenor after term amid legal pressure",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/29/fed-chair-jerome-powell-says-he-will-stay-on-as-govenor-after-term-amid-legal-pressure",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T19:17:51+00:00",
+  "id": "2f1a9a77-7a7f-4369-a2a1-443af9aee9eb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T10:16:06.046850+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

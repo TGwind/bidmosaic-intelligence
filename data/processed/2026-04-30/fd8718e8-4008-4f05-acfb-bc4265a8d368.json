@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Dogecoin zooms 10%, breaking away from bitcoin as open interest hits a yearly peak",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/30/dogecoin-zooms-10-in-breakaway-from-bitcoin-as-open-interest-hits-year-high",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-30T07:50:52+00:00",
+  "id": "fd8718e8-4008-4f05-acfb-bc4265a8d368",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T10:16:06.120750+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

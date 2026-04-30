@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Ouch. The U.S. 30-year Treasury yield just hit 5% and bitcoin may pay the price",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/30/ouch-the-u-s-30-year-treasury-yield-just-hit-5-and-bitcoin-may-pay-the-price",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-30T06:31:57+00:00",
+  "id": "1521d74c-360e-4ab8-b253-8797c52d793a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T10:16:06.023454+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

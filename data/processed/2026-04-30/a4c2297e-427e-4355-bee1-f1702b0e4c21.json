@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Eddie Yue: Opening remarks - International Conference \"Climate, capital, and policy: advancing sustainable economic frameworks\"",
+  "raw_content": "Opening remarks by Mr Eddie Yue, Chief Executive of the Hong Kong Monetary Authority, at the International Conference \"Climate, capital, and policy: advancing sustainable economic frameworks\", Hong Kong, 20 April 2026.",
+  "source_url": "https://www.bis.org/review/r260427b.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-30T10:13:19.246578+00:00",
+  "id": "a4c2297e-427e-4355-bee1-f1702b0e4c21",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T10:16:06.107657+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
