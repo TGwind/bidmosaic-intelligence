@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Information Extraction from Electricity Invoices with General-Purpose Large Language Models",
+  "raw_content": "arXiv:2604.25927v1 Announce Type: new Abstract: Information extraction from semi-structured business documents remains a critical challenge for enterprise management. This study evaluates the capability of general-purpose Large Language Models to extract structured information from Spanish electricity invoices without task-specific fine-tuning. Using a subset of the IDSEM dataset, we benchmark two architecturally distinct models, Gemini 1.5 Pro and Mistral-small, across 19 parameter configurations and 6 prompting strategies. Our experimental framework treats prompt engineering as the primary experimental variable, comparing zero-shot baselines against increasingly sophisticated few-shot approaches and iterative extraction strategies. Results demonstrate that prompt quality dominates over hyperparameter tuning: the F1-score variation across all parameter configurations is marginal, while the gap between zero-shot and the best few-shot strategy exceeds 19 percentage points. The best configuration (few-shot with cross-validation) achieves an F1-score of 97.61% for Gemini and 96.11% for Mistral-small, with document template structure emerging as the primary determinant of extraction difficulty. These findings establish that prompt design is the critical lever for maximizing extraction fidelity in LLM-based document processing, thereby providing an empirical framework for integrating general-purpose LLMs into business document automation.",
+  "source_url": "https://arxiv.org/abs/2604.25927",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-30T04:00:00+00:00",
+  "id": "c46b546a-e700-422a-bd06-863ce1399fc7",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T06:36:26.436482+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

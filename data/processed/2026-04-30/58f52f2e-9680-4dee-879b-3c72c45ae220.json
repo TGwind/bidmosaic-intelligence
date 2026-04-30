@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Apriori-based Analysis of Learned Helplessness in Mathematics Tutoring: Behavioral Patterns by Level, Intervention, and Outcome",
+  "raw_content": "arXiv:2604.26237v1 Announce Type: new Abstract: This study applied the Apriori algorithm to analyze behavioral interaction patterns associated with learned helplessness (LH) in mathematics tutoring system logs. Interaction data were examined across three dimensions: LH level (low vs. high), system-based intervention (with vs. without), and problem-solving outcomes (solved vs. unsolved). The analysis of the complete dataset showed that skipping problems without using hints was the most frequent pattern linked to unsolved outcomes, while persistence behaviors such as not skipping were less dominant overall. Comparisons by LH level showed that low-LH students had stronger links between problem solving and not skipping, as well as positive associations between hint use and solved outcomes. High-LH students showed more avoidance patterns, with skipping strongly tied to unsolved outcomes. In the comparison of system-based intervention conditions, students without intervention had the highest lift for persistence-success links, while the with-intervention group had stronger patterns involving skipping behaviors leading to unsolved outcomes. Outcome-specific analysis showed that not skipping was consistently associated with solved problems across all groups, while skipping without hints predicted unsolved outcomes. Practical implications and recommendations are discussed.",
+  "source_url": "https://arxiv.org/abs/2604.26237",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-30T04:00:00+00:00",
+  "id": "58f52f2e-9680-4dee-879b-3c72c45ae220",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T06:36:26.383836+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
