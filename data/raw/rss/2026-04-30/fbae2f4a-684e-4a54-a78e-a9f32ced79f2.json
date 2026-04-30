@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术",
+  "raw_content": "这里记录每周值得分享的科技内容，周五发布。...",
+  "source_url": "http://www.ruanyifeng.com/blog/2026/04/weekly-issue-392.html",
+  "source_name": "阮一峰科技爱好者周刊",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-09T23:17:13+00:00",
+  "id": "fbae2f4a-684e-4a54-a78e-a9f32ced79f2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.ruanyifeng.com/blog/atom.xml",
+    "category": "china_tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

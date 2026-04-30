@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "日均数百亿入库背后：从“人肉调度”到K8s弹性架构，度小满金融基于OceanBase重构入库架构实践",
+  "raw_content": "<div align=\"right\"><a href=\"https://www.infoq.cn/article/e6F2Bx7VFoyXGCqd7W4S?utm_source=rss&amp;utm_medium=article\">点击查看原文></a></div>",
+  "source_url": "https://www.infoq.cn/article/e6F2Bx7VFoyXGCqd7W4S?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-29T18:58:17+00:00",
+  "id": "76f3f45f-5204-4b2d-b25e-c198aba237e4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

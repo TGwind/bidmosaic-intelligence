@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Mugur Is&#259;rescu: South-east Europe's next leap forward",
+  "raw_content": "Speech by Mr Mugur Is&#259;rescu, Governor of the National Bank of Romania, at the Economist Impact event: Romania Government Roundtable, Bucharest, 30 March 2026.",
+  "source_url": "https://www.bis.org/review/r260428l.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-30T06:33:37.320989+00:00",
+  "id": "4d608045-ecf3-4c4e-8be3-369db1e84e13",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
