@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "【NMIXX】“Crescendo” M/V",
+  "raw_content": "【NMIXX】“Crescendo” M/V",
+  "source_url": "https://www.bilibili.com/video/BV1zY9rBJEBb",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-30T19:23:43.820540+00:00",
+  "id": "3b1975e2-6df9-4682-9863-e5bed34dcda0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1385241,
+    "platform": "bilibili"
+  }
+}
