@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Fed leaves rates unchanged at Jerome Powell's final meeting as chairman",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/29/fed-leaves-rates-unchanged-at-jerome-powell-s-final-meeting-as-chairman",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-29T17:58:52+00:00",
+  "id": "f832b150-6610-4389-b715-13be6f607c03",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
