@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Apple Fixes Bug That Let FBI Extract Deleted Signal Messages After 404 Media Coverage",
+  "raw_content": "The move comes directly in response to 404 Media’s coverage about how the FBI was able to recover incoming Signal messages from an iPhone because the messages were saved in the device’s notification storage.",
+  "source_url": "https://www.404media.co/apple-fixes-bug-that-let-fbi-extract-deleted-signal-messages-after-404-media-coverage/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-29T13:01:22+00:00",
+  "id": "2277c6c5-2013-4cdc-94c2-979d0057d6e2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T03:52:02.667014+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
