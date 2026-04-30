@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "广州楼市新政：公积金最高可贷360万",
+  "raw_content": "广州楼市新政：公积金最高可贷360万",
+  "source_url": "https://www.toutiao.com/trending/7634465768280719411/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634465768280719411%22%2C%22hot_board_impr_id%22%3A%2220260430215802F464D44817B4727484D5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B9%BF%E5%B7%9E%E6%A5%BC%E5%B8%82%E6%96%B0%E6%94%BF%EF%BC%9A%E5%85%AC%E7%A7%AF%E9%87%91%E6%9C%80%E9%AB%98%E5%8F%AF%E8%B4%B7360%E4%B8%87%22%7D&rank=&style_id=40132&topic_id=7634465768280719411",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-04-30T13:58:02.291728+00:00",
+  "id": "d4f43c26-237b-4391-b32e-db6b0190f480",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T13:59:19.517272+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "6953087",
+    "platform": "toutiao"
+  }
+}

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "直击五一假期各地路况",
-  "raw_content": "直击五一假期各地路况",
-  "source_url": "https://webcast-open.douyin.com/open/media_live/944483853805",
+  "raw_title": "网警严查“斗狠”类直播 13人被行拘",
+  "raw_content": "网警严查“斗狠”类直播 13人被行拘",
+  "source_url": "https://www.toutiao.com/article/7634085481030648330",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-04-30T08:23:37.434932+00:00",
-  "id": "8b80813c-60ac-4c37-86f1-d6831fd47aa1",
+  "collected_at": "2026-04-30T13:58:02.291712+00:00",
+  "id": "21556b6d-a82a-4f84-993e-ca87ed1aa5d0",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-04-30T13:59:19.515373+00:00",
+  "processed_at": "2026-04-30T13:59:19.507028+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "4395266",
+    "hot_score": "8492520",
     "platform": "toutiao"
   }
 }
