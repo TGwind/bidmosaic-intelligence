@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "MARA Holdings to buy Long Ridge Energy in $1.5 billion AI data center push",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/30/mara-holdings-to-buy-long-ridge-energy-in-usd1-5-billion-ai-data-center-push",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-30T12:44:43+00:00",
+  "id": "fa443f46-7e5a-406f-8abb-1e31a0cab872",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T14:18:42.254870+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

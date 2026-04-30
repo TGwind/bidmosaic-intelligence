@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin faces $80,000 resistance as derivatives show signs of risk aversion",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/markets/2026/04/30/bitcoin-faces-usd80-000-resistance-as-derivatives-shows-signs-of-risk-aversion",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-30T11:01:26+00:00",
+  "id": "23fe22a1-7021-437a-9cc6-835a6471c9f9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T14:18:42.166174+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

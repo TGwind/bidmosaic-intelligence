@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "The long con: How North Korean spies spent months in-person to drain $285 million from Drift",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/business/2026/04/30/north-korean-hackers-are-moving-faster-they-account-for-76-of-crypto-exploits-this-year-trmlabs",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-30T12:58:16+00:00",
+  "id": "48f018f7-fd00-488e-a32f-b0c4c2ff76a9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T14:18:42.200977+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}

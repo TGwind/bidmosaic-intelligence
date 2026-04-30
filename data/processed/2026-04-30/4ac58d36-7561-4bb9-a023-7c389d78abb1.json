@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto hack losses top $630M in April, highest since February 2025",
+  "raw_content": "Losses from crypto hacks have topped $630 million in April across more than 25 hacks, with DeFi dominating major incidents and exploits accelerating despite security updates.",
+  "source_url": "https://cointelegraph.com/news/crypto-hacks-cause-630m-losses-in-april-highest-since-february-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-30T11:47:52+00:00",
+  "id": "4ac58d36-7561-4bb9-a023-7c389d78abb1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T14:18:42.202765+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

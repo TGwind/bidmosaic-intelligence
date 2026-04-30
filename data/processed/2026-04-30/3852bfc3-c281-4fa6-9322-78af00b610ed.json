@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "US seized $500M in Iranian crypto assets, Treasury secretary says",
+  "raw_content": "Treasury Secretary Scott Bessent said the US has seized nearly $500 million in Iranian crypto assets, surpassing the previously reported $344 million freeze.",
+  "source_url": "https://cointelegraph.com/news/us-seized-500m-in-iranian-crypto-assets-treasury-secretary-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-30T11:21:51+00:00",
+  "id": "3852bfc3-c281-4fa6-9322-78af00b610ed",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T14:18:42.186628+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

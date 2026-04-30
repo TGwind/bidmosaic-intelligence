@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "CoinDesk 20 performance update: Aptos (APT) gains 4.4% as nearly all assets rise",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/coindesk-indices/2026/04/30/coindesk-20-performance-update-aptos-apt-gains-4-4-as-nearly-all-assets-rise",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-30T13:24:57+00:00",
+  "id": "c7a22743-2e33-45f5-a32f-ddbd7ac83e7f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-04-30T14:18:42.249019+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
