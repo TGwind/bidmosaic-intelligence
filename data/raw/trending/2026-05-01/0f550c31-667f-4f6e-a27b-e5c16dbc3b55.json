@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "老人生病卧床几天后叫晚辈做饭",
+  "raw_content": "老人生病卧床几天后叫晚辈做饭",
+  "source_url": "https://www.toutiao.com/trending/7634722143063015466/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634722143063015466%22%2C%22hot_board_impr_id%22%3A%2220260501212101B6D3DCC36B06EB7E6B25%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%80%81%E4%BA%BA%E7%94%9F%E7%97%85%E5%8D%A7%E5%BA%8A%E5%87%A0%E5%A4%A9%E5%90%8E%E5%8F%AB%E6%99%9A%E8%BE%88%E5%81%9A%E9%A5%AD%22%7D&rank=&style_id=40132&topic_id=7634722143063015466",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T13:21:01.707905+00:00",
+  "id": "0f550c31-667f-4f6e-a27b-e5c16dbc3b55",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "6175595",
+    "platform": "toutiao"
+  }
+}
