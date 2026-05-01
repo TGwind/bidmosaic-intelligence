@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "护士回应给溺水者口对口呼吸施救",
+  "raw_content": "护士回应给溺水者口对口呼吸施救",
+  "source_url": "https://www.toutiao.com/trending/7634051674537885722/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634051674537885722%22%2C%22hot_board_impr_id%22%3A%2220260501113048C7B958D5EAFDEDB59F64%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%8A%A4%E5%A3%AB%E5%9B%9E%E5%BA%94%E7%BB%99%E6%BA%BA%E6%B0%B4%E8%80%85%E5%8F%A3%E5%AF%B9%E5%8F%A3%E5%91%BC%E5%90%B8%E6%96%BD%E6%95%91%22%7D&rank=&style_id=40132&topic_id=7634051674537885722",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T03:30:48.499711+00:00",
+  "id": "d8f060d4-0fa7-4377-8cf6-af1fbf963c94",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7567182",
+    "platform": "toutiao"
+  }
+}
