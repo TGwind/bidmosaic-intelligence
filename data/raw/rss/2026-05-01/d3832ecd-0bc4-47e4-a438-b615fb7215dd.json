@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Unpacking Vibe Coding: Help-Seeking Processes in Student-AI Interactions While Programming",
+  "raw_content": "arXiv:2604.27134v1 Announce Type: new \nAbstract: Generative AI is reshaping higher education programming through vibe coding, where students collaborate with AI via natural language rather than writing code line-by-line. We conceptualize this practice as help-seeking, analyzing 19,418 interaction turns from 110 undergraduate students. Using inductive coding and Heterogeneous Transition Network Analysis, we examined interaction sequences to compare top- and low-performing students. Results reveal that top performers engaged in instrumental help-seeking -- inquiry and exploration -- eliciting tutor-like AI responses. In contrast, low performers relied on executive help-seeking, frequently delegating tasks and prompting the AI to assume an executor role focused on ready-made solutions. These findings indicate that currently generative AI mirrors student intent (whether productive or passive) rather than optimizing for learning. To evolve from tools to teammates, AI systems must move beyond passive compliance. We argue for pedagogically aligned design that detect unproductive delegation and adaptively steer educational interactions toward inquiry, ensuring student-AI partnerships augment rather than replace cognitive effort.",
+  "source_url": "https://arxiv.org/abs/2604.27134",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-05-01T04:00:00+00:00",
+  "id": "d3832ecd-0bc4-47e4-a438-b615fb7215dd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
