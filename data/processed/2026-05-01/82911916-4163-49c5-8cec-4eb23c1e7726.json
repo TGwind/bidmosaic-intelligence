@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Useless but Safe? Benchmarking Utility Recovery with User Intent Clarification in Multi-Turn Conversations",
+  "raw_content": "arXiv:2604.27093v1 Announce Type: new Abstract: Current LLM safety alignment techniques improve model robustness against adversarial attacks, but overlook whether and how LLMs can recover helpfulness when benign users clarify their intent. We introduce CarryOnBench, the first interactive benchmark that measures whether LLMs can revise their interpretation of user intent and recover utility, while remaining safe through multi-turn conversations. Starting from 398 seemingly harmful queries with benign underlying intents, we simulate 5,970 conversations by varying user follow-up sequences, evaluating 14 models on both intent-aligned utility and safety. CarryOnBench yields 1,866 different conversation flows of 4--12 turns, totaling 23,880 model responses. We design Ben-Util, a checklist-based metric that evaluates how well each model response fulfills the user's benign information need using atomic items. At turn one, models fulfill only 10.5--37.6% of the user's benign information need. When the same query includes the benign intent upfront, models fulfill 25.1--72.1%, confirming that models withhold information due to intent misinterpretation, not limited knowledge. With benign clarifications in multi-turn conversations, 13 of 14 models approach or exceed this single-turn baseline, yet recovery cost varies across models. We identify three failure modes invisible to single-turn evaluations: utility lock-in, where a model rarely updates despite clarification; unsafe recovery, where a model updates at disproportionate safety cost; and repetitive recovery, where a model recycles prior responses rather than providing new information. Moreover, conversations converge to similar harmfulness levels regardless of how conservative the model starts. These findings expose a gap that single-turn evaluations miss -- whether a model is appropriately cautious or simply unresponsive to clarified user intent.",
+  "source_url": "https://arxiv.org/abs/2604.27093",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-05-01T04:00:00+00:00",
+  "id": "82911916-4163-49c5-8cec-4eb23c1e7726",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T09:55:13.151021+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

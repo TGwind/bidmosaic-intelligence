@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
+  "raw_content": "arXiv:2604.26999v1 Announce Type: new Abstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retraining cost, existing methods often rely on a single global initialization and may suffer from negative transfer, particularly under feature-scarce coordinate inputs and limited training-task availability. We propose the Learning-Affinity Adaptive Modular Physics-Informed Neural Network (LAM-PINN), a compositional framework that leverages task-specific learning dynamics. LAM-PINN combines PDE parameters with learning-affinity metrics from brief transfer sessions to construct a task representation and cluster tasks even with coordinate-only inputs. It decomposes the model into cluster-specialized subnetworks and a shared meta network, and learns routing weights to selectively reuse modules instead of relying on a single global initialization. Across three PDE benchmarks, LAM-PINN achieves an average 19.7-fold reduction in mean squared error (MSE) on unseen tasks using only 10% of the training iterations required by conventional PINNs. These results indicate its effectiveness for generalization to unseen configurations within bounded design spaces of parameterized PDE families in resource-constrained engineering settings.",
+  "source_url": "https://arxiv.org/abs/2604.26999",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-05-01T04:00:00+00:00",
+  "id": "4bd13265-0f83-4c72-b8ed-a9776c052da0",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T09:55:13.110244+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

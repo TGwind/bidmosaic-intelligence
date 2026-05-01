@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "布隆过滤器：理论、工程权衡与Go语言实现",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/kbM9s4hsAoT7gWQsA8JE?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-05-01T09:49:44+00:00",
+  "id": "478c0f86-9435-44e6-89df-7e4d4c48644a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T09:55:13.107530+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
