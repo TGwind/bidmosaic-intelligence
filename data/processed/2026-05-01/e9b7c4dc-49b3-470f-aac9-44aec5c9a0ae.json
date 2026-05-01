@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "高速免费通行车主瞬间省下400",
+  "raw_content": "高速免费通行车主瞬间省下400",
+  "source_url": "https://www.toutiao.com/trending/7633641418246422570/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633641418246422570%22%2C%22hot_board_impr_id%22%3A%2220260501161241B4D912250E750B0325B7%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E9%80%9A%E8%A1%8C%E8%BD%A6%E4%B8%BB%E7%9E%AC%E9%97%B4%E7%9C%81%E4%B8%8B400%22%7D&rank=&style_id=40132&topic_id=7633641418246422570",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T08:12:41.824099+00:00",
+  "id": "e9b7c4dc-49b3-470f-aac9-44aec5c9a0ae",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T08:13:29.066826+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7169337",
+    "platform": "toutiao"
+  }
+}
