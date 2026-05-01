@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "\"见过花开就好 何必在意花为谁开\"2.0",
+  "raw_content": "\"见过花开就好 何必在意花为谁开\"2.0",
+  "source_url": "https://www.bilibili.com/video/BV1La92BxEUD",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T08:12:42.448885+00:00",
+  "id": "e30f66ee-b731-4b17-a8ba-9dcf033f95ee",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 4532052,
+    "platform": "bilibili"
+  }
+}

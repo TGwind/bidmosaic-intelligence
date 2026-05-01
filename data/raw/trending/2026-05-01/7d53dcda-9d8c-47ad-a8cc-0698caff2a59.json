@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "眼“色”游戏（12）",
+  "raw_content": "希望观众朋友们喜欢这个系列！\n（希望你们喜欢，记得素质三连！）",
+  "source_url": "https://www.bilibili.com/video/BV1wy9BBLEeP",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T08:12:42.448850+00:00",
+  "id": "7d53dcda-9d8c-47ad-a8cc-0698caff2a59",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3446806,
+    "platform": "bilibili"
+  }
+}
