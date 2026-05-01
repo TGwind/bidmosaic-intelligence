@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "身份证照片为何不能直接发给他人",
+  "raw_content": "身份证照片为何不能直接发给他人",
+  "source_url": "https://www.toutiao.com/trending/7634227435185504306/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634227435185504306%22%2C%22hot_board_impr_id%22%3A%222026050203140298F48C9E4B0E5503D5FF%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%83%BD%E7%9B%B4%E6%8E%A5%E5%8F%91%E7%BB%99%E4%BB%96%E4%BA%BA%22%7D&rank=&style_id=40132&topic_id=7634227435185504306",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T19:14:02.414815+00:00",
+  "id": "f402f674-78dc-41d1-9f86-5c1a25e63879",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T19:14:49.518102+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "3394413",
+    "platform": "toutiao"
+  }
+}
