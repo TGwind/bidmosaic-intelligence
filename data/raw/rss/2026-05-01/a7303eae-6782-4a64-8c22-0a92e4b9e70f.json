@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Scaling Biomolecular Modeling Using Context Parallelism in NVIDIA BioNeMo",
+  "raw_content": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"432\" src=\"https://developer-blogs.nvidia.com/wp-content/uploads/2026/04/biomolecule-1-768x432.png\" style=\"display: block; margin-bottom: 5px; clear: both;\" title=\"biomolecule\" width=\"768\" />For decades, computational biology has operated under a reductionist compromise. To fit complex biological systems into the limited memory of a single GPU,...",
+  "source_url": "https://developer.nvidia.com/blog/scaling-biomolecular-modeling-using-context-parallelism-in-nvidia-bionemo/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-28T19:00:00+00:00",
+  "id": "a7303eae-6782-4a64-8c22-0a92e4b9e70f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}
