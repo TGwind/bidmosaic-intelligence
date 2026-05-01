@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "国防部：台当局若敢轻举妄动必遭重击",
+  "raw_content": "国防部：台当局若敢轻举妄动必遭重击",
+  "source_url": "https://www.toutiao.com/trending/7634074244720184838/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634074244720184838%22%2C%22hot_board_impr_id%22%3A%2220260501113048C7B958D5EAFDEDB59F64%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E5%8F%B0%E5%BD%93%E5%B1%80%E8%8B%A5%E6%95%A2%E8%BD%BB%E4%B8%BE%E5%A6%84%E5%8A%A8%E5%BF%85%E9%81%AD%E9%87%8D%E5%87%BB%22%7D&rank=&style_id=40132&topic_id=7634074244720184838",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T03:30:48.499614+00:00",
+  "id": "9ce32999-a170-41c1-a379-23a0519f0228",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T03:31:38.417899+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16841074",
+    "platform": "toutiao"
+  }
+}

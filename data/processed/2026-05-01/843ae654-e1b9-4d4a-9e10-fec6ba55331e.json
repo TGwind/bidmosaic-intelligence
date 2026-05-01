@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "唱 戏 买 瓜",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1ys9rBRENA",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T03:30:49.276300+00:00",
+  "id": "843ae654-e1b9-4d4a-9e10-fec6ba55331e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T03:31:38.418392+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3096767,
+    "platform": "bilibili"
+  }
+}

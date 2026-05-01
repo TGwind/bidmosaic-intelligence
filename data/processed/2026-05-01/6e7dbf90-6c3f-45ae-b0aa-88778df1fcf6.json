@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "格力“去董化”背后谁是最大赢家",
+  "raw_content": "格力“去董化”背后谁是最大赢家",
+  "source_url": "https://www.toutiao.com/trending/7634577800443203135/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634577800443203135%22%2C%22hot_board_impr_id%22%3A%2220260501113048C7B958D5EAFDEDB59F64%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%A0%BC%E5%8A%9B%E2%80%9C%E5%8E%BB%E8%91%A3%E5%8C%96%E2%80%9D%E8%83%8C%E5%90%8E%E8%B0%81%E6%98%AF%E6%9C%80%E5%A4%A7%E8%B5%A2%E5%AE%B6%22%7D&rank=&style_id=40132&topic_id=7634577800443203135",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T03:30:48.499743+00:00",
+  "id": "6e7dbf90-6c3f-45ae-b0aa-88778df1fcf6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T03:31:38.416576+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "5072434",
+    "platform": "toutiao"
+  }
+}

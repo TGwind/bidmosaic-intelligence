@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《天打雷劈の好心人》",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV13zoyB9Ero",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T03:30:49.276308+00:00",
+  "id": "c281e4cc-e1d8-4acf-9f30-eabd41a17c16",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T03:31:38.420034+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 5426104,
+    "platform": "bilibili"
+  }
+}

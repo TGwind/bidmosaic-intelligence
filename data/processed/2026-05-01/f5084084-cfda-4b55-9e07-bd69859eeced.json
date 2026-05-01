@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "初中生一年长高31厘米 分享长高方法",
+  "raw_content": "初中生一年长高31厘米 分享长高方法",
+  "source_url": "https://www.toutiao.com/trending/7634236290443051018/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634236290443051018%22%2C%22hot_board_impr_id%22%3A%2220260501113048C7B958D5EAFDEDB59F64%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%9D%E4%B8%AD%E7%94%9F%E4%B8%80%E5%B9%B4%E9%95%BF%E9%AB%9831%E5%8E%98%E7%B1%B3+%E5%88%86%E4%BA%AB%E9%95%BF%E9%AB%98%E6%96%B9%E6%B3%95%22%7D&rank=&style_id=40132&topic_id=7634236290443051018",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T03:30:48.499669+00:00",
+  "id": "f5084084-cfda-4b55-9e07-bd69859eeced",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T03:31:38.421605+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "12476175",
+    "platform": "toutiao"
+  }
+}

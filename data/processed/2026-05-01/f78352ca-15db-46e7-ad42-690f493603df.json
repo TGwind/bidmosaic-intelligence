@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "《代号：神不言》首曝PV&实机技术演示｜心动，这次来点真的",
+  "raw_content": "当虚实的边界开始模糊，你坠入一场无限的生存游戏。 步入异度都市的光影迷局，在心跳间感受灵魂的共鸣。 《代号：神不言》是一款由VVANNA事业部研发，覆盖多平台的UE5高沉浸幻想都市恋爱互动游戏—— 在真实运转的城市中与他一起自由探索，自在约会，邂逅烟火日常中的奇迹。 可一次次陷入危机四伏的「游戏」中，在生存与背叛之间…… 你会做出怎样的抉择？ ※ 游戏基于EPIC GAMES研发的虚幻引擎5（Unreal Engine 5）开发，实机技术演示视频中画面均为实机录制。研发中版本不代表最终品质。",
+  "source_url": "https://www.bilibili.com/video/BV1JVoBB7ErA",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T03:30:49.276291+00:00",
+  "id": "f78352ca-15db-46e7-ad42-690f493603df",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T03:31:38.421833+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 10698564,
+    "platform": "bilibili"
+  }
+}
