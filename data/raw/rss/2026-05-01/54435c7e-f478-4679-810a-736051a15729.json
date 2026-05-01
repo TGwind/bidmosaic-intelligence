@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "DeFi protocol Carrot becomes first casualty of $285M Drift exploit",
+  "raw_content": "<p style=\"float: right; margin: 0 0 10px 15px; width: 240px;\"><img alt=\"DeFi protocol Carrot becomes first casualty of $285M Drift exploit\" class=\"type:primaryImage\" src=\"https://images.cointelegraph.com/images/528_aHR0cHM6Ly9wYXlsb2FkLmx1bS10cmkub3JnL2FwaS9hcnRpY2xlLWNvdmVycy9maWxlL0hJJTIwVGhlJTIwcGVyZmVjdCUyMHN0b3JtJTIwRGVGaSUyMGhhY2tzJTIwd2lsbCUyMGFkdmFuY2UlMjB0aGUlMjBjcnlwdG8lMjBzZWN0b3IlMjBtb3ZpbmclMjBmb3J3YXJkLmpwZz9wcmVmaXg9bWVkaWElMkZhcnRpY2xlLWNvdmVycw==.jpg\" /></p><p>Carrot's total value locked has collapsed 93% in a month, from $28 million to $1.99 million, leaving the protocol financially unable to continue.</p>",
+  "source_url": "https://cointelegraph.com/news/defi-protocol-carrot-becomes-first-casualty-of-285m-drift-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-05-01T06:48:08+00:00",
+  "id": "54435c7e-f478-4679-810a-736051a15729",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
