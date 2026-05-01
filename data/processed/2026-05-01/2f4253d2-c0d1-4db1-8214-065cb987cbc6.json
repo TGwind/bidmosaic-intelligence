@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "【NMIXX】“Crescendo” M/V",
-  "raw_content": "【NMIXX】“Crescendo” M/V",
-  "source_url": "https://www.bilibili.com/video/BV1zY9rBJEBb",
+  "raw_title": "梓渝“游”点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
+  "raw_content": "时光溯洄，浪声回响，每一秒的记忆，都值得珍藏。",
+  "source_url": "https://www.bilibili.com/video/BV1t29vBjEcU",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-01T03:30:49.276262+00:00",
-  "id": "430bd5f7-c66d-4b24-81f4-a4e4b5c06a30",
+  "collected_at": "2026-05-01T13:21:02.484007+00:00",
+  "id": "2f4253d2-c0d1-4db1-8214-065cb987cbc6",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-01T13:21:44.858261+00:00",
+  "processed_at": "2026-05-01T13:21:44.856781+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1470974,
+    "hot_score": 627272,
     "platform": "bilibili"
   }
 }

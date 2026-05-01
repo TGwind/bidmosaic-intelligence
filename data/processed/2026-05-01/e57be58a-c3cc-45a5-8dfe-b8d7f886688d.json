@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "【NMIXX】“Crescendo” M/V",
-  "raw_content": "【NMIXX】“Crescendo” M/V",
-  "source_url": "https://www.bilibili.com/video/BV1zY9rBJEBb",
+  "raw_title": "夏天煎饼无限流《ENEMY》民国篇",
+  "raw_content": "演尽忠良几十春 一夜真作戏中人 明朝烽火今朝月 不负当初拜师门",
+  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEq7",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-01T03:30:49.276262+00:00",
-  "id": "430bd5f7-c66d-4b24-81f4-a4e4b5c06a30",
+  "collected_at": "2026-05-01T13:21:02.484063+00:00",
+  "id": "e57be58a-c3cc-45a5-8dfe-b8d7f886688d",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-01T13:21:44.858261+00:00",
+  "processed_at": "2026-05-01T13:21:44.872561+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1470974,
+    "hot_score": 1203768,
     "platform": "bilibili"
   }
 }

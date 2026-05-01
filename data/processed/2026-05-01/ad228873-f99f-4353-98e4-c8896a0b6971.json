@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "伊朗代表团亚沙会单日斩获7金",
+  "raw_content": "伊朗代表团亚沙会单日斩获7金",
+  "source_url": "https://www.toutiao.com/trending/7633661538721251338/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%224%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227633661538721251338%22%2C%22hot_board_impr_id%22%3A%2220260501212101B6D3DCC36B06EB7E6B25%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E4%BA%9A%E6%B2%99%E4%BC%9A%E5%8D%95%E6%97%A5%E6%96%A9%E8%8E%B77%E9%87%91%22%7D&rank=&style_id=40132&topic_id=7633661538721251338",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T13:21:01.707802+00:00",
+  "id": "ad228873-f99f-4353-98e4-c8896a0b6971",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T13:21:44.867238+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20503698",
+    "platform": "toutiao"
+  }
+}

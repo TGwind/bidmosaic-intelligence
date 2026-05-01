@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "【NMIXX】“Crescendo” M/V",
-  "raw_content": "【NMIXX】“Crescendo” M/V",
-  "source_url": "https://www.bilibili.com/video/BV1zY9rBJEBb",
+  "raw_title": "在意大利摆摊卖中餐，用烟火温暖异国日常",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1Gu98BTEPg",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-01T03:30:49.276262+00:00",
-  "id": "430bd5f7-c66d-4b24-81f4-a4e4b5c06a30",
+  "collected_at": "2026-05-01T13:21:02.484048+00:00",
+  "id": "1a929a9b-1ad6-4863-a45d-1b4c2776c1d3",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-01T13:21:44.858261+00:00",
+  "processed_at": "2026-05-01T13:21:44.855304+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1470974,
+    "hot_score": 2693513,
     "platform": "bilibili"
   }
 }

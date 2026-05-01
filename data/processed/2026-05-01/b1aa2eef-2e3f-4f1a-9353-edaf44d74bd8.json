@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "3名小学生雨中背着迷路男孩走了2公里",
+  "raw_content": "3名小学生雨中背着迷路男孩走了2公里",
+  "source_url": "https://www.toutiao.com/trending/7634838415167291401/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634838415167291401%22%2C%22hot_board_impr_id%22%3A%2220260501212101B6D3DCC36B06EB7E6B25%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%223%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%9B%A8%E4%B8%AD%E8%83%8C%E7%9D%80%E8%BF%B7%E8%B7%AF%E7%94%B7%E5%AD%A9%E8%B5%B0%E4%BA%862%E5%85%AC%E9%87%8C%22%7D&rank=&style_id=40132&topic_id=7634838415167291401",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-01T13:21:01.707873+00:00",
+  "id": "b1aa2eef-2e3f-4f1a-9353-edaf44d74bd8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T13:21:44.868651+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "9212905",
+    "platform": "toutiao"
+  }
+}

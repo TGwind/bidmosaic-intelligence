@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "【NMIXX】“Crescendo” M/V",
-  "raw_content": "【NMIXX】“Crescendo” M/V",
-  "source_url": "https://www.bilibili.com/video/BV1zY9rBJEBb",
+  "raw_title": "唱 戏 买 瓜",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1ys9rBRENA",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-01T03:30:49.276262+00:00",
-  "id": "430bd5f7-c66d-4b24-81f4-a4e4b5c06a30",
+  "collected_at": "2026-05-01T13:21:02.484015+00:00",
+  "id": "603c16f6-aa99-4b34-ac2f-22cb498b7aa4",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-01T13:21:44.858261+00:00",
+  "processed_at": "2026-05-01T13:21:44.861880+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1470974,
+    "hot_score": 3466977,
     "platform": "bilibili"
   }
 }

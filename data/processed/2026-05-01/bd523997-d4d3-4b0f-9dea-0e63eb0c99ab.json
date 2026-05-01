@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "【NMIXX】“Crescendo” M/V",
-  "raw_content": "【NMIXX】“Crescendo” M/V",
-  "source_url": "https://www.bilibili.com/video/BV1zY9rBJEBb",
+  "raw_title": "把亲生女儿打到轻伤二级？这案子我免费接了！",
+  "raw_content": "把亲生女儿打到轻伤二级？这案子我免费接了！",
+  "source_url": "https://www.bilibili.com/video/BV1RW9QBKE8K",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-01T03:30:49.276262+00:00",
-  "id": "430bd5f7-c66d-4b24-81f4-a4e4b5c06a30",
+  "collected_at": "2026-05-01T13:21:02.484071+00:00",
+  "id": "bd523997-d4d3-4b0f-9dea-0e63eb0c99ab",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-01T13:21:44.858261+00:00",
+  "processed_at": "2026-05-01T13:21:44.869717+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1470974,
+    "hot_score": 857064,
     "platform": "bilibili"
   }
 }
