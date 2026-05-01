@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Claude Code发现了Linux内核中隐藏23年的可远程利用漏洞",
+  "raw_content": "点击查看原文>",
+  "source_url": "https://www.infoq.cn/article/5RYdZtLgisqRJ65zJBpo?utm_source=rss&utm_medium=article",
+  "source_name": "InfoQ CN",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-30T14:00:00+00:00",
+  "id": "bec38b65-0468-4c42-9184-6cb8735b4a93",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T04:02:33.927233+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.infoq.cn/feed",
+    "category": "tech",
+    "source_type": "expert_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

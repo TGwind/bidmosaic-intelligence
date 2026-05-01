@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "End-to-end autonomous scientific discovery on a real optical platform",
+  "raw_content": "arXiv:2604.27092v1 Announce Type: new Abstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assisting predefined research workflows, none has yet demonstrated end-to-end autonomous discovery in a real physical system that produces a nontrivial result supported by experimental evidence. Here we introduce Qiushi Discovery Engine, an LLM-based agentic system for end-to-end autonomous scientific discovery on a real optical platform. Qiushi Engine combines nonlinear research phases, Meta-Trace memory and a dual-layer architecture to maintain adaptive and stable research trajectories across long-horizon investigations involving thousands of LLM-mediated reasoning, measurement and revision actions. It autonomously reproduces a published transmission-matrix experiment on a non-original platform and converts an abstract coherence-order theory into experimental observables, providing, to our knowledge, the first observation of this class of coherence-order structure. More importantly, in an open-ended study involving 145.9 million tokens, 3,242 LLM calls, 1,242 tool calls, 163 research notes and 44 scripts, Qiushi Engine proposes and experimentally validates optical bilinear interaction, a physical mechanism structurally analogous to a core operation in Transformer attention. This AI-discovered mechanism suggests a route towards high-speed, energy-efficient optical hardware for pairwise computation. To our knowledge, this is the first demonstration of an AI agentic system autonomously identifying and experimentally validating a nontrivial, previously unreported physical mechanism, marking a milestone for research-level autonomous agents.",
+  "source_url": "https://arxiv.org/abs/2604.27092",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-05-01T04:00:00+00:00",
+  "id": "d2c4717e-0f27-495e-a2d3-d30423d9bf0f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T04:02:33.938724+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

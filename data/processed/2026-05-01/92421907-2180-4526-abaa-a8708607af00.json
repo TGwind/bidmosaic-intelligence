@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Insider trading backlash forces Polymarket to step up surveillance",
+  "raw_content": "Polymarket has selected Chainalysis to flag suspicious trades as insider betting concerns mount and regulators tighten scrutiny on prediction markets.",
+  "source_url": "https://cointelegraph.com/news/polymarket-chainalysis-insider-betting-detection-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-04-30T18:35:00+00:00",
+  "id": "92421907-2180-4526-abaa-a8708607af00",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T04:02:33.910371+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

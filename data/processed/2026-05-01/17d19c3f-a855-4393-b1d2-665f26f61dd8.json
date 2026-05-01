@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Cross-Lingual Response Consistency in Large Language Models: An ILR-Informed Evaluation of Claude Across Six Languages",
+  "raw_content": "arXiv:2604.27137v1 Announce Type: new Abstract: This paper introduces a systematic evaluation framework grounded in the Interagency Language Roundtable (ILR) Skill Level Descriptions and applies it to Claude (Sonnet 4.6) across six languages: English, French, Romanian, Spanish, Italian, and German. We administer a battery of 12 semantically equivalent prompt clusters spanning ILR complexity levels 1 through 3+, collect 216 responses (12 prompts, 6 languages, 3 runs), and analyze outputs through a two-layer methodology combining automated quantitative metrics with expert ILR qualitative assessment. Quantitative analysis reveals that French responses are approximately 30% longer than German responses on identical prompts, and that creative and affective clusters show the highest cross-lingual surface divergence. Qualitative analysis, conducted by a six-language professional with 12 years of ILR/OPI assessment experience, identifies five cross-lingual variation patterns: systematic differences in pragmatic disambiguation strategies, aesthetic and literary tradition divergence in creative output, language-internal technical terminology norms, cultural calibration gaps evidenced by the absence of culture-specific content in favor of culturally neutralized templates, and language-specific institutional referral behavior in emotional support responses. We argue that ILR-informed expert judgment applied to LLM outputs constitutes a novel and underreported evaluation methodology that complements purely computational benchmarks, and that cross-lingual output variation in Claude is interpretable, domain-dependent, and consequential for equitable multilingual AI deployment.",
+  "source_url": "https://arxiv.org/abs/2604.27137",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-05-01T04:00:00+00:00",
+  "id": "17d19c3f-a855-4393-b1d2-665f26f61dd8",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T04:02:33.854136+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

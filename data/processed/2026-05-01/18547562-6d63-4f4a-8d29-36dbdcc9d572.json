@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Yannis Stournaras: On the contribution of the Economic and Financial Committee to the development of the euro area and future challenges",
+  "raw_content": "Address by Mr Yannis Stournaras, Governor of the Bank of Greece, at the gala dinner of the EU Informal Economic and Financial Committee (EFC) meeting, Athens, 27 April 2026.",
+  "source_url": "https://www.bis.org/review/r260429d.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-05-01T04:01:26.261789+00:00",
+  "id": "18547562-6d63-4f4a-8d29-36dbdcc9d572",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T04:02:33.854547+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

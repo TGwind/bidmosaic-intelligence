@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Optimal Stop-Loss and Take-Profit Parameterization for Autonomous Trading Agent Swarm",
+  "raw_content": "arXiv:2604.27150v1 Announce Type: new Abstract: Autonomous crypto trading systems often spend most of their design effort on finding entries, while exits are left to fixed rules that are rarely tested in a systematic way. This paper examines whether better stop-loss and take-profit settings can improve the performance of an autonomous trading agent swarm. Using more than 900 historical trades, we replay each trade under many alternative exit policies and compare results against the existing production setup. The study finds that exit design matters meaningfully: stronger configurations improve risk-adjusted performance and generally favor tighter loss limits, earlier profit capture, and closer trailing protection. The paper also discusses a key evaluation challenge: a purely chronological split was initially used, but the newest trades fell into an unusual war-driven market period that sharply distorted test results. To reduce the influence of that single episode, the main comparison was run on randomized data, with the drawbacks of doing so acknowledged explicitly. Overall, the paper presents a practical framework for tuning exit logic in a more disciplined and transparent way.",
+  "source_url": "https://arxiv.org/abs/2604.27150",
+  "source_name": "arXiv cs.AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-05-01T04:00:00+00:00",
+  "id": "57a4f1a8-6170-47a6-a6c3-fcb786624a9d",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T04:02:33.882392+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}

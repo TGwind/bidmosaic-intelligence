@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Exploring the Limits of Pruning: Task-Specific Neurons, Model Collapse, and Recovery in Task-Specific Large Language Models",
+  "raw_content": "arXiv:2604.27115v1 Announce Type: new Abstract: Neuron pruning is widely used to reduce the computational cost and parameter footprint of large language models, yet it remains unclear whether neurons in task-specific models contribute uniformly to task performance. In this work, we provide empirical evidence for the existence and importance of task-specific neurons through a systematic pruning study on language models specialized for mathematical reasoning and code generation. We introduce an activation-based selectivity metric to identify neurons with low contribution to the target task and prune them while preserving target-task accuracy, and compare selective pruning with random pruning. Selective pruning consistently outperforms random pruning, indicating that activation-based selectivity provides a systematic advantage over random pruning. Reverse pruning experiments further show that removing a small subset of highly task-specific neurons (~10%) causes complete performance collapse, suggesting that there exist task specific neurons and critical task information is concentrated in a small portion of the network. In contrast, selective pruning of less critical neurons (~30% - ~35%) reduces accuracy but still preserves significant performance. We also observed consistent reductions in parameters and runtime VRAM usage, along with improved inference throughput as pruning increases. Experiments on both 1.5B and 7B models reveal a robustness threshold around 15-20% pruning, beyond which accuracy loss and generation failures increase sharply. Fine-tuning substantially recovers performance across pruning levels, particularly for aggressively pruned models. These findings provide empirical evidence of neuron specialization in task-specific language models and offer insights into pruning robustness, model redundancy, and post-pruning recoverability.",
+  "source_url": "https://arxiv.org/abs/2604.27115",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-05-01T04:00:00+00:00",
+  "id": "cfab33a1-ed85-4c9c-b8c8-88d55786322b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T04:02:33.936234+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
