@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "‘Safety first’ puts Anthropic ahead in game of AI spin",
+  "raw_content": "<p>But Dr Heidy Khlaaf, chief AI scientist at the AI Now Institute and a former OpenAI safety engineer, is sceptical. She notes Anthropic provides no comparison with existing automated security tools, nor any false-positive rates. “It also serves their ‘safety first’ image, as they’re able to justify the lack of public release, even a limited one for independent evaluation, as a public service – when it simply obscures experts’ abilities to independently validate their </p>\n<p>The post <a href=\"https://ainowinstitute.org/news/press/safety-first-puts-anthropic-ahead-in-game-of-ai-spin\">‘Safety first’ puts Anthropic ahead in game of AI spin</a> appeared first on <a href=\"https://ainowinstitute.org\">AI Now Institute</a>.</p>",
+  "source_url": "https://ainowinstitute.org/news/press/safety-first-puts-anthropic-ahead-in-game-of-ai-spin",
+  "source_name": "AI Now Institute",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-12T20:09:53+00:00",
+  "id": "9a91bee7-a135-4029-87a3-d713b9bf9a56",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://ainowinstitute.org/category/news/feed",
+    "category": "policy",
+    "source_type": "research_org",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}

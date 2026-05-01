@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "BatteryPass-12K: The First Dataset for the Novel Digital Battery Passport Conformance Task",
+  "raw_content": "arXiv:2604.26986v1 Announce Type: new \nAbstract: We introduce a novel task of digital battery passport (DBP) conformance classification and introduce the first public benchmark for the task: BatteryPass-12K, created synthetically from real pilot samples. This is as the EU's battery regulation on DBPs comes into effect soon and there exists no public dataset. We evaluated 22 language models (LMs) in zero-shot inference, spanning small LMs (SLMs), mixture of experts (MoEs), and dense LLMs. We also conducted analysis, additional evaluations of few-shot inference and prompt-injection attacks to find that (1) Thinking models have the best performance (with GPT-5.4 scoring 0.98 (0.03) and 0.71 (0.22) on average as F1 (and confidence interval at 95%) on the validation and test sets, respectively), (2) few-shot examples improve performance significantly, (3) generally capable frontier models find the task challenging, (4) merely scaling model parameters does not necessarily lead to improved performance, as SLMs outperformed some LLMs, and (5) prompt-injection attacks degrade performance. We note that BatteryPass-12K, though limited to real pilot samples, may be useful for other known or emerging tasks in the battery domain, e.g. lifecycle reasoning. We publicly release the dataset under a permissive licence (CC-BY-4.0).",
+  "source_url": "https://arxiv.org/abs/2604.26986",
+  "source_name": "arXiv cs.CL (NLP)",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-05-01T04:00:00+00:00",
+  "id": "9617516b-f106-4c2e-aff2-d0067cc95dad",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://arxiv.org/rss/cs.CL",
+    "category": "ai",
+    "source_type": "research_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
