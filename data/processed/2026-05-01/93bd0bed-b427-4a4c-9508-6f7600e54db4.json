@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Bitcoin ETFs draw $2B in April for highest monthly inflows this year",
+  "raw_content": "US spot Bitcoin ETFs posted strong April inflows as Bitcoin rallied, with IBIT leading gains despite late-month outflows across funds.",
+  "source_url": "https://cointelegraph.com/news/bitcoin-etf-2-billion-inflow-april-biggest-month-ytd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-05-01T10:53:44+00:00",
+  "id": "93bd0bed-b427-4a4c-9508-6f7600e54db4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-01T13:46:07.937073+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
