@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Deputy Director of Enforcement Jason Burt to Conclude His Tenure at the SEC",
+  "raw_content": "The Securities and Exchange Commission today announced that Jason Burt, Deputy Director of the Division of Enforcement (Specialized Units), will depart the agency on May 1, 2026, after more than 22 years of public service.“Jason’s exceptional leadership…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-41-deputy-director-enforcement-jason-burt-conclude-his-tenure-sec",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-30T20:30:36+00:00",
+  "id": "fd5a5247-48c5-4257-b53b-94fb88752c3c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}
