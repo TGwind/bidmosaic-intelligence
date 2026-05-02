@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "Crypto Biz: Capital has no consensus",
+  "raw_content": "Crypto markets splinter as miners pivot to AI, BitMine doubles down on ETH, stablecoin liquidity idles, and tokenized Treasurys reshape trading collateral.",
+  "source_url": "https://cointelegraph.com/news/crypto-biz-capital-has-no-consensus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "source_name": "Cointelegraph",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-05-01T16:00:30+00:00",
+  "id": "19ffc2c2-26bd-4aea-a65a-166f87462f94",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T06:17:56.445736+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://cointelegraph.com/rss",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
