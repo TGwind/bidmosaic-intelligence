@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "在意大利摆摊卖中餐，用烟火温暖异国日常",
+  "raw_title": "线条重现中式美学世界",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1Gu98BTEPg",
+  "source_url": "https://www.bilibili.com/video/BV1KX9xBHE42",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-02T02:46:41.570546+00:00",
-  "id": "480043fb-8f85-443c-8cca-1f61f9af26ba",
+  "collected_at": "2026-05-02T07:46:06.446044+00:00",
+  "id": "59089f49-5cd0-4c14-8388-a5fbd0bf4590",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-02T07:46:53.002441+00:00",
+  "processed_at": "2026-05-02T07:46:53.002743+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2877226,
+    "hot_score": 6368975,
     "platform": "bilibili"
   }
 }

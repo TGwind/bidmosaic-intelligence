@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "全国统一的“假日噩梦”：排队爬山",
+  "raw_content": "全国统一的“假日噩梦”：排队爬山",
+  "source_url": "https://www.toutiao.com/trending/7635130536679181830/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227635130536679181830%22%2C%22hot_board_impr_id%22%3A%2220260502154605FA64EFD7D4CAAB538528%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%E2%80%9C%E5%81%87%E6%97%A5%E5%99%A9%E6%A2%A6%E2%80%9D%EF%BC%9A%E6%8E%92%E9%98%9F%E7%88%AC%E5%B1%B1%22%7D&rank=&style_id=40132&topic_id=7635130536679181830",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T07:46:05.377462+00:00",
+  "id": "ca211333-3bcc-4951-95ec-0260f886a8fe",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T07:46:53.007884+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "20411492",
+    "platform": "toutiao"
+  }
+}

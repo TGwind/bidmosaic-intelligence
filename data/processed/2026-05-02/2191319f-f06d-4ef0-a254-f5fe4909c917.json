@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "在意大利摆摊卖中餐，用烟火温暖异国日常",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1Gu98BTEPg",
+  "raw_title": "梓渝“游”点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
+  "raw_content": "时光溯洄，浪声回响，每一秒的记忆，都值得珍藏。",
+  "source_url": "https://www.bilibili.com/video/BV1t29vBjEcU",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-02T02:46:41.570546+00:00",
-  "id": "480043fb-8f85-443c-8cca-1f61f9af26ba",
+  "collected_at": "2026-05-02T07:46:06.446025+00:00",
+  "id": "2191319f-f06d-4ef0-a254-f5fe4909c917",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-02T07:46:53.002441+00:00",
+  "processed_at": "2026-05-02T07:46:52.999202+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2877226,
+    "hot_score": 1218096,
     "platform": "bilibili"
   }
 }
