@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Careful Adoption of Agentic AI Services",
+  "raw_content": "<p>CISA, in collaboration with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and other international and U.S. partners, released guidance for organizations on adopting agentic artificial intelligence (AI) systems.</p>\n<p>This guide outlines key security challenges and risks associated with agentic AI, and provides actionable steps for designing, deploying, and operating these systems safely. It helps organizations align AI risk management with existing cybersecurity frameworks and strengthen oversight as agentic AI adoption grows.</p>\n<p>&nbsp;</p>\n<div class=\"c-text-cta\">\n<div class=\"l-constrain c-text-cta__inner\">\n<div class=\"c-text-cta__content\">\n<h2>Please share your thoughts!</h2>\n<div class=\"c-text-cta__summary\">\n<div class=\"c-text-cta__summary\">\n<p>We welcome your feedback.</p>\n</div>\n</div>\n<p><a class=\"c-button c-button--on-dark\" href=\"https://cisasurvey.gov1.qualtrics.com/jfe/form/SV_9n4TtB8uttUPaM6?product=https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services\">CISA Product Survey</a></p>\n</div>\n</div>\n</div>",
+  "source_url": "https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-05-01T12:00:00+00:00",
+  "id": "b1c5c1d9-b676-4410-85e1-c6d365f1e6bd",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
