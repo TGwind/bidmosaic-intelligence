@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "英国50万人医疗数据泄露，在阿里电商平台挂售",
+  "raw_content": "<div>2026/04/24</div><div id=\"contentDiv\">\n<div></div>\n<div>  </div>\n<col />\n\n\n<img height=\"375\" src=\"https://feedx.net/images/2026/04/0424/0424-02-L-reuters.jpg\" width=\"600\" />\n\n\n<span><strong>阿里巴巴集团的LOGO（Reuters）</strong></span>\n\n\n\n<div>  </div>\n<div>      英国政府4月23日发布消息称，国内50万人的医疗数据遭到泄露，并被挂至中国阿里巴巴集团的电商（EC）平台上出售。这些数据经由中国的研究机构，从英国政府提供资金支持的数据库“UK Biobank（英国生物样本库）”外泄。</div>\n<div>  </div>\n<div>      英国负责电子政府与数据事务的国务大臣默里（Murray）在议会做出了相关说明。据其介绍，已接到英国生物样本库运营方的报告称，在阿里巴巴的电商平台发现了3条挂售记录。其中至少有一条包含全部50万人的数据。</div>\n<div>  </div>\n<div>      虽然姓名和住址等能够直接锁定个人身份的信息已被删除，但可能仍包含性别、年龄、社会地位、生活习惯以及血液等样本的相关数据。默里表示：“不能断言完全无法识别个人身份”。</div>\n<div>  </div>\n<div>      目前尚未证实这些数据已被购买，并且已经从网站被删除。</div>\n<div>  </div>\n<div>      默里表示，所有挂售数据似乎均由中国的研究机构从英国生物样本库下载而来。至于研究机构获取数据后如何导致其被出售，目前尚不清楚。英国生物样本库已取消3家相关机构的访问权限。</div>\n<div>  </div>\n<div>      默里称：“中国政府和阿里巴巴正非常积极地配合处理这一问题”，并表示这并非一起国家参与的数据泄露事件。</div>\n<div>  </div>\n<div>      英国生物样本库收集了居住在英国的50万人的健康状况与基因信息，并向已经过认证的全球研究机构及研究人员提供。目前已有来自60多个国家的超过2.2万名研究人员利用这些数据开展心脏病、癌症、痴呆症等领域的研究。</div>\n<div>  </div>\n<div>      受此次泄露事件影响，在完善安全措施之前，数据提供将暂停。</div>\n<div>  </div>\n<div>      <strong>日本经济新闻（中文版：日经中文网）江渕智弘 伦敦</strong></div>\n<div></div>",
+  "source_url": "http://cn.nikkei.com/politicsaeconomy/politicsasociety/62270-2026-04-24-09-29-59.html?print=1",
+  "source_name": "日经中文网",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-24T02:08:02+00:00",
+  "id": "164cbbe9-c875-4e19-a531-24569ebd59e9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/nikkei.xml",
+    "category": "finance",
+    "source_type": "premium_media",
+    "quality_tier": "high",
+    "authority_score": 82
+  }
+}
