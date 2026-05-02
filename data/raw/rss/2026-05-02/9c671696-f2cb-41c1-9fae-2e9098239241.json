@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI",
+  "raw_content": "<p>Enterprise AI teams are hitting a wall — not because their models can&#x27;t reason, but because the workflows underneath them were never built for agents. Tasks fail, handoffs break, and the problem compounds as organizations push agents deeper into back-office systems. A new architectural layer is emerging to address it: workflow execution control planes that impose deterministic structure on processes agents are expected to run.</p><p>One of the companies bringing this to the forefront is Salesforce, with a new workflow platform that turns back-office workflows into a set of tasks for specialized agents to complete. Users can upload their processes or use one of the set Blueprints provided by Salesforce, and Agentforce Operations will break it down for agents. </p><p>Salesforce senior vice president of Product, Sanjna Parulekar, told VentureBeat in an interview that the problem is that many enterprise workflows are not built for agents. “What we’ve observed with customers is that a lot of times, the brokenness in a process is probably in your product requirements document,” Parulekar said. “So when that’s uploaded into a product, it doesn’t quite work. We can optimize it and cut out some things and replace it with an agent.”</p><p>Without this control panel layer, enterprises could risk deploying agents that increase cost rather than fix their workflow problems.</p><h2>Making the workflow work for agents, not just humans</h2><p>Enterprises deploying agents are learning a costly lesson: Their workflows were designed around human judgment gaps, not machine execution. Processes that evolved through years of workarounds — loosely defined steps, implicit decisions, coordination that depends on individuals knowing what to do next — break when agents are asked to follow them literally.</p><p>Even with all of an enterprise’s context at its fingertips, AI systems will have difficulty completing tasks if it is not clear what it’s supposed to do. </p><p>Parulekar said her team found that focusing on what makes the process tick and breaking it down into more explicit steps and workflows makes the system more deterministic. Then, when platforms like Agentforce Operations introduce agents, those agents already know their specific tasks.  </p><p>“It forces companies to rethink their processes and introduces observability into the mix because of the session tracing model in the system,” she said. </p><p>Parulekar said human checks can be built into the system, so the process is more transparent.</p><p>What makes this approach different from other workflow automation offerings is that it doesn’t rely on agents to decide what to do next; the system does. Unlike more traditional automation tools that route tasks and agents on probabilistic decision-making, this enforces execution on a more pre-defined, deterministic structure.</p><h2>The problem it introduces</h2><p>Codifying a workflow doesn&#x27;t fix a broken one. If a process has flawed steps, encoding it for agents locks in the problem at scale. And once workflows are distributed across agents, the challenge shifts from execution to governance: who owns the process, who validates it, and how it evolves when business conditions change.</p><p>It puts the onus on teams to take a hard look at what works for them and what doesn’t.</p><p>Organizations need to consider that, along with the execution control plane offered by platforms like Agentforce Operations, someone should be made responsible for task completion and success. </p><p>Brandon Metcalf, founder and CEO of workforce orchestration company Asymbl, told VentureBeat in a separate interview that the key to both humans and agents following a workflow is a shared goal. </p><p>“You have to understand the goal or the agent or human won’t complete the task successfully,” Metcalf said. “Someone has to manage that outcome that has to be delivered. It can be a person or an agent.”</p><p>The bottleneck has moved. As Metcalf framed it, the question is no longer whether agents can reason through a task, it&#x27;s whether the workflow underneath them is coherent enough to execute. For enterprises that built their processes around human judgment and institutional memory, that&#x27;s a harder fix than swapping in a smarter model.</p>",
+  "source_url": "https://venturebeat.com/orchestration/salesforce-launches-agentforce-operations-to-fix-the-workflows-breaking-enterprise-ai",
+  "source_name": "VentureBeat",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-05-01T21:14:29+00:00",
+  "id": "9c671696-f2cb-41c1-9fae-2e9098239241",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://venturebeat.com/feed/",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}

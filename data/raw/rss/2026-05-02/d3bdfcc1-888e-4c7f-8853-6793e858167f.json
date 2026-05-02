@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Burkhard Balz: Foundations of resilience - the role of cash and the digital euro",
+  "raw_content": "Keynote speech by Mr Burkhard Balz, Member of the Executive Board of the Deutsche Bundesbank, at the Global Currency Forum (GCF), Antalya, 29 April 2026.",
+  "source_url": "https://www.bis.org/review/r260429a.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-05-02T03:34:50.015774+00:00",
+  "id": "d3bdfcc1-888e-4c7f-8853-6793e858167f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
