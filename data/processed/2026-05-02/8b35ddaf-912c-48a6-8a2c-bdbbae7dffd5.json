@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "赵文卓现身闽超再现郑成功经典形象",
+  "raw_content": "赵文卓现身闽超再现郑成功经典形象",
+  "source_url": "https://www.toutiao.com/trending/7635214852679618111/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227635214852679618111%22%2C%22hot_board_impr_id%22%3A%22202605030301237FB7690F8901ED8B8008%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B5%B5%E6%96%87%E5%8D%93%E7%8E%B0%E8%BA%AB%E9%97%BD%E8%B6%85%E5%86%8D%E7%8E%B0%E9%83%91%E6%88%90%E5%8A%9F%E7%BB%8F%E5%85%B8%E5%BD%A2%E8%B1%A1%22%7D&rank=&style_id=40132&topic_id=7635214852679618111",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T19:01:23.944140+00:00",
+  "id": "8b35ddaf-912c-48a6-8a2c-bdbbae7dffd5",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T19:02:10.530708+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "21427084",
+    "platform": "toutiao"
+  }
+}

@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "线条重现中式美学世界",
+  "raw_title": "唱 戏 买 瓜",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1KX9xBHE42",
+  "source_url": "https://www.bilibili.com/video/BV1ys9rBRENA",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-02T07:46:06.446044+00:00",
-  "id": "59089f49-5cd0-4c14-8388-a5fbd0bf4590",
+  "collected_at": "2026-05-02T19:01:24.649229+00:00",
+  "id": "4fbd822f-aca0-478b-86a9-fea6df59d07c",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-02T19:02:10.526793+00:00",
+  "processed_at": "2026-05-02T19:02:10.526428+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 6368975,
+    "hot_score": 3777870,
     "platform": "bilibili"
   }
 }

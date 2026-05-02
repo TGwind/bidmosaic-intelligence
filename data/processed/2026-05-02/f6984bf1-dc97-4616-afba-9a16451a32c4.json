@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "牛被困深山20天饿瘦200斤奄奄一息",
+  "raw_content": "牛被困深山20天饿瘦200斤奄奄一息",
+  "source_url": "https://www.toutiao.com/trending/7635226835991429174/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227635226835991429174%22%2C%22hot_board_impr_id%22%3A%22202605030301237FB7690F8901ED8B8008%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%9B%E8%A2%AB%E5%9B%B0%E6%B7%B1%E5%B1%B120%E5%A4%A9%E9%A5%BF%E7%98%A6200%E6%96%A4%E5%A5%84%E5%A5%84%E4%B8%80%E6%81%AF%22%7D&rank=&style_id=40132&topic_id=7635226835991429174",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T19:01:23.944165+00:00",
+  "id": "f6984bf1-dc97-4616-afba-9a16451a32c4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T19:02:10.537637+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15873574",
+    "platform": "toutiao"
+  }
+}

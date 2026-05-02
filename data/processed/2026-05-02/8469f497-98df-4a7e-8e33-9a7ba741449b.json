@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "婆婆定50万二胎奖 42岁大儿媳急了",
+  "raw_content": "婆婆定50万二胎奖 42岁大儿媳急了",
+  "source_url": "https://www.toutiao.com/trending/7635041529082019891/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227635041529082019891%22%2C%22hot_board_impr_id%22%3A%22202605030301237FB7690F8901ED8B8008%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A9%86%E5%A9%86%E5%AE%9A50%E4%B8%87%E4%BA%8C%E8%83%8E%E5%A5%96+42%E5%B2%81%E5%A4%A7%E5%84%BF%E5%AA%B3%E6%80%A5%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7635041529082019891",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T19:01:23.944157+00:00",
+  "id": "8469f497-98df-4a7e-8e33-9a7ba741449b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T19:02:10.529168+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "17543013",
+    "platform": "toutiao"
+  }
+}

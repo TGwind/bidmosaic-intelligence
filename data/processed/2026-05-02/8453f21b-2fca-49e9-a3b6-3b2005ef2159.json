@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "四川泸州楼房倒塌多人坠落？谣言",
+  "raw_content": "四川泸州楼房倒塌多人坠落？谣言",
+  "source_url": "https://www.toutiao.com/trending/7634720061542498350/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634720061542498350%22%2C%22hot_board_impr_id%22%3A%22202605030301237FB7690F8901ED8B8008%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%B7%9E%E6%A5%BC%E6%88%BF%E5%80%92%E5%A1%8C%E5%A4%9A%E4%BA%BA%E5%9D%A0%E8%90%BD%EF%BC%9F%E8%B0%A3%E8%A8%80%22%7D&rank=&style_id=40132&topic_id=7634720061542498350",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T19:01:23.944197+00:00",
+  "id": "8453f21b-2fca-49e9-a3b6-3b2005ef2159",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T19:02:10.528829+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10640375",
+    "platform": "toutiao"
+  }
+}
