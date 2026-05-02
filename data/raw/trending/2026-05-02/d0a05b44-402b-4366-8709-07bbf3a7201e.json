@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "朱之文演出人太多全程被夹着走",
+  "raw_content": "朱之文演出人太多全程被夹着走",
+  "source_url": "https://www.toutiao.com/trending/7635237297230712330/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227635237297230712330%22%2C%22hot_board_impr_id%22%3A%22202605022114269C8C6C5A7BDE8DFF74B5%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%B1%E4%B9%8B%E6%96%87%E6%BC%94%E5%87%BA%E4%BA%BA%E5%A4%AA%E5%A4%9A%E5%85%A8%E7%A8%8B%E8%A2%AB%E5%A4%B9%E7%9D%80%E8%B5%B0%22%7D&rank=&style_id=40132&topic_id=7635237297230712330",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T13:14:27.109812+00:00",
+  "id": "d0a05b44-402b-4366-8709-07bbf3a7201e",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "10015785",
+    "platform": "toutiao"
+  }
+}

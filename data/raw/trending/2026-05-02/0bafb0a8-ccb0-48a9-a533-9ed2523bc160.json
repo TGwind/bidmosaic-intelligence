@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "把亲生女儿打到轻伤二级？这案子我免费接了！",
+  "raw_content": "把亲生女儿打到轻伤二级？这案子我免费接了！",
+  "source_url": "https://www.bilibili.com/video/BV1RW9QBKE8K",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T13:14:28.012422+00:00",
+  "id": "0bafb0a8-ccb0-48a9-a533-9ed2523bc160",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1172898,
+    "platform": "bilibili"
+  }
+}
