@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "“让我先走 我要回甘肃娶最爱的人”",
+  "raw_content": "“让我先走 我要回甘肃娶最爱的人”",
+  "source_url": "https://www.toutiao.com/trending/7634826626863038510/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634826626863038510%22%2C%22hot_board_impr_id%22%3A%2220260502104640573A05FC17EDAD22FB01%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E2%80%9C%E8%AE%A9%E6%88%91%E5%85%88%E8%B5%B0+%E6%88%91%E8%A6%81%E5%9B%9E%E7%94%98%E8%82%83%E5%A8%B6%E6%9C%80%E7%88%B1%E7%9A%84%E4%BA%BA%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7634826626863038510",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T02:46:40.859334+00:00",
+  "id": "b5bd8119-1478-4224-aef7-10773646a21a",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "7642955",
+    "platform": "toutiao"
+  }
+}
