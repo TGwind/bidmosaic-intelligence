@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "广交会激活纺织商圈外贸潜能",
+  "raw_content": "广交会激活纺织商圈外贸潜能",
+  "source_url": "https://www.toutiao.com/article/7635063385997967872",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T07:46:05.377503+00:00",
+  "id": "33ada34d-bd2b-4f84-bbdb-b2a79d2b0829",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16711516",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "在意大利摆摊卖中餐，用烟火温暖异国日常",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1Gu98BTEPg",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T07:46:06.446068+00:00",
+  "id": "e69d039a-4aac-434c-8f40-622ce9ed6b2c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2973456,
+    "platform": "bilibili"
+  }
+}

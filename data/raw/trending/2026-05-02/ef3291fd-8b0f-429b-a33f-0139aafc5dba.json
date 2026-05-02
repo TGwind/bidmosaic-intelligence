@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "这一分半我录了3个月，能火吗？",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1v49YBHESJ",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T07:46:06.446085+00:00",
+  "id": "ef3291fd-8b0f-429b-a33f-0139aafc5dba",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2334607,
+    "platform": "bilibili"
+  }
+}
