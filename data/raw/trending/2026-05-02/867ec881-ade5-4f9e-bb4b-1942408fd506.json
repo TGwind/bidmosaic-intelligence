@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "「无敌少侠」以爱推至500年",
+  "raw_content": "由动画入坑，借鉴了一些动画的优点\n\n我喜欢无敌少侠这个作品，不是因为它的血腥暴力，而是其内在的亲情与责任，太阳之战给我的震撼绝对不亚于海虎三大结局，对比首男在沉默中爆发的劲霸强，马克更多的是无声的控诉，他以牺牲去守护的一切他所重视的，亲人朋友同胞，从他的成人礼到五百年后，所经历的一切从未彻底改变他，始终如一",
+  "source_url": "https://www.bilibili.com/video/BV14C9YB6EKT",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T19:01:24.649221+00:00",
+  "id": "867ec881-ade5-4f9e-bb4b-1942408fd506",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1214273,
+    "platform": "bilibili"
+  }
+}
