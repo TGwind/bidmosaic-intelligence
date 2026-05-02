@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "测试招募开启！《遗忘之海》剧情概念PV 「余烬」",
+  "raw_content": "「破晓号测试」招募现已开启，诚邀各位船长预约登船：https://www.biligame.com/detail/?id=114720 「破晓号测试」创作激励活动即将开启，B站创作团报名进行中！ 伫立的誓约之剑，铭记着这片大海上所有的更迭与传承。 昔日五贵族对王剑立下效忠的誓言，如今早已分崩离析。 小男爵迈克尔，誓要找到家族丢失的秩序，却遭遇世仇托尼诺的追杀； 王女瑞文斯克，牢记父辈未完的使命，接下新王的授予，做黑格尼的剑； 还有那些曾随疯王一同落幕的旧日显赫——如今，可还有人记得他们的名字？ 疯",
+  "source_url": "https://www.bilibili.com/video/BV17Y9UBYEPd",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T02:46:41.570583+00:00",
+  "id": "accb880b-1dab-4d97-be88-5f21f2f6b8ec",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T02:47:29.027085+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 6268259,
+    "platform": "bilibili"
+  }
+}

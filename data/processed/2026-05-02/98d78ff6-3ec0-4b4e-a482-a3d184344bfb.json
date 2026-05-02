@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "转走储户千万存款银行员工被批捕",
+  "raw_content": "转走储户千万存款银行员工被批捕",
+  "source_url": "https://www.toutiao.com/trending/7634110925322321974/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634110925322321974%22%2C%22hot_board_impr_id%22%3A%2220260502104640573A05FC17EDAD22FB01%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%BD%AC%E8%B5%B0%E5%82%A8%E6%88%B7%E5%8D%83%E4%B8%87%E5%AD%98%E6%AC%BE%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E8%A2%AB%E6%89%B9%E6%8D%95%22%7D&rank=&style_id=40132&topic_id=7634110925322321974",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T02:46:40.859282+00:00",
+  "id": "98d78ff6-3ec0-4b4e-a482-a3d184344bfb",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T02:47:29.026388+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15391023",
+    "platform": "toutiao"
+  }
+}

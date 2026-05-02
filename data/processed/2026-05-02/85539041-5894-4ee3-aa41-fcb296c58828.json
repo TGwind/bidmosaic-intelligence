@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "梓渝“游”点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
+  "raw_content": "时光溯洄，浪声回响，每一秒的记忆，都值得珍藏。",
+  "source_url": "https://www.bilibili.com/video/BV1t29vBjEcU",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-02T02:46:41.570510+00:00",
+  "id": "85539041-5894-4ee3-aa41-fcb296c58828",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T02:47:29.025666+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1056747,
+    "platform": "bilibili"
+  }
+}
