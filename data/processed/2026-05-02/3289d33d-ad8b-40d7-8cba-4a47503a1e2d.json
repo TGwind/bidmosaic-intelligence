@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "夏天煎饼无限流《ENEMY》民国篇",
-  "raw_content": "演尽忠良几十春 一夜真作戏中人 明朝烽火今朝月 不负当初拜师门",
-  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEq7",
+  "raw_title": "当用学历代表网文中的战力境界【小明修仙传1-4合集】",
+  "raw_content": "第五集要晚点，月底了，先发个合集。",
+  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEGP",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-02T02:46:41.570554+00:00",
-  "id": "20040d29-b860-42d5-9977-e16645ef7cf1",
+  "collected_at": "2026-05-02T13:14:28.012414+00:00",
+  "id": "3289d33d-ad8b-40d7-8cba-4a47503a1e2d",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-02T13:15:14.397534+00:00",
+  "processed_at": "2026-05-02T13:15:14.399750+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1352312,
+    "hot_score": 3201459,
     "platform": "bilibili"
   }
 }

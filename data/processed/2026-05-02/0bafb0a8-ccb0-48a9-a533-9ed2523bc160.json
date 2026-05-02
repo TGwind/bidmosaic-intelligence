@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "夏天煎饼无限流《ENEMY》民国篇",
-  "raw_content": "演尽忠良几十春 一夜真作戏中人 明朝烽火今朝月 不负当初拜师门",
-  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEq7",
+  "raw_title": "把亲生女儿打到轻伤二级？这案子我免费接了！",
+  "raw_content": "把亲生女儿打到轻伤二级？这案子我免费接了！",
+  "source_url": "https://www.bilibili.com/video/BV1RW9QBKE8K",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-02T02:46:41.570554+00:00",
-  "id": "20040d29-b860-42d5-9977-e16645ef7cf1",
+  "collected_at": "2026-05-02T13:14:28.012422+00:00",
+  "id": "0bafb0a8-ccb0-48a9-a533-9ed2523bc160",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-02T13:15:14.397534+00:00",
+  "processed_at": "2026-05-02T13:15:14.395813+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 1352312,
+    "hot_score": 1172898,
     "platform": "bilibili"
   }
 }
