@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "How to Build, Run, and Scale High-Quality Creator Workflows in ComfyUI",
+  "raw_content": "Creative and visualization teams today produce more assets, in more formats, with leaner teams. Generative AI can accelerate that work – compressing tasks...",
+  "source_url": "https://developer.nvidia.com/blog/how-to-build-run-and-scale-high-quality-creator-workflows-in-comfyui/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-30T16:16:04+00:00",
+  "id": "4d98d7ce-60a6-42c4-8f34-f07a14ebbfad",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T03:37:42.846430+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}

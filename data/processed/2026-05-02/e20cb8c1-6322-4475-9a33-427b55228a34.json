@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Build with DeepSeek V4 Using NVIDIA Blackwell and GPU-Accelerated Endpoints",
+  "raw_content": "DeepSeek just launched its fourth generation of flagship models with DeepSeek-V4-Pro and DeepSeek-V4-Flash, both targeted at enabling highly efficient...",
+  "source_url": "https://developer.nvidia.com/blog/build-with-deepseek-v4-using-nvidia-blackwell-and-gpu-accelerated-endpoints/",
+  "source_name": "NVIDIA Developer Blog",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-24T23:29:56+00:00",
+  "id": "e20cb8c1-6322-4475-9a33-427b55228a34",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T03:37:42.925576+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://developer.nvidia.com/blog/feed",
+    "category": "tech",
+    "source_type": "official",
+    "quality_tier": "high",
+    "authority_score": 81
+  }
+}

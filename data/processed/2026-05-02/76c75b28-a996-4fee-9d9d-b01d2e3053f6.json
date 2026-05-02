@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+  "raw_content": "",
+  "source_url": "https://deepmind.google/blog/decoupled-diloco/",
+  "source_name": "DeepMind Blog",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-22T10:20:03+00:00",
+  "id": "76c75b28-a996-4fee-9d9d-b01d2e3053f6",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-02T03:37:42.870114+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://deepmind.com/blog/feed/basic/",
+    "category": "ai",
+    "source_type": "official",
+    "quality_tier": "authoritative",
+    "authority_score": 91
+  }
+}
