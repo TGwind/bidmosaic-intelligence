@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "郑丽文名字在海峡封笺上牵起两岸温度",
+  "raw_content": "郑丽文名字在海峡封笺上牵起两岸温度",
+  "source_url": "https://www.toutiao.com/trending/7634661150979522610/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634661150979522610%22%2C%22hot_board_impr_id%22%3A%222026050403012692226DE8C7AAA4A38E7C%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%83%91%E4%B8%BD%E6%96%87%E5%90%8D%E5%AD%97%E5%9C%A8%E6%B5%B7%E5%B3%A1%E5%B0%81%E7%AC%BA%E4%B8%8A%E7%89%B5%E8%B5%B7%E4%B8%A4%E5%B2%B8%E6%B8%A9%E5%BA%A6%22%7D&rank=&style_id=40132&topic_id=7634661150979522610",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T19:01:27.117283+00:00",
+  "id": "098dcdb9-0a01-4bcb-9007-33d9793e688c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T19:02:14.837384+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "12128944",
+    "platform": "toutiao"
+  }
+}

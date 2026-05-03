@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "西⚡域⚡战⚡神⚡4",
-  "raw_content": "BGM：screwbot factory",
-  "source_url": "https://www.bilibili.com/video/BV1T3RuBuEcZ",
+  "raw_title": "和AI玩猜历史人物游戏，又被它给耍了",
+  "raw_content": "-",
+  "source_url": "https://www.bilibili.com/video/BV1ebREBmEha",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-03T13:13:02.780111+00:00",
-  "id": "c273f88e-df41-4d09-9aa0-664d0de1380b",
+  "collected_at": "2026-05-03T19:01:27.885761+00:00",
+  "id": "8ff87fba-de56-49b1-beac-6f83d0f4a9d3",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-03T19:02:14.857035+00:00",
+  "processed_at": "2026-05-03T19:02:14.854445+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 2624187,
+    "hot_score": 2728336,
     "platform": "bilibili"
   }
 }
