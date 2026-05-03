@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Chairman Atkins Launches 'Material Matters' Podcast",
+  "raw_content": "The Securities and Exchange Commission today announced the launch of Material Matters With SEC Chairman Paul Atkins, a new podcast that provides stakeholders and the investing public with exclusive interviews and insights around the agency’s policy and…",
+  "source_url": "https://www.sec.gov/newsroom/press-releases/2026-39-chairman-atkins-launches-material-matters-podcast",
+  "source_name": "U.S. SEC Press Releases",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-04-16T17:02:47+00:00",
+  "id": "06990210-3ad7-4566-8557-80e2f67f0f4c",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T17:03:17.573553+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.sec.gov/news/pressreleases.rss",
+    "category": "finance",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 95
+  }
+}
