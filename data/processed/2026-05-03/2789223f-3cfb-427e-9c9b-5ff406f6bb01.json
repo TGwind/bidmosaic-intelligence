@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_crypto",
+  "raw_title": "U.S. voters don't trust Trump administration to oversee crypto sector, CoinDesk poll finds",
+  "raw_content": "",
+  "source_url": "https://www.coindesk.com/policy/2026/05/03/u-s-voters-don-t-trust-trump-administration-to-oversee-crypto-sector-coindesk-poll-finds",
+  "source_name": "CoinDesk",
+  "data_type": "news",
+  "domain": "crypto",
+  "collected_at": "2026-05-03T14:00:00+00:00",
+  "id": "2789223f-3cfb-427e-9c9b-5ff406f6bb01",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T20:57:40.057106+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "category": "crypto",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 84
+  }
+}
