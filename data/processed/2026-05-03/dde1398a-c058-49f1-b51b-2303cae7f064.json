@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "486不是罪过",
+  "raw_content": "本来是想着用原音乐的 做着做着听到BV1WEQiBqECh这个 就换成这个了 毕竟我看着昴儿跳舞我自己就低皮质醇了，但是我导出4K60帧崩溃了好几次，看到成品还是很开心 中间两套水手服是手岛nari在4月27画的486想穿的，我直接让她穿上了 辣妹是最新的商品绘 但是有没懂我的，我觉得mv那套黄裤子的486好飒 看的开心 ：）",
+  "source_url": "https://www.bilibili.com/video/BV1fWRTBHEx1",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T13:13:02.780144+00:00",
+  "id": "dde1398a-c058-49f1-b51b-2303cae7f064",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T13:13:48.702236+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1256814,
+    "platform": "bilibili"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "济南午后突刮大风 大树砸中车辆",
+  "raw_content": "济南午后突刮大风 大树砸中车辆",
+  "source_url": "https://www.toutiao.com/trending/7635578926237499443/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227635578926237499443%22%2C%22hot_board_impr_id%22%3A%222026050321130130EF1372492893ADD493%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B5%8E%E5%8D%97%E5%8D%88%E5%90%8E%E7%AA%81%E5%88%AE%E5%A4%A7%E9%A3%8E+%E5%A4%A7%E6%A0%91%E7%A0%B8%E4%B8%AD%E8%BD%A6%E8%BE%86%22%7D&rank=&style_id=40132&topic_id=7635578926237499443",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T13:13:01.896737+00:00",
+  "id": "487b01e0-d55e-47d8-8eb6-a246a7e1c815",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T13:13:48.694737+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "27860192",
+    "platform": "toutiao"
+  }
+}

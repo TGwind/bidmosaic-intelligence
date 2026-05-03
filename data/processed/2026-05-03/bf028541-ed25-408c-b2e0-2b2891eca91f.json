@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "孙俪：我们家的狗装死把邓超吓晕了",
+  "raw_content": "孙俪：我们家的狗装死把邓超吓晕了",
+  "source_url": "https://www.toutiao.com/trending/7635542540862832666/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227635542540862832666%22%2C%22hot_board_impr_id%22%3A%222026050321130130EF1372492893ADD493%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%99%E4%BF%AA%EF%BC%9A%E6%88%91%E4%BB%AC%E5%AE%B6%E7%9A%84%E7%8B%97%E8%A3%85%E6%AD%BB%E6%8A%8A%E9%82%93%E8%B6%85%E5%90%93%E6%99%95%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7635542540862832666",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T13:13:01.896785+00:00",
+  "id": "bf028541-ed25-408c-b2e0-2b2891eca91f",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T13:13:48.701015+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "15289997",
+    "platform": "toutiao"
+  }
+}

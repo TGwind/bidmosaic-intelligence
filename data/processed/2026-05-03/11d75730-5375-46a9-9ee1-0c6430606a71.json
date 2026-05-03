@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "线条重现中式美学世界",
+  "raw_title": "这一分半我录了3个月，能火吗？",
   "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1KX9xBHE42",
+  "source_url": "https://www.bilibili.com/video/BV1v49YBHESJ",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-03T03:21:37.283996+00:00",
-  "id": "1cb23f21-6d5e-4f63-8243-b2e0f38d157f",
+  "collected_at": "2026-05-03T13:13:02.779984+00:00",
+  "id": "11d75730-5375-46a9-9ee1-0c6430606a71",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-03T13:13:48.690378+00:00",
+  "processed_at": "2026-05-03T13:13:48.689641+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7130121,
+    "hot_score": 2743517,
     "platform": "bilibili"
   }
 }

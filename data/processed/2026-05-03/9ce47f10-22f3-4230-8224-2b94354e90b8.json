@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "线条重现中式美学世界",
-  "raw_content": "-",
-  "source_url": "https://www.bilibili.com/video/BV1KX9xBHE42",
+  "raw_title": "当用学历代表网文中的战力境界【小明修仙传1-4合集】",
+  "raw_content": "第五集要晚点，月底了，先发个合集。",
+  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEGP",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-03T03:21:37.283996+00:00",
-  "id": "1cb23f21-6d5e-4f63-8243-b2e0f38d157f",
+  "collected_at": "2026-05-03T13:13:02.780052+00:00",
+  "id": "9ce47f10-22f3-4230-8224-2b94354e90b8",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-03T13:13:48.690378+00:00",
+  "processed_at": "2026-05-03T13:13:48.701935+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 7130121,
+    "hot_score": 3742022,
     "platform": "bilibili"
   }
 }
