@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "西⚡域⚡战⚡神⚡4",
+  "raw_content": "BGM：screwbot factory",
+  "source_url": "https://www.bilibili.com/video/BV1T3RuBuEcZ",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T13:13:02.780111+00:00",
+  "id": "c273f88e-df41-4d09-9aa0-664d0de1380b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 2624187,
+    "platform": "bilibili"
+  }
+}
