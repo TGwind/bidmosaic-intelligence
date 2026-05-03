@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "当用学历代表网文中的战力境界【小明修仙传1-4合集】",
-  "raw_content": "第五集要晚点，月底了，先发个合集。",
-  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEGP",
+  "raw_title": "夏天煎饼无限流《ENEMY》民国篇",
+  "raw_content": "演尽忠良几十春 一夜真作戏中人 明朝烽火今朝月 不负当初拜师门",
+  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEq7",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-03T03:21:37.284045+00:00",
-  "id": "ea6f816d-9c65-420d-8dc5-1a2f20a4e8a9",
+  "collected_at": "2026-05-03T08:02:43.283990+00:00",
+  "id": "561874c9-1f59-4a03-b49e-c70ea691f638",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-03T08:03:29.262782+00:00",
+  "processed_at": "2026-05-03T08:03:29.256757+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3460678,
+    "hot_score": 1783570,
     "platform": "bilibili"
   }
 }

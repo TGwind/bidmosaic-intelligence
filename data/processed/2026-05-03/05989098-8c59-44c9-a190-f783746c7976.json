@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "旧金山街头吸毒者呈现丧尸般状态",
+  "raw_content": "旧金山街头吸毒者呈现丧尸般状态",
+  "source_url": "https://www.toutiao.com/trending/7634715072942096411/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634715072942096411%22%2C%22hot_board_impr_id%22%3A%22202605031602419B5E2622150F72F45357%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%90%B8%E6%AF%92%E8%80%85%E5%91%88%E7%8E%B0%E4%B8%A7%E5%B0%B8%E8%88%AC%E7%8A%B6%E6%80%81%22%7D&rank=&style_id=40132&topic_id=7634715072942096411",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T08:02:42.217009+00:00",
+  "id": "05989098-8c59-44c9-a190-f783746c7976",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T08:03:29.249811+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "14949066",
+    "platform": "toutiao"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "日未宣战侵华不叫战争？重温灵魂拷问",
+  "raw_content": "日未宣战侵华不叫战争？重温灵魂拷问",
+  "source_url": "https://www.toutiao.com/trending/7634485442179616297/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634485442179616297%22%2C%22hot_board_impr_id%22%3A%22202605031602419B5E2622150F72F45357%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AA%E5%AE%A3%E6%88%98%E4%BE%B5%E5%8D%8E%E4%B8%8D%E5%8F%AB%E6%88%98%E4%BA%89%EF%BC%9F%E9%87%8D%E6%B8%A9%E7%81%B5%E9%AD%82%E6%8B%B7%E9%97%AE%22%7D&rank=&style_id=40132&topic_id=7634485442179616297",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T08:02:42.216977+00:00",
+  "id": "7522d0c5-14ab-4ca4-9d72-cbb7119b5ac9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T08:03:29.259376+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "22301386",
+    "platform": "toutiao"
+  }
+}

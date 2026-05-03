@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "张雪发文回应再夺冠",
+  "raw_content": "张雪发文回应再夺冠",
+  "source_url": "https://www.toutiao.com/trending/7634701740537757732/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227634701740537757732%22%2C%22hot_board_impr_id%22%3A%22202605031602419B5E2622150F72F45357%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E5%86%8D%E5%A4%BA%E5%86%A0%22%7D&rank=&style_id=40132&topic_id=7634701740537757732",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T08:02:42.217001+00:00",
+  "id": "02768a94-c464-4286-8ff2-fcd5dc607f25",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T08:03:29.251392+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "16521273",
+    "platform": "toutiao"
+  }
+}

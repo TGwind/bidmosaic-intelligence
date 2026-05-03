@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_bilibili",
-  "raw_title": "当用学历代表网文中的战力境界【小明修仙传1-4合集】",
-  "raw_content": "第五集要晚点，月底了，先发个合集。",
-  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEGP",
+  "raw_title": "梓渝“游”点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
+  "raw_content": "时光溯洄，浪声回响，每一秒的记忆，都值得珍藏。",
+  "source_url": "https://www.bilibili.com/video/BV1t29vBjEcU",
   "source_name": "B站热门",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-03T03:21:37.284045+00:00",
-  "id": "ea6f816d-9c65-420d-8dc5-1a2f20a4e8a9",
+  "collected_at": "2026-05-03T08:02:43.283955+00:00",
+  "id": "b5ee1d1c-22cc-4efc-a145-1a336d8327fc",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-03T08:03:29.262782+00:00",
+  "processed_at": "2026-05-03T08:03:29.261128+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 65,
-    "hot_score": 3460678,
+    "hot_score": 1576325,
     "platform": "bilibili"
   }
 }

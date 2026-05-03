@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "DECO*27 - Love Para feat. Hatsune Miku",
+  "raw_content": "“CM(Cute Maiden)’s Field…full power!” Lyrics & Music: DECO*27 Arrangement: DECO*27 & Hayato Yamamoto English Voice: Kevin Movie by OTOIRO Director: lowpolydog Illustrator: HASSAN Animator: nakuri Art Director / Graphic Designer: lowpolydog SD Illustrato",
+  "source_url": "https://www.bilibili.com/video/BV15PoUBNEGt",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T08:02:43.284024+00:00",
+  "id": "5eb9df31-b363-45ce-983f-b497aafeb08b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T08:03:29.263089+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 573583,
+    "platform": "bilibili"
+  }
+}

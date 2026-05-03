@@ -1,19 +1,19 @@
 {
   "source_pipeline": "trending_toutiao",
-  "raw_title": "各地特色文旅活动点亮假期生活",
-  "raw_content": "各地特色文旅活动点亮假期生活",
-  "source_url": "https://www.toutiao.com/article/7635404667744404031",
+  "raw_title": "消费市场新增量持续涌现",
+  "raw_content": "消费市场新增量持续涌现",
+  "source_url": "https://www.toutiao.com/article/7635493950782046746",
   "source_name": "今日头条",
   "data_type": "news",
   "domain": "general",
-  "collected_at": "2026-05-03T03:21:36.612076+00:00",
-  "id": "4814fa9d-54e5-4b9c-96e4-4dd22f932042",
+  "collected_at": "2026-05-03T08:02:42.216925+00:00",
+  "id": "a49de1e8-95de-4874-9813-74a95a01e8d6",
   "generated_title": "",
   "generated_summary": "",
   "generated_analysis": "",
   "tags": [],
   "importance_score": 0,
-  "processed_at": "2026-05-03T08:03:29.256360+00:00",
+  "processed_at": "2026-05-03T08:03:29.261533+00:00",
   "market_data": {
     "symbols": [],
     "price_change": {},
@@ -23,7 +23,7 @@
     "source_type": "trending",
     "quality_tier": "secondary",
     "authority_score": 72,
-    "hot_score": "31400802",
+    "hot_score": "40635776",
     "platform": "toutiao"
   }
 }
