@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "当用学历代表网文中的战力境界【小明修仙传1-4合集】",
+  "raw_content": "第五集要晚点，月底了，先发个合集。",
+  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEGP",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T03:21:37.284045+00:00",
+  "id": "ea6f816d-9c65-420d-8dc5-1a2f20a4e8a9",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 3460678,
+    "platform": "bilibili"
+  }
+}
