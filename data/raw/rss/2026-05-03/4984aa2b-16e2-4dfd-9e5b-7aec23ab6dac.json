@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_policy",
+  "raw_title": "Adapting Zero Trust Principles to Operational Technology",
+  "raw_content": "<p><a class=\"c-button\" href=\"https://www.cisa.gov/sites/default/files/2026-04/joint-guide-adapting-zero-trust-principles-to-operational-technology_508c.pdf\">Adapting Zero Trust Principles to Operational Technology</a></p>\n<p>CISA, in coordination with the Department of War, Department of Energy, Federal Bureau of Investigation, and Department of State, released <a href=\"https://www.cisa.gov/sites/default/files/2026-04/joint-guide-adapting-zero-trust-principles-to-operational-technology_508c.pdf\">Adapting Zero Trust Principles to Operational Technology</a>, joint guidance for organizations applying zero trust (ZT) principles to operational technology (OT). Zero trust is a modern, adaptive approach to cybersecurity that eliminates implicit trust and requires continuously validating access based on identity, context, and risk.</p>\n<p>With advancements in technology, OT systems that were traditionally isolated or manually operated are now increasingly interconnected, digitally monitored, and remotely controlled. This IT-OT convergence introduces new cybersecurity risks that make perimeter-based defenses and implicit trust models inadequate for safeguarding OT systems and the critical physical processes they control.</p>\n<p>This guidance supports OT owners and operators in addressing the unique challenges of transitioning to a ZT architecture, considering technology gaps from legacy infrastructure, operational constraints, and safety requirements. It focuses on establishing comprehensive asset visibility, proactively addressing supply chain risks, and implementing robust identity and access management while stressing the importance of layered security measures—including network segmentation, secure communication protocols, and vulnerability management.</p>\n<p>To learn more about ZT principles, visit<a href=\"https://www.cisa.gov/topics/cybersecurity-best-practices/zero-trust\"> Zero Trust</a> &nbsp;<br />&nbsp;</p>\n<div class=\"c-text-cta\">\n<div class=\"l-constrain c-text-cta__inner\">\n<div class=\"c-text-cta__content\">\n<h2>CISA Product Survey</h2>\n<div class=\"c-text-cta__summary\">\n<p>We welcome your feedback.</p>\n</div>\n<p><a class=\"c-button c-button--on-dark\" href=\"https://cisasurvey.gov1.qualtrics.com/jfe/form/SV_9n4TtB8uttUPaM6?product=https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology\">CISA Product Survey</a></p>\n</div>\n</div>\n</div>\n<p>&nbsp;</p>",
+  "source_url": "https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology",
+  "source_name": "CISA Cybersecurity Advisories",
+  "data_type": "news",
+  "domain": "policy",
+  "collected_at": "2026-04-29T12:00:00+00:00",
+  "id": "4984aa2b-16e2-4dfd-9e5b-7aec23ab6dac",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+    "category": "policy",
+    "source_type": "regulator",
+    "quality_tier": "authoritative",
+    "authority_score": 94
+  }
+}
