@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "Christine Lagarde, Luis de Guindos: ECB press conference - introductory statement",
+  "raw_content": "Introductory statement by Ms Christine Lagarde, President of the European Central Bank, and Mr Luis de Guindos, Vice-President of the European Central Bank, Frankfurt am Main, 30 April 2026.",
+  "source_url": "https://www.bis.org/review/r260430c.htm",
+  "source_name": "BIS Central Bank Speeches",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2026-05-03T13:27:39.787126+00:00",
+  "id": "7457a5a0-15d6-4af3-999a-74d6a564c519",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.bis.org/doclist/cbspeeches.rss",
+    "category": "finance",
+    "source_type": "international_financial_org",
+    "quality_tier": "authoritative",
+    "authority_score": 90
+  }
+}
