@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_ai",
+  "raw_title": "LWiAI Podcast #242 - ChatGPT Images 2.0, Qwen 3.6 Max, Kimi-K2.6",
+  "raw_content": "ChatGPT&#8217;s new Images 2.0 model is surprisingly good at generating text , Alibaba Drops Qwen 3.6 Max Preview , SpaceX is working with Cursor",
+  "source_url": "https://lastweekin.ai/p/lwiai-podcast-242-chatgpt-images",
+  "source_name": "Last Week in AI",
+  "data_type": "news",
+  "domain": "ai",
+  "collected_at": "2026-04-30T07:14:45+00:00",
+  "id": "9890e9d2-7456-4c4c-80af-41a34f3c6fc4",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T06:35:50.876572+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://lastweekin.ai/feed",
+    "category": "ai",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 78
+  }
+}

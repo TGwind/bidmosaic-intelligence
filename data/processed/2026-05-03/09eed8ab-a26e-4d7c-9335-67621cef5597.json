@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_finance",
+  "raw_title": "旅日大熊猫“晓晓”“蕾蕾”将于明年1月回国",
+  "raw_content": "今日，日本东京都政府发布消息称，旅居日本东京上野动物园的大熊猫“晓晓”“蕾蕾”将于2026年1月下旬送还中国。最终参观日为2026年1月25日。",
+  "source_url": "https://www.thepaper.cn/newsDetail_forward_32178397",
+  "source_name": "澎湃新闻",
+  "data_type": "news",
+  "domain": "finance",
+  "collected_at": "2025-12-15T06:53:04+00:00",
+  "id": "09eed8ab-a26e-4d7c-9335-67621cef5597",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T06:35:50.776238+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://feedx.net/rss/thepaper.xml",
+    "category": "china_finance",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 80
+  }
+}
