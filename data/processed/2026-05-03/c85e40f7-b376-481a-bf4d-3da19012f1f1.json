@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "rss_tech",
+  "raw_title": "Podcast: How This Trippy Image Started A Massive Conspiracy Theory",
+  "raw_content": "A magic eye that isn't, an AI learning tool that sucks, and more in this week's podcast.",
+  "source_url": "https://www.404media.co/podcast-how-this-trippy-image-started-a-massive-conspiracy-theory/",
+  "source_name": "404 Media",
+  "data_type": "news",
+  "domain": "tech",
+  "collected_at": "2026-04-29T12:56:30+00:00",
+  "id": "c85e40f7-b376-481a-bf4d-3da19012f1f1",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T09:29:02.727591+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "feed_url": "https://www.404media.co/rss",
+    "category": "tech",
+    "source_type": "media",
+    "quality_tier": "high",
+    "authority_score": 79
+  }
+}
