@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_toutiao",
+  "raw_title": "猫把死老鼠排好晒太阳",
+  "raw_content": "猫把死老鼠排好晒太阳",
+  "source_url": "https://www.toutiao.com/trending/7635192888859230235/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227635192888859230235%22%2C%22hot_board_impr_id%22%3A%2220260503112136F8E2FF255C8C7AB56F55%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%8C%AB%E6%8A%8A%E6%AD%BB%E8%80%81%E9%BC%A0%E6%8E%92%E5%A5%BD%E6%99%92%E5%A4%AA%E9%98%B3%22%7D&rank=&style_id=40132&topic_id=7635192888859230235",
+  "source_name": "今日头条",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T03:21:36.612104+00:00",
+  "id": "c7f70a59-a188-4494-8dec-64c20d5b8963",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T03:22:21.250280+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 72,
+    "hot_score": "23262286",
+    "platform": "toutiao"
+  }
+}

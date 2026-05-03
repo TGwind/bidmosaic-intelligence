@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "终章！帝皇初临，1500年前的最终决战！（AI铠甲勇士外传微电影）",
+  "raw_content": "古代铠甲勇士完结篇，1500年前的故事结局。",
+  "source_url": "https://www.bilibili.com/video/BV1iw9aBSE5B",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T03:21:37.284070+00:00",
+  "id": "8505d786-1769-4869-bff8-e9a48c86b4d2",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T03:22:21.247428+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 864291,
+    "platform": "bilibili"
+  }
+}

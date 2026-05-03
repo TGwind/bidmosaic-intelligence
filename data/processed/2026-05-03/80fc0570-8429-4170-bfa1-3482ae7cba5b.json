@@ -1,0 +1,29 @@
+{
+  "source_pipeline": "trending_bilibili",
+  "raw_title": "夏天煎饼无限流《ENEMY》民国篇",
+  "raw_content": "演尽忠良几十春 一夜真作戏中人 明朝烽火今朝月 不负当初拜师门",
+  "source_url": "https://www.bilibili.com/video/BV1Mo98BNEq7",
+  "source_name": "B站热门",
+  "data_type": "news",
+  "domain": "general",
+  "collected_at": "2026-05-03T03:21:37.284020+00:00",
+  "id": "80fc0570-8429-4170-bfa1-3482ae7cba5b",
+  "generated_title": "",
+  "generated_summary": "",
+  "generated_analysis": "",
+  "tags": [],
+  "importance_score": 0,
+  "processed_at": "2026-05-03T03:22:21.248087+00:00",
+  "market_data": {
+    "symbols": [],
+    "price_change": {},
+    "indicators": {}
+  },
+  "metadata": {
+    "source_type": "trending",
+    "quality_tier": "secondary",
+    "authority_score": 65,
+    "hot_score": 1703378,
+    "platform": "bilibili"
+  }
+}
